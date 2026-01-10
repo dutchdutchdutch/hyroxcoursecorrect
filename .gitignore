@@ -1,0 +1,28 @@
+# Python dependencies
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Environment and credentials
+.env
+credentials.json
+token.json
+
+# Temporary data files
+.tmp/
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Output files (regenerated)
+*.png
+*.jpg
+*.pdf
+!docs/*.png
