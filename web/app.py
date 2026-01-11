@@ -255,6 +255,48 @@ def analysis():
                              num_venues=2)
 
 
+
+
+@app.route('/statistics')
+def statistics():
+    """Render detailed statistics table page."""
+    results_file = PROJECT_ROOT / 'data' / 'hyrox_9venues_100each.csv'
+    
+    if results_file.exists():
+        df = pd.read_csv(results_file)
+        
+        # Calculate detailed statistics for each venue
+        stats_data = []
+        
+        for venue, handicap in sorted(VENUE_HANDICAPS.items(), key=lambda x: x[1]):
+            venue_times = df[df['venue'] == venue]['finish_seconds'].tolist()
+            
+            if venue_times:
+                sorted_times = sorted(venue_times)
+                stats_data.append({
+                    'name': venue,
+                    'count': len(venue_times),
+                    'fastest': format_time(min(venue_times)),
+                    'slowest': format_time(max(venue_times)),
+                    'average': format_time(sum(venue_times) / len(venue_times)),
+                    'benchmark': format_time(sorted_times[len(sorted_times) // 2]),
+                    'std_dev': format_time(pd.Series(venue_times).std()),
+                    'handicap': handicap,
+                    'difficulty': 'Reference' if handicap == 1.0 else f'{(handicap - 1) * 100:+.1f}%'
+                })
+        
+        return render_template('statistics.html',
+                             stats_data=stats_data,
+                             total_athletes=len(df),
+                             num_venues=len(VENUE_HANDICAPS))
+    else:
+        # No data available
+        return render_template('statistics.html',
+                             stats_data=[],
+                             total_athletes=0,
+                             num_venues=0)
+
+
 if __name__ == '__main__':
     # Run in debug mode for development
     app.run(debug=True, host='127.0.0.1', port=5000)

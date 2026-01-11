@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Venue Statistics - HYROX Course Correct</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>🏃 HYROX Course Correct</h1>
+            <p class="subtitle">Detailed Venue Statistics</p>
+        </header>
+
+        <nav class="nav-tabs">
+            <a href="/" class="nav-tab">Time Converter</a>
+            <a href="/analysis" class="nav-tab">Venue Analysis</a>
+            <a href="/statistics" class="nav-tab active">Statistics</a>
+        </nav>
+
+        <main>
+            <div class="card">
+                <h2>Venue Performance Statistics</h2>
+                <p class="description">
+                    Detailed metrics for each venue based on <strong>top 80% of finishers</strong> ({{ total_athletes }}
+                    total athletes across {{ num_venues }} venues).
+                    All times shown in h:mm:ss format.
+                </p>
+
+                {% if stats_data %}
+                <div class="table-container">
+                    <table class="stats-table">
+                        <thead>
+                            <tr>
+                                <th>Rank</th>
+                                <th>Venue</th>
+                                <th>Sample Size</th>
+                                <th>Fastest Time</th>
+                                <th>Slowest Time</th>
+                                <th>Average</th>
+                                <th>Venue Benchmark</th>
+                                <th>Std Dev</th>
+                                <th>Difficulty</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for stat in stats_data %}
+                            <tr>
+                                <td class="rank-cell">{{ loop.index }}</td>
+                                <td class="venue-cell"><strong>{{ stat.name }}</strong></td>
+                                <td>{{ stat.count }}</td>
+                                <td>{{ stat.fastest }}</td>
+                                <td>{{ stat.slowest }}</td>
+                                <td>{{ stat.average }}</td>
+                                <td class="benchmark-cell"><strong>{{ stat.benchmark }}</strong></td>
+                                <td>{{ stat.std_dev }}</td>
+                                <td class="difficulty-cell">
+                                    {% if stat.difficulty == 'Reference' %}
+                                    <span class="badge reference">{{ stat.difficulty }}</span>
+                                    {% else %}
+                                    <span class="badge">{{ stat.difficulty }}</span>
+                                    {% endif %}
+                                </td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+                {% else %}
+                <p class="no-data">No statistics data available. Please run the data processing pipeline first.</p>
+                {% endif %}
+            </div>
+
+            <div class="info-card">
+                <h3>Understanding the Statistics</h3>
+                <ul>
+                    <li><strong>Sample Size:</strong> Number of athletes included (top 80% of finishers)</li>
+                    <li><strong>Fastest/Slowest Time:</strong> Range of finish times at this venue</li>
+                    <li><strong>Average:</strong> Mean finish time across all athletes</li>
+                    <li><strong>Venue Benchmark:</strong> Median finish time (50th percentile)</li>
+                    <li><strong>Std Dev:</strong> Standard deviation showing time consistency</li>
+                    <li><strong>Difficulty:</strong> Percentage faster (-) or slower (+) than reference venue</li>
+                </ul>
+                <p style="margin-top: 1rem;">
+                    <strong>Note:</strong> Data includes only the top 80% of finishers to exclude slow outliers and
+                    ensure
+                    accurate venue comparisons. Lower standard deviation indicates more consistent finish times.
+                </p>
+            </div>
+        </main>
+
+        <footer>
+            <p>Built with ❤️ for the HYROX community | Season 8 (2025/2026)</p>
+        </footer>
+    </div>
+
+    <style>
+        .table-container {
+            overflow-x: auto;
+            margin: 1.5rem 0;
+        }
+
+        .stats-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.9rem;
+        }
+
+        .stats-table thead {
+            background-color: #004E89;
+            color: white;
+        }
+
+        .stats-table th {
+            padding: 0.75rem;
+            text-align: left;
+            font-weight: 600;
+            white-space: nowrap;
+        }
+
+        .stats-table tbody tr {
+            border-bottom: 1px solid #E1E8ED;
+        }
+
+        .stats-table tbody tr:hover {
+            background-color: #F7F9FC;
+        }
+
+        .stats-table td {
+            padding: 0.75rem;
+        }
+
+        .rank-cell {
+            text-align: center;
+            font-weight: 600;
+            color: #004E89;
+        }
+
+        .venue-cell {
+            min-width: 180px;
+        }
+
+        .benchmark-cell {
+            background-color: #FFF9E6;
+            color: #004E89;
+        }
+
+        .difficulty-cell {
+            text-align: center;
+        }
+
+        .no-data {
+            text-align: center;
+            padding: 2rem;
+            color: #666;
+            font-style: italic;
+        }
+
+        @media (max-width: 768px) {
+            .stats-table {
+                font-size: 0.8rem;
+            }
+
+            .stats-table th,
+            .stats-table td {
+                padding: 0.5rem;
+            }
+        }
+    </style>
+</body>
+
+</html>
