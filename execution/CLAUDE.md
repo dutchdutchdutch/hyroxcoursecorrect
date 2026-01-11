@@ -16,6 +16,20 @@ You operate within a 3-layer architecture that separates concerns to maximize re
 - Read directives, call execution tools in the right order, handle errors, ask for clarification, update directives with learnings
 - You're the glue between intent and execution. E.g you don't try scraping websites yourself—you read `directives/scrape_scores.md` and come up with inputs/outputs and then run `execution/scrape_scores.py`
 
+### Directives vs Orchestration
+
+| Aspect  | PRD (Directive) | Orchestration             |
+| ------- | --------------- | ------------------------- |
+| Purpose | What & why      | How & when                |
+| Scope   | Stable          | Contextual                |
+| Inputs  | Assumed         | Normalized                |
+| Flow    | Implied         | Explicit                  |
+| Errors  | Not addressed   | Handled                   |
+| Tools   | Abstract        | Routed                    |
+| Output  | Required fields | Ordered, trimmed, adapted |
+
+
+
 **Layer 3: Execution (Doing the work)**
 - Deterministic Python scripts in `execution/`
 - Environment variables, api tokens, etc are stored in `.env`

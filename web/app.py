@@ -8,162 +8,56 @@ gender-specific course correction factors.
 
 from flask import Flask, render_template, request, jsonify
 import pandas as pd
-import json
 from pathlib import Path
 import os
 
+# Import utility functions
+from utils import (
+    load_venue_corrections,
+    get_baseline_venue,
+    calculate_percentage_correction,
+    format_correction,
+    parse_time_to_seconds,
+    format_time,
+    BASELINE_MEN_MEDIAN,
+    BASELINE_WOMEN_MEDIAN
+)
+
 app = Flask(__name__)
 
-# Get the project root directory (parent of web/)
-PROJECT_ROOT = Path(__file__).parent.parent
-
-# Load gender-specific venue course corrections
-CORRECTIONS_FILE = PROJECT_ROOT / 'data' / 'venue_handicaps_by_gender.json'
-
-def load_venue_corrections():
-    """Load gender-specific venue course correction factors from JSON."""
-    if CORRECTIONS_FILE.exists():
-        with open(CORRECTIONS_FILE, 'r') as f:
-            return json.load(f)
-    else:
-        # Fallback corrections if file not found (in seconds)
-        return {
-            'men': {
-                'London Excel 2025': -754.0,
-                'Bordeaux 2025': -477.0,
-                'Dublin 2025': -464.5,
-                'Valencia 2025': -128.5,
-                'Frankfurt 2025': -84.5,
-                'Maastricht 2025': 0.0,
-                'Utrecht 2025': 20.0,
-                'Chicago 2025': 244.0,
-                'Anaheim 2025': 346.5,
-                'Atlanta 2025': 421.5
-            },
-            'women': {
-                'London Excel 2025': -787.0,
-                'Bordeaux 2025': -149.0,
-                'Dublin 2025': -288.0,
-                'Valencia 2025': -136.0,
-                'Frankfurt 2025': -53.0,
-                'Maastricht 2025': 0.0,
-                'Utrecht 2025': 39.0,
-                'Chicago 2025': -49.0,
-                'Anaheim 2025': 260.0,
-                'Atlanta 2025': 103.0
-            }
-        }
-
-def get_baseline_venue(corrections):
-    """
-    Identify the baseline venue (correction = 0.0 for men).
-    This is the median-difficulty venue used as reference.
-    """
-    men_corrections = corrections['men']
-    # Find venue with correction closest to 0.0
-    baseline_venue = min(men_corrections.items(), key=lambda x: abs(x[1]))[0]
-    return baseline_venue
-
-def calculate_percentage_correction(correction_seconds, baseline_median_seconds):
-    """
-    Calculate percentage-based course correction with INVERTED logic.
-    
-    Inverted logic means:
-    - Faster venues (negative time correction) = POSITIVE percentage (you add time to baseline)
-    - Slower venues (positive time correction) = NEGATIVE percentage (you subtract time from baseline)
-    
-    This is more intuitive from an athlete's perspective:
-    "If I run at Bordeaux (fast course), I need to add X% to my baseline time"
-    
-    Args:
-        correction_seconds: Time correction in seconds (negative = faster, positive = slower)
-        baseline_median_seconds: Median finish time at baseline venue in seconds
-    
-    Returns:
-        Percentage correction (inverted sign)
-    """
-    if baseline_median_seconds == 0:
-        return 0.0
-    
-    # Invert the sign: negative time correction becomes positive percentage
-    percentage = -(correction_seconds / baseline_median_seconds) * 100
-    return percentage
-
-def format_correction(correction_percentage):
-    """
-    Format course correction percentage to a user-friendly string.
-    
-    Args:
-        correction_percentage: Correction value as percentage (can be negative or positive)
-    
-    Returns:
-        Formatted string like "+5.2%" or "-3.1%"
-    """
-    if abs(correction_percentage) < 0.05:
-        return "0.0%"
-    
-    sign = "+" if correction_percentage > 0 else ""
-    return f"{sign}{correction_percentage:.1f}%"
-
-# Baseline median times (in seconds) for percentage calculations
-# These are the median finish times at Maastricht 2025 (baseline venue)
-BASELINE_MEN_MEDIAN = 4800.0  # 80 minutes
-BASELINE_WOMEN_MEDIAN = 5526.0  # 92.1 minutes
-
+# Load venue corrections and identify baseline
 VENUE_CORRECTIONS = load_venue_corrections()
 BASELINE_VENUE = get_baseline_venue(VENUE_CORRECTIONS)
 VENUES = sorted(list(set(list(VENUE_CORRECTIONS['men'].keys()) + list(VENUE_CORRECTIONS['women'].keys()))))
 
-
-def parse_time_to_seconds(time_str):
-    """Parse time string (HH:MM:SS or MM:SS) to seconds."""
-    parts = time_str.strip().split(':')
-    
-    try:
-        if len(parts) == 3:  # HH:MM:SS
-            hours, minutes, seconds = map(int, parts)
-            return hours * 3600 + minutes * 60 + seconds
-        elif len(parts) == 2:  # MM:SS
-            minutes, seconds = map(int, parts)
-            return minutes * 60 + seconds
-        else:
-            return None
-    except ValueError:
-        return None
+# Get the project root directory (parent of web/)
+PROJECT_ROOT = Path(__file__).parent.parent
 
 
-def format_time(seconds):
-    """Convert seconds to HH:MM:SS format."""
-    if seconds is None:
-        return ""
-    
-    hours = int(seconds // 3600)
-    minutes = int((seconds % 3600) // 60)
-    secs = int(seconds % 60)
-    
-    return f"{hours:02d}:{minutes:02d}:{secs:02d}"
-
-
-def convert_time(time_seconds, from_venue, to_venue):
+def convert_time(time_seconds, from_venue, to_venue, gender='M'):
     """
-    Convert finish time from one venue to another.
+    Convert finish time from one venue to another using additive corrections.
     
     Args:
         time_seconds: Finish time in seconds
         from_venue: Source venue name
         to_venue: Target venue name
+        gender: 'M' for men or 'W' for women
     
     Returns:
         Converted time in seconds
     """
-    from_handicap = VENUE_HANDICAPS.get(from_venue, 1.0)
-    to_handicap = VENUE_HANDICAPS.get(to_venue, 1.0)
+    gender_key = 'men' if gender == 'M' else 'women'
+    corrections = VENUE_CORRECTIONS[gender_key]
     
-    # Normalize to reference venue, then apply target venue handicap
-    normalized_time = time_seconds / from_handicap
-    converted_time = normalized_time * to_handicap
+    from_correction = corrections.get(from_venue, 0.0)
+    to_correction = corrections.get(to_venue, 0.0)
+    
+    # Remove from_venue correction, then apply to_venue correction
+    converted_time = time_seconds - from_correction + to_correction
     
     return converted_time
+
 
 
 @app.route('/')

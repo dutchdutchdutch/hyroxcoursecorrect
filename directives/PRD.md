@@ -251,9 +251,10 @@ DONE: Validated 12/10/2025
   - If a database is better than csv at this scale, switch to database. Use standard python SQLlite
 - ✅ Additional handicap clarication and validation:
   - Ability to seperate womens and mens results but keep the aggregated results
+  - Explanation of why the median is the strongest indicator. main insight(s) or evidence that lead to this conclusion
 - ✅ Venue time distribution chart updates:
-  - on the finsh time axis, convert the seconds to time in hours and minutes h/mm. use 15 minute intervals (900 seconds)
-  - remove the rollovers and just plot the median time in h:mm, right under the median line
+  - on the finsh time axis, convert the seconds to time in hours and minutes h/mm. use 10-minute intervals (600 seconds)
+  - remove the rollovers and just plot the median time in h:mm (hours and minutes), right under the median line
   - add a simple legend directly near the chart explaining the plotter items mean, median, wider standard deviation area
   - Add an additional table on it's own page with results pulled per venue (clarify it's just the top 80%), fastest time, slowest time, number of scores pulled. mean, median, and standard deviations)
   - Rename  mean to average in the chart legend and the table (more user friendly). Rename median to Venue Benchmark in the chart legend and the table (more user friendly)
