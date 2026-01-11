@@ -1,0 +1,76 @@
+{
+    "season_8_2025_2026": {
+        "anaheim": {
+            "event_id": "H_LR3MS4JI11AC",
+            "name": "Anaheim 2025",
+            "location": "Anaheim, CA, USA",
+            "region": "North America"
+        },
+        "london": {
+            "event_id": "H_Excel25_OVERALL",
+            "name": "London Excel 2025",
+            "location": "London, UK",
+            "region": "Europe"
+        },
+        "boston": {
+            "event_id": "H_BOSTON25_OVERALL",
+            "name": "Boston 2025",
+            "location": "Boston, MA, USA",
+            "region": "North America"
+        },
+        "atlanta": {
+            "event_id": "H_Atlanta25_OVERALL",
+            "name": "Atlanta 2025",
+            "location": "Atlanta, GA, USA",
+            "region": "North America"
+        },
+        "chicago": {
+            "event_id": "H_Chicago25_OVERALL",
+            "name": "Chicago 2025",
+            "location": "Chicago, IL, USA",
+            "region": "North America"
+        },
+        "utrecht": {
+            "event_id": "H_Utrecht2025_OVERALL",
+            "name": "Utrecht 2025",
+            "location": "Utrecht, Netherlands",
+            "region": "Europe"
+        },
+        "maastricht": {
+            "event_id": "H_MAASTRICHT25_OVERALL",
+            "name": "Maastricht 2025",
+            "location": "Maastricht, Netherlands",
+            "region": "Europe"
+        },
+        "frankfurt": {
+            "event_id": "HWC_FRA25_OVERALL",
+            "name": "Frankfurt 2025",
+            "location": "Frankfurt, Germany",
+            "region": "Europe"
+        },
+        "bordeaux": {
+            "event_id": "H_Bordeaux25_OVERALL",
+            "name": "Bordeaux 2025",
+            "location": "Bordeaux, France",
+            "region": "Europe"
+        },
+        "seoul": {
+            "event_id": "HWC_Seoul25_OVERALL",
+            "name": "Seoul 2025",
+            "location": "Seoul, South Korea",
+            "region": "Asia"
+        },
+        "dublin": {
+            "event_id": "H_Dublin25_OVERALL",
+            "name": "Dublin 2025",
+            "location": "Dublin, Ireland",
+            "region": "Europe"
+        },
+        "valencia": {
+            "event_id": "H_VLC25_OVERALL",
+            "name": "Valencia 2025",
+            "location": "Valencia, Spain",
+            "region": "Europe"
+        }
+    }
+}

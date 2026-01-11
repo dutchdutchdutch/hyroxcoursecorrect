@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Venue Analysis - HYROX Course Correct</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>🏃 HYROX Course Correct</h1>
+            <p class="subtitle">Venue Performance Analysis</p>
+        </header>
+
+        <nav class="nav-tabs">
+            <a href="/" class="nav-tab">Time Converter</a>
+            <a href="/analysis" class="nav-tab active">Venue Analysis</a>
+        </nav>
+
+        <main>
+            <div class="card">
+                <h2>Venue Time Distribution</h2>
+                <p class="description">
+                    Box plot showing finish time distributions across venues. This is the primary visual indicator of
+                    course difficulty.
+                </p>
+                <div id="distributionChart"></div>
+            </div>
+
+            <div class="card">
+                <h2>Statistical Summary</h2>
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-label">Fastest Venue</div>
+                        <div class="stat-value">{{ fastest_venue }}</div>
+                        <div class="stat-detail">Reference (1.000)</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-label">Slowest Venue</div>
+                        <div class="stat-value">{{ slowest_venue }}</div>
+                        <div class="stat-detail">{{ slowest_diff }}</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-label">Total Athletes</div>
+                        <div class="stat-value">{{ total_athletes }}</div>
+                        <div class="stat-detail">Across all venues</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-label">Venues Analyzed</div>
+                        <div class="stat-value">{{ num_venues }}</div>
+                        <div class="stat-detail">Season 8 (2025/26)</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <h2>Venue Rankings</h2>
+                <p class="description">
+                    Venues sorted by median finish time (fastest to slowest)
+                </p>
+                <div class="venue-ranking">
+                    {% for venue in venue_stats %}
+                    <div class="ranking-item">
+                        <div class="rank-number">{{ loop.index }}</div>
+                        <div class="rank-info">
+                            <div class="rank-venue">{{ venue.name }}</div>
+                            <div class="rank-stats">
+                                Median: {{ venue.median }} | Mean: {{ venue.mean }} | n={{ venue.count }}
+                            </div>
+                        </div>
+                        <div class="rank-badge">
+                            {% if venue.handicap == 1.0 %}
+                            <span class="badge reference">Reference</span>
+                            {% else %}
+                            <span class="badge">{{ venue.difficulty }}</span>
+                            {% endif %}
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <div class="info-card">
+                <h3>Understanding the Chart</h3>
+                <ul>
+                    <li><strong>Box:</strong> Middle 50% of finish times (25th to 75th percentile)</li>
+                    <li><strong>Line in Box:</strong> Median finish time</li>
+                    <li><strong>Whiskers:</strong> Range of typical finish times (excluding outliers)</li>
+                    <li><strong>Dots:</strong> Individual outlier performances</li>
+                </ul>
+                <p style="margin-top: 1rem;">
+                    Venues with higher median times are more difficult. The width of the box shows consistency—
+                    narrower boxes indicate more consistent finish times.
+                </p>
+            </div>
+        </main>
+
+        <footer>
+            <p>Built with ❤️ for the HYROX community | Season 8 (2025/2026)</p>
+        </footer>
+    </div>
+
+    <script>
+        // Venue data from Flask
+        const venueData = {{ venue_data | tojson }};
+
+        // Create box plot
+        const traces = venueData.map(venue => ({
+            y: venue.times,
+            name: venue.name,
+            type: 'box',
+            boxmean: true,
+            marker: {
+                color: venue.color
+            }
+        }));
+
+        const layout = {
+            title: {
+                text: 'Finish Time Distribution by Venue',
+                font: { size: 20, color: '#004E89' }
+            },
+            yaxis: {
+                title: 'Finish Time (seconds)',
+                gridcolor: '#E1E8ED'
+            },
+            xaxis: {
+                title: 'Venue',
+                tickangle: -45
+            },
+            plot_bgcolor: '#F7F9FC',
+            paper_bgcolor: 'white',
+            margin: { t: 60, b: 120, l: 60, r: 40 },
+            height: 500,
+            showlegend: false
+        };
+
+        const config = {
+            responsive: true,
+            displayModeBar: true,
+            displaylogo: false,
+            modeBarButtonsToRemove: ['lasso2d', 'select2d']
+        };
+
+        Plotly.newPlot('distributionChart', traces, layout, config);
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,1801 @@
+venue,event_id,location,region,gender,rank,name,nationality,age_group,finish_time,finish_seconds
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,1,"Johnson, Alex",USA,25-29,01:01:39,3699
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,10,"Haddad, Michael",USA,30-34,01:05:18,3918
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,100,"Laccinole, Matt",USA,50-54,01:13:23,4403
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,11,"Garcia, Michael",USA,35-39,01:05:23,3923
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,12,"Merrill, Nick",USA,45-49,01:05:44,3944
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,13,"Beniquez, Jerred",USA,30-34,01:05:45,3945
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,14,"Trejo, Christian",USA,30-34,01:06:08,3968
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,15,"Korat, Eduard",USA,55-59,01:06:17,3977
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,16,"Carvajal, Oscar",MEX,25-29,01:06:19,3979
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,17,"Marez, Nathan",USA,25-29,01:06:20,3980
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,18,"Needham, Dustin",USA,40-44,01:06:27,3987
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,19,"Edwards, Brad",NZL,35-39,01:06:45,4005
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,2,"Johnson, Alex",USA,25-29,01:02:15,3735
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,20,"Grime, Noah",USA,35-39,01:06:46,4006
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,21,"Belza, Justin",USA,35-39,01:06:54,4014
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,22,"Gutierrez, Daniel",USA,25-29,01:06:59,4019
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,23,"Hughes, Connor",USA,30-34,01:07:07,4027
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,24,"Birch, Jack",GBR,30-34,01:07:21,4041
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,25,"Olea, Jose Rene",MEX,16-24,01:07:21,4041
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,26,"Briercheck, Timothy",USA,30-34,01:07:32,4052
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,27,"Tacy, Zachary",USA,25-29,01:07:36,4056
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,28,"Salter, Steven",USA,30-34,01:07:42,4062
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,29,"Young, Zach",USA,35-39,01:07:47,4067
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,3,"Martinsky, Dave",USA,30-34,01:02:59,3779
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,30,"Wang, Benson",USA,35-39,01:07:51,4071
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,31,"Kostbar, Eben",USA,45-49,01:07:56,4076
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,32,"Theriault, Braeden",CAN,25-29,01:07:57,4077
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,33,"Platt, Jack",USA,16-24,01:07:58,4078
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,34,"Frazier, Rich",USA,40-44,01:08:00,4080
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,35,"Afanador, Jonathan",USA,30-34,01:08:01,4081
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,36,"Korby, Adam",USA,35-39,01:08:31,4111
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,37,"Nash, David",AUS,30-34,01:08:36,4116
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,38,"Hendrix, Tanner",USA,25-29,01:08:37,4117
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,39,"Hunter Iv, James",USA,25-29,01:08:40,4120
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,4,"Valdivia, Angel",USA,30-34,01:03:17,3797
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,40,"O'Hern, Tommy",USA,30-34,01:08:44,4124
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,41,"Vogelgesang, John",USA,35-39,01:08:44,4124
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,42,"Dixon, Paul",GBR,40-44,01:09:05,4145
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,43,"Demps, Ditanyon",USA,45-49,01:09:05,4145
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,44,"Moy, Kevin",USA,30-34,01:09:12,4152
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,45,"Romero, Joshua",USA,25-29,01:09:13,4153
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,46,"Al-Chamaa, Joshua",GBR,30-34,01:09:14,4154
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,47,"Delbianco, Brandon",USA,30-34,01:09:15,4155
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,48,"Warfield, Lucas",USA,16-24,01:09:20,4160
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,49,"King, Brendan",USA,35-39,01:09:26,4166
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,5,"Arroyo, Robbie",USA,40-44,01:03:54,3834
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,50,"Freeman, John",USA,35-39,01:09:29,4169
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,51,"Starkey, Cory",USA,30-34,01:09:35,4175
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,52,"Johnson, Kevin",USA,40-44,01:09:44,4184
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,53,"Elleithy, Mohamed",EGY,30-34,01:09:50,4190
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,54,"König, Bruno",GER,16-24,01:10:08,4208
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,55,"Lee, Jon",USA,35-39,01:10:11,4211
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,56,"Denton, Drew",USA,30-34,01:10:15,4215
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,57,"Contreras, Jesus",USA,30-34,01:10:15,4215
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,58,"Maurey, Ben",USA,30-34,01:10:19,4219
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,59,"Libardoni, Eric",USA,35-39,01:10:23,4223
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,6,"O'Callaghan, Sean",IRL,25-29,01:03:54,3834
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,60,"Von Steeg, James",USA,50-54,01:10:24,4224
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,61,"Martinez, Dj",USA,30-34,01:10:30,4230
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,62,"Martin, Matt",USA,45-49,01:10:32,4232
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,63,"Hayden, Cormac",USA,25-29,01:10:33,4233
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,64,"O'Shea, John",USA,25-29,01:10:50,4250
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,65,"Vera, Daniel",MEX,40-44,01:10:55,4255
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,66,"Cunningham, Grant",USA,30-34,01:10:57,4257
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,67,"Vayda, Brian",USA,45-49,01:10:58,4258
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,68,"Huizar, Sergio",MEX,35-39,01:11:01,4261
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,69,"Wong, Jason",USA,45-49,01:11:17,4277
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,7,"Silvestrin, Tory",USA,35-39,01:04:11,3851
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,70,"Koper, Connor",USA,30-34,01:11:18,4278
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,71,"Davis, Tyler",USA,25-29,01:11:22,4282
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,72,"Tinta, Brandon",USA,35-39,01:11:27,4287
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,73,"Gardner, Joshua",USA,35-39,01:11:31,4291
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,74,"Zvonek, Dustin",USA,40-44,01:11:34,4294
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,75,"Cox, Martin",USA,35-39,01:11:37,4297
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,76,"Contreras, Lorenzo",USA,40-44,01:11:47,4307
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,77,"Witcher, Daniel",USA,40-44,01:11:49,4309
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,78,"Howard III, John",USA,35-39,01:11:52,4312
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,79,"Carey, Carson",USA,25-29,01:11:53,4313
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,8,"Alley, Braydon",USA,30-34,01:04:19,3859
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,80,"Camacho, Austin",ESP,25-29,01:11:53,4313
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,81,"Preston, Braydon",USA,25-29,01:11:54,4314
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,82,"Gross, Alfred",USA,30-34,01:12:00,4320
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,83,"Ketsamanian, Serhad",USA,30-34,01:12:05,4325
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,84,"Leiva, Andres",USA,35-39,01:12:15,4335
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,85,"Stevens, Joseph",USA,35-39,01:12:19,4339
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,86,"Neth, Scott",USA,40-44,01:12:22,4342
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,87,"Hermosillo, Andres",MEX,30-34,01:12:29,4349
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,88,"Sandhu, Aaron",USA,16-24,01:12:37,4357
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,89,"Rivera, Jonathan",PUR,25-29,01:12:37,4357
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,9,"Stoermer, Eric",USA,30-34,01:04:47,3887
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,90,"Smith, Sebastian",USA,30-34,01:12:48,4368
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,91,"Hannah, Will",USA,25-29,01:12:53,4373
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,92,"Delaney, Kevin",USA,30-34,01:12:57,4377
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,93,"Roche, Edmond",USA,30-34,01:12:58,4378
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,94,"Sanchez, Eddie",USA,45-49,01:13:01,4381
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,95,"Li, Prestin",USA,25-29,01:13:05,4385
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,96,"Taylor, John",USA,40-44,01:13:09,4389
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,97,"Noble, Scott",USA,40-44,01:13:12,4392
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,98,"Luna, Kristopher",USA,35-39,01:13:14,4394
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,M,99,"Rokosz, Randy",USA,50-54,01:13:16,4396
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,1,"Garza, Dinorah",MEX,25-29,01:04:11,3851
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,10,"Gottlieb, Rachel",USA,30-34,01:09:56,4196
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,100,"Skaggs, Kaylene",USA,35-39,01:19:15,4755
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,11,"Ellsworth, Alena",USA,25-29,01:10:27,4227
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,12,"Flores, Kory",USA,35-39,01:11:03,4263
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,13,"Jaeckel, Jordan",USA,40-44,01:11:03,4263
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,14,"Faure, Ashley",USA,30-34,01:11:14,4274
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,15,"Reyes, Andrea",MEX,25-29,01:11:43,4303
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,16,"Vincent, Emily",USA,40-44,01:11:48,4308
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,17,"Gross, Jessi",USA,40-44,01:11:52,4312
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,18,"Raftery, Wendy",USA,25-29,01:11:55,4315
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,19,"Conley, Emily",USA,40-44,01:12:01,4321
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,2,"Recht, Holly",USA,40-44,01:07:33,4053
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,20,"White, Alli Jane",USA,25-29,01:12:05,4325
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,21,"Gouvion, Izzy",USA,30-34,01:12:20,4340
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,22,"Cordova, Jeanine",USA,40-44,01:12:21,4341
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,23,"Bueno, Bella",USA,16-24,01:12:23,4343
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,24,"Brown, Megan",USA,35-39,01:12:39,4359
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,25,"Forman, Hope",USA,30-34,01:12:40,4360
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,26,"Jacobs, Kristin",USA,30-34,01:12:45,4365
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,27,"Chen-Ok, Adrienne",USA,30-34,01:12:48,4368
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,28,"Oniskey, Micayla",USA,30-34,01:12:53,4373
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,29,"Brogan, Haley",USA,30-34,01:13:03,4383
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,3,"Rametta, Liis",EST,40-44,01:07:58,4078
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,30,"Fox, Andrea",USA,45-49,01:13:15,4395
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,31,"Fullove, Shaluinn",USA,45-49,01:13:18,4398
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,32,"Stanton, Josephine",USA,35-39,01:13:23,4403
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,33,"Fosha, Gretta",USA,40-44,01:13:25,4405
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,34,"Kim, Tyler",USA,30-34,01:13:46,4426
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,35,"Burke, Jenni",USA,35-39,01:13:53,4433
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,36,"Heimuli, Alyssa",USA,30-34,01:14:01,4441
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,37,"Luckow, Amelia",USA,25-29,01:14:09,4449
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,38,"Didinger, Tracey",USA,35-39,01:14:17,4457
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,39,"Corona, Maria Fernanda",MEX,25-29,01:14:21,4461
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,4,"Roth, Sophie",USA,30-34,01:08:31,4111
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,40,"Fletcher, Katie",USA,30-34,01:14:22,4462
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,41,"Robinson, Whitney",USA,35-39,01:14:47,4487
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,42,"Pelletier, Molly",USA,25-29,01:14:51,4491
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,43,"Laskowski, Kelly",USA,45-49,01:14:56,4496
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,44,"Self, Erica",USA,25-29,01:14:59,4499
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,45,"Choi, Angela",USA,40-44,01:15:04,4504
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,46,"Miller, Nicole",USA,30-34,01:15:20,4520
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,47,"Lavelle, Shelby",USA,25-29,01:15:21,4521
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,48,"Moscoe, Isabella",USA,16-24,01:15:29,4529
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,49,"Bowden, Leah",USA,40-44,01:15:35,4535
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,5,"Seracuse, Alyssa",USA,25-29,01:08:44,4124
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,50,"Vivion, Danielle",USA,40-44,01:15:36,4536
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,51,"Campbell, Erin",USA,30-34,01:15:45,4545
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,52,"Riggle, Clara",USA,25-29,01:15:50,4550
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,53,"Temma, Megumi",JPN,30-34,01:15:53,4553
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,54,"Plessas, Zoi",CAN,30-34,01:15:57,4557
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,55,"Wagner, Olivia",USA,25-29,01:16:04,4564
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,56,"Jackson, Baylee",USA,25-29,01:16:06,4566
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,57,"Wiggins, Megan",USA,16-24,01:16:09,4569
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,58,"Carvalho, Deb",BRA,30-34,01:16:10,4570
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,59,"Durastanti, Ashley",USA,16-24,01:16:11,4571
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,6,"Jones, Liz",USA,40-44,01:09:03,4143
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,60,"Westphal, Jessica",USA,35-39,01:16:12,4572
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,61,"Sottile, Dominique",USA,25-29,01:16:24,4584
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,62,"Binks, Kim",USA,45-49,01:16:29,4589
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,63,"Hofeling, Carissa",USA,16-24,01:16:32,4592
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,64,"Helton, Ashley",USA,30-34,01:16:34,4594
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,65,"Scurti, Hilary",USA,30-34,01:16:34,4594
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,66,"Nelson, Delaney",USA,30-34,01:16:37,4597
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,67,"Velasco, Andrea",USA,30-34,01:16:37,4597
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,68,"Stevenson, Kelly",USA,35-39,01:16:40,4600
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,69,"Titus, Taryn",USA,30-34,01:16:43,4603
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,7,"Reed, Lexi",USA,25-29,01:09:26,4166
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,70,"Melamed, Mor",CAN,16-24,01:16:44,4604
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,71,"Ratliff, Bridget",GBR,25-29,01:16:56,4616
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,72,"Hutson, Caitlin",USA,25-29,01:16:58,4618
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,73,"Mullane, Molly",USA,40-44,01:16:58,4618
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,74,"Fine, Alleigh",USA,25-29,01:17:13,4633
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,75,"Berrington, Charlotte",GBR,35-39,01:17:16,4636
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,76,"Kelley, Audrey",USA,30-34,01:17:23,4643
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,77,"Robinson, Stephanie",USA,25-29,01:17:24,4644
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,78,"Rachetto, Liza",USA,50-54,01:17:34,4654
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,79,"Herman, Shannon",USA,30-34,01:17:34,4654
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,8,"Richter, Kim",USA,40-44,01:09:30,4170
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,80,"Timar-Hutterer, Judika",CAN,50-54,01:17:34,4654
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,81,"Lyons, Tara",USA,30-34,01:17:45,4665
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,82,"Howland, Anais",USA,30-34,01:17:46,4666
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,83,"Contreras, Jess",USA,40-44,01:17:55,4675
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,84,"Hernan, Guiomar",ESP,35-39,01:17:57,4677
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,85,"Avery, Kristin",USA,40-44,01:17:57,4677
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,86,"Lutin, Liliana",USA,25-29,01:18:05,4685
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,87,"Kung, Jeanice",USA,40-44,01:18:12,4692
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,88,"Lew, Cecily",USA,35-39,01:18:20,4700
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,89,"Staudt, Gillian",USA,30-34,01:18:20,4700
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,9,"Hall, Taylor",USA,30-34,01:09:50,4190
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,90,"Gilchrist, Kara",USA,25-29,01:18:27,4707
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,91,"Schroeder, Richelle",USA,30-34,01:18:38,4718
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,92,"Henkes, Ashley",USA,30-34,01:18:42,4722
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,93,"Scoortis, Phaedra",USA,45-49,01:18:48,4728
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,94,"Mcgraw, Leslie",USA,35-39,01:18:48,4728
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,95,"Smolenyak, Ellise",USA,30-34,01:18:56,4736
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,96,"Sobhi, Zineb",USA,30-34,01:19:00,4740
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,97,"Helmer, Liz",USA,30-34,01:19:05,4745
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,98,"Medley, Nicole",USA,30-34,01:19:06,4746
+Anaheim 2025,H_LR3MS4JI11AC,"Anaheim, CA, USA",North America,W,99,"Urban, Taylore",USA,30-34,01:19:10,4750
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,1,"Glen, Jonathan",GBR,25-29,00:58:30,3510
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,10,"TenElshof, Austin",USA,30-34,01:02:34,3754
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,100,"Bergero, Gaston",ARG,30-34,01:12:34,4354
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,11,"Hartman, Michael",USA,35-39,01:02:37,3757
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,12,"Shaw, Kahleel",USA,25-29,01:02:47,3767
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,13,"Downey, Nick",USA,45-49,01:03:08,3788
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,14,"Colon, Jesse",USA,30-34,01:03:22,3802
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,15,"Wong, Chris",CAN,35-39,01:03:31,3811
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,16,"LUCAS, PATRICK",GBR,25-29,01:03:39,3819
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,17,"Truesdale, Dylan",USA,25-29,01:03:42,3822
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,18,"Williams, Sunny",USA,40-44,01:03:56,3836
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,19,"Edge, Richard",USA,35-39,01:04:02,3842
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,2,"Key, Malik",USA,25-29,00:58:54,3534
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,20,"Ceoffe, Michael",USA,30-34,01:04:27,3867
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,21,"Hall, Justin",USA,30-34,01:04:30,3870
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,22,"O’Donnell, Shane",USA,35-39,01:04:35,3875
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,23,"Caughran, Colin",USA,40-44,01:05:00,3900
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,24,"Nicholas, Jimmy",USA,30-34,01:05:00,3900
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,25,"Miller, Dakota",USA,30-34,01:05:17,3917
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,26,"Bernier, Kyle",USA,30-34,01:05:32,3932
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,27,"Mellas, Nathan",USA,30-34,01:05:43,3943
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,28,"Scrivner, Matthew",USA,16-24,01:05:48,3948
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,29,"Kropf, Reagan",USA,16-24,01:06:00,3960
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,3,"Nurse, Dylan",USA,25-29,00:59:57,3597
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,30,"Freeman, Brandon",CAN,25-29,01:06:19,3979
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,31,"Ribelli, Neil",USA,30-34,01:06:31,3991
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,32,"Freeman, Brendan",USA,30-34,01:06:56,4016
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,33,"Wilkins, Aaron",USA,40-44,01:06:56,4016
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,34,"Bobay, Harley",USA,45-49,01:07:00,4020
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,35,"Miller, Sam",USA,30-34,01:07:04,4024
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,36,"Arroyo, Robbie",USA,35-39,01:07:16,4036
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,37,"Russell, Tom",USA,35-39,01:07:17,4037
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,38,"McConkey, Avery",USA,16-24,01:07:21,4041
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,39,"Delzer, Ronnie",USA,40-44,01:07:21,4041
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,4,"Kalyuzhnyy, Vadym",UKR,25-29,01:00:41,3641
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,40,"Calisto, Kiefer",USA,30-34,01:07:36,4056
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,41,"de Medeiros, Lucas",BRA,35-39,01:07:39,4059
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,42,"Wallace, Larry",USA,35-39,01:07:42,4062
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,43,"Henrich, Ryan",USA,35-39,01:07:46,4066
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,44,"Chamberlain, Montgomery",USA,25-29,01:07:56,4076
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,45,"Venegas, Henry",CRC,30-34,01:08:02,4082
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,46,"McDonald, Hugh",AUS,35-39,01:08:05,4085
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,47,"Lind, Brayden",USA,16-24,01:08:06,4086
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,48,"Davis, Harrison",USA,25-29,01:08:08,4088
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,49,"Hambrecht, Jeff",USA,35-39,01:08:09,4089
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,5,"O'Connor, Evan",USA,25-29,01:00:42,3642
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,50,"Fulare, CJ",USA,25-29,01:08:10,4090
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,51,"Gossett, Matt",USA,35-39,01:08:11,4091
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,52,"wade, sean",USA,55-59,01:08:18,4098
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,53,"McAllister, Logan",USA,25-29,01:08:18,4098
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,54,"Robichaux, Andrew",USA,35-39,01:08:32,4112
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,55,"Scalavino, Austin",ITA,25-29,01:08:34,4114
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,56,"Cantrell, Cory",USA,25-29,01:08:36,4116
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,57,"Ramirez, Jeremiah",USA,16-24,01:08:44,4124
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,58,"Reynolds, Kendall",USA,35-39,01:08:52,4132
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,59,"Koskimaki, Jeffrey",USA,35-39,01:08:54,4134
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,6,"Walkington, Al",USA,35-39,01:01:22,3682
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,60,"Engel, Logan",USA,30-34,01:09:05,4145
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,61,"Shelby, Matthew",USA,45-49,01:09:24,4164
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,62,"SNEE, TIM",USA,50-54,01:09:25,4165
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,63,"Fasulkey, Alexzander",USA,16-24,01:09:57,4197
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,64,"Brown, Nathan",USA,25-29,01:09:58,4198
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,65,"Magalhaes, Michael",POR,16-24,01:09:59,4199
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,66,"Wiese, Ryan",USA,30-34,01:10:06,4206
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,67,"Sugatan, Justin",USA,25-29,01:10:10,4210
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,68,"Stephens, Mason",USA,25-29,01:10:17,4217
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,69,"Essex, George",GBR,25-29,01:10:20,4220
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,7,"Grafentin, Grant",USA,30-34,01:01:55,3715
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,70,"Brown, Justin",USA,35-39,01:10:31,4231
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,71,"Chau, Trey",CHN,30-34,01:10:33,4233
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,72,"Patrick, Andrew",USA,30-34,01:10:38,4238
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,73,"Meade, Nate",USA,25-29,01:10:44,4244
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,74,"Fredette, Noah",USA,45-49,01:10:45,4245
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,75,"Finke, Nick",USA,25-29,01:10:45,4245
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,76,"Brame, Grady",USA,30-34,01:10:46,4246
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,77,"Chavez, Jefte",USA,30-34,01:10:47,4247
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,78,"Brown, Christopher",USA,35-39,01:10:48,4248
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,79,"Ward, Jackson",USA,16-24,01:11:03,4263
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,8,"Walkington, Jon",USA,40-44,01:02:27,3747
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,80,"Smoak, Michael",USA,25-29,01:11:08,4268
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,81,"Dedoes, Mike",USA,35-39,01:11:17,4277
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,82,"McCollum, Timothy",USA,40-44,01:11:26,4286
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,83,"Phillips, Eric",USA,35-39,01:11:33,4293
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,84,"Kallin, Adam",USA,35-39,01:11:37,4297
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,85,"Kirchoff, Dan",USA,40-44,01:11:45,4305
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,86,"Barrett, Stephen",USA,30-34,01:11:47,4307
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,87,"Barrett, Jeremy",USA,35-39,01:11:49,4309
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,88,"Lawrence, Jacob",USA,30-34,01:11:51,4311
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,89,"Martin, Jordan",USA,25-29,01:12:01,4321
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,9,"Catani, Kellen",USA,30-34,01:02:31,3751
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,90,"Finley, Chase",USA,16-24,01:12:06,4326
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,91,"Ciuffo, Chris",USA,30-34,01:12:14,4334
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,92,"Weller, Spencer",USA,25-29,01:12:15,4335
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,93,"Frank, Erik",USA,50-54,01:12:18,4338
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,94,"Collins, T.J.",USA,35-39,01:12:20,4340
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,95,"Wilkin, Russ",USA,35-39,01:12:24,4344
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,96,"griffin, khalil",USA,35-39,01:12:29,4349
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,97,"Bouhana, Kyle",USA,35-39,01:12:29,4349
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,98,"Wong, Jason",USA,45-49,01:12:33,4353
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,M,99,"Link, Matthew",USA,30-34,01:12:34,4354
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,1,"Fagre, Carleigh",USA,30-34,01:05:28,3928
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,10,"Hutchinson, Natalie",USA,30-34,01:09:48,4188
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,100,"Wright, Marlo",USA,45-49,01:20:56,4856
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,11,"Pratt, Katelin",USA,25-29,01:10:09,4209
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,12,"Keating, Bonnie",USA,40-44,01:10:14,4214
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,13,"Schell, Kirstin",CAN,45-49,01:10:25,4225
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,14,"Hall, Taylor",USA,30-34,01:10:32,4232
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,15,"Edwards, Laura Jean",USA,35-39,01:10:32,4232
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,16,"Langlois, Doriane",FRA,30-34,01:10:41,4241
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,17,"Payne, Shannon",USA,35-39,01:10:54,4254
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,18,"Streetman, Cristin",USA,45-49,01:10:56,4256
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,19,"Knoll, Taylor",USA,30-34,01:11:21,4281
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,2,"Leon, Danitza",USA,25-29,01:07:20,4040
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,20,"Betancourt, Xasha",PUR,35-39,01:11:35,4295
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,21,"Duval, Laura",USA,35-39,01:11:46,4306
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,22,"Parda, Chase",USA,35-39,01:11:51,4311
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,23,"Fox, Pamela",USA,40-44,01:11:58,4318
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,24,"Ressler, Rachel",USA,30-34,01:12:20,4340
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,25,"Tyson, Lauren",RSA,25-29,01:12:21,4341
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,26,"Sottile, Dominique",USA,25-29,01:12:26,4346
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,27,"Rice, Ellie",USA,25-29,01:12:34,4354
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,28,"cavallo, kathryn",USA,25-29,01:12:37,4357
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,29,"Walker, Deyana",USA,25-29,01:12:39,4359
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,3,"Guidry, Karyn",USA,35-39,01:07:30,4050
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,30,"Davis, Becca",USA,35-39,01:13:07,4387
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,31,"Miller, Cora",USA,35-39,01:13:38,4418
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,32,"Frederick, Hayden",USA,25-29,01:13:39,4419
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,33,"Triani, Samantha",USA,25-29,01:13:45,4425
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,34,"tovey, Nicole",USA,40-44,01:13:52,4432
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,35,"Szekely, Kata",HUN,35-39,01:13:53,4433
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,36,"Loftis, Emily",USA,45-49,01:14:27,4467
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,37,"Goncalves, Hannah",USA,25-29,01:14:29,4469
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,38,"Boose, Abigail",USA,16-24,01:14:33,4473
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,39,"De la garza, Valeria",MEX,30-34,01:14:43,4483
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,4,"Hudson, Holly",USA,25-29,01:08:19,4099
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,40,"Berger, Sydney",USA,25-29,01:14:44,4484
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,41,"Palermo, Renee",USA,25-29,01:14:50,4490
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,42,"Mayo, Kira",USA,35-39,01:15:05,4505
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,43,"Henshaw, Rebecca",GBR,30-34,01:15:35,4535
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,44,"Lee, Jamie",USA,35-39,01:15:36,4536
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,45,"Mattison, Erica",USA,40-44,01:15:43,4543
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,46,"Kaset, Julia",USA,25-29,01:15:44,4544
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,47,"Radloff, Sydney",USA,25-29,01:15:46,4546
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,48,"Monday, Lauren",USA,16-24,01:16:03,4563
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,49,"Starosto, Margaret",USA,35-39,01:16:05,4565
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,5,"Dewan, Diana",USA,35-39,01:08:19,4099
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,50,"Woodall, Paige",USA,30-34,01:16:05,4565
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,51,"Abdo, Joyce",USA,40-44,01:16:20,4580
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,52,"Garner, Darby",USA,30-34,01:16:34,4594
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,53,"Rollins, Catie",USA,35-39,01:16:42,4602
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,54,"Smith, Sarah",USA,30-34,01:16:54,4614
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,55,"Maruyama, Riho",USA,25-29,01:16:54,4614
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,56,"Russell, Samantha",USA,25-29,01:17:06,4626
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,57,"Houston, Amy",CAN,35-39,01:17:13,4633
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,58,"Hawkins, Megan",USA,35-39,01:17:22,4642
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,59,"Humsi, Erin",USA,40-44,01:17:23,4643
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,6,"Willis, Barrett",USA,35-39,01:08:28,4108
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,60,"Rodrigues dos Santos, Nicole",USA,25-29,01:17:35,4655
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,61,"Somerville, Laura",USA,25-29,01:17:43,4663
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,62,"Young, Savannah",USA,16-24,01:18:06,4686
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,63,"Vesterinen, Heidi",FIN,45-49,01:18:11,4691
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,64,"Ham, Sarah",USA,25-29,01:18:17,4697
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,65,"Braunbeck, Olivia",USA,16-24,01:18:18,4698
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,66,"Richard, Kelley",USA,45-49,01:18:22,4702
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,67,"Konstanzer, Meah",USA,16-24,01:18:22,4702
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,68,"Nelson, Delaney",USA,30-34,01:18:42,4722
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,69,"Brown, Demis",USA,16-24,01:18:42,4722
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,7,"Corriher, Emily",USA,25-29,01:08:58,4138
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,70,"Momsen, Lisa",USA,35-39,01:18:44,4724
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,71,"Keane, Delaney",USA,35-39,01:18:50,4730
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,72,"Florea, Shannon",USA,45-49,01:18:51,4731
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,73,"Hankin, Ellie",USA,16-24,01:18:56,4736
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,74,"Fogarty, Shannon",USA,35-39,01:18:58,4738
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,75,"Sparks, Madi",USA,16-24,01:19:04,4744
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,76,"Scarbrough, Jess",USA,35-39,01:19:07,4747
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,77,"Mark, Chloe",USA,25-29,01:19:18,4758
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,78,"Nelson, Sarah",USA,35-39,01:19:25,4765
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,79,"Gross, Ann",USA,45-49,01:19:27,4767
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,8,"Baumann, Katie",USA,35-39,01:09:25,4165
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,80,"Mitchell, Alice",CAN,25-29,01:19:39,4779
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,81,"Bocklet, Marisa",USA,25-29,01:19:43,4783
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,82,"Rafferty, Maggie",CAN,40-44,01:19:44,4784
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,83,"White, Riley",USA,16-24,01:19:51,4791
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,84,"Lynn, Morgan",USA,35-39,01:19:52,4792
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,85,"Douglas, Lauren",USA,35-39,01:19:53,4793
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,86,"Potash, Brenna",USA,35-39,01:19:59,4799
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,87,"Sever, Kate",USA,16-24,01:20:04,4804
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,88,"FILER, JAIME",USA,35-39,01:20:06,4806
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,89,"Jacobs, Kirstian",USA,40-44,01:20:07,4807
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,9,"Yingling, Sara",USA,35-39,01:09:27,4167
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,90,"Wallace, Heather",USA,40-44,01:20:11,4811
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,91,"Walker, Allison",USA,25-29,01:20:11,4811
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,92,"Wilbourn, Emma",USA,30-34,01:20:13,4813
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,93,"Sherrill, Lindsey",USA,35-39,01:20:20,4820
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,94,"Shoup, Jody",USA,45-49,01:20:23,4823
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,95,"Dumsky, Jessica",USA,35-39,01:20:26,4826
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,96,"Capalbo, Marina",USA,30-34,01:20:33,4833
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,97,"Bradley, Anna Beth",USA,40-44,01:20:54,4854
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,98,"Pitts, Kristin",USA,30-34,01:20:55,4855
+Atlanta 2025,H_Atlanta25_OVERALL,"Atlanta, GA, USA",North America,W,99,"Perez, Imelda",MEX,35-39,01:20:55,4855
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,1,"Ploj, Aljaž",SLO,25-29,00:56:01,3361
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,10,"Laurent, Sébastien",FRA,40-44,00:58:00,3480
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,100,"Richoux, Thomas",FRA,25-29,01:05:04,3904
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,11,"Olivier, Thomas",FRA,30-34,00:58:30,3510
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,12,"Dechamps, Jessy",FRA,35-39,00:59:04,3544
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,13,"Cayarcy, Thomas",FRA,16-24,00:59:12,3552
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,14,"Biau, Sébastien",FRA,35-39,00:59:39,3579
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,15,"Robillard, Enzo",FRA,25-29,00:59:58,3598
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,16,"Queguiner, Léo",FRA,30-34,01:00:08,3608
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,17,"Rodrigo, Mateo",FRA,16-24,01:00:13,3613
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,18,"Guillou, Mathis",FRA,16-24,01:00:26,3626
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,19,"Martin, Alexis",FRA,25-29,01:00:35,3635
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,2,"Lamoureux, Lucas",FRA,25-29,00:56:17,3377
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,20,"Fernandez, Olivier",FRA,45-49,01:00:38,3638
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,21,"Rollin, Elyess",FRA,16-24,01:00:50,3650
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,22,"Mullan, Declan",IRL,35-39,01:00:51,3651
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,23,"Aubertot, Hugo",FRA,25-29,01:00:53,3653
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,24,"Boukhari, Ismael",FRA,25-29,01:00:53,3653
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,25,"Gianni, Gaetan",FRA,16-24,01:00:55,3655
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,26,"Baha, Ali",FRA,30-34,01:00:56,3656
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,27,"Saint Leger, Yohan",FRA,35-39,01:01:12,3672
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,28,"Verdier, Tomáš",FRA,35-39,01:01:19,3679
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,29,"Chevrolais, Marc",FRA,25-29,01:01:22,3682
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,3,"Fry, Thomas",FRA,30-34,00:56:23,3383
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,30,"Ellena, Thierry",FRA,35-39,01:01:22,3682
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,31,"Bocci, Vincent",FRA,25-29,01:01:26,3686
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,32,"Frery, Adam",FRA,25-29,01:01:27,3687
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,33,"Dupont, Alexandre",FRA,16-24,01:01:30,3690
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,34,"Guinard, Tom",FRA,16-24,01:01:33,3693
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,35,"Navarro, Laurent",FRA,30-34,01:01:38,3698
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,36,"Debhi-Durand, Alexandre",FRA,30-34,01:01:47,3707
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,37,"Hobbs, Robert",GBR,35-39,01:01:51,3711
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,38,"Couval, Sebastien",FRA,50-54,01:02:12,3732
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,39,"Mairos, Olivier",FRA,25-29,01:02:17,3737
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,4,"Laloue, Bastien",FRA,25-29,00:56:27,3387
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,40,"Robert, Maxime",FRA,25-29,01:02:19,3739
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,41,"Tellier, Jeremy",FRA,35-39,01:02:27,3747
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,42,"Lorblanchet, Thomas",FRA,45-49,01:02:33,3753
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,43,"Levacher, Mehdi",FRA,25-29,01:02:45,3765
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,44,"Soenen, William",FRA,30-34,01:02:47,3767
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,45,"Borras, Marc",FRA,25-29,01:02:49,3769
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,46,"Meyer, Kohl",USA,35-39,01:02:56,3776
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,47,"Murray, Colm",IRL,35-39,01:03:11,3791
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,48,"Caye, Alexandre",FRA,30-34,01:03:19,3799
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,49,"Barre, Julien",FRA,45-49,01:03:19,3799
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,5,"Lecorgne, Martin",FRA,25-29,00:56:28,3388
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,50,"Dumortier, Clement",FRA,25-29,01:03:20,3800
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,51,"Kohler, Florian",FRA,30-34,01:03:25,3805
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,52,"Dugas, Pierre",FRA,25-29,01:03:26,3806
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,53,"Farizy, Ludovic",FRA,30-34,01:03:28,3808
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,54,"Matejicek, Yannick",FRA,30-34,01:03:33,3813
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,55,"Normand, Wilfrid",FRA,50-54,01:03:39,3819
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,56,"Berrouigat, Mehdi",FRA,25-29,01:03:41,3821
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,57,"Ighmour, Ayoub",MAR,30-34,01:03:41,3821
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,58,"Pinard, Louka",FRA,16-24,01:03:43,3823
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,59,"Laisement, Yann",FRA,30-34,01:03:45,3825
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,6,"Chretiennot, Fergus",FRA,30-34,00:57:33,3453
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,60,"Ropars, Julien",FRA,35-39,01:03:45,3825
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,61,"Blas, Gaetan",FRA,35-39,01:03:48,3828
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,62,"Ruellant, Maxime",FRA,30-34,01:03:49,3829
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,63,"Goi, Eliott",FRA,35-39,01:03:51,3831
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,64,"Diaz, Sébastien",FRA,50-54,01:03:51,3831
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,65,"Gicquel, Gavin",FRA,30-34,01:03:52,3832
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,66,"Bertoncino, Yannick",FRA,25-29,01:03:54,3834
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,67,"Salles, Thibaut",FRA,35-39,01:03:57,3837
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,68,"Billault, Vincent",FRA,30-34,01:03:58,3838
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,69,"Tofan, Emilio",FRA,16-24,01:03:58,3838
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,7,"Crepeau, Charles",FRA,16-24,00:57:51,3471
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,70,"Gousseau, Kevin",FRA,30-34,01:04:02,3842
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,71,"Robert, Nicolas",FRA,35-39,01:04:06,3846
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,72,"Le Clainche, Lucas",FRA,25-29,01:04:12,3852
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,73,"HENNANI, HAMZA",MAR,30-34,01:04:15,3855
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,74,"Le Garrec, Antonin",FRA,25-29,01:04:18,3858
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,75,"Jousset, Etienne",FRA,30-34,01:04:18,3858
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,76,"Chaume, Pierrick",FRA,40-44,01:04:20,3860
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,77,"Orts, Thibault",FRA,30-34,01:04:21,3861
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,78,"Duvigneau, Alan",FRA,30-34,01:04:22,3862
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,79,"Tourre, Julien",FRA,30-34,01:04:24,3864
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,8,"Laurent, Thibaud",FRA,30-34,00:57:54,3474
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,80,"Dreux, Amaury",FRA,25-29,01:04:27,3867
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,81,"Carret, Adrien",FRA,25-29,01:04:28,3868
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,82,"Lhuillier, Igor",FRA,25-29,01:04:30,3870
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,83,"Dereppe, Johan",FRA,25-29,01:04:35,3875
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,84,"Lortal, Sylvianno",FRA,25-29,01:04:40,3880
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,85,"Lureau, Frederic",FRA,40-44,01:04:40,3880
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,86,"Antwi, William",FRA,30-34,01:04:40,3880
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,87,"Victoria Bautista, Raul",MEX,50-54,01:04:41,3881
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,88,"Tardiere Sanchez, Romain",FRA,35-39,01:04:43,3883
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,89,"Du Pré, Louis",FRA,30-34,01:04:44,3884
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,9,"Martinez, Hugo",FRA,25-29,00:57:58,3478
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,90,"Dormoy, Hugues",FRA,35-39,01:04:45,3885
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,91,"Shaw, Karl",GBR,40-44,01:04:46,3886
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,92,"Naacke, Thibaut",FRA,30-34,01:04:47,3887
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,93,"Dauvers, Luka",FRA,25-29,01:04:48,3888
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,94,"Leste-Lasserre, Camille",FRA,35-39,01:04:50,3890
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,95,"Carvalho, Bruno Miguel Reis Santos",POR,25-29,01:04:50,3890
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,96,"Vayssié, Flavien",FRA,25-29,01:04:54,3894
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,97,"Dostes, Adrien",FRA,25-29,01:04:58,3898
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,98,"Datas, Thomas",FRA,30-34,01:05:00,3900
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,M,99,"Daghbouj, Walid",FRA,30-34,01:05:01,3901
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,1,"Saunier, Stéphanie",FRA,35-39,01:06:39,3999
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,10,"Arnes, Justine",FRA,30-34,01:10:03,4203
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,100,"Lozes, Sarah",FRA,35-39,01:17:16,4636
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,11,"Savel, Aline",FRA,25-29,01:10:08,4208
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,12,"Oheix, Marie",FRA,30-34,01:10:15,4215
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,13,"Chan-Lam, Nicki",GBR,30-34,01:10:24,4224
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,14,"Rahmoun, Salma",MAR,25-29,01:10:28,4228
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,15,"Sommer, Aline",GER,16-24,01:10:30,4230
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,16,"Leclerc, Pauline",FRA,30-34,01:10:30,4230
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,17,"Rafiki, Afafe",FRA,35-39,01:10:34,4234
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,18,"Rolland, Marjorie",FRA,35-39,01:10:34,4234
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,19,"Boutiller, Marie",FRA,25-29,01:10:40,4240
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,2,"Roche, Noemie",FRA,35-39,01:07:58,4078
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,20,"Pasquier, Lisa",FRA,16-24,01:10:49,4249
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,21,"Piton, Marie",FRA,25-29,01:11:11,4271
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,22,"Fermé, Cloé",FRA,25-29,01:11:16,4276
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,23,"Vandewalle, Justine",FRA,25-29,01:11:23,4283
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,24,"Marion, Agathe",FRA,30-34,01:11:31,4291
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,25,"Juillet, Anthéa",FRA,16-24,01:11:36,4296
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,26,"Kubatova, Petra",CZE,40-44,01:11:41,4301
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,27,"Machot, Lucile",FRA,25-29,01:11:48,4308
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,28,"Brenac, Charlotte",FRA,25-29,01:11:49,4309
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,29,"Bertereau, Aurélie",FRA,40-44,01:11:49,4309
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,3,"Suarez, Emilie",FRA,40-44,01:08:28,4108
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,30,"Mourou, Florine",FRA,25-29,01:12:04,4324
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,31,"Deydier, Chloe",FRA,30-34,01:12:05,4325
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,32,"Batté, Alizée",FRA,25-29,01:12:06,4326
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,33,"Sermadiras, Sabrina",FRA,40-44,01:12:08,4328
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,34,"Rapin, Bénédicte",SUI,30-34,01:12:15,4335
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,35,"François, Elodie",FRA,25-29,01:12:16,4336
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,36,"Vergonjeanne, Virginie",FRA,45-49,01:12:26,4346
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,37,"Fourticq, Manon",FRA,25-29,01:12:40,4360
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,38,"Ferreira, Elise",FRA,25-29,01:12:47,4367
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,39,"Artisien, Ophelie",FRA,30-34,01:12:59,4379
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,4,"Fleury, Pauline",FRA,30-34,01:09:05,4145
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,40,"Thaon, Clarisse",FRA,16-24,01:13:01,4381
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,41,"Maillet, Laura",FRA,30-34,01:13:02,4382
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,42,"Monteillet, Marie",FRA,25-29,01:13:10,4390
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,43,"Jamison, Catherine",GBR,40-44,01:13:12,4392
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,44,"Dupré, Clara",FRA,35-39,01:13:19,4399
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,45,"Dorangeon, Emma",FRA,30-34,01:13:19,4399
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,46,"Jacques, Alice",FRA,30-34,01:13:19,4399
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,47,"Samson, Marie",FRA,30-34,01:13:24,4404
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,48,"Finnestrand, Stine",NOR,45-49,01:13:26,4406
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,49,"You, Jia",CHN,35-39,01:13:32,4412
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,5,"Sauzeau, Anne-Laure",FRA,35-39,01:09:09,4149
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,50,"Lamy, Caroline",FRA,35-39,01:13:38,4418
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,51,"Lenglet, Nolwenn",FRA,16-24,01:13:38,4418
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,52,"Lauriou, Maya",FRA,25-29,01:13:38,4418
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,53,"Moulin, Gwladys",FRA,30-34,01:13:39,4419
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,54,"Grimault, Laurence",FRA,35-39,01:13:45,4425
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,55,"Defever, Maëlle",FRA,16-24,01:13:53,4433
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,56,"Rateau, Charlotte",FRA,35-39,01:13:53,4433
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,57,"Le Boeuf, Chloé",FRA,16-24,01:14:04,4444
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,58,"Laval, Marie",FRA,30-34,01:14:07,4447
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,59,"Bérenger, Aliénor",FRA,16-24,01:14:08,4448
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,6,"David, Gwenaëlle",FRA,30-34,01:09:17,4157
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,60,"Vergara, Felicia",FRA,25-29,01:14:11,4451
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,61,"Simon, Estelle",FRA,40-44,01:14:19,4459
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,62,"Gisbert, Marine",FRA,30-34,01:14:37,4477
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,63,"Talarmain, Clervie",FRA,25-29,01:14:41,4481
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,64,"Robquin, Eva",FRA,30-34,01:14:47,4487
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,65,"Hanse, Noemie",FRA,16-24,01:14:47,4487
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,66,"Clavier, Laurène",FRA,40-44,01:14:48,4488
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,67,"Bault, Mandy",FRA,35-39,01:14:53,4493
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,68,"Weill, Gabrielle",FRA,16-24,01:15:07,4507
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,69,"De Montfumat, Blanche",FRA,16-24,01:15:08,4508
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,7,"Lahmi, Florie",FRA,35-39,01:09:33,4173
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,70,"Gay-Pageon, Marion",FRA,30-34,01:15:10,4510
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,71,"Campillo, Lou",FRA,25-29,01:15:14,4514
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,72,"Dusart, Loana",FRA,30-34,01:15:20,4520
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,73,"Laboille, Justine",FRA,30-34,01:15:23,4523
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,74,"Laillet, Victor",FRA,25-29,01:15:27,4527
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,75,"Delporte, Léontine",FRA,16-24,01:15:29,4529
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,76,"Fuchs, Manon",FRA,25-29,01:15:31,4531
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,77,"Galice, Clementine",FRA,30-34,01:15:38,4538
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,78,"Brugat, Audrey",FRA,30-34,01:15:43,4543
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,79,"Gauderat, Aliénor",FRA,30-34,01:15:44,4544
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,8,"Horwitz, Virginie",FRA,40-44,01:09:43,4183
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,80,"Vraux, Marie",FRA,25-29,01:15:51,4551
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,81,"Muller, Justine",FRA,30-34,01:15:53,4553
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,82,"Salmon, Flavie",FRA,25-29,01:15:57,4557
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,83,"Beauvais, Lisa",FRA,25-29,01:15:59,4559
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,84,"Richmond, Kimberley",GBR,45-49,01:16:03,4563
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,85,"Dulucq Tejado, Angela",FRA,16-24,01:16:04,4564
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,86,"Sabathé, Charlotte",FRA,30-34,01:16:08,4568
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,87,"Romé, Chloé",FRA,30-34,01:16:09,4569
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,88,"Van Boxel, Pauline",FRA,30-34,01:16:37,4597
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,89,"Andries, Amélie",FRA,30-34,01:16:38,4598
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,9,"Minvielle, Charlotte",FRA,35-39,01:09:48,4188
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,90,"Osmani, Beharta",SUI,35-39,01:16:47,4607
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,91,"Marlier, Mady",FRA,35-39,01:16:54,4614
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,92,"Retourne, Iris",FRA,40-44,01:16:57,4617
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,93,"Peter, Aurélie",FRA,30-34,01:16:58,4618
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,94,"Placzek, Pia",GER,45-49,01:16:59,4619
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,95,"Puiseux, Charlotte",FRA,25-29,01:17:07,4627
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,96,"Charpentier, Carla",FRA,16-24,01:17:11,4631
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,97,"Vidal, Ana-Kim",FRA,25-29,01:17:12,4632
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,98,"Vignau, Pauline",FRA,25-29,01:17:13,4633
+Bordeaux 2025,H_Bordeaux25_OVERALL,"Bordeaux, France",Europe,W,99,"Lienard, Emma",FRA,25-29,01:17:15,4635
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,1,"Graboys, Noah",USA,30-34,00:57:09,3429
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,10,"Yehia, Amir",LBN,16-24,01:03:45,3825
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,100,"Terrill, Andrew",USA,35-39,01:11:48,4308
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,11,"Brush, Jake",USA,16-24,01:03:49,3829
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,12,"Pankhurst, Garrett",CAN,30-34,01:03:50,3830
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,13,"Jones, Nick",USA,25-29,01:04:32,3872
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,14,"Diianni, Jonathan",USA,30-34,01:04:35,3875
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,15,"Kaye, Bennett",USA,35-39,01:04:58,3898
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,16,"Lee, Conner",USA,25-29,01:05:05,3905
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,17,"Moltzan, Garrett",USA,25-29,01:05:17,3917
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,18,"Yehia, Omar",EGY,30-34,01:05:38,3938
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,19,"Nelson, Cole",USA,35-39,01:05:39,3939
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,2,"Paikowski, Vince",USA,30-34,00:58:47,3527
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,20,"Frusher, Alex",GBR,30-34,01:05:43,3943
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,21,"Needham, Dustin",USA,40-44,01:05:53,3953
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,22,"Brenzel, Brian",USA,35-39,01:06:11,3971
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,23,"Miller, Dakota",USA,30-34,01:06:14,3974
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,24,"Jones, Joshua",USA,35-39,01:06:30,3990
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,25,"Ezzat, Ramsey",CAN,40-44,01:06:33,3993
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,26,"Keith, Charlie",USA,16-24,01:06:34,3994
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,27,"Hansing, Matt",USA,25-29,01:06:34,3994
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,28,"Mette, Bobby",USA,30-34,01:06:44,4004
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,29,"Schwartz, Ben",USA,16-24,01:06:47,4007
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,3,"Cygan, Zach",USA,16-24,00:59:15,3555
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,30,"Daly, Christian",USA,25-29,01:06:51,4011
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,31,"Littlefield, Jesse",USA,30-34,01:06:57,4017
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,32,"Anderson, David",USA,25-29,01:07:01,4021
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,33,"Wiitala, Matt",USA,40-44,01:07:13,4033
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,34,"Tavares, Nick",USA,30-34,01:07:15,4035
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,35,"Costello, JK",USA,40-44,01:07:15,4035
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,36,"Heidepriem, Ethan",USA,25-29,01:07:20,4040
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,37,"Jones, Bobby",USA,30-34,01:07:23,4043
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,38,"Minnaert, Alex",USA,35-39,01:07:24,4044
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,39,"Clegg, Connor",USA,30-34,01:07:32,4052
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,4,"Najih, Hamza",MAR,16-24,01:00:50,3650
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,40,"Silverman, Andrew",USA,16-24,01:07:43,4063
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,41,"Haferkorn, Kenny",USA,30-34,01:07:44,4064
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,42,"Barros, Carlos",COL,25-29,01:07:47,4067
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,43,"Berillo, Kyle",USA,35-39,01:07:57,4077
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,44,"Librizzi, Nate",USA,25-29,01:08:21,4101
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,45,"Gathers, Andre",USA,25-29,01:08:32,4112
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,46,"Robidoux, Francis",CAN,25-29,01:08:33,4113
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,47,"Snitker, Derek",USA,35-39,01:08:35,4115
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,48,"Olenchek, Steve",USA,35-39,01:08:39,4119
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,49,"Adams, Evan",USA,30-34,01:08:42,4122
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,5,"Sweeney, Derrik",USA,30-34,01:01:21,3681
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,50,"Hamzeh, Matt",USA,30-34,01:08:47,4127
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,51,"Fuhrman, Jamie",USA,25-29,01:08:54,4134
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,52,"Bowles, Ted",USA,55-59,01:08:59,4139
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,53,"Boulos, Michael",USA,30-34,01:09:00,4140
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,54,"Geffert, Sean",USA,30-34,01:09:01,4141
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,55,"Horan, Diarmuid",IRL,35-39,01:09:04,4144
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,56,"Quiniou, Robin",CAN,35-39,01:09:07,4147
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,57,"Wilkins, Mitch",USA,30-34,01:09:14,4154
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,58,"Kottler, Charlie",USA,25-29,01:09:20,4160
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,59,"Nwaelele, Chibuzor",USA,30-34,01:09:34,4174
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,6,"Rosinski, Steve",USA,40-44,01:01:44,3704
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,60,"Singleton, Nick",USA,25-29,01:09:36,4176
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,61,"Yudt, Jerry",USA,35-39,01:09:37,4177
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,62,"VanKerkhoff, Todd",USA,35-39,01:09:37,4177
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,63,"Billing, Rory",USA,35-39,01:09:38,4178
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,64,"Friedlander, Eric",USA,25-29,01:09:40,4180
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,65,"Yandle, Christopher",USA,35-39,01:09:41,4181
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,66,"Ryan, Aaron",IRL,25-29,01:09:53,4193
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,67,"Roy, Cameron",USA,30-34,01:09:54,4194
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,68,"Rojas, Alejandro",VEN,35-39,01:09:55,4195
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,69,"Raftery, Drake",USA,25-29,01:09:55,4195
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,7,"Wenzel, Lucas",USA,25-29,01:02:39,3759
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,70,"Mann, Jack",USA,30-34,01:09:59,4199
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,71,"Radin, Joshua",USA,40-44,01:10:03,4203
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,72,"Kennedy, Kendrick",GER,35-39,01:10:05,4205
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,73,"Shanken, Ross",USA,35-39,01:10:06,4206
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,74,"Markett, Anthony",USA,16-24,01:10:08,4208
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,75,"Buott, Chris",CAN,40-44,01:10:09,4209
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,76,"Oshinski, Philip",USA,35-39,01:10:13,4213
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,77,"Clarke, Mike",USA,35-39,01:10:16,4216
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,78,"Hickok, Chris",USA,40-44,01:10:19,4219
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,79,"Leckner, Jack",USA,25-29,01:10:24,4224
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,8,"Nebel, Matthew",USA,30-34,01:03:06,3786
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,80,"Frye, Dylan",USA,16-24,01:10:25,4225
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,81,"Bouback, Matt",USA,50-54,01:10:27,4227
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,82,"Okarski, Jacob",USA,25-29,01:10:31,4231
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,83,"Kamens, Dalton",USA,30-34,01:10:32,4232
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,84,"Harris, Christian",USA,35-39,01:10:32,4232
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,85,"Comeau, Samuel",CAN,30-34,01:10:45,4245
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,86,"McConkey, Avery",USA,16-24,01:10:51,4251
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,87,"Saunders, Bishop",USA,25-29,01:10:57,4257
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,88,"Contreras, Ricardo",MEX,25-29,01:10:57,4257
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,89,"Buttermore, John",USA,45-49,01:11:05,4265
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,9,"Bryant, Parker",USA,25-29,01:03:30,3810
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,90,"Pouttu, Cody",USA,30-34,01:11:16,4276
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,91,"Dedoes, Mike",USA,40-44,01:11:18,4278
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,92,"Rovito, Jacob",USA,16-24,01:11:22,4282
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,93,"Kaszynski, Chris",USA,16-24,01:11:23,4283
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,94,"Ng, Donald",USA,30-34,01:11:23,4283
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,95,"Link, Matthew",USA,30-34,01:11:32,4292
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,96,"Grogan, Tim",USA,35-39,01:11:35,4295
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,97,"Epale, Julien",FRA,25-29,01:11:37,4297
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,98,"Thompson, Brandon",USA,40-44,01:11:40,4300
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,M,99,"Kostenzer, Anton",AUT,30-34,01:11:44,4304
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,1,"Duke, Katie",USA,35-39,01:02:41,3761
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,10,"Van Vlierbergen, Lauren",USA,25-29,01:07:42,4062
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,100,"Vesterinen, Heidi",FIN,45-49,01:16:57,4617
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,11,"Chandler, Cam-Ranh",USA,35-39,01:07:48,4068
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,12,"Johnson, Hanna",USA,25-29,01:07:49,4069
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,13,"Rooke, Lisa",CAN,30-34,01:07:52,4072
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,14,"Hendrickson, Kelsey",USA,35-39,01:07:53,4073
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,15,"Stocklmeir, Kim",USA,40-44,01:07:58,4078
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,16,"Cooley, Valerie",USA,45-49,01:08:19,4099
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,17,"Kaminski, Alexandra",USA,25-29,01:08:31,4111
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,18,"Waller, Kalyn",USA,35-39,01:08:45,4125
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,19,"Raftery, Wendy",USA,25-29,01:08:57,4137
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,2,"Sachtleben, Bethany",USA,30-34,01:05:03,3903
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,20,"Burtch, Audra",USA,30-34,01:09:03,4143
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,21,"McIlroy, Madeleine",USA,16-24,01:09:21,4161
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,22,"Sparks, Madi",USA,16-24,01:09:34,4174
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,23,"Lee, Vesna",USA,35-39,01:09:44,4184
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,24,"Ellis, Johnna",USA,30-34,01:09:48,4188
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,25,"De Lucas, Yesica",ESP,25-29,01:10:04,4204
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,26,"Hoehn, Katie",USA,35-39,01:10:13,4213
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,27,"Kim, Mikang",USA,30-34,01:10:32,4232
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,28,"Delia, Catie",USA,30-34,01:11:00,4260
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,29,"Morris, Olivia",USA,25-29,01:11:01,4261
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,3,"Cummins, Jordyn",USA,30-34,01:06:35,3995
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,30,"Burda, Courtney",USA,35-39,01:11:03,4263
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,31,"Whitcomb, Kathryn",USA,30-34,01:11:08,4268
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,32,"Rezac, Taylor",USA,25-29,01:11:16,4276
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,33,"Dierikx, Kelsey",USA,30-34,01:11:20,4280
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,34,"Berger, Sydney",USA,30-34,01:11:22,4282
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,35,"Genova, Erin",USA,45-49,01:11:23,4283
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,36,"Munoz-Ellmann, Jackie",USA,40-44,01:11:30,4290
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,37,"McNamara, Kaitlyn",USA,16-24,01:11:38,4298
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,38,"Berks, Teryn",USA,16-24,01:11:41,4301
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,39,"Viteretti, Amanda",USA,30-34,01:11:42,4302
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,4,"Agostinelli, Chloe",USA,25-29,01:06:46,4006
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,40,"Robinson, Linda",USA,16-24,01:12:00,4320
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,41,"Gipe, Jessie",USA,35-39,01:12:01,4321
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,42,"Franko, Sydney",USA,30-34,01:12:17,4337
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,43,"GINSKI, AMANDA",USA,35-39,01:12:29,4349
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,44,"Nowlin, Jenna",USA,35-39,01:12:33,4353
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,45,"Sedjo, Lydia",USA,25-29,01:12:38,4358
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,46,"Woods, Hannah-Grace",USA,25-29,01:12:42,4362
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,47,"Durastanti, Ashley",USA,16-24,01:13:24,4404
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,48,"Shabaz, Sophie",USA,16-24,01:13:26,4406
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,49,"Paul, Peyton",USA,25-29,01:13:35,4415
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,5,"Dennes, Jill",USA,30-34,01:06:48,4008
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,50,"Mussay, Madeline",USA,16-24,01:13:36,4416
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,51,"Woods, Carmen",USA,35-39,01:13:40,4420
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,52,"Horman, Lindsay",USA,35-39,01:13:44,4424
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,53,"Smith, Francesca",USA,30-34,01:13:45,4425
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,54,"Pagan, Claire",USA,40-44,01:13:56,4436
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,55,"Barlow, Adriana",USA,25-29,01:14:02,4442
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,56,"Douglas, Megan",USA,30-34,01:14:03,4443
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,57,"Bates, Erin",USA,35-39,01:14:07,4447
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,58,"Rebosio, Gianna",USA,25-29,01:14:15,4455
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,59,"Mergener, Emily",USA,25-29,01:14:16,4456
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,6,"Opeikun, Dana",USA,30-34,01:06:48,4008
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,60,"Schwantes, Sydney",USA,25-29,01:14:17,4457
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,61,"Smith, Kourtney",USA,25-29,01:14:19,4459
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,62,"Williams, Amber",USA,35-39,01:14:20,4460
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,63,"Summers, Amanda",USA,30-34,01:14:22,4462
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,64,"Blagg, Gwen",USA,40-44,01:14:23,4463
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,65,"Leggett, Jessica",USA,35-39,01:14:33,4473
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,66,"Inglis, Antoinette",AUS,25-29,01:14:52,4492
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,67,"Wagner, Bridget",USA,25-29,01:14:54,4494
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,68,"Pozdol, Melanie",USA,35-39,01:14:55,4495
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,69,"Cardwell, Shari",USA,45-49,01:15:20,4520
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,7,"MacNeill, Steph",CAN,35-39,01:07:14,4034
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,70,"VanTuinen, Hannah",USA,16-24,01:15:25,4525
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,71,"Frazier, Meredith",USA,30-34,01:15:29,4529
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,72,"OConnor, Brittany",USA,35-39,01:15:31,4531
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,73,"Custer, Whitney",USA,40-44,01:15:32,4532
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,74,"Lodico, Kate",USA,30-34,01:15:37,4537
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,75,"Killian, Alyssa",USA,35-39,01:15:38,4538
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,76,"Bernardes, Alexis",CAN,16-24,01:15:39,4539
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,77,"Constantino, Jazmine",USA,30-34,01:15:42,4542
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,78,"Cipriano, Kelly",USA,30-34,01:15:59,4559
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,79,"Ahalt, Claire",USA,30-34,01:16:04,4564
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,8,"Strong, Kylie",USA,25-29,01:07:25,4045
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,80,"Lowery, Sasha",USA,25-29,01:16:06,4566
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,81,"Pastko, Julie",USA,40-44,01:16:09,4569
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,82,"Scherer, Sydney",USA,25-29,01:16:10,4570
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,83,"Edwards, Sarah",USA,25-29,01:16:19,4579
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,84,"Mueller, Lisa",USA,40-44,01:16:20,4580
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,85,"Ng, Megan",USA,25-29,01:16:21,4581
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,86,"Ryan, Karli",USA,16-24,01:16:21,4581
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,87,"Burns, Laura",USA,30-34,01:16:23,4583
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,88,"Difini, Gisela",BRA,25-29,01:16:24,4584
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,89,"Johnson, Francesca",USA,30-34,01:16:25,4585
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,9,"Jamerino, Melissa",USA,40-44,01:07:34,4054
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,90,"Itani, Anaïs",FRA,16-24,01:16:26,4586
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,91,"Brunori, Kate",USA,30-34,01:16:29,4589
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,92,"Ventura, Stephanie",HON,25-29,01:16:32,4592
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,93,"Tirch, Ella",USA,16-24,01:16:36,4596
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,94,"Sullivan, Lana",CAN,40-44,01:16:36,4596
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,95,"Williamson, Brittanie",USA,35-39,01:16:38,4598
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,96,"Kerley, Lindsey",USA,35-39,01:16:48,4608
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,97,"Ayres, Leah",USA,35-39,01:16:48,4608
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,98,"Hiestand, Jess",USA,30-34,01:16:49,4609
+Chicago 2025,H_Chicago25_OVERALL,"Chicago, IL, USA",North America,W,99,"Boulier, Sarena",USA,45-49,01:16:55,4615
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,1,"Parker, Lucas",GBR,16-24,00:55:08,3308
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,10,"Beattie, Ryan",GBR,35-39,00:57:43,3463
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,100,"Mcmahon, Kevin",IRL,35-39,01:03:59,3839
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,11,"Fahey, Andrew",AUS,40-44,00:58:18,3498
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,12,"Nolan, Rory",IRL,16-24,00:58:33,3513
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,13,"Pettigrew, Gary",GBR,30-34,00:58:35,3515
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,14,"Möller, Felix",AUT,16-24,00:58:54,3534
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,15,"Bassett, Aaron",IRL,30-34,00:59:19,3559
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,16,"Mulholland, Lloyd",GBR,30-34,00:59:27,3567
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,17,"Millar, Christopher",GBR,40-44,00:59:30,3570
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,18,"Maguire, Conor",IRL,16-24,00:59:37,3577
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,19,"Penton, Jamie",GBR,30-34,00:59:40,3580
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,2,"Woodman, Aaron",IRL,40-44,00:56:17,3377
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,20,"Harkin, Colin",IRL,35-39,00:59:44,3584
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,21,"Deacon, Dan",GBR,40-44,00:59:50,3590
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,22,"Carmody, Mike",IRL,35-39,00:59:56,3596
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,23,"Dooley, Paul",IRL,35-39,00:59:56,3596
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,24,"Hendry, David",GBR,35-39,01:00:00,3600
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,25,"Bourne, Andrew",GBR,30-34,01:00:01,3601
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,26,"Hudson, Jay",SCO,25-29,01:00:02,3602
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,27,"Rushe, Paul",IRL,45-49,01:00:02,3602
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,28,"Mc Kenna, Michael",IRL,25-29,01:00:03,3603
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,29,"Lynch, Stephen",IRL,40-44,01:00:21,3621
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,3,"Magill, Connor",IRL,40-44,00:56:27,3387
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,30,"Aleksandrovic, Nikita",IRL,16-24,01:00:21,3621
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,31,"Delavari, Kyle",IRL,35-39,01:00:23,3623
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,32,"Brooke, Sam",GBR,25-29,01:00:26,3626
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,33,"Mcnamee, Bryan",IRL,25-29,01:00:44,3644
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,34,"Mccann, Michael",IRL,16-24,01:00:48,3648
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,35,"Trannent, Mikey",GBR,35-39,01:00:50,3650
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,36,"Plunkett, Daire",IRL,35-39,01:00:50,3650
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,37,"Currie, John",GBR,30-34,01:00:53,3653
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,38,"O' Reilly, Stephen",IRL,30-34,01:00:58,3658
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,39,"O Brien, Ronan",IRL,30-34,01:00:59,3659
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,4,"Mcloughlin, Ryan",IRL,30-34,00:56:53,3413
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,40,"Brock, George",GBR,16-24,01:01:02,3662
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,41,"Syme, Stuart",GBR,40-44,01:01:06,3666
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,42,"Whiteway, Dylan",IRL,25-29,01:01:07,3667
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,43,"Adams, Tom",GBR,30-34,01:01:11,3671
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,44,"Tomaney, Joe",GBR,45-49,01:01:19,3679
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,45,"Porter, Robbie",IRL,30-34,01:01:21,3681
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,46,"Grimes, Ruairi",IRL,30-34,01:01:24,3684
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,47,"Mcnamara, Declan",IRL,25-29,01:01:28,3688
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,48,"Armstrong, Lloyd",GBR,25-29,01:01:36,3696
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,49,"Moran, Gareth",IRL,35-39,01:01:38,3698
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,5,"Paterson, Martyn",GBR,30-34,00:57:14,3434
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,50,"Thompson, Decky",IRL,25-29,01:01:44,3704
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,51,"Smith, Ryan",GBR,35-39,01:01:47,3707
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,52,"Linton, Sean",GBR,35-39,01:01:49,3709
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,53,"Maybin, Brian",IRL,40-44,01:01:52,3712
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,54,"Mc Dermott, Patrick",IRL,25-29,01:01:53,3713
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,55,"Byrne, Ronan",IRL,16-24,01:01:55,3715
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,56,"Murphy, Tom",GBR,16-24,01:02:00,3720
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,57,"Dariel, Eric",FRA,35-39,01:02:02,3722
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,58,"Flynn, Mickey",IRL,35-39,01:02:02,3722
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,59,"Murray, Sam",GBR,16-24,01:02:08,3728
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,6,"Stack, Ryan",GBR,30-34,00:57:23,3443
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,60,"Tolan, Michael",IRL,25-29,01:02:08,3728
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,61,"Ryan, Dom",IRL,40-44,01:02:13,3733
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,62,"Cole, Jonny",IRL,30-34,01:02:15,3735
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,63,"Mcevoy, Darren",IRL,25-29,01:02:16,3736
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,64,"Guerin, David",IRL,45-49,01:02:17,3737
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,65,"Mullan, Mark",IRL,45-49,01:02:17,3737
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,66,"Greggains, Lennon",GBR,25-29,01:02:24,3744
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,67,"Bettis, Louis",GBR,25-29,01:02:28,3748
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,68,"Sharpe, James",IRL,25-29,01:02:31,3751
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,69,"Mcdonald, Ryan",IRL,30-34,01:02:32,3752
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,7,"Timmons, Paul",IRL,40-44,00:57:27,3447
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,70,"Healy, Eoin",IRL,35-39,01:02:43,3763
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,71,"Casap, Vladimir",GBR,30-34,01:02:50,3770
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,72,"Mcsorley, Paddy",IRL,35-39,01:02:51,3771
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,73,"Ronan, Robert",IRL,25-29,01:02:52,3772
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,74,"Kelly, Shane",IRL,35-39,01:02:52,3772
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,75,"Skwara, Krystian",POL,35-39,01:02:56,3776
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,76,"Mundie, Paul",IRL,35-39,01:03:04,3784
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,77,"Horner, Kevin",IRL,35-39,01:03:06,3786
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,78,"Moloney, Sean",IRL,16-24,01:03:08,3788
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,79,"Weaver, Leonard",GBR,25-29,01:03:12,3792
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,8,"Sutton, Mj",IRL,25-29,00:57:31,3451
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,80,"Wrafter, Simon",IRL,35-39,01:03:13,3793
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,81,"Doorley, Harry",IRL,25-29,01:03:13,3793
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,82,"Van Drunen, Floris",NED,30-34,01:03:16,3796
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,83,"Turner, Matt",GBR,30-34,01:03:17,3797
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,84,"Newbold, Joe",GBR,35-39,01:03:17,3797
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,85,"Hallas, Daniel",GBR,25-29,01:03:20,3800
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,86,"Shrives, Paul",GBR,40-44,01:03:22,3802
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,87,"Reynolds, Robert",IRL,25-29,01:03:23,3803
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,88,"Dignam, Jason",IRL,16-24,01:03:24,3804
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,89,"Mc Kenna, Patrick",IRL,40-44,01:03:24,3804
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,9,"Lawrence, Jack",GBR,25-29,00:57:43,3463
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,90,"Collins, Tom",IRL,16-24,01:03:25,3805
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,91,"Archer, Harry",GBR,25-29,01:03:25,3805
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,92,"Coverdale, Owen",GBR,30-34,01:03:27,3807
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,93,"O'Brien, James",IRL,30-34,01:03:28,3808
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,94,"Cross, Jack",GBR,35-39,01:03:44,3824
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,95,"Perez Rodriguez, Victor",ESP,40-44,01:03:46,3826
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,96,"Carroll, Matthew",GBR,30-34,01:03:47,3827
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,97,"Maleuvre, Romain",FRA,25-29,01:03:48,3828
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,98,"Higgins, Donnacha",IRL,35-39,01:03:52,3832
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,M,99,"Mcinally, Steven",GBR,35-39,01:03:55,3835
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,1,"Chumley, Maleah",USA,16-24,01:02:07,3727
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,10,"Cole, Michelle",IRL,30-34,01:06:46,4006
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,100,"Brown, Tiffany",GBR,30-34,01:14:23,4463
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,11,"Sawyer, Chloe",IRL,25-29,01:06:47,4007
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,12,"Mckinstry, Kathryn",IRL,25-29,01:06:48,4008
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,13,"Cunningham, Lauren",IRL,30-34,01:07:01,4021
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,14,"Mclaughlin, Emma",GBR,16-24,01:07:46,4066
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,15,"Jones, Holly",IRL,16-24,01:08:10,4090
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,16,"Sheehan, Aine",IRL,35-39,01:08:32,4112
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,17,"Casey, Dearbhla",IRL,30-34,01:08:34,4114
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,18,"Lee-Amies, Sophie",GBR,16-24,01:08:40,4120
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,19,"Mckee, Robyn",GBR,30-34,01:08:44,4124
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,2,"Quinlan, Louise",IRL,30-34,01:04:51,3891
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,20,"Byrne, Eleanor",IRL,25-29,01:08:45,4125
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,21,"Mckenna, Georgina Anne",IRL,45-49,01:08:48,4128
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,22,"Foley, Rachel",IRL,35-39,01:09:04,4144
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,23,"Mcwilliams, Evelyn",IRL,40-44,01:09:05,4145
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,24,"Haddon, Faye",GBR,30-34,01:09:14,4154
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,25,"Duggan, Niamh",IRL,30-34,01:09:16,4156
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,26,"Coyle, Jodie",IRL,30-34,01:09:17,4157
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,27,"Kennedy-Clarke, Grace",IRL,40-44,01:09:23,4163
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,28,"Burke, Katie",GBR,25-29,01:09:31,4171
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,29,"Mccarry, Anne",IRL,30-34,01:09:33,4173
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,3,"Dollimore, Stephanie",GBR,25-29,01:04:55,3895
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,30,"Fagan, Ciara",IRL,35-39,01:09:36,4176
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,31,"Moore, Devon",GBR,25-29,01:09:37,4177
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,32,"Mccloskey, Maeve",IRL,30-34,01:09:40,4180
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,33,"Harrison, Joanna",GBR,35-39,01:09:47,4187
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,34,"Nally, Lelia",IRL,30-34,01:09:57,4197
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,35,"Walsh, Molly",IRL,16-24,01:09:58,4198
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,36,"Myers, Georgia",GBR,16-24,01:10:11,4211
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,37,"Dunleavy, Roisin",IRL,35-39,01:10:19,4219
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,38,"Rothery, Emily",GBR,25-29,01:10:22,4222
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,39,"Mckay, Kerrie",GBR,35-39,01:10:29,4229
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,4,"Golden, Roisin",IRL,35-39,01:05:34,3934
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,40,"Mackay, Erin",GBR,25-29,01:10:32,4232
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,41,"Crowder, Mya",GBR,25-29,01:10:33,4233
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,42,"Fierville, Nolwenn",FRA,25-29,01:10:36,4236
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,43,"Oleary, Aoife",IRL,25-29,01:10:43,4243
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,44,"Fanning, Maggie",IRL,25-29,01:10:43,4243
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,45,"Fitzpatrick, Lavina",IRL,40-44,01:10:51,4251
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,46,"Mcsheffrey, Aife",IRL,25-29,01:10:59,4259
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,47,"Mcmurray, Holly",GBR,35-39,01:11:04,4264
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,48,"Smyth, Lorraine",IRL,45-49,01:11:05,4265
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,49,"Byrne, Kate",IRL,16-24,01:11:10,4270
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,5,"Irwin, Caroline",GBR,40-44,01:05:52,3952
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,50,"Cope, Lydia",IRL,25-29,01:11:12,4272
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,51,"Roche, Janine",IRL,35-39,01:11:13,4273
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,52,"Kempton, Ruth",GBR,30-34,01:11:15,4275
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,53,"Murphy, Susanna",IRL,40-44,01:11:16,4276
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,54,"Mccann, Bronagh",IRL,25-29,01:11:16,4276
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,55,"Lawlor, Niamh",IRL,25-29,01:11:20,4280
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,56,"Mcgilloway, Suzanne",IRL,35-39,01:11:34,4294
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,57,"Mcconville, Emma",IRL,25-29,01:11:34,4294
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,58,"Skeels, Becky",GBR,35-39,01:11:35,4295
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,59,"Locke, Alice",GBR,16-24,01:11:40,4300
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,6,"Byrne, Maria",IRL,25-29,01:06:05,3965
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,60,"Dobson, Paige",GBR,16-24,01:11:40,4300
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,61,"Kenney, Katie",GBR,40-44,01:11:50,4310
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,62,"Poole, Daisy",GBR,16-24,01:11:58,4318
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,63,"O'Brien, Ellen",IRL,25-29,01:11:59,4319
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,64,"Doran, Niamh",IRL,30-34,01:11:59,4319
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,65,"Neely, Keeva",IRL,25-29,01:12:00,4320
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,66,"Brolly, Danielle",IRL,30-34,01:12:01,4321
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,67,"Ferguson, Kirsty",GBR,35-39,01:12:02,4322
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,68,"Shannon, Erinn",IRL,16-24,01:12:04,4324
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,69,"Farrell, Anya Ksenia",IRL,25-29,01:12:06,4326
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,7,"Stanley, Rebekah",IRL,25-29,01:06:09,3969
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,70,"Butler, Delyth",GBR,45-49,01:12:10,4330
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,71,"Brady, Cathriona",IRL,45-49,01:12:13,4333
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,72,"Potter, Rebecca",IRL,40-44,01:12:14,4334
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,73,"Kelly, Nicole",IRL,25-29,01:12:17,4337
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,74,"Oates, Katie",IRL,25-29,01:12:19,4339
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,75,"Curtin, Shauna",IRL,40-44,01:12:27,4347
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,76,"Gillman, Lisa",IRL,25-29,01:12:29,4349
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,77,"Mills, Rachel",GBR,45-49,01:12:31,4351
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,78,"Mccartney, Nicola",GBR,35-39,01:12:32,4352
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,79,"Doyle, Molly",IRL,16-24,01:12:34,4354
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,8,"Mcnair, Amy",GBR,16-24,01:06:17,3977
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,80,"Kee, Kirsty",IRL,30-34,01:12:38,4358
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,81,"Zilinskaite, Vitalija",LTU,30-34,01:12:42,4362
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,82,"Cadette, Tyra",GBR,25-29,01:12:44,4364
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,83,"Mc Carthy, Jennifer",IRL,35-39,01:12:51,4371
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,84,"Allen, Zoe",IRL,35-39,01:12:51,4371
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,85,"Hughes, Jolene",GBR,45-49,01:12:57,4377
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,86,"Maguire, Olive",IRL,25-29,01:12:57,4377
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,87,"O Donovan, Ellie",IRL,16-24,01:13:01,4381
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,88,"Fraser, Emma",GBR,25-29,01:13:04,4384
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,89,"Pavlaviciute, Paulina",IRL,25-29,01:13:11,4391
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,9,"Castillo, Francesca",GBR,25-29,01:06:17,3977
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,90,"Simpson, Sandra",IRL,40-44,01:13:13,4393
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,91,"Stephenson, Danielle",GBR,25-29,01:13:13,4393
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,92,"Bolger, Grainne",IRL,45-49,01:13:33,4413
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,93,"Jackman, Kate",IRL,16-24,01:13:43,4423
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,94,"tacoen, isadora",ESP,30-34,01:13:45,4425
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,95,"Barry, Marita",IRL,30-34,01:14:00,4440
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,96,"Khorev, Lisa",IRL,30-34,01:14:16,4456
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,97,"Guerin, Naomi",IRL,35-39,01:14:17,4457
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,98,"Simmons, Eiran",IRL,30-34,01:14:21,4461
+Dublin 2025,H_Dublin25_OVERALL,"Dublin, Ireland",Europe,W,99,"Miles, Katie",GBR,30-34,01:14:21,4461
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,1,"Bernier, Alexis",FRA,35-39,00:55:21,3321
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,10,"Beattie, Steven",GBR,30-34,00:57:02,3422
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,100,"Prior, Josh",GBR,25-29,01:01:29,3689
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,11,"Allon-Smith, Ben",GBR,30-34,00:57:02,3422
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,12,"Magner, Gavin",GBR,30-34,00:57:29,3449
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,13,"Carmody, Mike",IRL,35-39,00:57:30,3450
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,14,"Hogarth, Gavin",GBR,40-44,00:57:46,3466
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,15,"Roberts, Toby",GBR,30-34,00:57:46,3466
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,16,"Taylor, Samuel",GBR,16-24,00:57:53,3473
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,17,"Gibson, Ryan",GBR,30-34,00:57:55,3475
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,18,"Dooley, Paul",IRL,35-39,00:57:56,3476
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,19,"Mullins, Perry",GBR,30-34,00:58:17,3497
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,2,"Overton, Callum",GBR,25-29,00:55:50,3350
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,20,"Agnew, Matt",GBR,30-34,00:58:25,3505
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,21,"Brock, George",GBR,16-24,00:58:26,3506
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,22,"Neville, Alex",GBR,25-29,00:58:26,3506
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,23,"Bassett, Aaron",IRL,30-34,00:58:29,3509
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,24,"Day, Simon",GBR,40-44,00:58:31,3511
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,25,"Askin, Bailey",GBR,16-24,00:58:38,3518
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,26,"Short, Callum",GBR,30-34,00:58:39,3519
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,27,"Baddeley, Mark",GBR,30-34,00:58:40,3520
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,28,"Gardiner, Craig",GBR,25-29,00:58:40,3520
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,29,"Higgs, Kieran",GBR,25-29,00:58:40,3520
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,3,"Vatcher, Joe",GBR,16-24,00:56:14,3374
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,30,"Georgiev, Nikolay",BUL,30-34,00:58:44,3524
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,31,"Mccauley, Kyle",GBR,25-29,00:58:45,3525
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,32,"Riedel, Jakub",POL,16-24,00:58:46,3526
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,33,"Brown, Patrick",GBR,45-49,00:58:47,3527
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,34,"Magida, David",USA,35-39,00:58:50,3530
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,35,"Di Tavi, Gaetano",ITA,30-34,00:58:51,3531
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,36,"Chamayou Brien, Romain",FRA,25-29,00:58:52,3532
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,37,"Davies, Gareth",GBR,35-39,00:58:57,3537
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,38,"Claeys, Zaquery",GBR,25-29,00:58:57,3537
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,39,"Daly, Mick",IRL,35-39,00:58:57,3537
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,4,"Woodman, Aaron",GBR,40-44,00:56:25,3385
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,40,"Clayton, Lee",GBR,35-39,00:59:06,3546
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,41,"Hilley, Alan",GBR,35-39,00:59:09,3549
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,42,"Hale, Adam",GBR,35-39,00:59:09,3549
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,43,"Strong, Ben",GBR,35-39,00:59:10,3550
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,44,"Maybin, Brian",IRL,40-44,00:59:11,3551
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,45,"Hesselberth, Paul",NED,25-29,00:59:13,3553
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,46,"Hage, Tom",GBR,25-29,00:59:14,3554
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,47,"Bauer, Nicholas",GER,25-29,00:59:14,3554
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,48,"Morris, Charlie",GBR,25-29,00:59:20,3560
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,49,"Chowns Higgs, Nathan",GBR,16-24,00:59:21,3561
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,5,"Kara, Rayane",FRA,16-24,00:56:29,3389
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,50,"Henry, Conor",GBR,30-34,00:59:21,3561
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,51,"Barnard, Joshua",GBR,30-34,00:59:23,3563
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,52,"Cook, Glen",GBR,30-34,00:59:29,3569
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,53,"Bourne, Andrew",GBR,30-34,00:59:35,3575
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,54,"Beadle, Steven",GBR,35-39,00:59:35,3575
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,55,"Brown, Dominic",GBR,30-34,00:59:39,3579
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,56,"Pociask, Arek",POL,16-24,00:59:42,3582
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,57,"Lloyd, Kieren",GBR,30-34,00:59:43,3583
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,58,"Holberry, Jay",GBR,40-44,00:59:47,3587
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,59,"Cresswell, Lewis",GBR,25-29,00:59:47,3587
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,6,"Mc Ginley, Reece",IRL,25-29,00:56:32,3392
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,60,"West, Sam",GBR,35-39,00:59:47,3587
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,61,"Irving, Iain",GBR,40-44,00:59:52,3592
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,62,"Woodland, Harry",GBR,16-24,00:59:55,3595
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,63,"Farrell, Connor",GBR,30-34,00:59:57,3597
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,64,"Barber, Tom",GBR,30-34,00:59:58,3598
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,65,"Duncan, Harry",GBR,16-24,00:59:58,3598
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,66,"Cabey, Sean",GBR,30-34,01:00:00,3600
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,67,"Thorley, Adam",GBR,30-34,01:00:00,3600
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,68,"Aleksandrovics, Nikita",IRL,16-24,01:00:01,3601
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,69,"Sankey, Joe",GBR,35-39,01:00:05,3605
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,7,"Parkin, David",GBR,35-39,00:56:52,3412
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,70,"Marsland, Jamie",GBR,35-39,01:00:09,3609
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,71,"Shaw, Chris",SCO,35-39,01:00:11,3611
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,72,"Crisp, Ryan",GBR,30-34,01:00:12,3612
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,73,"Rogers, Aaron",GBR,30-34,01:00:27,3627
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,74,"Eccleshare, Matthew",GBR,30-34,01:00:29,3629
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,75,"Lewis, Joshua",GBR,16-24,01:00:30,3630
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,76,"Gibson, Alex",GBR,30-34,01:00:33,3633
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,77,"Brammeier, Matt",GBR,40-44,01:00:36,3636
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,78,"Robinson, Lee",GBR,30-34,01:00:38,3638
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,79,"Fisher, Joe",GBR,40-44,01:00:39,3639
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,8,"Bloomfield, Marc",GBR,35-39,00:56:55,3415
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,80,"Hill, Carl",GBR,30-34,01:00:40,3640
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,81,"Nadi, Rachid",GBR,35-39,01:00:41,3641
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,82,"Ayin, Alex",GBR,30-34,01:00:45,3645
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,83,"O'Halloran, Phil",GBR,40-44,01:00:45,3645
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,84,"Raffault, Adrien",FRA,35-39,01:00:46,3646
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,85,"Hancock, Darren",GBR,40-44,01:00:47,3647
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,86,"Bordessoule, Leo",FRA,25-29,01:00:48,3648
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,87,"Herold, Ryan",GBR,30-34,01:00:50,3650
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,88,"Donner, Elliott",GBR,25-29,01:00:50,3650
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,89,"Binns, Louis",GBR,40-44,01:00:53,3653
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,9,"Stevens, Zac",GBR,25-29,00:57:01,3421
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,90,"Guščinas, Rokas",LTU,30-34,01:00:54,3654
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,91,"Randall, Zac",GBR,30-34,01:00:55,3655
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,92,"Edmondson, Harry",GBR,16-24,01:01:00,3660
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,93,"Williams, Andrew",GBR,25-29,01:01:03,3663
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,94,"Goodwin, Jack",GBR,30-34,01:01:05,3665
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,95,"Lythgoe, Daniel",GBR,30-34,01:01:06,3666
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,96,"Jones, Josh",GBR,30-34,01:01:08,3668
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,97,"Legaspi, Eimard",GBR,25-29,01:01:22,3682
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,98,"Sellman, Lee",GBR,16-24,01:01:23,3683
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,M,99,"Dow, Luke",GBR,35-39,01:01:27,3687
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,1,"Archer, Holly",GBR,30-34,01:01:01,3661
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,10,"Penfold, Tiff",GBR,25-29,01:04:21,3861
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,100,"Harrop, Emma",GBR,16-24,01:10:35,4235
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,11,"Mortimer, Evangeline",GBR,30-34,01:04:30,3870
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,12,"Owen, Rebecca",GBR,30-34,01:04:31,3871
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,13,"Lawrence, Natalie",GBR,35-39,01:04:45,3885
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,14,"Dunlop, Georgia",GBR,25-29,01:05:05,3905
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,15,"Evans, Ffion",GBR,30-34,01:05:19,3919
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,16,"Messenger, Cerys",GBR,35-39,01:05:23,3923
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,17,"Gosling, Ellie",GBR,40-44,01:05:31,3931
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,18,"Hamilton, Kelly",GBR,35-39,01:05:40,3940
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,19,"Ormerod, Stacey",GBR,40-44,01:05:50,3950
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,2,"Davies, Alice",GBR,16-24,01:02:02,3722
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,20,"Powell, Jessica",GBR,30-34,01:06:11,3971
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,21,"Watson, Aimee",GBR,25-29,01:06:15,3975
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,22,"Garside, Steph",GBR,40-44,01:06:23,3983
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,23,"Watson, Hannah",GBR,16-24,01:06:25,3985
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,24,"Scott, Lauren",GBR,16-24,01:06:47,4007
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,25,"Sheahan, Sinead",IRL,30-34,01:06:49,4009
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,26,"Mullen, Emma",GBR,30-34,01:07:03,4023
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,27,"James, Rosanna",GBR,30-34,01:07:16,4036
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,28,"Ferris, Clara",IRL,16-24,01:07:16,4036
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,29,"Nairn, Elizabeth",GBR,40-44,01:07:28,4048
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,3,"Mcgarvey, Grace",GBR,16-24,01:02:56,3776
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,30,"Darlington, Natalie",GBR,35-39,01:07:40,4060
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,31,"Partington, Katy",GBR,30-34,01:07:47,4067
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,32,"Naqwi, Beth",GBR,25-29,01:07:51,4071
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,33,"Marr, Emily",GBR,30-34,01:08:01,4081
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,34,"Andrews, Sophie",GBR,25-29,01:08:01,4081
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,35,"Limb, Georgia",GBR,25-29,01:08:03,4083
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,36,"Dunn, Nicola",GBR,30-34,01:08:05,4085
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,37,"Walsh, Rosie",GBR,16-24,01:08:06,4086
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,38,"Brown, Laura",GBR,35-39,01:08:11,4091
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,39,"Woolf, Charlotte",GBR,35-39,01:08:12,4092
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,4,"Evans, Ffion",GBR,30-34,01:02:58,3778
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,40,"Wilkinson, Ellie",GBR,25-29,01:08:13,4093
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,41,"Tweedie, Rhianna",SCO,30-34,01:08:13,4093
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,42,"Holmiere, Clarisse",FRA,25-29,01:08:14,4094
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,43,"Mcnair, Amy",GBR,16-24,01:08:15,4095
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,44,"Mcsherry, Jodi",GBR,35-39,01:08:19,4099
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,45,"Weller, Victoria",GER,30-34,01:08:21,4101
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,46,"Backers, Jessie",GBR,16-24,01:08:22,4102
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,47,"Wild, Kate",GBR,30-34,01:08:25,4105
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,48,"Pagan, Fiona",GBR,25-29,01:08:25,4105
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,49,"Porter, Amelia",GBR,25-29,01:08:32,4112
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,5,"Khalique, Hannah",GBR,16-24,01:03:00,3780
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,50,"Gray, Anna",GBR,25-29,01:08:39,4119
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,51,"Stevens, Becky",GBR,30-34,01:08:39,4119
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,52,"Helyar, Rachel",GBR,40-44,01:08:44,4124
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,53,"Williams, Megan",GBR,35-39,01:08:48,4128
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,54,"Powell, Egle",LTU,30-34,01:08:50,4130
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,55,"Wild, Macey",GBR,16-24,01:08:52,4132
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,56,"Brown, Emma",GBR,40-44,01:08:52,4132
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,57,"Rawlinson, Lucy",GBR,25-29,01:08:55,4135
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,58,"Picton, Gemma",GBR,40-44,01:08:55,4135
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,59,"Parsons, Xenia",GBR,55-59,01:08:55,4135
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,6,"Greenshields, Grace",GBR,16-24,01:03:11,3791
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,60,"Cooper, Lauren",GBR,30-34,01:08:57,4137
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,61,"Hunt-Williams, Lauren",GBR,25-29,01:08:58,4138
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,62,"Orchardson, Erin",GBR,25-29,01:08:58,4138
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,63,"Hobbs, Sophie",GBR,16-24,01:08:59,4139
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,64,"Morris, Naomi",GBR,30-34,01:09:03,4143
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,65,"Streek, Emily",GBR,30-34,01:09:04,4144
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,66,"Mullerat-Pigem, Maria",ESP,25-29,01:09:11,4151
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,67,"Chapman, Michelle",GBR,35-39,01:09:18,4158
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,68,"Davis, Emma",GBR,45-49,01:09:20,4160
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,69,"Devereux, Saskia",GBR,25-29,01:09:21,4161
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,7,"Sales, Emily",GBR,30-34,01:03:11,3791
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,70,"Wallis, Emily",GBR,35-39,01:09:23,4163
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,71,"Page, Danielle",GBR,25-29,01:09:23,4163
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,72,"Brooke, Lizi",GBR,35-39,01:09:26,4166
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,73,"Broomfield, Anna",GBR,25-29,01:09:27,4167
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,74,"Blackley, Lynn",GBR,35-39,01:09:30,4170
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,75,"Pennant, Maisie",GBR,25-29,01:09:34,4174
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,76,"De Beer, Emily",RSA,25-29,01:09:34,4174
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,77,"Ryan, Joanna",GBR,16-24,01:09:37,4177
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,78,"Nolan, Phillipa",GBR,30-34,01:09:44,4184
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,79,"Hampton-Williams, Jemima",GBR,16-24,01:09:48,4188
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,8,"White, Louise",GBR,25-29,01:03:24,3804
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,80,"Burrell, Kirsty",GBR,35-39,01:09:49,4189
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,81,"James, Ellis",GBR,25-29,01:09:49,4189
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,82,"O’Gorman, Ellie",GBR,30-34,01:09:52,4192
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,83,"Davidson, Ashleigh",GBR,30-34,01:09:58,4198
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,84,"Williams, Stephanie",GBR,30-34,01:09:58,4198
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,85,"Mcgill, Sinead",GBR,30-34,01:10:00,4200
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,86,"Mclachlan, Sophie",GBR,30-34,01:10:03,4203
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,87,"Canham, Lucy",GBR,35-39,01:10:03,4203
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,88,"Høm, Freja",DEN,30-34,01:10:07,4207
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,89,"Miller, Mhairi",SCO,16-24,01:10:07,4207
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,9,"English, Alice",GBR,16-24,01:04:15,3855
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,90,"Saunders, Emily",GBR,16-24,01:10:07,4207
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,91,"Howat, Ellie",GBR,25-29,01:10:08,4208
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,92,"Miles, Katie",GBR,30-34,01:10:17,4217
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,93,"Gillespie, Lauren",GBR,35-39,01:10:20,4220
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,94,"Lee-Amies, Sophie",GBR,16-24,01:10:25,4225
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,95,"Leckie, Holly",GBR,30-34,01:10:26,4226
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,96,"Basinger, Alyssa",GBR,16-24,01:10:29,4229
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,97,"Hope, Deborah",GBR,45-49,01:10:29,4229
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,98,"Myers, Georgia",GBR,16-24,01:10:31,4231
+London Excel 2025,H_Excel25_OVERALL,"London, UK",Europe,W,99,"Lee, Annabelle",NZL,25-29,01:10:33,4233
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,1,"Odonnell, Michael",GBR,16-24,00:58:09,3489
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,10,"Simoneau, Louis",FRA,30-34,01:01:28,3688
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,100,"Smeets, Kaj",NED,30-34,01:09:18,4158
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,11,"Reuter, Torsten",GER,40-44,01:02:18,3738
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,12,"Krackl, Nico",GER,35-39,01:02:30,3750
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,13,"Van Der Ent, Hidde",NED,16-24,01:02:33,3753
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,14,"D'Hont, Sander",NED,30-34,01:03:12,3792
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,15,"Kienle, Tobias",GER,30-34,01:03:12,3792
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,16,"Van Zanten, Jeroen",NED,35-39,01:03:21,3801
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,17,"James, Jelani",NED,16-24,01:03:29,3809
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,18,"Kojc, Jože",SLO,55-59,01:03:34,3814
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,19,"Mersch, Matij",NED,40-44,01:03:42,3822
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,2,"Kojc, Nik",SLO,25-29,00:58:42,3522
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,20,"Dijkstra, Kjeld",NED,25-29,01:03:45,3825
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,21,"Gojčič, Tomaž",SLO,25-29,01:03:46,3826
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,22,"Van Loo, Rick",NED,25-29,01:03:55,3835
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,23,"Storken, Geert",NED,40-44,01:03:55,3835
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,24,"Wolke, Twan",NED,25-29,01:03:58,3838
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,25,"Balis, Dimitris",GRE,35-39,01:04:06,3846
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,26,"Woelders, Peter",NED,25-29,01:04:07,3847
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,27,"Verneuil, Tony",FRA,30-34,01:04:10,3850
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,28,"De Jong, Jip",NED,16-24,01:04:18,3858
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,29,"Anciaux, Maxime",BEL,30-34,01:04:32,3872
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,3,"Schwarzkopf, Dieter",GER,35-39,00:59:28,3568
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,30,"Raymaekers, Nick",BEL,35-39,01:04:34,3874
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,31,"Van Meeuwen, Gert-Jaap",NED,25-29,01:04:59,3899
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,32,"Jünger, Konstantin",GER,35-39,01:05:02,3902
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,33,"Deghorain, Antoine",BEL,25-29,01:05:09,3909
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,34,"Van Heiningen, Reno",NED,25-29,01:05:10,3910
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,35,"Abbing, Kay",NED,16-24,01:05:12,3912
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,36,"Janssen, Bart",NED,35-39,01:05:16,3916
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,37,"Verweij, Ferdy",NED,30-34,01:05:33,3933
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,38,"El Aarbaoui, Hamid",NED,40-44,01:05:35,3935
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,39,"Etienne, Alain",BEL,30-34,01:05:43,3943
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,4,"Lozano, Thomas",FRA,16-24,00:59:57,3597
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,40,"Rood, Michel",NED,16-24,01:05:44,3944
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,41,"Ajamlou, Olivier",NED,30-34,01:05:51,3951
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,42,"Herrero, Valentin",FRA,25-29,01:05:52,3952
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,43,"Bakker, Martijn",NED,16-24,01:05:55,3955
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,44,"Van Til, Thomas",NED,30-34,01:05:57,3957
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,45,"Martinet, Vincent",FRA,35-39,01:06:00,3960
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,46,"Canu, Boris",FRA,30-34,01:06:05,3965
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,47,"Dupuis, Quentin",BEL,30-34,01:06:07,3967
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,48,"Wennemars, Erben",NED,45-49,01:06:14,3974
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,49,"Verbraeken, Jeroen",BEL,25-29,01:06:16,3976
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,5,"Van Den Heuvel, Hans",BEL,30-34,01:00:41,3641
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,50,"Balk, Jordi",NED,30-34,01:06:21,3981
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,51,"Blissett, Jack",GBR,45-49,01:06:28,3988
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,52,"Van Drunen, Floris",NED,30-34,01:06:29,3989
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,53,"De Gruijl, Peter",NED,30-34,01:06:35,3995
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,54,"Keijsers, Marco",NED,35-39,01:06:41,4001
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,55,"Blokdijk, Alby",NED,16-24,01:06:43,4003
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,56,"Grootkarzijn, Stefan",NED,30-34,01:06:50,4010
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,57,"Hesselberth, Paul",NED,25-29,01:07:04,4024
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,58,"Schalk, Aron",NED,35-39,01:07:12,4032
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,59,"Borst, Niek",NED,16-24,01:07:21,4041
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,6,"Cowan, Robert",GBR,40-44,01:00:47,3647
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,60,"Stam, Mark",NED,25-29,01:07:27,4047
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,61,"Pesch, Camiel",NED,25-29,01:07:32,4052
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,62,"Sinclair, Oliver",AUS,30-34,01:07:33,4053
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,63,"Boom, Niek",NED,30-34,01:07:33,4053
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,64,"Looijen, Bjorn",NED,16-24,01:07:39,4059
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,65,"De Boer, Tieme",NED,16-24,01:07:42,4062
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,66,"Snel, Jordy",NED,25-29,01:07:42,4062
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,67,"Van Den Wijngaard, Robin",NED,25-29,01:07:47,4067
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,68,"Van Kerckhoven, Mathias",BEL,25-29,01:07:54,4074
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,69,"Aerts, Sven",NED,16-24,01:07:56,4076
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,7,"Demicoli, Shaun",MLT,25-29,01:01:17,3677
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,70,"Van Waeyenbergh, Grégory",BEL,35-39,01:07:56,4076
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,71,"Dijkstra, Jasper",NED,40-44,01:08:05,4085
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,72,"Paauw, Jordy",NED,25-29,01:08:14,4094
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,73,"Heye, Alan",BEL,25-29,01:08:18,4098
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,74,"Tegtmeyer, Jan",GER,25-29,01:08:20,4100
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,75,"Tuit, Joris",NED,25-29,01:08:21,4101
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,76,"Lodewijks, Arjen",NED,35-39,01:08:22,4102
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,77,"Musz, Sverre",NED,16-24,01:08:28,4108
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,78,"Minon, Pol",BEL,30-34,01:08:29,4109
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,79,"Hensbergen, Sven",NED,30-34,01:08:35,4115
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,8,"Jannenga, Dave",NED,30-34,01:01:18,3678
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,80,"Fourneau, Timothée",BEL,30-34,01:08:36,4116
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,81,"Roefs, Raf",NED,16-24,01:08:39,4119
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,82,"Henseler, Lukas",GER,16-24,01:08:44,4124
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,83,"Bergmans, Mike",NED,40-44,01:08:48,4128
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,84,"Warnier, Timo",NED,25-29,01:08:48,4128
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,85,"Groeneveld, Remco",NED,40-44,01:08:49,4129
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,86,"Westerhout, Gert-Jan",NED,45-49,01:08:51,4131
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,87,"Roelvink, Donny",NED,25-29,01:08:53,4133
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,88,"Paulet, Shane",BEL,35-39,01:08:56,4136
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,89,"Deppe, Quentin",BEL,25-29,01:09:00,4140
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,9,"Izac, Charles",FRA,16-24,01:01:23,3683
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,90,"Van Ruiten, Roel",NED,25-29,01:09:00,4140
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,91,"Van Walle, Jeffrey",BEL,30-34,01:09:03,4143
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,92,"Emde, Max",GER,25-29,01:09:06,4146
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,93,"Collard, Robin",BEL,30-34,01:09:08,4148
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,94,"Richter, Ferdy",NED,30-34,01:09:09,4149
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,95,"Van Der Lienden, Luca",NED,16-24,01:09:10,4150
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,96,"Mccormack, Taylor",NZL,30-34,01:09:11,4151
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,97,"Vermaat, Niels",NED,30-34,01:09:12,4152
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,98,"Timmerman, Aaron",BEL,25-29,01:09:13,4153
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,M,99,"Woiwode, Florian",GER,35-39,01:09:14,4154
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,1,"Putters, Lena",BEL,25-29,00:56:53,3413
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,10,"Remmers, Gerda",NED,40-44,01:09:17,4157
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,100,"Munier, Chantal",NED,45-49,01:20:00,4800
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,11,"Espelmann, Lena",GER,35-39,01:09:30,4170
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,12,"Weijmans, Dianne",NED,25-29,01:10:10,4210
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,13,"Foster, Gede",ENG,35-39,01:10:18,4218
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,14,"Ivanova, Miryana",BUL,16-24,01:10:20,4220
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,15,"Van Zijll, Jetty",NED,16-24,01:10:21,4221
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,16,"Dreesens, Piroschka",NED,35-39,01:10:39,4239
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,17,"Herber, Femke",NED,25-29,01:10:50,4250
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,18,"Bronn, Jaune",RSA,30-34,01:11:09,4269
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,19,"Kamphorst, Kristie",NED,30-34,01:11:13,4273
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,2,"Disseldorp, Michaela",NED,25-29,01:03:34,3814
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,20,"Wasnaire, Alexane",BEL,16-24,01:11:27,4287
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,21,"Foppen, Jose",NED,35-39,01:11:47,4307
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,22,"Goltstein, Lyan",NED,25-29,01:11:51,4311
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,23,"Reus, Linda",NED,40-44,01:12:19,4339
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,24,"Kok, Lobke",NED,25-29,01:12:22,4342
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,25,"Heylen, Sien",BEL,25-29,01:12:24,4344
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,26,"Maat, Renate",NED,40-44,01:12:26,4346
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,27,"Bobbert, Inge",NED,35-39,01:12:34,4354
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,28,"Huijsmans, Nima",NED,16-24,01:12:40,4360
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,29,"Lafon, Charlotte",BEL,30-34,01:12:45,4365
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,3,"Bantick, Imogen",GBR,16-24,01:05:00,3900
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,30,"Lemmen, Britt",NED,30-34,01:12:51,4371
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,31,"Borrenberghs, Doortje",BEL,35-39,01:13:06,4386
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,32,"Nijssen, Yvonne",NED,25-29,01:13:16,4396
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,33,"Vermeulen, Mariska",NED,35-39,01:13:17,4397
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,34,"Van Koelen, Joske",NED,30-34,01:13:44,4424
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,35,"Cramer, Clara",GER,25-29,01:13:51,4431
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,36,"Herrero, Laetitia",FRA,40-44,01:13:53,4433
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,37,"Liebregt, Yu-Mei",NED,25-29,01:13:54,4434
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,38,"Foppen, Lindsey",NED,25-29,01:14:00,4440
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,39,"Fenne, Alma",NED,30-34,01:14:14,4454
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,4,"Koster, Marianne",NED,30-34,01:05:31,3931
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,40,"Fuchs, Frauke",GER,30-34,01:14:27,4467
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,41,"Snoeks, Melissa",BEL,35-39,01:14:34,4474
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,42,"Bakhuis-El Bouchaibi, Mariam",NED,45-49,01:14:43,4483
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,43,"Heijboer, Lianne",NED,30-34,01:14:45,4485
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,44,"Richard, Manon",FRA,30-34,01:15:01,4501
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,45,"De Haan, Heather",NED,25-29,01:15:10,4510
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,46,"Hitijahubessy, Samira",NED,35-39,01:15:20,4520
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,47,"Peters, Daisy",NED,35-39,01:15:21,4521
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,48,"Ringelstein, Jule",GER,16-24,01:15:30,4530
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,49,"Jonkman, Alexandra",NED,45-49,01:15:35,4535
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,5,"Lozeman, Evelien",NED,30-34,01:06:48,4008
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,50,"Pluijmen, Romy",NED,16-24,01:15:41,4541
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,51,"Engel, Sophie",NED,16-24,01:15:42,4542
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,52,"Pieters, Edith",NED,45-49,01:15:52,4552
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,53,"Frijn, Patty",NED,35-39,01:15:57,4557
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,54,"Morales, Kimberly",GER,40-44,01:15:59,4559
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,55,"Van De Pol, Irma",NED,40-44,01:16:02,4562
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,56,"Overkamp, Mirthe",NED,30-34,01:16:05,4565
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,57,"Barandiaran Aizpurua, Arantxa",ESP,40-44,01:16:06,4566
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,58,"Alders-Wiebers, Sarah",NED,35-39,01:16:18,4578
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,59,"Delneij, Romy",NED,25-29,01:16:21,4581
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,6,"Goerz, Martina",GER,45-49,01:06:51,4011
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,60,"Zwerver, Zola",NED,25-29,01:16:24,4584
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,61,"Demeunier, Maureen",BEL,25-29,01:16:42,4602
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,62,"Van Rixtel, Lieke",NED,30-34,01:16:50,4610
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,63,"Bot, Fréderique",NED,25-29,01:16:59,4619
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,64,"Markus, Anna-Lena",GER,16-24,01:16:59,4619
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,65,"Atsma, Ann",NED,35-39,01:17:02,4622
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,66,"Stacey, Abbie",GBR,25-29,01:17:09,4629
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,67,"Van Der Sanden, Janne",BEL,30-34,01:17:11,4631
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,68,"Brughmans, Gitte",BEL,35-39,01:17:11,4631
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,69,"Van Veen, Danielle",NED,25-29,01:17:28,4648
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,7,"Olde Rikkert, Benthe",NED,25-29,01:08:15,4095
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,70,"Roorda, Franka",NED,30-34,01:17:30,4650
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,71,"Maheux, Nathalie",BEL,30-34,01:17:32,4652
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,72,"Van Gestel, Britt",NED,25-29,01:17:35,4655
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,73,"Régis, Aurélie",FRA,30-34,01:17:36,4656
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,74,"Van Polen, Vera",NED,16-24,01:17:40,4660
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,75,"Schneider, Emelie",GER,16-24,01:17:42,4662
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,76,"Schulting, Ingrid",NED,35-39,01:17:54,4674
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,77,"Fleischeuer, Britt",NED,25-29,01:18:11,4691
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,78,"Thuis, Yael",NED,16-24,01:18:17,4697
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,79,"Slippens, Femke",NED,16-24,01:18:18,4698
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,8,"Pelzer, Paula",GER,16-24,01:08:20,4100
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,80,"Heume, Nicola",GER,30-34,01:18:18,4698
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,81,"Degrijse, Valérie",BEL,40-44,01:18:18,4698
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,82,"Ardito, Anna",USA,16-24,01:18:33,4713
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,83,"De Koster, Tara",NED,35-39,01:18:34,4714
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,84,"Corvi, Valentina",ITA,30-34,01:18:38,4718
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,85,"Heraly, Pauline",BEL,35-39,01:18:41,4721
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,86,"Kokhuis, Anne Loes",NED,40-44,01:18:43,4723
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,87,"De Haar, Cynthia",NED,40-44,01:18:43,4723
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,88,"De Rijk, Guusje",NED,25-29,01:18:48,4728
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,89,"Huizenga, Jan Jaap",NED,30-34,01:18:49,4729
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,9,"Rose, Carley",GBR,35-39,01:08:58,4138
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,90,"Bekkers, Danni",NED,16-24,01:18:51,4731
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,91,"Willigers, Iris",NED,16-24,01:18:59,4739
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,92,"Meijer, Esmée",NED,25-29,01:19:01,4741
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,93,"Bosmans, Manon",NED,40-44,01:19:16,4756
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,94,"Deenen, Geerte",NED,40-44,01:19:20,4760
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,95,"Van Suijdam, Maaike",NED,25-29,01:19:27,4767
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,96,"Van Keymeulen, Sare",BEL,30-34,01:19:29,4769
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,97,"Timmermans, Nina",NED,25-29,01:19:37,4777
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,98,"Vannieuwenhuyze, An",BEL,35-39,01:19:38,4778
+Maastricht 2025,H_MAASTRICHT25_OVERALL,"Maastricht, Netherlands",Europe,W,99,"Kok, Chiara",NED,16-24,01:19:47,4787
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,1,"Van Rooijen, Sander",NED,35-39,00:57:17,3437
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,10,"Wolke, Twan",NED,25-29,01:02:36,3756
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,100,"Colin, Jean Can",FRA,25-29,01:10:14,4214
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,11,"Angelini, Marco",ITA,30-34,01:02:40,3760
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,12,"Van Sprang, Niki",NED,30-34,01:03:18,3798
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,13,"Van Den Brink, Yuri",NED,30-34,01:03:28,3808
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,14,"Rietveld, Mike",NED,25-29,01:03:31,3811
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,15,"Overbosch, Daan",NED,25-29,01:03:47,3827
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,16,"Schreuder, Youp",NED,30-34,01:04:09,3849
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,17,"Höppener, Matthijs",NED,30-34,01:04:18,3858
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,18,"Gambon, Rob",NED,25-29,01:04:21,3861
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,19,"Roos, Leon",NED,30-34,01:04:37,3877
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,2,"Verhoeven, Martijn",NED,35-39,01:00:00,3600
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,20,"Westerbos, Michael",NED,16-24,01:04:41,3881
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,21,"Plukkel, Erik",NED,40-44,01:04:48,3888
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,22,"Borst, Niek",NED,16-24,01:04:59,3899
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,23,"Huisman, Max",NED,16-24,01:05:06,3906
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,24,"Achterkamp, Daan",NED,25-29,01:05:15,3915
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,25,"De Gruijl, Peter",NED,30-34,01:05:20,3920
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,26,"Olde, Tijs",NED,16-24,01:05:28,3928
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,27,"Ahmed, Suhayb",NED,16-24,01:05:31,3931
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,28,"Van Der Kolk, Wessel",NED,30-34,01:05:32,3932
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,29,"Bosman, Delano",NED,25-29,01:05:38,3938
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,3,"Versendaal, Tygo",NED,16-24,01:00:26,3626
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,30,"Wennemars, Erben",NED,50-54,01:05:40,3940
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,31,"Furber, Matthew",GBR,40-44,01:05:43,3943
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,32,"Koene, Bas",NED,40-44,01:05:48,3948
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,33,"Bosman, Eddie",NED,25-29,01:05:56,3956
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,34,"Dekker, Nino",NED,25-29,01:05:58,3958
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,35,"Rippens, Micheal",NED,40-44,01:06:01,3961
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,36,"Verbaan, Rogier",NED,40-44,01:06:03,3963
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,37,"Van Den Berkhof, Tom",NED,40-44,01:06:03,3963
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,38,"Wennemars, Erben",NED,50-54,01:06:07,3967
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,39,"Lalleman, Emiel",NED,25-29,01:06:08,3968
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,4,"Proost, Koen",NED,16-24,01:00:57,3657
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,40,"Cooke, Michael",GBR,25-29,01:06:16,3976
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,41,"Bosten, Jelle",NED,16-24,01:06:17,3977
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,42,"Van Os, Joël",NED,25-29,01:06:30,3990
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,43,"Jones, Ben",GBR,30-34,01:06:31,3991
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,44,"Wissink, Kay",NED,25-29,01:06:37,3997
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,45,"Corthals, Kristof",BEL,40-44,01:06:42,4002
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,46,"Ottens, Jeroen",NED,25-29,01:06:45,4005
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,47,"Schipper, Damian",NED,25-29,01:07:05,4025
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,48,"Ellsworth, Cliff",NED,30-34,01:07:09,4029
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,49,"Zibari, Alaa",NED,30-34,01:07:21,4041
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,5,"Beishuizen, Marcel",NED,35-39,01:01:28,3688
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,50,"Bruinsma, Vince",NED,25-29,01:07:23,4043
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,51,"Roelvink, Donny",NED,25-29,01:07:24,4044
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,52,"Mthembu, Sizwe",RSA,25-29,01:07:39,4059
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,53,"Van Rees, Rory",NED,35-39,01:07:40,4060
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,54,"Niesten, Mauro",NED,35-39,01:07:45,4065
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,55,"Stoop, Morris",NED,25-29,01:07:54,4074
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,56,"Mulder, Dario",NED,25-29,01:07:57,4077
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,57,"El Alili, Houcine",NED,30-34,01:07:58,4078
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,58,"Vermaat, Niels",NED,30-34,01:08:04,4084
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,59,"Bleeksma, Lloyd",NED,30-34,01:08:14,4094
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,6,"Bakhuis, Wouter",NED,30-34,01:01:47,3707
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,60,"Verboom, Pascal",NED,30-34,01:08:14,4094
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,61,"Steenbergen, Nick",GBR,35-39,01:08:16,4096
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,62,"Mussche, Frans",NED,30-34,01:08:16,4096
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,63,"De Jong, Jip",NED,16-24,01:08:19,4099
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,64,"Van Den Hoek, Hans",NED,35-39,01:08:24,4104
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,65,"Van Driel, Jorden",NED,30-34,01:08:31,4111
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,66,"Bosch, Stephan",RSA,30-34,01:08:42,4122
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,67,"Alards, Thijmen",NED,16-24,01:08:42,4122
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,68,"Claassen, Jurgen",NED,50-54,01:08:43,4123
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,69,"De Bruijn, Justy",NED,35-39,01:08:43,4123
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,7,"Sankey, Joe",GBR,35-39,01:01:49,3709
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,70,"Markovits, Mats",NED,25-29,01:08:43,4123
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,71,"Slotman, Mickey",NED,16-24,01:08:46,4126
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,72,"Marees, Robin",NED,40-44,01:08:49,4129
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,73,"Degeling, Thomas",NED,35-39,01:08:56,4136
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,74,"Van Der Have, Roan",NED,16-24,01:09:02,4142
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,75,"Van Der Linden, Sander",NED,35-39,01:09:02,4142
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,76,"Do Rosario, Calvin",NED,25-29,01:09:08,4148
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,77,"Schiffelers, Kay",NED,30-34,01:09:08,4148
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,78,"Jansen, Robin",NED,16-24,01:09:10,4150
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,79,"Van Der Vloet, Yves",NED,16-24,01:09:10,4150
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,8,"Engbers, Mack",NED,25-29,01:02:09,3729
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,80,"Van Gils, Joey",NED,16-24,01:09:10,4150
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,81,"Alderlieste, Marcel",NED,35-39,01:09:24,4164
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,82,"De Kleijn, Dave",NED,40-44,01:09:24,4164
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,83,"Alberts, Teun",NED,30-34,01:09:26,4166
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,84,"Paulet, Shane",BEL,35-39,01:09:27,4167
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,85,"Heessels, Ivo",NED,25-29,01:09:28,4168
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,86,"De Vries, Klaas",NED,35-39,01:09:30,4170
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,87,"Da Silva Martins, Lilinho",ANG,30-34,01:09:33,4173
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,88,"Rijckaert, Robin",BEL,30-34,01:09:35,4175
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,89,"Van Minnen, Olivier",NED,30-34,01:09:40,4180
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,9,"Versluis, Dylan",NED,25-29,01:02:10,3730
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,90,"Van Der Sijde, Martijn",NED,40-44,01:09:43,4183
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,91,"Kopp, Dylan",NED,30-34,01:09:47,4187
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,92,"Slotemaker, Wessel",NED,45-49,01:09:52,4192
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,93,"Niezing, Noud",NED,16-24,01:09:54,4194
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,94,"Schouten, Leon",NED,30-34,01:09:55,4195
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,95,"Meijer, Jeroen",NED,35-39,01:09:56,4196
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,96,"Timmermans, Stan",NED,30-34,01:10:08,4208
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,97,"Kuster, Tom",NED,25-29,01:10:09,4209
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,98,"Van Zeggeren, Berend",NED,40-44,01:10:11,4211
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,M,99,"Karakuş, Barış Cihan",TUR,30-34,01:10:11,4211
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,1,"Broere, Eva",NED,25-29,01:08:16,4096
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,10,"Van Hilten, Djoni",NED,16-24,01:11:12,4272
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,100,"Verschoor, Quinty",NED,25-29,01:20:57,4857
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,11,"Kamphuis, Lynn",NED,35-39,01:11:21,4281
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,12,"Strijker, Anna",NED,30-34,01:11:35,4295
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,13,"De Wit - De Boer, Irene",NED,40-44,01:11:51,4311
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,14,"Vancauwenberghe, Phoebe",BEL,30-34,01:11:54,4314
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,15,"Van Itterbeeck, Lies",BEL,25-29,01:11:57,4317
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,16,"Görz, Martina",GER,45-49,01:11:58,4318
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,17,"Telgenkamp, Manon",NED,30-34,01:12:04,4324
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,18,"Van Bemmelen, Yara",NED,16-24,01:12:04,4324
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,19,"Van Linden, Noah",NED,25-29,01:12:07,4327
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,2,"Jacobs, Tessa",NED,25-29,01:08:37,4117
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,20,"Thuis, Yael",NED,16-24,01:12:09,4329
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,21,"De Grouw, Barbara",NED,25-29,01:12:43,4363
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,22,"Kamphorst, Kristie",NED,30-34,01:12:51,4371
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,23,"Van Der Vlies, Sophie",NED,16-24,01:12:54,4374
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,24,"Ammerlaan, Vera",NED,16-24,01:13:08,4388
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,25,"Kok, Frieda",NED,40-44,01:13:09,4389
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,26,"Visser, Margriet",NED,25-29,01:13:14,4394
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,27,"Groeneveld, Marcella",NED,35-39,01:13:15,4395
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,28,"Van Der Weerd, Julia",NED,16-24,01:13:19,4399
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,29,"Rees, Louise",GBR,40-44,01:13:44,4424
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,3,"Van De Klippe, Esmee",NED,30-34,01:09:29,4169
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,30,"Van Der Houwen, Mathilde",NED,16-24,01:13:47,4427
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,31,"Van Heijst, Britt",NED,16-24,01:13:50,4430
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,32,"Van Osch, Maud",NED,30-34,01:14:15,4455
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,33,"Van Den Broek, Juna",NED,16-24,01:14:19,4459
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,34,"Kok, Amy",NED,16-24,01:14:35,4475
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,35,"Mooij, Femke",NED,25-29,01:14:48,4488
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,36,"Koch, Joska",NED,25-29,01:14:53,4493
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,37,"Arets, Amber",NED,16-24,01:14:57,4497
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,38,"Da Costa Peixoto, Vivienne",NED,30-34,01:15:00,4500
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,39,"Blankenstijn, Nadine",NED,16-24,01:15:19,4519
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,4,"Brittijn, Mariska",NED,40-44,01:09:32,4172
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,40,"Wierda, Annadyn",NED,25-29,01:15:19,4519
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,41,"Fenne, Alma",NED,30-34,01:15:25,4525
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,42,"Hessels, Rian",NED,30-34,01:15:35,4535
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,43,"Dijkzeul, Bianca",NED,45-49,01:15:41,4541
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,44,"Achterberg, Shanna",NED,30-34,01:15:46,4546
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,45,"Eijk, Judith",NED,30-34,01:15:54,4554
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,46,"Nagelhout, Henrieke",NED,35-39,01:16:03,4563
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,47,"Schinkel, Rieneke",NED,40-44,01:16:09,4569
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,48,"Smits, Minke",NED,16-24,01:16:19,4579
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,49,"Dijkstra, Roos",NED,25-29,01:16:26,4586
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,5,"Van Disseldorp, Lisa",NED,25-29,01:09:45,4185
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,50,"Van Veen, Daniëlle",NED,25-29,01:16:27,4587
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,51,"Ros, Merle",NED,30-34,01:16:31,4591
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,52,"Silven, Gabriëlle",NED,25-29,01:16:32,4592
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,53,"Griensven, Kim",NED,16-24,01:16:41,4601
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,54,"Vos, Carlijn",NED,25-29,01:16:44,4604
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,55,"Beekman, Lindsey",NED,40-44,01:16:49,4609
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,56,"De Jongh, Anouk",NED,25-29,01:16:56,4616
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,57,"Van Zwam, Rosa Lotta",NED,25-29,01:17:06,4626
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,58,"Engels, Margret",NED,50-54,01:17:17,4637
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,59,"Ooms, Iris",NED,25-29,01:17:26,4646
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,6,"De Jong, Lienke",NED,30-34,01:10:22,4222
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,60,"Van Der Wal, Monique",NED,25-29,01:17:31,4651
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,61,"Van Peperstraten, Lonneke",NED,50-54,01:17:42,4662
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,62,"Oostland, Marit",NED,16-24,01:17:52,4672
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,63,"Beekman, Nathalie",NED,45-49,01:17:54,4674
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,64,"De Valk, Robin",NED,40-44,01:17:55,4675
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,65,"Kuil, Anne-Fleur",NED,25-29,01:17:57,4677
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,66,"Klemann, Steffie",NED,40-44,01:17:58,4678
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,67,"Kingma, Mariёlle",NED,30-34,01:17:59,4679
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,68,"Hooijschuur, Sander",NED,40-44,01:18:04,4684
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,69,"Sperling, Levi",NED,16-24,01:18:07,4687
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,7,"De Wildt, Linda",NED,25-29,01:10:36,4236
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,70,"Van Hulst, Dewi",NED,25-29,01:18:10,4690
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,71,"Oude Weernink, Tess",NED,30-34,01:18:17,4697
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,72,"Pol, Mayke",NED,25-29,01:18:18,4698
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,73,"Sonokromo Methorst, Branca",NED,40-44,01:18:18,4698
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,74,"Nijdam, Rian",NED,25-29,01:18:21,4701
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,75,"Letwory, Laura",NED,30-34,01:18:21,4701
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,76,"Wenneker, Sharon",NED,25-29,01:18:36,4716
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,77,"Meursing, Meijke",NED,16-24,01:18:43,4723
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,78,"Nooijen, Jori",NED,35-39,01:18:46,4726
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,79,"Conner, Pamela",NED,25-29,01:18:55,4735
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,8,"Visser, Savine",NED,25-29,01:10:50,4250
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,80,"Sterk, Merel",NED,25-29,01:18:57,4737
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,81,"Steenmeijer, Thamar",NED,30-34,01:19:00,4740
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,82,"Bakker, Nadine",NED,25-29,01:19:12,4752
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,83,"Van Dam, Anna",NED,30-34,01:19:17,4757
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,84,"Kroon, Kim",NED,16-24,01:19:20,4760
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,85,"Minkes, Marit",NED,25-29,01:19:24,4764
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,86,"Kuiper, Patty",NED,35-39,01:19:30,4770
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,87,"Barka, Zoubida",BEL,45-49,01:19:35,4775
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,88,"Baars, Nienke",NED,16-24,01:19:36,4776
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,89,"Gol, Lieke",NED,25-29,01:19:45,4785
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,9,"Romeijn, Nine",NED,30-34,01:10:57,4257
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,90,"Zwiers, Sharissa",NED,25-29,01:19:47,4787
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,91,"Jepkema, Nikki",NED,30-34,01:19:52,4792
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,92,"Muusz, Nina",NED,25-29,01:20:02,4802
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,93,"Ketelaar, Carmen",NED,30-34,01:20:08,4808
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,94,"Stegink, Ymke",NED,30-34,01:20:14,4814
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,95,"Ruiter, Anna",NED,16-24,01:20:16,4816
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,96,"Te Braake, Pleun",NED,16-24,01:20:33,4833
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,97,"Cronk, Sophie",NED,25-29,01:20:48,4848
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,98,"Boere, Vera",NED,16-24,01:20:52,4852
+Utrecht 2025,H_Utrecht2025_OVERALL,"Utrecht, Netherlands",Europe,W,99,"Fellinga, Jelka",NED,25-29,01:20:52,4852
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,1,"Ter Burg, Cem",NED,25-29,00:57:59,3479
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,10,"Alises Gimenez, Jose Agustín",ESP,30-34,01:01:37,3697
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,100,"Dean, Alex",GBR,30-34,01:07:32,4052
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,11,"Lorenzo Fabelo, Bryan",ESP,30-34,01:02:18,3738
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,12,"Amouret, Quentin",FRA,25-29,01:02:30,3750
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,13,"Palomo, Borja",ESP,35-39,01:02:33,3753
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,14,"Gschwandtner, Mathieu",AUT,25-29,01:02:33,3753
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,15,"Cancho Chamorro, Juan Andres",ESP,30-34,01:02:34,3754
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,16,"Intrigliolo, Martin",ESP,45-49,01:02:35,3755
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,17,"Perán Alcaraz, Daniel",ESP,25-29,01:02:37,3757
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,18,"Mendez De La Maza, Jeronimo",ESP,35-39,01:02:37,3757
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,19,"Branco, Bernardo",POR,16-24,01:02:42,3762
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,2,"Rademaker, Lars",NED,30-34,00:58:15,3495
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,20,"Krempl, Lan",SLO,16-24,01:03:03,3783
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,21,"Mille, Florian",FRA,30-34,01:03:05,3785
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,22,"Berget, Espen",NOR,25-29,01:03:07,3787
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,23,"Fraga Díaz, Manuel",ESP,45-49,01:03:12,3792
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,24,"Cruz Almeida, Adrian",ESP,30-34,01:03:12,3792
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,25,"Fletcher, Jake",GBR,30-34,01:03:24,3804
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,26,"Johnson, Jack",GBR,35-39,01:03:25,3805
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,27,"Caja Nacher, Luis",ESP,25-29,01:03:27,3807
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,28,"Iriarte, Thomas",FRA,25-29,01:03:28,3808
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,29,"Emiroğlu, Burak Edis",TUR,30-34,01:03:34,3814
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,3,"Ayshford, James",GBR,25-29,00:58:52,3532
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,30,"Garcia, Jonah",MEX,25-29,01:03:39,3819
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,31,"Grimaldo García, Jorge",ESP,16-24,01:03:48,3828
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,32,"Haseldine, Tom",GBR,16-24,01:03:52,3832
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,33,"Oulehri, Youssef",MAR,30-34,01:04:00,3840
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,34,"Muñoz Ortiz, Álvaro",ESP,16-24,01:04:11,3851
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,35,"Pérez Morillas, Carlos",ESP,30-34,01:04:15,3855
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,36,"Attard, Albert",MLT,40-44,01:04:18,3858
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,37,"Nicolau Muñoz, Sergio",ESP,16-24,01:04:21,3861
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,38,"Chafer, Otto",ESP,30-34,01:04:23,3863
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,39,"Rushe, Paul",IRL,45-49,01:04:28,3868
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,4,"Rajkowski, Sébastien",FRA,30-34,00:59:04,3544
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,40,"Martín Del Molino, Javier",ESP,40-44,01:04:29,3869
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,41,"Whyte, Ben",GBR,25-29,01:04:30,3870
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,42,"Alcaide, Omar",ESP,30-34,01:04:41,3881
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,43,"Hanlon, Joseph",GBR,30-34,01:04:44,3884
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,44,"Stols, Robert",NED,35-39,01:04:45,3885
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,45,"Logeais, Baptiste",FRA,40-44,01:04:47,3887
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,46,"Escudero, Alex",ESP,25-29,01:04:50,3890
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,47,"Ingham, James",GBR,45-49,01:04:54,3894
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,48,"Borrill, James",GBR,30-34,01:05:02,3902
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,49,"Garcia, Sam",ESP,35-39,01:05:03,3903
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,5,"Ramírez Rosales, Cristian",ESP,35-39,00:59:40,3580
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,50,"Everitt, Michael",GBR,30-34,01:05:05,3905
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,51,"Monserrat, Jordi",ESP,40-44,01:05:07,3907
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,52,"Doorley, Harry",IRL,25-29,01:05:13,3913
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,53,"Puyalto Monaj, Javier",ESP,40-44,01:05:15,3915
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,54,"Aliaga Koczy, Marco Antonio",ESP,25-29,01:05:17,3917
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,55,"Mccabe, Barry",IRL,40-44,01:05:25,3925
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,56,"Ventura, Hugo",POR,45-49,01:05:25,3925
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,57,"Vicario, Iker",ESP,40-44,01:05:32,3932
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,58,"De Gruijl, Peter",NED,30-34,01:05:40,3940
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,59,"Rives, Antonio",ESP,30-34,01:05:40,3940
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,6,"Espada Rodríguez, Oscar",ESP,30-34,00:59:50,3590
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,60,"Rodriguez, Alejandro",ESP,35-39,01:05:45,3945
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,61,"Villagran, Facundo",ARG,25-29,01:05:48,3948
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,62,"Zorilla Calleja, Javier",ESP,30-34,01:05:49,3949
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,63,"Norris, Neil",GBR,30-34,01:05:53,3953
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,64,"Rocamora Sarmiento, Jerónimo",ESP,16-24,01:05:55,3955
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,65,"Labrada Garcia, Cristian",ESP,35-39,01:05:58,3958
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,66,"Murtagh, John",IRL,35-39,01:06:06,3966
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,67,"Hugo, Fausto",ARG,35-39,01:06:08,3968
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,68,"Teruel, Eric",ESP,40-44,01:06:11,3971
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,69,"Aladren Mozota, Ivan",ESP,25-29,01:06:12,3972
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,7,"Ferrer, Yoel",ESP,35-39,01:00:19,3619
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,70,"Castaño, Daniel",ESP,25-29,01:06:18,3978
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,71,"Hack, Rufus",GBR,40-44,01:06:19,3979
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,72,"Navarro Olmedilla, Sergio",ESP,40-44,01:06:20,3980
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,73,"Perez Rodriguez, Victor",ESP,40-44,01:06:30,3990
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,74,"O'Brien, Alex",IRL,25-29,01:06:34,3994
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,75,"Camarasa, Toni",ESP,45-49,01:06:38,3998
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,76,"San Miguel, David",ESP,30-34,01:06:38,3998
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,77,"Kmet, Matej",SVK,30-34,01:06:41,4001
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,78,"Garcia Garcia, Nazaret",ESP,40-44,01:06:46,4006
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,79,"Domenech Gonzalez, Mikel",ESP,45-49,01:06:47,4007
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,8,"Strevett, Ethan",GBR,35-39,01:01:21,3681
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,80,"Martín Ruiz, David",ESP,30-34,01:06:50,4010
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,81,"Jiménez Rueda, Juan Carlos",ESP,25-29,01:06:53,4013
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,82,"Florisoone, Nicolas",FRA,35-39,01:06:53,4013
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,83,"Lanzuela Pumareta, Manuel",ESP,45-49,01:06:53,4013
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,84,"Armstrong, Lloyd",GBR,25-29,01:06:54,4014
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,85,"Guerrero Chini, Faustino",GIB,30-34,01:07:02,4022
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,86,"Finn, Luke",GBR,30-34,01:07:07,4027
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,87,"Jurado, Thomas",FRA,25-29,01:07:15,4035
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,88,"Carre, Lilian",FRA,25-29,01:07:16,4036
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,89,"Werner, Daniel",GER,30-34,01:07:21,4041
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,9,"Lee, Kane",GBR,30-34,01:01:36,3696
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,90,"Barlow, Dan",GBR,25-29,01:07:21,4041
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,91,"Reyes, Patrick",USA,35-39,01:07:22,4042
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,92,"Escribano Arjona, Jonathan",ESP,40-44,01:07:24,4044
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,93,"Fummo, Michael",ITA,30-34,01:07:24,4044
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,94,"Llorens, Ivan",ESP,25-29,01:07:25,4045
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,95,"Dorninger, Walter",AUT,45-49,01:07:28,4048
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,96,"Breithuber, Marco",AUT,40-44,01:07:29,4049
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,97,"Forest, Robin",FRA,25-29,01:07:29,4049
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,98,"Mariscal, Guille",ESP,35-39,01:07:30,4050
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,M,99,"Konteh Sanneh, Ansumana",ESP,30-34,01:07:31,4051
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,1,"Healiss, Isabelle",GBR,16-24,01:03:25,3805
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,10,"Balaguer Sangrá, Carla",ESP,25-29,01:09:13,4153
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,100,"Dillon, Kerry",GBR,35-39,01:19:17,4757
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,11,"Albinyana Teruel, Davinia",ESP,45-49,01:09:47,4187
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,12,"Marín Alonso, Andrea",ESP,25-29,01:09:52,4192
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,13,"Gillman, Lisa",IRL,25-29,01:10:12,4212
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,14,"Urdapilleta, Itziar",ESP,40-44,01:10:29,4229
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,15,"Joya Bedoya, Sandra Isabel",ESP,40-44,01:10:48,4248
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,16,"Wilson, Claudia",IRL,40-44,01:11:06,4266
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,17,"Barros, Zeza",POR,40-44,01:11:11,4271
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,18,"Gil, Irene",ESP,30-34,01:11:37,4297
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,19,"Le Squeren, Melanie",FRA,25-29,01:11:40,4300
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,2,"Sjöberg, Estelle",SWE,35-39,01:04:02,3842
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,20,"Magaña, Carlota",ESP,25-29,01:11:42,4302
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,21,"Cali, Elodie",FRA,35-39,01:11:51,4311
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,22,"Farniok, Laura",GER,25-29,01:12:10,4330
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,23,"Barthelemy, Julie",FRA,35-39,01:12:16,4336
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,24,"Mason, Shannon",GBR,35-39,01:12:19,4339
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,25,"Schlöglmann, Anna",AUT,16-24,01:12:27,4347
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,26,"Hoyland, Fran",GBR,25-29,01:12:31,4351
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,27,"Muñoz Toro, Isabel",ESP,25-29,01:12:33,4353
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,28,"Kolnes, Malene",NOR,25-29,01:12:39,4359
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,29,"Mc Laughlin, Lisa",IRL,45-49,01:12:54,4374
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,3,"Moynihan, Kate",IRL,16-24,01:05:16,3916
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,30,"Slevin, Grace",USA,16-24,01:12:55,4375
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,31,"Golden, Roisin",IRL,35-39,01:12:57,4377
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,32,"Bosch, Maria",CHI,30-34,01:12:58,4378
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,33,"Sigala, Natalia",GRE,16-24,01:13:04,4384
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,34,"John, Hanna",GBR,35-39,01:13:07,4387
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,35,"De Conno, Georgia",AUS,25-29,01:13:29,4409
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,36,"Pelaez, Vanesa",ESP,30-34,01:13:52,4432
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,37,"Bichsel, Beatrice",SUI,40-44,01:13:55,4435
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,38,"Booker, Holly",GBR,16-24,01:14:04,4444
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,39,"Marques, Joana",POR,35-39,01:14:07,4447
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,4,"Jennings, Rebecca",GBR,30-34,01:05:56,3956
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,40,"Schippers, Danieck",NED,25-29,01:14:20,4460
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,41,"Abrio Gomez, Manuela",ESP,45-49,01:14:31,4471
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,42,"Ammendola, Mendy",ITA,35-39,01:14:34,4474
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,43,"Sjöström, Frida",SWE,45-49,01:14:38,4478
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,44,"Gallardo García, María Isabel",ESP,45-49,01:14:38,4478
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,45,"Anaya Martínez, María",ESP,30-34,01:14:40,4480
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,46,"Gouich, Jalila",FRA,40-44,01:14:41,4481
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,47,"Oliveira, Joana",POR,25-29,01:14:54,4494
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,48,"Tsetskhladze, Kateryna",UKR,30-34,01:14:58,4498
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,49,"Romero Peño, Sandra",ESP,16-24,01:15:08,4508
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,5,"Bishop, Sarah",GBR,30-34,01:07:57,4077
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,50,"Brady, Cathriona",IRL,45-49,01:15:14,4514
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,51,"Yu, Zhuang",CHN,30-34,01:15:20,4520
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,52,"Beretta, Susanna",ITA,30-34,01:15:20,4520
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,53,"Colomer, Maika",ESP,40-44,01:15:38,4538
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,54,"Nowack, Theresa",GER,30-34,01:15:43,4543
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,55,"Soroa, Irati",ESP,25-29,01:15:49,4549
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,56,"Triguero, Cristina",ESP,30-34,01:15:50,4550
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,57,"Andreini, Valeria",ARG,30-34,01:16:02,4562
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,58,"Jonker, Lisa",NED,16-24,01:16:03,4563
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,59,"Lahaise, Charlotte",GBR,50-54,01:16:10,4570
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,6,"Wilson, Megan",GBR,25-29,01:08:12,4092
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,60,"Waddell, Gayle",GBR,45-49,01:16:47,4607
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,61,"Andrä, Martina",GER,40-44,01:16:53,4613
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,62,"Guillén Caballero, Sofia",ESP,16-24,01:16:55,4615
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,63,"Le Clainche, Manon",FRA,16-24,01:17:01,4621
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,64,"Loftus, Maddie",GBR,25-29,01:17:02,4622
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,65,"Ruiz Latorre, Lucia",ESP,16-24,01:17:02,4622
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,66,"Couto, Cláudia",POR,30-34,01:17:20,4640
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,67,"Hayes, Denise",IRL,40-44,01:17:24,4644
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,68,"Leader, Danielle",GBR,16-24,01:17:24,4644
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,69,"Sarasua, Maialen",ESP,16-24,01:17:25,4645
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,7,"Louis, Alexandra",FRA,40-44,01:08:20,4100
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,70,"Crisol Salas, Monica",ESP,40-44,01:17:32,4652
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,71,"Fernandez Pelaz, Ainara",ESP,40-44,01:17:32,4652
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,72,"Clarke, Sharon",GBR,45-49,01:17:32,4652
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,73,"Oros Vila, Isabel",ESP,35-39,01:17:40,4660
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,74,"Amore, Francesca",ITA,25-29,01:17:40,4660
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,75,"Munt Román, Helena",ESP,30-34,01:17:40,4660
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,76,"Novak, Erika",GBR,25-29,01:17:49,4669
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,77,"Feugas, Emilie",FRA,30-34,01:17:50,4670
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,78,"Gurchenkova, Natalia",ESP,40-44,01:17:50,4670
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,79,"González Herrero, Ana",ESP,40-44,01:18:18,4698
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,8,"O’Neile, Helen",GBR,35-39,01:08:27,4107
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,80,"Mir Suau, Nuria",ESP,25-29,01:18:20,4700
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,81,"Ward, Danie",GBR,30-34,01:18:25,4705
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,82,"Pécot, Anaëlle",FRA,30-34,01:18:34,4714
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,83,"Cannon, India",GBR,25-29,01:18:34,4714
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,84,"Tavey, Olga",IRL,25-29,01:18:38,4718
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,85,"Tungate, Elizabeth",GBR,35-39,01:18:39,4719
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,86,"Sonokromo Methorst, Branca",NED,40-44,01:18:42,4722
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,87,"Morrow, Abigail",GBR,35-39,01:18:43,4723
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,88,"Moreno Gigante, Andrea",ESP,16-24,01:18:43,4723
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,89,"Dobon Hernandez, Marina",ESP,16-24,01:18:53,4733
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,9,"Neto, Filipa",POR,25-29,01:08:28,4108
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,90,"Poole, Alena",GBR,16-24,01:18:57,4737
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,91,"Ruiz Martinez, Amanda",ESP,35-39,01:18:58,4738
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,92,"Gerding, Liesan",NED,16-24,01:19:00,4740
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,93,"Rodríguez Barreira, Lucía",ESP,35-39,01:19:04,4744
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,94,"Salgado, Joana",POR,40-44,01:19:07,4747
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,95,"Reeves, Rachel",IRL,35-39,01:19:10,4750
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,96,"Pérez, Nerea",ESP,30-34,01:19:10,4750
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,97,"Morán Saras, Celia",ESP,30-34,01:19:14,4754
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,98,"Zezulová, Dominika",CZE,30-34,01:19:15,4755
+Valencia 2025,H_VLC25_OVERALL,"Valencia, Spain",Europe,W,99,"Ackroyd, Abi",GBR,16-24,01:19:16,4756
