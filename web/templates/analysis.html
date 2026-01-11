@@ -26,10 +26,25 @@
             <div class="card">
                 <h2>Venue Time Distribution</h2>
                 <p class="description">
-                    Box plot showing finish time distributions across venues. This is the primary visual indicator of
-                    course difficulty.
+                    Box plot showing finish time distributions across venues. Select gender to view gender-specific
+                    performance patterns.
                 </p>
-                <div id="distributionChart"></div>
+
+                <!-- Chart Selector Tabs -->
+                <div class="chart-tabs">
+                    <button class="chart-tab active" onclick="showChart('men')">Men's Performance</button>
+                    <button class="chart-tab" onclick="showChart('women')">Women's Performance</button>
+                    {% if admin_mode %}
+                    <button class="chart-tab" onclick="showChart('overall')">Overall (Admin)</button>
+                    {% endif %}
+                </div>
+
+                <!-- Chart Containers -->
+                <div id="menChart" class="chart-container active"></div>
+                <div id="womenChart" class="chart-container"></div>
+                {% if admin_mode %}
+                <div id="overallChart" class="chart-container"></div>
+                {% endif %}
             </div>
 
             <div class="card">
@@ -61,7 +76,8 @@
             <div class="card">
                 <h2>Venue Rankings</h2>
                 <p class="description">
-                    Venues sorted by median finish time (fastest to slowest)
+                    Venues ranked by median finish time (fastest to slowest). Median finish times correlate strongly
+                    with venue benchmarks and course correction factors used in the time converter.
                 </p>
                 <div class="venue-ranking">
                     {% for venue in venue_stats %}
@@ -70,15 +86,8 @@
                         <div class="rank-info">
                             <div class="rank-venue">{{ venue.name }}</div>
                             <div class="rank-stats">
-                                Venue Benchmark: {{ venue.median }} | Average: {{ venue.mean }} | n={{ venue.count }}
+                                Median: {{ venue.median }} | Average: {{ venue.mean }} | n={{ venue.count }}
                             </div>
-                        </div>
-                        <div class="rank-badge">
-                            {% if venue.handicap == 1.0 %}
-                            <span class="badge reference">Reference</span>
-                            {% else %}
-                            <span class="badge">{{ venue.difficulty }}</span>
-                            {% endif %}
                         </div>
                     </div>
                     {% endfor %}
@@ -106,9 +115,51 @@
         </footer>
     </div>
 
+    <style>
+        .chart-tabs {
+            display: flex;
+            gap: 0.5rem;
+            margin-bottom: 1.5rem;
+            border-bottom: 2px solid #E1E8ED;
+        }
+
+        .chart-tab {
+            padding: 0.75rem 1.5rem;
+            background: none;
+            border: none;
+            border-bottom: 3px solid transparent;
+            color: #7F8C8D;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            margin-bottom: -2px;
+        }
+
+        .chart-tab:hover {
+            color: #FF6B35;
+        }
+
+        .chart-tab.active {
+            color: #FF6B35;
+            border-bottom-color: #FF6B35;
+        }
+
+        .chart-container {
+            display: none;
+            min-height: 550px;
+        }
+
+        .chart-container.active {
+            display: block;
+        }
+    </style>
+
     <script>
-        // Venue data from Flask
-        const venueData = {{ venue_data | tojson }};
+        // Venue data from Flask (contains all data, will filter by gender)
+        const venueDataAll = {{ venue_data | tojson }};
+        const menData = {{ men_data | tojson }};
+        const womenData = {{ women_data | tojson }};
+        const adminMode = {{ admin_mode | tojson }};
 
         // Helper function to convert seconds to h:mm format
         function secondsToHMM(seconds) {
@@ -117,81 +168,115 @@
             return `${hours}:${minutes.toString().padStart(2, '0')}`;
         }
 
-        // Create box plot traces
-        const traces = venueData.map(venue => ({
-            y: venue.times,
-            name: venue.name,
-            type: 'box',
-            boxmean: true,  // Show mean as dashed line
-            marker: {
-                color: venue.color
-            }
-        }));
+        // Function to create a chart for specific gender
+        function createChart(containerId, data, title) {
+            // Create box plot traces
+            const traces = data.map(venue => ({
+                y: venue.times,
+                name: venue.name,
+                type: 'box',
+                boxmean: true,  // Show mean as dashed line
+                marker: {
+                    color: venue.color
+                }
+            }));
 
-        // Calculate median for each venue and create annotations
-        const annotations = venueData.map((venue, index) => {
-            const sortedTimes = [...venue.times].sort((a, b) => a - b);
-            const median = sortedTimes[Math.floor(sortedTimes.length / 2)];
+            // Calculate median for each venue and create annotations
+            const annotations = data.map((venue, index) => {
+                const sortedTimes = [...venue.times].sort((a, b) => a - b);
+                const median = sortedTimes[Math.floor(sortedTimes.length / 2)];
 
-            return {
-                x: index,
-                y: median,
-                yshift: -5,  // Position 5 pixels below the median line
-                text: `<b>${secondsToHMM(median)}</b>`,
-                showarrow: false,
-                font: {
-                    size: 11,
-                    color: '#004E89'
+                return {
+                    x: index,
+                    y: median,
+                    yshift: -5,  // Position 5 pixels below the median line
+                    text: `<b>${secondsToHMM(median)}</b>`,
+                    showarrow: false,
+                    font: {
+                        size: 11,
+                        color: '#004E89'
+                    },
+                    xref: 'x',
+                    yref: 'y'
+                };
+            });
+
+            const layout = {
+                title: {
+                    text: `${title}<br><sub>Box = middle 50% | Line = Median | Dotted line = Average</sub>`,
+                    font: { size: 18, color: '#004E89' }
                 },
-                xref: 'x',
-                yref: 'y'
+                yaxis: {
+                    title: 'Finish Time (H:MM)',
+                    gridcolor: '#E1E8ED',
+                    tickmode: 'array',
+                    tickvals: [],
+                    ticktext: []
+                },
+                xaxis: {
+                    title: 'Venue',
+                    tickangle: -45
+                },
+                plot_bgcolor: '#F7F9FC',
+                paper_bgcolor: 'white',
+                margin: { t: 80, b: 120, l: 80, r: 40 },
+                height: 550,
+                showlegend: false,
+                hovermode: false,
+                annotations: annotations
             };
-        });
 
-        const layout = {
-            title: {
-                text: 'Finish Time Distribution by Venue<br><sub>Box = middle 50% | Line = Venue Benchmark (median) | Dotted line = Average</sub>',
-                font: { size: 18, color: '#004E89' }
-            },
-            yaxis: {
-                title: 'Finish Time (H:MM)',
-                gridcolor: '#E1E8ED',
-                tickmode: 'array',  // Use array mode to display custom tick labels
-                tickvals: [],
-                ticktext: []
-            },
-            xaxis: {
-                title: 'Venue',
-                tickangle: -45
-            },
-            plot_bgcolor: '#F7F9FC',
-            paper_bgcolor: 'white',
-            margin: { t: 80, b: 120, l: 80, r: 40 },
-            height: 550,
-            showlegend: false,
-            hovermode: false,  // Disable hover tooltips
-            annotations: annotations
-        };
+            // Generate tick values and labels for y-axis (h:mm format)
+            const minTime = Math.min(...data.flatMap(v => v.times));
+            const maxTime = Math.max(...data.flatMap(v => v.times));
+            const startTick = Math.floor(minTime / 600) * 600;
+            const endTick = Math.ceil(maxTime / 600) * 600;
 
-        // Generate tick values and labels for y-axis (h:mm format)
-        const minTime = Math.min(...venueData.flatMap(v => v.times));
-        const maxTime = Math.max(...venueData.flatMap(v => v.times));
-        const startTick = Math.floor(minTime / 600) * 600;
-        const endTick = Math.ceil(maxTime / 600) * 600;
+            for (let tick = startTick; tick <= endTick; tick += 600) {
+                layout.yaxis.tickvals.push(tick);
+                layout.yaxis.ticktext.push(secondsToHMM(tick));
+            }
 
-        for (let tick = startTick; tick <= endTick; tick += 600) {
-            layout.yaxis.tickvals.push(tick);
-            layout.yaxis.ticktext.push(secondsToHMM(tick));
+            const config = {
+                responsive: true,
+                displayModeBar: true,
+                displaylogo: false,
+                modeBarButtonsToRemove: ['lasso2d', 'select2d']
+            };
+
+            Plotly.newPlot(containerId, traces, layout, config);
         }
 
-        const config = {
-            responsive: true,
-            displayModeBar: true,
-            displaylogo: false,
-            modeBarButtonsToRemove: ['lasso2d', 'select2d']
-        };
+        // Function to switch between charts
+        function showChart(chartType) {
+            // Update tab active states
+            document.querySelectorAll('.chart-tab').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            event.target.classList.add('active');
 
-        Plotly.newPlot('distributionChart', traces, layout, config);
+            // Update chart visibility
+            document.querySelectorAll('.chart-container').forEach(container => {
+                container.classList.remove('active');
+            });
+
+            if (chartType === 'men') {
+                document.getElementById('menChart').classList.add('active');
+            } else if (chartType === 'women') {
+                document.getElementById('womenChart').classList.add('active');
+            } else if (chartType === 'overall' && adminMode) {
+                document.getElementById('overallChart').classList.add('active');
+            }
+        }
+
+        // Initialize charts on page load
+        document.addEventListener('DOMContentLoaded', function () {
+            createChart('menChart', menData, "Men's Finish Time Distribution by Venue");
+            createChart('womenChart', womenData, "Women's Finish Time Distribution by Venue");
+            if (adminMode) {
+                createChart('overallChart', venueDataAll, 'Overall Finish Time Distribution by Venue');
+            }
+        });
     </script>
 </body>
 

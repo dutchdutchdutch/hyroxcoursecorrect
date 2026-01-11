@@ -41,9 +41,10 @@
                                 <th>Fastest Time</th>
                                 <th>Slowest Time</th>
                                 <th>Average</th>
-                                <th>Venue Benchmark</th>
+                                <th class="highlight-col">Men's Benchmark</th>
+                                <th class="highlight-col">Women's Benchmark</th>
                                 <th>Std Dev</th>
-                                <th>Difficulty</th>
+                                <th>Course Correction</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -55,13 +56,14 @@
                                 <td>{{ stat.fastest }}</td>
                                 <td>{{ stat.slowest }}</td>
                                 <td>{{ stat.average }}</td>
-                                <td class="benchmark-cell"><strong>{{ stat.benchmark }}</strong></td>
+                                <td class="benchmark-cell"><strong>{{ stat.men_benchmark }}</strong></td>
+                                <td class="benchmark-cell"><strong>{{ stat.women_benchmark }}</strong></td>
                                 <td>{{ stat.std_dev }}</td>
                                 <td class="difficulty-cell">
-                                    {% if stat.difficulty == 'Reference' %}
-                                    <span class="badge reference">{{ stat.difficulty }}</span>
+                                    {% if 'Baseline' in stat.correction_display %}
+                                    <span class="badge reference">{{ stat.correction_display }}</span>
                                     {% else %}
-                                    <span class="badge">{{ stat.difficulty }}</span>
+                                    <span class="badge">{{ stat.correction_display }}</span>
                                     {% endif %}
                                 </td>
                             </tr>
@@ -80,10 +82,55 @@
                     <li><strong>Sample Size:</strong> Number of athletes included (top 80% of finishers)</li>
                     <li><strong>Fastest/Slowest Time:</strong> Range of finish times at this venue</li>
                     <li><strong>Average:</strong> Mean finish time across all athletes</li>
-                    <li><strong>Venue Benchmark:</strong> Median finish time (50th percentile)</li>
+                    <li><strong>Men's Benchmark (highlighted):</strong> Median finish time for men only (50th
+                        percentile)</li>
+                    <li><strong>Women's Benchmark (highlighted):</strong> Median finish time for women only (50th
+                        percentile)</li>
                     <li><strong>Std Dev:</strong> Standard deviation showing time consistency</li>
-                    <li><strong>Difficulty:</strong> Percentage faster (-) or slower (+) than reference venue</li>
+                    <li><strong>Course Correction:</strong> Percentage showing how this venue compares to the baseline
+                        (median-difficulty) venue. Positive values mean you add time (faster course), negative values
+                        mean you subtract time (slower course)</li>
                 </ul>
+
+                <h4 style="margin-top: 1.5rem; color: #004E89;">Gender Performance Insights: Run Distance Effects</h4>
+                <p style="margin-top: 0.5rem;">
+                    Our analysis reveals that <strong>run distance significantly affects men and women
+                        differently</strong>.
+                    The gender-specific benchmarks (highlighted columns) show distinct patterns across venues:
+                </p>
+
+                <div style="margin-top: 1rem; padding-left: 1rem; border-left: 3px solid #FF6B35;">
+                    <p style="margin-bottom: 0.75rem;">
+                        <strong style="color: #FF6B35;">Long-Distance Venues</strong> (Atlanta, Chicago, Anaheim):<br>
+                        Men's times are disproportionately slower relative to baseline. These venues feature longer run
+                        loops,
+                        suggesting that extended endurance demands impact male athletes more significantly. This may
+                        relate to
+                        pacing strategies or the strength-to-endurance ratio required for sustained running.
+                    </p>
+
+                    <p style="margin-bottom: 0.75rem;">
+                        <strong style="color: #06D6A0;">Short-Distance Venues</strong> (Bordeaux, Dublin):<br>
+                        Women's times show greater relative slowdown compared to men. Shorter, more intense run segments
+                        may favor different physiological profiles, with the higher power-to-weight demands potentially
+                        affecting female athletes differently.
+                    </p>
+
+                    <p style="margin-bottom: 0.75rem;">
+                        <strong style="color: #004E89;">Moderate-Distance Venues</strong> (Frankfurt, Valencia):<br>
+                        These venues show minimal gender difference (1-2%), providing the most balanced challenge across
+                        genders. The moderate run distances appear to create a more equitable test of overall fitness.
+                    </p>
+                </div>
+
+                <p style="margin-top: 1rem;">
+                    <strong>Practical Implications:</strong> Male athletes should emphasize endurance training for
+                    long-run venues,
+                    while female athletes may benefit from power/speed work for short-run venues. When selecting target
+                    venues,
+                    consider run distance as a key factor in performance optimization.
+                </p>
+
                 <p style="margin-top: 1rem;">
                     <strong>Note:</strong> Data includes only the top 80% of finishers to exclude slow outliers and
                     ensure
@@ -119,6 +166,11 @@
             text-align: left;
             font-weight: 600;
             white-space: nowrap;
+        }
+
+        .stats-table th.highlight-col {
+            background-color: #FFB800;
+            color: #004E89;
         }
 
         .stats-table tbody tr {

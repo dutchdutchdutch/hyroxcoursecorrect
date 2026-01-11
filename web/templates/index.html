@@ -37,6 +37,21 @@
                     </div>
 
                     <div class="form-group">
+                        <label>Gender</label>
+                        <div class="radio-group">
+                            <label class="radio-label">
+                                <input type="radio" name="gender" value="M" required checked>
+                                <span>Men</span>
+                            </label>
+                            <label class="radio-label">
+                                <input type="radio" name="gender" value="W" required>
+                                <span>Women</span>
+                            </label>
+                        </div>
+                        <small>Gender-specific course corrections account for venue difficulty differences</small>
+                    </div>
+
+                    <div class="form-group">
                         <label for="fromVenue">Your Venue</label>
                         <select id="fromVenue" name="from_venue" required>
                             <option value="">Select venue...</option>
@@ -79,22 +94,23 @@
             </div>
 
             <div class="card">
-                <h2>Venue Difficulty</h2>
+                <h2>Course Correction Factors</h2>
                 <p class="description">
                     Course correction factors for Season 8 (2025/2026)
                 </p>
                 <div class="venue-list">
-                    {% for venue, handicap in handicaps.items()|sort(attribute='1') %}
-                    <div class="venue-item">
+                    {% for venue, correction in corrections.items()|sort(attribute='1') %}
+                    <li>
                         <span class="venue-name">{{ venue }}</span>
-                        <span class="handicap">
-                            {% if handicap == 1.0 %}
-                            <span class="badge reference">Reference</span>
+                        <span class="correction">
+                            {% if correction == 0.0 %}
+                            <span class="badge baseline">Baseline</span>
                             {% else %}
-                            <span class="badge">{{ "%.1f"|format((handicap - 1) * 100) }}%</span>
+                            <span class="badge">{{ "%+d:%02d"|format((correction // 60)|int, (correction % 60)|abs|int)
+                                }}</span>
                             {% endif %}
                         </span>
-                    </div>
+                    </li>
                     {% endfor %}
                 </div>
             </div>
@@ -107,7 +123,7 @@
                     fair performance comparisons across venues.
                 </p>
                 <ul>
-                    <li><strong>Normalized:</strong> Your time adjusted to a reference venue (handicap = 1.0)</li>
+                    <li><strong>Normalized:</strong> Your time adjusted to the reference venue (correction = 0:00)</li>
                     <li><strong>Venue-to-Venue:</strong> Convert your time to what it would be at a different venue</li>
                     <li><strong>Course Factor:</strong> Percentage showing how much harder/easier a venue is</li>
                 </ul>

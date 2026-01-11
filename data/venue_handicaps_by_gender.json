@@ -1,0 +1,26 @@
+{
+  "men": {
+    "Anaheim 2025": 346.5,
+    "Atlanta 2025": 421.5,
+    "Bordeaux 2025": -477.0,
+    "Chicago 2025": 244.0,
+    "Dublin 2025": -464.5,
+    "Frankfurt 2025": -84.5,
+    "London Excel 2025": -754.0,
+    "Maastricht 2025": 0.0,
+    "Utrecht 2025": 20.0,
+    "Valencia 2025": -128.5
+  },
+  "women": {
+    "Anaheim 2025": 260.0,
+    "Atlanta 2025": 103.0,
+    "Bordeaux 2025": -149.0,
+    "Chicago 2025": -49.0,
+    "Dublin 2025": -288.0,
+    "Frankfurt 2025": -53.0,
+    "London Excel 2025": -787.0,
+    "Maastricht 2025": 0.0,
+    "Utrecht 2025": 39.0,
+    "Valencia 2025": -136.0
+  }
+}

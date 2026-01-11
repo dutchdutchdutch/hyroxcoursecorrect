@@ -10,7 +10,8 @@ document.addEventListener('DOMContentLoaded', function () {
         const formData = {
             finish_time: document.getElementById('finishTime').value,
             from_venue: document.getElementById('fromVenue').value,
-            to_venue: document.getElementById('toVenue').value
+            to_venue: document.getElementById('toVenue').value,
+            gender: document.querySelector('input[name="gender"]:checked').value
         };
 
         try {
@@ -41,7 +42,7 @@ document.addEventListener('DOMContentLoaded', function () {
 function displayResult(data) {
     // Update result display
     document.getElementById('originalTime').textContent = data.original_time;
-    document.getElementById('originalVenue').textContent = data.from_venue;
+    document.getElementById('originalVenue').textContent = `${data.from_venue} (${data.gender})`;
     document.getElementById('convertedTime').textContent = data.converted_time;
     document.getElementById('convertedVenue').textContent = data.to_venue;
 

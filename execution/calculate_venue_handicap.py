@@ -1,39 +1,51 @@
 """
-Calculate venue handicap factors from scraped results data.
+Calculate venue course correction factors from scraped results data.
 
 This script:
 1. Loads processed venue results
 2. Calculates median finish times by venue and gender
-3. Computes handicap factors relative to a reference venue
-4. Exports handicap factors to CSV
+3. Computes course correction factors relative to median venue (separately for M/W)
+4. Exports correction factors to JSON
 
 Methodology:
 - Uses median finish time as the venue difficulty metric
-- Reference venue (handicap = 1.000) is the venue with median finish time
-- Handicap factor = venue_median / reference_median
-- Higher handicap = slower venue (more difficult)
+- Reference venue (correction = 0.0) is the MEDIAN venue by count (middle venue when sorted)
+- Course correction = venue_gender_median - reference_gender_median (in seconds)
+- Positive correction = slower venue (adds time)
+- Negative correction = faster venue (subtracts time)
+- Separate corrections calculated for men and women
 """
 
 import pandas as pd
 import numpy as np
+import json
 from pathlib import Path
 import argparse
 
 
-def calculate_venue_handicaps(df, reference_venue=None):
+def calculate_course_corrections(df, reference_venue=None):
     """
-    Calculate handicap factors for each venue.
+    Calculate course correction factors using median venue baseline with gender adjustments.
+    
+    Methodology:
+    1. Calculate overall median for each venue (combining M/W)
+    2. Sort venues by overall median and select MIDDLE venue by count as baseline
+    3. Calculate time-based corrections (in seconds) relative to baseline
+    4. Apply gender-specific corrections
+    
+    Result: Faster venues have negative corrections, Slower venues have positive corrections
     
     Args:
         df: DataFrame with venue results
-        reference_venue: Optional venue name to use as reference (handicap = 1.0)
-                        If None, uses the median venue
+        reference_venue: Optional venue name to use as reference (correction = 0.0)
+                        If None, uses the median venue by count
     
     Returns:
-        DataFrame with venue handicaps
+        Tuple of (men_corrections dict, women_corrections dict, reference_venue, stats_df)
     """
-    print("\n📊 Calculating Venue Handicaps")
-    print("=" * 60)
+    print("\n📊 Calculating Course Correction Factors")
+    print("=" * 80)
+    print("Methodology: Median venue baseline (0.0) with gender-specific time corrections")
     
     # Calculate median finish time by venue and gender
     venue_stats = df.groupby(['venue', 'gender']).agg({
@@ -42,73 +54,125 @@ def calculate_venue_handicaps(df, reference_venue=None):
     
     venue_stats.columns = ['venue', 'gender', 'median_time', 'mean_time', 'std_time', 'count']
     
-    # Calculate overall median (combining M and W)
+    # Calculate overall median (combining M and W) for each venue
     overall_medians = df.groupby('venue')['finish_seconds'].median().reset_index()
     overall_medians.columns = ['venue', 'overall_median']
     
-    # Merge overall medians
-    venue_stats = venue_stats.merge(overall_medians, on='venue')
-    
-    # Determine reference venue
+    # Determine reference venue (MEDIAN venue by count)
     if reference_venue is None:
-        # Use venue with median overall_median as reference
-        sorted_venues = overall_medians.sort_values('overall_median')
-        mid_idx = len(sorted_venues) // 2
-        reference_venue = sorted_venues.iloc[mid_idx]['venue']
-        print(f"\n🎯 Reference Venue (auto-selected): {reference_venue}")
+        # Sort venues by overall median and select middle venue by count
+        overall_medians_sorted = overall_medians.sort_values('overall_median')
+        median_idx = len(overall_medians_sorted) // 2
+        reference_venue = overall_medians_sorted.iloc[median_idx]['venue']
+        print(f"\n🎯 Reference Venue (median by count): {reference_venue}")
+        print(f"   Position: {median_idx + 1} of {len(overall_medians_sorted)} venues")
     else:
         print(f"\n🎯 Reference Venue (user-specified): {reference_venue}")
     
-    reference_median = overall_medians[overall_medians['venue'] == reference_venue]['overall_median'].values[0]
-    print(f"   Reference Median Time: {reference_median / 60:.2f} minutes")
+    # Get baseline gender-specific medians
+    baseline_men_median = venue_stats[(venue_stats['venue'] == reference_venue) & 
+                                      (venue_stats['gender'] == 'M')]['median_time'].values[0]
+    baseline_women_median = venue_stats[(venue_stats['venue'] == reference_venue) & 
+                                        (venue_stats['gender'] == 'W')]['median_time'].values[0]
     
-    # Calculate handicap factors
-    venue_stats['handicap_factor'] = venue_stats['overall_median'] / reference_median
+    print(f"   Baseline Men's Median: {baseline_men_median / 60:.2f} minutes")
+    print(f"   Baseline Women's Median: {baseline_women_median / 60:.2f} minutes")
     
-    # Calculate difficulty percentage
-    venue_stats['difficulty_pct'] = (venue_stats['handicap_factor'] - 1.0) * 100
+    # Calculate course corrections for each venue
+    men_corrections = {}
+    women_corrections = {}
     
-    # Sort by handicap factor
-    venue_stats = venue_stats.sort_values('handicap_factor')
-    
-    return venue_stats, reference_venue
-
-
-def print_handicap_summary(venue_stats):
-    """Print a summary of venue handicaps."""
-    print("\n📋 Venue Handicap Summary")
-    print("=" * 60)
-    print(f"{'Venue':<25} {'Handicap':<10} {'Difficulty':<12} {'Median (min)':<12}")
-    print("-" * 60)
-    
-    for _, row in venue_stats.iterrows():
-        difficulty_str = f"{row['difficulty_pct']:+.1f}%"
-        median_min = row['overall_median'] / 60
+    for venue in df['venue'].unique():
+        # Get gender-specific medians
+        men_median = venue_stats[(venue_stats['venue'] == venue) & 
+                                 (venue_stats['gender'] == 'M')]['median_time'].values
+        women_median = venue_stats[(venue_stats['venue'] == venue) & 
+                                   (venue_stats['gender'] == 'W')]['median_time'].values
         
-        print(f"{row['venue']:<25} {row['handicap_factor']:<10.3f} {difficulty_str:<12} {median_min:<12.1f}")
+        if len(men_median) > 0 and len(women_median) > 0:
+            # Calculate time-based corrections (in seconds)
+            # Positive = slower course, Negative = faster course
+            men_corrections[venue] = float(men_median[0] - baseline_men_median)
+            women_corrections[venue] = float(women_median[0] - baseline_women_median)
+    
+    # Add corrections to stats dataframe
+    venue_stats['correction_seconds'] = venue_stats.apply(
+        lambda row: men_corrections.get(row['venue']) if row['gender'] == 'M' 
+                   else women_corrections.get(row['venue']), axis=1
+    )
+    
+    venue_stats['correction_minutes'] = venue_stats['correction_seconds'] / 60
+    
+    print(f"\n✅ Calculated corrections for {len(men_corrections)} venues")
+    print(f"   Reference venue correction: {men_corrections[reference_venue]:.1f}s (Men), {women_corrections[reference_venue]:.1f}s (Women)")
+    
+    return men_corrections, women_corrections, reference_venue, venue_stats
+
+
+def print_correction_summary(venue_stats, men_corrections, women_corrections):
+    """Print a summary of venue course corrections by gender."""
+    print("\n📋 Gender-Specific Course Correction Summary")
+    print("=" * 80)
+    print(f"{'Venue':<25} {'Men Correction':<18} {'Women Correction':<20} {'Difference':<12}")
+    print("-" * 80)
+    
+    # Sort by men's correction (negative to positive)
+    sorted_venues = sorted(men_corrections.keys(), key=lambda v: men_corrections[v])
+    
+    for venue in sorted_venues:
+        men_c = men_corrections.get(venue, 0)
+        women_c = women_corrections.get(venue, 0)
+        diff = abs(men_c - women_c)
+        
+        # Format as time (minutes:seconds)
+        men_str = f"{int(men_c // 60):+3d}:{abs(int(men_c % 60)):02d}"
+        women_str = f"{int(women_c // 60):+3d}:{abs(int(women_c % 60)):02d}"
+        diff_str = f"{int(diff // 60):3d}:{int(diff % 60):02d}"
+        
+        print(f"{venue:<25} {men_str:<18} {women_str:<20} {diff_str:<12}")
+    
+    # Calculate average difference
+    differences = [abs(men_corrections[v] - women_corrections[v]) for v in men_corrections.keys()]
+    avg_diff = sum(differences) / len(differences)
+    max_diff = max(differences)
+    
+    print("\n📊 Gender Difference Analysis:")
+    print(f"   Average difference: {int(avg_diff // 60)}:{int(avg_diff % 60):02d} ({avg_diff:.1f} seconds)")
+    print(f"   Maximum difference: {int(max_diff // 60)}:{int(max_diff % 60):02d} ({max_diff:.1f} seconds)")
     
     print("\n💡 Interpretation:")
-    print("   - Handicap = 1.000: Reference venue (baseline difficulty)")
-    print("   - Handicap > 1.000: Slower/harder venue")
-    print("   - Handicap < 1.000: Faster/easier venue")
-    print("   - Difficulty %: Percentage slower (+) or faster (-) than reference")
+    print("   - Correction = 0:00: Reference venue (median difficulty)")
+    print("   - Correction > 0:00: Slower course (adds time)")
+    print("   - Correction < 0:00: Faster course (subtracts time)")
+    print("   - Separate corrections account for gender-specific venue difficulty")
 
 
-def export_handicaps(venue_stats, output_file):
-    """Export handicap factors to CSV."""
-    # Create simplified export with just venue and handicap
-    export_df = venue_stats[['venue', 'handicap_factor', 'difficulty_pct', 'overall_median']].drop_duplicates()
-    export_df = export_df.sort_values('handicap_factor')
+def export_corrections_json(men_corrections, women_corrections, output_file):
+    """Export course correction factors to JSON."""
+    corrections_data = {
+        "men": men_corrections,
+        "women": women_corrections
+    }
     
-    export_df.to_csv(output_file, index=False)
-    print(f"\n✅ Handicaps exported to: {output_file}")
+    output_path = Path(output_file)
+    with open(output_path, 'w') as f:
+        json.dump(corrections_data, f, indent=2)
+    
+    print(f"\n✅ Gender-specific course corrections exported to: {output_file}")
+
+
+def export_corrections_csv(venue_stats, output_file):
+    """Export detailed stats to CSV for reference."""
+    csv_file = output_file.replace('.json', '_detailed.csv')
+    venue_stats.to_csv(csv_file, index=False)
+    print(f"✅ Detailed stats exported to: {csv_file}")
 
 
 def main():
-    """Main handicap calculation workflow."""
-    parser = argparse.ArgumentParser(description='Calculate HYROX venue handicaps')
+    """Main course correction calculation workflow."""
+    parser = argparse.ArgumentParser(description='Calculate HYROX venue course corrections by gender')
     parser.add_argument('--input', type=str, required=True, help='Input CSV file with venue results')
-    parser.add_argument('--output', type=str, required=True, help='Output CSV file for handicaps')
+    parser.add_argument('--output', type=str, required=True, help='Output JSON file for course corrections')
     parser.add_argument('--reference', type=str, help='Reference venue name (optional)')
     
     args = parser.parse_args()
@@ -120,17 +184,22 @@ def main():
     print(f"   Loaded {len(df)} results from {df['venue'].nunique()} venues")
     print(f"   Gender split: {df['gender'].value_counts().to_dict()}")
     
-    # Calculate handicaps
-    venue_stats, reference_venue = calculate_venue_handicaps(df, args.reference)
+    # Calculate gender-specific course corrections
+    men_corrections, women_corrections, reference_venue, venue_stats = \
+        calculate_course_corrections(df, args.reference)
     
     # Print summary
-    print_handicap_summary(venue_stats)
+    print_correction_summary(venue_stats, men_corrections, women_corrections)
     
-    # Export
-    export_handicaps(venue_stats, args.output)
+    # Export to JSON
+    export_corrections_json(men_corrections, women_corrections, args.output)
     
-    print("\n✨ Handicap calculation complete!")
+    # Export detailed CSV
+    export_corrections_csv(venue_stats, args.output)
+    
+    print("\n✨ Gender-specific course correction calculation complete!")
 
 
 if __name__ == '__main__':
     main()
+
