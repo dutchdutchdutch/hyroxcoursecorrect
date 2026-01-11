@@ -17,7 +17,7 @@ app = Flask(__name__)
 PROJECT_ROOT = Path(__file__).parent.parent
 
 # Load venue handicaps
-HANDICAPS_FILE = PROJECT_ROOT / 'data' / 'venue_handicaps_9venues.csv'
+HANDICAPS_FILE = PROJECT_ROOT / 'data' / 'venue_handicaps_10venues_1000each.csv'
 
 def load_venue_handicaps():
     """Load venue handicap factors from CSV."""
@@ -25,11 +25,18 @@ def load_venue_handicaps():
         df = pd.read_csv(HANDICAPS_FILE)
         return df.set_index('venue')['handicap_factor'].to_dict()
     else:
-        # Fallback handicaps if file not found
+        # Fallback handicaps if file not found (10 venues, filtered)
         return {
+            'London Excel 2025': 0.843,
+            'Bordeaux 2025': 0.913,
+            'Dublin 2025': 0.922,
+            'Valencia 2025': 0.965,
+            'Frankfurt 2025': 0.991,
             'Maastricht 2025': 1.000,
-            'London Excel 2025': 0.890,
-            'Anaheim 2025': 1.042,
+            'Utrecht 2025': 1.000,
+            'Chicago 2025': 1.039,
+            'Atlanta 2025': 1.067,
+            'Anaheim 2025': 1.071,
         }
 
 VENUE_HANDICAPS = load_venue_handicaps()

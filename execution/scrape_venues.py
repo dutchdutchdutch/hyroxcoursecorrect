@@ -55,71 +55,88 @@ class HyroxScraper:
         Returns:
             list: List of result dictionaries
         """
-        url = (
-            f"{self.BASE_URL}?page=1&event={event_id}&num_results={limit}"
-            f"&pid=list&ranking=time_finish_netto&search[sex]={gender}"
-            "&search[age_class]=%&search[nation]=%"
-        )
-        
         print(f"  Scraping {venue_name} - {gender} ({limit} results)...")
         
-        try:
-            self.driver.get(url)
-            
-            # Wait for results to load
-            self.wait.until(
-                EC.presence_of_element_located((By.CSS_SELECTOR, 'li.list-group-item'))
+        all_results = []
+        results_per_page = 25  # HYROX shows 25 results per page
+        pages_needed = (limit + results_per_page - 1) // results_per_page  # Ceiling division
+        
+        for page in range(1, pages_needed + 1):
+            url = (
+                f"{self.BASE_URL}?page={page}&event={event_id}&num_results={results_per_page}"
+                f"&pid=list&ranking=time_finish_netto&search[sex]={gender}"
+                "&search[age_class]=%&search[nation]=%"
             )
             
-            # Give extra time for all results to render
-            time.sleep(2)
-            
-            # Extract results using JavaScript
-            results = self.driver.execute_script("""
-                const results = [];
-                const rows = document.querySelectorAll('li.list-group-item');
+            try:
+                self.driver.get(url)
                 
-                rows.forEach(row => {
-                    const nameLink = row.querySelector('a[href*="idp="]');
-                    if (!nameLink) return;
-                    
-                    const rankElem = row.querySelector('.list-field.type-place.place-primary');
-                    const rank = rankElem ? rankElem.innerText.trim() : null;
-                    
-                    const name = nameLink.innerText.trim();
-                    
-                    const natElem = row.querySelector('.nation__abbr');
-                    const nationality = natElem ? natElem.innerText.trim() : null;
-                    
-                    const ageElem = row.querySelector('.list-field.type-age_class');
-                    const ageGroup = ageElem ? ageElem.innerText.trim() : null;
-                    
-                    const timeElem = row.querySelector('.list-field.type-time');
-                    const finishTime = timeElem ? timeElem.innerText.trim() : null;
-                    
-                    if (name && finishTime) {
-                        results.push({
-                            rank: rank,
-                            name: name,
-                            nationality: nationality,
-                            age_group: ageGroup,
-                            finish_time: finishTime
-                        });
-                    }
-                });
+                # Wait for results to load
+                self.wait.until(
+                    EC.presence_of_element_located((By.CSS_SELECTOR, 'li.list-group-item'))
+                )
                 
-                return results;
-            """)
-            
-            print(f"    ✓ Scraped {len(results)} results")
-            return results
-            
-        except TimeoutException:
-            print(f"    ✗ Timeout loading results for {venue_name} - {gender}")
-            return []
-        except Exception as e:
-            print(f"    ✗ Error scraping {venue_name} - {gender}: {e}")
-            return []
+                # Give extra time for all results to render
+                time.sleep(1)
+                
+                # Extract results using JavaScript
+                results = self.driver.execute_script("""
+                    const results = [];
+                    const rows = document.querySelectorAll('li.list-group-item');
+                    
+                    rows.forEach(row => {
+                        const nameLink = row.querySelector('a[href*="idp="]');
+                        if (!nameLink) return;
+                        
+                        const rankElem = row.querySelector('.list-field.type-place.place-primary');
+                        const rank = rankElem ? rankElem.innerText.trim() : null;
+                        
+                        const name = nameLink.innerText.trim();
+                        
+                        const natElem = row.querySelector('.nation__abbr');
+                        const nationality = natElem ? natElem.innerText.trim() : null;
+                        
+                        const ageElem = row.querySelector('.list-field.type-age_class');
+                        const ageGroup = ageElem ? ageElem.innerText.trim() : null;
+                        
+                        const timeElem = row.querySelector('.list-field.type-time');
+                        const finishTime = timeElem ? timeElem.innerText.trim() : null;
+                        
+                        if (name && finishTime) {
+                            results.push({
+                                rank: rank,
+                                name: name,
+                                nationality: nationality,
+                                age_group: ageGroup,
+                                finish_time: finishTime
+                            });
+                        }
+                    });
+                    
+                    return results;
+                """)
+                
+                if results:
+                    all_results.extend(results)
+                    if len(all_results) >= limit:
+                        all_results = all_results[:limit]  # Trim to exact limit
+                        break
+                else:
+                    # No results on this page, stop pagination
+                    break
+                
+                # Be polite to the server between pages
+                time.sleep(0.5)
+                
+            except TimeoutException:
+                print(f"    ✗ Timeout loading page {page} for {venue_name} - {gender}")
+                break
+            except Exception as e:
+                print(f"    ✗ Error scraping page {page} for {venue_name} - {gender}: {e}")
+                break
+        
+        print(f"    ✓ Scraped {len(all_results)} results")
+        return all_results
     
     def scrape_all_venues(self, venues_config, venue_filter=None, limit=100):
         """

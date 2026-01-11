@@ -209,7 +209,7 @@ Additional feature harnassing and criteria.
 - ✅ Prototyp for Analyzing and calculating a course correction factor
 - ✅ Sample plots of the result
 
-DONE/Validated 12/10/2025
+DONE: Validated 12/10/2025
 ---
 
 ### Phase 2: Web Foundation
@@ -223,7 +223,7 @@ DONE/Validated 12/10/2025
 
 **Validation:** Can run app on localhost and process submitted finish time
 
-DONE/Validated 12/10/2025
+DONE: Validated 12/10/2025
 ---
 
 ### Phase 3: Primary user stories
@@ -239,19 +239,29 @@ DONE/Validated 12/10/2025
 
 **Validation:** Tests primary  user stories
 
-NEXT
+DONE: Validated 12/10/2025
 ---
 
-### Phase 4: Scale and  
+### Phase 4: Scale  and user tracking  
 
 **Goal:** Production-ready MVP
 
 **Deliverables:**
-- ✅ Larger data sets. All season events to date and top 80% of scores.
+- ✅ Larger data sets. Include all season-8 (2025/2026) events to date and top 80% of scores per event.
+  - If a database is better than csv at this scale, switch to database. Use standard python SQLlite
+- ✅ Additional handicap clarication and validation:
+  - Ability to seperate womens and mens results but keep the aggregated results
+- ✅ Venue time distribution chart updates:
+  - on the finsh time axis, convert the seconds to time in hours and minutes h/mm. use 15 minute intervals (900 seconds)
+  - remove the rollovers and just plot the median time in h:mm, right under the median line
+  - add a simple legend directly near the chart explaining the plotter items mean, median, wider standard deviation area
+  - Add an additional table on it's own page with results pulled per venue (clarify it's just the top 80%), fastest time, slowest time, number of scores pulled. mean, median, and standard deviations)
+  - Rename  mean to average in the chart legend and the table (more user friendly). Rename median to Venue Benchmark in the chart legend and the table (more user friendly)
 - ✅ Gracefull error handling of user inputs
 - ✅ Mobile-responsive layout
-- ✅ User tracking and Gather User feedback
-- If database is better than vcv at this scale, switch to database
+- ✅ User tracking tags (placeholders as needed)
+- ✅ Gather User feedback with simple star and a comment (capture the comment). Feedback form link as the last item on the top menu
+
 
 **Validation:** Smooth user experience of primary stories.
 
@@ -259,7 +269,7 @@ NEXT
 
 ## 11. Future Considerations Phase 5 and onwards
 
-### Post V1 Enhancements
+### Post Phase 4 Enhancements
 - **Mobile first** - UX on mobile phones
 - **Data deep dives** — Station by station analysis
 - **Social media export** — instagram story image etc

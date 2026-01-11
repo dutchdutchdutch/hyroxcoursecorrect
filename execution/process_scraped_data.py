@@ -129,6 +129,22 @@ def process_scraped_data(input_file, output_file):
     # Create DataFrame
     df = pd.DataFrame(all_results)
     
+    # Filter to top 80% for venues with <1000 results per gender to avoid slow outliers
+    filtered_results = []
+    for (venue, gender), group in df.groupby(['venue', 'gender']):
+        if len(group) < 1000:
+            # Keep only top 80% (fastest times)
+            cutoff = int(len(group) * 0.8)
+            group_sorted = group.sort_values('finish_seconds')
+            filtered_group = group_sorted.head(cutoff)
+            print(f"   Filtered {venue} - {gender}: {len(group)} → {len(filtered_group)} results (top 80%)")
+            filtered_results.append(filtered_group)
+        else:
+            # Keep all results for venues with 1000+
+            filtered_results.append(group)
+    
+    df = pd.concat(filtered_results, ignore_index=True)
+    
     # Sort by venue, gender, and rank
     df = df.sort_values(['venue', 'gender', 'rank'])
     
