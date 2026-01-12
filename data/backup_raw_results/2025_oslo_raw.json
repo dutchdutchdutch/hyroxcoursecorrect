@@ -1,0 +1,6274 @@
+[
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 1,
+    "name": "Thorvik, David",
+    "finish_time": "00:56:20",
+    "finish_seconds": 3380
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 3,
+    "name": "Beattie, Steven",
+    "finish_time": "00:58:08",
+    "finish_seconds": 3488
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 5,
+    "name": "Whyte, Ben",
+    "finish_time": "00:59:18",
+    "finish_seconds": 3558
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 7,
+    "name": "Strong, Ben",
+    "finish_time": "01:00:18",
+    "finish_seconds": 3618
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 9,
+    "name": "Gorrod, Daniel",
+    "finish_time": "01:00:32",
+    "finish_seconds": 3632
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 11,
+    "name": "Laurell, Carl",
+    "finish_time": "01:00:39",
+    "finish_seconds": 3639
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 13,
+    "name": "Whittaker, Rob",
+    "finish_time": "01:01:27",
+    "finish_seconds": 3687
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 15,
+    "name": "Eriksson, Stephan",
+    "finish_time": "01:01:41",
+    "finish_seconds": 3701
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 17,
+    "name": "Nitter, Nikolai Hjelle",
+    "finish_time": "01:01:43",
+    "finish_seconds": 3703
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 19,
+    "name": "White, Liam",
+    "finish_time": "01:01:44",
+    "finish_seconds": 3704
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 21,
+    "name": "Mogilany, Florian",
+    "finish_time": "01:02:16",
+    "finish_seconds": 3736
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 23,
+    "name": "N\u00e6ss, Mikkel",
+    "finish_time": "01:02:25",
+    "finish_seconds": 3745
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 25,
+    "name": "Friberg, Daniel",
+    "finish_time": "01:02:37",
+    "finish_seconds": 3757
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 27,
+    "name": "Lendvorsky, Leo",
+    "finish_time": "01:02:52",
+    "finish_seconds": 3772
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 29,
+    "name": "Guscinas, Rokas",
+    "finish_time": "01:03:00",
+    "finish_seconds": 3780
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 31,
+    "name": "Garside, Mike",
+    "finish_time": "01:03:05",
+    "finish_seconds": 3785
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 33,
+    "name": "Courtney, Simon",
+    "finish_time": "01:03:13",
+    "finish_seconds": 3793
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 35,
+    "name": "Teeranumpongwanich, Patharawut",
+    "finish_time": "01:03:29",
+    "finish_seconds": 3809
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 37,
+    "name": "Jazepcikas, Vytautas",
+    "finish_time": "01:03:30",
+    "finish_seconds": 3810
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 39,
+    "name": "Mayulu, Blevins",
+    "finish_time": "01:03:38",
+    "finish_seconds": 3818
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 41,
+    "name": "Torstensson, Vinzent",
+    "finish_time": "01:03:54",
+    "finish_seconds": 3834
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 43,
+    "name": "Borggaard, Anders",
+    "finish_time": "01:04:24",
+    "finish_seconds": 3864
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 45,
+    "name": "Alhouti, Abdulaziz",
+    "finish_time": "01:04:34",
+    "finish_seconds": 3874
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 47,
+    "name": "Tonnel, Augustin",
+    "finish_time": "01:04:54",
+    "finish_seconds": 3894
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 49,
+    "name": "Swift, Jordan",
+    "finish_time": "01:05:03",
+    "finish_seconds": 3903
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 51,
+    "name": "\u00d8deg\u00e5rd, Thomas",
+    "finish_time": "01:05:13",
+    "finish_seconds": 3913
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 53,
+    "name": "Bettis, Louis",
+    "finish_time": "01:05:15",
+    "finish_seconds": 3915
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 55,
+    "name": "Gordon, Alistair",
+    "finish_time": "01:05:20",
+    "finish_seconds": 3920
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 57,
+    "name": "Van Drunen, Floris",
+    "finish_time": "01:05:28",
+    "finish_seconds": 3928
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 59,
+    "name": "Feeney, Aaron",
+    "finish_time": "01:05:54",
+    "finish_seconds": 3954
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 61,
+    "name": "Acarregui, Steve",
+    "finish_time": "01:05:58",
+    "finish_seconds": 3958
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 63,
+    "name": "Hart, Sam",
+    "finish_time": "01:05:59",
+    "finish_seconds": 3959
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 65,
+    "name": "Palenik, Pawel",
+    "finish_time": "01:06:13",
+    "finish_seconds": 3973
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 67,
+    "name": "Musche, Dennis",
+    "finish_time": "01:06:23",
+    "finish_seconds": 3983
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 69,
+    "name": "Wold, Sindre",
+    "finish_time": "01:06:28",
+    "finish_seconds": 3988
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 71,
+    "name": "Mckie, Alastair",
+    "finish_time": "01:06:30",
+    "finish_seconds": 3990
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 73,
+    "name": "Cherqaoui, Jad",
+    "finish_time": "01:06:37",
+    "finish_seconds": 3997
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 75,
+    "name": "Scott, Michael",
+    "finish_time": "01:06:44",
+    "finish_seconds": 4004
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 77,
+    "name": "Nielsen, Phillip",
+    "finish_time": "01:06:55",
+    "finish_seconds": 4015
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 79,
+    "name": "Sande, Jakob",
+    "finish_time": "01:06:59",
+    "finish_seconds": 4019
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 81,
+    "name": "Matthew, Kieran",
+    "finish_time": "01:07:01",
+    "finish_seconds": 4021
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 83,
+    "name": "Clark, Adam",
+    "finish_time": "01:07:06",
+    "finish_seconds": 4026
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 85,
+    "name": "Denic, Stefan",
+    "finish_time": "01:07:15",
+    "finish_seconds": 4035
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 87,
+    "name": "Steenbergen, Nick",
+    "finish_time": "01:07:32",
+    "finish_seconds": 4052
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 89,
+    "name": "Andersson, Tim",
+    "finish_time": "01:07:33",
+    "finish_seconds": 4053
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 91,
+    "name": "Poppe, Christian",
+    "finish_time": "01:07:44",
+    "finish_seconds": 4064
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 93,
+    "name": "Massoud-Holgeid, Thomas",
+    "finish_time": "01:07:51",
+    "finish_seconds": 4071
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 95,
+    "name": "Ayani, Mikel",
+    "finish_time": "01:07:54",
+    "finish_seconds": 4074
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 97,
+    "name": "Finn, Luke",
+    "finish_time": "01:07:58",
+    "finish_seconds": 4078
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 99,
+    "name": "Bohman, Jonatan",
+    "finish_time": "01:08:03",
+    "finish_seconds": 4083
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 101,
+    "name": "Ribe, Adrian",
+    "finish_time": "01:08:04",
+    "finish_seconds": 4084
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 103,
+    "name": "Thorpe, Brandon",
+    "finish_time": "01:08:07",
+    "finish_seconds": 4087
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 105,
+    "name": "Akers Hernandez, Zidan",
+    "finish_time": "01:08:18",
+    "finish_seconds": 4098
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 107,
+    "name": "Sognefest, Sindre",
+    "finish_time": "01:08:20",
+    "finish_seconds": 4100
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 109,
+    "name": "Killeen, Matthew",
+    "finish_time": "01:08:23",
+    "finish_seconds": 4103
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 111,
+    "name": "Eide, Andr\u00e9",
+    "finish_time": "01:08:26",
+    "finish_seconds": 4106
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 113,
+    "name": "Henden, Gunnar",
+    "finish_time": "01:08:27",
+    "finish_seconds": 4107
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 115,
+    "name": "Bredenkamp, James",
+    "finish_time": "01:08:29",
+    "finish_seconds": 4109
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 117,
+    "name": "Kitchener, Jack",
+    "finish_time": "01:08:31",
+    "finish_seconds": 4111
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 119,
+    "name": "Vorbau, Mattias",
+    "finish_time": "01:08:36",
+    "finish_seconds": 4116
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 121,
+    "name": "Rickli, Steven",
+    "finish_time": "01:08:40",
+    "finish_seconds": 4120
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 123,
+    "name": "Mcallister, Jamie",
+    "finish_time": "01:08:59",
+    "finish_seconds": 4139
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 125,
+    "name": "Minde, Julian",
+    "finish_time": "01:09:06",
+    "finish_seconds": 4146
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 127,
+    "name": "Marshall, Adam",
+    "finish_time": "01:09:07",
+    "finish_seconds": 4147
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 129,
+    "name": "Vainio, Tuomas",
+    "finish_time": "01:09:12",
+    "finish_seconds": 4152
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 131,
+    "name": "Horan, Austin",
+    "finish_time": "01:09:14",
+    "finish_seconds": 4154
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 133,
+    "name": "Panagiotis, Efthymios (Makis)",
+    "finish_time": "01:09:16",
+    "finish_seconds": 4156
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 135,
+    "name": "Baptista, Martial",
+    "finish_time": "01:09:19",
+    "finish_seconds": 4159
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 137,
+    "name": "Ellis, Luke",
+    "finish_time": "01:09:25",
+    "finish_seconds": 4165
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 139,
+    "name": "Neureuter, Maximilian",
+    "finish_time": "01:09:27",
+    "finish_seconds": 4167
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 141,
+    "name": "Stenebr\u00e5ten, Rasmus",
+    "finish_time": "01:09:34",
+    "finish_seconds": 4174
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 143,
+    "name": "Harstad, Axel \u00d8vreb\u00f8",
+    "finish_time": "01:09:36",
+    "finish_seconds": 4176
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 145,
+    "name": "Paton, Lewis",
+    "finish_time": "01:09:41",
+    "finish_seconds": 4181
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 147,
+    "name": "Wellstead, Harry",
+    "finish_time": "01:09:44",
+    "finish_seconds": 4184
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 149,
+    "name": "Wiklund, Morgan",
+    "finish_time": "01:09:47",
+    "finish_seconds": 4187
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 151,
+    "name": "Langebro, Birger",
+    "finish_time": "01:09:51",
+    "finish_seconds": 4191
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 153,
+    "name": "Lumsden, Owen",
+    "finish_time": "01:09:57",
+    "finish_seconds": 4197
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 155,
+    "name": "Geddes, Macauley",
+    "finish_time": "01:09:58",
+    "finish_seconds": 4198
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 157,
+    "name": "Brayshaw, Lewis",
+    "finish_time": "01:10:01",
+    "finish_seconds": 4201
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 159,
+    "name": "Bjerkestrand, Nikolai",
+    "finish_time": "01:10:05",
+    "finish_seconds": 4205
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 161,
+    "name": "Spicer, Rory Piers",
+    "finish_time": "01:10:10",
+    "finish_seconds": 4210
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 163,
+    "name": "Bondesen, Anton Lorenz",
+    "finish_time": "01:10:11",
+    "finish_seconds": 4211
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 165,
+    "name": "Lunde, Torstein",
+    "finish_time": "01:10:12",
+    "finish_seconds": 4212
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 167,
+    "name": "Bojsen, Alexander Dohn",
+    "finish_time": "01:10:13",
+    "finish_seconds": 4213
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 169,
+    "name": "Kalda, Kalev",
+    "finish_time": "01:10:23",
+    "finish_seconds": 4223
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 171,
+    "name": "Friedlander, Eric",
+    "finish_time": "01:10:27",
+    "finish_seconds": 4227
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 173,
+    "name": "Kinsey, Luke",
+    "finish_time": "01:10:30",
+    "finish_seconds": 4230
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 175,
+    "name": "Krapp, Andreas",
+    "finish_time": "01:10:37",
+    "finish_seconds": 4237
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 177,
+    "name": "Laanemets, Fredrik",
+    "finish_time": "01:10:38",
+    "finish_seconds": 4238
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 179,
+    "name": "Lange, Thomas",
+    "finish_time": "01:10:45",
+    "finish_seconds": 4245
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 181,
+    "name": "Jagger, Danny",
+    "finish_time": "01:10:49",
+    "finish_seconds": 4249
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 183,
+    "name": "Melvoin, Charlie",
+    "finish_time": "01:10:53",
+    "finish_seconds": 4253
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 185,
+    "name": "Kjellen, Anders",
+    "finish_time": "01:11:02",
+    "finish_seconds": 4262
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 187,
+    "name": "Irschlinger, Liam",
+    "finish_time": "01:11:06",
+    "finish_seconds": 4266
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 189,
+    "name": "Winterst\u00f8-Ivarsson, Emil",
+    "finish_time": "01:11:16",
+    "finish_seconds": 4276
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 191,
+    "name": "Ortved, Mikkel",
+    "finish_time": "01:11:19",
+    "finish_seconds": 4279
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 193,
+    "name": "Krischel, Marcus",
+    "finish_time": "01:11:22",
+    "finish_seconds": 4282
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 195,
+    "name": "Kenning, Damian",
+    "finish_time": "01:11:26",
+    "finish_seconds": 4286
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 197,
+    "name": "Grundetjern Fjellstad, Martin",
+    "finish_time": "01:11:39",
+    "finish_seconds": 4299
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 199,
+    "name": "Saint, Lloyd",
+    "finish_time": "01:11:45",
+    "finish_seconds": 4305
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 201,
+    "name": "Afonso E Costa, Rui",
+    "finish_time": "01:11:48",
+    "finish_seconds": 4308
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 203,
+    "name": "Hallberg, Stefan",
+    "finish_time": "01:11:54",
+    "finish_seconds": 4314
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 205,
+    "name": "Percival, Alex",
+    "finish_time": "01:12:05",
+    "finish_seconds": 4325
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 207,
+    "name": "Mansell, Ross",
+    "finish_time": "01:12:07",
+    "finish_seconds": 4327
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 209,
+    "name": "\u00d8strem, Eirik",
+    "finish_time": "01:12:07",
+    "finish_seconds": 4327
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 211,
+    "name": "Tj\u00f8rnhom, Tore",
+    "finish_time": "01:12:08",
+    "finish_seconds": 4328
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 213,
+    "name": "Linnet, Anders",
+    "finish_time": "01:12:11",
+    "finish_seconds": 4331
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 215,
+    "name": "Sosnowski, Robin",
+    "finish_time": "01:12:13",
+    "finish_seconds": 4333
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 217,
+    "name": "Tomulevski, Daniel",
+    "finish_time": "01:12:15",
+    "finish_seconds": 4335
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 219,
+    "name": "Sk\u00f6ldeborg, Patrik",
+    "finish_time": "01:12:22",
+    "finish_seconds": 4342
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 221,
+    "name": "St\u00f8ckler, Jeppe",
+    "finish_time": "01:12:30",
+    "finish_seconds": 4350
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 223,
+    "name": "Nilsen, Andr\u00e9 Moen",
+    "finish_time": "01:12:31",
+    "finish_seconds": 4351
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 225,
+    "name": "Davis, Michael",
+    "finish_time": "01:12:36",
+    "finish_seconds": 4356
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 227,
+    "name": "Berry, Elliot",
+    "finish_time": "01:12:39",
+    "finish_seconds": 4359
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 229,
+    "name": "Andersen, Erik",
+    "finish_time": "01:12:48",
+    "finish_seconds": 4368
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 231,
+    "name": "Wallace, Theo",
+    "finish_time": "01:12:51",
+    "finish_seconds": 4371
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 233,
+    "name": "Blom, Erik",
+    "finish_time": "01:12:54",
+    "finish_seconds": 4374
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 235,
+    "name": "Revang, Stefan",
+    "finish_time": "01:13:03",
+    "finish_seconds": 4383
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 237,
+    "name": "Berg-Larsen, Thor Andreas",
+    "finish_time": "01:13:05",
+    "finish_seconds": 4385
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 239,
+    "name": "Hafsmo, Mads-Henrik",
+    "finish_time": "01:13:10",
+    "finish_seconds": 4390
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 241,
+    "name": "R\u00f8nneberg, Frode",
+    "finish_time": "01:13:16",
+    "finish_seconds": 4396
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 243,
+    "name": "Rakke, Anders",
+    "finish_time": "01:13:18",
+    "finish_seconds": 4398
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 245,
+    "name": "Espetvedt, Christer",
+    "finish_time": "01:13:22",
+    "finish_seconds": 4402
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 247,
+    "name": "Dahlman, Martin",
+    "finish_time": "01:13:26",
+    "finish_seconds": 4406
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 249,
+    "name": "Fryland, Morten",
+    "finish_time": "01:13:27",
+    "finish_seconds": 4407
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 251,
+    "name": "Cosgrave, Cian",
+    "finish_time": "01:13:29",
+    "finish_seconds": 4409
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 253,
+    "name": "Ansar, Julien",
+    "finish_time": "01:13:30",
+    "finish_seconds": 4410
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 255,
+    "name": "Marange, Pierre-Alexandre",
+    "finish_time": "01:13:32",
+    "finish_seconds": 4412
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 257,
+    "name": "Breslin, Finn",
+    "finish_time": "01:13:38",
+    "finish_seconds": 4418
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 259,
+    "name": "Mulder, Nils",
+    "finish_time": "01:13:43",
+    "finish_seconds": 4423
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 261,
+    "name": "Sacko, Modibo",
+    "finish_time": "01:13:53",
+    "finish_seconds": 4433
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 263,
+    "name": "Neville, Peter",
+    "finish_time": "01:13:54",
+    "finish_seconds": 4434
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 265,
+    "name": "Dale Hanssen, Kristoffer",
+    "finish_time": "01:13:59",
+    "finish_seconds": 4439
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 267,
+    "name": "Hokkanen, Joona Jukka",
+    "finish_time": "01:14:00",
+    "finish_seconds": 4440
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 269,
+    "name": "Sanders, Alex",
+    "finish_time": "01:14:09",
+    "finish_seconds": 4449
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 271,
+    "name": "D'Mellow, Brandon",
+    "finish_time": "01:14:15",
+    "finish_seconds": 4455
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 273,
+    "name": "Svensson, Christian",
+    "finish_time": "01:14:19",
+    "finish_seconds": 4459
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 275,
+    "name": "Lock, Dan",
+    "finish_time": "01:14:22",
+    "finish_seconds": 4462
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 277,
+    "name": "Leighton, Samuel",
+    "finish_time": "01:14:24",
+    "finish_seconds": 4464
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 279,
+    "name": "Mujica, Thomas",
+    "finish_time": "01:14:33",
+    "finish_seconds": 4473
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 281,
+    "name": "Fryland, Peter",
+    "finish_time": "01:14:36",
+    "finish_seconds": 4476
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 283,
+    "name": "O\u2019Keefe, Michael",
+    "finish_time": "01:14:41",
+    "finish_seconds": 4481
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 285,
+    "name": "Breen, Joe",
+    "finish_time": "01:14:43",
+    "finish_seconds": 4483
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 287,
+    "name": "Mcguire, Darryl",
+    "finish_time": "01:14:49",
+    "finish_seconds": 4489
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 289,
+    "name": "Eriksson, Erik",
+    "finish_time": "01:14:56",
+    "finish_seconds": 4496
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 291,
+    "name": "\u00d6hlund, Andreas",
+    "finish_time": "01:14:57",
+    "finish_seconds": 4497
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 293,
+    "name": "Lex\u00e9n, Daniel",
+    "finish_time": "01:14:58",
+    "finish_seconds": 4498
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 295,
+    "name": "Unhammer, Stig",
+    "finish_time": "01:15:01",
+    "finish_seconds": 4501
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 297,
+    "name": "Olsson, Emil",
+    "finish_time": "01:15:02",
+    "finish_seconds": 4502
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 299,
+    "name": "Jetha, Lex",
+    "finish_time": "01:15:08",
+    "finish_seconds": 4508
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 301,
+    "name": "Samwell, Lee",
+    "finish_time": "01:15:12",
+    "finish_seconds": 4512
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 303,
+    "name": "Lightburn, Jack",
+    "finish_time": "01:15:16",
+    "finish_seconds": 4516
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 305,
+    "name": "Smart, Liam",
+    "finish_time": "01:15:22",
+    "finish_seconds": 4522
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 307,
+    "name": "Kashaev, Ahmed",
+    "finish_time": "01:15:27",
+    "finish_seconds": 4527
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 309,
+    "name": "Bernhofen, Mario",
+    "finish_time": "01:15:32",
+    "finish_seconds": 4532
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 311,
+    "name": "Sears, Ben",
+    "finish_time": "01:15:34",
+    "finish_seconds": 4534
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 313,
+    "name": "Granly, Steffen",
+    "finish_time": "01:15:36",
+    "finish_seconds": 4536
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 315,
+    "name": "Nicolle, Quentin",
+    "finish_time": "01:15:38",
+    "finish_seconds": 4538
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 317,
+    "name": "Nyl\u00e9n, Ludvig",
+    "finish_time": "01:15:39",
+    "finish_seconds": 4539
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 319,
+    "name": "Brann, Joshua",
+    "finish_time": "01:15:42",
+    "finish_seconds": 4542
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 321,
+    "name": "M\u00fcller, Niclas",
+    "finish_time": "01:15:48",
+    "finish_seconds": 4548
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 323,
+    "name": "Block, Tobias",
+    "finish_time": "01:15:49",
+    "finish_seconds": 4549
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 325,
+    "name": "Rogers, Henrik",
+    "finish_time": "01:15:51",
+    "finish_seconds": 4551
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 327,
+    "name": "Horsley, Matt",
+    "finish_time": "01:16:02",
+    "finish_seconds": 4562
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 329,
+    "name": "Windt, Ramon",
+    "finish_time": "01:16:03",
+    "finish_seconds": 4563
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 331,
+    "name": "Dekanic, Mihael",
+    "finish_time": "01:16:05",
+    "finish_seconds": 4565
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 333,
+    "name": "Dorrepaal, Dennis",
+    "finish_time": "01:16:09",
+    "finish_seconds": 4569
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 335,
+    "name": "Guriby, Jonas",
+    "finish_time": "01:16:12",
+    "finish_seconds": 4572
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 337,
+    "name": "Guillot-Sestier, Roman",
+    "finish_time": "01:16:14",
+    "finish_seconds": 4574
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 339,
+    "name": "Feval, Magdiel",
+    "finish_time": "01:16:16",
+    "finish_seconds": 4576
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 341,
+    "name": "Neath, Harry",
+    "finish_time": "01:16:16",
+    "finish_seconds": 4576
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 343,
+    "name": "Zdebski, Jakub",
+    "finish_time": "01:16:19",
+    "finish_seconds": 4579
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 345,
+    "name": "Blomqvist, Ludvig",
+    "finish_time": "01:16:21",
+    "finish_seconds": 4581
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 347,
+    "name": "Moore, Edward",
+    "finish_time": "01:16:23",
+    "finish_seconds": 4583
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 349,
+    "name": "Workman, Rhodri",
+    "finish_time": "01:16:25",
+    "finish_seconds": 4585
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 351,
+    "name": "Finne, Rune",
+    "finish_time": "01:16:26",
+    "finish_seconds": 4586
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 353,
+    "name": "Nordlander, Henrik",
+    "finish_time": "01:16:32",
+    "finish_seconds": 4592
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 355,
+    "name": "Henrikson, Christian",
+    "finish_time": "01:16:33",
+    "finish_seconds": 4593
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 357,
+    "name": "Hagen, Fredrik",
+    "finish_time": "01:16:35",
+    "finish_seconds": 4595
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 359,
+    "name": "Fern\u00e1ndez, Eduardo",
+    "finish_time": "01:16:38",
+    "finish_seconds": 4598
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 361,
+    "name": "Stavnsborg, Jon",
+    "finish_time": "01:16:40",
+    "finish_seconds": 4600
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 363,
+    "name": "Egebakken, Kenneth",
+    "finish_time": "01:16:42",
+    "finish_seconds": 4602
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 365,
+    "name": "Lunde, Daniel",
+    "finish_time": "01:16:43",
+    "finish_seconds": 4603
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 367,
+    "name": "Roseira, Felipe",
+    "finish_time": "01:16:51",
+    "finish_seconds": 4611
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 369,
+    "name": "Gustafsson, Alexander",
+    "finish_time": "01:16:54",
+    "finish_seconds": 4614
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 371,
+    "name": "Lundgren, Tobias",
+    "finish_time": "01:17:02",
+    "finish_seconds": 4622
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 373,
+    "name": "Coptcoat, Alexander",
+    "finish_time": "01:17:05",
+    "finish_seconds": 4625
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 375,
+    "name": "M, Marc",
+    "finish_time": "01:17:07",
+    "finish_seconds": 4627
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 377,
+    "name": "Farrell, Rob",
+    "finish_time": "01:17:09",
+    "finish_seconds": 4629
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 379,
+    "name": "Wagenblast, Laszlo",
+    "finish_time": "01:17:17",
+    "finish_seconds": 4637
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 381,
+    "name": "Kosanovic, Igor",
+    "finish_time": "01:17:20",
+    "finish_seconds": 4640
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 383,
+    "name": "Brouwer, Tim",
+    "finish_time": "01:17:20",
+    "finish_seconds": 4640
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 385,
+    "name": "Giuliano, Enrico",
+    "finish_time": "01:17:24",
+    "finish_seconds": 4644
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 387,
+    "name": "Seeck, Erik",
+    "finish_time": "01:17:24",
+    "finish_seconds": 4644
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 389,
+    "name": "Lerstrand, Theo",
+    "finish_time": "01:17:37",
+    "finish_seconds": 4657
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 391,
+    "name": "Holmes, Josh",
+    "finish_time": "01:17:39",
+    "finish_seconds": 4659
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 393,
+    "name": "Czyzykowski, Alan",
+    "finish_time": "01:17:44",
+    "finish_seconds": 4664
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 395,
+    "name": "Inglis, Jamie",
+    "finish_time": "01:17:45",
+    "finish_seconds": 4665
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 397,
+    "name": "Johansen, Andr\u00e9",
+    "finish_time": "01:17:48",
+    "finish_seconds": 4668
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 399,
+    "name": "Lindebekk, Oddbj\u00f8rn",
+    "finish_time": "01:17:55",
+    "finish_seconds": 4675
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 401,
+    "name": "Egan, John",
+    "finish_time": "01:17:56",
+    "finish_seconds": 4676
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 403,
+    "name": "Thronsen, Marius",
+    "finish_time": "01:18:02",
+    "finish_seconds": 4682
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 405,
+    "name": "Cursiter, Sean",
+    "finish_time": "01:18:06",
+    "finish_seconds": 4686
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 407,
+    "name": "Snefjell\u00e5, Eirik Sandberg",
+    "finish_time": "01:18:08",
+    "finish_seconds": 4688
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 409,
+    "name": "Alcoba, Diego",
+    "finish_time": "01:18:10",
+    "finish_seconds": 4690
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 411,
+    "name": "De Bruin, Thijs",
+    "finish_time": "01:18:15",
+    "finish_seconds": 4695
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 413,
+    "name": "Myers, Max",
+    "finish_time": "01:18:21",
+    "finish_seconds": 4701
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 415,
+    "name": "Ifversen, Malte",
+    "finish_time": "01:18:24",
+    "finish_seconds": 4704
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 417,
+    "name": "Rasmussen, Joachim",
+    "finish_time": "01:18:27",
+    "finish_seconds": 4707
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 419,
+    "name": "Taghadosi, Noori",
+    "finish_time": "01:18:30",
+    "finish_seconds": 4710
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 421,
+    "name": "Kosunen, Ilkka",
+    "finish_time": "01:18:32",
+    "finish_seconds": 4712
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 423,
+    "name": "Fredlund, Claes",
+    "finish_time": "01:18:35",
+    "finish_seconds": 4715
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 425,
+    "name": "Go, Olivier",
+    "finish_time": "01:18:39",
+    "finish_seconds": 4719
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 427,
+    "name": "Kiraly, Marton",
+    "finish_time": "01:18:41",
+    "finish_seconds": 4721
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 429,
+    "name": "Lunaas, J\u00f8rn Tore",
+    "finish_time": "01:18:42",
+    "finish_seconds": 4722
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 431,
+    "name": "Vasenden, Bj\u00f8rnar",
+    "finish_time": "01:18:45",
+    "finish_seconds": 4725
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 433,
+    "name": "Kucharek, Philip",
+    "finish_time": "01:18:49",
+    "finish_seconds": 4729
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 435,
+    "name": "Buckley, Andrew",
+    "finish_time": "01:18:52",
+    "finish_seconds": 4732
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 437,
+    "name": "Windrup, Fredrik",
+    "finish_time": "01:18:55",
+    "finish_seconds": 4735
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 439,
+    "name": "Byggnings, Johan",
+    "finish_time": "01:18:57",
+    "finish_seconds": 4737
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 441,
+    "name": "Rothenbusch, Janik",
+    "finish_time": "01:18:58",
+    "finish_seconds": 4738
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 443,
+    "name": "Rolfsen, B\u00e5rd",
+    "finish_time": "01:19:02",
+    "finish_seconds": 4742
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 445,
+    "name": "Kennedy, Michael",
+    "finish_time": "01:19:07",
+    "finish_seconds": 4747
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 447,
+    "name": "Van Woerkom, Diederick",
+    "finish_time": "01:19:08",
+    "finish_seconds": 4748
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 449,
+    "name": "Gemelli, Alessandro",
+    "finish_time": "01:19:10",
+    "finish_seconds": 4750
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 451,
+    "name": "Dalsaune Nossum, Marius",
+    "finish_time": "01:19:18",
+    "finish_seconds": 4758
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 453,
+    "name": "Bradley, James",
+    "finish_time": "01:19:27",
+    "finish_seconds": 4767
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 455,
+    "name": "Lord, Matt",
+    "finish_time": "01:19:35",
+    "finish_seconds": 4775
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 457,
+    "name": "Pettitt, Samuel",
+    "finish_time": "01:19:37",
+    "finish_seconds": 4777
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 459,
+    "name": "Kaltenborn, Thomas Taralrud",
+    "finish_time": "01:19:39",
+    "finish_seconds": 4779
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 461,
+    "name": "Abraitis, Donatas",
+    "finish_time": "01:19:40",
+    "finish_seconds": 4780
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 463,
+    "name": "Andr\u00e9n, Staffan",
+    "finish_time": "01:19:44",
+    "finish_seconds": 4784
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 465,
+    "name": "Gibson, Alexander",
+    "finish_time": "01:19:49",
+    "finish_seconds": 4789
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 467,
+    "name": "Graham, Lee",
+    "finish_time": "01:19:51",
+    "finish_seconds": 4791
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 469,
+    "name": "Rye, Tormod",
+    "finish_time": "01:19:53",
+    "finish_seconds": 4793
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 471,
+    "name": "Barazinskis, Aigars",
+    "finish_time": "01:19:54",
+    "finish_seconds": 4794
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 473,
+    "name": "Krogstad, Simon Aspaas",
+    "finish_time": "01:19:57",
+    "finish_seconds": 4797
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 475,
+    "name": "Sultani, Puya",
+    "finish_time": "01:19:58",
+    "finish_seconds": 4798
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 477,
+    "name": "Selbekk, Oliver",
+    "finish_time": "01:20:02",
+    "finish_seconds": 4802
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 479,
+    "name": "Hewad, Ferdaws",
+    "finish_time": "01:20:05",
+    "finish_seconds": 4805
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 481,
+    "name": "Hagen, Espen",
+    "finish_time": "01:20:06",
+    "finish_seconds": 4806
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 483,
+    "name": "Kleven, J\u00f8rn Gunnar",
+    "finish_time": "01:20:10",
+    "finish_seconds": 4810
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 485,
+    "name": "R\u00f8yneland, Tov",
+    "finish_time": "01:20:18",
+    "finish_seconds": 4818
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 487,
+    "name": "Bimson, Jeff",
+    "finish_time": "01:20:22",
+    "finish_seconds": 4822
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 489,
+    "name": "Hensby, Callum",
+    "finish_time": "01:20:23",
+    "finish_seconds": 4823
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 491,
+    "name": "Oldervik, Stig",
+    "finish_time": "01:20:24",
+    "finish_seconds": 4824
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 493,
+    "name": "Stevenson, Ross",
+    "finish_time": "01:20:26",
+    "finish_seconds": 4826
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 495,
+    "name": "Lien, Lars-Helge",
+    "finish_time": "01:20:29",
+    "finish_seconds": 4829
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 497,
+    "name": "Yehiaoui, Ousama",
+    "finish_time": "01:20:35",
+    "finish_seconds": 4835
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 499,
+    "name": "Clapham, Matty",
+    "finish_time": "01:20:41",
+    "finish_seconds": 4841
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 501,
+    "name": "Matjisen, Jan Eirik",
+    "finish_time": "01:20:49",
+    "finish_seconds": 4849
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 503,
+    "name": "Elsberg, Marcus",
+    "finish_time": "01:20:50",
+    "finish_seconds": 4850
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 505,
+    "name": "Eriksson, Marcus",
+    "finish_time": "01:20:53",
+    "finish_seconds": 4853
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 507,
+    "name": "Kasseth, Martin Alexander",
+    "finish_time": "01:20:56",
+    "finish_seconds": 4856
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 509,
+    "name": "O'Hara, Alasdair",
+    "finish_time": "01:21:01",
+    "finish_seconds": 4861
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 511,
+    "name": "Str\u00f6mbergsson, Martin",
+    "finish_time": "01:21:04",
+    "finish_seconds": 4864
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 513,
+    "name": "\u00d6zkaynak, Mehmet",
+    "finish_time": "01:21:07",
+    "finish_seconds": 4867
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 515,
+    "name": "Andreasen, Philip Busch",
+    "finish_time": "01:21:11",
+    "finish_seconds": 4871
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 517,
+    "name": "Jensen, Mark Boje",
+    "finish_time": "01:21:16",
+    "finish_seconds": 4876
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 519,
+    "name": "O'Donnell, Rossa",
+    "finish_time": "01:21:17",
+    "finish_seconds": 4877
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 521,
+    "name": "Paul, Rio",
+    "finish_time": "01:21:20",
+    "finish_seconds": 4880
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 523,
+    "name": "Barua, Espen Arildson",
+    "finish_time": "01:21:25",
+    "finish_seconds": 4885
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 525,
+    "name": "Steen-Vonstad, Eirik",
+    "finish_time": "01:21:29",
+    "finish_seconds": 4889
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 527,
+    "name": "Bergdahl, Kristofer",
+    "finish_time": "01:21:35",
+    "finish_seconds": 4895
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 529,
+    "name": "Arding, Robin",
+    "finish_time": "01:21:40",
+    "finish_seconds": 4900
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 531,
+    "name": "Rawson, Jamie",
+    "finish_time": "01:21:45",
+    "finish_seconds": 4905
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 533,
+    "name": "Clayton, Jamie",
+    "finish_time": "01:21:54",
+    "finish_seconds": 4914
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 535,
+    "name": "\u0160efers, Reinis",
+    "finish_time": "01:21:56",
+    "finish_seconds": 4916
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 537,
+    "name": "Lattof, Camilo",
+    "finish_time": "01:22:01",
+    "finish_seconds": 4921
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 539,
+    "name": "Solheim, Lucas",
+    "finish_time": "01:22:02",
+    "finish_seconds": 4922
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 541,
+    "name": "Hult, Christer Orre",
+    "finish_time": "01:22:03",
+    "finish_seconds": 4923
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 543,
+    "name": "Crowe, Graeme",
+    "finish_time": "01:22:07",
+    "finish_seconds": 4927
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 545,
+    "name": "Charlesworth, Harry",
+    "finish_time": "01:22:11",
+    "finish_seconds": 4931
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 547,
+    "name": "Miras Wardell, Oscar",
+    "finish_time": "01:22:17",
+    "finish_seconds": 4937
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 549,
+    "name": "Rolland, Benjamin",
+    "finish_time": "01:22:20",
+    "finish_seconds": 4940
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 551,
+    "name": "Ehrenstr\u00f6m, Alexander",
+    "finish_time": "01:22:26",
+    "finish_seconds": 4946
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 553,
+    "name": "Kv\u00e5le, Tore",
+    "finish_time": "01:22:31",
+    "finish_seconds": 4951
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 555,
+    "name": "Berger, Marco",
+    "finish_time": "01:22:32",
+    "finish_seconds": 4952
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 557,
+    "name": "Alami, Ouassim",
+    "finish_time": "01:22:36",
+    "finish_seconds": 4956
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 559,
+    "name": "Perrin, Leonard",
+    "finish_time": "01:22:38",
+    "finish_seconds": 4958
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 561,
+    "name": "Bj\u00f6rklund, Lukas",
+    "finish_time": "01:22:39",
+    "finish_seconds": 4959
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 563,
+    "name": "Persson, Jonatan",
+    "finish_time": "01:22:45",
+    "finish_seconds": 4965
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 565,
+    "name": "Lovejus, Jens",
+    "finish_time": "01:22:47",
+    "finish_seconds": 4967
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 567,
+    "name": "Martin, Luke",
+    "finish_time": "01:22:50",
+    "finish_seconds": 4970
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 569,
+    "name": "Kastrati, Emerson",
+    "finish_time": "01:22:52",
+    "finish_seconds": 4972
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 571,
+    "name": "Bar\u00f8y, Olav",
+    "finish_time": "01:22:55",
+    "finish_seconds": 4975
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 573,
+    "name": "Dzintars, Ainis",
+    "finish_time": "01:23:00",
+    "finish_seconds": 4980
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 575,
+    "name": "Leather, Nate",
+    "finish_time": "01:23:02",
+    "finish_seconds": 4982
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 577,
+    "name": "Kaiser, Petr",
+    "finish_time": "01:23:08",
+    "finish_seconds": 4988
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 579,
+    "name": "G\u00f3ngora, Ricardo",
+    "finish_time": "01:23:09",
+    "finish_seconds": 4989
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 581,
+    "name": "Pedersen, Adam",
+    "finish_time": "01:23:12",
+    "finish_seconds": 4992
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 583,
+    "name": "Summerson, Michael",
+    "finish_time": "01:23:13",
+    "finish_seconds": 4993
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 585,
+    "name": "Wennow, Max",
+    "finish_time": "01:23:15",
+    "finish_seconds": 4995
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 587,
+    "name": "Balest, Fabrizio",
+    "finish_time": "01:23:15",
+    "finish_seconds": 4995
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 589,
+    "name": "Larsen, Oscar",
+    "finish_time": "01:23:17",
+    "finish_seconds": 4997
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 591,
+    "name": "Kumlin, Peter",
+    "finish_time": "01:23:21",
+    "finish_seconds": 5001
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 593,
+    "name": "Dale, Sigurd Loftheim",
+    "finish_time": "01:23:24",
+    "finish_seconds": 5004
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 595,
+    "name": "Jensen, Sikker",
+    "finish_time": "01:23:28",
+    "finish_seconds": 5008
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 597,
+    "name": "Damien, Fuchs",
+    "finish_time": "01:23:35",
+    "finish_seconds": 5015
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 599,
+    "name": "Kashammar, Peter",
+    "finish_time": "01:23:36",
+    "finish_seconds": 5016
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 601,
+    "name": "Reynolds, Gordon",
+    "finish_time": "01:23:48",
+    "finish_seconds": 5028
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 603,
+    "name": "Kearns, Niall",
+    "finish_time": "01:23:49",
+    "finish_seconds": 5029
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 605,
+    "name": "Helsinghof, Tom",
+    "finish_time": "01:23:52",
+    "finish_seconds": 5032
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 607,
+    "name": "Folmer, Christian",
+    "finish_time": "01:23:57",
+    "finish_seconds": 5037
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 609,
+    "name": "Robinson-Burns, James",
+    "finish_time": "01:24:06",
+    "finish_seconds": 5046
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 611,
+    "name": "Wikstr\u00f6m, Andreas",
+    "finish_time": "01:24:09",
+    "finish_seconds": 5049
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 613,
+    "name": "R\u00f8sand, \u00d8yvind",
+    "finish_time": "01:24:13",
+    "finish_seconds": 5053
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 615,
+    "name": "Charlton, Josh",
+    "finish_time": "01:24:13",
+    "finish_seconds": 5053
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 617,
+    "name": "Jogsten, Ulrik",
+    "finish_time": "01:24:14",
+    "finish_seconds": 5054
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 619,
+    "name": "Green, Philip",
+    "finish_time": "01:24:20",
+    "finish_seconds": 5060
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 621,
+    "name": "Gjerde, Even B. Haarsaker",
+    "finish_time": "01:24:21",
+    "finish_seconds": 5061
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 623,
+    "name": "Dilorenzo, Erico",
+    "finish_time": "01:24:22",
+    "finish_seconds": 5062
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 625,
+    "name": "S\u00f8rlie, Mathias",
+    "finish_time": "01:24:30",
+    "finish_seconds": 5070
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 627,
+    "name": "Davies, Rob",
+    "finish_time": "01:24:33",
+    "finish_seconds": 5073
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 629,
+    "name": "Sagdahl, Kim",
+    "finish_time": "01:24:35",
+    "finish_seconds": 5075
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 631,
+    "name": "Chadd, Ben",
+    "finish_time": "01:24:38",
+    "finish_seconds": 5078
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 633,
+    "name": "Lunde, Espen",
+    "finish_time": "01:24:41",
+    "finish_seconds": 5081
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 635,
+    "name": "Amphlett, Nick",
+    "finish_time": "01:24:44",
+    "finish_seconds": 5084
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 637,
+    "name": "Buckley, Mark",
+    "finish_time": "01:24:46",
+    "finish_seconds": 5086
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 639,
+    "name": "Cooper-Haime, Mark",
+    "finish_time": "01:24:48",
+    "finish_seconds": 5088
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 641,
+    "name": "Davies, Lloyd",
+    "finish_time": "01:24:49",
+    "finish_seconds": 5089
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 643,
+    "name": "Nilsson, Niklas",
+    "finish_time": "01:24:51",
+    "finish_seconds": 5091
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 645,
+    "name": "Falue, Maxime",
+    "finish_time": "01:24:52",
+    "finish_seconds": 5092
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 647,
+    "name": "Collier, John",
+    "finish_time": "01:24:55",
+    "finish_seconds": 5095
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 649,
+    "name": "Lundervold, Joakim",
+    "finish_time": "01:25:06",
+    "finish_seconds": 5106
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 651,
+    "name": "Gruson, Mehdi",
+    "finish_time": "01:25:11",
+    "finish_seconds": 5111
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 653,
+    "name": "Bj\u00f6rklund, Viktor",
+    "finish_time": "01:25:14",
+    "finish_seconds": 5114
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 655,
+    "name": "Haque, Qaz",
+    "finish_time": "01:25:15",
+    "finish_seconds": 5115
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 657,
+    "name": "Olesen, Alexander Vium",
+    "finish_time": "01:25:17",
+    "finish_seconds": 5117
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 659,
+    "name": "Holt, Bj\u00f8rnar",
+    "finish_time": "01:25:22",
+    "finish_seconds": 5122
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 661,
+    "name": "Isachsen, Stian",
+    "finish_time": "01:25:26",
+    "finish_seconds": 5126
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 663,
+    "name": "Gale, Scott",
+    "finish_time": "01:25:30",
+    "finish_seconds": 5130
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 665,
+    "name": "Andersson, Kristian",
+    "finish_time": "01:25:36",
+    "finish_seconds": 5136
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 667,
+    "name": "Halvorsen, Marius",
+    "finish_time": "01:25:42",
+    "finish_seconds": 5142
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 669,
+    "name": "Gregan, Emmet",
+    "finish_time": "01:25:45",
+    "finish_seconds": 5145
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 671,
+    "name": "Lister, Jonny",
+    "finish_time": "01:25:47",
+    "finish_seconds": 5147
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 673,
+    "name": "Grbovic, Danilo",
+    "finish_time": "01:25:52",
+    "finish_seconds": 5152
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 675,
+    "name": "Dang, Mickael",
+    "finish_time": "01:25:54",
+    "finish_seconds": 5154
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 677,
+    "name": "Tan, Adriaan",
+    "finish_time": "01:25:54",
+    "finish_seconds": 5154
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 679,
+    "name": "Silva, Greg",
+    "finish_time": "01:25:58",
+    "finish_seconds": 5158
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 681,
+    "name": "Daens, Valentin",
+    "finish_time": "01:26:02",
+    "finish_seconds": 5162
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 683,
+    "name": "Saethershagen, Terje",
+    "finish_time": "01:26:02",
+    "finish_seconds": 5162
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 685,
+    "name": "Rieder, David",
+    "finish_time": "01:26:08",
+    "finish_seconds": 5168
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 687,
+    "name": "Hennes, Constantin",
+    "finish_time": "01:26:10",
+    "finish_seconds": 5170
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 689,
+    "name": "Axelsson, Stefan",
+    "finish_time": "01:26:14",
+    "finish_seconds": 5174
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 691,
+    "name": "Rosenkilde, Carsten",
+    "finish_time": "01:26:16",
+    "finish_seconds": 5176
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 693,
+    "name": "Hagen, Magnus",
+    "finish_time": "01:26:23",
+    "finish_seconds": 5183
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 695,
+    "name": "Broughton, Ian",
+    "finish_time": "01:26:24",
+    "finish_seconds": 5184
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 697,
+    "name": "Brandsdal, Per \u00d8grey",
+    "finish_time": "01:26:24",
+    "finish_seconds": 5184
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 699,
+    "name": "Thievanayagam, Sivarajah",
+    "finish_time": "01:26:32",
+    "finish_seconds": 5192
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 701,
+    "name": "Hasund, Jon-Arne",
+    "finish_time": "01:26:36",
+    "finish_seconds": 5196
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 703,
+    "name": "Paldanius, Raymond",
+    "finish_time": "01:26:38",
+    "finish_seconds": 5198
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 705,
+    "name": "Myge, Torgeir",
+    "finish_time": "01:26:39",
+    "finish_seconds": 5199
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 707,
+    "name": "Sills, Christopher",
+    "finish_time": "01:26:42",
+    "finish_seconds": 5202
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 709,
+    "name": "Sieghart, Thomas",
+    "finish_time": "01:26:45",
+    "finish_seconds": 5205
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 711,
+    "name": "P\u013euta, Jozef",
+    "finish_time": "01:26:47",
+    "finish_seconds": 5207
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 713,
+    "name": "Ollett, Jonathan",
+    "finish_time": "01:26:54",
+    "finish_seconds": 5214
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 715,
+    "name": "Arntzen, Kristoffer Benco",
+    "finish_time": "01:26:59",
+    "finish_seconds": 5219
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 717,
+    "name": "Krause, Malte",
+    "finish_time": "01:27:04",
+    "finish_seconds": 5224
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 719,
+    "name": "Paulsen, David",
+    "finish_time": "01:27:08",
+    "finish_seconds": 5228
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 721,
+    "name": "Sheardown, Sam",
+    "finish_time": "01:27:11",
+    "finish_seconds": 5231
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 723,
+    "name": "Erlandsson, Jonas",
+    "finish_time": "01:27:14",
+    "finish_seconds": 5234
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 725,
+    "name": "Bedford, Anton",
+    "finish_time": "01:27:22",
+    "finish_seconds": 5242
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 727,
+    "name": "Wilson, Dean",
+    "finish_time": "01:27:22",
+    "finish_seconds": 5242
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 729,
+    "name": "S\u00e5ngberg, Bj\u00f6rn",
+    "finish_time": "01:27:29",
+    "finish_seconds": 5249
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 731,
+    "name": "Bouhuys, Joy",
+    "finish_time": "01:27:30",
+    "finish_seconds": 5250
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 733,
+    "name": "Mohammed, Usman",
+    "finish_time": "01:27:36",
+    "finish_seconds": 5256
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 735,
+    "name": "Chorlton, Josh",
+    "finish_time": "01:27:41",
+    "finish_seconds": 5261
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 737,
+    "name": "Baquedano Mozos, Jesus",
+    "finish_time": "01:27:48",
+    "finish_seconds": 5268
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 739,
+    "name": "Jonsson, David",
+    "finish_time": "01:27:51",
+    "finish_seconds": 5271
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 741,
+    "name": "Moranda, Giuseppe",
+    "finish_time": "01:27:53",
+    "finish_seconds": 5273
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 743,
+    "name": "Hamilton, Jack",
+    "finish_time": "01:27:54",
+    "finish_seconds": 5274
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 745,
+    "name": "R\u00f8nvik, H\u00e5kon",
+    "finish_time": "01:27:58",
+    "finish_seconds": 5278
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 747,
+    "name": "Nicholls, Bradley",
+    "finish_time": "01:28:00",
+    "finish_seconds": 5280
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 749,
+    "name": "Stawarz, Ryszard",
+    "finish_time": "01:28:02",
+    "finish_seconds": 5282
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 751,
+    "name": "Dilling, Tommy",
+    "finish_time": "01:28:08",
+    "finish_seconds": 5288
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 753,
+    "name": "Boyce-Apps, Patrick",
+    "finish_time": "01:28:10",
+    "finish_seconds": 5290
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 755,
+    "name": "Wold, Ole-Martin",
+    "finish_time": "01:28:18",
+    "finish_seconds": 5298
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 757,
+    "name": "Smith, Jacob",
+    "finish_time": "01:28:28",
+    "finish_seconds": 5308
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 759,
+    "name": "Tamisier, Leo",
+    "finish_time": "01:28:31",
+    "finish_seconds": 5311
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 761,
+    "name": "Mignol, Antoine",
+    "finish_time": "01:28:41",
+    "finish_seconds": 5321
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 763,
+    "name": "Sibal, Krish",
+    "finish_time": "01:28:45",
+    "finish_seconds": 5325
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 765,
+    "name": "Nilsson, Gustav",
+    "finish_time": "01:28:47",
+    "finish_seconds": 5327
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 767,
+    "name": "Furuseth, Sondre Vik",
+    "finish_time": "01:28:48",
+    "finish_seconds": 5328
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 769,
+    "name": "Brusdal, Ferdinand",
+    "finish_time": "01:28:50",
+    "finish_seconds": 5330
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 771,
+    "name": "Johansson, Billy",
+    "finish_time": "01:28:50",
+    "finish_seconds": 5330
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 773,
+    "name": "Attar, Emir",
+    "finish_time": "01:28:53",
+    "finish_seconds": 5333
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 775,
+    "name": "Thorgaard, Jens",
+    "finish_time": "01:28:56",
+    "finish_seconds": 5336
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 777,
+    "name": "Praulins, Nick",
+    "finish_time": "01:29:03",
+    "finish_seconds": 5343
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 779,
+    "name": "Coyle, Marcus",
+    "finish_time": "01:29:05",
+    "finish_seconds": 5345
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 781,
+    "name": "Kleppenes, Bj\u00f8rn Magne",
+    "finish_time": "01:29:14",
+    "finish_seconds": 5354
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 783,
+    "name": "Melheim, Olav Halvor",
+    "finish_time": "01:29:17",
+    "finish_seconds": 5357
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 785,
+    "name": "Kivijervi, Lars Magnus",
+    "finish_time": "01:29:20",
+    "finish_seconds": 5360
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 787,
+    "name": "Borge, Frank",
+    "finish_time": "01:29:21",
+    "finish_seconds": 5361
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 789,
+    "name": "White, Rob",
+    "finish_time": "01:29:24",
+    "finish_seconds": 5364
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 791,
+    "name": "Helgesen, Simon Fjermestad",
+    "finish_time": "01:29:35",
+    "finish_seconds": 5375
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 793,
+    "name": "Arnesen, Kim",
+    "finish_time": "01:29:37",
+    "finish_seconds": 5377
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 795,
+    "name": "Mchugh, Andrew",
+    "finish_time": "01:29:41",
+    "finish_seconds": 5381
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 797,
+    "name": "Nyangani, Leroy T",
+    "finish_time": "01:29:42",
+    "finish_seconds": 5382
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 799,
+    "name": "Godal, H\u00e5vard",
+    "finish_time": "01:29:47",
+    "finish_seconds": 5387
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 801,
+    "name": "Johnson, Cian",
+    "finish_time": "01:29:51",
+    "finish_seconds": 5391
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 803,
+    "name": "Holm, Malthe",
+    "finish_time": "01:29:59",
+    "finish_seconds": 5399
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 805,
+    "name": "Schaefli, Marco",
+    "finish_time": "01:30:05",
+    "finish_seconds": 5405
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 807,
+    "name": "Kristoffersen, Knut-Emil",
+    "finish_time": "01:30:12",
+    "finish_seconds": 5412
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 809,
+    "name": "Smale, Richard",
+    "finish_time": "01:30:15",
+    "finish_seconds": 5415
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 811,
+    "name": "Gislason, Glenn",
+    "finish_time": "01:30:19",
+    "finish_seconds": 5419
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 813,
+    "name": "Mattsson, Marcus",
+    "finish_time": "01:30:23",
+    "finish_seconds": 5423
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 815,
+    "name": "Annetts, Calum",
+    "finish_time": "01:30:28",
+    "finish_seconds": 5428
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 817,
+    "name": "Canning, Liam",
+    "finish_time": "01:30:41",
+    "finish_seconds": 5441
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 819,
+    "name": "Rossland, Thomas",
+    "finish_time": "01:30:50",
+    "finish_seconds": 5450
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 821,
+    "name": "Nicolaisen, Aksel",
+    "finish_time": "01:30:56",
+    "finish_seconds": 5456
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 823,
+    "name": "Alberto, Salvi",
+    "finish_time": "01:31:04",
+    "finish_seconds": 5464
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 825,
+    "name": "Cortesi, Fabio",
+    "finish_time": "01:31:11",
+    "finish_seconds": 5471
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 827,
+    "name": "Murray, John",
+    "finish_time": "01:31:17",
+    "finish_seconds": 5477
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 829,
+    "name": "Allen, Tim",
+    "finish_time": "01:31:22",
+    "finish_seconds": 5482
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 831,
+    "name": "Benderis, Mantas",
+    "finish_time": "01:31:28",
+    "finish_seconds": 5488
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 833,
+    "name": "Seljelid, Morten Andr\u00e9",
+    "finish_time": "01:31:32",
+    "finish_seconds": 5492
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 835,
+    "name": "Lorenz, Sebastian",
+    "finish_time": "01:31:41",
+    "finish_seconds": 5501
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 837,
+    "name": "\u00d8ren, Erik",
+    "finish_time": "01:31:46",
+    "finish_seconds": 5506
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 839,
+    "name": "Skriver, David",
+    "finish_time": "01:31:50",
+    "finish_seconds": 5510
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 841,
+    "name": "Lissjanis, Jonas",
+    "finish_time": "01:31:52",
+    "finish_seconds": 5512
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 843,
+    "name": "Bie\u0144kowski, Tomasz",
+    "finish_time": "01:31:55",
+    "finish_seconds": 5515
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 845,
+    "name": "Kaspersen, Daniel",
+    "finish_time": "01:32:00",
+    "finish_seconds": 5520
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 847,
+    "name": "Malvik, Marius",
+    "finish_time": "01:32:04",
+    "finish_seconds": 5524
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 849,
+    "name": "Ryan, John",
+    "finish_time": "01:32:06",
+    "finish_seconds": 5526
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 851,
+    "name": "Fejri, Wissem",
+    "finish_time": "01:32:15",
+    "finish_seconds": 5535
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 853,
+    "name": "Mcclintock, Callum",
+    "finish_time": "01:32:23",
+    "finish_seconds": 5543
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 855,
+    "name": "Carlot, Jeremy",
+    "finish_time": "01:32:28",
+    "finish_seconds": 5548
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 857,
+    "name": "Pukis, Algirdas",
+    "finish_time": "01:32:44",
+    "finish_seconds": 5564
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 859,
+    "name": "Benhaddou, Sofian",
+    "finish_time": "01:32:52",
+    "finish_seconds": 5572
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 861,
+    "name": "Ruus, J\u00f8rgen",
+    "finish_time": "01:32:58",
+    "finish_seconds": 5578
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 863,
+    "name": "Kristiansen, Michael",
+    "finish_time": "01:33:13",
+    "finish_seconds": 5593
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 865,
+    "name": "Sj\u00f8lstad, \u00c5ge",
+    "finish_time": "01:33:16",
+    "finish_seconds": 5596
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 867,
+    "name": "R\u00f8nning, Tom",
+    "finish_time": "01:33:16",
+    "finish_seconds": 5596
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 869,
+    "name": "Callery, Patrick",
+    "finish_time": "01:33:19",
+    "finish_seconds": 5599
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 871,
+    "name": "Ones, Kjetil",
+    "finish_time": "01:33:22",
+    "finish_seconds": 5602
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 873,
+    "name": "Eriksen, Vetle",
+    "finish_time": "01:33:27",
+    "finish_seconds": 5607
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 875,
+    "name": "Gurrik, Carl Erik",
+    "finish_time": "01:33:42",
+    "finish_seconds": 5622
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 877,
+    "name": "Schmidt, J\u00f6rg",
+    "finish_time": "01:33:43",
+    "finish_seconds": 5623
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 879,
+    "name": "Ellingsen, Bj\u00f8rn",
+    "finish_time": "01:33:48",
+    "finish_seconds": 5628
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 881,
+    "name": "Menge, Christoph",
+    "finish_time": "01:33:55",
+    "finish_seconds": 5635
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 883,
+    "name": "Gibby, Sion",
+    "finish_time": "01:33:58",
+    "finish_seconds": 5638
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 885,
+    "name": "Hunter, Jack",
+    "finish_time": "01:34:01",
+    "finish_seconds": 5641
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 887,
+    "name": "Nilsson, Paul",
+    "finish_time": "01:34:03",
+    "finish_seconds": 5643
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 889,
+    "name": "Nygaard, Jarle",
+    "finish_time": "01:34:07",
+    "finish_seconds": 5647
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 891,
+    "name": "Damkj\u00e6r, Jonas",
+    "finish_time": "01:34:17",
+    "finish_seconds": 5657
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 893,
+    "name": "Ayling, Alexander",
+    "finish_time": "01:34:23",
+    "finish_seconds": 5663
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 895,
+    "name": "Ljungstrom, Daniel",
+    "finish_time": "01:34:26",
+    "finish_seconds": 5666
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 897,
+    "name": "Pickston, Alexander",
+    "finish_time": "01:34:33",
+    "finish_seconds": 5673
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 899,
+    "name": "Brun, Thomas",
+    "finish_time": "01:34:36",
+    "finish_seconds": 5676
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 901,
+    "name": "Zelcev, Bojan",
+    "finish_time": "01:34:37",
+    "finish_seconds": 5677
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 903,
+    "name": "Yamamoto, Yujin",
+    "finish_time": "01:34:47",
+    "finish_seconds": 5687
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 905,
+    "name": "Kerin, Stephen",
+    "finish_time": "01:34:50",
+    "finish_seconds": 5690
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 907,
+    "name": "Fahy, Brian",
+    "finish_time": "01:34:58",
+    "finish_seconds": 5698
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 909,
+    "name": "Brettinger, Dominic",
+    "finish_time": "01:35:02",
+    "finish_seconds": 5702
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 911,
+    "name": "Hove, Glenn",
+    "finish_time": "01:35:04",
+    "finish_seconds": 5704
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 913,
+    "name": "Prestwich, Damian",
+    "finish_time": "01:35:07",
+    "finish_seconds": 5707
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 915,
+    "name": "Knudsen, Paw",
+    "finish_time": "01:35:08",
+    "finish_seconds": 5708
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 917,
+    "name": "Lea, Tom",
+    "finish_time": "01:35:11",
+    "finish_seconds": 5711
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 919,
+    "name": "Marti, Antonio",
+    "finish_time": "01:35:13",
+    "finish_seconds": 5713
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 921,
+    "name": "Ueland, Andr\u00e9",
+    "finish_time": "01:35:15",
+    "finish_seconds": 5715
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 923,
+    "name": "Raphael, Lartot",
+    "finish_time": "01:35:19",
+    "finish_seconds": 5719
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 925,
+    "name": "Sviggum, Peder",
+    "finish_time": "01:35:26",
+    "finish_seconds": 5726
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 927,
+    "name": "Florance, Adrien",
+    "finish_time": "01:35:31",
+    "finish_seconds": 5731
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 929,
+    "name": "Al Naamani, Saamir",
+    "finish_time": "01:35:42",
+    "finish_seconds": 5742
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 931,
+    "name": "Bidusenko, Yevgeniy",
+    "finish_time": "01:35:48",
+    "finish_seconds": 5748
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 933,
+    "name": "Vandermolen, Stephen",
+    "finish_time": "01:35:51",
+    "finish_seconds": 5751
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 935,
+    "name": "Akin, Ugur",
+    "finish_time": "01:35:57",
+    "finish_seconds": 5757
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 937,
+    "name": "Rowles, Alex",
+    "finish_time": "01:36:02",
+    "finish_seconds": 5762
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 939,
+    "name": "Mustaparta, Einar Jahre",
+    "finish_time": "01:36:10",
+    "finish_seconds": 5770
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 941,
+    "name": "St\u00f8rset, Terje",
+    "finish_time": "01:36:12",
+    "finish_seconds": 5772
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 943,
+    "name": "Gruender, Marvin",
+    "finish_time": "01:36:19",
+    "finish_seconds": 5779
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 945,
+    "name": "Chytil, Lukas",
+    "finish_time": "01:36:30",
+    "finish_seconds": 5790
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 947,
+    "name": "Mcginty, Gary",
+    "finish_time": "01:36:32",
+    "finish_seconds": 5792
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 949,
+    "name": "Ketels, Marius",
+    "finish_time": "01:36:42",
+    "finish_seconds": 5802
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 951,
+    "name": "Buttrick, Oliver",
+    "finish_time": "01:36:59",
+    "finish_seconds": 5819
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 953,
+    "name": "Johnson, Thomas",
+    "finish_time": "01:37:02",
+    "finish_seconds": 5822
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 955,
+    "name": "\u00d8ien, Frode",
+    "finish_time": "01:37:06",
+    "finish_seconds": 5826
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 957,
+    "name": "Barrett, Matthew",
+    "finish_time": "01:37:17",
+    "finish_seconds": 5837
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 959,
+    "name": "Grinvoll, Lauritz",
+    "finish_time": "01:37:19",
+    "finish_seconds": 5839
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 961,
+    "name": "Lindberg, Johan",
+    "finish_time": "01:37:33",
+    "finish_seconds": 5853
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 963,
+    "name": "Beighton, Owen",
+    "finish_time": "01:37:41",
+    "finish_seconds": 5861
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 965,
+    "name": "Cimarolli, Erwin",
+    "finish_time": "01:37:47",
+    "finish_seconds": 5867
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 967,
+    "name": "Jensen, Nikolaj",
+    "finish_time": "01:37:56",
+    "finish_seconds": 5876
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 969,
+    "name": "Abdullah, Jon Hassan",
+    "finish_time": "01:38:06",
+    "finish_seconds": 5886
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 971,
+    "name": "Beerli, Noah",
+    "finish_time": "01:38:12",
+    "finish_seconds": 5892
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 973,
+    "name": "Patel, Amish",
+    "finish_time": "01:38:17",
+    "finish_seconds": 5897
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 975,
+    "name": "Guevara, Ernesto",
+    "finish_time": "01:38:22",
+    "finish_seconds": 5902
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 977,
+    "name": "Sackl, Thomas",
+    "finish_time": "01:38:28",
+    "finish_seconds": 5908
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 979,
+    "name": "Kjellin, Elliot",
+    "finish_time": "01:38:30",
+    "finish_seconds": 5910
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 981,
+    "name": "Lucassen, Asbj\u00f8rn",
+    "finish_time": "01:38:46",
+    "finish_seconds": 5926
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 983,
+    "name": "Andersen, Stian",
+    "finish_time": "01:38:55",
+    "finish_seconds": 5935
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 985,
+    "name": "Kerin, Louis",
+    "finish_time": "01:38:55",
+    "finish_seconds": 5935
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 987,
+    "name": "Taibon, Wilhelm",
+    "finish_time": "01:39:01",
+    "finish_seconds": 5941
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 989,
+    "name": "Weeks, Stuart",
+    "finish_time": "01:39:04",
+    "finish_seconds": 5944
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 991,
+    "name": "Severinson, Albin",
+    "finish_time": "01:39:06",
+    "finish_seconds": 5946
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 993,
+    "name": "Ewere, Mudi",
+    "finish_time": "01:39:09",
+    "finish_seconds": 5949
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 995,
+    "name": "Holmefjord, Harald Andreas",
+    "finish_time": "01:39:12",
+    "finish_seconds": 5952
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 997,
+    "name": "Bell, Elliot",
+    "finish_time": "01:39:14",
+    "finish_seconds": 5954
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 999,
+    "name": "Oakden, Simon",
+    "finish_time": "01:39:27",
+    "finish_seconds": 5967
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 1001,
+    "name": "Ekren, Eirik Andr\u00e9",
+    "finish_time": "01:39:30",
+    "finish_seconds": 5970
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "M",
+    "rank": 1003,
+    "name": "Brynildsen, Anders",
+    "finish_time": "01:39:41",
+    "finish_seconds": 5981
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 1,
+    "name": "Mattsson, Karin",
+    "finish_time": "01:01:50",
+    "finish_seconds": 3710
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 3,
+    "name": "Reiers\u00f8lmoen, Frida",
+    "finish_time": "01:03:19",
+    "finish_seconds": 3799
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 5,
+    "name": "Kallmyr, Elin",
+    "finish_time": "01:07:14",
+    "finish_seconds": 4034
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 7,
+    "name": "Ranch, Therese",
+    "finish_time": "01:08:28",
+    "finish_seconds": 4108
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 9,
+    "name": "Sk\u00e5rdal, Linnea V\u00e5ge",
+    "finish_time": "01:09:06",
+    "finish_seconds": 4146
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 11,
+    "name": "Hallan, Caroline Larsen",
+    "finish_time": "01:09:20",
+    "finish_seconds": 4160
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 13,
+    "name": "Illidi, Camilla",
+    "finish_time": "01:09:54",
+    "finish_seconds": 4194
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 15,
+    "name": "Sj\u00f6, Amanda",
+    "finish_time": "01:10:20",
+    "finish_seconds": 4220
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 17,
+    "name": "Mcnally, Niamh",
+    "finish_time": "01:10:27",
+    "finish_seconds": 4227
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 19,
+    "name": "Green, Naomi",
+    "finish_time": "01:10:58",
+    "finish_seconds": 4258
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 21,
+    "name": "Ulman, Marta Maria",
+    "finish_time": "01:11:09",
+    "finish_seconds": 4269
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 23,
+    "name": "Jazepcikiene, Ruta",
+    "finish_time": "01:11:43",
+    "finish_seconds": 4303
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 25,
+    "name": "S\u00e6ther, Mette",
+    "finish_time": "01:12:08",
+    "finish_seconds": 4328
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 27,
+    "name": "Simpson, Bethany",
+    "finish_time": "01:12:47",
+    "finish_seconds": 4367
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 29,
+    "name": "Gadd, Emily",
+    "finish_time": "01:12:51",
+    "finish_seconds": 4371
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 31,
+    "name": "Smitheringale, Chloe",
+    "finish_time": "01:13:20",
+    "finish_seconds": 4400
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 33,
+    "name": "Ingvarsdottir, Sigridur Sjofn",
+    "finish_time": "01:13:31",
+    "finish_seconds": 4411
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 35,
+    "name": "Miettinen, Suvi",
+    "finish_time": "01:13:53",
+    "finish_seconds": 4433
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 37,
+    "name": "Malaekah, Iman",
+    "finish_time": "01:14:07",
+    "finish_seconds": 4447
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 39,
+    "name": "Kristoffersen, Ingeborg",
+    "finish_time": "01:14:24",
+    "finish_seconds": 4464
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 41,
+    "name": "Mallin Martin, Lottie",
+    "finish_time": "01:14:26",
+    "finish_seconds": 4466
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 43,
+    "name": "Berge, Silje Marie",
+    "finish_time": "01:14:47",
+    "finish_seconds": 4487
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 45,
+    "name": "Johansson, Sofia",
+    "finish_time": "01:15:01",
+    "finish_seconds": 4501
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 47,
+    "name": "Dawson, Helen",
+    "finish_time": "01:15:04",
+    "finish_seconds": 4504
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 49,
+    "name": "\u00c5berg, Paula",
+    "finish_time": "01:15:10",
+    "finish_seconds": 4510
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 51,
+    "name": "Karlsson, Erika",
+    "finish_time": "01:15:17",
+    "finish_seconds": 4517
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 53,
+    "name": "Garcia Rodriguez, Isabel",
+    "finish_time": "01:15:18",
+    "finish_seconds": 4518
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 55,
+    "name": "Blank, Sarah",
+    "finish_time": "01:15:20",
+    "finish_seconds": 4520
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 57,
+    "name": "Brady, Cathriona",
+    "finish_time": "01:15:27",
+    "finish_seconds": 4527
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 59,
+    "name": "Lindkvist, Mina",
+    "finish_time": "01:15:38",
+    "finish_seconds": 4538
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 61,
+    "name": "Baqer, Aliaa",
+    "finish_time": "01:15:48",
+    "finish_seconds": 4548
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 63,
+    "name": "Wood, Lucy",
+    "finish_time": "01:15:56",
+    "finish_seconds": 4556
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 65,
+    "name": "Ryan, Shannon",
+    "finish_time": "01:16:16",
+    "finish_seconds": 4576
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 67,
+    "name": "Thysse-Baki, Ida",
+    "finish_time": "01:16:17",
+    "finish_seconds": 4577
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 69,
+    "name": "Gramshaug, Ingrid Malene",
+    "finish_time": "01:16:24",
+    "finish_seconds": 4584
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 71,
+    "name": "M\u00fcller, Sandra",
+    "finish_time": "01:16:26",
+    "finish_seconds": 4586
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 73,
+    "name": "Puodziuniene, Simona",
+    "finish_time": "01:17:03",
+    "finish_seconds": 4623
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 75,
+    "name": "Larssen, Kim",
+    "finish_time": "01:17:07",
+    "finish_seconds": 4627
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 77,
+    "name": "G\u00f6ras, Madelene",
+    "finish_time": "01:17:18",
+    "finish_seconds": 4638
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 79,
+    "name": "L\u00f8kse, Andrea",
+    "finish_time": "01:17:27",
+    "finish_seconds": 4647
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 81,
+    "name": "Mostad Hauge, Hanna",
+    "finish_time": "01:17:32",
+    "finish_seconds": 4652
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 83,
+    "name": "Turczyn-Kuzma, Iza",
+    "finish_time": "01:17:39",
+    "finish_seconds": 4659
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 85,
+    "name": "Wilde, Sarah",
+    "finish_time": "01:17:47",
+    "finish_seconds": 4667
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 87,
+    "name": "Rypdal Varnes, Stine",
+    "finish_time": "01:17:57",
+    "finish_seconds": 4677
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 89,
+    "name": "Mikalsen, Maria",
+    "finish_time": "01:18:13",
+    "finish_seconds": 4693
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 91,
+    "name": "Pietzsch, Leonie",
+    "finish_time": "01:18:16",
+    "finish_seconds": 4696
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 93,
+    "name": "Jensen, Julie Buus",
+    "finish_time": "01:18:24",
+    "finish_seconds": 4704
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 95,
+    "name": "Gambino, Denise",
+    "finish_time": "01:18:27",
+    "finish_seconds": 4707
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 97,
+    "name": "Norling, Pernilla",
+    "finish_time": "01:18:45",
+    "finish_seconds": 4725
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 99,
+    "name": "Ytterstad, Nina Wavik",
+    "finish_time": "01:18:47",
+    "finish_seconds": 4727
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 101,
+    "name": "Hernandez Larios, Gabriela",
+    "finish_time": "01:18:59",
+    "finish_seconds": 4739
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 103,
+    "name": "Ebeltoft, Maria",
+    "finish_time": "01:18:59",
+    "finish_seconds": 4739
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 105,
+    "name": "Svanes Kolbeinsen, Marie",
+    "finish_time": "01:19:01",
+    "finish_seconds": 4741
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 107,
+    "name": "Jacobsen, Benedikte",
+    "finish_time": "01:19:07",
+    "finish_seconds": 4747
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 109,
+    "name": "Kristensen, Signe",
+    "finish_time": "01:19:08",
+    "finish_seconds": 4748
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 111,
+    "name": "S\u00e6len, Mia Christine",
+    "finish_time": "01:19:10",
+    "finish_seconds": 4750
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 113,
+    "name": "Macdonald, Kira",
+    "finish_time": "01:19:16",
+    "finish_seconds": 4756
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 115,
+    "name": "Amundsen, Stefania",
+    "finish_time": "01:19:26",
+    "finish_seconds": 4766
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 117,
+    "name": "Ilijonskien\u0117, Sonata",
+    "finish_time": "01:19:33",
+    "finish_seconds": 4773
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 119,
+    "name": "Da Moura Vaz Mendes, Sandra Raquel",
+    "finish_time": "01:19:38",
+    "finish_seconds": 4778
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 121,
+    "name": "Levandi, Anna",
+    "finish_time": "01:19:48",
+    "finish_seconds": 4788
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 123,
+    "name": "Bakkevold, Hanne Cathrine",
+    "finish_time": "01:19:53",
+    "finish_seconds": 4793
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 125,
+    "name": "Norgaard, Henriette",
+    "finish_time": "01:19:58",
+    "finish_seconds": 4798
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 127,
+    "name": "R\u00f8nning, Mari",
+    "finish_time": "01:20:02",
+    "finish_seconds": 4802
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 129,
+    "name": "G\u00e5vsten, Sofia",
+    "finish_time": "01:20:11",
+    "finish_seconds": 4811
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 131,
+    "name": "\u00d8verland, Sara",
+    "finish_time": "01:20:32",
+    "finish_seconds": 4832
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 133,
+    "name": "L\u00f8berg, Eirin",
+    "finish_time": "01:20:36",
+    "finish_seconds": 4836
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 135,
+    "name": "Bannon Karlsson, Olivia",
+    "finish_time": "01:20:45",
+    "finish_seconds": 4845
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 137,
+    "name": "Pedersen, Hanne Marie",
+    "finish_time": "01:20:51",
+    "finish_seconds": 4851
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 139,
+    "name": "Lendvorska, Alex",
+    "finish_time": "01:20:57",
+    "finish_seconds": 4857
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 141,
+    "name": "French, Charlotte",
+    "finish_time": "01:21:22",
+    "finish_seconds": 4882
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 143,
+    "name": "Mutonga, Ida",
+    "finish_time": "01:21:23",
+    "finish_seconds": 4883
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 145,
+    "name": "Li, Ruth Gong",
+    "finish_time": "01:21:43",
+    "finish_seconds": 4903
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 147,
+    "name": "Marcussen, Sofie",
+    "finish_time": "01:21:44",
+    "finish_seconds": 4904
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 149,
+    "name": "Sztybrych, Ma\u0142gorzata",
+    "finish_time": "01:21:47",
+    "finish_seconds": 4907
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 151,
+    "name": "Kjell\u00e9n, Helena",
+    "finish_time": "01:21:50",
+    "finish_seconds": 4910
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 153,
+    "name": "Aune, Caroline",
+    "finish_time": "01:21:53",
+    "finish_seconds": 4913
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 155,
+    "name": "Gullbrekken, Kjersti",
+    "finish_time": "01:22:01",
+    "finish_seconds": 4921
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 157,
+    "name": "Gilg, Graciella",
+    "finish_time": "01:22:12",
+    "finish_seconds": 4932
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 159,
+    "name": "Liebermann, Svenja",
+    "finish_time": "01:22:19",
+    "finish_seconds": 4939
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 161,
+    "name": "Ibsen, Pernille",
+    "finish_time": "01:22:27",
+    "finish_seconds": 4947
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 163,
+    "name": "Hellkvist, Felicia",
+    "finish_time": "01:22:28",
+    "finish_seconds": 4948
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 165,
+    "name": "Fajardo, Hazel Vanessa",
+    "finish_time": "01:22:51",
+    "finish_seconds": 4971
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 167,
+    "name": "Corney, Clare",
+    "finish_time": "01:22:56",
+    "finish_seconds": 4976
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 169,
+    "name": "Bijeli\u0107, Anja",
+    "finish_time": "01:23:01",
+    "finish_seconds": 4981
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 171,
+    "name": "Morkunaite, Marija",
+    "finish_time": "01:23:03",
+    "finish_seconds": 4983
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 173,
+    "name": "Sloth, Stine",
+    "finish_time": "01:23:05",
+    "finish_seconds": 4985
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 175,
+    "name": "Enkovaara, Betsy",
+    "finish_time": "01:23:05",
+    "finish_seconds": 4985
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 177,
+    "name": "Gustafsson, Fanny",
+    "finish_time": "01:23:20",
+    "finish_seconds": 5000
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 179,
+    "name": "Mulholland, Emma",
+    "finish_time": "01:23:41",
+    "finish_seconds": 5021
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 181,
+    "name": "G\u00e5vsten, Eleonore",
+    "finish_time": "01:23:44",
+    "finish_seconds": 5024
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 183,
+    "name": "Felger, Emilia",
+    "finish_time": "01:23:53",
+    "finish_seconds": 5033
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 185,
+    "name": "Stonkien\u0117, Brigita",
+    "finish_time": "01:23:55",
+    "finish_seconds": 5035
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 187,
+    "name": "Pflug, Hannah",
+    "finish_time": "01:24:01",
+    "finish_seconds": 5041
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 189,
+    "name": "Davidson, Susie",
+    "finish_time": "01:24:06",
+    "finish_seconds": 5046
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 191,
+    "name": "Fager J\u00f8rgensen, Tonje",
+    "finish_time": "01:24:09",
+    "finish_seconds": 5049
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 193,
+    "name": "R\u00f8tterud, Helene",
+    "finish_time": "01:24:13",
+    "finish_seconds": 5053
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 195,
+    "name": "Waara, Linda",
+    "finish_time": "01:24:17",
+    "finish_seconds": 5057
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 197,
+    "name": "Schi\u00f8tt, Kamilla",
+    "finish_time": "01:24:19",
+    "finish_seconds": 5059
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 199,
+    "name": "Cole, Sophie Alice",
+    "finish_time": "01:24:25",
+    "finish_seconds": 5065
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 201,
+    "name": "Persson, Rebecca",
+    "finish_time": "01:24:31",
+    "finish_seconds": 5071
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 203,
+    "name": "Bringsli, Marita",
+    "finish_time": "01:24:38",
+    "finish_seconds": 5078
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 205,
+    "name": "Corbin, Helena",
+    "finish_time": "01:25:00",
+    "finish_seconds": 5100
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 207,
+    "name": "De Boer, Ellemijn",
+    "finish_time": "01:25:04",
+    "finish_seconds": 5104
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 209,
+    "name": "Coope, Sarah",
+    "finish_time": "01:25:07",
+    "finish_seconds": 5107
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 211,
+    "name": "\u00c5sheim, Maren",
+    "finish_time": "01:25:08",
+    "finish_seconds": 5108
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 213,
+    "name": "Risholm, Anna",
+    "finish_time": "01:25:16",
+    "finish_seconds": 5116
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 215,
+    "name": "Lindgren, Tove",
+    "finish_time": "01:25:20",
+    "finish_seconds": 5120
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 217,
+    "name": "Liknes, Linda Elisabeth",
+    "finish_time": "01:25:24",
+    "finish_seconds": 5124
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 219,
+    "name": "Varsa-Gaga, Natalia",
+    "finish_time": "01:25:31",
+    "finish_seconds": 5131
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 221,
+    "name": "Lorentzen, Cathrine",
+    "finish_time": "01:25:45",
+    "finish_seconds": 5145
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 223,
+    "name": "Locke, Annie",
+    "finish_time": "01:25:48",
+    "finish_seconds": 5148
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 225,
+    "name": "Cervantes, Marlene",
+    "finish_time": "01:26:00",
+    "finish_seconds": 5160
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 227,
+    "name": "Anderson, Rachel",
+    "finish_time": "01:26:04",
+    "finish_seconds": 5164
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 229,
+    "name": "Terborn, Anna",
+    "finish_time": "01:26:11",
+    "finish_seconds": 5171
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 231,
+    "name": "Johnsen, Marjun Frida",
+    "finish_time": "01:26:14",
+    "finish_seconds": 5174
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 233,
+    "name": "Nielsen, Lenette",
+    "finish_time": "01:26:21",
+    "finish_seconds": 5181
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 235,
+    "name": "Heggdal Lyster, Maja",
+    "finish_time": "01:26:34",
+    "finish_seconds": 5194
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 237,
+    "name": "Clifford, Delise",
+    "finish_time": "01:26:39",
+    "finish_seconds": 5199
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 239,
+    "name": "Larsen, Katrine",
+    "finish_time": "01:26:46",
+    "finish_seconds": 5206
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 241,
+    "name": "Tomait\u0117-Svipien\u0117, Laura",
+    "finish_time": "01:26:50",
+    "finish_seconds": 5210
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 243,
+    "name": "Novelinka, Zsanett",
+    "finish_time": "01:26:56",
+    "finish_seconds": 5216
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 245,
+    "name": "Skaret, Anne",
+    "finish_time": "01:26:57",
+    "finish_seconds": 5217
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 247,
+    "name": "Dowson-Eastwood, Laura",
+    "finish_time": "01:27:02",
+    "finish_seconds": 5222
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 249,
+    "name": "Dymbe, Ragnhild",
+    "finish_time": "01:27:04",
+    "finish_seconds": 5224
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 251,
+    "name": "Erceg, Paulina",
+    "finish_time": "01:27:12",
+    "finish_seconds": 5232
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 253,
+    "name": "Riise, Ragnhild",
+    "finish_time": "01:27:13",
+    "finish_seconds": 5233
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 255,
+    "name": "K\u00f6hlmark, Josefine",
+    "finish_time": "01:27:22",
+    "finish_seconds": 5242
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 257,
+    "name": "Bonstad, Henriette",
+    "finish_time": "01:27:27",
+    "finish_seconds": 5247
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 259,
+    "name": "Klepsland, Maria",
+    "finish_time": "01:27:31",
+    "finish_seconds": 5251
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 261,
+    "name": "Nazifi, Nadia",
+    "finish_time": "01:27:35",
+    "finish_seconds": 5255
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 263,
+    "name": "Brown, Grace",
+    "finish_time": "01:27:45",
+    "finish_seconds": 5265
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 265,
+    "name": "Kallan, Freya",
+    "finish_time": "01:27:47",
+    "finish_seconds": 5267
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 267,
+    "name": "Johansson, Jenna",
+    "finish_time": "01:27:49",
+    "finish_seconds": 5269
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 269,
+    "name": "Vidal Pariente, Beatriz",
+    "finish_time": "01:27:50",
+    "finish_seconds": 5270
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 271,
+    "name": "Kristiansen, Linda",
+    "finish_time": "01:27:53",
+    "finish_seconds": 5273
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 273,
+    "name": "Piironmaa, Karoliina",
+    "finish_time": "01:27:58",
+    "finish_seconds": 5278
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 275,
+    "name": "Nguyen-Ones, Mai",
+    "finish_time": "01:28:00",
+    "finish_seconds": 5280
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 277,
+    "name": "Smith, Hannah",
+    "finish_time": "01:28:08",
+    "finish_seconds": 5288
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 279,
+    "name": "Skaug-Bjoner, Emilie",
+    "finish_time": "01:28:12",
+    "finish_seconds": 5292
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 281,
+    "name": "R\u00f8sler, Monica",
+    "finish_time": "01:28:13",
+    "finish_seconds": 5293
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 283,
+    "name": "B\u00f8rresen, Britt Helen",
+    "finish_time": "01:28:15",
+    "finish_seconds": 5295
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 285,
+    "name": "Alfstad, Nora",
+    "finish_time": "01:28:23",
+    "finish_seconds": 5303
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 287,
+    "name": "Fridlund, Sara",
+    "finish_time": "01:28:31",
+    "finish_seconds": 5311
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 289,
+    "name": "Coste, Margaux",
+    "finish_time": "01:28:41",
+    "finish_seconds": 5321
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 291,
+    "name": "Aab\u00f8, Elin",
+    "finish_time": "01:28:46",
+    "finish_seconds": 5326
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 293,
+    "name": "Low, Natalie",
+    "finish_time": "01:29:01",
+    "finish_seconds": 5341
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 295,
+    "name": "Ujma, Anna",
+    "finish_time": "01:29:09",
+    "finish_seconds": 5349
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 297,
+    "name": "Egelandsdal, Ann Louise",
+    "finish_time": "01:29:12",
+    "finish_seconds": 5352
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 299,
+    "name": "O Connor, Karen",
+    "finish_time": "01:29:13",
+    "finish_seconds": 5353
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 301,
+    "name": "Skumlien, Martine",
+    "finish_time": "01:29:17",
+    "finish_seconds": 5357
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 303,
+    "name": "Andreassen, Karoline",
+    "finish_time": "01:29:20",
+    "finish_seconds": 5360
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 305,
+    "name": "Fry, Jodie",
+    "finish_time": "01:29:26",
+    "finish_seconds": 5366
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 307,
+    "name": "Arnesen, Amanda",
+    "finish_time": "01:29:33",
+    "finish_seconds": 5373
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 309,
+    "name": "Hagney, Sinead",
+    "finish_time": "01:29:40",
+    "finish_seconds": 5380
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 311,
+    "name": "Gjendahl, Hilde",
+    "finish_time": "01:29:43",
+    "finish_seconds": 5383
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 313,
+    "name": "Espenes, Thea",
+    "finish_time": "01:29:53",
+    "finish_seconds": 5393
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 315,
+    "name": "Delin, Emma",
+    "finish_time": "01:29:55",
+    "finish_seconds": 5395
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 317,
+    "name": "Simonsen, Sophie",
+    "finish_time": "01:29:57",
+    "finish_seconds": 5397
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 319,
+    "name": "Mahon, Emma",
+    "finish_time": "01:30:04",
+    "finish_seconds": 5404
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 321,
+    "name": "Haugen, Marit",
+    "finish_time": "01:30:10",
+    "finish_seconds": 5410
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 323,
+    "name": "Littlejohn, Elizabeth",
+    "finish_time": "01:30:13",
+    "finish_seconds": 5413
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 325,
+    "name": "Kalleb\u00e4ck, Sandra",
+    "finish_time": "01:30:20",
+    "finish_seconds": 5420
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 327,
+    "name": "Weiss, Olga",
+    "finish_time": "01:30:26",
+    "finish_seconds": 5426
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 329,
+    "name": "Powell, Grace",
+    "finish_time": "01:30:29",
+    "finish_seconds": 5429
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 331,
+    "name": "Tedeschi, Isabella",
+    "finish_time": "01:30:30",
+    "finish_seconds": 5430
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 333,
+    "name": "Neumann, Nathalie",
+    "finish_time": "01:30:38",
+    "finish_seconds": 5438
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 335,
+    "name": "Lansdown, Maddy",
+    "finish_time": "01:30:44",
+    "finish_seconds": 5444
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 337,
+    "name": "Palaimien\u0117, Dovil\u0117",
+    "finish_time": "01:30:56",
+    "finish_seconds": 5456
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 339,
+    "name": "Vatne, Nina",
+    "finish_time": "01:31:05",
+    "finish_seconds": 5465
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 341,
+    "name": "Murray, Roisin",
+    "finish_time": "01:31:07",
+    "finish_seconds": 5467
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 343,
+    "name": "Johnsrud, Karianne",
+    "finish_time": "01:31:17",
+    "finish_seconds": 5477
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 345,
+    "name": "Gielens, Inge",
+    "finish_time": "01:31:26",
+    "finish_seconds": 5486
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 347,
+    "name": "Aspholm, Sandra",
+    "finish_time": "01:31:32",
+    "finish_seconds": 5492
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 349,
+    "name": "M\u00fcller, Julia",
+    "finish_time": "01:31:34",
+    "finish_seconds": 5494
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 351,
+    "name": "Vallin, Susanne",
+    "finish_time": "01:31:40",
+    "finish_seconds": 5500
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 353,
+    "name": "O'Connor, Stephanie",
+    "finish_time": "01:31:45",
+    "finish_seconds": 5505
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 355,
+    "name": "Lau, Beth",
+    "finish_time": "01:31:55",
+    "finish_seconds": 5515
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 357,
+    "name": "Van Dyke, Mairi",
+    "finish_time": "01:31:58",
+    "finish_seconds": 5518
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 359,
+    "name": "Callaway, Maria",
+    "finish_time": "01:32:09",
+    "finish_seconds": 5529
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 361,
+    "name": "Nielsen, Mia",
+    "finish_time": "01:32:21",
+    "finish_seconds": 5541
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 363,
+    "name": "Gainska, Nicole",
+    "finish_time": "01:32:26",
+    "finish_seconds": 5546
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 365,
+    "name": "Haiovych, Maryna",
+    "finish_time": "01:32:29",
+    "finish_seconds": 5549
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 367,
+    "name": "Vergara S\u00f8rholt, Ivory Joy",
+    "finish_time": "01:32:37",
+    "finish_seconds": 5557
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 369,
+    "name": "\u00d8vrelid, Anne-Grete Brodahl",
+    "finish_time": "01:32:40",
+    "finish_seconds": 5560
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 371,
+    "name": "Solg\u00e5rd, Michelle",
+    "finish_time": "01:32:57",
+    "finish_seconds": 5577
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 373,
+    "name": "Misje, Hanne Svanholm",
+    "finish_time": "01:33:07",
+    "finish_seconds": 5587
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 375,
+    "name": "L\u00f8berg H\u00e5konsen, Eline",
+    "finish_time": "01:33:20",
+    "finish_seconds": 5600
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 377,
+    "name": "Eriksson Norberg, Lina",
+    "finish_time": "01:33:27",
+    "finish_seconds": 5607
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 379,
+    "name": "Amezquita, Jennifer",
+    "finish_time": "01:33:32",
+    "finish_seconds": 5612
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 381,
+    "name": "Sturgess, Maddie",
+    "finish_time": "01:33:51",
+    "finish_seconds": 5631
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 383,
+    "name": "Maccarthy, Valerie",
+    "finish_time": "01:34:05",
+    "finish_seconds": 5645
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 385,
+    "name": "Lagerberg, Cathrine",
+    "finish_time": "01:34:13",
+    "finish_seconds": 5653
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 387,
+    "name": "Saur, Britt Iren",
+    "finish_time": "01:34:17",
+    "finish_seconds": 5657
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 389,
+    "name": "Seese, Franziska",
+    "finish_time": "01:34:26",
+    "finish_seconds": 5666
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 391,
+    "name": "Johnsen, Linda",
+    "finish_time": "01:34:29",
+    "finish_seconds": 5669
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 393,
+    "name": "Howell, Lauren",
+    "finish_time": "01:34:34",
+    "finish_seconds": 5674
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 395,
+    "name": "Lassen, Sissel",
+    "finish_time": "01:34:43",
+    "finish_seconds": 5683
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 397,
+    "name": "Koutros, Gaux",
+    "finish_time": "01:35:01",
+    "finish_seconds": 5701
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 399,
+    "name": "Hawrylko, Izabela",
+    "finish_time": "01:35:10",
+    "finish_seconds": 5710
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 401,
+    "name": "Alpuche, Mariana",
+    "finish_time": "01:35:17",
+    "finish_seconds": 5717
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 403,
+    "name": "An, Shay",
+    "finish_time": "01:35:28",
+    "finish_seconds": 5728
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 405,
+    "name": "Bujanovic, Sendi",
+    "finish_time": "01:35:41",
+    "finish_seconds": 5741
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 407,
+    "name": "Andersson, Linda",
+    "finish_time": "01:35:43",
+    "finish_seconds": 5743
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 409,
+    "name": "Bosher, Victoria",
+    "finish_time": "01:35:49",
+    "finish_seconds": 5749
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 411,
+    "name": "Klose, Mareike",
+    "finish_time": "01:35:52",
+    "finish_seconds": 5752
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 413,
+    "name": "Meisingseth, Thea",
+    "finish_time": "01:36:03",
+    "finish_seconds": 5763
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 415,
+    "name": "Pedersen, Annie Helen",
+    "finish_time": "01:36:18",
+    "finish_seconds": 5778
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 417,
+    "name": "Myhre Hjelle, Anja",
+    "finish_time": "01:36:21",
+    "finish_seconds": 5781
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 419,
+    "name": "Sawicka, Sandra",
+    "finish_time": "01:36:23",
+    "finish_seconds": 5783
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 421,
+    "name": "Wiberg, Cecilia",
+    "finish_time": "01:36:32",
+    "finish_seconds": 5792
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 423,
+    "name": "Green, Ulrica",
+    "finish_time": "01:36:47",
+    "finish_seconds": 5807
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 425,
+    "name": "Saxe Gr\u00f8dal, Kristine",
+    "finish_time": "01:36:57",
+    "finish_seconds": 5817
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 427,
+    "name": "Overgaard, Puk Maria",
+    "finish_time": "01:37:07",
+    "finish_seconds": 5827
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 429,
+    "name": "Telise Soleng Kristiansen, Susanne",
+    "finish_time": "01:37:11",
+    "finish_seconds": 5831
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 431,
+    "name": "Hansen, Louise Birk",
+    "finish_time": "01:37:19",
+    "finish_seconds": 5839
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 433,
+    "name": "Wieczorkiewicz, Kinga Zofia",
+    "finish_time": "01:37:21",
+    "finish_seconds": 5841
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 435,
+    "name": "Northcote, Victoria",
+    "finish_time": "01:37:49",
+    "finish_seconds": 5869
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 437,
+    "name": "Courtney, Elizabeth",
+    "finish_time": "01:37:57",
+    "finish_seconds": 5877
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 439,
+    "name": "Abbedissen, Katrine",
+    "finish_time": "01:38:00",
+    "finish_seconds": 5880
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 441,
+    "name": "Danielsen, Live Nordal",
+    "finish_time": "01:38:10",
+    "finish_seconds": 5890
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 443,
+    "name": "James, Holly",
+    "finish_time": "01:38:11",
+    "finish_seconds": 5891
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 445,
+    "name": "Rinde, Anita",
+    "finish_time": "01:38:15",
+    "finish_seconds": 5895
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 447,
+    "name": "Hero, Annelie",
+    "finish_time": "01:38:28",
+    "finish_seconds": 5908
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 449,
+    "name": "Vogt, Nicole",
+    "finish_time": "01:38:39",
+    "finish_seconds": 5919
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 451,
+    "name": "Nervold, Carina",
+    "finish_time": "01:38:58",
+    "finish_seconds": 5938
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 453,
+    "name": "Fila, Marcelina",
+    "finish_time": "01:39:01",
+    "finish_seconds": 5941
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 455,
+    "name": "Fl\u00f8ttre, Monja",
+    "finish_time": "01:39:08",
+    "finish_seconds": 5948
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 457,
+    "name": "S\u00f8rum, Maria",
+    "finish_time": "01:39:11",
+    "finish_seconds": 5951
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 459,
+    "name": "Kroken, Linda P\u00e5",
+    "finish_time": "01:39:13",
+    "finish_seconds": 5953
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 461,
+    "name": "Ahlgren, Malin Mari",
+    "finish_time": "01:39:29",
+    "finish_seconds": 5969
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 463,
+    "name": "Sandberg, Charlott",
+    "finish_time": "01:39:50",
+    "finish_seconds": 5990
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 465,
+    "name": "Gibson, Victoria",
+    "finish_time": "01:40:05",
+    "finish_seconds": 6005
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 467,
+    "name": "Johannessen, Kim Louise",
+    "finish_time": "01:40:21",
+    "finish_seconds": 6021
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 469,
+    "name": "Bogren, Elin",
+    "finish_time": "01:40:27",
+    "finish_seconds": 6027
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 471,
+    "name": "Key-Nilsen, Christofa",
+    "finish_time": "01:40:31",
+    "finish_seconds": 6031
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 473,
+    "name": "Town, Mia",
+    "finish_time": "01:40:36",
+    "finish_seconds": 6036
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 475,
+    "name": "Eidet, Kristine",
+    "finish_time": "01:40:58",
+    "finish_seconds": 6058
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 477,
+    "name": "Cook, Rhianna",
+    "finish_time": "01:41:06",
+    "finish_seconds": 6066
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 479,
+    "name": "Br\u00f8dholt, \u00c5se",
+    "finish_time": "01:41:16",
+    "finish_seconds": 6076
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 481,
+    "name": "Ara\u00fajo, Carla",
+    "finish_time": "01:41:19",
+    "finish_seconds": 6079
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 483,
+    "name": "Fryland, Lene",
+    "finish_time": "01:41:51",
+    "finish_seconds": 6111
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 485,
+    "name": "Yates, Jane",
+    "finish_time": "01:42:03",
+    "finish_seconds": 6123
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 487,
+    "name": "Clayden, Lauren",
+    "finish_time": "01:42:06",
+    "finish_seconds": 6126
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 489,
+    "name": "Hambli, Cyrine",
+    "finish_time": "01:42:10",
+    "finish_seconds": 6130
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 491,
+    "name": "Kothe-N\u00e6ss, Frida",
+    "finish_time": "01:42:19",
+    "finish_seconds": 6139
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 493,
+    "name": "Br\u00e4unlin, Nicole",
+    "finish_time": "01:42:25",
+    "finish_seconds": 6145
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 495,
+    "name": "Harmon, Saga",
+    "finish_time": "01:42:30",
+    "finish_seconds": 6150
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 497,
+    "name": "Glenn, Anita",
+    "finish_time": "01:42:54",
+    "finish_seconds": 6174
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 499,
+    "name": "Kostamo, Kine",
+    "finish_time": "01:43:07",
+    "finish_seconds": 6187
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 501,
+    "name": "L\u00f8ken, Silje Therese",
+    "finish_time": "01:43:14",
+    "finish_seconds": 6194
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 503,
+    "name": "Coe, Amelia",
+    "finish_time": "01:43:39",
+    "finish_seconds": 6219
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 505,
+    "name": "Hellstr\u00f6m, Linda",
+    "finish_time": "01:43:42",
+    "finish_seconds": 6222
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 507,
+    "name": "Stendahl, Sandra",
+    "finish_time": "01:43:48",
+    "finish_seconds": 6228
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 509,
+    "name": "Eilertsen, Anne-Britt",
+    "finish_time": "01:43:55",
+    "finish_seconds": 6235
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 511,
+    "name": "Chavatte, Mathilde",
+    "finish_time": "01:44:02",
+    "finish_seconds": 6242
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 513,
+    "name": "Mcconnell, Beth",
+    "finish_time": "01:44:07",
+    "finish_seconds": 6247
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 515,
+    "name": "Opsahl Johansen, Nina",
+    "finish_time": "01:44:16",
+    "finish_seconds": 6256
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 517,
+    "name": "Kjelsson, Monica",
+    "finish_time": "01:44:27",
+    "finish_seconds": 6267
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 519,
+    "name": "Amro, Maya",
+    "finish_time": "01:44:29",
+    "finish_seconds": 6269
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 521,
+    "name": "Dalunde-Robinson, Karin",
+    "finish_time": "01:44:31",
+    "finish_seconds": 6271
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 523,
+    "name": "Kristiansen, Benedicte",
+    "finish_time": "01:44:35",
+    "finish_seconds": 6275
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 525,
+    "name": "Str\u00f6mb\u00e4ck Norman, Elin",
+    "finish_time": "01:44:41",
+    "finish_seconds": 6281
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 527,
+    "name": "Morgan, Rachael",
+    "finish_time": "01:44:46",
+    "finish_seconds": 6286
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 529,
+    "name": "Herrmann, Jaqueline",
+    "finish_time": "01:44:53",
+    "finish_seconds": 6293
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 531,
+    "name": "Heiss, Jum Hee",
+    "finish_time": "01:45:05",
+    "finish_seconds": 6305
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 533,
+    "name": "Bjerkelund, Anette",
+    "finish_time": "01:45:08",
+    "finish_seconds": 6308
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 535,
+    "name": "Harkins, Lauren",
+    "finish_time": "01:45:13",
+    "finish_seconds": 6313
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 537,
+    "name": "H\u00f8ibraaten, Anja",
+    "finish_time": "01:45:19",
+    "finish_seconds": 6319
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 539,
+    "name": "Carruthers, Jayne",
+    "finish_time": "01:45:41",
+    "finish_seconds": 6341
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 541,
+    "name": "Ilijonskyt\u0117, Kamil\u0117",
+    "finish_time": "01:45:49",
+    "finish_seconds": 6349
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 543,
+    "name": "Sellgren, Sanne",
+    "finish_time": "01:45:57",
+    "finish_seconds": 6357
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 545,
+    "name": "Kjellqvist, Elin",
+    "finish_time": "01:46:20",
+    "finish_seconds": 6380
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 547,
+    "name": "Arantes N\u00f3brega, Ully",
+    "finish_time": "01:46:47",
+    "finish_seconds": 6407
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 549,
+    "name": "Huc, Ines",
+    "finish_time": "01:46:58",
+    "finish_seconds": 6418
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 551,
+    "name": "Richardson, Michelle",
+    "finish_time": "01:47:11",
+    "finish_seconds": 6431
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 553,
+    "name": "Hewitt, Laura",
+    "finish_time": "01:47:31",
+    "finish_seconds": 6451
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 555,
+    "name": "Beardshaw, Emma",
+    "finish_time": "01:47:39",
+    "finish_seconds": 6459
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 557,
+    "name": "Dhuit, Aurelie",
+    "finish_time": "01:47:46",
+    "finish_seconds": 6466
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 559,
+    "name": "Laugen, Nila",
+    "finish_time": "01:47:52",
+    "finish_seconds": 6472
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 561,
+    "name": "Wilkinson, Lucy",
+    "finish_time": "01:47:58",
+    "finish_seconds": 6478
+  },
+  {
+    "venue": "2025 Oslo",
+    "gender": "W",
+    "rank": 563,
+    "name": "Joost, Helene",
+    "finish_time": "01:48:15",
+    "finish_seconds": 6495
+  }
+]

@@ -1,0 +1,6978 @@
+[
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1,
+    "name": "Ter Burg, Cem",
+    "finish_time": "00:57:59",
+    "finish_seconds": 3479
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 3,
+    "name": "Ayshford, James",
+    "finish_time": "00:58:52",
+    "finish_seconds": 3532
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 5,
+    "name": "Ram\u00edrez Rosales, Cristian",
+    "finish_time": "00:59:40",
+    "finish_seconds": 3580
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 7,
+    "name": "Ferrer, Yoel",
+    "finish_time": "01:00:19",
+    "finish_seconds": 3619
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 9,
+    "name": "Lee, Kane",
+    "finish_time": "01:01:36",
+    "finish_seconds": 3696
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 11,
+    "name": "Lorenzo Fabelo, Bryan",
+    "finish_time": "01:02:18",
+    "finish_seconds": 3738
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 13,
+    "name": "Palomo, Borja",
+    "finish_time": "01:02:33",
+    "finish_seconds": 3753
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 15,
+    "name": "Cancho Chamorro, Juan Andres",
+    "finish_time": "01:02:34",
+    "finish_seconds": 3754
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 17,
+    "name": "Per\u00e1n Alcaraz, Daniel",
+    "finish_time": "01:02:37",
+    "finish_seconds": 3757
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 19,
+    "name": "Branco, Bernardo",
+    "finish_time": "01:02:42",
+    "finish_seconds": 3762
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 21,
+    "name": "Mille, Florian",
+    "finish_time": "01:03:05",
+    "finish_seconds": 3785
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 23,
+    "name": "Fraga D\u00edaz, Manuel",
+    "finish_time": "01:03:12",
+    "finish_seconds": 3792
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 25,
+    "name": "Fletcher, Jake",
+    "finish_time": "01:03:24",
+    "finish_seconds": 3804
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 27,
+    "name": "Caja Nacher, Luis",
+    "finish_time": "01:03:27",
+    "finish_seconds": 3807
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 29,
+    "name": "Emiro\u011flu, Burak Edis",
+    "finish_time": "01:03:34",
+    "finish_seconds": 3814
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 31,
+    "name": "Grimaldo Garc\u00eda, Jorge",
+    "finish_time": "01:03:48",
+    "finish_seconds": 3828
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 33,
+    "name": "Oulehri, Youssef",
+    "finish_time": "01:04:00",
+    "finish_seconds": 3840
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 35,
+    "name": "P\u00e9rez Morillas, Carlos",
+    "finish_time": "01:04:15",
+    "finish_seconds": 3855
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 37,
+    "name": "Nicolau Mu\u00f1oz, Sergio",
+    "finish_time": "01:04:21",
+    "finish_seconds": 3861
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 39,
+    "name": "Rushe, Paul",
+    "finish_time": "01:04:28",
+    "finish_seconds": 3868
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 41,
+    "name": "Whyte, Ben",
+    "finish_time": "01:04:30",
+    "finish_seconds": 3870
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 43,
+    "name": "Hanlon, Joseph",
+    "finish_time": "01:04:44",
+    "finish_seconds": 3884
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 45,
+    "name": "Logeais, Baptiste",
+    "finish_time": "01:04:47",
+    "finish_seconds": 3887
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 47,
+    "name": "Ingham, James",
+    "finish_time": "01:04:54",
+    "finish_seconds": 3894
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 49,
+    "name": "Garcia, Sam",
+    "finish_time": "01:05:03",
+    "finish_seconds": 3903
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 51,
+    "name": "Monserrat, Jordi",
+    "finish_time": "01:05:07",
+    "finish_seconds": 3907
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 53,
+    "name": "Puyalto Monaj, Javier",
+    "finish_time": "01:05:15",
+    "finish_seconds": 3915
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 55,
+    "name": "Mccabe, Barry",
+    "finish_time": "01:05:25",
+    "finish_seconds": 3925
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 57,
+    "name": "Vicario, Iker",
+    "finish_time": "01:05:32",
+    "finish_seconds": 3932
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 59,
+    "name": "Rives, Antonio",
+    "finish_time": "01:05:40",
+    "finish_seconds": 3940
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 61,
+    "name": "Villagran, Facundo",
+    "finish_time": "01:05:48",
+    "finish_seconds": 3948
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 63,
+    "name": "Norris, Neil",
+    "finish_time": "01:05:53",
+    "finish_seconds": 3953
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 65,
+    "name": "Labrada Garcia, Cristian",
+    "finish_time": "01:05:58",
+    "finish_seconds": 3958
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 67,
+    "name": "Hugo, Fausto",
+    "finish_time": "01:06:08",
+    "finish_seconds": 3968
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 69,
+    "name": "Aladren Mozota, Ivan",
+    "finish_time": "01:06:12",
+    "finish_seconds": 3972
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 71,
+    "name": "Hack, Rufus",
+    "finish_time": "01:06:19",
+    "finish_seconds": 3979
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 73,
+    "name": "Perez Rodriguez, Victor",
+    "finish_time": "01:06:30",
+    "finish_seconds": 3990
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 75,
+    "name": "Camarasa, Toni",
+    "finish_time": "01:06:38",
+    "finish_seconds": 3998
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 77,
+    "name": "Kmet, Matej",
+    "finish_time": "01:06:41",
+    "finish_seconds": 4001
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 79,
+    "name": "Domenech Gonzalez, Mikel",
+    "finish_time": "01:06:47",
+    "finish_seconds": 4007
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 81,
+    "name": "Jim\u00e9nez Rueda, Juan Carlos",
+    "finish_time": "01:06:53",
+    "finish_seconds": 4013
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 83,
+    "name": "Lanzuela Pumareta, Manuel",
+    "finish_time": "01:06:53",
+    "finish_seconds": 4013
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 85,
+    "name": "Guerrero Chini, Faustino",
+    "finish_time": "01:07:02",
+    "finish_seconds": 4022
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 87,
+    "name": "Jurado, Thomas",
+    "finish_time": "01:07:15",
+    "finish_seconds": 4035
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 89,
+    "name": "Werner, Daniel",
+    "finish_time": "01:07:21",
+    "finish_seconds": 4041
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 91,
+    "name": "Reyes, Patrick",
+    "finish_time": "01:07:22",
+    "finish_seconds": 4042
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 93,
+    "name": "Fummo, Michael",
+    "finish_time": "01:07:24",
+    "finish_seconds": 4044
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 95,
+    "name": "Dorninger, Walter",
+    "finish_time": "01:07:28",
+    "finish_seconds": 4048
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 97,
+    "name": "Forest, Robin",
+    "finish_time": "01:07:29",
+    "finish_seconds": 4049
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 99,
+    "name": "Konteh Sanneh, Ansumana",
+    "finish_time": "01:07:31",
+    "finish_seconds": 4051
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 101,
+    "name": "Wientjes, Jeroen",
+    "finish_time": "01:07:32",
+    "finish_seconds": 4052
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 103,
+    "name": "Vazquez, Salvador",
+    "finish_time": "01:07:34",
+    "finish_seconds": 4054
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 105,
+    "name": "Perry, Tom",
+    "finish_time": "01:07:35",
+    "finish_seconds": 4055
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 107,
+    "name": "Mccann, Sean Patrick",
+    "finish_time": "01:07:39",
+    "finish_seconds": 4059
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 109,
+    "name": "Chorlton Buenechea, David",
+    "finish_time": "01:07:43",
+    "finish_seconds": 4063
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 111,
+    "name": "Calzavara, Gianluca",
+    "finish_time": "01:07:44",
+    "finish_seconds": 4064
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 113,
+    "name": "Winter, Florian",
+    "finish_time": "01:07:54",
+    "finish_seconds": 4074
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 115,
+    "name": "Evans, Shaun",
+    "finish_time": "01:07:56",
+    "finish_seconds": 4076
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 117,
+    "name": "Samuelsson, William",
+    "finish_time": "01:08:02",
+    "finish_seconds": 4082
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 119,
+    "name": "L\u00f3pez De La Manzanara Gonz\u00e1lez, Antonio",
+    "finish_time": "01:08:05",
+    "finish_seconds": 4085
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 121,
+    "name": "Mart\u00ednez Alvarez, David",
+    "finish_time": "01:08:09",
+    "finish_seconds": 4089
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 123,
+    "name": "Morales Pacheco, Miguel \u00c1ngel",
+    "finish_time": "01:08:15",
+    "finish_seconds": 4095
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 125,
+    "name": "Hermo Villar, Pablo",
+    "finish_time": "01:08:16",
+    "finish_seconds": 4096
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 127,
+    "name": "Leddy, Jack",
+    "finish_time": "01:08:21",
+    "finish_seconds": 4101
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 129,
+    "name": "Pe\u00f1a Arce, Julio",
+    "finish_time": "01:08:31",
+    "finish_seconds": 4111
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 131,
+    "name": "Medina, V\u00edctor",
+    "finish_time": "01:08:35",
+    "finish_seconds": 4115
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 133,
+    "name": "Murphy, Lachlan",
+    "finish_time": "01:08:37",
+    "finish_seconds": 4117
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 135,
+    "name": "Agerhult, Daniel",
+    "finish_time": "01:08:44",
+    "finish_seconds": 4124
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 137,
+    "name": "Molano, Joan",
+    "finish_time": "01:08:47",
+    "finish_seconds": 4127
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 139,
+    "name": "Llama, Jos\u00e9 Ram\u00f3n",
+    "finish_time": "01:08:54",
+    "finish_seconds": 4134
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 141,
+    "name": "Velazquez Fern\u00e1ndez, Manuel Ernesto",
+    "finish_time": "01:08:54",
+    "finish_seconds": 4134
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 143,
+    "name": "Mart\u00ednez Orts, Joan",
+    "finish_time": "01:09:02",
+    "finish_seconds": 4142
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 145,
+    "name": "Lobo Mart\u00ednez, Javier",
+    "finish_time": "01:09:06",
+    "finish_seconds": 4146
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 147,
+    "name": "Iglesias, Chiwy",
+    "finish_time": "01:09:07",
+    "finish_seconds": 4147
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 149,
+    "name": "Jenkinson, Tom",
+    "finish_time": "01:09:13",
+    "finish_seconds": 4153
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 151,
+    "name": "Andres, Enrique",
+    "finish_time": "01:09:19",
+    "finish_seconds": 4159
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 153,
+    "name": "Harding, Chris",
+    "finish_time": "01:09:23",
+    "finish_seconds": 4163
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 155,
+    "name": "L\u2019Huillier, Ga\u00ebtan",
+    "finish_time": "01:09:27",
+    "finish_seconds": 4167
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 157,
+    "name": "Parry, Davyd",
+    "finish_time": "01:09:32",
+    "finish_seconds": 4172
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 159,
+    "name": "Franco Ruas, Miguel",
+    "finish_time": "01:09:37",
+    "finish_seconds": 4177
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 161,
+    "name": "Brooke, Sam",
+    "finish_time": "01:09:54",
+    "finish_seconds": 4194
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 163,
+    "name": "Vadillo, Joselu",
+    "finish_time": "01:10:02",
+    "finish_seconds": 4202
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 165,
+    "name": "Canals, Hugo",
+    "finish_time": "01:10:05",
+    "finish_seconds": 4205
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 167,
+    "name": "Capitani, Thomas",
+    "finish_time": "01:10:11",
+    "finish_seconds": 4211
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 169,
+    "name": "Cuesta Gutierrez, Jonatan",
+    "finish_time": "01:10:12",
+    "finish_seconds": 4212
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 171,
+    "name": "Bailach, Ivan",
+    "finish_time": "01:10:13",
+    "finish_seconds": 4213
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 173,
+    "name": "Moreno, Sergio",
+    "finish_time": "01:10:17",
+    "finish_seconds": 4217
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 175,
+    "name": "Achrkouk, Abdelhak",
+    "finish_time": "01:10:18",
+    "finish_seconds": 4218
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 177,
+    "name": "Martinelli, Christian",
+    "finish_time": "01:10:21",
+    "finish_seconds": 4221
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 179,
+    "name": "Espinosa Sanabria, Carles",
+    "finish_time": "01:10:26",
+    "finish_seconds": 4226
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 181,
+    "name": "Oublal, Hamza",
+    "finish_time": "01:10:29",
+    "finish_seconds": 4229
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 183,
+    "name": "Coen, James",
+    "finish_time": "01:10:34",
+    "finish_seconds": 4234
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 185,
+    "name": "Figueiredo, Filipe",
+    "finish_time": "01:10:36",
+    "finish_seconds": 4236
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 187,
+    "name": "Cid, Alberto",
+    "finish_time": "01:10:37",
+    "finish_seconds": 4237
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 189,
+    "name": "Hickmott, Graham",
+    "finish_time": "01:10:41",
+    "finish_seconds": 4241
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 191,
+    "name": "Fernandez Ruiz, Antonio",
+    "finish_time": "01:10:44",
+    "finish_seconds": 4244
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 193,
+    "name": "Vanpuyvelde, Xavier",
+    "finish_time": "01:10:48",
+    "finish_seconds": 4248
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 195,
+    "name": "Harwood, Matthew",
+    "finish_time": "01:11:00",
+    "finish_seconds": 4260
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 197,
+    "name": "Dumez, Joseph",
+    "finish_time": "01:11:01",
+    "finish_seconds": 4261
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 199,
+    "name": "Pardo, David",
+    "finish_time": "01:11:02",
+    "finish_seconds": 4262
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 201,
+    "name": "Diogo, Rui",
+    "finish_time": "01:11:04",
+    "finish_seconds": 4264
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 203,
+    "name": "Barrrio, Carlos",
+    "finish_time": "01:11:05",
+    "finish_seconds": 4265
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 205,
+    "name": "Fu\u00dfwinkel, Andreas",
+    "finish_time": "01:11:05",
+    "finish_seconds": 4265
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 207,
+    "name": "Martin Prieto, Mario",
+    "finish_time": "01:11:09",
+    "finish_seconds": 4269
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 209,
+    "name": "Finane, Ciaran",
+    "finish_time": "01:11:12",
+    "finish_seconds": 4272
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 211,
+    "name": "Sabo, Nenad",
+    "finish_time": "01:11:17",
+    "finish_seconds": 4277
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 213,
+    "name": "Gallimore, Steven",
+    "finish_time": "01:11:19",
+    "finish_seconds": 4279
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 215,
+    "name": "Immerzeel, Nick",
+    "finish_time": "01:11:22",
+    "finish_seconds": 4282
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 217,
+    "name": "Martin, Sergio",
+    "finish_time": "01:11:25",
+    "finish_seconds": 4285
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 219,
+    "name": "Clavijo Palacios, Justo",
+    "finish_time": "01:11:27",
+    "finish_seconds": 4287
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 221,
+    "name": "Cust\u00f3dio, Carlos",
+    "finish_time": "01:11:29",
+    "finish_seconds": 4289
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 223,
+    "name": "Gillingham, Paul",
+    "finish_time": "01:11:34",
+    "finish_seconds": 4294
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 225,
+    "name": "Hernandez Leci\u00f1ena, Pablo",
+    "finish_time": "01:11:36",
+    "finish_seconds": 4296
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 227,
+    "name": "Lopez Barcelo, Alberto",
+    "finish_time": "01:11:42",
+    "finish_seconds": 4302
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 229,
+    "name": "Teixeira, Miguel",
+    "finish_time": "01:11:44",
+    "finish_seconds": 4304
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 231,
+    "name": "Rigo, Marc",
+    "finish_time": "01:11:46",
+    "finish_seconds": 4306
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 233,
+    "name": "Gillett, Michael",
+    "finish_time": "01:11:47",
+    "finish_seconds": 4307
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 235,
+    "name": "Rouault, Alexandre",
+    "finish_time": "01:11:49",
+    "finish_seconds": 4309
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 237,
+    "name": "Inciarte Teran, Aitor",
+    "finish_time": "01:11:52",
+    "finish_seconds": 4312
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 239,
+    "name": "Keating, Eamonn",
+    "finish_time": "01:11:53",
+    "finish_seconds": 4313
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 241,
+    "name": "Dernoncourt, Quentin",
+    "finish_time": "01:11:53",
+    "finish_seconds": 4313
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 243,
+    "name": "Young, Will",
+    "finish_time": "01:11:55",
+    "finish_seconds": 4315
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 245,
+    "name": "Trisconi, Noele",
+    "finish_time": "01:11:56",
+    "finish_seconds": 4316
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 247,
+    "name": "Nunes, Alex",
+    "finish_time": "01:11:56",
+    "finish_seconds": 4316
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 249,
+    "name": "M\u00fcller, Marcus",
+    "finish_time": "01:11:56",
+    "finish_seconds": 4316
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 251,
+    "name": "Aguilar Finez, Marcos",
+    "finish_time": "01:11:59",
+    "finish_seconds": 4319
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 253,
+    "name": "Jones, Glyn",
+    "finish_time": "01:12:02",
+    "finish_seconds": 4322
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 255,
+    "name": "Chouvin, Jules",
+    "finish_time": "01:12:05",
+    "finish_seconds": 4325
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 257,
+    "name": "Monterroso, Jos\u00e9",
+    "finish_time": "01:12:08",
+    "finish_seconds": 4328
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 259,
+    "name": "Martinez Lopez, Alberto",
+    "finish_time": "01:12:09",
+    "finish_seconds": 4329
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 261,
+    "name": "Raad, Friso",
+    "finish_time": "01:12:15",
+    "finish_seconds": 4335
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 263,
+    "name": "Revert, Nacho",
+    "finish_time": "01:12:16",
+    "finish_seconds": 4336
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 265,
+    "name": "Cruz, Unai",
+    "finish_time": "01:12:17",
+    "finish_seconds": 4337
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 267,
+    "name": "Minett, Adam",
+    "finish_time": "01:12:19",
+    "finish_seconds": 4339
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 269,
+    "name": "Andre, David",
+    "finish_time": "01:12:22",
+    "finish_seconds": 4342
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 271,
+    "name": "Allen, Henry",
+    "finish_time": "01:12:24",
+    "finish_seconds": 4344
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 273,
+    "name": "Coldefy, Thibault",
+    "finish_time": "01:12:26",
+    "finish_seconds": 4346
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 275,
+    "name": "Gomez, Nicolas",
+    "finish_time": "01:12:34",
+    "finish_seconds": 4354
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 277,
+    "name": "Gra\u00f1a, Jesus",
+    "finish_time": "01:12:39",
+    "finish_seconds": 4359
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 279,
+    "name": "Mihaylov Barbov, Radil",
+    "finish_time": "01:12:48",
+    "finish_seconds": 4368
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 281,
+    "name": "Crosera, Riccardo",
+    "finish_time": "01:12:48",
+    "finish_seconds": 4368
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 283,
+    "name": "Mckenzie, Ryan",
+    "finish_time": "01:12:49",
+    "finish_seconds": 4369
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 285,
+    "name": "Calero, Pablo",
+    "finish_time": "01:12:51",
+    "finish_seconds": 4371
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 287,
+    "name": "Gonz\u00e1lez Hermos\u00edn, Jos\u00e9 Luis",
+    "finish_time": "01:12:57",
+    "finish_seconds": 4377
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 289,
+    "name": "Oosterhoff, Allard",
+    "finish_time": "01:13:01",
+    "finish_seconds": 4381
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 291,
+    "name": "Cox, Angus",
+    "finish_time": "01:13:02",
+    "finish_seconds": 4382
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 293,
+    "name": "Nuyken, Maximilian",
+    "finish_time": "01:13:05",
+    "finish_seconds": 4385
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 295,
+    "name": "Charlesworth, Nathan",
+    "finish_time": "01:13:10",
+    "finish_seconds": 4390
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 297,
+    "name": "Ma\u00f1\u00e1 Casto, Adri\u00e1n",
+    "finish_time": "01:13:11",
+    "finish_seconds": 4391
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 299,
+    "name": "Tilbrook, Samuel",
+    "finish_time": "01:13:13",
+    "finish_seconds": 4393
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 301,
+    "name": "Wee, Warrwn",
+    "finish_time": "01:13:15",
+    "finish_seconds": 4395
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 303,
+    "name": "Marin Macias, Cecilio",
+    "finish_time": "01:13:20",
+    "finish_seconds": 4400
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 305,
+    "name": "Esser, Bj\u00f6rn",
+    "finish_time": "01:13:22",
+    "finish_seconds": 4402
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 307,
+    "name": "Dioume, Adri\u00e1n",
+    "finish_time": "01:13:27",
+    "finish_seconds": 4407
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 309,
+    "name": "Benchaoub, Choaib",
+    "finish_time": "01:13:30",
+    "finish_seconds": 4410
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 311,
+    "name": "P\u00fcnder, Linus",
+    "finish_time": "01:13:32",
+    "finish_seconds": 4412
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 313,
+    "name": "Tomasello, Nicola",
+    "finish_time": "01:13:33",
+    "finish_seconds": 4413
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 315,
+    "name": "Bieberstein, Gustav",
+    "finish_time": "01:13:35",
+    "finish_seconds": 4415
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 317,
+    "name": "Castro, \u00d2scar",
+    "finish_time": "01:13:42",
+    "finish_seconds": 4422
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 319,
+    "name": "Balsells, Albert",
+    "finish_time": "01:13:45",
+    "finish_seconds": 4425
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 321,
+    "name": "Osammor, Chigozie",
+    "finish_time": "01:13:48",
+    "finish_seconds": 4428
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 323,
+    "name": "Rodriguez, Zola",
+    "finish_time": "01:13:51",
+    "finish_seconds": 4431
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 325,
+    "name": "Torrero, Diony",
+    "finish_time": "01:13:53",
+    "finish_seconds": 4433
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 327,
+    "name": "Leidenberger, Christof",
+    "finish_time": "01:13:56",
+    "finish_seconds": 4436
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 329,
+    "name": "Garay, Roberto",
+    "finish_time": "01:13:58",
+    "finish_seconds": 4438
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 331,
+    "name": "Cuadrado, Jose Carlos",
+    "finish_time": "01:14:02",
+    "finish_seconds": 4442
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 333,
+    "name": "L\u00f3pez Mu\u00f1oz, Laureano",
+    "finish_time": "01:14:09",
+    "finish_seconds": 4449
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 335,
+    "name": "Afonso, S\u00e9rgio",
+    "finish_time": "01:14:10",
+    "finish_seconds": 4450
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 337,
+    "name": "Maubert, Thibeault",
+    "finish_time": "01:14:12",
+    "finish_seconds": 4452
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 339,
+    "name": "Nixon, Harrison",
+    "finish_time": "01:14:12",
+    "finish_seconds": 4452
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 341,
+    "name": "Gil, Demetrio",
+    "finish_time": "01:14:16",
+    "finish_seconds": 4456
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 343,
+    "name": "Lynam-Carter, Ross",
+    "finish_time": "01:14:18",
+    "finish_seconds": 4458
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 345,
+    "name": "Wone, Ru",
+    "finish_time": "01:14:20",
+    "finish_seconds": 4460
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 347,
+    "name": "Waters, Evan",
+    "finish_time": "01:14:23",
+    "finish_seconds": 4463
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 349,
+    "name": "Boggione, Benoit",
+    "finish_time": "01:14:24",
+    "finish_seconds": 4464
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 351,
+    "name": "Sellars, Josh",
+    "finish_time": "01:14:29",
+    "finish_seconds": 4469
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 353,
+    "name": "M\u00edguez Berm\u00fadez, Eloy",
+    "finish_time": "01:14:35",
+    "finish_seconds": 4475
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 355,
+    "name": "Urdaneta Fuentes, Edgar Enrique",
+    "finish_time": "01:14:36",
+    "finish_seconds": 4476
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 357,
+    "name": "Costa, David",
+    "finish_time": "01:14:42",
+    "finish_seconds": 4482
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 359,
+    "name": "Kerninger, Markus",
+    "finish_time": "01:14:46",
+    "finish_seconds": 4486
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 361,
+    "name": "Azpeitia, Javier",
+    "finish_time": "01:14:48",
+    "finish_seconds": 4488
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 363,
+    "name": "Montoya, Pablo",
+    "finish_time": "01:14:49",
+    "finish_seconds": 4489
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 365,
+    "name": "Godoy, Dennis",
+    "finish_time": "01:14:50",
+    "finish_seconds": 4490
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 367,
+    "name": "Lopez, Borja",
+    "finish_time": "01:14:50",
+    "finish_seconds": 4490
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 369,
+    "name": "Fereire, Matteo",
+    "finish_time": "01:14:55",
+    "finish_seconds": 4495
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 371,
+    "name": "Margalet, Tristan",
+    "finish_time": "01:14:58",
+    "finish_seconds": 4498
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 373,
+    "name": "Lopez Quiles, Jose Miguel",
+    "finish_time": "01:14:59",
+    "finish_seconds": 4499
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 375,
+    "name": "Goedhart, Martijn",
+    "finish_time": "01:15:01",
+    "finish_seconds": 4501
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 377,
+    "name": "Hladuvka, Ondrej",
+    "finish_time": "01:15:03",
+    "finish_seconds": 4503
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 379,
+    "name": "Jones, Guy",
+    "finish_time": "01:15:05",
+    "finish_seconds": 4505
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 381,
+    "name": "\u010ceh, \u017dan",
+    "finish_time": "01:15:08",
+    "finish_seconds": 4508
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 383,
+    "name": "Andres, Bronislav",
+    "finish_time": "01:15:10",
+    "finish_seconds": 4510
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 385,
+    "name": "Isaksson, Jesper",
+    "finish_time": "01:15:11",
+    "finish_seconds": 4511
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 387,
+    "name": "Hayes, Anthony",
+    "finish_time": "01:15:14",
+    "finish_seconds": 4514
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 389,
+    "name": "Del Pozo Garrido, Mario",
+    "finish_time": "01:15:21",
+    "finish_seconds": 4521
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 391,
+    "name": "Wilson, Stuart",
+    "finish_time": "01:15:24",
+    "finish_seconds": 4524
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 393,
+    "name": "Galarza, Iker",
+    "finish_time": "01:15:31",
+    "finish_seconds": 4531
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 395,
+    "name": "Porcel Zarza, Javier",
+    "finish_time": "01:15:34",
+    "finish_seconds": 4534
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 397,
+    "name": "Nye, Sam",
+    "finish_time": "01:15:36",
+    "finish_seconds": 4536
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 399,
+    "name": "Romein, Rens",
+    "finish_time": "01:15:38",
+    "finish_seconds": 4538
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 401,
+    "name": "Carreno, Nathan",
+    "finish_time": "01:15:42",
+    "finish_seconds": 4542
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 403,
+    "name": "Dieste, Mario",
+    "finish_time": "01:15:45",
+    "finish_seconds": 4545
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 405,
+    "name": "Granero, Manuel",
+    "finish_time": "01:15:46",
+    "finish_seconds": 4546
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 407,
+    "name": "Ewert, Christian",
+    "finish_time": "01:15:47",
+    "finish_seconds": 4547
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 409,
+    "name": "Larrasa Soriano, Guillermo",
+    "finish_time": "01:15:49",
+    "finish_seconds": 4549
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 411,
+    "name": "Booth, Marshall",
+    "finish_time": "01:15:50",
+    "finish_seconds": 4550
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 413,
+    "name": "Lanceta, Ivan",
+    "finish_time": "01:15:57",
+    "finish_seconds": 4557
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 415,
+    "name": "Garvi Macias, Sergi",
+    "finish_time": "01:16:01",
+    "finish_seconds": 4561
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 417,
+    "name": "Rodriguez, David",
+    "finish_time": "01:16:03",
+    "finish_seconds": 4563
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 419,
+    "name": "Perillo, Salvatore",
+    "finish_time": "01:16:06",
+    "finish_seconds": 4566
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 421,
+    "name": "Ju\u00e1rez Mansilla, Marcos",
+    "finish_time": "01:16:09",
+    "finish_seconds": 4569
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 423,
+    "name": "Rovner Agadzhanov, Alexey",
+    "finish_time": "01:16:11",
+    "finish_seconds": 4571
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 425,
+    "name": "Ribeiro, Ivan",
+    "finish_time": "01:16:16",
+    "finish_seconds": 4576
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 427,
+    "name": "Schmidt, Alexander",
+    "finish_time": "01:16:20",
+    "finish_seconds": 4580
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 429,
+    "name": "Moreno Moreno, Javier",
+    "finish_time": "01:16:23",
+    "finish_seconds": 4583
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 431,
+    "name": "S\u00e1nchez Sanz, David",
+    "finish_time": "01:16:24",
+    "finish_seconds": 4584
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 433,
+    "name": "Coscia, Alexandro",
+    "finish_time": "01:16:27",
+    "finish_seconds": 4587
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 435,
+    "name": "Karaolis, Demetri",
+    "finish_time": "01:16:30",
+    "finish_seconds": 4590
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 437,
+    "name": "Hammatt, Scott",
+    "finish_time": "01:16:31",
+    "finish_seconds": 4591
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 439,
+    "name": "Mart\u00ednez, Jorge",
+    "finish_time": "01:16:34",
+    "finish_seconds": 4594
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 441,
+    "name": "Douglas, Danny",
+    "finish_time": "01:16:36",
+    "finish_seconds": 4596
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 443,
+    "name": "Cristo, Tiago",
+    "finish_time": "01:16:38",
+    "finish_seconds": 4598
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 445,
+    "name": "Jongeling, Thijs",
+    "finish_time": "01:16:41",
+    "finish_seconds": 4601
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 447,
+    "name": "Mc Mahon, Sean",
+    "finish_time": "01:16:44",
+    "finish_seconds": 4604
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 449,
+    "name": "Palaprat, Christophe",
+    "finish_time": "01:16:47",
+    "finish_seconds": 4607
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 451,
+    "name": "Mckenna, Shane",
+    "finish_time": "01:16:49",
+    "finish_seconds": 4609
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 453,
+    "name": "Fawthrop, John",
+    "finish_time": "01:16:51",
+    "finish_seconds": 4611
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 455,
+    "name": "Casta\u00f1o Mart\u00ednez, \u00d3scar",
+    "finish_time": "01:16:53",
+    "finish_seconds": 4613
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 457,
+    "name": "Costa Ventura, Cristian",
+    "finish_time": "01:16:54",
+    "finish_seconds": 4614
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 459,
+    "name": "Nicol\u00e1s Mu\u00f1oz, Daniel",
+    "finish_time": "01:16:56",
+    "finish_seconds": 4616
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 461,
+    "name": "Fernandez, Antonio",
+    "finish_time": "01:16:56",
+    "finish_seconds": 4616
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 463,
+    "name": "Ruiz Garau, Nicolau",
+    "finish_time": "01:16:57",
+    "finish_seconds": 4617
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 465,
+    "name": "Arnaiz, Enrique",
+    "finish_time": "01:16:59",
+    "finish_seconds": 4619
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 467,
+    "name": "Quesada, Agust\u00edn",
+    "finish_time": "01:17:03",
+    "finish_seconds": 4623
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 469,
+    "name": "Domingos, Andr\u00e9",
+    "finish_time": "01:17:05",
+    "finish_seconds": 4625
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 471,
+    "name": "Muller, Pim",
+    "finish_time": "01:17:05",
+    "finish_seconds": 4625
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 473,
+    "name": "Roustan, Lilian",
+    "finish_time": "01:17:08",
+    "finish_seconds": 4628
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 475,
+    "name": "Haddad, Andres",
+    "finish_time": "01:17:09",
+    "finish_seconds": 4629
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 477,
+    "name": "Aichholzer, Markus",
+    "finish_time": "01:17:12",
+    "finish_seconds": 4632
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 479,
+    "name": "Rodriguez Marcos, Andres",
+    "finish_time": "01:17:13",
+    "finish_seconds": 4633
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 481,
+    "name": "Mateos Garc\u00eda, Jos\u00e9 Antonio",
+    "finish_time": "01:17:17",
+    "finish_seconds": 4637
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 483,
+    "name": "Spencer, Chris",
+    "finish_time": "01:17:23",
+    "finish_seconds": 4643
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 485,
+    "name": "R\u00edos Mart\u00edn, Miguel",
+    "finish_time": "01:17:27",
+    "finish_seconds": 4647
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 487,
+    "name": "Garcia, Pablo",
+    "finish_time": "01:17:31",
+    "finish_seconds": 4651
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 489,
+    "name": "D Croz, Angel",
+    "finish_time": "01:17:34",
+    "finish_seconds": 4654
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 491,
+    "name": "Anderson-Dukes, Rob",
+    "finish_time": "01:17:34",
+    "finish_seconds": 4654
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 493,
+    "name": "Borsari, Francesco",
+    "finish_time": "01:17:37",
+    "finish_seconds": 4657
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 495,
+    "name": "Pencol\u00e9, Fr\u00e9d\u00e9ric",
+    "finish_time": "01:17:41",
+    "finish_seconds": 4661
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 497,
+    "name": "Vega, Daniel",
+    "finish_time": "01:17:45",
+    "finish_seconds": 4665
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 499,
+    "name": "Sherry, Ben",
+    "finish_time": "01:17:50",
+    "finish_seconds": 4670
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 501,
+    "name": "Olivares, Dar\u00edo",
+    "finish_time": "01:17:52",
+    "finish_seconds": 4672
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 503,
+    "name": "Llamas, Ricardo",
+    "finish_time": "01:17:55",
+    "finish_seconds": 4675
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 505,
+    "name": "Ruiz Alcaide, David",
+    "finish_time": "01:17:57",
+    "finish_seconds": 4677
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 507,
+    "name": "Puga, Adri\u00e1n",
+    "finish_time": "01:17:58",
+    "finish_seconds": 4678
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 509,
+    "name": "Jim\u00e9nez, Carlos",
+    "finish_time": "01:18:00",
+    "finish_seconds": 4680
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 511,
+    "name": "Maughan, Simon",
+    "finish_time": "01:18:02",
+    "finish_seconds": 4682
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 513,
+    "name": "Angus, David",
+    "finish_time": "01:18:08",
+    "finish_seconds": 4688
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 515,
+    "name": "Zandman, Tijmen",
+    "finish_time": "01:18:10",
+    "finish_seconds": 4690
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 517,
+    "name": "Lavers, Jonathon",
+    "finish_time": "01:18:11",
+    "finish_seconds": 4691
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 519,
+    "name": "Wellings, Matthew",
+    "finish_time": "01:18:12",
+    "finish_seconds": 4692
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 521,
+    "name": "Davis, Brian",
+    "finish_time": "01:18:18",
+    "finish_seconds": 4698
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 523,
+    "name": "Egea Sancho, V\u00edctor",
+    "finish_time": "01:18:19",
+    "finish_seconds": 4699
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 525,
+    "name": "Collins, Gary",
+    "finish_time": "01:18:19",
+    "finish_seconds": 4699
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 527,
+    "name": "Springer, Jim",
+    "finish_time": "01:18:20",
+    "finish_seconds": 4700
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 529,
+    "name": "Falcone, Domenico",
+    "finish_time": "01:18:22",
+    "finish_seconds": 4702
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 531,
+    "name": "Prendergast, Donagh",
+    "finish_time": "01:18:23",
+    "finish_seconds": 4703
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 533,
+    "name": "Burgess, Kieran",
+    "finish_time": "01:18:28",
+    "finish_seconds": 4708
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 535,
+    "name": "Stewart, Oliver",
+    "finish_time": "01:18:29",
+    "finish_seconds": 4709
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 537,
+    "name": "Rey Fernandez, Pedro Javier",
+    "finish_time": "01:18:31",
+    "finish_seconds": 4711
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 539,
+    "name": "Garcia Bravo, Juan Antonio",
+    "finish_time": "01:18:32",
+    "finish_seconds": 4712
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 541,
+    "name": "Rendle, Samuel",
+    "finish_time": "01:18:33",
+    "finish_seconds": 4713
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 543,
+    "name": "Rivas, Alejandro",
+    "finish_time": "01:18:35",
+    "finish_seconds": 4715
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 545,
+    "name": "Dorfer, Matthias",
+    "finish_time": "01:18:37",
+    "finish_seconds": 4717
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 547,
+    "name": "Ranginui, Damion",
+    "finish_time": "01:18:40",
+    "finish_seconds": 4720
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 549,
+    "name": "Prat Esteba, Marc",
+    "finish_time": "01:18:42",
+    "finish_seconds": 4722
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 551,
+    "name": "Zenzuck, John",
+    "finish_time": "01:18:44",
+    "finish_seconds": 4724
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 553,
+    "name": "Sarasola, I\u00f1igo",
+    "finish_time": "01:18:45",
+    "finish_seconds": 4725
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 555,
+    "name": "Gabler, Nico",
+    "finish_time": "01:18:50",
+    "finish_seconds": 4730
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 557,
+    "name": "Flynn, Joseph",
+    "finish_time": "01:18:54",
+    "finish_seconds": 4734
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 559,
+    "name": "Blick, Aaron",
+    "finish_time": "01:18:54",
+    "finish_seconds": 4734
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 561,
+    "name": "L\u00f3pez Coba, Javier",
+    "finish_time": "01:18:55",
+    "finish_seconds": 4735
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 563,
+    "name": "Campi\u00f1o Pedroza, Jhon Sebastian",
+    "finish_time": "01:18:57",
+    "finish_seconds": 4737
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 565,
+    "name": "Jim\u00e9nez Lamas, David",
+    "finish_time": "01:19:01",
+    "finish_seconds": 4741
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 567,
+    "name": "Tingle Carreras, David",
+    "finish_time": "01:19:03",
+    "finish_seconds": 4743
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 569,
+    "name": "Mata, Alex",
+    "finish_time": "01:19:05",
+    "finish_seconds": 4745
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 571,
+    "name": "Menken, Ben",
+    "finish_time": "01:19:08",
+    "finish_seconds": 4748
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 573,
+    "name": "Herssens, Arno",
+    "finish_time": "01:19:10",
+    "finish_seconds": 4750
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 575,
+    "name": "Trinh, Kien",
+    "finish_time": "01:19:13",
+    "finish_seconds": 4753
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 577,
+    "name": "Solano, Juanjo",
+    "finish_time": "01:19:18",
+    "finish_seconds": 4758
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 579,
+    "name": "Tierno, Diego",
+    "finish_time": "01:19:20",
+    "finish_seconds": 4760
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 581,
+    "name": "Van Der Meer, Tobias",
+    "finish_time": "01:19:23",
+    "finish_seconds": 4763
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 583,
+    "name": "Weinbauer, Florian",
+    "finish_time": "01:19:26",
+    "finish_seconds": 4766
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 585,
+    "name": "Oliveira, Tiago",
+    "finish_time": "01:19:28",
+    "finish_seconds": 4768
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 587,
+    "name": "Cowell, Philip",
+    "finish_time": "01:19:30",
+    "finish_seconds": 4770
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 589,
+    "name": "Orts, Juan",
+    "finish_time": "01:19:33",
+    "finish_seconds": 4773
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 591,
+    "name": "Fernandez Sarmiento, J. Andres",
+    "finish_time": "01:19:34",
+    "finish_seconds": 4774
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 593,
+    "name": "Hermo, David",
+    "finish_time": "01:19:39",
+    "finish_seconds": 4779
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 595,
+    "name": "Sanz Martinez, Sergio",
+    "finish_time": "01:19:42",
+    "finish_seconds": 4782
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 597,
+    "name": "Frutos, Juanjo",
+    "finish_time": "01:19:45",
+    "finish_seconds": 4785
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 599,
+    "name": "B\u0159ezina, Ond\u0159ej",
+    "finish_time": "01:19:46",
+    "finish_seconds": 4786
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 601,
+    "name": "Megias, Roberto",
+    "finish_time": "01:19:49",
+    "finish_seconds": 4789
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 603,
+    "name": "Peris, Albert",
+    "finish_time": "01:19:51",
+    "finish_seconds": 4791
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 605,
+    "name": "Hansmeier, Patrick",
+    "finish_time": "01:19:56",
+    "finish_seconds": 4796
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 607,
+    "name": "Platt, Chris",
+    "finish_time": "01:19:57",
+    "finish_seconds": 4797
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 609,
+    "name": "Gonz\u00e1lez Alba, Adri\u00e1n",
+    "finish_time": "01:20:03",
+    "finish_seconds": 4803
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 611,
+    "name": "Brachet, Marc",
+    "finish_time": "01:20:05",
+    "finish_seconds": 4805
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 613,
+    "name": "Jezierski, Krzysztof",
+    "finish_time": "01:20:07",
+    "finish_seconds": 4807
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 615,
+    "name": "Fernandes, Andr\u00e9",
+    "finish_time": "01:20:07",
+    "finish_seconds": 4807
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 617,
+    "name": "Allister, Malcolm",
+    "finish_time": "01:20:09",
+    "finish_seconds": 4809
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 619,
+    "name": "Greus Girona, Jesus",
+    "finish_time": "01:20:10",
+    "finish_seconds": 4810
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 621,
+    "name": "Pedr\u00f3s, Pablo",
+    "finish_time": "01:20:12",
+    "finish_seconds": 4812
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 623,
+    "name": "Ram\u00edrez Mensa, Germ\u00e1n",
+    "finish_time": "01:20:15",
+    "finish_seconds": 4815
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 625,
+    "name": "Sala, Manuel",
+    "finish_time": "01:20:22",
+    "finish_seconds": 4822
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 627,
+    "name": "Cardaci, Simone",
+    "finish_time": "01:20:26",
+    "finish_seconds": 4826
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 629,
+    "name": "Gir\u00f3n Mart\u00edn, David",
+    "finish_time": "01:20:27",
+    "finish_seconds": 4827
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 631,
+    "name": "Pinto, Bernardo",
+    "finish_time": "01:20:30",
+    "finish_seconds": 4830
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 633,
+    "name": "Sanz Santiago, Joan",
+    "finish_time": "01:20:32",
+    "finish_seconds": 4832
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 635,
+    "name": "Garro, Rodrigo",
+    "finish_time": "01:20:35",
+    "finish_seconds": 4835
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 637,
+    "name": "Neulinger, Joan",
+    "finish_time": "01:20:37",
+    "finish_seconds": 4837
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 639,
+    "name": "Pm, Jp",
+    "finish_time": "01:20:39",
+    "finish_seconds": 4839
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 641,
+    "name": "PEDRO MU\u00d1OZ, SANTIAGO",
+    "finish_time": "01:20:40",
+    "finish_seconds": 4840
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 643,
+    "name": "Cook, Ben",
+    "finish_time": "01:20:41",
+    "finish_seconds": 4841
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 645,
+    "name": "Goder, Henri-Pierre",
+    "finish_time": "01:20:41",
+    "finish_seconds": 4841
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 647,
+    "name": "Corbel, Vincent",
+    "finish_time": "01:20:46",
+    "finish_seconds": 4846
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 649,
+    "name": "S\u00e1nchez, Alex",
+    "finish_time": "01:20:49",
+    "finish_seconds": 4849
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 651,
+    "name": "Ribault, Mathis",
+    "finish_time": "01:20:51",
+    "finish_seconds": 4851
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 653,
+    "name": "Maestro Madrigal, Juan",
+    "finish_time": "01:20:51",
+    "finish_seconds": 4851
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 655,
+    "name": "Agust\u00edn Rodr\u00edguez, Rub\u00e9n",
+    "finish_time": "01:20:54",
+    "finish_seconds": 4854
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 657,
+    "name": "Whitfield, Freddie",
+    "finish_time": "01:20:55",
+    "finish_seconds": 4855
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 659,
+    "name": "Mazon, Ignacio",
+    "finish_time": "01:20:57",
+    "finish_seconds": 4857
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 661,
+    "name": "Barrag\u00e1n, Fernando",
+    "finish_time": "01:20:59",
+    "finish_seconds": 4859
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 663,
+    "name": "Bradley, Luke",
+    "finish_time": "01:21:01",
+    "finish_seconds": 4861
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 665,
+    "name": "Vich, Miquel",
+    "finish_time": "01:21:04",
+    "finish_seconds": 4864
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 667,
+    "name": "Alberca, Gr\u00e9goire",
+    "finish_time": "01:21:05",
+    "finish_seconds": 4865
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 669,
+    "name": "Gonzalez Dominguez, Juan Rafael",
+    "finish_time": "01:21:12",
+    "finish_seconds": 4872
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 671,
+    "name": "Sluisdom, Giann",
+    "finish_time": "01:21:14",
+    "finish_seconds": 4874
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 673,
+    "name": "Perez, Sergio",
+    "finish_time": "01:21:21",
+    "finish_seconds": 4881
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 675,
+    "name": "Vickers, Jamie",
+    "finish_time": "01:21:24",
+    "finish_seconds": 4884
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 677,
+    "name": "Hague, Adam",
+    "finish_time": "01:21:24",
+    "finish_seconds": 4884
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 679,
+    "name": "Sampedro, Abel",
+    "finish_time": "01:21:26",
+    "finish_seconds": 4886
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 681,
+    "name": "Tudela, Andr\u00e9s",
+    "finish_time": "01:21:31",
+    "finish_seconds": 4891
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 683,
+    "name": "Felguera, Jose",
+    "finish_time": "01:21:32",
+    "finish_seconds": 4892
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 685,
+    "name": "Perrucci, Giorgio",
+    "finish_time": "01:21:36",
+    "finish_seconds": 4896
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 687,
+    "name": "Farrell, Martin",
+    "finish_time": "01:21:38",
+    "finish_seconds": 4898
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 689,
+    "name": "Lafuente Carmona, Edgar",
+    "finish_time": "01:21:41",
+    "finish_seconds": 4901
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 691,
+    "name": "Capizzi, Leonardo",
+    "finish_time": "01:21:43",
+    "finish_seconds": 4903
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 693,
+    "name": "Moacho, Tiago",
+    "finish_time": "01:21:46",
+    "finish_seconds": 4906
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 695,
+    "name": "Montesinos Perez, Daniel",
+    "finish_time": "01:21:54",
+    "finish_seconds": 4914
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 697,
+    "name": "Niedba\u0142, Kamil",
+    "finish_time": "01:21:54",
+    "finish_seconds": 4914
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 699,
+    "name": "Laufer, David",
+    "finish_time": "01:21:59",
+    "finish_seconds": 4919
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 701,
+    "name": "P\u00e9rez Espinosa, Fernando",
+    "finish_time": "01:22:00",
+    "finish_seconds": 4920
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 703,
+    "name": "\u00dclker, Deniz Alp",
+    "finish_time": "01:22:02",
+    "finish_seconds": 4922
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 705,
+    "name": "Hrebicik, Marek",
+    "finish_time": "01:22:07",
+    "finish_seconds": 4927
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 707,
+    "name": "Benvenga, Andrea",
+    "finish_time": "01:22:08",
+    "finish_seconds": 4928
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 709,
+    "name": "Gillet, Antoine",
+    "finish_time": "01:22:11",
+    "finish_seconds": 4931
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 711,
+    "name": "Ferri Cuenca, Ruben",
+    "finish_time": "01:22:16",
+    "finish_seconds": 4936
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 713,
+    "name": "Quinn, Jared",
+    "finish_time": "01:22:19",
+    "finish_seconds": 4939
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 715,
+    "name": "Omran, Bader",
+    "finish_time": "01:22:19",
+    "finish_seconds": 4939
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 717,
+    "name": "Arabi, Fahim",
+    "finish_time": "01:22:21",
+    "finish_seconds": 4941
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 719,
+    "name": "P\u00e9rez De Ascanio Gallego, Eduardo",
+    "finish_time": "01:22:23",
+    "finish_seconds": 4943
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 721,
+    "name": "Albornoz, Gerardo",
+    "finish_time": "01:22:31",
+    "finish_seconds": 4951
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 723,
+    "name": "Gomez, Alex",
+    "finish_time": "01:22:34",
+    "finish_seconds": 4954
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 725,
+    "name": "Ibrahimi, Othmane",
+    "finish_time": "01:22:35",
+    "finish_seconds": 4955
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 727,
+    "name": "Oliver, Danny",
+    "finish_time": "01:22:35",
+    "finish_seconds": 4955
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 729,
+    "name": "Saunders, Lloyd",
+    "finish_time": "01:22:37",
+    "finish_seconds": 4957
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 731,
+    "name": "Bogdanski, Tom",
+    "finish_time": "01:22:42",
+    "finish_seconds": 4962
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 733,
+    "name": "Lovett, Colin",
+    "finish_time": "01:22:45",
+    "finish_seconds": 4965
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 735,
+    "name": "Garcia, Alejandro",
+    "finish_time": "01:22:47",
+    "finish_seconds": 4967
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 737,
+    "name": "Prevos, Swen",
+    "finish_time": "01:22:49",
+    "finish_seconds": 4969
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 739,
+    "name": "Casarrubio De La Cruz, Daniel",
+    "finish_time": "01:22:53",
+    "finish_seconds": 4973
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 741,
+    "name": "Ramsden, Evan",
+    "finish_time": "01:23:00",
+    "finish_seconds": 4980
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 743,
+    "name": "Castillo, Jaime",
+    "finish_time": "01:23:04",
+    "finish_seconds": 4984
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 745,
+    "name": "Bardsley, John",
+    "finish_time": "01:23:07",
+    "finish_seconds": 4987
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 747,
+    "name": "Aliaga Azor\u00edn, Vicente",
+    "finish_time": "01:23:12",
+    "finish_seconds": 4992
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 749,
+    "name": "Sanchez Trasobares, Adrian",
+    "finish_time": "01:23:16",
+    "finish_seconds": 4996
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 751,
+    "name": "Barros, Hugo",
+    "finish_time": "01:23:18",
+    "finish_seconds": 4998
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 753,
+    "name": "Niard, Jeremie",
+    "finish_time": "01:23:20",
+    "finish_seconds": 5000
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 755,
+    "name": "Valdini, Simone",
+    "finish_time": "01:23:22",
+    "finish_seconds": 5002
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 757,
+    "name": "Mu\u00f1oz Verdu, Jes\u00fas",
+    "finish_time": "01:23:25",
+    "finish_seconds": 5005
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 759,
+    "name": "Moreno, Daniel",
+    "finish_time": "01:23:33",
+    "finish_seconds": 5013
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 761,
+    "name": "Canu, Matthieu",
+    "finish_time": "01:23:34",
+    "finish_seconds": 5014
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 763,
+    "name": "Haba, Kevin",
+    "finish_time": "01:23:39",
+    "finish_seconds": 5019
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 765,
+    "name": "Evans, Rob",
+    "finish_time": "01:23:40",
+    "finish_seconds": 5020
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 767,
+    "name": "Molina Jaime, Julian",
+    "finish_time": "01:23:41",
+    "finish_seconds": 5021
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 769,
+    "name": "Su, Qiabin John",
+    "finish_time": "01:23:50",
+    "finish_seconds": 5030
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 771,
+    "name": "Mejias, Jonatan",
+    "finish_time": "01:23:53",
+    "finish_seconds": 5033
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 773,
+    "name": "Gallut Sanchez, Salvador",
+    "finish_time": "01:23:56",
+    "finish_seconds": 5036
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 775,
+    "name": "Novoa, David",
+    "finish_time": "01:24:01",
+    "finish_seconds": 5041
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 777,
+    "name": "Rueda, Alvaro",
+    "finish_time": "01:24:02",
+    "finish_seconds": 5042
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 779,
+    "name": "Salavert, Hector",
+    "finish_time": "01:24:06",
+    "finish_seconds": 5046
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 781,
+    "name": "Alberer, Lukas",
+    "finish_time": "01:24:08",
+    "finish_seconds": 5048
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 783,
+    "name": "Diaz Torralbo, Adri\u00e1n",
+    "finish_time": "01:24:09",
+    "finish_seconds": 5049
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 785,
+    "name": "Schicho, Thomas",
+    "finish_time": "01:24:20",
+    "finish_seconds": 5060
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 787,
+    "name": "Bezfamilnov, Maksym",
+    "finish_time": "01:24:21",
+    "finish_seconds": 5061
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 789,
+    "name": "Sills, Chris",
+    "finish_time": "01:24:25",
+    "finish_seconds": 5065
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 791,
+    "name": "Aicardi, Maxime",
+    "finish_time": "01:24:28",
+    "finish_seconds": 5068
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 793,
+    "name": "V\u00e1zquez, Aitor",
+    "finish_time": "01:24:28",
+    "finish_seconds": 5068
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 795,
+    "name": "Garrido, C\u00e9sar",
+    "finish_time": "01:24:30",
+    "finish_seconds": 5070
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 797,
+    "name": "Ruiu, Luca Salvatore",
+    "finish_time": "01:24:35",
+    "finish_seconds": 5075
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 799,
+    "name": "Castillo, Alfonso",
+    "finish_time": "01:24:40",
+    "finish_seconds": 5080
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 801,
+    "name": "Gomez Diaz, Roberto",
+    "finish_time": "01:24:46",
+    "finish_seconds": 5086
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 803,
+    "name": "L\u00f3pez L\u00f3pez, Roberto",
+    "finish_time": "01:24:51",
+    "finish_seconds": 5091
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 805,
+    "name": "Van De Brug, Bas",
+    "finish_time": "01:24:54",
+    "finish_seconds": 5094
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 807,
+    "name": "Sheridan, Conor",
+    "finish_time": "01:24:55",
+    "finish_seconds": 5095
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 808,
+    "name": "Garcia Fernandez, Miguel Angel",
+    "finish_time": "01:24:55",
+    "finish_seconds": 5095
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 811,
+    "name": "Pab\u00f3n, Ricardo",
+    "finish_time": "01:25:06",
+    "finish_seconds": 5106
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 813,
+    "name": "Mcclafferty, Finghin",
+    "finish_time": "01:25:08",
+    "finish_seconds": 5108
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 815,
+    "name": "Platt, Luke",
+    "finish_time": "01:25:11",
+    "finish_seconds": 5111
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 817,
+    "name": "Robinson, Chris",
+    "finish_time": "01:25:15",
+    "finish_seconds": 5115
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 819,
+    "name": "Osinga, Ivar",
+    "finish_time": "01:25:18",
+    "finish_seconds": 5118
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 821,
+    "name": "Buckland, Thomas",
+    "finish_time": "01:25:23",
+    "finish_seconds": 5123
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 823,
+    "name": "Marcano, Luis",
+    "finish_time": "01:25:28",
+    "finish_seconds": 5128
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 825,
+    "name": "Bili\u0144ski, Krzysztof",
+    "finish_time": "01:25:31",
+    "finish_seconds": 5131
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 827,
+    "name": "Lima Lorenzo, Benjamin",
+    "finish_time": "01:25:35",
+    "finish_seconds": 5135
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 829,
+    "name": "Dawson, Jonathan",
+    "finish_time": "01:25:43",
+    "finish_seconds": 5143
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 831,
+    "name": "Kamphuis, Tomas",
+    "finish_time": "01:25:44",
+    "finish_seconds": 5144
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 833,
+    "name": "Gentile, Roberto",
+    "finish_time": "01:25:47",
+    "finish_seconds": 5147
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 835,
+    "name": "O'Connor, Mark",
+    "finish_time": "01:25:48",
+    "finish_seconds": 5148
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 837,
+    "name": "Lima, Ant\u00f3nio",
+    "finish_time": "01:25:52",
+    "finish_seconds": 5152
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 839,
+    "name": "Gonz\u00e1lez Espinosa, Miguel Angel",
+    "finish_time": "01:25:57",
+    "finish_seconds": 5157
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 841,
+    "name": "Hern\u00e1ndez Sanz, Oriol",
+    "finish_time": "01:25:59",
+    "finish_seconds": 5159
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 843,
+    "name": "Mc Gowan, Diarmuid",
+    "finish_time": "01:26:01",
+    "finish_seconds": 5161
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 845,
+    "name": "San Jose, Ignacio",
+    "finish_time": "01:26:06",
+    "finish_seconds": 5166
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 847,
+    "name": "Ham, Marek",
+    "finish_time": "01:26:07",
+    "finish_seconds": 5167
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 849,
+    "name": "Drury, Paul",
+    "finish_time": "01:26:10",
+    "finish_seconds": 5170
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 851,
+    "name": "Hinds, Aaron",
+    "finish_time": "01:26:16",
+    "finish_seconds": 5176
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 853,
+    "name": "Adriaanse, Oliver",
+    "finish_time": "01:26:19",
+    "finish_seconds": 5179
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 855,
+    "name": "Garcia San Miguel, Ignacio",
+    "finish_time": "01:26:22",
+    "finish_seconds": 5182
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 857,
+    "name": "Medina Valle, Jos\u00e9",
+    "finish_time": "01:26:22",
+    "finish_seconds": 5182
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 859,
+    "name": "Bryant, Grant",
+    "finish_time": "01:26:25",
+    "finish_seconds": 5185
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 861,
+    "name": "Guillot, Rapha\u00ebl",
+    "finish_time": "01:26:28",
+    "finish_seconds": 5188
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 863,
+    "name": "Dairion, Bradley",
+    "finish_time": "01:26:30",
+    "finish_seconds": 5190
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 865,
+    "name": "Cazeres, Florian",
+    "finish_time": "01:26:32",
+    "finish_seconds": 5192
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 867,
+    "name": "Herrera Maya, Juan Diego",
+    "finish_time": "01:26:36",
+    "finish_seconds": 5196
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 869,
+    "name": "Medina, Santiago Felix",
+    "finish_time": "01:26:37",
+    "finish_seconds": 5197
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 871,
+    "name": "Canales, Axel",
+    "finish_time": "01:26:45",
+    "finish_seconds": 5205
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 873,
+    "name": "O'Brien, Tom",
+    "finish_time": "01:26:47",
+    "finish_seconds": 5207
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 875,
+    "name": "Essink, Wesley",
+    "finish_time": "01:26:51",
+    "finish_seconds": 5211
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 877,
+    "name": "Horgan, Niall",
+    "finish_time": "01:26:55",
+    "finish_seconds": 5215
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 879,
+    "name": "Kosin, Joel Oghenefejiro",
+    "finish_time": "01:27:01",
+    "finish_seconds": 5221
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 881,
+    "name": "Fern\u00e1ndez, David",
+    "finish_time": "01:27:13",
+    "finish_seconds": 5233
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 883,
+    "name": "Zamora Romero, Pablo",
+    "finish_time": "01:27:22",
+    "finish_seconds": 5242
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 885,
+    "name": "Van Dam, Pepijn",
+    "finish_time": "01:27:23",
+    "finish_seconds": 5243
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 887,
+    "name": "Dieguez, Ulrich",
+    "finish_time": "01:27:28",
+    "finish_seconds": 5248
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 889,
+    "name": "Bes\u00f3, Oscar",
+    "finish_time": "01:27:35",
+    "finish_seconds": 5255
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 891,
+    "name": "Bougault, Nicolas",
+    "finish_time": "01:27:40",
+    "finish_seconds": 5260
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 893,
+    "name": "Borb\u00e9ly, Richard",
+    "finish_time": "01:27:41",
+    "finish_seconds": 5261
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 895,
+    "name": "Stomp, Bodhi",
+    "finish_time": "01:27:43",
+    "finish_seconds": 5263
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 897,
+    "name": "Knight, Montgomery",
+    "finish_time": "01:27:47",
+    "finish_seconds": 5267
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 899,
+    "name": "Cobbaert, Timothy",
+    "finish_time": "01:27:53",
+    "finish_seconds": 5273
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 901,
+    "name": "France, Luke",
+    "finish_time": "01:27:55",
+    "finish_seconds": 5275
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 903,
+    "name": "L\u00f3pez Mellado, Pedro",
+    "finish_time": "01:27:55",
+    "finish_seconds": 5275
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 905,
+    "name": "Mc Mahon, Kieran",
+    "finish_time": "01:28:02",
+    "finish_seconds": 5282
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 907,
+    "name": "Conlon, Stephen",
+    "finish_time": "01:28:07",
+    "finish_seconds": 5287
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 909,
+    "name": "Stone, Patrick",
+    "finish_time": "01:28:14",
+    "finish_seconds": 5294
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 911,
+    "name": "Romero Dignoes, Alberto",
+    "finish_time": "01:28:15",
+    "finish_seconds": 5295
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 913,
+    "name": "Mancha I Illa, Aleix",
+    "finish_time": "01:28:18",
+    "finish_seconds": 5298
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 915,
+    "name": "Robinson, James",
+    "finish_time": "01:28:20",
+    "finish_seconds": 5300
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 917,
+    "name": "Sevilla, Jose Maria",
+    "finish_time": "01:28:22",
+    "finish_seconds": 5302
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 919,
+    "name": "Reeser, Collin",
+    "finish_time": "01:28:25",
+    "finish_seconds": 5305
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 921,
+    "name": "Vergauwen, Xander",
+    "finish_time": "01:28:27",
+    "finish_seconds": 5307
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 923,
+    "name": "Meireles, Luc",
+    "finish_time": "01:28:28",
+    "finish_seconds": 5308
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 925,
+    "name": "White, Steve",
+    "finish_time": "01:28:29",
+    "finish_seconds": 5309
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 927,
+    "name": "Clari, Salva",
+    "finish_time": "01:28:32",
+    "finish_seconds": 5312
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 929,
+    "name": "Lecumberri Rodriguez, Javier",
+    "finish_time": "01:28:39",
+    "finish_seconds": 5319
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 931,
+    "name": "Garcia, Alexander",
+    "finish_time": "01:28:40",
+    "finish_seconds": 5320
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 933,
+    "name": "Worrall, Chris",
+    "finish_time": "01:28:43",
+    "finish_seconds": 5323
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 935,
+    "name": "Cruz Carmona, Ruben",
+    "finish_time": "01:28:45",
+    "finish_seconds": 5325
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 937,
+    "name": "Su\u0142kowski, Piotr",
+    "finish_time": "01:28:47",
+    "finish_seconds": 5327
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 939,
+    "name": "Munoz, Fran",
+    "finish_time": "01:28:50",
+    "finish_seconds": 5330
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 941,
+    "name": "Carballido Souto, David",
+    "finish_time": "01:28:53",
+    "finish_seconds": 5333
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 943,
+    "name": "Nagy, Laszlo",
+    "finish_time": "01:28:57",
+    "finish_seconds": 5337
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 945,
+    "name": "Cobo, Manolo",
+    "finish_time": "01:29:04",
+    "finish_seconds": 5344
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 947,
+    "name": "Pleguezuelos Marti, Guillermo",
+    "finish_time": "01:29:09",
+    "finish_seconds": 5349
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 949,
+    "name": "Dur\u00e1, Fernando",
+    "finish_time": "01:29:10",
+    "finish_seconds": 5350
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 951,
+    "name": "Luo, Thomas",
+    "finish_time": "01:29:12",
+    "finish_seconds": 5352
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 953,
+    "name": "Wood, Tom",
+    "finish_time": "01:29:13",
+    "finish_seconds": 5353
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 955,
+    "name": "Alameda, Juan",
+    "finish_time": "01:29:15",
+    "finish_seconds": 5355
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 957,
+    "name": "Requena, Alejandro",
+    "finish_time": "01:29:16",
+    "finish_seconds": 5356
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 959,
+    "name": "Novoa Villoria, David",
+    "finish_time": "01:29:19",
+    "finish_seconds": 5359
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 961,
+    "name": "Jangra, Sandeep",
+    "finish_time": "01:29:23",
+    "finish_seconds": 5363
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 963,
+    "name": "Palomero Hern\u00e1ndez, Marcos",
+    "finish_time": "01:29:24",
+    "finish_seconds": 5364
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 965,
+    "name": "Enault, F\u00e9lix",
+    "finish_time": "01:29:27",
+    "finish_seconds": 5367
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 967,
+    "name": "Drane, Kieren",
+    "finish_time": "01:29:35",
+    "finish_seconds": 5375
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 969,
+    "name": "Carbonell Buj, Andres",
+    "finish_time": "01:29:45",
+    "finish_seconds": 5385
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 971,
+    "name": "Rojo, Gaston M.",
+    "finish_time": "01:29:47",
+    "finish_seconds": 5387
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 973,
+    "name": "Marco, Javi",
+    "finish_time": "01:29:56",
+    "finish_seconds": 5396
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 975,
+    "name": "Mu\u00f1oz, Jose",
+    "finish_time": "01:30:01",
+    "finish_seconds": 5401
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 977,
+    "name": "Romano Catalan, Javier",
+    "finish_time": "01:30:04",
+    "finish_seconds": 5404
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 979,
+    "name": "Oliveira, Daniel",
+    "finish_time": "01:30:06",
+    "finish_seconds": 5406
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 981,
+    "name": "Brindle, Dan",
+    "finish_time": "01:30:14",
+    "finish_seconds": 5414
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 983,
+    "name": "Real, Ernest",
+    "finish_time": "01:30:17",
+    "finish_seconds": 5417
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 985,
+    "name": "Slater, Anthony",
+    "finish_time": "01:30:20",
+    "finish_seconds": 5420
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 987,
+    "name": "Speziga, Emanuele",
+    "finish_time": "01:30:22",
+    "finish_seconds": 5422
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 989,
+    "name": "Ainsworth, Josh",
+    "finish_time": "01:30:25",
+    "finish_seconds": 5425
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 991,
+    "name": "Owen, Sion",
+    "finish_time": "01:30:27",
+    "finish_seconds": 5427
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 993,
+    "name": "Malagon, Eros",
+    "finish_time": "01:30:30",
+    "finish_seconds": 5430
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 995,
+    "name": "Pe\u00f1a Pitarch, Unai",
+    "finish_time": "01:30:33",
+    "finish_seconds": 5433
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 997,
+    "name": "Alonso Diaz, Ricardo",
+    "finish_time": "01:30:36",
+    "finish_seconds": 5436
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 999,
+    "name": "Mingorance Lopez, Carlos",
+    "finish_time": "01:30:37",
+    "finish_seconds": 5437
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1001,
+    "name": "Camarasaltas P\u00e9rez, Antonio",
+    "finish_time": "01:30:42",
+    "finish_seconds": 5442
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1003,
+    "name": "Mehsein, Johan",
+    "finish_time": "01:30:44",
+    "finish_seconds": 5444
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1005,
+    "name": "Jos\u00e9 \u00c1ngel De La Puente, Jos\u00e9 \u00c1ngel De La Puente",
+    "finish_time": "01:30:46",
+    "finish_seconds": 5446
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1007,
+    "name": "Aroz, Daniel",
+    "finish_time": "01:30:48",
+    "finish_seconds": 5448
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1009,
+    "name": "Garner, Eddie",
+    "finish_time": "01:30:50",
+    "finish_seconds": 5450
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1011,
+    "name": "Mart\u00ed, Alejandro",
+    "finish_time": "01:30:51",
+    "finish_seconds": 5451
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1013,
+    "name": "Palomares, Alejandro",
+    "finish_time": "01:30:55",
+    "finish_seconds": 5455
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1015,
+    "name": "Aguilar, Jose Luis",
+    "finish_time": "01:31:01",
+    "finish_seconds": 5461
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1017,
+    "name": "Codyre, Stephen",
+    "finish_time": "01:31:04",
+    "finish_seconds": 5464
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1019,
+    "name": "Franco, Dario",
+    "finish_time": "01:31:07",
+    "finish_seconds": 5467
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1021,
+    "name": "Rios, Daniel",
+    "finish_time": "01:31:08",
+    "finish_seconds": 5468
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1023,
+    "name": "Trumper, Damon",
+    "finish_time": "01:31:25",
+    "finish_seconds": 5485
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1025,
+    "name": "Vera Ram\u00f3n, Juan Carlos",
+    "finish_time": "01:31:29",
+    "finish_seconds": 5489
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1027,
+    "name": "Garcia Herman, Ivan",
+    "finish_time": "01:31:34",
+    "finish_seconds": 5494
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1029,
+    "name": "Hilder, Henry",
+    "finish_time": "01:31:34",
+    "finish_seconds": 5494
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1031,
+    "name": "Ojeda Almenar, Adrian",
+    "finish_time": "01:31:46",
+    "finish_seconds": 5506
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1033,
+    "name": "Mcguinness, Barry",
+    "finish_time": "01:31:50",
+    "finish_seconds": 5510
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1035,
+    "name": "Little, Nigel",
+    "finish_time": "01:31:55",
+    "finish_seconds": 5515
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1037,
+    "name": "Gomez Yuste, Juan Francisco",
+    "finish_time": "01:31:58",
+    "finish_seconds": 5518
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1039,
+    "name": "Gohier, Wilfried",
+    "finish_time": "01:32:03",
+    "finish_seconds": 5523
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1041,
+    "name": "Perez, Mauricio (Peche)",
+    "finish_time": "01:32:07",
+    "finish_seconds": 5527
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1043,
+    "name": "Risso, Fred",
+    "finish_time": "01:32:09",
+    "finish_seconds": 5529
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1045,
+    "name": "Greenan, Conor",
+    "finish_time": "01:32:23",
+    "finish_seconds": 5543
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1047,
+    "name": "Gibbs, Chris",
+    "finish_time": "01:32:27",
+    "finish_seconds": 5547
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1049,
+    "name": "Van Mechelen, Harm",
+    "finish_time": "01:32:31",
+    "finish_seconds": 5551
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1051,
+    "name": "Lambrias, Christos",
+    "finish_time": "01:32:34",
+    "finish_seconds": 5554
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1053,
+    "name": "Soliva, Omar",
+    "finish_time": "01:32:36",
+    "finish_seconds": 5556
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1055,
+    "name": "Noguerol, Gonzalo",
+    "finish_time": "01:32:41",
+    "finish_seconds": 5561
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1057,
+    "name": "Ryle, Louis",
+    "finish_time": "01:32:45",
+    "finish_seconds": 5565
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1059,
+    "name": "Lichtenegger, Daniel",
+    "finish_time": "01:32:48",
+    "finish_seconds": 5568
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1061,
+    "name": "Luknar, Jan",
+    "finish_time": "01:32:52",
+    "finish_seconds": 5572
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1063,
+    "name": "Barberan, Antonio",
+    "finish_time": "01:32:57",
+    "finish_seconds": 5577
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1065,
+    "name": "Phillips, Nick",
+    "finish_time": "01:33:03",
+    "finish_seconds": 5583
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1067,
+    "name": "Fava, Fabrizio",
+    "finish_time": "01:33:04",
+    "finish_seconds": 5584
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1069,
+    "name": "Ryan, John",
+    "finish_time": "01:33:07",
+    "finish_seconds": 5587
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1071,
+    "name": "Ochando, Jacobo",
+    "finish_time": "01:33:09",
+    "finish_seconds": 5589
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1073,
+    "name": "O'Dwyer, Nick",
+    "finish_time": "01:33:14",
+    "finish_seconds": 5594
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1075,
+    "name": "Lee, Gerry",
+    "finish_time": "01:33:16",
+    "finish_seconds": 5596
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1077,
+    "name": "Gonzalez, German Dario",
+    "finish_time": "01:33:17",
+    "finish_seconds": 5597
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1079,
+    "name": "Ramirez, Manuel",
+    "finish_time": "01:33:22",
+    "finish_seconds": 5602
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1081,
+    "name": "Mcardle, Marc",
+    "finish_time": "01:33:27",
+    "finish_seconds": 5607
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1083,
+    "name": "Willingale, Adam",
+    "finish_time": "01:33:29",
+    "finish_seconds": 5609
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1085,
+    "name": "Svoboda, Pavel",
+    "finish_time": "01:33:34",
+    "finish_seconds": 5614
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1087,
+    "name": "Contreras, Maximiliano",
+    "finish_time": "01:33:35",
+    "finish_seconds": 5615
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1089,
+    "name": "Mccormack, Rory",
+    "finish_time": "01:33:42",
+    "finish_seconds": 5622
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1091,
+    "name": "Dunlea, Diarmuid",
+    "finish_time": "01:33:44",
+    "finish_seconds": 5624
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1093,
+    "name": "Matthes, Marcel",
+    "finish_time": "01:33:51",
+    "finish_seconds": 5631
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1095,
+    "name": "El Maamari, Marcello",
+    "finish_time": "01:33:57",
+    "finish_seconds": 5637
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1097,
+    "name": "Neilson, Robbie",
+    "finish_time": "01:34:00",
+    "finish_seconds": 5640
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1099,
+    "name": "L\u00f3pez Garc\u00eda, Antonio \u00c1ngel",
+    "finish_time": "01:34:01",
+    "finish_seconds": 5641
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1101,
+    "name": "Forjan, Denis",
+    "finish_time": "01:34:05",
+    "finish_seconds": 5645
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1103,
+    "name": "Nier, Robin",
+    "finish_time": "01:34:11",
+    "finish_seconds": 5651
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1105,
+    "name": "Sousa, Alexandre",
+    "finish_time": "01:34:12",
+    "finish_seconds": 5652
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1107,
+    "name": "Ramirez, Carlos",
+    "finish_time": "01:34:12",
+    "finish_seconds": 5652
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1109,
+    "name": "Shelly, Michael",
+    "finish_time": "01:34:15",
+    "finish_seconds": 5655
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1111,
+    "name": "Santander Escandell, Joaquin",
+    "finish_time": "01:34:26",
+    "finish_seconds": 5666
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1113,
+    "name": "Reynolds, Tom",
+    "finish_time": "01:34:27",
+    "finish_seconds": 5667
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1115,
+    "name": "Sandua, Rodrigo",
+    "finish_time": "01:34:32",
+    "finish_seconds": 5672
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1117,
+    "name": "Vignon, Nicolas",
+    "finish_time": "01:34:34",
+    "finish_seconds": 5674
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1119,
+    "name": "Van Dam, Tijn",
+    "finish_time": "01:34:37",
+    "finish_seconds": 5677
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1121,
+    "name": "Llinares, Joan",
+    "finish_time": "01:34:41",
+    "finish_seconds": 5681
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1123,
+    "name": "Peri\u00f1\u00e1n Lozano, Ricardo Manuel",
+    "finish_time": "01:34:45",
+    "finish_seconds": 5685
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1125,
+    "name": "Gillanders, Mark",
+    "finish_time": "01:34:48",
+    "finish_seconds": 5688
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1127,
+    "name": "Luks, Dominik",
+    "finish_time": "01:34:54",
+    "finish_seconds": 5694
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1129,
+    "name": "Cajaraville Dapena, Pablo",
+    "finish_time": "01:34:58",
+    "finish_seconds": 5698
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1131,
+    "name": "Gil, Carlos",
+    "finish_time": "01:35:02",
+    "finish_seconds": 5702
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1133,
+    "name": "G\u00f3mez, Gonzalo",
+    "finish_time": "01:35:11",
+    "finish_seconds": 5711
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1135,
+    "name": "Hibberd, Dale",
+    "finish_time": "01:35:13",
+    "finish_seconds": 5713
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1137,
+    "name": "I\u0142owiecki, Mateusz",
+    "finish_time": "01:35:15",
+    "finish_seconds": 5715
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1139,
+    "name": "Galv\u00e1n, Nahuel",
+    "finish_time": "01:35:21",
+    "finish_seconds": 5721
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1141,
+    "name": "Friendwijk, Glenn",
+    "finish_time": "01:35:24",
+    "finish_seconds": 5724
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1143,
+    "name": "Ferrer, Jorge",
+    "finish_time": "01:35:27",
+    "finish_seconds": 5727
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1145,
+    "name": "Stewart, George",
+    "finish_time": "01:35:30",
+    "finish_seconds": 5730
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1147,
+    "name": "Trafankowski, Joseph",
+    "finish_time": "01:35:36",
+    "finish_seconds": 5736
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1149,
+    "name": "Connolly, Dave",
+    "finish_time": "01:35:42",
+    "finish_seconds": 5742
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1151,
+    "name": "Xanc\u00f3, Marc",
+    "finish_time": "01:35:43",
+    "finish_seconds": 5743
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1153,
+    "name": "Tam, Steven",
+    "finish_time": "01:35:51",
+    "finish_seconds": 5751
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1155,
+    "name": "S\u00e1nchez, Rodrigo",
+    "finish_time": "01:35:59",
+    "finish_seconds": 5759
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1157,
+    "name": "Dealberto, Marco",
+    "finish_time": "01:36:05",
+    "finish_seconds": 5765
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1159,
+    "name": "Garc\u00eda, Jose Luis",
+    "finish_time": "01:36:14",
+    "finish_seconds": 5774
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1161,
+    "name": "Richards, Dominic",
+    "finish_time": "01:36:18",
+    "finish_seconds": 5778
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1163,
+    "name": "Holmes, Mark",
+    "finish_time": "01:36:20",
+    "finish_seconds": 5780
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1165,
+    "name": "Diaby, Kandioura",
+    "finish_time": "01:36:28",
+    "finish_seconds": 5788
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1167,
+    "name": "Ojeda, Carlos",
+    "finish_time": "01:36:38",
+    "finish_seconds": 5798
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1169,
+    "name": "Sahin, Cagatay",
+    "finish_time": "01:36:38",
+    "finish_seconds": 5798
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1171,
+    "name": "Harman, Alex",
+    "finish_time": "01:36:42",
+    "finish_seconds": 5802
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1173,
+    "name": "Alfarano, Angelo",
+    "finish_time": "01:36:52",
+    "finish_seconds": 5812
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1175,
+    "name": "Mousafiris (Mousa), Thanasis",
+    "finish_time": "01:36:53",
+    "finish_seconds": 5813
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1177,
+    "name": "Allen, Noisy Noel",
+    "finish_time": "01:37:02",
+    "finish_seconds": 5822
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "M",
+    "rank": 1179,
+    "name": "Audley, Chris",
+    "finish_time": "01:37:15",
+    "finish_seconds": 5835
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 1,
+    "name": "Healiss, Isabelle",
+    "finish_time": "01:03:25",
+    "finish_seconds": 3805
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 3,
+    "name": "Moynihan, Kate",
+    "finish_time": "01:05:16",
+    "finish_seconds": 3916
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 5,
+    "name": "Bishop, Sarah",
+    "finish_time": "01:07:57",
+    "finish_seconds": 4077
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 7,
+    "name": "Louis, Alexandra",
+    "finish_time": "01:08:20",
+    "finish_seconds": 4100
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 9,
+    "name": "Neto, Filipa",
+    "finish_time": "01:08:28",
+    "finish_seconds": 4108
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 11,
+    "name": "Albinyana Teruel, Davinia",
+    "finish_time": "01:09:47",
+    "finish_seconds": 4187
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 13,
+    "name": "Gillman, Lisa",
+    "finish_time": "01:10:12",
+    "finish_seconds": 4212
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 15,
+    "name": "Joya Bedoya, Sandra Isabel",
+    "finish_time": "01:10:48",
+    "finish_seconds": 4248
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 17,
+    "name": "Barros, Zeza",
+    "finish_time": "01:11:11",
+    "finish_seconds": 4271
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 19,
+    "name": "Le Squeren, Melanie",
+    "finish_time": "01:11:40",
+    "finish_seconds": 4300
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 21,
+    "name": "Cali, Elodie",
+    "finish_time": "01:11:51",
+    "finish_seconds": 4311
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 23,
+    "name": "Barthelemy, Julie",
+    "finish_time": "01:12:16",
+    "finish_seconds": 4336
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 25,
+    "name": "Schl\u00f6glmann, Anna",
+    "finish_time": "01:12:27",
+    "finish_seconds": 4347
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 27,
+    "name": "Mu\u00f1oz Toro, Isabel",
+    "finish_time": "01:12:33",
+    "finish_seconds": 4353
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 29,
+    "name": "Mc Laughlin, Lisa",
+    "finish_time": "01:12:54",
+    "finish_seconds": 4374
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 31,
+    "name": "Golden, Roisin",
+    "finish_time": "01:12:57",
+    "finish_seconds": 4377
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 33,
+    "name": "Sigala, Natalia",
+    "finish_time": "01:13:04",
+    "finish_seconds": 4384
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 35,
+    "name": "De Conno, Georgia",
+    "finish_time": "01:13:29",
+    "finish_seconds": 4409
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 37,
+    "name": "Bichsel, Beatrice",
+    "finish_time": "01:13:55",
+    "finish_seconds": 4435
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 39,
+    "name": "Marques, Joana",
+    "finish_time": "01:14:07",
+    "finish_seconds": 4447
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 41,
+    "name": "Abrio Gomez, Manuela",
+    "finish_time": "01:14:31",
+    "finish_seconds": 4471
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 43,
+    "name": "Sj\u00f6str\u00f6m, Frida",
+    "finish_time": "01:14:38",
+    "finish_seconds": 4478
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 45,
+    "name": "Anaya Mart\u00ednez, Mar\u00eda",
+    "finish_time": "01:14:40",
+    "finish_seconds": 4480
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 47,
+    "name": "Oliveira, Joana",
+    "finish_time": "01:14:54",
+    "finish_seconds": 4494
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 49,
+    "name": "Romero Pe\u00f1o, Sandra",
+    "finish_time": "01:15:08",
+    "finish_seconds": 4508
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 51,
+    "name": "Yu, Zhuang",
+    "finish_time": "01:15:20",
+    "finish_seconds": 4520
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 53,
+    "name": "Colomer, Maika",
+    "finish_time": "01:15:38",
+    "finish_seconds": 4538
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 55,
+    "name": "Soroa, Irati",
+    "finish_time": "01:15:49",
+    "finish_seconds": 4549
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 57,
+    "name": "Andreini, Valeria",
+    "finish_time": "01:16:02",
+    "finish_seconds": 4562
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 59,
+    "name": "Lahaise, Charlotte",
+    "finish_time": "01:16:10",
+    "finish_seconds": 4570
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 61,
+    "name": "Andr\u00e4, Martina",
+    "finish_time": "01:16:53",
+    "finish_seconds": 4613
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 63,
+    "name": "Le Clainche, Manon",
+    "finish_time": "01:17:01",
+    "finish_seconds": 4621
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 65,
+    "name": "Ruiz Latorre, Lucia",
+    "finish_time": "01:17:02",
+    "finish_seconds": 4622
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 67,
+    "name": "Hayes, Denise",
+    "finish_time": "01:17:24",
+    "finish_seconds": 4644
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 69,
+    "name": "Sarasua, Maialen",
+    "finish_time": "01:17:25",
+    "finish_seconds": 4645
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 71,
+    "name": "Fernandez Pelaz, Ainara",
+    "finish_time": "01:17:32",
+    "finish_seconds": 4652
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 73,
+    "name": "Oros Vila, Isabel",
+    "finish_time": "01:17:40",
+    "finish_seconds": 4660
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 75,
+    "name": "Munt Rom\u00e1n, Helena",
+    "finish_time": "01:17:40",
+    "finish_seconds": 4660
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 77,
+    "name": "Feugas, Emilie",
+    "finish_time": "01:17:50",
+    "finish_seconds": 4670
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 79,
+    "name": "Gonz\u00e1lez Herrero, Ana",
+    "finish_time": "01:18:18",
+    "finish_seconds": 4698
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 81,
+    "name": "Ward, Danie",
+    "finish_time": "01:18:25",
+    "finish_seconds": 4705
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 83,
+    "name": "Cannon, India",
+    "finish_time": "01:18:34",
+    "finish_seconds": 4714
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 85,
+    "name": "Tungate, Elizabeth",
+    "finish_time": "01:18:39",
+    "finish_seconds": 4719
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 87,
+    "name": "Morrow, Abigail",
+    "finish_time": "01:18:43",
+    "finish_seconds": 4723
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 89,
+    "name": "Dobon Hernandez, Marina",
+    "finish_time": "01:18:53",
+    "finish_seconds": 4733
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 91,
+    "name": "Ruiz Martinez, Amanda",
+    "finish_time": "01:18:58",
+    "finish_seconds": 4738
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 93,
+    "name": "Rodr\u00edguez Barreira, Luc\u00eda",
+    "finish_time": "01:19:04",
+    "finish_seconds": 4744
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 95,
+    "name": "Reeves, Rachel",
+    "finish_time": "01:19:10",
+    "finish_seconds": 4750
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 97,
+    "name": "Mor\u00e1n Saras, Celia",
+    "finish_time": "01:19:14",
+    "finish_seconds": 4754
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 99,
+    "name": "Ackroyd, Abi",
+    "finish_time": "01:19:16",
+    "finish_seconds": 4756
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 101,
+    "name": "Faassen, Manouk",
+    "finish_time": "01:19:19",
+    "finish_seconds": 4759
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 103,
+    "name": "Luna, In\u00e9s",
+    "finish_time": "01:19:31",
+    "finish_seconds": 4771
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 105,
+    "name": "Tutty, Lucia-Grace",
+    "finish_time": "01:19:38",
+    "finish_seconds": 4778
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 107,
+    "name": "Doyle, Marie-Claire",
+    "finish_time": "01:19:50",
+    "finish_seconds": 4790
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 109,
+    "name": "Van Eynde, Chrisje",
+    "finish_time": "01:19:54",
+    "finish_seconds": 4794
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 111,
+    "name": "Gonzalo, Silvia",
+    "finish_time": "01:20:09",
+    "finish_seconds": 4809
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 113,
+    "name": "Hern\u00e1ndez Garc\u00eda-Cuenca, Marina",
+    "finish_time": "01:20:16",
+    "finish_seconds": 4816
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 115,
+    "name": "Mckenna, Cara",
+    "finish_time": "01:20:23",
+    "finish_seconds": 4823
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 117,
+    "name": "Hardy, Natalie",
+    "finish_time": "01:20:40",
+    "finish_seconds": 4840
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 119,
+    "name": "Desreumaux, Ana\u00efs",
+    "finish_time": "01:20:42",
+    "finish_seconds": 4842
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 121,
+    "name": "Martin, Chloe",
+    "finish_time": "01:20:50",
+    "finish_seconds": 4850
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 123,
+    "name": "Gander, Louise",
+    "finish_time": "01:20:56",
+    "finish_seconds": 4856
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 125,
+    "name": "Holosna, Svitlana",
+    "finish_time": "01:21:11",
+    "finish_seconds": 4871
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 127,
+    "name": "Serna, Mapi",
+    "finish_time": "01:21:19",
+    "finish_seconds": 4879
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 129,
+    "name": "Penot, Justine",
+    "finish_time": "01:21:21",
+    "finish_seconds": 4881
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 131,
+    "name": "Rotariu, Georgiana",
+    "finish_time": "01:21:29",
+    "finish_seconds": 4889
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 133,
+    "name": "Lamiaux, Tiphaine",
+    "finish_time": "01:21:34",
+    "finish_seconds": 4894
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 135,
+    "name": "Sokol, Julia",
+    "finish_time": "01:21:44",
+    "finish_seconds": 4904
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 137,
+    "name": "Catusse, Adeline",
+    "finish_time": "01:21:49",
+    "finish_seconds": 4909
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 139,
+    "name": "Sinnitsch, Michaela",
+    "finish_time": "01:22:00",
+    "finish_seconds": 4920
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 141,
+    "name": "Alves, Daniela",
+    "finish_time": "01:22:14",
+    "finish_seconds": 4934
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 143,
+    "name": "Picard, Lucie",
+    "finish_time": "01:22:24",
+    "finish_seconds": 4944
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 145,
+    "name": "Mcguinness, Louise",
+    "finish_time": "01:22:33",
+    "finish_seconds": 4953
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 147,
+    "name": "Undhjem, Monica",
+    "finish_time": "01:22:37",
+    "finish_seconds": 4957
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 149,
+    "name": "Savage, Cara",
+    "finish_time": "01:22:40",
+    "finish_seconds": 4960
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 151,
+    "name": "Cullinane, Aileen",
+    "finish_time": "01:22:50",
+    "finish_seconds": 4970
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 153,
+    "name": "Bright, Leah",
+    "finish_time": "01:22:59",
+    "finish_seconds": 4979
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 155,
+    "name": "Besseling, Mandy",
+    "finish_time": "01:23:03",
+    "finish_seconds": 4983
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 157,
+    "name": "Police, Oc\u00e9ane",
+    "finish_time": "01:23:09",
+    "finish_seconds": 4989
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 159,
+    "name": "Auer Di Gaspero, Andrea",
+    "finish_time": "01:23:15",
+    "finish_seconds": 4995
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 161,
+    "name": "Mulligan-Johnson, Lori",
+    "finish_time": "01:23:26",
+    "finish_seconds": 5006
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 163,
+    "name": "Beal, Laura",
+    "finish_time": "01:23:43",
+    "finish_seconds": 5023
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 165,
+    "name": "Bartret, Teresa",
+    "finish_time": "01:23:47",
+    "finish_seconds": 5027
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 167,
+    "name": "Verbeiren, Katrien",
+    "finish_time": "01:23:49",
+    "finish_seconds": 5029
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 169,
+    "name": "Coelho, Sofia",
+    "finish_time": "01:23:52",
+    "finish_seconds": 5032
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 171,
+    "name": "Reverte Mondejar, Carmen",
+    "finish_time": "01:23:59",
+    "finish_seconds": 5039
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 173,
+    "name": "Acuna Dengo, Ana",
+    "finish_time": "01:24:01",
+    "finish_seconds": 5041
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 175,
+    "name": "Arevalo, Teresa",
+    "finish_time": "01:24:01",
+    "finish_seconds": 5041
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 177,
+    "name": "Cocchiara, Alessia",
+    "finish_time": "01:24:06",
+    "finish_seconds": 5046
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 179,
+    "name": "Bertolino, Evelin",
+    "finish_time": "01:24:09",
+    "finish_seconds": 5049
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 181,
+    "name": "Carpi, M\u00aa Jos\u00e9",
+    "finish_time": "01:24:18",
+    "finish_seconds": 5058
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 183,
+    "name": "Teall, Charlotte",
+    "finish_time": "01:24:42",
+    "finish_seconds": 5082
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 185,
+    "name": "Noguera, Lucia",
+    "finish_time": "01:24:45",
+    "finish_seconds": 5085
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 187,
+    "name": "Zilizi, Jasmin",
+    "finish_time": "01:24:55",
+    "finish_seconds": 5095
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 189,
+    "name": "Housden, Maddie",
+    "finish_time": "01:24:59",
+    "finish_seconds": 5099
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 191,
+    "name": "Poole, Amy",
+    "finish_time": "01:25:01",
+    "finish_seconds": 5101
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 193,
+    "name": "Gillanders, Lillyann",
+    "finish_time": "01:25:17",
+    "finish_seconds": 5117
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 195,
+    "name": "Coelho, Sara",
+    "finish_time": "01:25:23",
+    "finish_seconds": 5123
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 197,
+    "name": "Porres Barcel\u00f3, Sara",
+    "finish_time": "01:25:27",
+    "finish_seconds": 5127
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 199,
+    "name": "Hopkins, Sophie",
+    "finish_time": "01:25:36",
+    "finish_seconds": 5136
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 201,
+    "name": "Doria Modena, Anouk",
+    "finish_time": "01:25:45",
+    "finish_seconds": 5145
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 203,
+    "name": "Van Den Hout, Jara",
+    "finish_time": "01:26:07",
+    "finish_seconds": 5167
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 205,
+    "name": "Orlovska, Anastasiia",
+    "finish_time": "01:26:10",
+    "finish_seconds": 5170
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 207,
+    "name": "Alves, Mariana",
+    "finish_time": "01:26:12",
+    "finish_seconds": 5172
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 209,
+    "name": "Jones, Louise",
+    "finish_time": "01:26:13",
+    "finish_seconds": 5173
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 211,
+    "name": "Williams, Megan",
+    "finish_time": "01:26:19",
+    "finish_seconds": 5179
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 213,
+    "name": "Walsh, Ciara",
+    "finish_time": "01:26:26",
+    "finish_seconds": 5186
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 215,
+    "name": "Teber, Melda",
+    "finish_time": "01:26:28",
+    "finish_seconds": 5188
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 217,
+    "name": "Dunne, Louise",
+    "finish_time": "01:26:33",
+    "finish_seconds": 5193
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 219,
+    "name": "Hardy, Niamh",
+    "finish_time": "01:26:42",
+    "finish_seconds": 5202
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 221,
+    "name": "Lepore, Leonela",
+    "finish_time": "01:26:46",
+    "finish_seconds": 5206
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 223,
+    "name": "G\u00f3rniak, Agnieszka",
+    "finish_time": "01:26:48",
+    "finish_seconds": 5208
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 225,
+    "name": "Pardo P\u00e9rez, Lucia",
+    "finish_time": "01:26:54",
+    "finish_seconds": 5214
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 227,
+    "name": "Rivas Medina, Elena",
+    "finish_time": "01:26:58",
+    "finish_seconds": 5218
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 229,
+    "name": "Alvarez Roger, Andrea",
+    "finish_time": "01:27:11",
+    "finish_seconds": 5231
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 231,
+    "name": "Garrido, Gema",
+    "finish_time": "01:27:16",
+    "finish_seconds": 5236
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 233,
+    "name": "James, Kate",
+    "finish_time": "01:27:19",
+    "finish_seconds": 5239
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 235,
+    "name": "Jover Fernandez, Noemi",
+    "finish_time": "01:27:27",
+    "finish_seconds": 5247
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 237,
+    "name": "Emmermann, Sarah",
+    "finish_time": "01:27:29",
+    "finish_seconds": 5249
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 239,
+    "name": "Fern\u00e1ndez Flores, Isabel",
+    "finish_time": "01:27:35",
+    "finish_seconds": 5255
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 241,
+    "name": "Ramirez, Alexandria",
+    "finish_time": "01:27:44",
+    "finish_seconds": 5264
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 243,
+    "name": "Werrett, Sadie",
+    "finish_time": "01:27:46",
+    "finish_seconds": 5266
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 245,
+    "name": "Onesti, Katia",
+    "finish_time": "01:27:51",
+    "finish_seconds": 5271
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 247,
+    "name": "Butcher, Rebeca",
+    "finish_time": "01:28:06",
+    "finish_seconds": 5286
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 249,
+    "name": "Quisca Mejia, Daisy Koak",
+    "finish_time": "01:28:14",
+    "finish_seconds": 5294
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 251,
+    "name": "Tolosa, Catalina",
+    "finish_time": "01:28:19",
+    "finish_seconds": 5299
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 253,
+    "name": "Griffith-Elliott, Onika",
+    "finish_time": "01:28:22",
+    "finish_seconds": 5302
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 255,
+    "name": "Spisiakova, Andrea",
+    "finish_time": "01:28:24",
+    "finish_seconds": 5304
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 257,
+    "name": "Garc\u00eda, Marta",
+    "finish_time": "01:28:25",
+    "finish_seconds": 5305
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 259,
+    "name": "Low, Stephie Megan",
+    "finish_time": "01:28:29",
+    "finish_seconds": 5309
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 261,
+    "name": "Juaristi Etxabe, Alaia",
+    "finish_time": "01:28:36",
+    "finish_seconds": 5316
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 263,
+    "name": "Staunton, Ciara",
+    "finish_time": "01:28:44",
+    "finish_seconds": 5324
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 265,
+    "name": "Hordijk, Emily",
+    "finish_time": "01:28:48",
+    "finish_seconds": 5328
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 267,
+    "name": "Plasencia Garcia-Checa, Maria Lourdes",
+    "finish_time": "01:28:50",
+    "finish_seconds": 5330
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 269,
+    "name": "Bruno, Sara",
+    "finish_time": "01:29:07",
+    "finish_seconds": 5347
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 271,
+    "name": "Rueff, Emilie",
+    "finish_time": "01:29:16",
+    "finish_seconds": 5356
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 273,
+    "name": "Ballester Villanueva, Patro",
+    "finish_time": "01:29:23",
+    "finish_seconds": 5363
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 275,
+    "name": "Piernas, Beatriz",
+    "finish_time": "01:29:24",
+    "finish_seconds": 5364
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 277,
+    "name": "Konert-Uesbeck, Sara",
+    "finish_time": "01:29:36",
+    "finish_seconds": 5376
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 279,
+    "name": "Ecseki, Nelli",
+    "finish_time": "01:29:39",
+    "finish_seconds": 5379
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 281,
+    "name": "Alvarez, Maitena",
+    "finish_time": "01:29:47",
+    "finish_seconds": 5387
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 283,
+    "name": "Miller, Rosie",
+    "finish_time": "01:29:52",
+    "finish_seconds": 5392
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 285,
+    "name": "Montiel, Tomasa",
+    "finish_time": "01:29:53",
+    "finish_seconds": 5393
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 287,
+    "name": "Caron Di Brigida, Marina",
+    "finish_time": "01:30:03",
+    "finish_seconds": 5403
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 289,
+    "name": "Amdori, Iara",
+    "finish_time": "01:30:08",
+    "finish_seconds": 5408
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 291,
+    "name": "Adzaga, Ana",
+    "finish_time": "01:30:20",
+    "finish_seconds": 5420
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 293,
+    "name": "Andresov\u00e1, Lenka",
+    "finish_time": "01:30:25",
+    "finish_seconds": 5425
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 295,
+    "name": "Mart\u00ednez Garc\u00eda, Mar\u00eda",
+    "finish_time": "01:30:27",
+    "finish_seconds": 5427
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 297,
+    "name": "Martin, Claudia",
+    "finish_time": "01:30:31",
+    "finish_seconds": 5431
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 299,
+    "name": "Abbott Pugh, Isabelle",
+    "finish_time": "01:30:40",
+    "finish_seconds": 5440
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 301,
+    "name": "Moen, Helen",
+    "finish_time": "01:30:43",
+    "finish_seconds": 5443
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 303,
+    "name": "Kollar, Cali",
+    "finish_time": "01:30:45",
+    "finish_seconds": 5445
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 305,
+    "name": "Joyce, Sinead",
+    "finish_time": "01:30:53",
+    "finish_seconds": 5453
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 307,
+    "name": "Navarro Rodr\u00edguez, Patricia",
+    "finish_time": "01:31:03",
+    "finish_seconds": 5463
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 309,
+    "name": "Ma\u00f1\u00e1, Monica",
+    "finish_time": "01:31:04",
+    "finish_seconds": 5464
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 311,
+    "name": "Schaad, Joanna",
+    "finish_time": "01:31:20",
+    "finish_seconds": 5480
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 313,
+    "name": "Stefaniak, Pauline",
+    "finish_time": "01:31:25",
+    "finish_seconds": 5485
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 315,
+    "name": "Jones, Jessica",
+    "finish_time": "01:31:28",
+    "finish_seconds": 5488
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 317,
+    "name": "Torres, Laura",
+    "finish_time": "01:31:37",
+    "finish_seconds": 5497
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 319,
+    "name": "No\u00ebl, Marion",
+    "finish_time": "01:31:47",
+    "finish_seconds": 5507
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 321,
+    "name": "Le Breton, Ingrid",
+    "finish_time": "01:31:54",
+    "finish_seconds": 5514
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 323,
+    "name": "Korycka, Justyna",
+    "finish_time": "01:31:59",
+    "finish_seconds": 5519
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 325,
+    "name": "Aledo, Mar\u00eda",
+    "finish_time": "01:32:01",
+    "finish_seconds": 5521
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 327,
+    "name": "Mcintyre, Nicola",
+    "finish_time": "01:32:06",
+    "finish_seconds": 5526
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 329,
+    "name": "Iglesias Prieto, Luc\u00eda",
+    "finish_time": "01:32:13",
+    "finish_seconds": 5533
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 331,
+    "name": "Henner, Amanda",
+    "finish_time": "01:32:20",
+    "finish_seconds": 5540
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 333,
+    "name": "Beveraggi, Kristel",
+    "finish_time": "01:32:31",
+    "finish_seconds": 5551
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 335,
+    "name": "St Ledger, Chloe",
+    "finish_time": "01:32:48",
+    "finish_seconds": 5568
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 337,
+    "name": "Doutre, Cl\u00e9lia",
+    "finish_time": "01:32:59",
+    "finish_seconds": 5579
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 339,
+    "name": "Mezouari, Soraya",
+    "finish_time": "01:33:03",
+    "finish_seconds": 5583
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 341,
+    "name": "Egert, Marie-Christin",
+    "finish_time": "01:33:10",
+    "finish_seconds": 5590
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 343,
+    "name": "Retrosi, Martina",
+    "finish_time": "01:33:17",
+    "finish_seconds": 5597
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 345,
+    "name": "Parras, Ana",
+    "finish_time": "01:33:21",
+    "finish_seconds": 5601
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 347,
+    "name": "Patrick, Imogen",
+    "finish_time": "01:33:30",
+    "finish_seconds": 5610
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 349,
+    "name": "Davies, Megan",
+    "finish_time": "01:33:36",
+    "finish_seconds": 5616
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 351,
+    "name": "Lagarde, Cristina",
+    "finish_time": "01:33:39",
+    "finish_seconds": 5619
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 353,
+    "name": "De Jager, Astrid",
+    "finish_time": "01:33:47",
+    "finish_seconds": 5627
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 355,
+    "name": "Cavallin, Anais",
+    "finish_time": "01:33:56",
+    "finish_seconds": 5636
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 357,
+    "name": "O'Dwyer, Joanne",
+    "finish_time": "01:34:04",
+    "finish_seconds": 5644
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 359,
+    "name": "Canini, Assunta",
+    "finish_time": "01:34:11",
+    "finish_seconds": 5651
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 361,
+    "name": "Alvito, Solange",
+    "finish_time": "01:34:17",
+    "finish_seconds": 5657
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 363,
+    "name": "Lofts, Abi",
+    "finish_time": "01:34:23",
+    "finish_seconds": 5663
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 365,
+    "name": "Scovil, Sarah",
+    "finish_time": "01:34:36",
+    "finish_seconds": 5676
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 367,
+    "name": "Forde, Phoebe",
+    "finish_time": "01:34:46",
+    "finish_seconds": 5686
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 369,
+    "name": "Kettenis, Wendy",
+    "finish_time": "01:34:52",
+    "finish_seconds": 5692
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 371,
+    "name": "Cheshire, Rebecca",
+    "finish_time": "01:34:59",
+    "finish_seconds": 5699
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 373,
+    "name": "Nuyens, Amber",
+    "finish_time": "01:35:03",
+    "finish_seconds": 5703
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 375,
+    "name": "Moore, Caoimhe",
+    "finish_time": "01:35:07",
+    "finish_seconds": 5707
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 377,
+    "name": "Ryder, Ellie",
+    "finish_time": "01:35:19",
+    "finish_seconds": 5719
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 379,
+    "name": "Malecki, Charlotte",
+    "finish_time": "01:35:25",
+    "finish_seconds": 5725
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 381,
+    "name": "Bonastre, Elena",
+    "finish_time": "01:35:43",
+    "finish_seconds": 5743
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 383,
+    "name": "Gellert, Sif",
+    "finish_time": "01:35:45",
+    "finish_seconds": 5745
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 385,
+    "name": "Rintisch, Denise",
+    "finish_time": "01:35:55",
+    "finish_seconds": 5755
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 387,
+    "name": "Constaratas, Victoria",
+    "finish_time": "01:35:58",
+    "finish_seconds": 5758
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 389,
+    "name": "Garrido Calvo, Maria Jose",
+    "finish_time": "01:36:07",
+    "finish_seconds": 5767
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 391,
+    "name": "Gil Garc\u00eda, Alba",
+    "finish_time": "01:36:25",
+    "finish_seconds": 5785
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 393,
+    "name": "Cumbo, Vanessa",
+    "finish_time": "01:36:27",
+    "finish_seconds": 5787
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 395,
+    "name": "Lindblom, Emilia",
+    "finish_time": "01:36:32",
+    "finish_seconds": 5792
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 397,
+    "name": "Tinteanu, Monica",
+    "finish_time": "01:36:45",
+    "finish_seconds": 5805
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 399,
+    "name": "Voet, Laura",
+    "finish_time": "01:36:47",
+    "finish_seconds": 5807
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 401,
+    "name": "Fiedor Jelonek, Jowita",
+    "finish_time": "01:36:53",
+    "finish_seconds": 5813
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 403,
+    "name": "Lafitedupont, Margot",
+    "finish_time": "01:37:04",
+    "finish_seconds": 5824
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 405,
+    "name": "Lucky, Lipa",
+    "finish_time": "01:37:07",
+    "finish_seconds": 5827
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 407,
+    "name": "Santos, Leonor",
+    "finish_time": "01:37:09",
+    "finish_seconds": 5829
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 409,
+    "name": "Nye, Joanne",
+    "finish_time": "01:37:11",
+    "finish_seconds": 5831
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 411,
+    "name": "Vallejo, Gabriela",
+    "finish_time": "01:37:22",
+    "finish_seconds": 5842
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 413,
+    "name": "Rogers, Holly",
+    "finish_time": "01:37:34",
+    "finish_seconds": 5854
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 415,
+    "name": "Pichler, Corinna",
+    "finish_time": "01:37:48",
+    "finish_seconds": 5868
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 417,
+    "name": "Severino, Tara",
+    "finish_time": "01:38:02",
+    "finish_seconds": 5882
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 419,
+    "name": "Mourelle Garc\u00eda, Tamara",
+    "finish_time": "01:38:04",
+    "finish_seconds": 5884
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 421,
+    "name": "Dunican, Tanya",
+    "finish_time": "01:38:11",
+    "finish_seconds": 5891
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 423,
+    "name": "Andresen, Sarah",
+    "finish_time": "01:38:26",
+    "finish_seconds": 5906
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 425,
+    "name": "Mooney, Denise",
+    "finish_time": "01:38:30",
+    "finish_seconds": 5910
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 427,
+    "name": "Lord, Philippa",
+    "finish_time": "01:38:55",
+    "finish_seconds": 5935
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 429,
+    "name": "Ratcliffe, Grace",
+    "finish_time": "01:39:00",
+    "finish_seconds": 5940
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 431,
+    "name": "Mart\u00edn Segovia, Paula",
+    "finish_time": "01:39:03",
+    "finish_seconds": 5943
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 433,
+    "name": "Iannelli, Chiara",
+    "finish_time": "01:39:10",
+    "finish_seconds": 5950
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 435,
+    "name": "Bramble-Deering, Amber",
+    "finish_time": "01:39:23",
+    "finish_seconds": 5963
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 437,
+    "name": "Thinggaard, Kristina Lund",
+    "finish_time": "01:39:25",
+    "finish_seconds": 5965
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 439,
+    "name": "Elcoate, Kimberly",
+    "finish_time": "01:39:27",
+    "finish_seconds": 5967
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 441,
+    "name": "Herssens, Dorien",
+    "finish_time": "01:39:34",
+    "finish_seconds": 5974
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 443,
+    "name": "Herb, Vivien",
+    "finish_time": "01:39:42",
+    "finish_seconds": 5982
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 445,
+    "name": "Fila, Marcelina",
+    "finish_time": "01:39:44",
+    "finish_seconds": 5984
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 447,
+    "name": "Reynolds, Chloe",
+    "finish_time": "01:39:45",
+    "finish_seconds": 5985
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 449,
+    "name": "Voscekova, Maria",
+    "finish_time": "01:39:58",
+    "finish_seconds": 5998
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 451,
+    "name": "Jacobs, Kato",
+    "finish_time": "01:40:12",
+    "finish_seconds": 6012
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 453,
+    "name": "Rodriguez, Paula",
+    "finish_time": "01:40:14",
+    "finish_seconds": 6014
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 455,
+    "name": "Silva, Susana",
+    "finish_time": "01:40:15",
+    "finish_seconds": 6015
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 457,
+    "name": "Agostinho, Ana",
+    "finish_time": "01:40:16",
+    "finish_seconds": 6016
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 459,
+    "name": "Ouendjeli, Hada",
+    "finish_time": "01:40:21",
+    "finish_seconds": 6021
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 461,
+    "name": "Faubourg, Manon",
+    "finish_time": "01:40:29",
+    "finish_seconds": 6029
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 463,
+    "name": "Gouteux, Sarah",
+    "finish_time": "01:40:49",
+    "finish_seconds": 6049
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 465,
+    "name": "Edmonstone-West, Lara",
+    "finish_time": "01:40:55",
+    "finish_seconds": 6055
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 467,
+    "name": "Gillanders, Ella",
+    "finish_time": "01:41:01",
+    "finish_seconds": 6061
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 469,
+    "name": "Berendsen, Joy",
+    "finish_time": "01:41:18",
+    "finish_seconds": 6078
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 471,
+    "name": "Van Iersel, Marilou",
+    "finish_time": "01:41:34",
+    "finish_seconds": 6094
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 473,
+    "name": "Chong, Tina",
+    "finish_time": "01:41:45",
+    "finish_seconds": 6105
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 475,
+    "name": "Grech, Ruth",
+    "finish_time": "01:41:50",
+    "finish_seconds": 6110
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 477,
+    "name": "Kettering, Isabel",
+    "finish_time": "01:41:57",
+    "finish_seconds": 6117
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 479,
+    "name": "Gracia, Mari Paz",
+    "finish_time": "01:42:01",
+    "finish_seconds": 6121
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 481,
+    "name": "Gonzalez Chin, Aymara",
+    "finish_time": "01:42:10",
+    "finish_seconds": 6130
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 483,
+    "name": "Krisztina, Meszes\u00e1n",
+    "finish_time": "01:42:24",
+    "finish_seconds": 6144
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 485,
+    "name": "Martinez, Maria",
+    "finish_time": "01:42:55",
+    "finish_seconds": 6175
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 487,
+    "name": "Roque, Daca",
+    "finish_time": "01:43:02",
+    "finish_seconds": 6182
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 489,
+    "name": "Hyde, Olivia",
+    "finish_time": "01:43:05",
+    "finish_seconds": 6185
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 491,
+    "name": "Grosdidier, Estelle",
+    "finish_time": "01:43:15",
+    "finish_seconds": 6195
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 493,
+    "name": "Clark, Rebecca",
+    "finish_time": "01:43:22",
+    "finish_seconds": 6202
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 495,
+    "name": "Carvalho, Catarina",
+    "finish_time": "01:43:30",
+    "finish_seconds": 6210
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 497,
+    "name": "Weston, Sarah",
+    "finish_time": "01:43:30",
+    "finish_seconds": 6210
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 499,
+    "name": "Weinman, Naomi",
+    "finish_time": "01:43:55",
+    "finish_seconds": 6235
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 501,
+    "name": "Romano, Mara",
+    "finish_time": "01:44:14",
+    "finish_seconds": 6254
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 503,
+    "name": "Martins, Beatriz",
+    "finish_time": "01:44:35",
+    "finish_seconds": 6275
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 505,
+    "name": "Martinez, Mariana",
+    "finish_time": "01:44:45",
+    "finish_seconds": 6285
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 507,
+    "name": "D\u00e9sert, M\u00e9gane",
+    "finish_time": "01:45:09",
+    "finish_seconds": 6309
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 509,
+    "name": "Piles Franco, Maria Jos\u00e9",
+    "finish_time": "01:45:18",
+    "finish_seconds": 6318
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 511,
+    "name": "Jacobs, Eszter",
+    "finish_time": "01:45:29",
+    "finish_seconds": 6329
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 513,
+    "name": "Puigros Galmes, Cristina",
+    "finish_time": "01:45:32",
+    "finish_seconds": 6332
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 515,
+    "name": "Doherty, Anneka",
+    "finish_time": "01:45:34",
+    "finish_seconds": 6334
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 517,
+    "name": "Thiry, Julie",
+    "finish_time": "01:45:45",
+    "finish_seconds": 6345
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 519,
+    "name": "Tuinema, Demi",
+    "finish_time": "01:46:08",
+    "finish_seconds": 6368
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 521,
+    "name": "Tout, Wendy",
+    "finish_time": "01:46:28",
+    "finish_seconds": 6388
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 523,
+    "name": "Nicole, Briana",
+    "finish_time": "01:46:42",
+    "finish_seconds": 6402
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 525,
+    "name": "Saraiduc, Irina",
+    "finish_time": "01:46:59",
+    "finish_seconds": 6419
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 527,
+    "name": "Pohle, Lynn",
+    "finish_time": "01:47:06",
+    "finish_seconds": 6426
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 529,
+    "name": "Ahmed, Malika",
+    "finish_time": "01:47:14",
+    "finish_seconds": 6434
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 531,
+    "name": "Quinn-De Jong, Anneke",
+    "finish_time": "01:47:29",
+    "finish_seconds": 6449
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 533,
+    "name": "D\u00edaz Portoles, Susana",
+    "finish_time": "01:47:47",
+    "finish_seconds": 6467
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 535,
+    "name": "Ar\u00e9valo, Melanie",
+    "finish_time": "01:47:56",
+    "finish_seconds": 6476
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 537,
+    "name": "Amanupunnjo, Vanessa",
+    "finish_time": "01:48:07",
+    "finish_seconds": 6487
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 539,
+    "name": "Hack, Jennifer",
+    "finish_time": "01:48:34",
+    "finish_seconds": 6514
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 541,
+    "name": "Boye, Britta",
+    "finish_time": "01:49:09",
+    "finish_seconds": 6549
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 543,
+    "name": "Barberon, Agathe",
+    "finish_time": "01:49:13",
+    "finish_seconds": 6553
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 545,
+    "name": "Steckm\u00fcller, Anna",
+    "finish_time": "01:49:19",
+    "finish_seconds": 6559
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 547,
+    "name": "Van Eck, Nine",
+    "finish_time": "01:49:31",
+    "finish_seconds": 6571
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 549,
+    "name": "Pilataxi Camacho, Catalina Fernanda",
+    "finish_time": "01:49:49",
+    "finish_seconds": 6589
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 551,
+    "name": "Della Serra, Lina",
+    "finish_time": "01:50:00",
+    "finish_seconds": 6600
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 553,
+    "name": "Hefti, Patricia",
+    "finish_time": "01:50:04",
+    "finish_seconds": 6604
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 555,
+    "name": "Gimenez, Anittas",
+    "finish_time": "01:50:26",
+    "finish_seconds": 6626
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 557,
+    "name": "Sauvage, Louna",
+    "finish_time": "01:50:35",
+    "finish_seconds": 6635
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 559,
+    "name": "Privitelli, Martha",
+    "finish_time": "01:50:58",
+    "finish_seconds": 6658
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 561,
+    "name": "Van Die, Corine",
+    "finish_time": "01:51:03",
+    "finish_seconds": 6663
+  },
+  {
+    "venue": "2025 Valencia",
+    "gender": "W",
+    "rank": 563,
+    "name": "Is Chillin, Ac",
+    "finish_time": "01:51:39",
+    "finish_seconds": 6699
+  }
+]

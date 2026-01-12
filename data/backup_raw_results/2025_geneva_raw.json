@@ -1,0 +1,4434 @@
+[
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1,
+    "name": "NAEL, Thibaud",
+    "finish_time": "00:57:12",
+    "finish_seconds": 3432
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 3,
+    "name": "Hoff, Antonio",
+    "finish_time": "00:58:14",
+    "finish_seconds": 3494
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 5,
+    "name": "Bernier, Remi",
+    "finish_time": "00:59:30",
+    "finish_seconds": 3570
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 7,
+    "name": "yvart, michael",
+    "finish_time": "00:59:35",
+    "finish_seconds": 3575
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 9,
+    "name": "Robillard, Enzo",
+    "finish_time": "00:59:47",
+    "finish_seconds": 3587
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 11,
+    "name": "Decerf, Thomas",
+    "finish_time": "01:00:26",
+    "finish_seconds": 3626
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 13,
+    "name": "Solari, Matteo",
+    "finish_time": "01:00:43",
+    "finish_seconds": 3643
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 15,
+    "name": "Jacquelin, Pierre",
+    "finish_time": "01:01:46",
+    "finish_seconds": 3706
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 17,
+    "name": "Fischer, Gaspard",
+    "finish_time": "01:01:52",
+    "finish_seconds": 3712
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 19,
+    "name": "Paladina, Walter",
+    "finish_time": "01:01:56",
+    "finish_seconds": 3716
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 21,
+    "name": "Perfect, Lee",
+    "finish_time": "01:02:26",
+    "finish_seconds": 3746
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 23,
+    "name": "Ruche, Edgar",
+    "finish_time": "01:02:41",
+    "finish_seconds": 3761
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 25,
+    "name": "Saint leger, Yohan",
+    "finish_time": "01:02:53",
+    "finish_seconds": 3773
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 27,
+    "name": "Michel, Florian",
+    "finish_time": "01:02:57",
+    "finish_seconds": 3777
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 29,
+    "name": "Notz, Vincent",
+    "finish_time": "01:03:03",
+    "finish_seconds": 3783
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 31,
+    "name": "Maillard, Nicolas",
+    "finish_time": "01:03:20",
+    "finish_seconds": 3800
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 33,
+    "name": "ROETYNCK, Paul",
+    "finish_time": "01:03:26",
+    "finish_seconds": 3806
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 35,
+    "name": "Derda, Daniel",
+    "finish_time": "01:03:38",
+    "finish_seconds": 3818
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 37,
+    "name": "Kattar, Mohamed yassin",
+    "finish_time": "01:03:45",
+    "finish_seconds": 3825
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 39,
+    "name": "George, Matthew",
+    "finish_time": "01:04:20",
+    "finish_seconds": 3860
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 41,
+    "name": "Helbling, Marco",
+    "finish_time": "01:04:43",
+    "finish_seconds": 3883
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 43,
+    "name": "bannigan, sean",
+    "finish_time": "01:04:52",
+    "finish_seconds": 3892
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 45,
+    "name": "Bizzotto, Yannick",
+    "finish_time": "01:05:02",
+    "finish_seconds": 3902
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 47,
+    "name": "Emery, Loan",
+    "finish_time": "01:05:17",
+    "finish_seconds": 3917
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 49,
+    "name": "PETITJEAN, GREGORY",
+    "finish_time": "01:05:19",
+    "finish_seconds": 3919
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 51,
+    "name": "Pessina, Francesco",
+    "finish_time": "01:05:25",
+    "finish_seconds": 3925
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 53,
+    "name": "Hancock, Darren",
+    "finish_time": "01:05:29",
+    "finish_seconds": 3929
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 55,
+    "name": "Sevilla, Loris",
+    "finish_time": "01:05:30",
+    "finish_seconds": 3930
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 57,
+    "name": "Sadikaj, Mergim",
+    "finish_time": "01:05:35",
+    "finish_seconds": 3935
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 59,
+    "name": "Fournel, Julien",
+    "finish_time": "01:05:43",
+    "finish_seconds": 3943
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 61,
+    "name": "Siegel, Steven",
+    "finish_time": "01:05:54",
+    "finish_seconds": 3954
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 63,
+    "name": "Rochet, Thibaud",
+    "finish_time": "01:06:00",
+    "finish_seconds": 3960
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 65,
+    "name": "Maleuvre, Romain",
+    "finish_time": "01:06:08",
+    "finish_seconds": 3968
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 67,
+    "name": "CHION, Florent",
+    "finish_time": "01:06:25",
+    "finish_seconds": 3985
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 69,
+    "name": "SIBUET, Stanislas",
+    "finish_time": "01:06:27",
+    "finish_seconds": 3987
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 71,
+    "name": "Alfaro, Mickael",
+    "finish_time": "01:06:33",
+    "finish_seconds": 3993
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 73,
+    "name": "Lequy, Jordan",
+    "finish_time": "01:06:43",
+    "finish_seconds": 4003
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 75,
+    "name": "Le Moing, Tristan",
+    "finish_time": "01:06:51",
+    "finish_seconds": 4011
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 77,
+    "name": "Niederberger, Janick",
+    "finish_time": "01:07:05",
+    "finish_seconds": 4025
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 79,
+    "name": "Palengat, Bastien",
+    "finish_time": "01:07:14",
+    "finish_seconds": 4034
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 81,
+    "name": "Cuany, Simon",
+    "finish_time": "01:07:18",
+    "finish_seconds": 4038
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 83,
+    "name": "Estoppey, Guy",
+    "finish_time": "01:07:20",
+    "finish_seconds": 4040
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 85,
+    "name": "Hohloch, Benjamin",
+    "finish_time": "01:07:41",
+    "finish_seconds": 4061
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 87,
+    "name": "Blatter, Tom",
+    "finish_time": "01:07:44",
+    "finish_seconds": 4064
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 89,
+    "name": "M\u00e9trailler, Claude",
+    "finish_time": "01:07:47",
+    "finish_seconds": 4067
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 91,
+    "name": "ZIANI, Houssa\u00efn",
+    "finish_time": "01:07:49",
+    "finish_seconds": 4069
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 93,
+    "name": "B\u00e9rard, Alan",
+    "finish_time": "01:07:51",
+    "finish_seconds": 4071
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 95,
+    "name": "Lacroix, Jonathan",
+    "finish_time": "01:08:00",
+    "finish_seconds": 4080
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 97,
+    "name": "J\u00fcnger, Konstantin",
+    "finish_time": "01:08:08",
+    "finish_seconds": 4088
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 99,
+    "name": "Camelin, Boris",
+    "finish_time": "01:08:21",
+    "finish_seconds": 4101
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 101,
+    "name": "Fritsch, Julien",
+    "finish_time": "01:08:26",
+    "finish_seconds": 4106
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 103,
+    "name": "Rueff, Alexandre",
+    "finish_time": "01:08:29",
+    "finish_seconds": 4109
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 105,
+    "name": "Poret, Valentin",
+    "finish_time": "01:08:31",
+    "finish_seconds": 4111
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 107,
+    "name": "Besse, Valentin",
+    "finish_time": "01:08:39",
+    "finish_seconds": 4119
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 109,
+    "name": "Weibel, Romain",
+    "finish_time": "01:08:42",
+    "finish_seconds": 4122
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 111,
+    "name": "Kara, Stephen",
+    "finish_time": "01:08:47",
+    "finish_seconds": 4127
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 113,
+    "name": "Chicher, Romain",
+    "finish_time": "01:08:54",
+    "finish_seconds": 4134
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 115,
+    "name": "Gautam, Prasun",
+    "finish_time": "01:08:55",
+    "finish_seconds": 4135
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 117,
+    "name": "Roveri, Riccardo",
+    "finish_time": "01:08:57",
+    "finish_seconds": 4137
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 119,
+    "name": "GENINI, Geoffrey",
+    "finish_time": "01:09:01",
+    "finish_seconds": 4141
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 121,
+    "name": "Marais, Romain",
+    "finish_time": "01:09:10",
+    "finish_seconds": 4150
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 123,
+    "name": "GHAZI, Zakaria",
+    "finish_time": "01:09:17",
+    "finish_seconds": 4157
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 125,
+    "name": "Gunziger, Silas",
+    "finish_time": "01:09:20",
+    "finish_seconds": 4160
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 127,
+    "name": "Graf, Martin",
+    "finish_time": "01:09:23",
+    "finish_seconds": 4163
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 129,
+    "name": "MRIGA, Sami",
+    "finish_time": "01:09:31",
+    "finish_seconds": 4171
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 131,
+    "name": "Lajoumard, Florian",
+    "finish_time": "01:09:33",
+    "finish_seconds": 4173
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 133,
+    "name": "El mossadeq, Yassine",
+    "finish_time": "01:09:39",
+    "finish_seconds": 4179
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 135,
+    "name": "Parriaux, Angel",
+    "finish_time": "01:09:43",
+    "finish_seconds": 4183
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 137,
+    "name": "Cuennet, Ga\u00ebl",
+    "finish_time": "01:09:47",
+    "finish_seconds": 4187
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 139,
+    "name": "Mettas, Nikolaos",
+    "finish_time": "01:09:49",
+    "finish_seconds": 4189
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 141,
+    "name": "NORMAND, Wilfrid",
+    "finish_time": "01:09:49",
+    "finish_seconds": 4189
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 143,
+    "name": "Benabbes, Adel",
+    "finish_time": "01:09:54",
+    "finish_seconds": 4194
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 145,
+    "name": "Nielsen, Christian",
+    "finish_time": "01:09:55",
+    "finish_seconds": 4195
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 147,
+    "name": "FRANCOIS, Dimitri",
+    "finish_time": "01:10:00",
+    "finish_seconds": 4200
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 149,
+    "name": "Di Litta, Romain",
+    "finish_time": "01:10:02",
+    "finish_seconds": 4202
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 151,
+    "name": "OCCHILUPO, Sandro",
+    "finish_time": "01:10:08",
+    "finish_seconds": 4208
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 153,
+    "name": "Karlen, Paul",
+    "finish_time": "01:10:12",
+    "finish_seconds": 4212
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 155,
+    "name": "Sheerin, Jordan",
+    "finish_time": "01:10:16",
+    "finish_seconds": 4216
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 157,
+    "name": "Eschmann, Jordan",
+    "finish_time": "01:10:18",
+    "finish_seconds": 4218
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 159,
+    "name": "Zaninetti, Rapha\u00ebl",
+    "finish_time": "01:10:26",
+    "finish_seconds": 4226
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 161,
+    "name": "Tijani, Sami",
+    "finish_time": "01:10:28",
+    "finish_seconds": 4228
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 163,
+    "name": "Rezzonico, Paco",
+    "finish_time": "01:10:29",
+    "finish_seconds": 4229
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 165,
+    "name": "Grand, Simon",
+    "finish_time": "01:10:29",
+    "finish_seconds": 4229
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 167,
+    "name": "Lawrence, Luke",
+    "finish_time": "01:10:32",
+    "finish_seconds": 4232
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 169,
+    "name": "Villard, William",
+    "finish_time": "01:10:44",
+    "finish_seconds": 4244
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 171,
+    "name": "Harrison, Jonathan",
+    "finish_time": "01:10:57",
+    "finish_seconds": 4257
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 173,
+    "name": "Lang, Georg",
+    "finish_time": "01:11:01",
+    "finish_seconds": 4261
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 175,
+    "name": "Tugaut, Matthieu",
+    "finish_time": "01:11:05",
+    "finish_seconds": 4265
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 177,
+    "name": "Reust, Jonas",
+    "finish_time": "01:11:07",
+    "finish_seconds": 4267
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 179,
+    "name": "Weipert, Jens",
+    "finish_time": "01:11:10",
+    "finish_seconds": 4270
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 181,
+    "name": "Maire, Johann",
+    "finish_time": "01:11:15",
+    "finish_seconds": 4275
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 183,
+    "name": "PUIG, Romain",
+    "finish_time": "01:11:17",
+    "finish_seconds": 4277
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 185,
+    "name": "Ebbrecht, Daniel",
+    "finish_time": "01:11:20",
+    "finish_seconds": 4280
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 187,
+    "name": "Mccay hines, Oscar",
+    "finish_time": "01:11:22",
+    "finish_seconds": 4282
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 189,
+    "name": "Giampietro, Davide",
+    "finish_time": "01:11:28",
+    "finish_seconds": 4288
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 191,
+    "name": "Bory, Christophe",
+    "finish_time": "01:11:35",
+    "finish_seconds": 4295
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 193,
+    "name": "NAULEAU, Nicolas",
+    "finish_time": "01:11:36",
+    "finish_seconds": 4296
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 195,
+    "name": "Molloy, Kevin",
+    "finish_time": "01:11:39",
+    "finish_seconds": 4299
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 197,
+    "name": "Hagemeyer, Daniel",
+    "finish_time": "01:11:41",
+    "finish_seconds": 4301
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 199,
+    "name": "Renda, Alessandro",
+    "finish_time": "01:11:42",
+    "finish_seconds": 4302
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 201,
+    "name": "SACLIER, Pierre-Jean",
+    "finish_time": "01:11:43",
+    "finish_seconds": 4303
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 203,
+    "name": "Gwerder, Ronny",
+    "finish_time": "01:11:46",
+    "finish_seconds": 4306
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 205,
+    "name": "Gatinet, Julien",
+    "finish_time": "01:11:53",
+    "finish_seconds": 4313
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 207,
+    "name": "Evain, Yann",
+    "finish_time": "01:11:55",
+    "finish_seconds": 4315
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 209,
+    "name": "THEOLEYRE, Jean-Guillaume",
+    "finish_time": "01:11:58",
+    "finish_seconds": 4318
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 211,
+    "name": "Holmes, William",
+    "finish_time": "01:11:59",
+    "finish_seconds": 4319
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 213,
+    "name": "Denamur, Antoine",
+    "finish_time": "01:12:00",
+    "finish_seconds": 4320
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 215,
+    "name": "Taimana, Manutea",
+    "finish_time": "01:12:03",
+    "finish_seconds": 4323
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 217,
+    "name": "HASNI, ANIS",
+    "finish_time": "01:12:06",
+    "finish_seconds": 4326
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 219,
+    "name": "Gros, K\u00e9vin",
+    "finish_time": "01:12:12",
+    "finish_seconds": 4332
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 221,
+    "name": "Calvi, Federico",
+    "finish_time": "01:12:15",
+    "finish_seconds": 4335
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 223,
+    "name": "Grillet-Aubert, Louis",
+    "finish_time": "01:12:21",
+    "finish_seconds": 4341
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 225,
+    "name": "Venkatesan, Tim",
+    "finish_time": "01:12:23",
+    "finish_seconds": 4343
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 227,
+    "name": "Burgunder, Thomas",
+    "finish_time": "01:12:24",
+    "finish_seconds": 4344
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 229,
+    "name": "Schuler, Philipp",
+    "finish_time": "01:12:25",
+    "finish_seconds": 4345
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 231,
+    "name": "Fiot, Maxime",
+    "finish_time": "01:12:25",
+    "finish_seconds": 4345
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 233,
+    "name": "Roma, Andre",
+    "finish_time": "01:12:28",
+    "finish_seconds": 4348
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 235,
+    "name": "Guano, Massimo",
+    "finish_time": "01:12:29",
+    "finish_seconds": 4349
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 237,
+    "name": "Lefebvre, Matthieu",
+    "finish_time": "01:12:31",
+    "finish_seconds": 4351
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 239,
+    "name": "Noel, Mickael",
+    "finish_time": "01:12:34",
+    "finish_seconds": 4354
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 241,
+    "name": "Wildhaber, Ralf",
+    "finish_time": "01:12:45",
+    "finish_seconds": 4365
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 243,
+    "name": "Demonte, Kevin",
+    "finish_time": "01:12:53",
+    "finish_seconds": 4373
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 245,
+    "name": "Beaufils, Christophe",
+    "finish_time": "01:12:55",
+    "finish_seconds": 4375
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 247,
+    "name": "Clavier, Quentin",
+    "finish_time": "01:12:55",
+    "finish_seconds": 4375
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 249,
+    "name": "Kuhn, Marc",
+    "finish_time": "01:12:59",
+    "finish_seconds": 4379
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 251,
+    "name": "BONNET, Etienne",
+    "finish_time": "01:13:05",
+    "finish_seconds": 4385
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 253,
+    "name": "Imhof, Elisha",
+    "finish_time": "01:13:09",
+    "finish_seconds": 4389
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 255,
+    "name": "Oualad, Mohamed Amine",
+    "finish_time": "01:13:09",
+    "finish_seconds": 4389
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 257,
+    "name": "Braham, Habib",
+    "finish_time": "01:13:12",
+    "finish_seconds": 4392
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 259,
+    "name": "Huber, Jonathan",
+    "finish_time": "01:13:20",
+    "finish_seconds": 4400
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 261,
+    "name": "Marchyllie, Rapha\u00ebl",
+    "finish_time": "01:13:22",
+    "finish_seconds": 4402
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 263,
+    "name": "Hitz, Patrice",
+    "finish_time": "01:13:25",
+    "finish_seconds": 4405
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 265,
+    "name": "Challandes, Mehdi",
+    "finish_time": "01:13:26",
+    "finish_seconds": 4406
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 267,
+    "name": "Niederwolfsgruber, Lukas",
+    "finish_time": "01:13:30",
+    "finish_seconds": 4410
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 269,
+    "name": "H\u00e4nggi, Philipp",
+    "finish_time": "01:13:32",
+    "finish_seconds": 4412
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 271,
+    "name": "Gauthier, Lukas",
+    "finish_time": "01:13:38",
+    "finish_seconds": 4418
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 273,
+    "name": "Giard, Antoine",
+    "finish_time": "01:13:42",
+    "finish_seconds": 4422
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 275,
+    "name": "Cardinaux, Gabriel",
+    "finish_time": "01:13:46",
+    "finish_seconds": 4426
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 277,
+    "name": "RENARD, Th\u00e9odore",
+    "finish_time": "01:13:48",
+    "finish_seconds": 4428
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 279,
+    "name": "Furger, Olivier",
+    "finish_time": "01:13:49",
+    "finish_seconds": 4429
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 281,
+    "name": "Malliere, Alexis",
+    "finish_time": "01:13:52",
+    "finish_seconds": 4432
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 283,
+    "name": "Morreale, Anthony",
+    "finish_time": "01:13:55",
+    "finish_seconds": 4435
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 285,
+    "name": "berger, christoph",
+    "finish_time": "01:13:57",
+    "finish_seconds": 4437
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 287,
+    "name": "Spang, Samuel",
+    "finish_time": "01:13:59",
+    "finish_seconds": 4439
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 289,
+    "name": "Martinez, Hugo",
+    "finish_time": "01:14:03",
+    "finish_seconds": 4443
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 291,
+    "name": "Orgeret, Thomas",
+    "finish_time": "01:14:05",
+    "finish_seconds": 4445
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 293,
+    "name": "le flohic, Mathieu",
+    "finish_time": "01:14:09",
+    "finish_seconds": 4449
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 295,
+    "name": "Sellier, Maxime",
+    "finish_time": "01:14:12",
+    "finish_seconds": 4452
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 297,
+    "name": "Guyon, Loris",
+    "finish_time": "01:14:17",
+    "finish_seconds": 4457
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 299,
+    "name": "Ferreras, Alexandre",
+    "finish_time": "01:14:19",
+    "finish_seconds": 4459
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 301,
+    "name": "Smith, Anthony",
+    "finish_time": "01:14:23",
+    "finish_seconds": 4463
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 303,
+    "name": "Genest, Valentin",
+    "finish_time": "01:14:25",
+    "finish_seconds": 4465
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 305,
+    "name": "Contaux, Guillaume",
+    "finish_time": "01:14:27",
+    "finish_seconds": 4467
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 307,
+    "name": "Nordine, Malou",
+    "finish_time": "01:14:30",
+    "finish_seconds": 4470
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 309,
+    "name": "Keable-Kinsella, Aran",
+    "finish_time": "01:14:33",
+    "finish_seconds": 4473
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 311,
+    "name": "Zehnder, Alban",
+    "finish_time": "01:14:33",
+    "finish_seconds": 4473
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 313,
+    "name": "Todesco, Julien",
+    "finish_time": "01:14:35",
+    "finish_seconds": 4475
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 315,
+    "name": "Allantaz, Guillaume",
+    "finish_time": "01:14:38",
+    "finish_seconds": 4478
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 317,
+    "name": "Jacques, Michael",
+    "finish_time": "01:14:40",
+    "finish_seconds": 4480
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 319,
+    "name": "Atti, Michael",
+    "finish_time": "01:14:44",
+    "finish_seconds": 4484
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 321,
+    "name": "Di Nitto, Cesare",
+    "finish_time": "01:14:46",
+    "finish_seconds": 4486
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 323,
+    "name": "Derudet, Charly",
+    "finish_time": "01:14:47",
+    "finish_seconds": 4487
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 325,
+    "name": "Tardy, Morgan",
+    "finish_time": "01:14:50",
+    "finish_seconds": 4490
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 327,
+    "name": "Schryve, Fran\u00e7ois xavier",
+    "finish_time": "01:14:54",
+    "finish_seconds": 4494
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 329,
+    "name": "Aury, Fr\u00e9d\u00e9ric",
+    "finish_time": "01:14:55",
+    "finish_seconds": 4495
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 331,
+    "name": "Kelly, Dave",
+    "finish_time": "01:14:58",
+    "finish_seconds": 4498
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 333,
+    "name": "Imhof, Jaime",
+    "finish_time": "01:15:02",
+    "finish_seconds": 4502
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 335,
+    "name": "Gombocz, Damien",
+    "finish_time": "01:15:04",
+    "finish_seconds": 4504
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 337,
+    "name": "Rivoire, Kevin",
+    "finish_time": "01:15:05",
+    "finish_seconds": 4505
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 339,
+    "name": "Linage, Giovanni",
+    "finish_time": "01:15:08",
+    "finish_seconds": 4508
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 341,
+    "name": "Delahaye, Quentin",
+    "finish_time": "01:15:08",
+    "finish_seconds": 4508
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 343,
+    "name": "JIMENEZ, Andrea",
+    "finish_time": "01:15:12",
+    "finish_seconds": 4512
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 345,
+    "name": "Courteille, Thomas",
+    "finish_time": "01:15:15",
+    "finish_seconds": 4515
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 347,
+    "name": "Arcaro, Andr\u00e9a",
+    "finish_time": "01:15:17",
+    "finish_seconds": 4517
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 349,
+    "name": "Afiane, Farid",
+    "finish_time": "01:15:19",
+    "finish_seconds": 4519
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 351,
+    "name": "Boisard, Florian",
+    "finish_time": "01:15:20",
+    "finish_seconds": 4520
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 353,
+    "name": "Marces, Cl\u00e9ment",
+    "finish_time": "01:15:25",
+    "finish_seconds": 4525
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 355,
+    "name": "Raymond, Guillaume",
+    "finish_time": "01:15:26",
+    "finish_seconds": 4526
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 357,
+    "name": "Gibrat, Thibault",
+    "finish_time": "01:15:30",
+    "finish_seconds": 4530
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 359,
+    "name": "Ipsen, Oskar-Emil",
+    "finish_time": "01:15:30",
+    "finish_seconds": 4530
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 361,
+    "name": "Merkli, Karim",
+    "finish_time": "01:15:35",
+    "finish_seconds": 4535
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 363,
+    "name": "Arriola, Julien",
+    "finish_time": "01:15:38",
+    "finish_seconds": 4538
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 365,
+    "name": "Piraud, Maxence",
+    "finish_time": "01:15:41",
+    "finish_seconds": 4541
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 367,
+    "name": "Morvan, Noah",
+    "finish_time": "01:15:43",
+    "finish_seconds": 4543
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 369,
+    "name": "ZENTAR, ADAM",
+    "finish_time": "01:15:51",
+    "finish_seconds": 4551
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 371,
+    "name": "Parquet, Guillaume",
+    "finish_time": "01:15:54",
+    "finish_seconds": 4554
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 373,
+    "name": "Vogel, Victor",
+    "finish_time": "01:15:56",
+    "finish_seconds": 4556
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 375,
+    "name": "Pazos, Adrian",
+    "finish_time": "01:16:01",
+    "finish_seconds": 4561
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 377,
+    "name": "Botteron, Lo\u00efc",
+    "finish_time": "01:16:01",
+    "finish_seconds": 4561
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 379,
+    "name": "Mancini Griffoli, Giovanni",
+    "finish_time": "01:16:02",
+    "finish_seconds": 4562
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 381,
+    "name": "del Rio, Dim",
+    "finish_time": "01:16:07",
+    "finish_seconds": 4567
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 383,
+    "name": "Mudarra, S\u00e9bastien",
+    "finish_time": "01:16:12",
+    "finish_seconds": 4572
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 385,
+    "name": "Maffeis, Mario",
+    "finish_time": "01:16:19",
+    "finish_seconds": 4579
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 387,
+    "name": "Hertzeisen, Bastien",
+    "finish_time": "01:16:22",
+    "finish_seconds": 4582
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 389,
+    "name": "Pichonnier, Paul",
+    "finish_time": "01:16:26",
+    "finish_seconds": 4586
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 391,
+    "name": "Mathonet, Enzo",
+    "finish_time": "01:16:27",
+    "finish_seconds": 4587
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 393,
+    "name": "Plissonnier, Pierre",
+    "finish_time": "01:16:28",
+    "finish_seconds": 4588
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 395,
+    "name": "Mottier, Alain",
+    "finish_time": "01:16:32",
+    "finish_seconds": 4592
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 397,
+    "name": "Maher, Fintan",
+    "finish_time": "01:16:34",
+    "finish_seconds": 4594
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 399,
+    "name": "Cornu, Baptiste",
+    "finish_time": "01:16:36",
+    "finish_seconds": 4596
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 401,
+    "name": "Alfano, Olivier",
+    "finish_time": "01:16:38",
+    "finish_seconds": 4598
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 403,
+    "name": "Geppert, Ren\u00e9",
+    "finish_time": "01:16:40",
+    "finish_seconds": 4600
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 405,
+    "name": "Gille, Matthieu",
+    "finish_time": "01:16:42",
+    "finish_seconds": 4602
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 407,
+    "name": "CARLIOZ, Olivier",
+    "finish_time": "01:16:42",
+    "finish_seconds": 4602
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 409,
+    "name": "FREYBURGER, YOANN",
+    "finish_time": "01:16:44",
+    "finish_seconds": 4604
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 411,
+    "name": "Bradley, Felix",
+    "finish_time": "01:16:45",
+    "finish_seconds": 4605
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 413,
+    "name": "ENGEL, Sebastien",
+    "finish_time": "01:16:48",
+    "finish_seconds": 4608
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 415,
+    "name": "Braun, Timon",
+    "finish_time": "01:16:54",
+    "finish_seconds": 4614
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 417,
+    "name": "Pasinato, Bryan",
+    "finish_time": "01:16:56",
+    "finish_seconds": 4616
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 419,
+    "name": "Bodart, Romain",
+    "finish_time": "01:16:59",
+    "finish_seconds": 4619
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 421,
+    "name": "Garc\u00eda, Iv\u00e1n",
+    "finish_time": "01:17:02",
+    "finish_seconds": 4622
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 423,
+    "name": "Gresch, Thomas",
+    "finish_time": "01:17:02",
+    "finish_seconds": 4622
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 425,
+    "name": "Mallet, Theo",
+    "finish_time": "01:17:05",
+    "finish_seconds": 4625
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 427,
+    "name": "Henriet, Lo\u00efc",
+    "finish_time": "01:17:07",
+    "finish_seconds": 4627
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 429,
+    "name": "Esteves, Cristof",
+    "finish_time": "01:17:11",
+    "finish_seconds": 4631
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 431,
+    "name": "Owens, David",
+    "finish_time": "01:17:14",
+    "finish_seconds": 4634
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 433,
+    "name": "Cattin, Emilien",
+    "finish_time": "01:17:15",
+    "finish_seconds": 4635
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 435,
+    "name": "Alessio, Scatamacchia",
+    "finish_time": "01:17:16",
+    "finish_seconds": 4636
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 437,
+    "name": "Binnie, Liam",
+    "finish_time": "01:17:17",
+    "finish_seconds": 4637
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 439,
+    "name": "Pavan, Charly",
+    "finish_time": "01:17:22",
+    "finish_seconds": 4642
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 441,
+    "name": "Merz, Mika Niels",
+    "finish_time": "01:17:24",
+    "finish_seconds": 4644
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 443,
+    "name": "Delarieu, Bastien",
+    "finish_time": "01:17:26",
+    "finish_seconds": 4646
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 445,
+    "name": "Smith, Christopher",
+    "finish_time": "01:17:36",
+    "finish_seconds": 4656
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 447,
+    "name": "Belnap, Chris",
+    "finish_time": "01:17:38",
+    "finish_seconds": 4658
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 449,
+    "name": "Ribes, Vincent",
+    "finish_time": "01:17:40",
+    "finish_seconds": 4660
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 451,
+    "name": "Pinson, Anthony",
+    "finish_time": "01:17:44",
+    "finish_seconds": 4664
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 453,
+    "name": "Garcia, Jonathan",
+    "finish_time": "01:17:45",
+    "finish_seconds": 4665
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 455,
+    "name": "bade, benjamin",
+    "finish_time": "01:17:48",
+    "finish_seconds": 4668
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 457,
+    "name": "Florean, Victor",
+    "finish_time": "01:17:50",
+    "finish_seconds": 4670
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 459,
+    "name": "Mercier Freppaz, Mathieu",
+    "finish_time": "01:17:51",
+    "finish_seconds": 4671
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 461,
+    "name": "Germain, Antoine",
+    "finish_time": "01:17:55",
+    "finish_seconds": 4675
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 463,
+    "name": "PAVINET, Bertrand",
+    "finish_time": "01:17:57",
+    "finish_seconds": 4677
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 465,
+    "name": "Allion, Geoffrey",
+    "finish_time": "01:18:03",
+    "finish_seconds": 4683
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 467,
+    "name": "Surieux, Gregory",
+    "finish_time": "01:18:04",
+    "finish_seconds": 4684
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 469,
+    "name": "Malignier, Maxime",
+    "finish_time": "01:18:06",
+    "finish_seconds": 4686
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 471,
+    "name": "Heer, Bastian",
+    "finish_time": "01:18:08",
+    "finish_seconds": 4688
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 473,
+    "name": "gravrand, olivier",
+    "finish_time": "01:18:10",
+    "finish_seconds": 4690
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 475,
+    "name": "Tovaglieri, Florian",
+    "finish_time": "01:18:11",
+    "finish_seconds": 4691
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 477,
+    "name": "Tissot, Jordy",
+    "finish_time": "01:18:17",
+    "finish_seconds": 4697
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 479,
+    "name": "Garau, Mickael",
+    "finish_time": "01:18:18",
+    "finish_seconds": 4698
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 481,
+    "name": "LAKBAL, Aziz",
+    "finish_time": "01:18:20",
+    "finish_seconds": 4700
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 483,
+    "name": "Chavanne, Laurent",
+    "finish_time": "01:18:22",
+    "finish_seconds": 4702
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 485,
+    "name": "Feutrier, Hugo",
+    "finish_time": "01:18:24",
+    "finish_seconds": 4704
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 487,
+    "name": "Serna Alvarado, Alfonso",
+    "finish_time": "01:18:24",
+    "finish_seconds": 4704
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 489,
+    "name": "P., Filipe",
+    "finish_time": "01:18:27",
+    "finish_seconds": 4707
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 491,
+    "name": "Pierre, Quentin",
+    "finish_time": "01:18:28",
+    "finish_seconds": 4708
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 493,
+    "name": "Resta, Juliano",
+    "finish_time": "01:18:29",
+    "finish_seconds": 4709
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 495,
+    "name": "Au Yeung, Kar Yin",
+    "finish_time": "01:18:31",
+    "finish_seconds": 4711
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 497,
+    "name": "Python, Adrien",
+    "finish_time": "01:18:36",
+    "finish_seconds": 4716
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 499,
+    "name": "Musy, Andy",
+    "finish_time": "01:18:41",
+    "finish_seconds": 4721
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 501,
+    "name": "Mackin, Sam",
+    "finish_time": "01:18:45",
+    "finish_seconds": 4725
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 503,
+    "name": "Mennetrier, Jonathan",
+    "finish_time": "01:18:54",
+    "finish_seconds": 4734
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 505,
+    "name": "Weber, Tobias",
+    "finish_time": "01:18:56",
+    "finish_seconds": 4736
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 507,
+    "name": "Zimmermann, Michael",
+    "finish_time": "01:18:58",
+    "finish_seconds": 4738
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 509,
+    "name": "Schaufelberger, Martin",
+    "finish_time": "01:19:01",
+    "finish_seconds": 4741
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 511,
+    "name": "Briffod, Mathieu",
+    "finish_time": "01:19:01",
+    "finish_seconds": 4741
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 513,
+    "name": "De Lihovskoi, Thomas",
+    "finish_time": "01:19:02",
+    "finish_seconds": 4742
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 515,
+    "name": "Ollier, Julien",
+    "finish_time": "01:19:09",
+    "finish_seconds": 4749
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 517,
+    "name": "Kootz, J\u00e9r\u00e9my",
+    "finish_time": "01:19:10",
+    "finish_seconds": 4750
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 519,
+    "name": "Vainger, Alon",
+    "finish_time": "01:19:10",
+    "finish_seconds": 4750
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 521,
+    "name": "Leal, Victor",
+    "finish_time": "01:19:14",
+    "finish_seconds": 4754
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 523,
+    "name": "Vaucher, Xavier",
+    "finish_time": "01:19:17",
+    "finish_seconds": 4757
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 525,
+    "name": "Le marchand, R\u00e9gis",
+    "finish_time": "01:19:20",
+    "finish_seconds": 4760
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 527,
+    "name": "Faure, J\u00e9r\u00f4me",
+    "finish_time": "01:19:20",
+    "finish_seconds": 4760
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 529,
+    "name": "Mayer, S\u00e9bastien",
+    "finish_time": "01:19:22",
+    "finish_seconds": 4762
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 531,
+    "name": "Piller, Norman",
+    "finish_time": "01:19:23",
+    "finish_seconds": 4763
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 533,
+    "name": "Smith, Ryan",
+    "finish_time": "01:19:28",
+    "finish_seconds": 4768
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 535,
+    "name": "Charretour, L\u00e9o",
+    "finish_time": "01:19:31",
+    "finish_seconds": 4771
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 537,
+    "name": "Zundel, Hadrien",
+    "finish_time": "01:19:33",
+    "finish_seconds": 4773
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 539,
+    "name": "DILLIES, Simon",
+    "finish_time": "01:19:35",
+    "finish_seconds": 4775
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 541,
+    "name": "Bentele, Diego",
+    "finish_time": "01:19:38",
+    "finish_seconds": 4778
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 543,
+    "name": "Schneider, Sascha",
+    "finish_time": "01:19:42",
+    "finish_seconds": 4782
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 545,
+    "name": "Jordi, Juerg",
+    "finish_time": "01:19:44",
+    "finish_seconds": 4784
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 547,
+    "name": "Gutknecht, Xavier",
+    "finish_time": "01:19:47",
+    "finish_seconds": 4787
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 549,
+    "name": "Scalia, Gautier",
+    "finish_time": "01:19:51",
+    "finish_seconds": 4791
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 551,
+    "name": "SAIDI, Raouf",
+    "finish_time": "01:19:51",
+    "finish_seconds": 4791
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 553,
+    "name": "B\u00e9rard, Yann-Eric",
+    "finish_time": "01:19:56",
+    "finish_seconds": 4796
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 555,
+    "name": "Ninet, Etienne",
+    "finish_time": "01:20:02",
+    "finish_seconds": 4802
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 557,
+    "name": "Leung, Shing Tai",
+    "finish_time": "01:20:05",
+    "finish_seconds": 4805
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 559,
+    "name": "Tandrianto, Kevin",
+    "finish_time": "01:20:06",
+    "finish_seconds": 4806
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 561,
+    "name": "Besse, Anthony",
+    "finish_time": "01:20:09",
+    "finish_seconds": 4809
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 563,
+    "name": "Paulcan, Jonathan",
+    "finish_time": "01:20:09",
+    "finish_seconds": 4809
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 565,
+    "name": "SOINARD, Miguel",
+    "finish_time": "01:20:11",
+    "finish_seconds": 4811
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 567,
+    "name": "Vincent Byche, Laurent",
+    "finish_time": "01:20:13",
+    "finish_seconds": 4813
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 569,
+    "name": "Henry, Augustin",
+    "finish_time": "01:20:14",
+    "finish_seconds": 4814
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 571,
+    "name": "Nzola, Jonas",
+    "finish_time": "01:20:20",
+    "finish_seconds": 4820
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 573,
+    "name": "Diniz, Brice",
+    "finish_time": "01:20:24",
+    "finish_seconds": 4824
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 575,
+    "name": "Wasser, Valentin",
+    "finish_time": "01:20:26",
+    "finish_seconds": 4826
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 577,
+    "name": "Dearden, Stuart",
+    "finish_time": "01:20:39",
+    "finish_seconds": 4839
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 579,
+    "name": "Conne, Jeremy",
+    "finish_time": "01:20:40",
+    "finish_seconds": 4840
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 581,
+    "name": "Mann, Damien",
+    "finish_time": "01:20:43",
+    "finish_seconds": 4843
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 583,
+    "name": "Minot, Benjamin",
+    "finish_time": "01:20:45",
+    "finish_seconds": 4845
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 585,
+    "name": "Greco, Alessandro",
+    "finish_time": "01:20:46",
+    "finish_seconds": 4846
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 587,
+    "name": "Francioli, Laurent",
+    "finish_time": "01:20:47",
+    "finish_seconds": 4847
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 589,
+    "name": "Vaysse, Florian",
+    "finish_time": "01:20:49",
+    "finish_seconds": 4849
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 591,
+    "name": "Dhindwal, Sunil",
+    "finish_time": "01:20:52",
+    "finish_seconds": 4852
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 593,
+    "name": "Ouahbi, Bilal",
+    "finish_time": "01:21:00",
+    "finish_seconds": 4860
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 595,
+    "name": "LAMY, Francois",
+    "finish_time": "01:21:01",
+    "finish_seconds": 4861
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 597,
+    "name": "Massy, St\u00e9phane",
+    "finish_time": "01:21:02",
+    "finish_seconds": 4862
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 599,
+    "name": "Terraes, Maxime",
+    "finish_time": "01:21:03",
+    "finish_seconds": 4863
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 601,
+    "name": "Neukomm, J\u00e9r\u00e9my",
+    "finish_time": "01:21:08",
+    "finish_seconds": 4868
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 603,
+    "name": "Basseville, Paul",
+    "finish_time": "01:21:11",
+    "finish_seconds": 4871
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 605,
+    "name": "Mathieu, Anthony",
+    "finish_time": "01:21:15",
+    "finish_seconds": 4875
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 607,
+    "name": "Milosek, Grzegorz",
+    "finish_time": "01:21:17",
+    "finish_seconds": 4877
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 609,
+    "name": "Leber, Robin",
+    "finish_time": "01:21:20",
+    "finish_seconds": 4880
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 611,
+    "name": "Eloto, Guillaume",
+    "finish_time": "01:21:23",
+    "finish_seconds": 4883
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 613,
+    "name": "Di maria, Mathieu",
+    "finish_time": "01:21:27",
+    "finish_seconds": 4887
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 615,
+    "name": "Lindenau, Oskar",
+    "finish_time": "01:21:28",
+    "finish_seconds": 4888
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 617,
+    "name": "Heller, Thomas",
+    "finish_time": "01:21:30",
+    "finish_seconds": 4890
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 619,
+    "name": "Latham, Carl",
+    "finish_time": "01:21:31",
+    "finish_seconds": 4891
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 621,
+    "name": "MAJAL, sebastien",
+    "finish_time": "01:21:32",
+    "finish_seconds": 4892
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 623,
+    "name": "Watt, Gareth",
+    "finish_time": "01:21:37",
+    "finish_seconds": 4897
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 625,
+    "name": "Rollot, Christophe",
+    "finish_time": "01:21:37",
+    "finish_seconds": 4897
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 627,
+    "name": "Loweth, Robert",
+    "finish_time": "01:21:37",
+    "finish_seconds": 4897
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 629,
+    "name": "Epale, Romain",
+    "finish_time": "01:21:43",
+    "finish_seconds": 4903
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 631,
+    "name": "Gitsham, Kai",
+    "finish_time": "01:21:47",
+    "finish_seconds": 4907
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 633,
+    "name": "Abegglen, David",
+    "finish_time": "01:21:51",
+    "finish_seconds": 4911
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 635,
+    "name": "Pacheco, Samuel",
+    "finish_time": "01:21:54",
+    "finish_seconds": 4914
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 637,
+    "name": "DESQUIENS, Valentin",
+    "finish_time": "01:21:55",
+    "finish_seconds": 4915
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 639,
+    "name": "Z\u00fcrcher, Kevin",
+    "finish_time": "01:21:57",
+    "finish_seconds": 4917
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 641,
+    "name": "Mico, Gr\u00e9goire",
+    "finish_time": "01:21:58",
+    "finish_seconds": 4918
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 643,
+    "name": "Garcia, Romaric",
+    "finish_time": "01:21:59",
+    "finish_seconds": 4919
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 645,
+    "name": "Kutz, Kevin",
+    "finish_time": "01:22:00",
+    "finish_seconds": 4920
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 647,
+    "name": "Aebersold, Lukas",
+    "finish_time": "01:22:03",
+    "finish_seconds": 4923
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 649,
+    "name": "Giroud, Maxime",
+    "finish_time": "01:22:04",
+    "finish_seconds": 4924
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 651,
+    "name": "Bidusenko, Yevgeniy",
+    "finish_time": "01:22:09",
+    "finish_seconds": 4929
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 653,
+    "name": "Gunziger, Neal",
+    "finish_time": "01:22:11",
+    "finish_seconds": 4931
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 655,
+    "name": "Ouertani, Kamel",
+    "finish_time": "01:22:13",
+    "finish_seconds": 4933
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 657,
+    "name": "G\u00f6kkoruk, \u00d6zcan",
+    "finish_time": "01:22:15",
+    "finish_seconds": 4935
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 659,
+    "name": "Pillay, Ricardo",
+    "finish_time": "01:22:18",
+    "finish_seconds": 4938
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 661,
+    "name": "Provins, Steve",
+    "finish_time": "01:22:25",
+    "finish_seconds": 4945
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 663,
+    "name": "H\u00f6rler, Kevin",
+    "finish_time": "01:22:29",
+    "finish_seconds": 4949
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 665,
+    "name": "Brunner, Mike",
+    "finish_time": "01:22:30",
+    "finish_seconds": 4950
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 667,
+    "name": "Moranda, Giuseppe",
+    "finish_time": "01:22:32",
+    "finish_seconds": 4952
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 669,
+    "name": "Tamisier, Leo",
+    "finish_time": "01:22:32",
+    "finish_seconds": 4952
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 671,
+    "name": "Worku, Nathanael",
+    "finish_time": "01:22:34",
+    "finish_seconds": 4954
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 673,
+    "name": "Rouiller, St\u00e9phane",
+    "finish_time": "01:22:40",
+    "finish_seconds": 4960
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 675,
+    "name": "Chanal, Theo",
+    "finish_time": "01:22:44",
+    "finish_seconds": 4964
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 677,
+    "name": "Ludin, Simon",
+    "finish_time": "01:22:46",
+    "finish_seconds": 4966
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 679,
+    "name": "Michelazzi, Johan",
+    "finish_time": "01:22:49",
+    "finish_seconds": 4969
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 681,
+    "name": "Bocquenet, Xavier",
+    "finish_time": "01:22:54",
+    "finish_seconds": 4974
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 683,
+    "name": "Morizot, Matthieu",
+    "finish_time": "01:22:58",
+    "finish_seconds": 4978
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 685,
+    "name": "Manas, Marc",
+    "finish_time": "01:22:59",
+    "finish_seconds": 4979
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 687,
+    "name": "Pichon, Nicolas",
+    "finish_time": "01:23:01",
+    "finish_seconds": 4981
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 689,
+    "name": "Kinsella, Noel",
+    "finish_time": "01:23:03",
+    "finish_seconds": 4983
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 691,
+    "name": "Baud-Grasset, Christian",
+    "finish_time": "01:23:04",
+    "finish_seconds": 4984
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 693,
+    "name": "Flamant, Thibaut",
+    "finish_time": "01:23:08",
+    "finish_seconds": 4988
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 695,
+    "name": "Gauthey, Julien",
+    "finish_time": "01:23:11",
+    "finish_seconds": 4991
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 697,
+    "name": "Imhof, Jimoh",
+    "finish_time": "01:23:14",
+    "finish_seconds": 4994
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 699,
+    "name": "Mokeddem, Fathi",
+    "finish_time": "01:23:17",
+    "finish_seconds": 4997
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 701,
+    "name": "Nelson, Matthew",
+    "finish_time": "01:23:21",
+    "finish_seconds": 5001
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 703,
+    "name": "N\u00e8gre, Marc",
+    "finish_time": "01:23:23",
+    "finish_seconds": 5003
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 705,
+    "name": "Bussy, Bastien",
+    "finish_time": "01:23:27",
+    "finish_seconds": 5007
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 707,
+    "name": "Emery, Remy",
+    "finish_time": "01:23:27",
+    "finish_seconds": 5007
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 709,
+    "name": "LAGRIFFOUL, Lo\u00efc",
+    "finish_time": "01:23:29",
+    "finish_seconds": 5009
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 711,
+    "name": "Gruchet, Fabien",
+    "finish_time": "01:23:33",
+    "finish_seconds": 5013
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 713,
+    "name": "Maire, Tim\u00e9o",
+    "finish_time": "01:23:35",
+    "finish_seconds": 5015
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 715,
+    "name": "Huanca, Luis",
+    "finish_time": "01:23:43",
+    "finish_seconds": 5023
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 717,
+    "name": "Ruppert, Cyril",
+    "finish_time": "01:23:44",
+    "finish_seconds": 5024
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 719,
+    "name": "O\u2019Brien, Kyle",
+    "finish_time": "01:23:47",
+    "finish_seconds": 5027
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 721,
+    "name": "Durand, Matheo",
+    "finish_time": "01:23:49",
+    "finish_seconds": 5029
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 723,
+    "name": "Imhof, Jonathan",
+    "finish_time": "01:23:55",
+    "finish_seconds": 5035
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 725,
+    "name": "Di Natale, Bruno",
+    "finish_time": "01:24:00",
+    "finish_seconds": 5040
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 727,
+    "name": "Kamm, Patrick",
+    "finish_time": "01:24:04",
+    "finish_seconds": 5044
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 729,
+    "name": "Rime, Adrien",
+    "finish_time": "01:24:06",
+    "finish_seconds": 5046
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 731,
+    "name": "Paris, Jonathan",
+    "finish_time": "01:24:11",
+    "finish_seconds": 5051
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 733,
+    "name": "Levrier, Franck",
+    "finish_time": "01:24:14",
+    "finish_seconds": 5054
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 735,
+    "name": "P\u00e9rez Moreno, Manuel",
+    "finish_time": "01:24:15",
+    "finish_seconds": 5055
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 737,
+    "name": "Van Alphen, Willem",
+    "finish_time": "01:24:18",
+    "finish_seconds": 5058
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 739,
+    "name": "Woolley, Chris",
+    "finish_time": "01:24:24",
+    "finish_seconds": 5064
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 741,
+    "name": "Raoux, Alexandre",
+    "finish_time": "01:24:27",
+    "finish_seconds": 5067
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 743,
+    "name": "Viviand, Thibault",
+    "finish_time": "01:24:30",
+    "finish_seconds": 5070
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 745,
+    "name": "Paquet, Andrew-kerrin",
+    "finish_time": "01:24:31",
+    "finish_seconds": 5071
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 747,
+    "name": "Robert, S\u00e9bastien",
+    "finish_time": "01:24:32",
+    "finish_seconds": 5072
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 749,
+    "name": "Harrison, Julian",
+    "finish_time": "01:24:38",
+    "finish_seconds": 5078
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 751,
+    "name": "Martin, Arnaud",
+    "finish_time": "01:24:41",
+    "finish_seconds": 5081
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 753,
+    "name": "Barbier, R\u00e9my",
+    "finish_time": "01:24:43",
+    "finish_seconds": 5083
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 755,
+    "name": "Jablonski, Dirk",
+    "finish_time": "01:24:47",
+    "finish_seconds": 5087
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 757,
+    "name": "Buis, Benjamin",
+    "finish_time": "01:24:51",
+    "finish_seconds": 5091
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 759,
+    "name": "GRANGER, Alexandre",
+    "finish_time": "01:24:54",
+    "finish_seconds": 5094
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 761,
+    "name": "Kneuss, Dimitri",
+    "finish_time": "01:24:56",
+    "finish_seconds": 5096
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 763,
+    "name": "Lambertin, Cl\u00e9ment",
+    "finish_time": "01:25:01",
+    "finish_seconds": 5101
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 765,
+    "name": "aletti, andrea",
+    "finish_time": "01:25:02",
+    "finish_seconds": 5102
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 767,
+    "name": "Berger, Basile",
+    "finish_time": "01:25:07",
+    "finish_seconds": 5107
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 769,
+    "name": "Semoulin, Maxime",
+    "finish_time": "01:25:13",
+    "finish_seconds": 5113
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 771,
+    "name": "Reinhart, Christopher",
+    "finish_time": "01:25:15",
+    "finish_seconds": 5115
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 773,
+    "name": "Lardin, Florent",
+    "finish_time": "01:25:20",
+    "finish_seconds": 5120
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 775,
+    "name": "Berset, Thierry",
+    "finish_time": "01:25:22",
+    "finish_seconds": 5122
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 777,
+    "name": "Di Napoli, Marco",
+    "finish_time": "01:25:22",
+    "finish_seconds": 5122
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 779,
+    "name": "Burgener, Thierry",
+    "finish_time": "01:25:31",
+    "finish_seconds": 5131
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 781,
+    "name": "Gross, Axel",
+    "finish_time": "01:25:32",
+    "finish_seconds": 5132
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 783,
+    "name": "Leandro, Antonio",
+    "finish_time": "01:25:33",
+    "finish_seconds": 5133
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 785,
+    "name": "Truhan Libran, Ilan",
+    "finish_time": "01:25:36",
+    "finish_seconds": 5136
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 787,
+    "name": "Steinegger, Fabian",
+    "finish_time": "01:25:41",
+    "finish_seconds": 5141
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 789,
+    "name": "Walter, Brice",
+    "finish_time": "01:25:41",
+    "finish_seconds": 5141
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 791,
+    "name": "Bonnat, Julien",
+    "finish_time": "01:25:44",
+    "finish_seconds": 5144
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 793,
+    "name": "Perez, Norbert",
+    "finish_time": "01:25:49",
+    "finish_seconds": 5149
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 795,
+    "name": "Saflianis, Georgios",
+    "finish_time": "01:25:54",
+    "finish_seconds": 5154
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 797,
+    "name": "Graf, Vincent",
+    "finish_time": "01:25:58",
+    "finish_seconds": 5158
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 799,
+    "name": "SAGU\u00c9, JULIEN",
+    "finish_time": "01:26:02",
+    "finish_seconds": 5162
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 801,
+    "name": "Diethelm, Christoph",
+    "finish_time": "01:26:04",
+    "finish_seconds": 5164
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 803,
+    "name": "Fluri, Roman",
+    "finish_time": "01:26:06",
+    "finish_seconds": 5166
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 805,
+    "name": "Alirezai, Saman",
+    "finish_time": "01:26:07",
+    "finish_seconds": 5167
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 807,
+    "name": "Glaise, Paul",
+    "finish_time": "01:26:09",
+    "finish_seconds": 5169
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 809,
+    "name": "Spruck, Marius",
+    "finish_time": "01:26:13",
+    "finish_seconds": 5173
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 811,
+    "name": "Brendle, Thomas",
+    "finish_time": "01:26:14",
+    "finish_seconds": 5174
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 813,
+    "name": "Prieur, Mathieu",
+    "finish_time": "01:26:18",
+    "finish_seconds": 5178
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 815,
+    "name": "Charreyre, Jerome",
+    "finish_time": "01:26:20",
+    "finish_seconds": 5180
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 817,
+    "name": "Pivron, Victor",
+    "finish_time": "01:26:30",
+    "finish_seconds": 5190
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 819,
+    "name": "Suiffon, Etienne",
+    "finish_time": "01:26:34",
+    "finish_seconds": 5194
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 821,
+    "name": "Boulgak, Eric",
+    "finish_time": "01:26:36",
+    "finish_seconds": 5196
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 823,
+    "name": "Henchoz, Maxime",
+    "finish_time": "01:26:41",
+    "finish_seconds": 5201
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 825,
+    "name": "Maughan, Tom",
+    "finish_time": "01:26:44",
+    "finish_seconds": 5204
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 827,
+    "name": "Lievrard, Maxence",
+    "finish_time": "01:26:48",
+    "finish_seconds": 5208
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 829,
+    "name": "FLEISSNER, jeremie",
+    "finish_time": "01:26:52",
+    "finish_seconds": 5212
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 831,
+    "name": "Fernandes, Jerome",
+    "finish_time": "01:26:55",
+    "finish_seconds": 5215
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 833,
+    "name": "Le Bou\u00ebdec, Brendan",
+    "finish_time": "01:26:57",
+    "finish_seconds": 5217
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 835,
+    "name": "Poirot, Nicolas",
+    "finish_time": "01:26:58",
+    "finish_seconds": 5218
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 837,
+    "name": "Leschelet, Cl\u00e9ment",
+    "finish_time": "01:27:03",
+    "finish_seconds": 5223
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 839,
+    "name": "Branger, Tom",
+    "finish_time": "01:27:06",
+    "finish_seconds": 5226
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 841,
+    "name": "Berthier, Maxime",
+    "finish_time": "01:27:09",
+    "finish_seconds": 5229
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 843,
+    "name": "Nicolet, Charles",
+    "finish_time": "01:27:10",
+    "finish_seconds": 5230
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 845,
+    "name": "Kohler, Fredi",
+    "finish_time": "01:27:12",
+    "finish_seconds": 5232
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 847,
+    "name": "Patricio, Filipe",
+    "finish_time": "01:27:17",
+    "finish_seconds": 5237
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 849,
+    "name": "Seifried, Kay",
+    "finish_time": "01:27:18",
+    "finish_seconds": 5238
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 851,
+    "name": "Kohl, Mathieu",
+    "finish_time": "01:27:28",
+    "finish_seconds": 5248
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 853,
+    "name": "Juchat, Romain",
+    "finish_time": "01:27:35",
+    "finish_seconds": 5255
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 855,
+    "name": "Alaoui, Gibran",
+    "finish_time": "01:27:44",
+    "finish_seconds": 5264
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 857,
+    "name": "Soukli, Mahdi",
+    "finish_time": "01:27:56",
+    "finish_seconds": 5276
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 859,
+    "name": "Degroote, Vincent",
+    "finish_time": "01:27:57",
+    "finish_seconds": 5277
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 861,
+    "name": "Reinhard, Marcel",
+    "finish_time": "01:28:00",
+    "finish_seconds": 5280
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 863,
+    "name": "Menon, Alok",
+    "finish_time": "01:28:05",
+    "finish_seconds": 5285
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 865,
+    "name": "Evain, Pierre",
+    "finish_time": "01:28:07",
+    "finish_seconds": 5287
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 867,
+    "name": "Bull, Daniel",
+    "finish_time": "01:28:08",
+    "finish_seconds": 5288
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 869,
+    "name": "Semsi, Luis",
+    "finish_time": "01:28:08",
+    "finish_seconds": 5288
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 871,
+    "name": "Bonvin, Nicolas",
+    "finish_time": "01:28:12",
+    "finish_seconds": 5292
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 873,
+    "name": "Cote, Alexandre",
+    "finish_time": "01:28:15",
+    "finish_seconds": 5295
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 875,
+    "name": "Charron, Florian",
+    "finish_time": "01:28:20",
+    "finish_seconds": 5300
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 877,
+    "name": "Amer, Gregor",
+    "finish_time": "01:28:24",
+    "finish_seconds": 5304
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 879,
+    "name": "Baumgartner, Erwin",
+    "finish_time": "01:28:26",
+    "finish_seconds": 5306
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 881,
+    "name": "Prunier, Hugo",
+    "finish_time": "01:28:30",
+    "finish_seconds": 5310
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 883,
+    "name": "Meier, Patrick",
+    "finish_time": "01:28:32",
+    "finish_seconds": 5312
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 885,
+    "name": "Beeri, Christoph",
+    "finish_time": "01:28:39",
+    "finish_seconds": 5319
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 887,
+    "name": "Rosset, Loris",
+    "finish_time": "01:28:43",
+    "finish_seconds": 5323
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 889,
+    "name": "Stauffer, Damien",
+    "finish_time": "01:28:45",
+    "finish_seconds": 5325
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 891,
+    "name": "Gemin, Florian",
+    "finish_time": "01:28:54",
+    "finish_seconds": 5334
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 893,
+    "name": "Tenaud, Florian",
+    "finish_time": "01:29:00",
+    "finish_seconds": 5340
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 895,
+    "name": "Ciadamidaro Lopez, J. Vladimir",
+    "finish_time": "01:29:02",
+    "finish_seconds": 5342
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 897,
+    "name": "Gillabert, Jean-Pierre",
+    "finish_time": "01:29:06",
+    "finish_seconds": 5346
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 899,
+    "name": "Hesketh, David",
+    "finish_time": "01:29:10",
+    "finish_seconds": 5350
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 901,
+    "name": "Legendre, Aur\u00e9lien",
+    "finish_time": "01:29:16",
+    "finish_seconds": 5356
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 903,
+    "name": "Beaume, Nicolas",
+    "finish_time": "01:29:22",
+    "finish_seconds": 5362
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 905,
+    "name": "Dariche, Mathieu",
+    "finish_time": "01:29:24",
+    "finish_seconds": 5364
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 907,
+    "name": "Baumann, Rene",
+    "finish_time": "01:29:25",
+    "finish_seconds": 5365
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 909,
+    "name": "Talaepa, Michael",
+    "finish_time": "01:29:30",
+    "finish_seconds": 5370
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 911,
+    "name": "Carrara, Mathys",
+    "finish_time": "01:29:33",
+    "finish_seconds": 5373
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 913,
+    "name": "Meunier, Marius",
+    "finish_time": "01:29:36",
+    "finish_seconds": 5376
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 915,
+    "name": "Tesic, Ratko",
+    "finish_time": "01:29:39",
+    "finish_seconds": 5379
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 917,
+    "name": "Raufaste, Kevin",
+    "finish_time": "01:29:42",
+    "finish_seconds": 5382
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 919,
+    "name": "Chandra, Christopher",
+    "finish_time": "01:29:42",
+    "finish_seconds": 5382
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 921,
+    "name": "STAUB, YANN",
+    "finish_time": "01:29:48",
+    "finish_seconds": 5388
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 923,
+    "name": "Morel, Mathieu",
+    "finish_time": "01:29:52",
+    "finish_seconds": 5392
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 925,
+    "name": "Davies, Gareth",
+    "finish_time": "01:29:55",
+    "finish_seconds": 5395
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 927,
+    "name": "Bohnacker, Mario",
+    "finish_time": "01:29:59",
+    "finish_seconds": 5399
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 929,
+    "name": "Asti\u00e9, S\u00e9bastien",
+    "finish_time": "01:30:15",
+    "finish_seconds": 5415
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 931,
+    "name": "Marty, Pierrick",
+    "finish_time": "01:30:27",
+    "finish_seconds": 5427
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 933,
+    "name": "Boucherit, Benjamin",
+    "finish_time": "01:30:30",
+    "finish_seconds": 5430
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 935,
+    "name": "Musey, Markus",
+    "finish_time": "01:30:34",
+    "finish_seconds": 5434
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 937,
+    "name": "Waeber, Christophe",
+    "finish_time": "01:30:34",
+    "finish_seconds": 5434
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 939,
+    "name": "Jimenez Jr, Ricardo",
+    "finish_time": "01:30:41",
+    "finish_seconds": 5441
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 941,
+    "name": "Sauter, Stefan",
+    "finish_time": "01:30:42",
+    "finish_seconds": 5442
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 943,
+    "name": "H\u00fcrlimann, Gr\u00e9gory",
+    "finish_time": "01:30:45",
+    "finish_seconds": 5445
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 945,
+    "name": "Ardhuin, Antoine",
+    "finish_time": "01:30:49",
+    "finish_seconds": 5449
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 947,
+    "name": "Ruhland, Thomas",
+    "finish_time": "01:30:52",
+    "finish_seconds": 5452
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 949,
+    "name": "Jacquet, David",
+    "finish_time": "01:31:00",
+    "finish_seconds": 5460
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 951,
+    "name": "dos Santos, David",
+    "finish_time": "01:31:07",
+    "finish_seconds": 5467
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 953,
+    "name": "CHAMPY, Anthony",
+    "finish_time": "01:31:12",
+    "finish_seconds": 5472
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 955,
+    "name": "Dieffenbacher, Samuel",
+    "finish_time": "01:31:17",
+    "finish_seconds": 5477
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 957,
+    "name": "Robert, Flavien",
+    "finish_time": "01:31:23",
+    "finish_seconds": 5483
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 959,
+    "name": "Garnelli, Kevin",
+    "finish_time": "01:31:24",
+    "finish_seconds": 5484
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 961,
+    "name": "Hold, Daniel",
+    "finish_time": "01:31:26",
+    "finish_seconds": 5486
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 963,
+    "name": "Alves, Stephane",
+    "finish_time": "01:31:34",
+    "finish_seconds": 5494
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 965,
+    "name": "Bonnet, Johan",
+    "finish_time": "01:31:35",
+    "finish_seconds": 5495
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 967,
+    "name": "Carrocci, Nicolas",
+    "finish_time": "01:31:38",
+    "finish_seconds": 5498
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 969,
+    "name": "Van Alphen, Jochem",
+    "finish_time": "01:31:41",
+    "finish_seconds": 5501
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 971,
+    "name": "Le Bou\u00ebdec, Ma\u00ebl",
+    "finish_time": "01:31:44",
+    "finish_seconds": 5504
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 973,
+    "name": "Rossy, Yannick",
+    "finish_time": "01:31:45",
+    "finish_seconds": 5505
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 975,
+    "name": "MEZIANE, Khelifa",
+    "finish_time": "01:31:47",
+    "finish_seconds": 5507
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 977,
+    "name": "Giraud, Romain",
+    "finish_time": "01:31:51",
+    "finish_seconds": 5511
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 979,
+    "name": "Minuto Lagorio, Lorenzo",
+    "finish_time": "01:31:56",
+    "finish_seconds": 5516
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 981,
+    "name": "Schranz, Andreas",
+    "finish_time": "01:32:05",
+    "finish_seconds": 5525
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 983,
+    "name": "Marques, Filipe",
+    "finish_time": "01:32:10",
+    "finish_seconds": 5530
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 985,
+    "name": "Ortuno, Alexandre",
+    "finish_time": "01:32:10",
+    "finish_seconds": 5530
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 987,
+    "name": "Multignier, Hugo",
+    "finish_time": "01:32:18",
+    "finish_seconds": 5538
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 989,
+    "name": "Andriulo, Misael",
+    "finish_time": "01:32:21",
+    "finish_seconds": 5541
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 991,
+    "name": "Picard, Jonathan",
+    "finish_time": "01:32:24",
+    "finish_seconds": 5544
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 993,
+    "name": "Mouny, Quentin",
+    "finish_time": "01:32:29",
+    "finish_seconds": 5549
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 995,
+    "name": "Heiter, Kai",
+    "finish_time": "01:32:34",
+    "finish_seconds": 5554
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 997,
+    "name": "Ramizovic, Ramo",
+    "finish_time": "01:32:35",
+    "finish_seconds": 5555
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 999,
+    "name": "Scherer, Marcel",
+    "finish_time": "01:32:37",
+    "finish_seconds": 5557
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1001,
+    "name": "Hass, Simon",
+    "finish_time": "01:32:42",
+    "finish_seconds": 5562
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1003,
+    "name": "Feisst, Manfred",
+    "finish_time": "01:32:47",
+    "finish_seconds": 5567
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1005,
+    "name": "Kibaly, Moussa",
+    "finish_time": "01:32:54",
+    "finish_seconds": 5574
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1007,
+    "name": "Correia, Max",
+    "finish_time": "01:32:56",
+    "finish_seconds": 5576
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1009,
+    "name": "Osorio, Andr\u00e9",
+    "finish_time": "01:32:56",
+    "finish_seconds": 5576
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1011,
+    "name": "Grol\u00e9, K\u00e9vin",
+    "finish_time": "01:33:01",
+    "finish_seconds": 5581
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1013,
+    "name": "CHETAUD, Jonathan",
+    "finish_time": "01:33:07",
+    "finish_seconds": 5587
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1015,
+    "name": "Jutzi, Marc",
+    "finish_time": "01:33:24",
+    "finish_seconds": 5604
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1017,
+    "name": "Blum, Hans",
+    "finish_time": "01:33:33",
+    "finish_seconds": 5613
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1019,
+    "name": "Jacquiot, Lucas",
+    "finish_time": "01:33:36",
+    "finish_seconds": 5616
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1021,
+    "name": "R\u00e9lin-Simonnot, Gilles",
+    "finish_time": "01:33:44",
+    "finish_seconds": 5624
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1023,
+    "name": "ROLLAND, Nicolas",
+    "finish_time": "01:33:47",
+    "finish_seconds": 5627
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1025,
+    "name": "Gaspar, Telmo",
+    "finish_time": "01:33:53",
+    "finish_seconds": 5633
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1027,
+    "name": "Robert-Nicoud, Lo\u00efc",
+    "finish_time": "01:33:57",
+    "finish_seconds": 5637
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1029,
+    "name": "Raschetti, Eliot",
+    "finish_time": "01:34:02",
+    "finish_seconds": 5642
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1031,
+    "name": "McNiven, Jack",
+    "finish_time": "01:34:12",
+    "finish_seconds": 5652
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1033,
+    "name": "Fasano, Anthony",
+    "finish_time": "01:34:15",
+    "finish_seconds": 5655
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1035,
+    "name": "Ozdemir, Umit",
+    "finish_time": "01:34:20",
+    "finish_seconds": 5660
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1037,
+    "name": "Zimmermann, Niels",
+    "finish_time": "01:34:27",
+    "finish_seconds": 5667
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1039,
+    "name": "Felder, Andreas",
+    "finish_time": "01:34:38",
+    "finish_seconds": 5678
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1041,
+    "name": "Leenders, Tijmen",
+    "finish_time": "01:34:41",
+    "finish_seconds": 5681
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1043,
+    "name": "ROLLIN, ROMAIN",
+    "finish_time": "01:34:53",
+    "finish_seconds": 5693
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1045,
+    "name": "Villiger, Michael",
+    "finish_time": "01:34:57",
+    "finish_seconds": 5697
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1047,
+    "name": "Tsybulevsky, Kirill",
+    "finish_time": "01:35:03",
+    "finish_seconds": 5703
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1049,
+    "name": "Toggweiler, Benjamin",
+    "finish_time": "01:35:05",
+    "finish_seconds": 5705
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1051,
+    "name": "Spiro, Attila",
+    "finish_time": "01:35:12",
+    "finish_seconds": 5712
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1053,
+    "name": "Szalanczy, Akos",
+    "finish_time": "01:35:29",
+    "finish_seconds": 5729
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1055,
+    "name": "Josi, Ludovic",
+    "finish_time": "01:35:32",
+    "finish_seconds": 5732
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1057,
+    "name": "Carrier-vernand, C\u00e9dric",
+    "finish_time": "01:35:36",
+    "finish_seconds": 5736
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1059,
+    "name": "Sheehy, Graham",
+    "finish_time": "01:35:40",
+    "finish_seconds": 5740
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1061,
+    "name": "Rapp, Guillaume",
+    "finish_time": "01:35:46",
+    "finish_seconds": 5746
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1063,
+    "name": "Cixous, Gr\u00e9gory",
+    "finish_time": "01:35:48",
+    "finish_seconds": 5748
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1065,
+    "name": "Fauvernier, Julien",
+    "finish_time": "01:35:50",
+    "finish_seconds": 5750
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1067,
+    "name": "Desveaux, Guillaume",
+    "finish_time": "01:35:54",
+    "finish_seconds": 5754
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1069,
+    "name": "Pistoia, Benjamin",
+    "finish_time": "01:35:58",
+    "finish_seconds": 5758
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1071,
+    "name": "Roset, Thomas",
+    "finish_time": "01:36:02",
+    "finish_seconds": 5762
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1073,
+    "name": "Glutz, Sven",
+    "finish_time": "01:36:07",
+    "finish_seconds": 5767
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1075,
+    "name": "Poittevin, Vincent",
+    "finish_time": "01:36:13",
+    "finish_seconds": 5773
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1077,
+    "name": "Chevy, Sebastien",
+    "finish_time": "01:36:17",
+    "finish_seconds": 5777
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1079,
+    "name": "Gallay, Vincent",
+    "finish_time": "01:36:19",
+    "finish_seconds": 5779
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1081,
+    "name": "Fontaine, Vincent",
+    "finish_time": "01:36:23",
+    "finish_seconds": 5783
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1083,
+    "name": "Bonnet, Justin",
+    "finish_time": "01:36:24",
+    "finish_seconds": 5784
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1085,
+    "name": "Docherty, David",
+    "finish_time": "01:36:27",
+    "finish_seconds": 5787
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1087,
+    "name": "Battistelli, Lo\u00efc",
+    "finish_time": "01:36:36",
+    "finish_seconds": 5796
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1089,
+    "name": "Novack, Joshua",
+    "finish_time": "01:36:37",
+    "finish_seconds": 5797
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1091,
+    "name": "Goeuriot, Alex",
+    "finish_time": "01:36:41",
+    "finish_seconds": 5801
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1093,
+    "name": "Ragone, Carmine",
+    "finish_time": "01:36:43",
+    "finish_seconds": 5803
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1095,
+    "name": "Belluard, Yann",
+    "finish_time": "01:36:43",
+    "finish_seconds": 5803
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1097,
+    "name": "Lab\u00e9, Romain",
+    "finish_time": "01:36:50",
+    "finish_seconds": 5810
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1099,
+    "name": "Basterra, Nicolas",
+    "finish_time": "01:36:51",
+    "finish_seconds": 5811
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1101,
+    "name": "NOUET, Florian",
+    "finish_time": "01:36:56",
+    "finish_seconds": 5816
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1103,
+    "name": "Novo, Carlos",
+    "finish_time": "01:37:00",
+    "finish_seconds": 5820
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1105,
+    "name": "De gasparis, Florian",
+    "finish_time": "01:37:14",
+    "finish_seconds": 5834
+  },
+  {
+    "venue": "2025 Geneva",
+    "gender": "M",
+    "rank": 1107,
+    "name": "Nguyen, Dat",
+    "finish_time": "01:37:21",
+    "finish_seconds": 5841
+  }
+]

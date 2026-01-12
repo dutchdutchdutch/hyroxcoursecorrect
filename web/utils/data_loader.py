@@ -11,7 +11,7 @@ from pathlib import Path
 PROJECT_ROOT = Path(__file__).parent.parent.parent
 
 # Load gender-specific venue course corrections
-CORRECTIONS_FILE = PROJECT_ROOT / 'data' / 'venue_handicaps_by_gender.json'
+CORRECTIONS_FILE = PROJECT_ROOT / 'data' / 'venue_corrections.json'
 
 
 def load_venue_corrections():
@@ -76,3 +76,55 @@ def get_baseline_venue(corrections):
     # Find venue with correction closest to 0.0
     baseline_venue = min(men_corrections.items(), key=lambda x: abs(x[1]))[0]
     return baseline_venue
+from .database import get_db_connection
+
+def get_race_results(venue=None, gender=None):
+    """
+    Fetch race results from the SQLite database.
+    
+    Args:
+        venue: Optional venue name to filter by
+        gender: Optional gender filter ('M' or 'W')
+        
+    Returns:
+        list of RawRow: List of database rows
+    """
+    conn = get_db_connection()
+    try:
+        query = "SELECT * FROM race_results WHERE 1=1"
+        params = []
+        
+        if venue:
+            query += " AND venue = ?"
+            params.append(venue)
+        if gender:
+            query += " AND gender = ?"
+            params.append(gender)
+            
+        cursor = conn.cursor()
+        cursor.execute(query, params)
+        return cursor.fetchall()
+    finally:
+        conn.close()
+
+
+def get_all_results():
+    """Fetch every single record from the database."""
+    conn = get_db_connection()
+    try:
+        cursor = conn.cursor()
+        cursor.execute("SELECT * FROM race_results")
+        return cursor.fetchall()
+    finally:
+        conn.close()
+
+
+def get_venue_names():
+    """Get a sorted list of unique venue names from the database."""
+    conn = get_db_connection()
+    try:
+        cursor = conn.cursor()
+        cursor.execute("SELECT DISTINCT venue FROM race_results ORDER BY venue")
+        return [row['venue'] for row in cursor.fetchall()]
+    finally:
+        conn.close()

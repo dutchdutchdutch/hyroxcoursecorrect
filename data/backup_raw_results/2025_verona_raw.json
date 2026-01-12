@@ -1,0 +1,8794 @@
+[
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1,
+    "name": "Pereira, Gr\u00e9gory",
+    "finish_time": "00:55:23",
+    "finish_seconds": 3323
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 3,
+    "name": "Caruso, Dylan",
+    "finish_time": "00:56:31",
+    "finish_seconds": 3391
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 5,
+    "name": "Nulli, Giulio",
+    "finish_time": "01:00:55",
+    "finish_seconds": 3655
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 7,
+    "name": "Stack, Ryan",
+    "finish_time": "01:01:58",
+    "finish_seconds": 3718
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 9,
+    "name": "Weber, Lorenz",
+    "finish_time": "01:02:03",
+    "finish_seconds": 3723
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 11,
+    "name": "Jorge, Tiago",
+    "finish_time": "01:02:16",
+    "finish_seconds": 3736
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 13,
+    "name": "Jackson, Jonathan",
+    "finish_time": "01:02:36",
+    "finish_seconds": 3756
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 15,
+    "name": "Amon, Kristjan",
+    "finish_time": "01:03:00",
+    "finish_seconds": 3780
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 17,
+    "name": "Mc Namee, Bryan",
+    "finish_time": "01:03:02",
+    "finish_seconds": 3782
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 19,
+    "name": "Artuso, Michele",
+    "finish_time": "01:03:06",
+    "finish_seconds": 3786
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 21,
+    "name": "Gorasso, Massimo",
+    "finish_time": "01:03:28",
+    "finish_seconds": 3808
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 23,
+    "name": "Tenca, Filippo",
+    "finish_time": "01:03:34",
+    "finish_seconds": 3814
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 25,
+    "name": "Borg, Gabriel",
+    "finish_time": "01:03:43",
+    "finish_seconds": 3823
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 27,
+    "name": "Boldo, Filippo",
+    "finish_time": "01:03:50",
+    "finish_seconds": 3830
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 29,
+    "name": "Ram\u0161ak, Miha",
+    "finish_time": "01:03:55",
+    "finish_seconds": 3835
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 31,
+    "name": "Spritzendorfer, Matteo",
+    "finish_time": "01:04:02",
+    "finish_seconds": 3842
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 33,
+    "name": "Lenglet, Remi",
+    "finish_time": "01:04:09",
+    "finish_seconds": 3849
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 35,
+    "name": "Ballario, Ivan",
+    "finish_time": "01:04:16",
+    "finish_seconds": 3856
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 37,
+    "name": "Roz\u00e9, Thomas",
+    "finish_time": "01:04:41",
+    "finish_seconds": 3881
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 39,
+    "name": "Aliberti, Salvatore",
+    "finish_time": "01:04:45",
+    "finish_seconds": 3885
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 41,
+    "name": "Pizzamiglio, Ettore",
+    "finish_time": "01:04:57",
+    "finish_seconds": 3897
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 43,
+    "name": "Valente, Alexandre",
+    "finish_time": "01:05:03",
+    "finish_seconds": 3903
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 45,
+    "name": "Zeni, Andrea",
+    "finish_time": "01:05:11",
+    "finish_seconds": 3911
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 47,
+    "name": "Pellegrin, Stefano",
+    "finish_time": "01:05:19",
+    "finish_seconds": 3919
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 49,
+    "name": "Caligiuri Al, Salvatore",
+    "finish_time": "01:05:32",
+    "finish_seconds": 3932
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 51,
+    "name": "cutolo, christopher",
+    "finish_time": "01:05:42",
+    "finish_seconds": 3942
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 53,
+    "name": "Sinigaglia, Giacomo",
+    "finish_time": "01:05:46",
+    "finish_seconds": 3946
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 55,
+    "name": "Brook, Damien",
+    "finish_time": "01:05:49",
+    "finish_seconds": 3949
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 57,
+    "name": "Gallo, Claudio",
+    "finish_time": "01:06:02",
+    "finish_seconds": 3962
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 59,
+    "name": "Scolari, Mattia",
+    "finish_time": "01:06:12",
+    "finish_seconds": 3972
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 61,
+    "name": "Thomann, Niklas",
+    "finish_time": "01:06:16",
+    "finish_seconds": 3976
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 63,
+    "name": "Hajdu, Imre",
+    "finish_time": "01:06:19",
+    "finish_seconds": 3979
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 65,
+    "name": "Quagliaroli, Federico",
+    "finish_time": "01:06:23",
+    "finish_seconds": 3983
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 67,
+    "name": "Grosso Verissimo, Filipe",
+    "finish_time": "01:06:35",
+    "finish_seconds": 3995
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 69,
+    "name": "Calzavara, Gianluca",
+    "finish_time": "01:06:40",
+    "finish_seconds": 4000
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 71,
+    "name": "Ambrogio, Mattia",
+    "finish_time": "01:06:42",
+    "finish_seconds": 4002
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 73,
+    "name": "Gurka, Joshua",
+    "finish_time": "01:06:52",
+    "finish_seconds": 4012
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 75,
+    "name": "Chiarini, Fabio",
+    "finish_time": "01:06:55",
+    "finish_seconds": 4015
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 77,
+    "name": "Bichard, Jim",
+    "finish_time": "01:06:56",
+    "finish_seconds": 4016
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 79,
+    "name": "Wendling, Alexander",
+    "finish_time": "01:06:57",
+    "finish_seconds": 4017
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 81,
+    "name": "Silva, Guilherme",
+    "finish_time": "01:07:14",
+    "finish_seconds": 4034
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 83,
+    "name": "Swan, Karl",
+    "finish_time": "01:07:15",
+    "finish_seconds": 4035
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 85,
+    "name": "Mason, Luca",
+    "finish_time": "01:07:16",
+    "finish_seconds": 4036
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 87,
+    "name": "Falzarano, Gabriele",
+    "finish_time": "01:07:26",
+    "finish_seconds": 4046
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 89,
+    "name": "Bonazzi, Matteo",
+    "finish_time": "01:07:32",
+    "finish_seconds": 4052
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 91,
+    "name": "Minardi, Angelo",
+    "finish_time": "01:07:33",
+    "finish_seconds": 4053
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 93,
+    "name": "Rocchi, Nicol\u00f2",
+    "finish_time": "01:07:36",
+    "finish_seconds": 4056
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 95,
+    "name": "M\u00f6ller, Sven",
+    "finish_time": "01:07:40",
+    "finish_seconds": 4060
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 97,
+    "name": "Macchiarelli, Sisto",
+    "finish_time": "01:07:42",
+    "finish_seconds": 4062
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 99,
+    "name": "Truppi, Clemente",
+    "finish_time": "01:07:43",
+    "finish_seconds": 4063
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 101,
+    "name": "Fusar Poli, Marco",
+    "finish_time": "01:07:45",
+    "finish_seconds": 4065
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 103,
+    "name": "Mazzocchi, Edoardo",
+    "finish_time": "01:07:49",
+    "finish_seconds": 4069
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 105,
+    "name": "Rigamonti, Corrado",
+    "finish_time": "01:07:52",
+    "finish_seconds": 4072
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 107,
+    "name": "Hubert, Guillaume",
+    "finish_time": "01:07:59",
+    "finish_seconds": 4079
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 109,
+    "name": "Zammit, Owen",
+    "finish_time": "01:08:08",
+    "finish_seconds": 4088
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 111,
+    "name": "Pichler, Daniel",
+    "finish_time": "01:08:15",
+    "finish_seconds": 4095
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 113,
+    "name": "Segata, Filippo",
+    "finish_time": "01:08:22",
+    "finish_seconds": 4102
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 115,
+    "name": "Kouakou, Nicolas",
+    "finish_time": "01:08:24",
+    "finish_seconds": 4104
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 117,
+    "name": "Mautner, Peter",
+    "finish_time": "01:08:26",
+    "finish_seconds": 4106
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 119,
+    "name": "Ciconte, Manuel",
+    "finish_time": "01:08:31",
+    "finish_seconds": 4111
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 121,
+    "name": "Meggiorini, Marco",
+    "finish_time": "01:08:31",
+    "finish_seconds": 4111
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 123,
+    "name": "Garbin, Aldo",
+    "finish_time": "01:08:32",
+    "finish_seconds": 4112
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 125,
+    "name": "nannini, geremia",
+    "finish_time": "01:08:35",
+    "finish_seconds": 4115
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 127,
+    "name": "Tasini, Riccardo",
+    "finish_time": "01:08:38",
+    "finish_seconds": 4118
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 129,
+    "name": "Ueda, Masatomo",
+    "finish_time": "01:08:41",
+    "finish_seconds": 4121
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 131,
+    "name": "Rizzi, Ludovico",
+    "finish_time": "01:08:43",
+    "finish_seconds": 4123
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 133,
+    "name": "Bellino, Daniele",
+    "finish_time": "01:08:47",
+    "finish_seconds": 4127
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 135,
+    "name": "Mauri, Moreno",
+    "finish_time": "01:08:48",
+    "finish_seconds": 4128
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 137,
+    "name": "Huguenin, Bastien",
+    "finish_time": "01:08:50",
+    "finish_seconds": 4130
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 139,
+    "name": "Mercier, Kevin",
+    "finish_time": "01:08:56",
+    "finish_seconds": 4136
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 141,
+    "name": "Tondello, Enrico",
+    "finish_time": "01:09:06",
+    "finish_seconds": 4146
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 143,
+    "name": "Cotti, Daniele",
+    "finish_time": "01:09:14",
+    "finish_seconds": 4154
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 145,
+    "name": "Cavanna, Marco",
+    "finish_time": "01:09:20",
+    "finish_seconds": 4160
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 147,
+    "name": "Restuccia, Nicolo",
+    "finish_time": "01:09:21",
+    "finish_seconds": 4161
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 149,
+    "name": "Dicorato, Alessandro",
+    "finish_time": "01:09:24",
+    "finish_seconds": 4164
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 151,
+    "name": "Unterwelz, Thomas",
+    "finish_time": "01:09:27",
+    "finish_seconds": 4167
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 153,
+    "name": "Muscella, Lorenzo",
+    "finish_time": "01:09:30",
+    "finish_seconds": 4170
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 155,
+    "name": "CONTIN, MATTIA",
+    "finish_time": "01:09:31",
+    "finish_seconds": 4171
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 157,
+    "name": "Stubi\u010dar, Ale\u0161",
+    "finish_time": "01:09:38",
+    "finish_seconds": 4178
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 159,
+    "name": "Santaniello, Michele",
+    "finish_time": "01:09:41",
+    "finish_seconds": 4181
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 161,
+    "name": "Bele, Sebastjan",
+    "finish_time": "01:09:42",
+    "finish_seconds": 4182
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 163,
+    "name": "bruni, giammaria",
+    "finish_time": "01:09:46",
+    "finish_seconds": 4186
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 165,
+    "name": "Peta, Valentino",
+    "finish_time": "01:09:48",
+    "finish_seconds": 4188
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 167,
+    "name": "Brighenti, Geremia",
+    "finish_time": "01:09:54",
+    "finish_seconds": 4194
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 169,
+    "name": "Filali, Yassin",
+    "finish_time": "01:10:01",
+    "finish_seconds": 4201
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 171,
+    "name": "Kasumovi\u0107, Davor",
+    "finish_time": "01:10:03",
+    "finish_seconds": 4203
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 173,
+    "name": "Posado, Sergio",
+    "finish_time": "01:10:06",
+    "finish_seconds": 4206
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 175,
+    "name": "Reiterer, Daniel",
+    "finish_time": "01:10:09",
+    "finish_seconds": 4209
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 177,
+    "name": "Gillett, Luke",
+    "finish_time": "01:10:11",
+    "finish_seconds": 4211
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 179,
+    "name": "Majeri\u010d, Gregor",
+    "finish_time": "01:10:13",
+    "finish_seconds": 4213
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 181,
+    "name": "Leo, Federico",
+    "finish_time": "01:10:17",
+    "finish_seconds": 4217
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 183,
+    "name": "Glossner, Johannes",
+    "finish_time": "01:10:20",
+    "finish_seconds": 4220
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 185,
+    "name": "Frosinini, Francesco",
+    "finish_time": "01:10:23",
+    "finish_seconds": 4223
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 187,
+    "name": "Torti, Giacomo",
+    "finish_time": "01:10:29",
+    "finish_seconds": 4229
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 189,
+    "name": "Wilke, Alexander",
+    "finish_time": "01:10:33",
+    "finish_seconds": 4233
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 191,
+    "name": "Marilungo, Marco",
+    "finish_time": "01:10:35",
+    "finish_seconds": 4235
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 193,
+    "name": "Guarino, Alex",
+    "finish_time": "01:10:37",
+    "finish_seconds": 4237
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 195,
+    "name": "Lacointa, Gautier",
+    "finish_time": "01:10:39",
+    "finish_seconds": 4239
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 197,
+    "name": "Jur\u010di\u0107, Mladen",
+    "finish_time": "01:10:50",
+    "finish_seconds": 4250
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 199,
+    "name": "Romani, Gianmarco",
+    "finish_time": "01:10:54",
+    "finish_seconds": 4254
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 201,
+    "name": "Juozapaitis, Aurimas",
+    "finish_time": "01:11:02",
+    "finish_seconds": 4262
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 203,
+    "name": "Untersteiner Fellin, Fabian",
+    "finish_time": "01:11:04",
+    "finish_seconds": 4264
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 205,
+    "name": "Tonina, Tommaso",
+    "finish_time": "01:11:08",
+    "finish_seconds": 4268
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 207,
+    "name": "Az, Youness",
+    "finish_time": "01:11:09",
+    "finish_seconds": 4269
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 209,
+    "name": "Mauser, Stefan",
+    "finish_time": "01:11:10",
+    "finish_seconds": 4270
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 211,
+    "name": "Petrocchi, Claudio",
+    "finish_time": "01:11:14",
+    "finish_seconds": 4274
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 213,
+    "name": "Pretto, Christian",
+    "finish_time": "01:11:17",
+    "finish_seconds": 4277
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 215,
+    "name": "Cioni, Alessandro",
+    "finish_time": "01:11:22",
+    "finish_seconds": 4282
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 217,
+    "name": "Bertuletti, Stefano",
+    "finish_time": "01:11:26",
+    "finish_seconds": 4286
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 219,
+    "name": "Grigoletto, Federico",
+    "finish_time": "01:11:27",
+    "finish_seconds": 4287
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 221,
+    "name": "Bertaso, Mattia",
+    "finish_time": "01:11:30",
+    "finish_seconds": 4290
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 223,
+    "name": "Baroso, Tommaso",
+    "finish_time": "01:11:30",
+    "finish_seconds": 4290
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 225,
+    "name": "Niederwolfsgruber, Lukas",
+    "finish_time": "01:11:33",
+    "finish_seconds": 4293
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 227,
+    "name": "Bellotti, Alexandro",
+    "finish_time": "01:11:38",
+    "finish_seconds": 4298
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 229,
+    "name": "Sandeman, Connor",
+    "finish_time": "01:11:40",
+    "finish_seconds": 4300
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 231,
+    "name": "Navarra, Raffaele",
+    "finish_time": "01:11:40",
+    "finish_seconds": 4300
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 233,
+    "name": "Y\u0131ld\u0131z, Mert Can",
+    "finish_time": "01:11:42",
+    "finish_seconds": 4302
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 235,
+    "name": "Stobbia, Simone",
+    "finish_time": "01:11:43",
+    "finish_seconds": 4303
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 237,
+    "name": "camacho, martin",
+    "finish_time": "01:11:46",
+    "finish_seconds": 4306
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 239,
+    "name": "Toma, Michele",
+    "finish_time": "01:11:48",
+    "finish_seconds": 4308
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 241,
+    "name": "Rummel, Rune",
+    "finish_time": "01:11:50",
+    "finish_seconds": 4310
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 243,
+    "name": "Bacchini, Matteo",
+    "finish_time": "01:11:55",
+    "finish_seconds": 4315
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 245,
+    "name": "BONAZZI, LUCA",
+    "finish_time": "01:11:56",
+    "finish_seconds": 4316
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 247,
+    "name": "Aprigliano, Fabio",
+    "finish_time": "01:11:59",
+    "finish_seconds": 4319
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 249,
+    "name": "Sannino, Antonio",
+    "finish_time": "01:12:01",
+    "finish_seconds": 4321
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 251,
+    "name": "Beraldo, David",
+    "finish_time": "01:12:08",
+    "finish_seconds": 4328
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 253,
+    "name": "Mistretta, Denis",
+    "finish_time": "01:12:08",
+    "finish_seconds": 4328
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 255,
+    "name": "Trevisi, Marcello",
+    "finish_time": "01:12:10",
+    "finish_seconds": 4330
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 257,
+    "name": "Iacometti, Martial",
+    "finish_time": "01:12:16",
+    "finish_seconds": 4336
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 259,
+    "name": "Schiavon, Raffaele",
+    "finish_time": "01:12:18",
+    "finish_seconds": 4338
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 261,
+    "name": "Gozzini, Matteo",
+    "finish_time": "01:12:21",
+    "finish_seconds": 4341
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 263,
+    "name": "Neu\u00df, Florian Andreas",
+    "finish_time": "01:12:22",
+    "finish_seconds": 4342
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 265,
+    "name": "Fusi, Fabio",
+    "finish_time": "01:12:26",
+    "finish_seconds": 4346
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 267,
+    "name": "Zucco, Alessio",
+    "finish_time": "01:12:29",
+    "finish_seconds": 4349
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 269,
+    "name": "Loglio, Luca",
+    "finish_time": "01:12:30",
+    "finish_seconds": 4350
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 271,
+    "name": "Rinaldi, Matteo",
+    "finish_time": "01:12:31",
+    "finish_seconds": 4351
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 273,
+    "name": "Agostini, William",
+    "finish_time": "01:12:36",
+    "finish_seconds": 4356
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 275,
+    "name": "Zordan, Simone",
+    "finish_time": "01:12:37",
+    "finish_seconds": 4357
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 277,
+    "name": "Badea, Marius",
+    "finish_time": "01:12:39",
+    "finish_seconds": 4359
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 279,
+    "name": "Donghi, Massimiliano",
+    "finish_time": "01:12:44",
+    "finish_seconds": 4364
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 281,
+    "name": "Rosca, Denis",
+    "finish_time": "01:12:45",
+    "finish_seconds": 4365
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 283,
+    "name": "Bertolasi, Marco",
+    "finish_time": "01:12:52",
+    "finish_seconds": 4372
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 285,
+    "name": "Genco, Vito",
+    "finish_time": "01:12:54",
+    "finish_seconds": 4374
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 287,
+    "name": "Giraldo, Manuel",
+    "finish_time": "01:12:57",
+    "finish_seconds": 4377
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 289,
+    "name": "Gomeringer, Michael",
+    "finish_time": "01:12:58",
+    "finish_seconds": 4378
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 291,
+    "name": "Capizzi, Leonardo",
+    "finish_time": "01:13:00",
+    "finish_seconds": 4380
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 293,
+    "name": "Sause, Alexander",
+    "finish_time": "01:13:02",
+    "finish_seconds": 4382
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 295,
+    "name": "Perony, Mathieu",
+    "finish_time": "01:13:05",
+    "finish_seconds": 4385
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 297,
+    "name": "Pastore, Giuseppe",
+    "finish_time": "01:13:06",
+    "finish_seconds": 4386
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 299,
+    "name": "Trinx, Edoardo",
+    "finish_time": "01:13:08",
+    "finish_seconds": 4388
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 301,
+    "name": "Franceschini, Andrea",
+    "finish_time": "01:13:12",
+    "finish_seconds": 4392
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 303,
+    "name": "Barbieri, Simone",
+    "finish_time": "01:13:13",
+    "finish_seconds": 4393
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 305,
+    "name": "Mijic, Igor",
+    "finish_time": "01:13:14",
+    "finish_seconds": 4394
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 307,
+    "name": "Bragantini, Simone",
+    "finish_time": "01:13:16",
+    "finish_seconds": 4396
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 309,
+    "name": "Verolla, Enrico",
+    "finish_time": "01:13:21",
+    "finish_seconds": 4401
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 311,
+    "name": "Rossi, Andrea",
+    "finish_time": "01:13:23",
+    "finish_seconds": 4403
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 313,
+    "name": "Oberd\u00f6rfer, Manuel",
+    "finish_time": "01:13:24",
+    "finish_seconds": 4404
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 315,
+    "name": "Brambilla, Tommaso",
+    "finish_time": "01:13:27",
+    "finish_seconds": 4407
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 317,
+    "name": "Vaio, Filippo",
+    "finish_time": "01:13:29",
+    "finish_seconds": 4409
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 319,
+    "name": "Guignard, Mickael",
+    "finish_time": "01:13:31",
+    "finish_seconds": 4411
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 321,
+    "name": "Branco, Amedeo",
+    "finish_time": "01:13:32",
+    "finish_seconds": 4412
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 323,
+    "name": "Wiest, David",
+    "finish_time": "01:13:34",
+    "finish_seconds": 4414
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 325,
+    "name": "Casini, Stefano",
+    "finish_time": "01:13:36",
+    "finish_seconds": 4416
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 327,
+    "name": "Achei, Mattia Maria",
+    "finish_time": "01:13:36",
+    "finish_seconds": 4416
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 329,
+    "name": "Colombi, Luigi",
+    "finish_time": "01:13:40",
+    "finish_seconds": 4420
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 331,
+    "name": "Bondev, Dimitar",
+    "finish_time": "01:13:44",
+    "finish_seconds": 4424
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 333,
+    "name": "Saliba, Joseph",
+    "finish_time": "01:13:46",
+    "finish_seconds": 4426
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 335,
+    "name": "Gross, Markus",
+    "finish_time": "01:13:47",
+    "finish_seconds": 4427
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 337,
+    "name": "Bogdanovic, Branislav",
+    "finish_time": "01:13:48",
+    "finish_seconds": 4428
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 339,
+    "name": "Mancini, Federico",
+    "finish_time": "01:13:54",
+    "finish_seconds": 4434
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 341,
+    "name": "Polidori, Davide",
+    "finish_time": "01:13:57",
+    "finish_seconds": 4437
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 343,
+    "name": "Merlo, David",
+    "finish_time": "01:13:58",
+    "finish_seconds": 4438
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 345,
+    "name": "Pantanelli, Giulio",
+    "finish_time": "01:14:01",
+    "finish_seconds": 4441
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 347,
+    "name": "Rizzo, Gigi",
+    "finish_time": "01:14:02",
+    "finish_seconds": 4442
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 349,
+    "name": "Manessi, Paolo",
+    "finish_time": "01:14:03",
+    "finish_seconds": 4443
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 351,
+    "name": "Esposito, Riccardo",
+    "finish_time": "01:14:07",
+    "finish_seconds": 4447
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 353,
+    "name": "Marsoni, Gianluca",
+    "finish_time": "01:14:12",
+    "finish_seconds": 4452
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 355,
+    "name": "Szabo, Balazs",
+    "finish_time": "01:14:12",
+    "finish_seconds": 4452
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 357,
+    "name": "Renda, Alessandro",
+    "finish_time": "01:14:16",
+    "finish_seconds": 4456
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 359,
+    "name": "Scalvini, Luca",
+    "finish_time": "01:14:17",
+    "finish_seconds": 4457
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 361,
+    "name": "Pfahnl, Peter",
+    "finish_time": "01:14:22",
+    "finish_seconds": 4462
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 363,
+    "name": "Sonn, Alessandro",
+    "finish_time": "01:14:23",
+    "finish_seconds": 4463
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 365,
+    "name": "Oshiai, Alessandro",
+    "finish_time": "01:14:23",
+    "finish_seconds": 4463
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 367,
+    "name": "BETTON, J\u00e9r\u00e9my",
+    "finish_time": "01:14:26",
+    "finish_seconds": 4466
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 369,
+    "name": "Gnecco, Luca",
+    "finish_time": "01:14:31",
+    "finish_seconds": 4471
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 371,
+    "name": "Simon\u010di\u010d, Samo",
+    "finish_time": "01:14:32",
+    "finish_seconds": 4472
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 373,
+    "name": "Ippolito, Elia",
+    "finish_time": "01:14:35",
+    "finish_seconds": 4475
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 375,
+    "name": "Miraval Zanon, Mattia",
+    "finish_time": "01:14:38",
+    "finish_seconds": 4478
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 377,
+    "name": "Di Chiara, Paolo",
+    "finish_time": "01:14:42",
+    "finish_seconds": 4482
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 379,
+    "name": "Olivieri, Cristiano",
+    "finish_time": "01:14:45",
+    "finish_seconds": 4485
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 381,
+    "name": "Piazza, Davide",
+    "finish_time": "01:14:45",
+    "finish_seconds": 4485
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 383,
+    "name": "Calovi, Matteo",
+    "finish_time": "01:14:47",
+    "finish_seconds": 4487
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 385,
+    "name": "Silvano, Gabriele",
+    "finish_time": "01:14:50",
+    "finish_seconds": 4490
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 387,
+    "name": "Matteazzi, Davide",
+    "finish_time": "01:14:51",
+    "finish_seconds": 4491
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 389,
+    "name": "Boldrini, Tommaso",
+    "finish_time": "01:14:52",
+    "finish_seconds": 4492
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 391,
+    "name": "Sciaudone, Daniele",
+    "finish_time": "01:14:53",
+    "finish_seconds": 4493
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 393,
+    "name": "Biasotti, Andrea",
+    "finish_time": "01:14:56",
+    "finish_seconds": 4496
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 395,
+    "name": "Peterlini, Marcos",
+    "finish_time": "01:14:57",
+    "finish_seconds": 4497
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 397,
+    "name": "Barajas Garcia, Ricardo Fabian",
+    "finish_time": "01:14:58",
+    "finish_seconds": 4498
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 399,
+    "name": "Gentil, Sebastien",
+    "finish_time": "01:15:02",
+    "finish_seconds": 4502
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 401,
+    "name": "Kelvi\u0161ar, \u017dan",
+    "finish_time": "01:15:04",
+    "finish_seconds": 4504
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 403,
+    "name": "Cecchin, Giulio",
+    "finish_time": "01:15:06",
+    "finish_seconds": 4506
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 405,
+    "name": "Sergio, Michele",
+    "finish_time": "01:15:06",
+    "finish_seconds": 4506
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 407,
+    "name": "Larocca, Alex",
+    "finish_time": "01:15:08",
+    "finish_seconds": 4508
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 409,
+    "name": "MORELLI, MAURIZIO",
+    "finish_time": "01:15:11",
+    "finish_seconds": 4511
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 411,
+    "name": "Zuccali, Marco",
+    "finish_time": "01:15:16",
+    "finish_seconds": 4516
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 413,
+    "name": "Garner, Jake",
+    "finish_time": "01:15:20",
+    "finish_seconds": 4520
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 415,
+    "name": "Pere\u0161a, Marko",
+    "finish_time": "01:15:23",
+    "finish_seconds": 4523
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 417,
+    "name": "Fasanella, Gianluca",
+    "finish_time": "01:15:24",
+    "finish_seconds": 4524
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 419,
+    "name": "Iolea, Sebastian",
+    "finish_time": "01:15:26",
+    "finish_seconds": 4526
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 421,
+    "name": "Silvestri, Nicola",
+    "finish_time": "01:15:28",
+    "finish_seconds": 4528
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 423,
+    "name": "Calandriello, Simone",
+    "finish_time": "01:15:29",
+    "finish_seconds": 4529
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 425,
+    "name": "Tavasci, Luigi",
+    "finish_time": "01:15:30",
+    "finish_seconds": 4530
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 427,
+    "name": "Leimgruber, Aaron",
+    "finish_time": "01:15:31",
+    "finish_seconds": 4531
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 429,
+    "name": "Bagatella, Mattia",
+    "finish_time": "01:15:33",
+    "finish_seconds": 4533
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 431,
+    "name": "D\u2019Agostino, Marco",
+    "finish_time": "01:15:34",
+    "finish_seconds": 4534
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 433,
+    "name": "Ouri, Marc",
+    "finish_time": "01:15:37",
+    "finish_seconds": 4537
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 435,
+    "name": "Zucconi, Simone",
+    "finish_time": "01:15:39",
+    "finish_seconds": 4539
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 437,
+    "name": "De Giglio, Antonio",
+    "finish_time": "01:15:39",
+    "finish_seconds": 4539
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 439,
+    "name": "Carpi, Alessandro",
+    "finish_time": "01:15:43",
+    "finish_seconds": 4543
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 441,
+    "name": "Criscuolo, Joshua",
+    "finish_time": "01:15:45",
+    "finish_seconds": 4545
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 443,
+    "name": "Berto, Filippo",
+    "finish_time": "01:15:46",
+    "finish_seconds": 4546
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 445,
+    "name": "Maioli, Simone",
+    "finish_time": "01:15:47",
+    "finish_seconds": 4547
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 447,
+    "name": "Ponchio, Nicola",
+    "finish_time": "01:15:51",
+    "finish_seconds": 4551
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 449,
+    "name": "L\u00e4mmermann, Jonas",
+    "finish_time": "01:15:55",
+    "finish_seconds": 4555
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 451,
+    "name": "Kobal, Andra\u017e",
+    "finish_time": "01:15:58",
+    "finish_seconds": 4558
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 453,
+    "name": "Gaio, Nikolas",
+    "finish_time": "01:16:00",
+    "finish_seconds": 4560
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 455,
+    "name": "Golfarini, Matteo",
+    "finish_time": "01:16:04",
+    "finish_seconds": 4564
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 457,
+    "name": "giorgini, simone",
+    "finish_time": "01:16:05",
+    "finish_seconds": 4565
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 459,
+    "name": "Villella, Matteo",
+    "finish_time": "01:16:08",
+    "finish_seconds": 4568
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 461,
+    "name": "ROSA, FRANCESCO",
+    "finish_time": "01:16:10",
+    "finish_seconds": 4570
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 463,
+    "name": "Borsari, Francesco",
+    "finish_time": "01:16:16",
+    "finish_seconds": 4576
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 465,
+    "name": "Abraham, Ethan",
+    "finish_time": "01:16:18",
+    "finish_seconds": 4578
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 467,
+    "name": "Bertolasi, Luca",
+    "finish_time": "01:16:20",
+    "finish_seconds": 4580
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 469,
+    "name": "Mazzeo, Alessandro",
+    "finish_time": "01:16:22",
+    "finish_seconds": 4582
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 471,
+    "name": "Weindl, Fabio",
+    "finish_time": "01:16:22",
+    "finish_seconds": 4582
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 473,
+    "name": "Centi, Francesco",
+    "finish_time": "01:16:26",
+    "finish_seconds": 4586
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 475,
+    "name": "Michalak, Thibaut",
+    "finish_time": "01:16:35",
+    "finish_seconds": 4595
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 477,
+    "name": "Frigerio, Carlo",
+    "finish_time": "01:16:36",
+    "finish_seconds": 4596
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 479,
+    "name": "Stefanutti, Denis",
+    "finish_time": "01:16:38",
+    "finish_seconds": 4598
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 481,
+    "name": "Bellia, Andrea",
+    "finish_time": "01:16:39",
+    "finish_seconds": 4599
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 483,
+    "name": "Pellegrini, Mauro",
+    "finish_time": "01:16:43",
+    "finish_seconds": 4603
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 485,
+    "name": "Simoncelli, Fabio",
+    "finish_time": "01:16:45",
+    "finish_seconds": 4605
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 487,
+    "name": "Donadio, Stefano",
+    "finish_time": "01:16:46",
+    "finish_seconds": 4606
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 489,
+    "name": "CHASSIN, Laurent",
+    "finish_time": "01:16:47",
+    "finish_seconds": 4607
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 491,
+    "name": "Brigliadori, Riccardo",
+    "finish_time": "01:16:47",
+    "finish_seconds": 4607
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 493,
+    "name": "Cascini, Nicola",
+    "finish_time": "01:16:48",
+    "finish_seconds": 4608
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 495,
+    "name": "Emanuele, Alberto",
+    "finish_time": "01:16:48",
+    "finish_seconds": 4608
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 497,
+    "name": "Rechtorik, Marek",
+    "finish_time": "01:16:52",
+    "finish_seconds": 4612
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 499,
+    "name": "Furnari, Salvatore Andrea",
+    "finish_time": "01:16:57",
+    "finish_seconds": 4617
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 501,
+    "name": "MATTIACCI, SIMONE",
+    "finish_time": "01:16:59",
+    "finish_seconds": 4619
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 503,
+    "name": "Vignola, Marco",
+    "finish_time": "01:16:59",
+    "finish_seconds": 4619
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 505,
+    "name": "Tagliabue, Davide",
+    "finish_time": "01:17:01",
+    "finish_seconds": 4621
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 507,
+    "name": "Peron, Amaury",
+    "finish_time": "01:17:03",
+    "finish_seconds": 4623
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 509,
+    "name": "Marchiori, Leonardo",
+    "finish_time": "01:17:06",
+    "finish_seconds": 4626
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 511,
+    "name": "Grande, Gianfranco",
+    "finish_time": "01:17:08",
+    "finish_seconds": 4628
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 513,
+    "name": "Pagnoncelli, Giuseppe",
+    "finish_time": "01:17:09",
+    "finish_seconds": 4629
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 515,
+    "name": "tadije, Gerwin",
+    "finish_time": "01:17:12",
+    "finish_seconds": 4632
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 517,
+    "name": "Colombo, Wondi",
+    "finish_time": "01:17:13",
+    "finish_seconds": 4633
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 519,
+    "name": "Pelagotti, Andrea",
+    "finish_time": "01:17:14",
+    "finish_seconds": 4634
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 521,
+    "name": "Antoniazzi, Giacomo",
+    "finish_time": "01:17:14",
+    "finish_seconds": 4634
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 523,
+    "name": "H\u00f6gl, David",
+    "finish_time": "01:17:15",
+    "finish_seconds": 4635
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 525,
+    "name": "Panzeri, Giulio",
+    "finish_time": "01:17:16",
+    "finish_seconds": 4636
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 527,
+    "name": "Dalfini, Riccardo",
+    "finish_time": "01:17:19",
+    "finish_seconds": 4639
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 529,
+    "name": "Canfarelli, Gian Matteo",
+    "finish_time": "01:17:20",
+    "finish_seconds": 4640
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 531,
+    "name": "Romani, Andrea Alcide",
+    "finish_time": "01:17:22",
+    "finish_seconds": 4642
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 533,
+    "name": "Fasto, Andrea",
+    "finish_time": "01:17:24",
+    "finish_seconds": 4644
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 535,
+    "name": "Baronti, Axel",
+    "finish_time": "01:17:26",
+    "finish_seconds": 4646
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 537,
+    "name": "Luzzana, Angelo",
+    "finish_time": "01:17:30",
+    "finish_seconds": 4650
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 539,
+    "name": "Manca, Mattia",
+    "finish_time": "01:17:31",
+    "finish_seconds": 4651
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 541,
+    "name": "Reccagni, Fabrizio",
+    "finish_time": "01:17:35",
+    "finish_seconds": 4655
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 543,
+    "name": "masset, benoit",
+    "finish_time": "01:17:38",
+    "finish_seconds": 4658
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 545,
+    "name": "Cazaux, J\u00e9r\u00e9my",
+    "finish_time": "01:17:40",
+    "finish_seconds": 4660
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 547,
+    "name": "Bogdanov, Artem",
+    "finish_time": "01:17:42",
+    "finish_seconds": 4662
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 549,
+    "name": "Botteghi, Edoardo",
+    "finish_time": "01:17:44",
+    "finish_seconds": 4664
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 551,
+    "name": "Criscuolo, Daniele",
+    "finish_time": "01:17:46",
+    "finish_seconds": 4666
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 553,
+    "name": "Bogi, Francesco",
+    "finish_time": "01:17:47",
+    "finish_seconds": 4667
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 555,
+    "name": "Paolacci, Giancarlo",
+    "finish_time": "01:17:52",
+    "finish_seconds": 4672
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 557,
+    "name": "Tonazzo, Niccol\u00f2",
+    "finish_time": "01:17:53",
+    "finish_seconds": 4673
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 559,
+    "name": "Soddu, Francesco",
+    "finish_time": "01:17:55",
+    "finish_seconds": 4675
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 561,
+    "name": "Jul\u00e9mont, Rodolphe",
+    "finish_time": "01:17:57",
+    "finish_seconds": 4677
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 563,
+    "name": "Hynes, Aaron",
+    "finish_time": "01:18:00",
+    "finish_seconds": 4680
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 565,
+    "name": "Carbonini, Andrea",
+    "finish_time": "01:18:00",
+    "finish_seconds": 4680
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 567,
+    "name": "Bocchialini, Carlo Andrea",
+    "finish_time": "01:18:01",
+    "finish_seconds": 4681
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 569,
+    "name": "Savarese, Filippo",
+    "finish_time": "01:18:03",
+    "finish_seconds": 4683
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 571,
+    "name": "Moleri, Nicolas",
+    "finish_time": "01:18:04",
+    "finish_seconds": 4684
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 573,
+    "name": "Marchini, Michelangelo",
+    "finish_time": "01:18:07",
+    "finish_seconds": 4687
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 575,
+    "name": "Keaney, Paul",
+    "finish_time": "01:18:07",
+    "finish_seconds": 4687
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 577,
+    "name": "Vitullo, Simone",
+    "finish_time": "01:18:11",
+    "finish_seconds": 4691
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 579,
+    "name": "Jin, Lorenzo",
+    "finish_time": "01:18:13",
+    "finish_seconds": 4693
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 581,
+    "name": "Francini, Luca",
+    "finish_time": "01:18:17",
+    "finish_seconds": 4697
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 583,
+    "name": "Gaspari, EMilio",
+    "finish_time": "01:18:18",
+    "finish_seconds": 4698
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 585,
+    "name": "Fontana, Andrea",
+    "finish_time": "01:18:21",
+    "finish_seconds": 4701
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 587,
+    "name": "Lembo, Alessandro",
+    "finish_time": "01:18:27",
+    "finish_seconds": 4707
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 589,
+    "name": "Arrigoni, Nicholas",
+    "finish_time": "01:18:29",
+    "finish_seconds": 4709
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 591,
+    "name": "Fantin, Alessandro",
+    "finish_time": "01:18:30",
+    "finish_seconds": 4710
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 593,
+    "name": "Mora, Manuel",
+    "finish_time": "01:18:32",
+    "finish_seconds": 4712
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 595,
+    "name": "Ghisu, Gabriele",
+    "finish_time": "01:18:34",
+    "finish_seconds": 4714
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 597,
+    "name": "Pirazzoli, Federico",
+    "finish_time": "01:18:37",
+    "finish_seconds": 4717
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 599,
+    "name": "Gregorini, Enrico",
+    "finish_time": "01:18:38",
+    "finish_seconds": 4718
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 601,
+    "name": "Felici, Fabrizio",
+    "finish_time": "01:18:41",
+    "finish_seconds": 4721
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 603,
+    "name": "Cocci, Diego",
+    "finish_time": "01:18:42",
+    "finish_seconds": 4722
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 605,
+    "name": "Vignali, Matteo",
+    "finish_time": "01:18:43",
+    "finish_seconds": 4723
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 607,
+    "name": "Sambo, Luca",
+    "finish_time": "01:18:44",
+    "finish_seconds": 4724
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 609,
+    "name": "Prada, Dario",
+    "finish_time": "01:18:45",
+    "finish_seconds": 4725
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 611,
+    "name": "Kulkarni, Adit",
+    "finish_time": "01:18:47",
+    "finish_seconds": 4727
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 613,
+    "name": "Podlesnik, Mark",
+    "finish_time": "01:18:48",
+    "finish_seconds": 4728
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 615,
+    "name": "Mucci, Marco Laerte",
+    "finish_time": "01:18:50",
+    "finish_seconds": 4730
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 617,
+    "name": "Salamon, Roberto",
+    "finish_time": "01:18:52",
+    "finish_seconds": 4732
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 619,
+    "name": "Bufali, Fabrizio",
+    "finish_time": "01:18:55",
+    "finish_seconds": 4735
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 621,
+    "name": "Roddan, Steven",
+    "finish_time": "01:18:57",
+    "finish_seconds": 4737
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 623,
+    "name": "Filz, Lorenzo",
+    "finish_time": "01:18:58",
+    "finish_seconds": 4738
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 625,
+    "name": "Cano, Skerdi",
+    "finish_time": "01:19:00",
+    "finish_seconds": 4740
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 627,
+    "name": "Prei\u00df, Florian",
+    "finish_time": "01:19:03",
+    "finish_seconds": 4743
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 629,
+    "name": "Chighini, Cristiano",
+    "finish_time": "01:19:04",
+    "finish_seconds": 4744
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 631,
+    "name": "Mouritzen, Thomas",
+    "finish_time": "01:19:04",
+    "finish_seconds": 4744
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 633,
+    "name": "Gomiero, Emanuele",
+    "finish_time": "01:19:05",
+    "finish_seconds": 4745
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 635,
+    "name": "SAIDI, Hassan",
+    "finish_time": "01:19:06",
+    "finish_seconds": 4746
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 637,
+    "name": "Andreucci, Piergiorgio",
+    "finish_time": "01:19:08",
+    "finish_seconds": 4748
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 639,
+    "name": "Zabena, Cristiano",
+    "finish_time": "01:19:10",
+    "finish_seconds": 4750
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 641,
+    "name": "Galasi, Alberto",
+    "finish_time": "01:19:14",
+    "finish_seconds": 4754
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 643,
+    "name": "Violi, Antonio",
+    "finish_time": "01:19:17",
+    "finish_seconds": 4757
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 645,
+    "name": "Zmijanac, Veroljub",
+    "finish_time": "01:19:21",
+    "finish_seconds": 4761
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 647,
+    "name": "Callegari, Sandro",
+    "finish_time": "01:19:24",
+    "finish_seconds": 4764
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 649,
+    "name": "Resta, Lorenzo",
+    "finish_time": "01:19:24",
+    "finish_seconds": 4764
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 651,
+    "name": "Fonte, Davide",
+    "finish_time": "01:19:25",
+    "finish_seconds": 4765
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 653,
+    "name": "Matascioli, Ugo",
+    "finish_time": "01:19:31",
+    "finish_seconds": 4771
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 655,
+    "name": "Mytyuk, Ihor",
+    "finish_time": "01:19:32",
+    "finish_seconds": 4772
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 657,
+    "name": "Lonati, Denis",
+    "finish_time": "01:19:33",
+    "finish_seconds": 4773
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 659,
+    "name": "Dalzovo, Filippo",
+    "finish_time": "01:19:35",
+    "finish_seconds": 4775
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 661,
+    "name": "Villotti, Giacomo",
+    "finish_time": "01:19:37",
+    "finish_seconds": 4777
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 663,
+    "name": "Andreani, Alessandro",
+    "finish_time": "01:19:40",
+    "finish_seconds": 4780
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 665,
+    "name": "Comanducci, Samuele",
+    "finish_time": "01:19:40",
+    "finish_seconds": 4780
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 667,
+    "name": "Valenza, Federico Damiano",
+    "finish_time": "01:19:43",
+    "finish_seconds": 4783
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 669,
+    "name": "Bosisio, Samuele",
+    "finish_time": "01:19:45",
+    "finish_seconds": 4785
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 671,
+    "name": "muci, stefano",
+    "finish_time": "01:19:47",
+    "finish_seconds": 4787
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 673,
+    "name": "Dallagiacoma, Luca",
+    "finish_time": "01:19:50",
+    "finish_seconds": 4790
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 675,
+    "name": "Banhidi, David",
+    "finish_time": "01:19:54",
+    "finish_seconds": 4794
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 677,
+    "name": "Teoldi, Diego",
+    "finish_time": "01:19:54",
+    "finish_seconds": 4794
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 679,
+    "name": "Brofferio, Alessandro",
+    "finish_time": "01:19:55",
+    "finish_seconds": 4795
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 681,
+    "name": "Poggi, Alessandro",
+    "finish_time": "01:19:56",
+    "finish_seconds": 4796
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 683,
+    "name": "Beaton, Malcolm",
+    "finish_time": "01:20:00",
+    "finish_seconds": 4800
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 685,
+    "name": "Vacaru, Luigi Oscar",
+    "finish_time": "01:20:02",
+    "finish_seconds": 4802
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 687,
+    "name": "Frau, Marco",
+    "finish_time": "01:20:04",
+    "finish_seconds": 4804
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 689,
+    "name": "Ceccarelli, Leonardo",
+    "finish_time": "01:20:08",
+    "finish_seconds": 4808
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 691,
+    "name": "Berno, Mattia",
+    "finish_time": "01:20:10",
+    "finish_seconds": 4810
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 693,
+    "name": "TORTORELLI, ANTONIO PIO",
+    "finish_time": "01:20:12",
+    "finish_seconds": 4812
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 695,
+    "name": "Todescato, Gabriele",
+    "finish_time": "01:20:13",
+    "finish_seconds": 4813
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 697,
+    "name": "Germiniasi, Paolo",
+    "finish_time": "01:20:14",
+    "finish_seconds": 4814
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 699,
+    "name": "Lo Monaco, Damiano",
+    "finish_time": "01:20:16",
+    "finish_seconds": 4816
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 701,
+    "name": "Cappellini, Ivan",
+    "finish_time": "01:20:22",
+    "finish_seconds": 4822
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 703,
+    "name": "Stortoni, Mattia",
+    "finish_time": "01:20:24",
+    "finish_seconds": 4824
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 705,
+    "name": "Dimaano, Giorgio",
+    "finish_time": "01:20:25",
+    "finish_seconds": 4825
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 707,
+    "name": "flore, marcello",
+    "finish_time": "01:20:29",
+    "finish_seconds": 4829
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 709,
+    "name": "Lietti, Simone",
+    "finish_time": "01:20:31",
+    "finish_seconds": 4831
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 711,
+    "name": "Merisio, Giorgio Maria",
+    "finish_time": "01:20:36",
+    "finish_seconds": 4836
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 713,
+    "name": "Leccese, Raffaele",
+    "finish_time": "01:20:38",
+    "finish_seconds": 4838
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 715,
+    "name": "Tirelli, Marco",
+    "finish_time": "01:20:43",
+    "finish_seconds": 4843
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 717,
+    "name": "Bertrando, Riccardo",
+    "finish_time": "01:20:44",
+    "finish_seconds": 4844
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 719,
+    "name": "Arcuri, Giuseppe",
+    "finish_time": "01:20:45",
+    "finish_seconds": 4845
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 721,
+    "name": "Perini, Christian",
+    "finish_time": "01:20:45",
+    "finish_seconds": 4845
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 723,
+    "name": "Perucchini, Matteo",
+    "finish_time": "01:20:47",
+    "finish_seconds": 4847
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 725,
+    "name": "Namous, Jamal",
+    "finish_time": "01:20:49",
+    "finish_seconds": 4849
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 727,
+    "name": "Massini, Michele",
+    "finish_time": "01:20:50",
+    "finish_seconds": 4850
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 729,
+    "name": "Casadei, Andrea",
+    "finish_time": "01:20:52",
+    "finish_seconds": 4852
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 731,
+    "name": "Nelson, Scott",
+    "finish_time": "01:20:54",
+    "finish_seconds": 4854
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 733,
+    "name": "Wolf, Kevin",
+    "finish_time": "01:20:57",
+    "finish_seconds": 4857
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 735,
+    "name": "Strianese, Marco",
+    "finish_time": "01:20:58",
+    "finish_seconds": 4858
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 737,
+    "name": "Checchinato, Luca",
+    "finish_time": "01:20:59",
+    "finish_seconds": 4859
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 739,
+    "name": "Tronca, Attilio Armando",
+    "finish_time": "01:21:02",
+    "finish_seconds": 4862
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 741,
+    "name": "PEILA, MAURIZIO",
+    "finish_time": "01:21:03",
+    "finish_seconds": 4863
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 743,
+    "name": "Weldon, Cian",
+    "finish_time": "01:21:06",
+    "finish_seconds": 4866
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 745,
+    "name": "Bruckner, Niklas Jakob",
+    "finish_time": "01:21:08",
+    "finish_seconds": 4868
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 747,
+    "name": "Battafarano, Alessandro",
+    "finish_time": "01:21:08",
+    "finish_seconds": 4868
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 749,
+    "name": "Tomasino, Niccol\u00f2",
+    "finish_time": "01:21:09",
+    "finish_seconds": 4869
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 751,
+    "name": "Calzuola, Luca",
+    "finish_time": "01:21:12",
+    "finish_seconds": 4872
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 753,
+    "name": "Kertzinger, David",
+    "finish_time": "01:21:12",
+    "finish_seconds": 4872
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 755,
+    "name": "Marrone, Stefano",
+    "finish_time": "01:21:15",
+    "finish_seconds": 4875
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 757,
+    "name": "Maraschiello, Leonardo",
+    "finish_time": "01:21:19",
+    "finish_seconds": 4879
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 759,
+    "name": "Colpi, Davide",
+    "finish_time": "01:21:20",
+    "finish_seconds": 4880
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 761,
+    "name": "Ferrara, Giuseppe",
+    "finish_time": "01:21:23",
+    "finish_seconds": 4883
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 763,
+    "name": "Zorzan, Riccardo",
+    "finish_time": "01:21:23",
+    "finish_seconds": 4883
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 765,
+    "name": "De Lucia, Danilo",
+    "finish_time": "01:21:24",
+    "finish_seconds": 4884
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 767,
+    "name": "Paolin, Lodovico",
+    "finish_time": "01:21:25",
+    "finish_seconds": 4885
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 769,
+    "name": "Sabbadin, Marco",
+    "finish_time": "01:21:27",
+    "finish_seconds": 4887
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 771,
+    "name": "Ferro, Francesco",
+    "finish_time": "01:21:30",
+    "finish_seconds": 4890
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 773,
+    "name": "Rocca, Luca",
+    "finish_time": "01:21:31",
+    "finish_seconds": 4891
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 775,
+    "name": "Chiodero, Alessio",
+    "finish_time": "01:21:32",
+    "finish_seconds": 4892
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 777,
+    "name": "Lauretti, Manuel",
+    "finish_time": "01:21:34",
+    "finish_seconds": 4894
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 779,
+    "name": "Miceli, Andrea",
+    "finish_time": "01:21:38",
+    "finish_seconds": 4898
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 781,
+    "name": "Fregnani, Marcello",
+    "finish_time": "01:21:40",
+    "finish_seconds": 4900
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 783,
+    "name": "Giorgi, Silvano",
+    "finish_time": "01:21:42",
+    "finish_seconds": 4902
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 785,
+    "name": "Simoni, Nicola",
+    "finish_time": "01:21:42",
+    "finish_seconds": 4902
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 787,
+    "name": "D'Amore, Danilo",
+    "finish_time": "01:21:43",
+    "finish_seconds": 4903
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 789,
+    "name": "Sbodio, Gabriele",
+    "finish_time": "01:21:46",
+    "finish_seconds": 4906
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 791,
+    "name": "Mussaro, Massimiliano Antonio",
+    "finish_time": "01:21:46",
+    "finish_seconds": 4906
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 793,
+    "name": "FORLINI, FEDERICO",
+    "finish_time": "01:21:54",
+    "finish_seconds": 4914
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 795,
+    "name": "Petozzi, Marco",
+    "finish_time": "01:21:56",
+    "finish_seconds": 4916
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 797,
+    "name": "Goffart, Jerome",
+    "finish_time": "01:21:58",
+    "finish_seconds": 4918
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 799,
+    "name": "Amerini, Alberto",
+    "finish_time": "01:21:59",
+    "finish_seconds": 4919
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 801,
+    "name": "D'Orso, Geremia",
+    "finish_time": "01:22:02",
+    "finish_seconds": 4922
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 803,
+    "name": "Bruzzone, Andrea",
+    "finish_time": "01:22:05",
+    "finish_seconds": 4925
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 805,
+    "name": "Oliva, Antonio",
+    "finish_time": "01:22:09",
+    "finish_seconds": 4929
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 807,
+    "name": "Schafranek, Michael",
+    "finish_time": "01:22:09",
+    "finish_seconds": 4929
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 809,
+    "name": "Francavillese, Christian",
+    "finish_time": "01:22:12",
+    "finish_seconds": 4932
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 811,
+    "name": "ZANCHI, DIEGO",
+    "finish_time": "01:22:15",
+    "finish_seconds": 4935
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 813,
+    "name": "Pessina, Luca",
+    "finish_time": "01:22:18",
+    "finish_seconds": 4938
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 815,
+    "name": "Furlan, Paolo",
+    "finish_time": "01:22:19",
+    "finish_seconds": 4939
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 817,
+    "name": "Balsamo, Danny Alex",
+    "finish_time": "01:22:20",
+    "finish_seconds": 4940
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 819,
+    "name": "Vella, Andreas",
+    "finish_time": "01:22:23",
+    "finish_seconds": 4943
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 821,
+    "name": "Vitale, Gianluca",
+    "finish_time": "01:22:25",
+    "finish_seconds": 4945
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 823,
+    "name": "Paganetti, Renato",
+    "finish_time": "01:22:29",
+    "finish_seconds": 4949
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 825,
+    "name": "Cragnolini, Alessandro",
+    "finish_time": "01:22:31",
+    "finish_seconds": 4951
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 827,
+    "name": "Di Pierro, Angelo",
+    "finish_time": "01:22:35",
+    "finish_seconds": 4955
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 829,
+    "name": "Grodotzki, Kenneth Alexander",
+    "finish_time": "01:22:36",
+    "finish_seconds": 4956
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 831,
+    "name": "Pinton, Enrico",
+    "finish_time": "01:22:38",
+    "finish_seconds": 4958
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 833,
+    "name": "Alfano, Emanuele",
+    "finish_time": "01:22:43",
+    "finish_seconds": 4963
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 835,
+    "name": "Tardivo, Matteo",
+    "finish_time": "01:22:44",
+    "finish_seconds": 4964
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 837,
+    "name": "Gravina, Alessandro",
+    "finish_time": "01:22:48",
+    "finish_seconds": 4968
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 839,
+    "name": "Martinelli, Andrea",
+    "finish_time": "01:22:53",
+    "finish_seconds": 4973
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 841,
+    "name": "Boudah, Ahmed",
+    "finish_time": "01:22:55",
+    "finish_seconds": 4975
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 843,
+    "name": "Buitoni, Matteo",
+    "finish_time": "01:22:57",
+    "finish_seconds": 4977
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 845,
+    "name": "Ferro, Luciano",
+    "finish_time": "01:23:00",
+    "finish_seconds": 4980
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 847,
+    "name": "bouzida, moad",
+    "finish_time": "01:23:03",
+    "finish_seconds": 4983
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 849,
+    "name": "Tappari, Edoardo",
+    "finish_time": "01:23:04",
+    "finish_seconds": 4984
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 851,
+    "name": "Yilmaz, Hakan",
+    "finish_time": "01:23:06",
+    "finish_seconds": 4986
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 853,
+    "name": "MALAGOLI, GIOVANNI",
+    "finish_time": "01:23:06",
+    "finish_seconds": 4986
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 855,
+    "name": "Santannera, Francesco",
+    "finish_time": "01:23:09",
+    "finish_seconds": 4989
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 857,
+    "name": "barisan, tommaso",
+    "finish_time": "01:23:10",
+    "finish_seconds": 4990
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 859,
+    "name": "Schiavone, Claudio",
+    "finish_time": "01:23:12",
+    "finish_seconds": 4992
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 861,
+    "name": "FOURMAUX, JANY",
+    "finish_time": "01:23:13",
+    "finish_seconds": 4993
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 863,
+    "name": "robbioni, francesco",
+    "finish_time": "01:23:15",
+    "finish_seconds": 4995
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 865,
+    "name": "Cavalleri, Luca",
+    "finish_time": "01:23:17",
+    "finish_seconds": 4997
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 867,
+    "name": "Verdone, Gianluca",
+    "finish_time": "01:23:21",
+    "finish_seconds": 5001
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 869,
+    "name": "Perruccio, Francesco",
+    "finish_time": "01:23:22",
+    "finish_seconds": 5002
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 871,
+    "name": "de Vocht, Bart",
+    "finish_time": "01:23:22",
+    "finish_seconds": 5002
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 873,
+    "name": "Di Diodoro, Andrea",
+    "finish_time": "01:23:27",
+    "finish_seconds": 5007
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 875,
+    "name": "Genna, Luca",
+    "finish_time": "01:23:31",
+    "finish_seconds": 5011
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 877,
+    "name": "Dian\u00e8, Aly",
+    "finish_time": "01:23:34",
+    "finish_seconds": 5014
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 879,
+    "name": "Bianchin, Nicholas",
+    "finish_time": "01:23:37",
+    "finish_seconds": 5017
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 881,
+    "name": "Di Bert, Lorenzo",
+    "finish_time": "01:23:39",
+    "finish_seconds": 5019
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 883,
+    "name": "Di Benedetto, Simone",
+    "finish_time": "01:23:40",
+    "finish_seconds": 5020
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 885,
+    "name": "Novella, Lorenzo",
+    "finish_time": "01:23:41",
+    "finish_seconds": 5021
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 887,
+    "name": "Manenti, Giorgio",
+    "finish_time": "01:23:43",
+    "finish_seconds": 5023
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 889,
+    "name": "Kaczor, Piotr",
+    "finish_time": "01:23:46",
+    "finish_seconds": 5026
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 891,
+    "name": "Ungarelli, Jacopo",
+    "finish_time": "01:23:48",
+    "finish_seconds": 5028
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 893,
+    "name": "Morello, Samuele",
+    "finish_time": "01:23:49",
+    "finish_seconds": 5029
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 895,
+    "name": "Albertario, Gianluca",
+    "finish_time": "01:23:50",
+    "finish_seconds": 5030
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 897,
+    "name": "Giorgi, Nicol\u00f2",
+    "finish_time": "01:23:50",
+    "finish_seconds": 5030
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 899,
+    "name": "Cammarano, Marco",
+    "finish_time": "01:23:51",
+    "finish_seconds": 5031
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 901,
+    "name": "Lombardi, Carlo Andrea",
+    "finish_time": "01:23:52",
+    "finish_seconds": 5032
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 903,
+    "name": "Cantoni, Fabio",
+    "finish_time": "01:23:56",
+    "finish_seconds": 5036
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 905,
+    "name": "SECCHI, CLAUDIO CESARE",
+    "finish_time": "01:23:59",
+    "finish_seconds": 5039
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 907,
+    "name": "Martinelli, Ettore",
+    "finish_time": "01:24:01",
+    "finish_seconds": 5041
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 909,
+    "name": "Pacini, Fabrizio",
+    "finish_time": "01:24:05",
+    "finish_seconds": 5045
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 911,
+    "name": "Cremonini, Stefano",
+    "finish_time": "01:24:06",
+    "finish_seconds": 5046
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 913,
+    "name": "Reichegger, Franco",
+    "finish_time": "01:24:09",
+    "finish_seconds": 5049
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 915,
+    "name": "Piazza, Nicol\u00f3",
+    "finish_time": "01:24:13",
+    "finish_seconds": 5053
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 917,
+    "name": "Mura, Francesco",
+    "finish_time": "01:24:13",
+    "finish_seconds": 5053
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 919,
+    "name": "DI ROCCO, MIRKO",
+    "finish_time": "01:24:15",
+    "finish_seconds": 5055
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 921,
+    "name": "Incerti, Filippo",
+    "finish_time": "01:24:15",
+    "finish_seconds": 5055
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 923,
+    "name": "Casiraghi, Alessio",
+    "finish_time": "01:24:19",
+    "finish_seconds": 5059
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 925,
+    "name": "Volta, Daniele",
+    "finish_time": "01:24:22",
+    "finish_seconds": 5062
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 927,
+    "name": "Garcia, David",
+    "finish_time": "01:24:24",
+    "finish_seconds": 5064
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 929,
+    "name": "Zampini, Silvio",
+    "finish_time": "01:24:26",
+    "finish_seconds": 5066
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 931,
+    "name": "Strub, Richard",
+    "finish_time": "01:24:27",
+    "finish_seconds": 5067
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 933,
+    "name": "Veropalumbo, Vincenzo",
+    "finish_time": "01:24:28",
+    "finish_seconds": 5068
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 935,
+    "name": "Valastro, Marco",
+    "finish_time": "01:24:28",
+    "finish_seconds": 5068
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 937,
+    "name": "Marino, Leonardo",
+    "finish_time": "01:24:29",
+    "finish_seconds": 5069
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 939,
+    "name": "anselmi, Ivan",
+    "finish_time": "01:24:32",
+    "finish_seconds": 5072
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 941,
+    "name": "Donadel, Michele",
+    "finish_time": "01:24:34",
+    "finish_seconds": 5074
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 943,
+    "name": "Giorgianni, Luca",
+    "finish_time": "01:24:38",
+    "finish_seconds": 5078
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 945,
+    "name": "Cananzi, Riccardo",
+    "finish_time": "01:24:38",
+    "finish_seconds": 5078
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 947,
+    "name": "Zorzetto, Andrea",
+    "finish_time": "01:24:41",
+    "finish_seconds": 5081
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 949,
+    "name": "Mart\u00ednez Valero, Juan Fernando",
+    "finish_time": "01:24:41",
+    "finish_seconds": 5081
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 951,
+    "name": "Giovanazzi, Alessio",
+    "finish_time": "01:24:43",
+    "finish_seconds": 5083
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 953,
+    "name": "Vrbanec, Marko",
+    "finish_time": "01:24:46",
+    "finish_seconds": 5086
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 955,
+    "name": "Franzoi, Gianni",
+    "finish_time": "01:24:47",
+    "finish_seconds": 5087
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 957,
+    "name": "Marini, Alessio",
+    "finish_time": "01:24:49",
+    "finish_seconds": 5089
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 959,
+    "name": "Antonini, Michele",
+    "finish_time": "01:24:53",
+    "finish_seconds": 5093
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 961,
+    "name": "Parpagiola, Leonardo",
+    "finish_time": "01:24:54",
+    "finish_seconds": 5094
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 963,
+    "name": "Chessa, Igor",
+    "finish_time": "01:24:56",
+    "finish_seconds": 5096
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 965,
+    "name": "Mal\u00fd, Martin",
+    "finish_time": "01:25:00",
+    "finish_seconds": 5100
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 967,
+    "name": "Le, Thanh Nam",
+    "finish_time": "01:25:02",
+    "finish_seconds": 5102
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 969,
+    "name": "Domestici, Pietro",
+    "finish_time": "01:25:07",
+    "finish_seconds": 5107
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 971,
+    "name": "Pavesi, Mattia",
+    "finish_time": "01:25:09",
+    "finish_seconds": 5109
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 973,
+    "name": "Kenyon, George",
+    "finish_time": "01:25:11",
+    "finish_seconds": 5111
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 975,
+    "name": "Verrigni, Lorenzo",
+    "finish_time": "01:25:12",
+    "finish_seconds": 5112
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 977,
+    "name": "Melli, Massimiliano",
+    "finish_time": "01:25:16",
+    "finish_seconds": 5116
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 979,
+    "name": "Caravelli, Alessio",
+    "finish_time": "01:25:17",
+    "finish_seconds": 5117
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 981,
+    "name": "Semenzin, Stefano",
+    "finish_time": "01:25:18",
+    "finish_seconds": 5118
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 983,
+    "name": "Savino, Loris",
+    "finish_time": "01:25:19",
+    "finish_seconds": 5119
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 985,
+    "name": "Melis, Alessio",
+    "finish_time": "01:25:24",
+    "finish_seconds": 5124
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 987,
+    "name": "Corr\u00f2, Ilario",
+    "finish_time": "01:25:25",
+    "finish_seconds": 5125
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 989,
+    "name": "Padova, Simone",
+    "finish_time": "01:25:26",
+    "finish_seconds": 5126
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 991,
+    "name": "Pinotti, Daniele",
+    "finish_time": "01:25:30",
+    "finish_seconds": 5130
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 993,
+    "name": "carbognani, andrea",
+    "finish_time": "01:25:32",
+    "finish_seconds": 5132
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 995,
+    "name": "Stegarescu, Daniel",
+    "finish_time": "01:25:34",
+    "finish_seconds": 5134
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 997,
+    "name": "Ramos, Ken Bradley",
+    "finish_time": "01:25:36",
+    "finish_seconds": 5136
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 999,
+    "name": "Sanzio, Luigi Donato",
+    "finish_time": "01:25:37",
+    "finish_seconds": 5137
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1001,
+    "name": "Boulin, pierre",
+    "finish_time": "01:25:39",
+    "finish_seconds": 5139
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1003,
+    "name": "Piras, Gabriele",
+    "finish_time": "01:25:40",
+    "finish_seconds": 5140
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1005,
+    "name": "Stotz, Thomas",
+    "finish_time": "01:25:48",
+    "finish_seconds": 5148
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1007,
+    "name": "Fonseca, Cid",
+    "finish_time": "01:25:50",
+    "finish_seconds": 5150
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1009,
+    "name": "Claus, Christian",
+    "finish_time": "01:25:52",
+    "finish_seconds": 5152
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1011,
+    "name": "Cima, Morgan",
+    "finish_time": "01:25:54",
+    "finish_seconds": 5154
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1013,
+    "name": "Rusin, Marco",
+    "finish_time": "01:25:57",
+    "finish_seconds": 5157
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1015,
+    "name": "Donelli, Alessandro",
+    "finish_time": "01:25:58",
+    "finish_seconds": 5158
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1017,
+    "name": "Brigato, Flavio",
+    "finish_time": "01:25:59",
+    "finish_seconds": 5159
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1019,
+    "name": "Pernicone, Massimo",
+    "finish_time": "01:26:03",
+    "finish_seconds": 5163
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1021,
+    "name": "Giacomozzi, Davide",
+    "finish_time": "01:26:04",
+    "finish_seconds": 5164
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1023,
+    "name": "Marcato, Simone",
+    "finish_time": "01:26:06",
+    "finish_seconds": 5166
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1025,
+    "name": "Virduzzo, Salvatore",
+    "finish_time": "01:26:09",
+    "finish_seconds": 5169
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1027,
+    "name": "Bretta, Giammarco",
+    "finish_time": "01:26:12",
+    "finish_seconds": 5172
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1029,
+    "name": "Cristofari, Fabrizio",
+    "finish_time": "01:26:13",
+    "finish_seconds": 5173
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1031,
+    "name": "FORSINETTI, NICOLO'",
+    "finish_time": "01:26:15",
+    "finish_seconds": 5175
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1033,
+    "name": "Barato, Riccardo",
+    "finish_time": "01:26:16",
+    "finish_seconds": 5176
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1035,
+    "name": "Kucharski, Michal",
+    "finish_time": "01:26:18",
+    "finish_seconds": 5178
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1037,
+    "name": "Cordero Hilario, Felix Johan",
+    "finish_time": "01:26:20",
+    "finish_seconds": 5180
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1039,
+    "name": "Brugger, Mario",
+    "finish_time": "01:26:21",
+    "finish_seconds": 5181
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1041,
+    "name": "muggittu, matteo",
+    "finish_time": "01:26:23",
+    "finish_seconds": 5183
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1043,
+    "name": "Brazzolotto, Federico Maria",
+    "finish_time": "01:26:26",
+    "finish_seconds": 5186
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1045,
+    "name": "Pisa, Alessandro",
+    "finish_time": "01:26:30",
+    "finish_seconds": 5190
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1047,
+    "name": "Bertussi, Marco",
+    "finish_time": "01:26:32",
+    "finish_seconds": 5192
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1049,
+    "name": "Montefusco, Andrea",
+    "finish_time": "01:26:34",
+    "finish_seconds": 5194
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1051,
+    "name": "Raggi, Nicola",
+    "finish_time": "01:26:36",
+    "finish_seconds": 5196
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1053,
+    "name": "Wissdorf, Nicholas",
+    "finish_time": "01:26:38",
+    "finish_seconds": 5198
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1055,
+    "name": "Cangialosi, Salvatore",
+    "finish_time": "01:26:38",
+    "finish_seconds": 5198
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1057,
+    "name": "Causse, Ludovic",
+    "finish_time": "01:26:39",
+    "finish_seconds": 5199
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1059,
+    "name": "Mocchetti, Giulio",
+    "finish_time": "01:26:41",
+    "finish_seconds": 5201
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1061,
+    "name": "Santolin, Alberto",
+    "finish_time": "01:26:42",
+    "finish_seconds": 5202
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1063,
+    "name": "Pedroni, Mirko",
+    "finish_time": "01:26:46",
+    "finish_seconds": 5206
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1065,
+    "name": "Magro, Gerardo Diego",
+    "finish_time": "01:26:50",
+    "finish_seconds": 5210
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1067,
+    "name": "Merli, Davide",
+    "finish_time": "01:26:50",
+    "finish_seconds": 5210
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1069,
+    "name": "Sperrer, Ronald",
+    "finish_time": "01:26:51",
+    "finish_seconds": 5211
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1071,
+    "name": "Castigliano, Luca",
+    "finish_time": "01:26:51",
+    "finish_seconds": 5211
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1073,
+    "name": "Freddi, Luca",
+    "finish_time": "01:26:53",
+    "finish_seconds": 5213
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1075,
+    "name": "Clagnan, Stefano",
+    "finish_time": "01:26:55",
+    "finish_seconds": 5215
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1077,
+    "name": "Pucci, Samuele Salvatore",
+    "finish_time": "01:26:55",
+    "finish_seconds": 5215
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1079,
+    "name": "Fontes, Claude",
+    "finish_time": "01:26:56",
+    "finish_seconds": 5216
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1081,
+    "name": "Giambelli, Guglielmo",
+    "finish_time": "01:27:00",
+    "finish_seconds": 5220
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1083,
+    "name": "Angelozzi, Nicola",
+    "finish_time": "01:27:02",
+    "finish_seconds": 5222
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1085,
+    "name": "Dainese, Federico",
+    "finish_time": "01:27:03",
+    "finish_seconds": 5223
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1087,
+    "name": "Piotto, Stefano",
+    "finish_time": "01:27:07",
+    "finish_seconds": 5227
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1089,
+    "name": "Baggioli, Lorenzo",
+    "finish_time": "01:27:08",
+    "finish_seconds": 5228
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1091,
+    "name": "Schallamon, Christian",
+    "finish_time": "01:27:11",
+    "finish_seconds": 5231
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1093,
+    "name": "Paolillo, Salvatore",
+    "finish_time": "01:27:12",
+    "finish_seconds": 5232
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1095,
+    "name": "Rafaj, Marko",
+    "finish_time": "01:27:16",
+    "finish_seconds": 5236
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1097,
+    "name": "Zaccaro, Lorenzo",
+    "finish_time": "01:27:19",
+    "finish_seconds": 5239
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1099,
+    "name": "Terranova, Giuseppe",
+    "finish_time": "01:27:21",
+    "finish_seconds": 5241
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1101,
+    "name": "Franzese, Giuseppe",
+    "finish_time": "01:27:25",
+    "finish_seconds": 5245
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1103,
+    "name": "Tushaj, Marjo",
+    "finish_time": "01:27:29",
+    "finish_seconds": 5249
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1105,
+    "name": "Randazzini, Niccolo",
+    "finish_time": "01:27:30",
+    "finish_seconds": 5250
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1107,
+    "name": "Busani, Matteo",
+    "finish_time": "01:27:32",
+    "finish_seconds": 5252
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1109,
+    "name": "Catalano, Enrico",
+    "finish_time": "01:27:33",
+    "finish_seconds": 5253
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1111,
+    "name": "Boldrini, Luigi",
+    "finish_time": "01:27:35",
+    "finish_seconds": 5255
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1113,
+    "name": "Pierobon, Manuel",
+    "finish_time": "01:27:39",
+    "finish_seconds": 5259
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1115,
+    "name": "Casella, Alessandro",
+    "finish_time": "01:27:41",
+    "finish_seconds": 5261
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1117,
+    "name": "Gollinucci, Emanuele",
+    "finish_time": "01:27:43",
+    "finish_seconds": 5263
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1119,
+    "name": "sforza, simone",
+    "finish_time": "01:27:46",
+    "finish_seconds": 5266
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1121,
+    "name": "Puschiasis, Alessandro",
+    "finish_time": "01:27:49",
+    "finish_seconds": 5269
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1123,
+    "name": "Ianniello, Antonio",
+    "finish_time": "01:27:49",
+    "finish_seconds": 5269
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1125,
+    "name": "Rovere, Samuele",
+    "finish_time": "01:27:50",
+    "finish_seconds": 5270
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1127,
+    "name": "Vullo, Stefano",
+    "finish_time": "01:27:52",
+    "finish_seconds": 5272
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1129,
+    "name": "Blouin, Laurent",
+    "finish_time": "01:27:56",
+    "finish_seconds": 5276
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1131,
+    "name": "Bazzi, Alessandro",
+    "finish_time": "01:27:59",
+    "finish_seconds": 5279
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1133,
+    "name": "Giaccari, Massimiliano",
+    "finish_time": "01:28:00",
+    "finish_seconds": 5280
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1135,
+    "name": "Agueci, Lorenzo",
+    "finish_time": "01:28:02",
+    "finish_seconds": 5282
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1137,
+    "name": "Ferrini, Ivan",
+    "finish_time": "01:28:02",
+    "finish_seconds": 5282
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1139,
+    "name": "Boccalari, Lorenzo",
+    "finish_time": "01:28:03",
+    "finish_seconds": 5283
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1141,
+    "name": "Argentin, Marko",
+    "finish_time": "01:28:06",
+    "finish_seconds": 5286
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1143,
+    "name": "Hunter, Ross",
+    "finish_time": "01:28:08",
+    "finish_seconds": 5288
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1145,
+    "name": "ZAPPIA, DAVIDE",
+    "finish_time": "01:28:10",
+    "finish_seconds": 5290
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1147,
+    "name": "Grosso, Giuseppe",
+    "finish_time": "01:28:12",
+    "finish_seconds": 5292
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1149,
+    "name": "Montemurro, Michele",
+    "finish_time": "01:28:13",
+    "finish_seconds": 5293
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1151,
+    "name": "Tamborrini, Andrea",
+    "finish_time": "01:28:14",
+    "finish_seconds": 5294
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1153,
+    "name": "Gafforelli, Daniele Emilio",
+    "finish_time": "01:28:16",
+    "finish_seconds": 5296
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1155,
+    "name": "dieng, pascal",
+    "finish_time": "01:28:18",
+    "finish_seconds": 5298
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1157,
+    "name": "Cordera, Andrea",
+    "finish_time": "01:28:19",
+    "finish_seconds": 5299
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1159,
+    "name": "Feher, Zsolt",
+    "finish_time": "01:28:21",
+    "finish_seconds": 5301
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1161,
+    "name": "Vona, Giuseppe",
+    "finish_time": "01:28:24",
+    "finish_seconds": 5304
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1163,
+    "name": "Grasso, Gabriele",
+    "finish_time": "01:28:26",
+    "finish_seconds": 5306
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1165,
+    "name": "sorio, paolo",
+    "finish_time": "01:28:27",
+    "finish_seconds": 5307
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1167,
+    "name": "Loffredo, Francesco",
+    "finish_time": "01:28:28",
+    "finish_seconds": 5308
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1169,
+    "name": "Bruzzo, Mattia",
+    "finish_time": "01:28:30",
+    "finish_seconds": 5310
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1171,
+    "name": "IAPELLO, DOMENICO",
+    "finish_time": "01:28:31",
+    "finish_seconds": 5311
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1173,
+    "name": "Baroni, Daniele",
+    "finish_time": "01:28:38",
+    "finish_seconds": 5318
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1175,
+    "name": "Kuhn, Dominik",
+    "finish_time": "01:28:43",
+    "finish_seconds": 5323
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1177,
+    "name": "Beka, Adem",
+    "finish_time": "01:28:50",
+    "finish_seconds": 5330
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1179,
+    "name": "Baldi, Tommaso",
+    "finish_time": "01:28:51",
+    "finish_seconds": 5331
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1181,
+    "name": "Garaffa, Simone",
+    "finish_time": "01:28:52",
+    "finish_seconds": 5332
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1183,
+    "name": "Lonighi, Alessandro",
+    "finish_time": "01:28:55",
+    "finish_seconds": 5335
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1185,
+    "name": "Giacomo, Relli",
+    "finish_time": "01:28:56",
+    "finish_seconds": 5336
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1187,
+    "name": "Borgogno, Riccardo",
+    "finish_time": "01:28:59",
+    "finish_seconds": 5339
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1189,
+    "name": "Zannini, Lorenzo",
+    "finish_time": "01:29:01",
+    "finish_seconds": 5341
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1191,
+    "name": "Lovergine, Kevin",
+    "finish_time": "01:29:03",
+    "finish_seconds": 5343
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1193,
+    "name": "Albertella, Mattia",
+    "finish_time": "01:29:04",
+    "finish_seconds": 5344
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1195,
+    "name": "Tinto, Alex",
+    "finish_time": "01:29:05",
+    "finish_seconds": 5345
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1197,
+    "name": "Renzi, Edoardo",
+    "finish_time": "01:29:06",
+    "finish_seconds": 5346
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1199,
+    "name": "Polacco, Alvise",
+    "finish_time": "01:29:06",
+    "finish_seconds": 5346
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1201,
+    "name": "Carusi, Fabrizio",
+    "finish_time": "01:29:06",
+    "finish_seconds": 5346
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1203,
+    "name": "Weber, Stephan",
+    "finish_time": "01:29:12",
+    "finish_seconds": 5352
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1205,
+    "name": "Brach, Thomas",
+    "finish_time": "01:29:12",
+    "finish_seconds": 5352
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1207,
+    "name": "Pinna, Manuel",
+    "finish_time": "01:29:14",
+    "finish_seconds": 5354
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1209,
+    "name": "Gardini, Giacomo",
+    "finish_time": "01:29:15",
+    "finish_seconds": 5355
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1211,
+    "name": "Newell, Patrick",
+    "finish_time": "01:29:15",
+    "finish_seconds": 5355
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1213,
+    "name": "Cenzato, Mattia",
+    "finish_time": "01:29:19",
+    "finish_seconds": 5359
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1215,
+    "name": "Petermaier, Martin",
+    "finish_time": "01:29:21",
+    "finish_seconds": 5361
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1217,
+    "name": "Bridi, Ivan",
+    "finish_time": "01:29:21",
+    "finish_seconds": 5361
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1219,
+    "name": "Ferrari, Andrea",
+    "finish_time": "01:29:22",
+    "finish_seconds": 5362
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1221,
+    "name": "Archetti, Davide",
+    "finish_time": "01:29:23",
+    "finish_seconds": 5363
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1223,
+    "name": "Hataly\u00e1k, Attila",
+    "finish_time": "01:29:26",
+    "finish_seconds": 5366
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1225,
+    "name": "Memmi, Simone",
+    "finish_time": "01:29:28",
+    "finish_seconds": 5368
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1227,
+    "name": "Marcu, Valentin",
+    "finish_time": "01:29:31",
+    "finish_seconds": 5371
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1229,
+    "name": "L\u2019Erede, Davide",
+    "finish_time": "01:29:32",
+    "finish_seconds": 5372
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1231,
+    "name": "Venturin, Federico",
+    "finish_time": "01:29:32",
+    "finish_seconds": 5372
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1233,
+    "name": "Santoro, Federico",
+    "finish_time": "01:29:35",
+    "finish_seconds": 5375
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1235,
+    "name": "Sacchi, Alessandro",
+    "finish_time": "01:29:38",
+    "finish_seconds": 5378
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1237,
+    "name": "Zerla, Luca",
+    "finish_time": "01:29:40",
+    "finish_seconds": 5380
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1239,
+    "name": "Gioia, Alessandro",
+    "finish_time": "01:29:41",
+    "finish_seconds": 5381
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1241,
+    "name": "Franceschetto, Hugo",
+    "finish_time": "01:29:44",
+    "finish_seconds": 5384
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1243,
+    "name": "Cedola, Mattia",
+    "finish_time": "01:29:47",
+    "finish_seconds": 5387
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1245,
+    "name": "TAGLIABUE, FEDERICO",
+    "finish_time": "01:29:49",
+    "finish_seconds": 5389
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1247,
+    "name": "Ol\u00e1h, Zolt\u00e1n",
+    "finish_time": "01:29:50",
+    "finish_seconds": 5390
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1249,
+    "name": "Or\u0161o\u0161, Bla\u017e",
+    "finish_time": "01:29:51",
+    "finish_seconds": 5391
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1251,
+    "name": "Paganelli, Alessandro",
+    "finish_time": "01:29:56",
+    "finish_seconds": 5396
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1253,
+    "name": "Arzilli, Enrico",
+    "finish_time": "01:29:57",
+    "finish_seconds": 5397
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1255,
+    "name": "Poletti, Mirco",
+    "finish_time": "01:29:59",
+    "finish_seconds": 5399
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1257,
+    "name": "Galassi, Alessandro",
+    "finish_time": "01:30:02",
+    "finish_seconds": 5402
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1259,
+    "name": "Vrabec, Nikola",
+    "finish_time": "01:30:03",
+    "finish_seconds": 5403
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1261,
+    "name": "Vanella, Davide Francesco",
+    "finish_time": "01:30:05",
+    "finish_seconds": 5405
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1263,
+    "name": "Kalfouni, Samer",
+    "finish_time": "01:30:10",
+    "finish_seconds": 5410
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1265,
+    "name": "De Donatis, Mattia",
+    "finish_time": "01:30:12",
+    "finish_seconds": 5412
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1267,
+    "name": "Maton, Pierre-Alexandre",
+    "finish_time": "01:30:14",
+    "finish_seconds": 5414
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1269,
+    "name": "Audino, Massimo",
+    "finish_time": "01:30:16",
+    "finish_seconds": 5416
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1271,
+    "name": "Martino, Daniele",
+    "finish_time": "01:30:17",
+    "finish_seconds": 5417
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1273,
+    "name": "Biancalana, Daniele",
+    "finish_time": "01:30:19",
+    "finish_seconds": 5419
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1275,
+    "name": "Chirico, Giovanni",
+    "finish_time": "01:30:19",
+    "finish_seconds": 5419
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1277,
+    "name": "Silli, Davide",
+    "finish_time": "01:30:22",
+    "finish_seconds": 5422
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1279,
+    "name": "Miller, Brenton",
+    "finish_time": "01:30:23",
+    "finish_seconds": 5423
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1281,
+    "name": "Braud, Marvin",
+    "finish_time": "01:30:27",
+    "finish_seconds": 5427
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1283,
+    "name": "Torresin, Roberto",
+    "finish_time": "01:30:29",
+    "finish_seconds": 5429
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1285,
+    "name": "VENERI, DAVIDE",
+    "finish_time": "01:30:32",
+    "finish_seconds": 5432
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1287,
+    "name": "Profunser, Manuel",
+    "finish_time": "01:30:34",
+    "finish_seconds": 5434
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1289,
+    "name": "Pugliese, Antonino",
+    "finish_time": "01:30:36",
+    "finish_seconds": 5436
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1291,
+    "name": "Togni, Leonardo",
+    "finish_time": "01:30:39",
+    "finish_seconds": 5439
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1293,
+    "name": "Prosperini, Pierfrancesco",
+    "finish_time": "01:30:46",
+    "finish_seconds": 5446
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1295,
+    "name": "Simeone Ferrigno, Lucas",
+    "finish_time": "01:30:49",
+    "finish_seconds": 5449
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1297,
+    "name": "Casati, Luca",
+    "finish_time": "01:30:51",
+    "finish_seconds": 5451
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1299,
+    "name": "Trobec, Domen",
+    "finish_time": "01:30:55",
+    "finish_seconds": 5455
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1301,
+    "name": "Martin, Matteo",
+    "finish_time": "01:30:56",
+    "finish_seconds": 5456
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1303,
+    "name": "Bernini, Matteo",
+    "finish_time": "01:31:01",
+    "finish_seconds": 5461
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1305,
+    "name": "Mawer, Ethan",
+    "finish_time": "01:31:05",
+    "finish_seconds": 5465
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1307,
+    "name": "Springford, Andrew",
+    "finish_time": "01:31:07",
+    "finish_seconds": 5467
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1309,
+    "name": "Gallo, Michele",
+    "finish_time": "01:31:09",
+    "finish_seconds": 5469
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1311,
+    "name": "Poletti, Giulio",
+    "finish_time": "01:31:10",
+    "finish_seconds": 5470
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1313,
+    "name": "Giancristofaro, Paolo",
+    "finish_time": "01:31:12",
+    "finish_seconds": 5472
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1315,
+    "name": "Bauza, Jose",
+    "finish_time": "01:31:14",
+    "finish_seconds": 5474
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1317,
+    "name": "Roberts, Noel",
+    "finish_time": "01:31:18",
+    "finish_seconds": 5478
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1319,
+    "name": "Cheema, Yadwinder Singh",
+    "finish_time": "01:31:22",
+    "finish_seconds": 5482
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1321,
+    "name": "Cannataro, Luca",
+    "finish_time": "01:31:25",
+    "finish_seconds": 5485
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1323,
+    "name": "Soares, Alvaro",
+    "finish_time": "01:31:33",
+    "finish_seconds": 5493
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1325,
+    "name": "De Sousa, Nathanael",
+    "finish_time": "01:31:35",
+    "finish_seconds": 5495
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1327,
+    "name": "Costantini, Jonathan",
+    "finish_time": "01:31:36",
+    "finish_seconds": 5496
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1329,
+    "name": "De Gottardo, Simone",
+    "finish_time": "01:31:46",
+    "finish_seconds": 5506
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1330,
+    "name": "Carli, Mirco",
+    "finish_time": "01:31:46",
+    "finish_seconds": 5506
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1333,
+    "name": "Dreier, Marc",
+    "finish_time": "01:31:47",
+    "finish_seconds": 5507
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1335,
+    "name": "Loperfido, Giordano",
+    "finish_time": "01:31:48",
+    "finish_seconds": 5508
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1337,
+    "name": "Lorusso, Matteo",
+    "finish_time": "01:31:54",
+    "finish_seconds": 5514
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1339,
+    "name": "Di Sandro, Marco",
+    "finish_time": "01:31:57",
+    "finish_seconds": 5517
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1341,
+    "name": "Deluca, Stefano",
+    "finish_time": "01:31:58",
+    "finish_seconds": 5518
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1343,
+    "name": "Bisetto, Massimiliano",
+    "finish_time": "01:32:05",
+    "finish_seconds": 5525
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1345,
+    "name": "Sp\u00f6gler, Matthias",
+    "finish_time": "01:32:14",
+    "finish_seconds": 5534
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1347,
+    "name": "Crippa, Andrea",
+    "finish_time": "01:32:20",
+    "finish_seconds": 5540
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1349,
+    "name": "Jennepin, Yohann",
+    "finish_time": "01:32:23",
+    "finish_seconds": 5543
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1351,
+    "name": "Gatti, Francesco",
+    "finish_time": "01:32:23",
+    "finish_seconds": 5543
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1353,
+    "name": "Mestriner, Maurizio",
+    "finish_time": "01:32:25",
+    "finish_seconds": 5545
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1356,
+    "name": "Zemolin, Stefano",
+    "finish_time": "01:32:28",
+    "finish_seconds": 5548
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1358,
+    "name": "Valtz, Pitono",
+    "finish_time": "01:32:32",
+    "finish_seconds": 5552
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1360,
+    "name": "Rinaldi, Angelo",
+    "finish_time": "01:32:32",
+    "finish_seconds": 5552
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1362,
+    "name": "Braga, Alex",
+    "finish_time": "01:32:36",
+    "finish_seconds": 5556
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1364,
+    "name": "Nielsen, Mikkel Bech",
+    "finish_time": "01:32:43",
+    "finish_seconds": 5563
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1366,
+    "name": "Pla, Kike",
+    "finish_time": "01:32:44",
+    "finish_seconds": 5564
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1368,
+    "name": "tesi, francesco",
+    "finish_time": "01:32:45",
+    "finish_seconds": 5565
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1370,
+    "name": "Esposito, Marco",
+    "finish_time": "01:32:47",
+    "finish_seconds": 5567
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1372,
+    "name": "Hulme, Peter",
+    "finish_time": "01:32:50",
+    "finish_seconds": 5570
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1374,
+    "name": "Zacch\u00e8, Simone",
+    "finish_time": "01:32:52",
+    "finish_seconds": 5572
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1376,
+    "name": "Benvenuti, Francesco",
+    "finish_time": "01:32:53",
+    "finish_seconds": 5573
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1378,
+    "name": "Rescigno, Gabriele",
+    "finish_time": "01:32:58",
+    "finish_seconds": 5578
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1380,
+    "name": "Conceicao, Augusto",
+    "finish_time": "01:32:58",
+    "finish_seconds": 5578
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1382,
+    "name": "Mencaroni, Ugo",
+    "finish_time": "01:32:59",
+    "finish_seconds": 5579
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1384,
+    "name": "Andrea, Gelli",
+    "finish_time": "01:33:01",
+    "finish_seconds": 5581
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1386,
+    "name": "Semenzato, Luca",
+    "finish_time": "01:33:01",
+    "finish_seconds": 5581
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1388,
+    "name": "Isacchi, Simone",
+    "finish_time": "01:33:08",
+    "finish_seconds": 5588
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1390,
+    "name": "Cristiano, Riccardo",
+    "finish_time": "01:33:12",
+    "finish_seconds": 5592
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1392,
+    "name": "Grimaldi, Alessandro",
+    "finish_time": "01:33:15",
+    "finish_seconds": 5595
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1394,
+    "name": "Moscato, Francesco",
+    "finish_time": "01:33:22",
+    "finish_seconds": 5602
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1396,
+    "name": "Brown, Peter",
+    "finish_time": "01:33:22",
+    "finish_seconds": 5602
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1398,
+    "name": "giovannetti, david",
+    "finish_time": "01:33:23",
+    "finish_seconds": 5603
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1400,
+    "name": "Rupp, Christoph",
+    "finish_time": "01:33:25",
+    "finish_seconds": 5605
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1402,
+    "name": "Gregori, Gabriele",
+    "finish_time": "01:33:27",
+    "finish_seconds": 5607
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1404,
+    "name": "Cittadin, Fabio",
+    "finish_time": "01:33:31",
+    "finish_seconds": 5611
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1406,
+    "name": "Cariddi, Simone",
+    "finish_time": "01:33:35",
+    "finish_seconds": 5615
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1408,
+    "name": "Sicurella, Alessandro",
+    "finish_time": "01:33:38",
+    "finish_seconds": 5618
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1410,
+    "name": "Evandri, Gianpietro",
+    "finish_time": "01:33:38",
+    "finish_seconds": 5618
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1412,
+    "name": "Rizzato, Roberto",
+    "finish_time": "01:33:41",
+    "finish_seconds": 5621
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1414,
+    "name": "Benetti, Simone",
+    "finish_time": "01:33:46",
+    "finish_seconds": 5626
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1416,
+    "name": "Chiaudano, Marco",
+    "finish_time": "01:33:47",
+    "finish_seconds": 5627
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1418,
+    "name": "Miksik, Johannes",
+    "finish_time": "01:33:49",
+    "finish_seconds": 5629
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1420,
+    "name": "Staiano, Davide",
+    "finish_time": "01:33:51",
+    "finish_seconds": 5631
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1422,
+    "name": "Rispoli, Vittorio",
+    "finish_time": "01:33:54",
+    "finish_seconds": 5634
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1424,
+    "name": "Claus, Michele",
+    "finish_time": "01:33:57",
+    "finish_seconds": 5637
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1426,
+    "name": "Hall, Danny",
+    "finish_time": "01:34:01",
+    "finish_seconds": 5641
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1428,
+    "name": "Paltrinieri, Alessandro",
+    "finish_time": "01:34:05",
+    "finish_seconds": 5645
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1430,
+    "name": "Colato, Matteo",
+    "finish_time": "01:34:06",
+    "finish_seconds": 5646
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1432,
+    "name": "Perin, Stefano",
+    "finish_time": "01:34:07",
+    "finish_seconds": 5647
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1434,
+    "name": "Fornelli, Michele",
+    "finish_time": "01:34:08",
+    "finish_seconds": 5648
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1436,
+    "name": "Cruz, Natan",
+    "finish_time": "01:34:15",
+    "finish_seconds": 5655
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1438,
+    "name": "Turacchi, Maurizio",
+    "finish_time": "01:34:16",
+    "finish_seconds": 5656
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1440,
+    "name": "CONFORTO, MICHELE",
+    "finish_time": "01:34:27",
+    "finish_seconds": 5667
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1442,
+    "name": "Bianchi, William",
+    "finish_time": "01:34:30",
+    "finish_seconds": 5670
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1444,
+    "name": "GAUTHIER, LUDOVIC",
+    "finish_time": "01:34:32",
+    "finish_seconds": 5672
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1446,
+    "name": "Wilson, Antony",
+    "finish_time": "01:34:34",
+    "finish_seconds": 5674
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1448,
+    "name": "Moretti, Marcel",
+    "finish_time": "01:34:35",
+    "finish_seconds": 5675
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1450,
+    "name": "Piccinin, Stefano",
+    "finish_time": "01:34:37",
+    "finish_seconds": 5677
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1452,
+    "name": "Castioni, Matteo",
+    "finish_time": "01:34:44",
+    "finish_seconds": 5684
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1454,
+    "name": "ZAPPIA, SAMUEL",
+    "finish_time": "01:34:45",
+    "finish_seconds": 5685
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1456,
+    "name": "Ferrari, Samuele",
+    "finish_time": "01:34:47",
+    "finish_seconds": 5687
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1458,
+    "name": "Teglia, Alessandro",
+    "finish_time": "01:34:51",
+    "finish_seconds": 5691
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1460,
+    "name": "Hauser, Hermann",
+    "finish_time": "01:34:54",
+    "finish_seconds": 5694
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1462,
+    "name": "Chiappara, Tommaso",
+    "finish_time": "01:34:59",
+    "finish_seconds": 5699
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1464,
+    "name": "Bele, Martin",
+    "finish_time": "01:35:02",
+    "finish_seconds": 5702
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1466,
+    "name": "Spagnuolo, Fabrizio",
+    "finish_time": "01:35:08",
+    "finish_seconds": 5708
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1468,
+    "name": "Zanella, Stefano",
+    "finish_time": "01:35:12",
+    "finish_seconds": 5712
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1470,
+    "name": "Vogt, Markus",
+    "finish_time": "01:35:14",
+    "finish_seconds": 5714
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "M",
+    "rank": 1472,
+    "name": "Dragani, Marco",
+    "finish_time": "01:35:15",
+    "finish_seconds": 5715
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 1,
+    "name": "Zold, Zsofia Luca",
+    "finish_time": "01:01:36",
+    "finish_seconds": 3696
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 3,
+    "name": "Authried, Sophie",
+    "finish_time": "01:04:48",
+    "finish_seconds": 3888
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 5,
+    "name": "MELONI, CLAUDIA",
+    "finish_time": "01:06:41",
+    "finish_seconds": 4001
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 7,
+    "name": "Fiordi, Melania",
+    "finish_time": "01:07:16",
+    "finish_seconds": 4036
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 9,
+    "name": "Valentina, Facciani",
+    "finish_time": "01:08:11",
+    "finish_seconds": 4091
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 11,
+    "name": "Mar\u00edn Alonso, Andrea",
+    "finish_time": "01:08:43",
+    "finish_seconds": 4123
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 13,
+    "name": "Diani, Cecilia",
+    "finish_time": "01:09:01",
+    "finish_seconds": 4141
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 15,
+    "name": "Facciani, Martina",
+    "finish_time": "01:09:27",
+    "finish_seconds": 4167
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 17,
+    "name": "Terzi\u0107, Ivana",
+    "finish_time": "01:09:53",
+    "finish_seconds": 4193
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 19,
+    "name": "Benevelli, Elena",
+    "finish_time": "01:10:21",
+    "finish_seconds": 4221
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 21,
+    "name": "LUISETTO, FRANCESCA",
+    "finish_time": "01:11:04",
+    "finish_seconds": 4264
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 23,
+    "name": "Brusco, Sara",
+    "finish_time": "01:11:27",
+    "finish_seconds": 4287
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 25,
+    "name": "Casarin, Linda",
+    "finish_time": "01:11:59",
+    "finish_seconds": 4319
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 27,
+    "name": "Perkovi\u010d, Katja",
+    "finish_time": "01:12:01",
+    "finish_seconds": 4321
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 29,
+    "name": "Martinelli, Jessica",
+    "finish_time": "01:12:21",
+    "finish_seconds": 4341
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 31,
+    "name": "Liberio, Lisa",
+    "finish_time": "01:12:33",
+    "finish_seconds": 4353
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 33,
+    "name": "Glen, Ashley",
+    "finish_time": "01:12:55",
+    "finish_seconds": 4375
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 35,
+    "name": "Manzoni, Chiara",
+    "finish_time": "01:12:58",
+    "finish_seconds": 4378
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 37,
+    "name": "Bonetti, Margherita",
+    "finish_time": "01:13:03",
+    "finish_seconds": 4383
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 39,
+    "name": "Ponzo, Federica",
+    "finish_time": "01:13:25",
+    "finish_seconds": 4405
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 41,
+    "name": "Horvat \u0160korjanec, Ivona",
+    "finish_time": "01:13:33",
+    "finish_seconds": 4413
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 43,
+    "name": "Holzknecht, Nika",
+    "finish_time": "01:14:04",
+    "finish_seconds": 4444
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 45,
+    "name": "Zrnic, Andreja",
+    "finish_time": "01:14:07",
+    "finish_seconds": 4447
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 47,
+    "name": "Silvestrini, Beatrice",
+    "finish_time": "01:14:18",
+    "finish_seconds": 4458
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 49,
+    "name": "Landi, Arianna",
+    "finish_time": "01:14:27",
+    "finish_seconds": 4467
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 51,
+    "name": "Seppi, Federica",
+    "finish_time": "01:14:29",
+    "finish_seconds": 4469
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 53,
+    "name": "Rondelli, Linda",
+    "finish_time": "01:14:38",
+    "finish_seconds": 4478
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 55,
+    "name": "Fanelli, Emanuela",
+    "finish_time": "01:15:02",
+    "finish_seconds": 4502
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 57,
+    "name": "Signorelli, Petra",
+    "finish_time": "01:15:19",
+    "finish_seconds": 4519
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 59,
+    "name": "Gretter, Arianna",
+    "finish_time": "01:15:37",
+    "finish_seconds": 4537
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 61,
+    "name": "Prosperi, Ilaria",
+    "finish_time": "01:15:40",
+    "finish_seconds": 4540
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 63,
+    "name": "Haug, Hege",
+    "finish_time": "01:15:40",
+    "finish_seconds": 4540
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 65,
+    "name": "Ascione, Sonia",
+    "finish_time": "01:15:44",
+    "finish_seconds": 4544
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 67,
+    "name": "Fumagalli, Federica",
+    "finish_time": "01:15:50",
+    "finish_seconds": 4550
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 69,
+    "name": "Cattaneo, Silvia",
+    "finish_time": "01:16:14",
+    "finish_seconds": 4574
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 71,
+    "name": "Guzzone, Diandra",
+    "finish_time": "01:16:16",
+    "finish_seconds": 4576
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 73,
+    "name": "romano, valeria",
+    "finish_time": "01:16:26",
+    "finish_seconds": 4586
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 75,
+    "name": "Pescione, Ylenia",
+    "finish_time": "01:16:31",
+    "finish_seconds": 4591
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 77,
+    "name": "Stanley, Emma",
+    "finish_time": "01:16:38",
+    "finish_seconds": 4598
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 79,
+    "name": "Peach, Becca",
+    "finish_time": "01:16:51",
+    "finish_seconds": 4611
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 81,
+    "name": "Carlini, Camilla",
+    "finish_time": "01:17:07",
+    "finish_seconds": 4627
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 83,
+    "name": "Said, Sara",
+    "finish_time": "01:17:08",
+    "finish_seconds": 4628
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 85,
+    "name": "Caldarelli, Giulia",
+    "finish_time": "01:17:13",
+    "finish_seconds": 4633
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 87,
+    "name": "Pregnolato, Marina",
+    "finish_time": "01:17:19",
+    "finish_seconds": 4639
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 89,
+    "name": "Di Salvo, Sara",
+    "finish_time": "01:17:28",
+    "finish_seconds": 4648
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 91,
+    "name": "Saielli, Silvia",
+    "finish_time": "01:17:29",
+    "finish_seconds": 4649
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 93,
+    "name": "Massari, Sara",
+    "finish_time": "01:17:36",
+    "finish_seconds": 4656
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 95,
+    "name": "Fantigrossi, Ilaria",
+    "finish_time": "01:17:49",
+    "finish_seconds": 4669
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 97,
+    "name": "Lugoboni, Anna",
+    "finish_time": "01:17:55",
+    "finish_seconds": 4675
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 99,
+    "name": "Castelli, Giulia",
+    "finish_time": "01:18:17",
+    "finish_seconds": 4697
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 101,
+    "name": "Robavs, Jana",
+    "finish_time": "01:18:21",
+    "finish_seconds": 4701
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 103,
+    "name": "Volpe, Noemi Andrea",
+    "finish_time": "01:18:25",
+    "finish_seconds": 4705
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 105,
+    "name": "Smith, Kelly",
+    "finish_time": "01:18:28",
+    "finish_seconds": 4708
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 107,
+    "name": "Farisani, Lindelwa",
+    "finish_time": "01:18:34",
+    "finish_seconds": 4714
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 109,
+    "name": "Cocchi, Francesca",
+    "finish_time": "01:18:42",
+    "finish_seconds": 4722
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 111,
+    "name": "Assun\u00e7\u00e3o, Sofia",
+    "finish_time": "01:18:45",
+    "finish_seconds": 4725
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 113,
+    "name": "Rocco, Beatrice",
+    "finish_time": "01:18:55",
+    "finish_seconds": 4735
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 115,
+    "name": "Fajardo, Hazel vanessa",
+    "finish_time": "01:18:57",
+    "finish_seconds": 4737
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 117,
+    "name": "Sagnella, Serena",
+    "finish_time": "01:18:59",
+    "finish_seconds": 4739
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 119,
+    "name": "Lusini, Sofia",
+    "finish_time": "01:19:00",
+    "finish_seconds": 4740
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 121,
+    "name": "Re Calegari, Giulia",
+    "finish_time": "01:19:05",
+    "finish_seconds": 4745
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 123,
+    "name": "Wenninger, Anita",
+    "finish_time": "01:19:14",
+    "finish_seconds": 4754
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 125,
+    "name": "Lo Fiego, Emilia",
+    "finish_time": "01:19:20",
+    "finish_seconds": 4760
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 127,
+    "name": "Kerpan, Susanna",
+    "finish_time": "01:19:24",
+    "finish_seconds": 4764
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 129,
+    "name": "Tomasoni, Chiara",
+    "finish_time": "01:19:35",
+    "finish_seconds": 4775
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 131,
+    "name": "Femenias Hernandez, Maria Antonia",
+    "finish_time": "01:19:42",
+    "finish_seconds": 4782
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 133,
+    "name": "Marzano, Enrica",
+    "finish_time": "01:19:48",
+    "finish_seconds": 4788
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 135,
+    "name": "Mazo, Mar\u00eda",
+    "finish_time": "01:19:56",
+    "finish_seconds": 4796
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 137,
+    "name": "Sisa, Claudia",
+    "finish_time": "01:20:00",
+    "finish_seconds": 4800
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 139,
+    "name": "Cacco, Veronica",
+    "finish_time": "01:20:07",
+    "finish_seconds": 4807
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 141,
+    "name": "Bonoli, Silvia",
+    "finish_time": "01:20:13",
+    "finish_seconds": 4813
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 143,
+    "name": "Leckel, Anna",
+    "finish_time": "01:20:16",
+    "finish_seconds": 4816
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 145,
+    "name": "Tonelli, Michela",
+    "finish_time": "01:20:22",
+    "finish_seconds": 4822
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 147,
+    "name": "Benrached, Miriam",
+    "finish_time": "01:20:32",
+    "finish_seconds": 4832
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 149,
+    "name": "Clerici, Alice Maria",
+    "finish_time": "01:20:42",
+    "finish_seconds": 4842
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 151,
+    "name": "Rimoldi, Giorgia",
+    "finish_time": "01:20:52",
+    "finish_seconds": 4852
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 153,
+    "name": "Chabanne, Marie",
+    "finish_time": "01:20:54",
+    "finish_seconds": 4854
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 155,
+    "name": "Csagola, Kl\u00e1ra",
+    "finish_time": "01:20:59",
+    "finish_seconds": 4859
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 157,
+    "name": "Caselli, Giovanna",
+    "finish_time": "01:21:04",
+    "finish_seconds": 4864
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 159,
+    "name": "Miatto, Angela",
+    "finish_time": "01:21:08",
+    "finish_seconds": 4868
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 161,
+    "name": "Picco, Marta",
+    "finish_time": "01:21:10",
+    "finish_seconds": 4870
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 163,
+    "name": "Gazzaniga, Letizia",
+    "finish_time": "01:21:13",
+    "finish_seconds": 4873
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 165,
+    "name": "Tognolini, Sara",
+    "finish_time": "01:21:14",
+    "finish_seconds": 4874
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 167,
+    "name": "Tortorici, Alice Maria",
+    "finish_time": "01:21:15",
+    "finish_seconds": 4875
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 169,
+    "name": "Tagliabue, Chiara",
+    "finish_time": "01:21:20",
+    "finish_seconds": 4880
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 171,
+    "name": "Secchi, Camilla",
+    "finish_time": "01:21:24",
+    "finish_seconds": 4884
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 173,
+    "name": "Iacopino, Gaia",
+    "finish_time": "01:21:29",
+    "finish_seconds": 4889
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 175,
+    "name": "Bachschweller, Julia",
+    "finish_time": "01:21:35",
+    "finish_seconds": 4895
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 177,
+    "name": "Scannone, Valentina",
+    "finish_time": "01:21:42",
+    "finish_seconds": 4902
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 179,
+    "name": "Martelli, Michelle",
+    "finish_time": "01:22:07",
+    "finish_seconds": 4927
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 181,
+    "name": "Gancear, Eugenia",
+    "finish_time": "01:22:18",
+    "finish_seconds": 4938
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 183,
+    "name": "Monzio Compagnoni, Chiara",
+    "finish_time": "01:22:23",
+    "finish_seconds": 4943
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 185,
+    "name": "Facchetti, Monica",
+    "finish_time": "01:22:30",
+    "finish_seconds": 4950
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 187,
+    "name": "De Simone, Alice",
+    "finish_time": "01:22:35",
+    "finish_seconds": 4955
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 189,
+    "name": "Guarda, Giada",
+    "finish_time": "01:22:40",
+    "finish_seconds": 4960
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 191,
+    "name": "Marchelli, Carlotta",
+    "finish_time": "01:22:46",
+    "finish_seconds": 4966
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 193,
+    "name": "Campi, Marta",
+    "finish_time": "01:22:50",
+    "finish_seconds": 4970
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 195,
+    "name": "Guiducci, Sofia",
+    "finish_time": "01:23:02",
+    "finish_seconds": 4982
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 197,
+    "name": "Calori, Giorgia",
+    "finish_time": "01:23:05",
+    "finish_seconds": 4985
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 199,
+    "name": "Sebastiani, Barbara",
+    "finish_time": "01:23:14",
+    "finish_seconds": 4994
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 201,
+    "name": "Giacobazzi, Martina",
+    "finish_time": "01:23:19",
+    "finish_seconds": 4999
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 203,
+    "name": "Bianchi, Eva",
+    "finish_time": "01:23:22",
+    "finish_seconds": 5002
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 205,
+    "name": "Nava, Paola",
+    "finish_time": "01:23:29",
+    "finish_seconds": 5009
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 207,
+    "name": "Irlandini, Eleonora",
+    "finish_time": "01:23:36",
+    "finish_seconds": 5016
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 209,
+    "name": "Seghetto, Jessica",
+    "finish_time": "01:23:38",
+    "finish_seconds": 5018
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 211,
+    "name": "leone, chiarastella",
+    "finish_time": "01:23:41",
+    "finish_seconds": 5021
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 213,
+    "name": "Cappellazzo, Ilaria",
+    "finish_time": "01:23:46",
+    "finish_seconds": 5026
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 215,
+    "name": "Pellicioli, Giorgia",
+    "finish_time": "01:23:53",
+    "finish_seconds": 5033
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 217,
+    "name": "Routledge, Abigail",
+    "finish_time": "01:24:01",
+    "finish_seconds": 5041
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 219,
+    "name": "Caterer, Janette",
+    "finish_time": "01:24:02",
+    "finish_seconds": 5042
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 221,
+    "name": "Gulino, Gesualda Maria",
+    "finish_time": "01:24:04",
+    "finish_seconds": 5044
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 223,
+    "name": "Cereda, Roberta",
+    "finish_time": "01:24:11",
+    "finish_seconds": 5051
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 225,
+    "name": "Selva, Giada",
+    "finish_time": "01:24:14",
+    "finish_seconds": 5054
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 227,
+    "name": "Wellam, Kathy",
+    "finish_time": "01:24:20",
+    "finish_seconds": 5060
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 229,
+    "name": "Tagliaferri, Paola",
+    "finish_time": "01:24:25",
+    "finish_seconds": 5065
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 231,
+    "name": "Frank, Nat\u00e1lia",
+    "finish_time": "01:24:28",
+    "finish_seconds": 5068
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 233,
+    "name": "Porro, Elisa",
+    "finish_time": "01:24:30",
+    "finish_seconds": 5070
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 235,
+    "name": "Volont\u00e8, Silvia",
+    "finish_time": "01:24:34",
+    "finish_seconds": 5074
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 237,
+    "name": "Spinelli, Benedetta",
+    "finish_time": "01:24:46",
+    "finish_seconds": 5086
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 239,
+    "name": "Ponzo, Pamela",
+    "finish_time": "01:24:47",
+    "finish_seconds": 5087
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 241,
+    "name": "Tosolini, Silvia",
+    "finish_time": "01:24:58",
+    "finish_seconds": 5098
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 243,
+    "name": "Bissoni, Ilaria",
+    "finish_time": "01:25:03",
+    "finish_seconds": 5103
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 245,
+    "name": "Raggio, Erika",
+    "finish_time": "01:25:09",
+    "finish_seconds": 5109
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 247,
+    "name": "Petroni, Alice",
+    "finish_time": "01:25:14",
+    "finish_seconds": 5114
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 249,
+    "name": "Sickert, Annika",
+    "finish_time": "01:25:15",
+    "finish_seconds": 5115
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 251,
+    "name": "Sirbu, Georgeta Marinela",
+    "finish_time": "01:25:17",
+    "finish_seconds": 5117
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 253,
+    "name": "Carioli, Miriana",
+    "finish_time": "01:25:20",
+    "finish_seconds": 5120
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 255,
+    "name": "Dalla Via, Federica",
+    "finish_time": "01:25:23",
+    "finish_seconds": 5123
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 257,
+    "name": "Brotto, Brenda",
+    "finish_time": "01:25:24",
+    "finish_seconds": 5124
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 259,
+    "name": "Tosini, Fabiola",
+    "finish_time": "01:25:25",
+    "finish_seconds": 5125
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 261,
+    "name": "BONTEMPI, BARBARA",
+    "finish_time": "01:25:30",
+    "finish_seconds": 5130
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 263,
+    "name": "Pasquini, Gloria",
+    "finish_time": "01:25:34",
+    "finish_seconds": 5134
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 265,
+    "name": "Haxkar Lavorato, Aline",
+    "finish_time": "01:25:41",
+    "finish_seconds": 5141
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 267,
+    "name": "Conzut, Monica",
+    "finish_time": "01:25:45",
+    "finish_seconds": 5145
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 269,
+    "name": "Tela, Eleonora",
+    "finish_time": "01:25:47",
+    "finish_seconds": 5147
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 271,
+    "name": "Tirino, Vincenza",
+    "finish_time": "01:25:52",
+    "finish_seconds": 5152
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 273,
+    "name": "Chilin, Francesca",
+    "finish_time": "01:25:55",
+    "finish_seconds": 5155
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 275,
+    "name": "Roz\u00e9, Camille",
+    "finish_time": "01:26:08",
+    "finish_seconds": 5168
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 277,
+    "name": "Krusko, Azra",
+    "finish_time": "01:26:08",
+    "finish_seconds": 5168
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 279,
+    "name": "Scapolla, Adelina",
+    "finish_time": "01:26:12",
+    "finish_seconds": 5172
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 281,
+    "name": "Lombardi, Francesca",
+    "finish_time": "01:26:15",
+    "finish_seconds": 5175
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 283,
+    "name": "Debolini, Eleonora",
+    "finish_time": "01:26:18",
+    "finish_seconds": 5178
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 285,
+    "name": "Vignini, Chiara",
+    "finish_time": "01:26:21",
+    "finish_seconds": 5181
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 287,
+    "name": "Christensen, Camilla",
+    "finish_time": "01:26:26",
+    "finish_seconds": 5186
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 289,
+    "name": "Graziadio, Rosamaria",
+    "finish_time": "01:26:29",
+    "finish_seconds": 5189
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 291,
+    "name": "Ranieri, Sofia",
+    "finish_time": "01:26:34",
+    "finish_seconds": 5194
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 293,
+    "name": "Bastianon, Serena",
+    "finish_time": "01:26:36",
+    "finish_seconds": 5196
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 295,
+    "name": "Davies, Julie",
+    "finish_time": "01:26:37",
+    "finish_seconds": 5197
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 297,
+    "name": "De Marchi, Romina",
+    "finish_time": "01:26:46",
+    "finish_seconds": 5206
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 299,
+    "name": "Draoli, Maria Cristina",
+    "finish_time": "01:26:52",
+    "finish_seconds": 5212
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 301,
+    "name": "Rasetschnig, Federica",
+    "finish_time": "01:26:57",
+    "finish_seconds": 5217
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 303,
+    "name": "Saraogi, Mamta",
+    "finish_time": "01:27:00",
+    "finish_seconds": 5220
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 305,
+    "name": "Giovanniello, Daisy",
+    "finish_time": "01:27:05",
+    "finish_seconds": 5225
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 307,
+    "name": "S\u00e0ry, Tekla",
+    "finish_time": "01:27:06",
+    "finish_seconds": 5226
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 309,
+    "name": "Szalma, Nora",
+    "finish_time": "01:27:14",
+    "finish_seconds": 5234
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 311,
+    "name": "Sartori, Francesca",
+    "finish_time": "01:27:22",
+    "finish_seconds": 5242
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 313,
+    "name": "Minni, Erika",
+    "finish_time": "01:27:23",
+    "finish_seconds": 5243
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 315,
+    "name": "Dimech, Cristina",
+    "finish_time": "01:27:24",
+    "finish_seconds": 5244
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 317,
+    "name": "Pastori, Ambra",
+    "finish_time": "01:27:25",
+    "finish_seconds": 5245
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 319,
+    "name": "Bretherton, Kelly",
+    "finish_time": "01:27:30",
+    "finish_seconds": 5250
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 321,
+    "name": "Romagna, Beatrice",
+    "finish_time": "01:27:32",
+    "finish_seconds": 5252
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 323,
+    "name": "Davis, Rhiannon",
+    "finish_time": "01:27:34",
+    "finish_seconds": 5254
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 325,
+    "name": "Visigalli, Aldebaran",
+    "finish_time": "01:27:50",
+    "finish_seconds": 5270
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 327,
+    "name": "Redoglia, Vittoria",
+    "finish_time": "01:27:58",
+    "finish_seconds": 5278
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 329,
+    "name": "ZARDI, SIMONA",
+    "finish_time": "01:27:59",
+    "finish_seconds": 5279
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 331,
+    "name": "Tomasi, Sofia",
+    "finish_time": "01:28:02",
+    "finish_seconds": 5282
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 333,
+    "name": "Schaller, Marina",
+    "finish_time": "01:28:03",
+    "finish_seconds": 5283
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 335,
+    "name": "Bartomioli, Serena",
+    "finish_time": "01:28:06",
+    "finish_seconds": 5286
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 337,
+    "name": "Gainska, Nicole",
+    "finish_time": "01:28:10",
+    "finish_seconds": 5290
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 339,
+    "name": "Mc Grath, Laura",
+    "finish_time": "01:28:11",
+    "finish_seconds": 5291
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 341,
+    "name": "marchese, Federica",
+    "finish_time": "01:28:17",
+    "finish_seconds": 5297
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 343,
+    "name": "Fugazza, Guenda Giulia",
+    "finish_time": "01:28:21",
+    "finish_seconds": 5301
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 345,
+    "name": "Law, Tsz Kwan",
+    "finish_time": "01:28:24",
+    "finish_seconds": 5304
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 347,
+    "name": "Sonaggere, Denise",
+    "finish_time": "01:28:27",
+    "finish_seconds": 5307
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 349,
+    "name": "Barile, Angela",
+    "finish_time": "01:28:29",
+    "finish_seconds": 5309
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 351,
+    "name": "Gnola, Federica",
+    "finish_time": "01:28:34",
+    "finish_seconds": 5314
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 353,
+    "name": "Tagliaferri, Miriam",
+    "finish_time": "01:28:36",
+    "finish_seconds": 5316
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 355,
+    "name": "Brena, Federica",
+    "finish_time": "01:28:42",
+    "finish_seconds": 5322
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 357,
+    "name": "Birnbaum, Sandra",
+    "finish_time": "01:28:52",
+    "finish_seconds": 5332
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 359,
+    "name": "Cappadona, Alessandra",
+    "finish_time": "01:28:58",
+    "finish_seconds": 5338
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 361,
+    "name": "Libralato, Giorgia",
+    "finish_time": "01:28:59",
+    "finish_seconds": 5339
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 363,
+    "name": "Fischer, Carmen",
+    "finish_time": "01:29:02",
+    "finish_seconds": 5342
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 365,
+    "name": "Schiavolin, Asia Alessia",
+    "finish_time": "01:29:03",
+    "finish_seconds": 5343
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 367,
+    "name": "Cross, Mags",
+    "finish_time": "01:29:05",
+    "finish_seconds": 5345
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 369,
+    "name": "Knapp, Sarah",
+    "finish_time": "01:29:08",
+    "finish_seconds": 5348
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 371,
+    "name": "Minoli, Valeria",
+    "finish_time": "01:29:09",
+    "finish_seconds": 5349
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 373,
+    "name": "Krijt, Natascha",
+    "finish_time": "01:29:11",
+    "finish_seconds": 5351
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 375,
+    "name": "Bartolini, Valeria",
+    "finish_time": "01:29:22",
+    "finish_seconds": 5362
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 377,
+    "name": "Castoro, Jessica",
+    "finish_time": "01:29:25",
+    "finish_seconds": 5365
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 379,
+    "name": "Di Geronimo, Diana",
+    "finish_time": "01:29:26",
+    "finish_seconds": 5366
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 381,
+    "name": "Zanoletti, Chiara",
+    "finish_time": "01:29:39",
+    "finish_seconds": 5379
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 383,
+    "name": "Geitz, Marina",
+    "finish_time": "01:29:42",
+    "finish_seconds": 5382
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 385,
+    "name": "Vivian, Valeria",
+    "finish_time": "01:29:43",
+    "finish_seconds": 5383
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 387,
+    "name": "Casalina, Francesca",
+    "finish_time": "01:29:50",
+    "finish_seconds": 5390
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 389,
+    "name": "Castro, Mariana",
+    "finish_time": "01:29:52",
+    "finish_seconds": 5392
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 391,
+    "name": "Pippa, Elisa",
+    "finish_time": "01:29:54",
+    "finish_seconds": 5394
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 393,
+    "name": "McCutcheon, Ezmie",
+    "finish_time": "01:30:03",
+    "finish_seconds": 5403
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 395,
+    "name": "Saint Olive, Ilona",
+    "finish_time": "01:30:07",
+    "finish_seconds": 5407
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 397,
+    "name": "Di Prospero, Giada",
+    "finish_time": "01:30:09",
+    "finish_seconds": 5409
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 399,
+    "name": "Gaudenzi, Martina",
+    "finish_time": "01:30:10",
+    "finish_seconds": 5410
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 401,
+    "name": "Monaghan, Rachel",
+    "finish_time": "01:30:13",
+    "finish_seconds": 5413
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 403,
+    "name": "Bartolo, Alessandra",
+    "finish_time": "01:30:21",
+    "finish_seconds": 5421
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 405,
+    "name": "Galante, Morena",
+    "finish_time": "01:30:27",
+    "finish_seconds": 5427
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 407,
+    "name": "Leoni, Irene",
+    "finish_time": "01:30:30",
+    "finish_seconds": 5430
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 409,
+    "name": "Pozzebon, Marina",
+    "finish_time": "01:30:38",
+    "finish_seconds": 5438
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 411,
+    "name": "Orlando, Rosaria",
+    "finish_time": "01:30:41",
+    "finish_seconds": 5441
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 413,
+    "name": "Migliari, Beatrice",
+    "finish_time": "01:30:49",
+    "finish_seconds": 5449
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 415,
+    "name": "Tosi, Monica",
+    "finish_time": "01:30:52",
+    "finish_seconds": 5452
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 417,
+    "name": "Campione, Barbara",
+    "finish_time": "01:30:53",
+    "finish_seconds": 5453
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 419,
+    "name": "Siviero, Silvia",
+    "finish_time": "01:30:58",
+    "finish_seconds": 5458
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 421,
+    "name": "Valkovic Zujic, Petra",
+    "finish_time": "01:31:01",
+    "finish_seconds": 5461
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 423,
+    "name": "Foglia, Elisa",
+    "finish_time": "01:31:06",
+    "finish_seconds": 5466
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 425,
+    "name": "Sch\u00fctz, Michelle",
+    "finish_time": "01:31:17",
+    "finish_seconds": 5477
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 427,
+    "name": "Bruno, Sara",
+    "finish_time": "01:31:24",
+    "finish_seconds": 5484
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 429,
+    "name": "Papi, Giulia",
+    "finish_time": "01:31:25",
+    "finish_seconds": 5485
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 431,
+    "name": "Bratti, Simona",
+    "finish_time": "01:31:29",
+    "finish_seconds": 5489
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 433,
+    "name": "Potocka, Julia",
+    "finish_time": "01:31:30",
+    "finish_seconds": 5490
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 435,
+    "name": "Liuzzi, Daria",
+    "finish_time": "01:31:32",
+    "finish_seconds": 5492
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 437,
+    "name": "Saporito, Azzurra",
+    "finish_time": "01:31:36",
+    "finish_seconds": 5496
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 439,
+    "name": "Stradotto, Giulietta",
+    "finish_time": "01:31:46",
+    "finish_seconds": 5506
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 441,
+    "name": "Liveri, Selene",
+    "finish_time": "01:31:48",
+    "finish_seconds": 5508
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 443,
+    "name": "Natale, Sofia",
+    "finish_time": "01:31:55",
+    "finish_seconds": 5515
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 445,
+    "name": "Panaid, Carolina",
+    "finish_time": "01:32:07",
+    "finish_seconds": 5527
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 447,
+    "name": "Meixner, Christina",
+    "finish_time": "01:32:11",
+    "finish_seconds": 5531
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 449,
+    "name": "Mora, Mariarosa",
+    "finish_time": "01:32:14",
+    "finish_seconds": 5534
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 451,
+    "name": "Redolfi, Giulia",
+    "finish_time": "01:32:19",
+    "finish_seconds": 5539
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 453,
+    "name": "Eitner, Stephanie",
+    "finish_time": "01:32:30",
+    "finish_seconds": 5550
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 455,
+    "name": "Casigliani, Vanessa",
+    "finish_time": "01:32:34",
+    "finish_seconds": 5554
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 457,
+    "name": "Mastrodicasa, Ebrisa",
+    "finish_time": "01:32:39",
+    "finish_seconds": 5559
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 459,
+    "name": "Longobardi, Martina",
+    "finish_time": "01:32:47",
+    "finish_seconds": 5567
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 461,
+    "name": "Garone, Mariachiara",
+    "finish_time": "01:32:56",
+    "finish_seconds": 5576
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 463,
+    "name": "Vacchiotti, Danica",
+    "finish_time": "01:32:57",
+    "finish_seconds": 5577
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 465,
+    "name": "Sommacal, Erica",
+    "finish_time": "01:32:57",
+    "finish_seconds": 5577
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 467,
+    "name": "Ghergheluca, Carina",
+    "finish_time": "01:33:05",
+    "finish_seconds": 5585
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 469,
+    "name": "Sala, Martina",
+    "finish_time": "01:33:07",
+    "finish_seconds": 5587
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 471,
+    "name": "Muscuso, Francesca",
+    "finish_time": "01:33:08",
+    "finish_seconds": 5588
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 473,
+    "name": "Jaklitsch, Livia",
+    "finish_time": "01:33:09",
+    "finish_seconds": 5589
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 475,
+    "name": "Re, Rossella",
+    "finish_time": "01:33:10",
+    "finish_seconds": 5590
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 477,
+    "name": "Barbiero, Eleonora",
+    "finish_time": "01:33:21",
+    "finish_seconds": 5601
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 479,
+    "name": "Huber, Natasha",
+    "finish_time": "01:33:31",
+    "finish_seconds": 5611
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 481,
+    "name": "Corneli, Marialuisa",
+    "finish_time": "01:33:36",
+    "finish_seconds": 5616
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 483,
+    "name": "Schiavo, Noemi",
+    "finish_time": "01:33:41",
+    "finish_seconds": 5621
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 485,
+    "name": "CANCIAN PUTTON, VALENTINA",
+    "finish_time": "01:33:43",
+    "finish_seconds": 5623
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 487,
+    "name": "Tyutina, Anastasia",
+    "finish_time": "01:33:51",
+    "finish_seconds": 5631
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 489,
+    "name": "Quigley, Teagan",
+    "finish_time": "01:33:52",
+    "finish_seconds": 5632
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 491,
+    "name": "Bertelli, Barbara",
+    "finish_time": "01:33:56",
+    "finish_seconds": 5636
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 493,
+    "name": "Kramer Pesek, Nastja",
+    "finish_time": "01:34:00",
+    "finish_seconds": 5640
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 495,
+    "name": "Siggers, Andie",
+    "finish_time": "01:34:05",
+    "finish_seconds": 5645
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 497,
+    "name": "Moretti, Valentina",
+    "finish_time": "01:34:07",
+    "finish_seconds": 5647
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 499,
+    "name": "Farrugia Cassar, Gabriella",
+    "finish_time": "01:34:08",
+    "finish_seconds": 5648
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 501,
+    "name": "Beattie, Kim",
+    "finish_time": "01:34:13",
+    "finish_seconds": 5653
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 503,
+    "name": "Faccini, Gaia",
+    "finish_time": "01:34:18",
+    "finish_seconds": 5658
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 505,
+    "name": "Caravaggi, Amanda",
+    "finish_time": "01:34:22",
+    "finish_seconds": 5662
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 507,
+    "name": "RAULUCCI, DEBORA",
+    "finish_time": "01:34:23",
+    "finish_seconds": 5663
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 509,
+    "name": "Cielo, Valentina",
+    "finish_time": "01:34:27",
+    "finish_seconds": 5667
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 511,
+    "name": "Moschen, Silvia",
+    "finish_time": "01:34:29",
+    "finish_seconds": 5669
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 513,
+    "name": "Niederkofler, Julia",
+    "finish_time": "01:34:33",
+    "finish_seconds": 5673
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 515,
+    "name": "Miotto, Nicoletta",
+    "finish_time": "01:34:35",
+    "finish_seconds": 5675
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 517,
+    "name": "Milano, Simona",
+    "finish_time": "01:34:39",
+    "finish_seconds": 5679
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 519,
+    "name": "Filippi, Camilla",
+    "finish_time": "01:34:42",
+    "finish_seconds": 5682
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 521,
+    "name": "Bottari, Debora",
+    "finish_time": "01:34:50",
+    "finish_seconds": 5690
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 523,
+    "name": "Gruppi, Laura",
+    "finish_time": "01:34:52",
+    "finish_seconds": 5692
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 525,
+    "name": "saffioti, chiara",
+    "finish_time": "01:34:54",
+    "finish_seconds": 5694
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 527,
+    "name": "Jordan, Geraldine",
+    "finish_time": "01:35:00",
+    "finish_seconds": 5700
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 529,
+    "name": "Belviso, Valeria",
+    "finish_time": "01:35:09",
+    "finish_seconds": 5709
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 531,
+    "name": "Spencer, Natalie",
+    "finish_time": "01:35:19",
+    "finish_seconds": 5719
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 533,
+    "name": "Damonte, Francesca",
+    "finish_time": "01:35:23",
+    "finish_seconds": 5723
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 535,
+    "name": "Ayala, Stefania Elizabeth",
+    "finish_time": "01:35:29",
+    "finish_seconds": 5729
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 537,
+    "name": "Cooper, Jill",
+    "finish_time": "01:35:43",
+    "finish_seconds": 5743
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 539,
+    "name": "nuzzachi, alessia",
+    "finish_time": "01:35:47",
+    "finish_seconds": 5747
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 541,
+    "name": "Griso, Elisa",
+    "finish_time": "01:35:48",
+    "finish_seconds": 5748
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 543,
+    "name": "Savoia, Giulia",
+    "finish_time": "01:35:53",
+    "finish_seconds": 5753
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 545,
+    "name": "Franceschetti, Sara",
+    "finish_time": "01:35:59",
+    "finish_seconds": 5759
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 547,
+    "name": "Cenini, Arianna",
+    "finish_time": "01:36:04",
+    "finish_seconds": 5764
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 549,
+    "name": "Luciani, Greta",
+    "finish_time": "01:36:15",
+    "finish_seconds": 5775
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 551,
+    "name": "Long, Meg",
+    "finish_time": "01:36:17",
+    "finish_seconds": 5777
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 553,
+    "name": "Belotti, Giulia",
+    "finish_time": "01:36:23",
+    "finish_seconds": 5783
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 555,
+    "name": "Dirie, Maido",
+    "finish_time": "01:36:29",
+    "finish_seconds": 5789
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 557,
+    "name": "Grattapaglia, Giulia",
+    "finish_time": "01:36:36",
+    "finish_seconds": 5796
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 559,
+    "name": "Garbari, Sara",
+    "finish_time": "01:36:39",
+    "finish_seconds": 5799
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 561,
+    "name": "Conte, Silvia",
+    "finish_time": "01:36:41",
+    "finish_seconds": 5801
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 563,
+    "name": "Kraja\u010di\u0107, Sanja",
+    "finish_time": "01:36:45",
+    "finish_seconds": 5805
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 565,
+    "name": "Ciambellotti, Martina",
+    "finish_time": "01:36:45",
+    "finish_seconds": 5805
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 567,
+    "name": "Ariu, Beatrice",
+    "finish_time": "01:36:49",
+    "finish_seconds": 5809
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 569,
+    "name": "Vezzaro, Magda",
+    "finish_time": "01:37:00",
+    "finish_seconds": 5820
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 571,
+    "name": "Vanillo, Giada",
+    "finish_time": "01:37:00",
+    "finish_seconds": 5820
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 573,
+    "name": "Cintura, Nancy",
+    "finish_time": "01:37:01",
+    "finish_seconds": 5821
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 575,
+    "name": "Occhiofino, Anna Rita",
+    "finish_time": "01:37:04",
+    "finish_seconds": 5824
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 577,
+    "name": "Zavan, Giorgia",
+    "finish_time": "01:37:10",
+    "finish_seconds": 5830
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 579,
+    "name": "Monterosso, Silvia",
+    "finish_time": "01:37:12",
+    "finish_seconds": 5832
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 581,
+    "name": "galli, veronica",
+    "finish_time": "01:37:24",
+    "finish_seconds": 5844
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 583,
+    "name": "Bijeli\u010d, Anamari",
+    "finish_time": "01:37:29",
+    "finish_seconds": 5849
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 585,
+    "name": "Conte, Francesca",
+    "finish_time": "01:37:33",
+    "finish_seconds": 5853
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 587,
+    "name": "Cordedda, Maria Paola",
+    "finish_time": "01:37:39",
+    "finish_seconds": 5859
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 589,
+    "name": "Lunardelli, Alice",
+    "finish_time": "01:37:50",
+    "finish_seconds": 5870
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 591,
+    "name": "Osmani, Ersida",
+    "finish_time": "01:37:53",
+    "finish_seconds": 5873
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 593,
+    "name": "Bossi, Sara",
+    "finish_time": "01:37:58",
+    "finish_seconds": 5878
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 595,
+    "name": "Cristofoletti, Letizia",
+    "finish_time": "01:38:04",
+    "finish_seconds": 5884
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 597,
+    "name": "Nodale, Giulia",
+    "finish_time": "01:38:11",
+    "finish_seconds": 5891
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 599,
+    "name": "Boccaletti, Anna",
+    "finish_time": "01:38:22",
+    "finish_seconds": 5902
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 601,
+    "name": "Giusti, Valentina",
+    "finish_time": "01:38:33",
+    "finish_seconds": 5913
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 603,
+    "name": "Raab, Lisa",
+    "finish_time": "01:38:37",
+    "finish_seconds": 5917
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 605,
+    "name": "Agosti, Chiara",
+    "finish_time": "01:38:47",
+    "finish_seconds": 5927
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 607,
+    "name": "Vodyanova, Oxana",
+    "finish_time": "01:38:48",
+    "finish_seconds": 5928
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 609,
+    "name": "Sappracone, Clarissa",
+    "finish_time": "01:38:52",
+    "finish_seconds": 5932
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 611,
+    "name": "Tosatto, Lisa",
+    "finish_time": "01:39:01",
+    "finish_seconds": 5941
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 613,
+    "name": "Rodolfi, Michela",
+    "finish_time": "01:39:04",
+    "finish_seconds": 5944
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 615,
+    "name": "Lau, Sze Wing Erica",
+    "finish_time": "01:39:18",
+    "finish_seconds": 5958
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 617,
+    "name": "Toffanin, Ilaria",
+    "finish_time": "01:39:20",
+    "finish_seconds": 5960
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 619,
+    "name": "De Simone, Benedetta",
+    "finish_time": "01:39:24",
+    "finish_seconds": 5964
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 621,
+    "name": "Kulik, Wiktoria",
+    "finish_time": "01:39:27",
+    "finish_seconds": 5967
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 623,
+    "name": "Marinelli, Sara",
+    "finish_time": "01:39:32",
+    "finish_seconds": 5972
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 625,
+    "name": "Mura, Alessandra",
+    "finish_time": "01:39:36",
+    "finish_seconds": 5976
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 627,
+    "name": "Stragenegg, Lisa",
+    "finish_time": "01:39:44",
+    "finish_seconds": 5984
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 629,
+    "name": "K\u00f6nig, Petra",
+    "finish_time": "01:39:48",
+    "finish_seconds": 5988
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 631,
+    "name": "Savi, Stefania",
+    "finish_time": "01:39:51",
+    "finish_seconds": 5991
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 633,
+    "name": "Francesch, Chanel",
+    "finish_time": "01:39:53",
+    "finish_seconds": 5993
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 635,
+    "name": "Boussat, Marine",
+    "finish_time": "01:39:57",
+    "finish_seconds": 5997
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 637,
+    "name": "Lover\u010di\u010d, Tinkara",
+    "finish_time": "01:40:00",
+    "finish_seconds": 6000
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 639,
+    "name": "Bignami, Lucia",
+    "finish_time": "01:40:06",
+    "finish_seconds": 6006
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 641,
+    "name": "Baroni, Monica",
+    "finish_time": "01:40:11",
+    "finish_seconds": 6011
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 643,
+    "name": "Bertoli, Federica",
+    "finish_time": "01:40:15",
+    "finish_seconds": 6015
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 645,
+    "name": "Greco, Cheyenne",
+    "finish_time": "01:40:20",
+    "finish_seconds": 6020
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 647,
+    "name": "Chaouch, Nadir Faouz",
+    "finish_time": "01:40:25",
+    "finish_seconds": 6025
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 649,
+    "name": "Gorrino, Irene",
+    "finish_time": "01:40:30",
+    "finish_seconds": 6030
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 651,
+    "name": "Bortollon, Laura",
+    "finish_time": "01:40:39",
+    "finish_seconds": 6039
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 653,
+    "name": "POCATINO, SIMONA",
+    "finish_time": "01:40:42",
+    "finish_seconds": 6042
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 655,
+    "name": "Perujo Holland, Noemi",
+    "finish_time": "01:40:45",
+    "finish_seconds": 6045
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 657,
+    "name": "Kalfouni, Stefanie",
+    "finish_time": "01:41:01",
+    "finish_seconds": 6061
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 659,
+    "name": "Stella, Sofia",
+    "finish_time": "01:41:03",
+    "finish_seconds": 6063
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 661,
+    "name": "Balloi, Cristina",
+    "finish_time": "01:41:11",
+    "finish_seconds": 6071
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 663,
+    "name": "Lago, Chiara",
+    "finish_time": "01:41:21",
+    "finish_seconds": 6081
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 665,
+    "name": "Nagy, Zsuzsanna",
+    "finish_time": "01:41:35",
+    "finish_seconds": 6095
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 667,
+    "name": "Galeotafiore, Serena",
+    "finish_time": "01:41:41",
+    "finish_seconds": 6101
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 669,
+    "name": "Arbon, Rachel",
+    "finish_time": "01:41:44",
+    "finish_seconds": 6104
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 671,
+    "name": "Caradini, Irene",
+    "finish_time": "01:41:50",
+    "finish_seconds": 6110
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 673,
+    "name": "Safouane, Wafa",
+    "finish_time": "01:41:53",
+    "finish_seconds": 6113
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 675,
+    "name": "Marchetti, Giovanna",
+    "finish_time": "01:42:05",
+    "finish_seconds": 6125
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 677,
+    "name": "Grazzi, Ornella",
+    "finish_time": "01:42:10",
+    "finish_seconds": 6130
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 679,
+    "name": "Vico, Corinna",
+    "finish_time": "01:42:12",
+    "finish_seconds": 6132
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 681,
+    "name": "Vieider, Tanja",
+    "finish_time": "01:42:15",
+    "finish_seconds": 6135
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 683,
+    "name": "Frei, Sophia",
+    "finish_time": "01:42:21",
+    "finish_seconds": 6141
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 685,
+    "name": "Hao, Gabby",
+    "finish_time": "01:42:26",
+    "finish_seconds": 6146
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 687,
+    "name": "Almasan, Alexandra",
+    "finish_time": "01:42:35",
+    "finish_seconds": 6155
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 689,
+    "name": "Muscas, Melinda",
+    "finish_time": "01:42:46",
+    "finish_seconds": 6166
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 691,
+    "name": "Anelli, Veronica",
+    "finish_time": "01:42:53",
+    "finish_seconds": 6173
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 693,
+    "name": "Erdelyi, Zsanett",
+    "finish_time": "01:42:55",
+    "finish_seconds": 6175
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 695,
+    "name": "Artioli, Laura",
+    "finish_time": "01:42:57",
+    "finish_seconds": 6177
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 697,
+    "name": "Funke, Elena",
+    "finish_time": "01:43:04",
+    "finish_seconds": 6184
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 699,
+    "name": "Stefani, Erika",
+    "finish_time": "01:43:06",
+    "finish_seconds": 6186
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 701,
+    "name": "Beltrami, Elena",
+    "finish_time": "01:43:08",
+    "finish_seconds": 6188
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 703,
+    "name": "Calabretta, Laura",
+    "finish_time": "01:43:13",
+    "finish_seconds": 6193
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 705,
+    "name": "Martins, Joana",
+    "finish_time": "01:43:25",
+    "finish_seconds": 6205
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 707,
+    "name": "Hili, Daphne",
+    "finish_time": "01:43:46",
+    "finish_seconds": 6226
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 709,
+    "name": "Zambuto, Susanna",
+    "finish_time": "01:43:56",
+    "finish_seconds": 6236
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 711,
+    "name": "Dal Pozzo, Monica",
+    "finish_time": "01:44:06",
+    "finish_seconds": 6246
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 713,
+    "name": "Farmer, Jana",
+    "finish_time": "01:44:16",
+    "finish_seconds": 6256
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 715,
+    "name": "Castracane, Carolina",
+    "finish_time": "01:44:26",
+    "finish_seconds": 6266
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 717,
+    "name": "Candio, Sara",
+    "finish_time": "01:44:29",
+    "finish_seconds": 6269
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 719,
+    "name": "Per\u0161e, Sabina",
+    "finish_time": "01:44:45",
+    "finish_seconds": 6285
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 721,
+    "name": "Jeram Podobnik, Tja\u0161a",
+    "finish_time": "01:44:46",
+    "finish_seconds": 6286
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 723,
+    "name": "Ungureanu, Elena",
+    "finish_time": "01:45:00",
+    "finish_seconds": 6300
+  },
+  {
+    "venue": "2025 Verona",
+    "gender": "W",
+    "rank": 725,
+    "name": "Crawley, Sarah",
+    "finish_time": "01:45:10",
+    "finish_seconds": 6310
+  }
+]

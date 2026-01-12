@@ -1,0 +1,8810 @@
+[
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1,
+    "name": "Silverman, Jared",
+    "finish_time": "00:57:15",
+    "finish_seconds": 3435
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 3,
+    "name": "Graboys, Noah",
+    "finish_time": "00:58:15",
+    "finish_seconds": 3495
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 5,
+    "name": "Strosser, Stephen",
+    "finish_time": "00:59:26",
+    "finish_seconds": 3566
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 7,
+    "name": "Rosinski, Steve",
+    "finish_time": "00:59:52",
+    "finish_seconds": 3592
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 9,
+    "name": "Cygan, Zach",
+    "finish_time": "01:00:57",
+    "finish_seconds": 3657
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 11,
+    "name": "Lotempio, Brian",
+    "finish_time": "01:01:36",
+    "finish_seconds": 3696
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 13,
+    "name": "D'Opera, Matt",
+    "finish_time": "01:01:46",
+    "finish_seconds": 3706
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 15,
+    "name": "Schaefer, Michael",
+    "finish_time": "01:02:18",
+    "finish_seconds": 3738
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 17,
+    "name": "Kalinin, Andrey",
+    "finish_time": "01:02:44",
+    "finish_seconds": 3764
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 19,
+    "name": "Crisci, Frank",
+    "finish_time": "01:04:07",
+    "finish_seconds": 3847
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 21,
+    "name": "Howshan, Joey",
+    "finish_time": "01:04:20",
+    "finish_seconds": 3860
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 23,
+    "name": "Johnson, Scott",
+    "finish_time": "01:04:54",
+    "finish_seconds": 3894
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 25,
+    "name": "Smith, Talon",
+    "finish_time": "01:05:02",
+    "finish_seconds": 3902
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 27,
+    "name": "Mas, Mike",
+    "finish_time": "01:05:13",
+    "finish_seconds": 3913
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 29,
+    "name": "Myers, Philip",
+    "finish_time": "01:05:19",
+    "finish_seconds": 3919
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 31,
+    "name": "Storm, Kevin",
+    "finish_time": "01:05:34",
+    "finish_seconds": 3934
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 33,
+    "name": "Rojas, Alejandro",
+    "finish_time": "01:05:56",
+    "finish_seconds": 3956
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 35,
+    "name": "Afanador, Jonathan",
+    "finish_time": "01:06:03",
+    "finish_seconds": 3963
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 37,
+    "name": "Cropp, Ian",
+    "finish_time": "01:06:12",
+    "finish_seconds": 3972
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 39,
+    "name": "Colon-Cruz, Jose",
+    "finish_time": "01:06:19",
+    "finish_seconds": 3979
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 41,
+    "name": "Roy, Mike",
+    "finish_time": "01:06:31",
+    "finish_seconds": 3991
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 43,
+    "name": "Curran, Sterling",
+    "finish_time": "01:06:50",
+    "finish_seconds": 4010
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 45,
+    "name": "Anderson, David",
+    "finish_time": "01:07:01",
+    "finish_seconds": 4021
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 47,
+    "name": "Millington, Pat",
+    "finish_time": "01:07:13",
+    "finish_seconds": 4033
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 49,
+    "name": "Taylor, Lawrence",
+    "finish_time": "01:07:22",
+    "finish_seconds": 4042
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 51,
+    "name": "Amoroso, Anthony",
+    "finish_time": "01:07:24",
+    "finish_seconds": 4044
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 53,
+    "name": "Robidoux, Francis",
+    "finish_time": "01:07:28",
+    "finish_seconds": 4048
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 55,
+    "name": "Fulare, Cj",
+    "finish_time": "01:07:33",
+    "finish_seconds": 4053
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 57,
+    "name": "Attaya, Matt",
+    "finish_time": "01:07:37",
+    "finish_seconds": 4057
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 59,
+    "name": "Faranetta, Kevin",
+    "finish_time": "01:07:39",
+    "finish_seconds": 4059
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 61,
+    "name": "Raynaldo, Jf",
+    "finish_time": "01:07:54",
+    "finish_seconds": 4074
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 63,
+    "name": "Fonseca, Rhudson",
+    "finish_time": "01:08:11",
+    "finish_seconds": 4091
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 65,
+    "name": "Hanlon, Bryan",
+    "finish_time": "01:08:18",
+    "finish_seconds": 4098
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 67,
+    "name": "Boylan, Colin",
+    "finish_time": "01:08:21",
+    "finish_seconds": 4101
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 69,
+    "name": "Backes, Matthew",
+    "finish_time": "01:08:22",
+    "finish_seconds": 4102
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 71,
+    "name": "Tyson, Michael",
+    "finish_time": "01:08:26",
+    "finish_seconds": 4106
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 73,
+    "name": "Bourdeau, Vincent",
+    "finish_time": "01:08:33",
+    "finish_seconds": 4113
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 75,
+    "name": "Cheida, Guilherme",
+    "finish_time": "01:08:43",
+    "finish_seconds": 4123
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 77,
+    "name": "Diedrich, Kyle",
+    "finish_time": "01:08:46",
+    "finish_seconds": 4126
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 79,
+    "name": "Markowski, Nick",
+    "finish_time": "01:08:49",
+    "finish_seconds": 4129
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 81,
+    "name": "Pereira, Ross",
+    "finish_time": "01:08:52",
+    "finish_seconds": 4132
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 83,
+    "name": "Provo, Nick",
+    "finish_time": "01:09:05",
+    "finish_seconds": 4145
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 85,
+    "name": "O\u2019Neill, Patrick",
+    "finish_time": "01:09:10",
+    "finish_seconds": 4150
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 87,
+    "name": "Najih, Hamza",
+    "finish_time": "01:09:13",
+    "finish_seconds": 4153
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 89,
+    "name": "Mullaney, Trevor",
+    "finish_time": "01:09:36",
+    "finish_seconds": 4176
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 91,
+    "name": "Turner, Nathan",
+    "finish_time": "01:09:45",
+    "finish_seconds": 4185
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 93,
+    "name": "Reilly, Mike",
+    "finish_time": "01:09:47",
+    "finish_seconds": 4187
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 95,
+    "name": "Moulster, Alan",
+    "finish_time": "01:09:53",
+    "finish_seconds": 4193
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 97,
+    "name": "Post, Zach",
+    "finish_time": "01:09:55",
+    "finish_seconds": 4195
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 99,
+    "name": "Presta, Matt",
+    "finish_time": "01:09:56",
+    "finish_seconds": 4196
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 101,
+    "name": "Mione, Dillon",
+    "finish_time": "01:10:02",
+    "finish_seconds": 4202
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 103,
+    "name": "Domena, David",
+    "finish_time": "01:10:11",
+    "finish_seconds": 4211
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 105,
+    "name": "BROOKS, DAN",
+    "finish_time": "01:10:25",
+    "finish_seconds": 4225
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 107,
+    "name": "Diebold, Peter",
+    "finish_time": "01:10:29",
+    "finish_seconds": 4229
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 109,
+    "name": "Weyand, Bruce",
+    "finish_time": "01:10:31",
+    "finish_seconds": 4231
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 111,
+    "name": "Monahan, Thomas",
+    "finish_time": "01:10:49",
+    "finish_seconds": 4249
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 113,
+    "name": "Clark, Zayus",
+    "finish_time": "01:11:04",
+    "finish_seconds": 4264
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 115,
+    "name": "Fowler, Dylan",
+    "finish_time": "01:11:11",
+    "finish_seconds": 4271
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 117,
+    "name": "Marcus, Nolan",
+    "finish_time": "01:11:16",
+    "finish_seconds": 4276
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 119,
+    "name": "Routhier, Ian",
+    "finish_time": "01:11:19",
+    "finish_seconds": 4279
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 121,
+    "name": "Medina, Kevin",
+    "finish_time": "01:11:21",
+    "finish_seconds": 4281
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 123,
+    "name": "Arocho, Jesus",
+    "finish_time": "01:11:31",
+    "finish_seconds": 4291
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 125,
+    "name": "Navickas, Rokas",
+    "finish_time": "01:11:40",
+    "finish_seconds": 4300
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 127,
+    "name": "Dominguez, Tony",
+    "finish_time": "01:11:46",
+    "finish_seconds": 4306
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 129,
+    "name": "Mcgowan, Thomas",
+    "finish_time": "01:11:48",
+    "finish_seconds": 4308
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 131,
+    "name": "Kinlan, Gregory",
+    "finish_time": "01:11:51",
+    "finish_seconds": 4311
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 133,
+    "name": "Florentino, Luis",
+    "finish_time": "01:11:54",
+    "finish_seconds": 4314
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 135,
+    "name": "Smith, Ron",
+    "finish_time": "01:11:58",
+    "finish_seconds": 4318
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 137,
+    "name": "Mccluskey, Stephen",
+    "finish_time": "01:12:15",
+    "finish_seconds": 4335
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 139,
+    "name": "Pylman, Jake",
+    "finish_time": "01:12:21",
+    "finish_seconds": 4341
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 141,
+    "name": "Hughes, Dylan",
+    "finish_time": "01:12:23",
+    "finish_seconds": 4343
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 143,
+    "name": "Attwood, Ben",
+    "finish_time": "01:12:26",
+    "finish_seconds": 4346
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 145,
+    "name": "Sullivan, Joseph",
+    "finish_time": "01:12:32",
+    "finish_seconds": 4352
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 147,
+    "name": "Higgins, Benjamin",
+    "finish_time": "01:12:34",
+    "finish_seconds": 4354
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 149,
+    "name": "Rozman, Chris",
+    "finish_time": "01:12:38",
+    "finish_seconds": 4358
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 151,
+    "name": "Mccarthy, Peter",
+    "finish_time": "01:12:49",
+    "finish_seconds": 4369
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 153,
+    "name": "Drayne, Bryan",
+    "finish_time": "01:12:59",
+    "finish_seconds": 4379
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 155,
+    "name": "Mccormick, Rob",
+    "finish_time": "01:13:03",
+    "finish_seconds": 4383
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 157,
+    "name": "Hoover, Garrett",
+    "finish_time": "01:13:08",
+    "finish_seconds": 4388
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 159,
+    "name": "Billie, Anthony",
+    "finish_time": "01:13:16",
+    "finish_seconds": 4396
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 161,
+    "name": "Dionisotti, Nico",
+    "finish_time": "01:13:21",
+    "finish_seconds": 4401
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 163,
+    "name": "Gabrich, Tucker",
+    "finish_time": "01:13:22",
+    "finish_seconds": 4402
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 165,
+    "name": "Gaspar, Angel",
+    "finish_time": "01:13:28",
+    "finish_seconds": 4408
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 167,
+    "name": "Steinberg, Jake",
+    "finish_time": "01:13:36",
+    "finish_seconds": 4416
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 169,
+    "name": "Robertson, Tom",
+    "finish_time": "01:13:42",
+    "finish_seconds": 4422
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 171,
+    "name": "Hennessy, Thomas",
+    "finish_time": "01:13:45",
+    "finish_seconds": 4425
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 173,
+    "name": "Le Net, Alexandre",
+    "finish_time": "01:13:46",
+    "finish_seconds": 4426
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 175,
+    "name": "Valeanu, Cosmin",
+    "finish_time": "01:13:49",
+    "finish_seconds": 4429
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 177,
+    "name": "Coba, Sam",
+    "finish_time": "01:13:55",
+    "finish_seconds": 4435
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 179,
+    "name": "Rebronja, Adem",
+    "finish_time": "01:13:59",
+    "finish_seconds": 4439
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 181,
+    "name": "Mackissock, Mitchell",
+    "finish_time": "01:14:02",
+    "finish_seconds": 4442
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 183,
+    "name": "Ramirez, Rafael",
+    "finish_time": "01:14:06",
+    "finish_seconds": 4446
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 185,
+    "name": "Weir, Declan",
+    "finish_time": "01:14:14",
+    "finish_seconds": 4454
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 187,
+    "name": "Pates, Nick",
+    "finish_time": "01:14:19",
+    "finish_seconds": 4459
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 189,
+    "name": "Narducci, John",
+    "finish_time": "01:14:24",
+    "finish_seconds": 4464
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 191,
+    "name": "Kadish, Dan",
+    "finish_time": "01:14:32",
+    "finish_seconds": 4472
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 193,
+    "name": "Jasilli, Nick",
+    "finish_time": "01:14:39",
+    "finish_seconds": 4479
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 195,
+    "name": "Palmberg, Ryan",
+    "finish_time": "01:14:45",
+    "finish_seconds": 4485
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 197,
+    "name": "Wichern, Tom",
+    "finish_time": "01:14:57",
+    "finish_seconds": 4497
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 199,
+    "name": "Donahue, Dylan",
+    "finish_time": "01:14:57",
+    "finish_seconds": 4497
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 201,
+    "name": "Deckelbaum, David",
+    "finish_time": "01:15:04",
+    "finish_seconds": 4504
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 203,
+    "name": "Bate, Stefan",
+    "finish_time": "01:15:05",
+    "finish_seconds": 4505
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 205,
+    "name": "Bagin, Charlie",
+    "finish_time": "01:15:07",
+    "finish_seconds": 4507
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 207,
+    "name": "Rose, Christopher",
+    "finish_time": "01:15:10",
+    "finish_seconds": 4510
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 209,
+    "name": "Wilkins, Bradon",
+    "finish_time": "01:15:10",
+    "finish_seconds": 4510
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 211,
+    "name": "Thackery, Jensen",
+    "finish_time": "01:15:13",
+    "finish_seconds": 4513
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 213,
+    "name": "Szwarc, Kevin",
+    "finish_time": "01:15:17",
+    "finish_seconds": 4517
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 215,
+    "name": "Dangc, William",
+    "finish_time": "01:15:20",
+    "finish_seconds": 4520
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 217,
+    "name": "Rodriguez, John",
+    "finish_time": "01:15:25",
+    "finish_seconds": 4525
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 219,
+    "name": "Cregan, Matthew",
+    "finish_time": "01:15:30",
+    "finish_seconds": 4530
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 221,
+    "name": "Joly, Frank",
+    "finish_time": "01:15:33",
+    "finish_seconds": 4533
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 223,
+    "name": "Ruparel, Damien",
+    "finish_time": "01:15:38",
+    "finish_seconds": 4538
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 225,
+    "name": "Hayes, Easten",
+    "finish_time": "01:15:39",
+    "finish_seconds": 4539
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 227,
+    "name": "Kjelleren, Hayden",
+    "finish_time": "01:15:47",
+    "finish_seconds": 4547
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 229,
+    "name": "Pontoriero, Jonathan",
+    "finish_time": "01:15:49",
+    "finish_seconds": 4549
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 231,
+    "name": "Berrios Torres, Christopher",
+    "finish_time": "01:15:53",
+    "finish_seconds": 4553
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 233,
+    "name": "Mcgovern, Kane",
+    "finish_time": "01:15:55",
+    "finish_seconds": 4555
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 235,
+    "name": "Marotto, Rich",
+    "finish_time": "01:15:56",
+    "finish_seconds": 4556
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 237,
+    "name": "Maiz, Christian",
+    "finish_time": "01:16:00",
+    "finish_seconds": 4560
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 239,
+    "name": "Muniz, Luis",
+    "finish_time": "01:16:06",
+    "finish_seconds": 4566
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 241,
+    "name": "Cenkus, Joseph",
+    "finish_time": "01:16:08",
+    "finish_seconds": 4568
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 243,
+    "name": "Baird, Brian",
+    "finish_time": "01:16:13",
+    "finish_seconds": 4573
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 245,
+    "name": "Muckle, John",
+    "finish_time": "01:16:16",
+    "finish_seconds": 4576
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 247,
+    "name": "Sweeney, Neil",
+    "finish_time": "01:16:17",
+    "finish_seconds": 4577
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 249,
+    "name": "Wilkins, Brad",
+    "finish_time": "01:16:21",
+    "finish_seconds": 4581
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 251,
+    "name": "Lausch, Jesse",
+    "finish_time": "01:16:23",
+    "finish_seconds": 4583
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 253,
+    "name": "DeMartino, Drew",
+    "finish_time": "01:16:23",
+    "finish_seconds": 4583
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 255,
+    "name": "Ramirez, Daniel",
+    "finish_time": "01:16:33",
+    "finish_seconds": 4593
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 257,
+    "name": "Kay, Matthew",
+    "finish_time": "01:16:35",
+    "finish_seconds": 4595
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 259,
+    "name": "Muzzall, Richard",
+    "finish_time": "01:16:39",
+    "finish_seconds": 4599
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 261,
+    "name": "Moss, Justin",
+    "finish_time": "01:16:40",
+    "finish_seconds": 4600
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 263,
+    "name": "Morford, Conor",
+    "finish_time": "01:16:44",
+    "finish_seconds": 4604
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 265,
+    "name": "Ames, Zack",
+    "finish_time": "01:16:47",
+    "finish_seconds": 4607
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 267,
+    "name": "Rene, Steven",
+    "finish_time": "01:16:56",
+    "finish_seconds": 4616
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 269,
+    "name": "Rizzo, Jeff",
+    "finish_time": "01:16:57",
+    "finish_seconds": 4617
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 271,
+    "name": "Sullivan, Jack",
+    "finish_time": "01:17:00",
+    "finish_seconds": 4620
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 273,
+    "name": "Hamel, Jeffrey",
+    "finish_time": "01:17:01",
+    "finish_seconds": 4621
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 275,
+    "name": "Markman, Matt",
+    "finish_time": "01:17:03",
+    "finish_seconds": 4623
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 277,
+    "name": "Azevedo, Fernando",
+    "finish_time": "01:17:10",
+    "finish_seconds": 4630
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 279,
+    "name": "D'Alessandro, Bryan",
+    "finish_time": "01:17:14",
+    "finish_seconds": 4634
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 281,
+    "name": "Reinhard, Tom",
+    "finish_time": "01:17:15",
+    "finish_seconds": 4635
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 283,
+    "name": "Ammirati, Ralph",
+    "finish_time": "01:17:21",
+    "finish_seconds": 4641
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 285,
+    "name": "Trogler, Andrew",
+    "finish_time": "01:17:24",
+    "finish_seconds": 4644
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 287,
+    "name": "Deborde, Jake",
+    "finish_time": "01:17:29",
+    "finish_seconds": 4649
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 289,
+    "name": "Zures, Andrew",
+    "finish_time": "01:17:30",
+    "finish_seconds": 4650
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 291,
+    "name": "Moses, Lee",
+    "finish_time": "01:17:38",
+    "finish_seconds": 4658
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 293,
+    "name": "O'Shea, Patrick",
+    "finish_time": "01:17:43",
+    "finish_seconds": 4663
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 295,
+    "name": "Guillemot, Yannick",
+    "finish_time": "01:17:44",
+    "finish_seconds": 4664
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 297,
+    "name": "Suk, Brandon",
+    "finish_time": "01:17:48",
+    "finish_seconds": 4668
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 299,
+    "name": "Ouertani, Kamel",
+    "finish_time": "01:17:50",
+    "finish_seconds": 4670
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 301,
+    "name": "Sinani, Ramazan",
+    "finish_time": "01:17:59",
+    "finish_seconds": 4679
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 303,
+    "name": "Moran, Mark",
+    "finish_time": "01:18:02",
+    "finish_seconds": 4682
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 305,
+    "name": "Rossi, Guy",
+    "finish_time": "01:18:04",
+    "finish_seconds": 4684
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 307,
+    "name": "Liberatore, Joseph",
+    "finish_time": "01:18:13",
+    "finish_seconds": 4693
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 309,
+    "name": "Dow, Douglas",
+    "finish_time": "01:18:15",
+    "finish_seconds": 4695
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 311,
+    "name": "Taffur, Nestor",
+    "finish_time": "01:18:16",
+    "finish_seconds": 4696
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 313,
+    "name": "Dick, Ryan",
+    "finish_time": "01:18:17",
+    "finish_seconds": 4697
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 315,
+    "name": "Holmes, Justin",
+    "finish_time": "01:18:21",
+    "finish_seconds": 4701
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 317,
+    "name": "Beatty, Brandon",
+    "finish_time": "01:18:31",
+    "finish_seconds": 4711
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 319,
+    "name": "Beavis, Michael",
+    "finish_time": "01:18:31",
+    "finish_seconds": 4711
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 321,
+    "name": "Luo, Patrick",
+    "finish_time": "01:18:33",
+    "finish_seconds": 4713
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 323,
+    "name": "Priola, Ty",
+    "finish_time": "01:18:34",
+    "finish_seconds": 4714
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 325,
+    "name": "Putnam, Elijah",
+    "finish_time": "01:18:35",
+    "finish_seconds": 4715
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 327,
+    "name": "Stampfer, Thomas",
+    "finish_time": "01:18:37",
+    "finish_seconds": 4717
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 329,
+    "name": "Brock, Lee",
+    "finish_time": "01:18:42",
+    "finish_seconds": 4722
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 331,
+    "name": "Auger, Rob",
+    "finish_time": "01:18:46",
+    "finish_seconds": 4726
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 333,
+    "name": "Crowley, George",
+    "finish_time": "01:18:51",
+    "finish_seconds": 4731
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 336,
+    "name": "Balejko, Conrad",
+    "finish_time": "01:18:54",
+    "finish_seconds": 4734
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 338,
+    "name": "Kemp, David",
+    "finish_time": "01:19:02",
+    "finish_seconds": 4742
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 340,
+    "name": "Wrobel, Eric",
+    "finish_time": "01:19:04",
+    "finish_seconds": 4744
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 342,
+    "name": "Kaeller, Scott",
+    "finish_time": "01:19:05",
+    "finish_seconds": 4745
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 344,
+    "name": "Proulx, Joe",
+    "finish_time": "01:19:09",
+    "finish_seconds": 4749
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 346,
+    "name": "Collins, Brian",
+    "finish_time": "01:19:10",
+    "finish_seconds": 4750
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 348,
+    "name": "Young, Thomas",
+    "finish_time": "01:19:14",
+    "finish_seconds": 4754
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 350,
+    "name": "Velazquez, Efrain",
+    "finish_time": "01:19:15",
+    "finish_seconds": 4755
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 352,
+    "name": "Gilmartin, Colin",
+    "finish_time": "01:19:15",
+    "finish_seconds": 4755
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 354,
+    "name": "Perry, Jt",
+    "finish_time": "01:19:16",
+    "finish_seconds": 4756
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 356,
+    "name": "Chen, Jonathan",
+    "finish_time": "01:19:18",
+    "finish_seconds": 4758
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 358,
+    "name": "Alarie, Maxime",
+    "finish_time": "01:19:20",
+    "finish_seconds": 4760
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 360,
+    "name": "Lee, Jacob",
+    "finish_time": "01:19:22",
+    "finish_seconds": 4762
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 362,
+    "name": "Lonigro, Shane",
+    "finish_time": "01:19:29",
+    "finish_seconds": 4769
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 364,
+    "name": "Colon, Jayson",
+    "finish_time": "01:19:33",
+    "finish_seconds": 4773
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 366,
+    "name": "Sutman, Steve",
+    "finish_time": "01:19:36",
+    "finish_seconds": 4776
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 368,
+    "name": "Lynch, Owen",
+    "finish_time": "01:19:37",
+    "finish_seconds": 4777
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 370,
+    "name": "Amirmoshiri, Reza",
+    "finish_time": "01:19:39",
+    "finish_seconds": 4779
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 372,
+    "name": "Krutzler, Chris",
+    "finish_time": "01:19:42",
+    "finish_seconds": 4782
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 374,
+    "name": "Zalewski, Eric",
+    "finish_time": "01:19:43",
+    "finish_seconds": 4783
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 376,
+    "name": "Mitchi, Paul",
+    "finish_time": "01:19:53",
+    "finish_seconds": 4793
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 378,
+    "name": "Corliss, Tim",
+    "finish_time": "01:19:55",
+    "finish_seconds": 4795
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 380,
+    "name": "Herrman, Nathan",
+    "finish_time": "01:19:57",
+    "finish_seconds": 4797
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 382,
+    "name": "Lytle, John",
+    "finish_time": "01:20:01",
+    "finish_seconds": 4801
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 384,
+    "name": "Palmer, Logan",
+    "finish_time": "01:20:04",
+    "finish_seconds": 4804
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 386,
+    "name": "Morrissey, Jim",
+    "finish_time": "01:20:08",
+    "finish_seconds": 4808
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 388,
+    "name": "Bohrer, Joseph",
+    "finish_time": "01:20:17",
+    "finish_seconds": 4817
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 390,
+    "name": "Da Silva, Michael",
+    "finish_time": "01:20:17",
+    "finish_seconds": 4817
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 392,
+    "name": "Haydu, Andrew",
+    "finish_time": "01:20:20",
+    "finish_seconds": 4820
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 394,
+    "name": "Aaser, Ryan",
+    "finish_time": "01:20:20",
+    "finish_seconds": 4820
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 396,
+    "name": "Greene, Nate",
+    "finish_time": "01:20:25",
+    "finish_seconds": 4825
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 398,
+    "name": "Rossi, Jason",
+    "finish_time": "01:20:26",
+    "finish_seconds": 4826
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 400,
+    "name": "Reyes Benigno, Joseph",
+    "finish_time": "01:20:29",
+    "finish_seconds": 4829
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 402,
+    "name": "Esnoz, Jarod",
+    "finish_time": "01:20:32",
+    "finish_seconds": 4832
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 404,
+    "name": "Dowd, Paul",
+    "finish_time": "01:20:33",
+    "finish_seconds": 4833
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 406,
+    "name": "Juarez, Isaiah",
+    "finish_time": "01:20:36",
+    "finish_seconds": 4836
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 408,
+    "name": "Ciringione, Domenic",
+    "finish_time": "01:20:38",
+    "finish_seconds": 4838
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 410,
+    "name": "Fernandes, Edward",
+    "finish_time": "01:20:38",
+    "finish_seconds": 4838
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 412,
+    "name": "Levesque, Anthony",
+    "finish_time": "01:20:41",
+    "finish_seconds": 4841
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 414,
+    "name": "Federico, Dominic",
+    "finish_time": "01:20:50",
+    "finish_seconds": 4850
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 416,
+    "name": "Sullivan, Tommy",
+    "finish_time": "01:20:52",
+    "finish_seconds": 4852
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 418,
+    "name": "Woods, Matthew",
+    "finish_time": "01:20:57",
+    "finish_seconds": 4857
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 420,
+    "name": "Meijer, William",
+    "finish_time": "01:21:02",
+    "finish_seconds": 4862
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 422,
+    "name": "Farmer, Jake",
+    "finish_time": "01:21:04",
+    "finish_seconds": 4864
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 424,
+    "name": "Hall, Alex",
+    "finish_time": "01:21:06",
+    "finish_seconds": 4866
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 426,
+    "name": "Rickards, Oliver",
+    "finish_time": "01:21:08",
+    "finish_seconds": 4868
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 428,
+    "name": "Santiago, Jahwaun",
+    "finish_time": "01:21:10",
+    "finish_seconds": 4870
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 430,
+    "name": "Hunt, Donal",
+    "finish_time": "01:21:14",
+    "finish_seconds": 4874
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 432,
+    "name": "Estrella, Brayan",
+    "finish_time": "01:21:18",
+    "finish_seconds": 4878
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 434,
+    "name": "Glasser, Nate",
+    "finish_time": "01:21:19",
+    "finish_seconds": 4879
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 436,
+    "name": "Minett, Matt",
+    "finish_time": "01:21:22",
+    "finish_seconds": 4882
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 438,
+    "name": "De Leon, Chris",
+    "finish_time": "01:21:24",
+    "finish_seconds": 4884
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 440,
+    "name": "thyrring, ryan",
+    "finish_time": "01:21:28",
+    "finish_seconds": 4888
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 442,
+    "name": "Modi, Rahul",
+    "finish_time": "01:21:32",
+    "finish_seconds": 4892
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 444,
+    "name": "Wisnowski, Zack",
+    "finish_time": "01:21:33",
+    "finish_seconds": 4893
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 446,
+    "name": "Seufert, Dan",
+    "finish_time": "01:21:36",
+    "finish_seconds": 4896
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 448,
+    "name": "Lummis, Robert",
+    "finish_time": "01:21:42",
+    "finish_seconds": 4902
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 450,
+    "name": "Aguirre, Bryan",
+    "finish_time": "01:21:45",
+    "finish_seconds": 4905
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 452,
+    "name": "Ionta, Michael",
+    "finish_time": "01:21:46",
+    "finish_seconds": 4906
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 454,
+    "name": "Hur, Young",
+    "finish_time": "01:21:52",
+    "finish_seconds": 4912
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 456,
+    "name": "Rainier, Hayes",
+    "finish_time": "01:21:54",
+    "finish_seconds": 4914
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 458,
+    "name": "Feleppa, Daniel",
+    "finish_time": "01:21:56",
+    "finish_seconds": 4916
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 460,
+    "name": "Borowski, Matthew",
+    "finish_time": "01:22:00",
+    "finish_seconds": 4920
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 462,
+    "name": "Hecker, Thomas",
+    "finish_time": "01:22:02",
+    "finish_seconds": 4922
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 464,
+    "name": "Valentin, Harvyn",
+    "finish_time": "01:22:05",
+    "finish_seconds": 4925
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 466,
+    "name": "Holmes, Tom",
+    "finish_time": "01:22:07",
+    "finish_seconds": 4927
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 468,
+    "name": "Palaguachi, Ricky",
+    "finish_time": "01:22:08",
+    "finish_seconds": 4928
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 470,
+    "name": "Wood, Alexander",
+    "finish_time": "01:22:11",
+    "finish_seconds": 4931
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 472,
+    "name": "Vanidestine, Jacob",
+    "finish_time": "01:22:13",
+    "finish_seconds": 4933
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 474,
+    "name": "Sullivan, John",
+    "finish_time": "01:22:13",
+    "finish_seconds": 4933
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 476,
+    "name": "Roitman-Waters, Benny",
+    "finish_time": "01:22:19",
+    "finish_seconds": 4939
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 478,
+    "name": "Saks, Adam",
+    "finish_time": "01:22:20",
+    "finish_seconds": 4940
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 480,
+    "name": "Drumheller, Garrett",
+    "finish_time": "01:22:26",
+    "finish_seconds": 4946
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 482,
+    "name": "Feinberg, Matthew",
+    "finish_time": "01:22:30",
+    "finish_seconds": 4950
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 484,
+    "name": "Ruscio, Jason",
+    "finish_time": "01:22:31",
+    "finish_seconds": 4951
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 486,
+    "name": "Galasso, Michael",
+    "finish_time": "01:22:33",
+    "finish_seconds": 4953
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 488,
+    "name": "Espinoza, Alan",
+    "finish_time": "01:22:40",
+    "finish_seconds": 4960
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 490,
+    "name": "Maldonado, Michael",
+    "finish_time": "01:22:42",
+    "finish_seconds": 4962
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 492,
+    "name": "Corcoran, Tim",
+    "finish_time": "01:22:44",
+    "finish_seconds": 4964
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 494,
+    "name": "Sweeney, Justin",
+    "finish_time": "01:22:46",
+    "finish_seconds": 4966
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 496,
+    "name": "Ionta, Ross",
+    "finish_time": "01:22:49",
+    "finish_seconds": 4969
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 498,
+    "name": "Stange, Eric",
+    "finish_time": "01:22:56",
+    "finish_seconds": 4976
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 500,
+    "name": "Samuel, Alex",
+    "finish_time": "01:23:03",
+    "finish_seconds": 4983
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 502,
+    "name": "Terwiesch, Mats",
+    "finish_time": "01:23:06",
+    "finish_seconds": 4986
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 504,
+    "name": "Anger, Brian",
+    "finish_time": "01:23:09",
+    "finish_seconds": 4989
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 506,
+    "name": "Lange, Nicholas",
+    "finish_time": "01:23:09",
+    "finish_seconds": 4989
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 508,
+    "name": "Baxter, Campbell",
+    "finish_time": "01:23:14",
+    "finish_seconds": 4994
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 510,
+    "name": "Moss, Keith",
+    "finish_time": "01:23:17",
+    "finish_seconds": 4997
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 512,
+    "name": "Zingarelli, Luigi",
+    "finish_time": "01:23:21",
+    "finish_seconds": 5001
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 514,
+    "name": "Esposito, Rob",
+    "finish_time": "01:23:23",
+    "finish_seconds": 5003
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 516,
+    "name": "Breihof, Michael",
+    "finish_time": "01:23:24",
+    "finish_seconds": 5004
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 518,
+    "name": "Avitabile, Peter",
+    "finish_time": "01:23:26",
+    "finish_seconds": 5006
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 520,
+    "name": "Ferman, Jake",
+    "finish_time": "01:23:36",
+    "finish_seconds": 5016
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 522,
+    "name": "Laurey, Jim",
+    "finish_time": "01:23:37",
+    "finish_seconds": 5017
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 524,
+    "name": "Presta, Andrew",
+    "finish_time": "01:23:44",
+    "finish_seconds": 5024
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 526,
+    "name": "Giguere, Gavin",
+    "finish_time": "01:23:45",
+    "finish_seconds": 5025
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 528,
+    "name": "Dwyer, Max",
+    "finish_time": "01:23:48",
+    "finish_seconds": 5028
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 530,
+    "name": "Gamov, Viktor",
+    "finish_time": "01:23:50",
+    "finish_seconds": 5030
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 532,
+    "name": "Lyjak, Andrew",
+    "finish_time": "01:23:54",
+    "finish_seconds": 5034
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 534,
+    "name": "Dunn, Shaymus",
+    "finish_time": "01:24:00",
+    "finish_seconds": 5040
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 536,
+    "name": "Petrus, Donatas",
+    "finish_time": "01:24:10",
+    "finish_seconds": 5050
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 538,
+    "name": "Hazelton, Joshua",
+    "finish_time": "01:24:13",
+    "finish_seconds": 5053
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 540,
+    "name": "Cammarata, Brian",
+    "finish_time": "01:24:13",
+    "finish_seconds": 5053
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 542,
+    "name": "Albert, Alex",
+    "finish_time": "01:24:17",
+    "finish_seconds": 5057
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 544,
+    "name": "Escalante, Gino",
+    "finish_time": "01:24:22",
+    "finish_seconds": 5062
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 546,
+    "name": "Mezick, Brandon",
+    "finish_time": "01:24:24",
+    "finish_seconds": 5064
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 548,
+    "name": "Ross, Cooper",
+    "finish_time": "01:24:26",
+    "finish_seconds": 5066
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 550,
+    "name": "Hardie, Dave",
+    "finish_time": "01:24:28",
+    "finish_seconds": 5068
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 552,
+    "name": "D\u2019Amato, Vince",
+    "finish_time": "01:24:29",
+    "finish_seconds": 5069
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 554,
+    "name": "Moore, Dirk",
+    "finish_time": "01:24:30",
+    "finish_seconds": 5070
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 556,
+    "name": "Robison-Cox, Noah",
+    "finish_time": "01:24:32",
+    "finish_seconds": 5072
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 558,
+    "name": "Vintinner, Sean",
+    "finish_time": "01:24:33",
+    "finish_seconds": 5073
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 560,
+    "name": "BENMOFTAH, OSAMA SADEGH",
+    "finish_time": "01:24:39",
+    "finish_seconds": 5079
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 562,
+    "name": "Brittain, Jeremy",
+    "finish_time": "01:24:44",
+    "finish_seconds": 5084
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 564,
+    "name": "Mansfield, Evan",
+    "finish_time": "01:24:46",
+    "finish_seconds": 5086
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 566,
+    "name": "Ochoa, Henry",
+    "finish_time": "01:24:51",
+    "finish_seconds": 5091
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 568,
+    "name": "Steinman, Timothy",
+    "finish_time": "01:24:55",
+    "finish_seconds": 5095
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 570,
+    "name": "Pinho, Kyle",
+    "finish_time": "01:24:58",
+    "finish_seconds": 5098
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 572,
+    "name": "Forehand, Zach",
+    "finish_time": "01:25:01",
+    "finish_seconds": 5101
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 574,
+    "name": "Turk, Brett",
+    "finish_time": "01:25:04",
+    "finish_seconds": 5104
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 576,
+    "name": "White, Brian",
+    "finish_time": "01:25:12",
+    "finish_seconds": 5112
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 578,
+    "name": "Halliday, George",
+    "finish_time": "01:25:15",
+    "finish_seconds": 5115
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 580,
+    "name": "Chaudry, Jimmy",
+    "finish_time": "01:25:16",
+    "finish_seconds": 5116
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 582,
+    "name": "Smith, Alex",
+    "finish_time": "01:25:19",
+    "finish_seconds": 5119
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 584,
+    "name": "Hale, Robert",
+    "finish_time": "01:25:24",
+    "finish_seconds": 5124
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 586,
+    "name": "Travieso, Devyn",
+    "finish_time": "01:25:25",
+    "finish_seconds": 5125
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 588,
+    "name": "Furino, Matthew",
+    "finish_time": "01:25:28",
+    "finish_seconds": 5128
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 590,
+    "name": "Brewer, Dave",
+    "finish_time": "01:25:29",
+    "finish_seconds": 5129
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 592,
+    "name": "Hildebrandt, Alex",
+    "finish_time": "01:25:33",
+    "finish_seconds": 5133
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 594,
+    "name": "Oliver, Carl",
+    "finish_time": "01:25:34",
+    "finish_seconds": 5134
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 596,
+    "name": "Chaudhry, Aditya",
+    "finish_time": "01:25:39",
+    "finish_seconds": 5139
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 598,
+    "name": "Gettings, Josh",
+    "finish_time": "01:25:41",
+    "finish_seconds": 5141
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 600,
+    "name": "Sciabarrasi, Joel",
+    "finish_time": "01:25:45",
+    "finish_seconds": 5145
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 602,
+    "name": "Sadikovic, Elwin",
+    "finish_time": "01:25:53",
+    "finish_seconds": 5153
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 604,
+    "name": "Pearce, Zack",
+    "finish_time": "01:25:55",
+    "finish_seconds": 5155
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 606,
+    "name": "Gonzalez, Lorenzo",
+    "finish_time": "01:25:55",
+    "finish_seconds": 5155
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 608,
+    "name": "Gribbon, Ryan",
+    "finish_time": "01:25:56",
+    "finish_seconds": 5156
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 610,
+    "name": "Gaudio, Paul",
+    "finish_time": "01:26:01",
+    "finish_seconds": 5161
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 612,
+    "name": "Gomez, Brandon",
+    "finish_time": "01:26:02",
+    "finish_seconds": 5162
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 614,
+    "name": "Hook, Ryun",
+    "finish_time": "01:26:04",
+    "finish_seconds": 5164
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 616,
+    "name": "Morel, Orlando",
+    "finish_time": "01:26:08",
+    "finish_seconds": 5168
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 618,
+    "name": "Gryglewski, Robert",
+    "finish_time": "01:26:09",
+    "finish_seconds": 5169
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 620,
+    "name": "Sharp, Richard",
+    "finish_time": "01:26:12",
+    "finish_seconds": 5172
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 622,
+    "name": "Stevens, Andrew",
+    "finish_time": "01:26:13",
+    "finish_seconds": 5173
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 624,
+    "name": "Jensen, Mikkel",
+    "finish_time": "01:26:22",
+    "finish_seconds": 5182
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 626,
+    "name": "Segall, Craig",
+    "finish_time": "01:26:26",
+    "finish_seconds": 5186
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 628,
+    "name": "Stevens, Daniel",
+    "finish_time": "01:26:26",
+    "finish_seconds": 5186
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 630,
+    "name": "Moroni, Brandon",
+    "finish_time": "01:26:30",
+    "finish_seconds": 5190
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 632,
+    "name": "Harriott, Basil",
+    "finish_time": "01:26:31",
+    "finish_seconds": 5191
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 634,
+    "name": "Alejandro, Roberth",
+    "finish_time": "01:26:37",
+    "finish_seconds": 5197
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 636,
+    "name": "Brown-Simpson, Jevon",
+    "finish_time": "01:26:38",
+    "finish_seconds": 5198
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 638,
+    "name": "Perez, Diego",
+    "finish_time": "01:26:45",
+    "finish_seconds": 5205
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 640,
+    "name": "Paine, Jacob",
+    "finish_time": "01:26:47",
+    "finish_seconds": 5207
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 642,
+    "name": "Tedeschi, Sean",
+    "finish_time": "01:26:49",
+    "finish_seconds": 5209
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 644,
+    "name": "Levi, Yagev",
+    "finish_time": "01:26:53",
+    "finish_seconds": 5213
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 646,
+    "name": "Gillis, Jack",
+    "finish_time": "01:26:56",
+    "finish_seconds": 5216
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 648,
+    "name": "Peverley, Evan",
+    "finish_time": "01:27:01",
+    "finish_seconds": 5221
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 650,
+    "name": "Vanidestine, Brady",
+    "finish_time": "01:27:06",
+    "finish_seconds": 5226
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 652,
+    "name": "Estle, Jason",
+    "finish_time": "01:27:07",
+    "finish_seconds": 5227
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 654,
+    "name": "Jordan, Robert",
+    "finish_time": "01:27:08",
+    "finish_seconds": 5228
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 656,
+    "name": "Moretti, Paul",
+    "finish_time": "01:27:08",
+    "finish_seconds": 5228
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 658,
+    "name": "Broughton, Cole",
+    "finish_time": "01:27:14",
+    "finish_seconds": 5234
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 660,
+    "name": "Ames, Joe",
+    "finish_time": "01:27:15",
+    "finish_seconds": 5235
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 662,
+    "name": "Carey, Rory",
+    "finish_time": "01:27:16",
+    "finish_seconds": 5236
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 664,
+    "name": "Perry, Jamal",
+    "finish_time": "01:27:23",
+    "finish_seconds": 5243
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 666,
+    "name": "Cholula, Edwin",
+    "finish_time": "01:27:26",
+    "finish_seconds": 5246
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 668,
+    "name": "Gelnovatch, Jake",
+    "finish_time": "01:27:27",
+    "finish_seconds": 5247
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 670,
+    "name": "Price, Jordan",
+    "finish_time": "01:27:29",
+    "finish_seconds": 5249
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 672,
+    "name": "Dean, Chris",
+    "finish_time": "01:27:29",
+    "finish_seconds": 5249
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 674,
+    "name": "Taibl, Ryan",
+    "finish_time": "01:27:32",
+    "finish_seconds": 5252
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 676,
+    "name": "Mcaloon, Tyler",
+    "finish_time": "01:27:34",
+    "finish_seconds": 5254
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 678,
+    "name": "Fletcher, Luke",
+    "finish_time": "01:27:36",
+    "finish_seconds": 5256
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 680,
+    "name": "Rivera Diaz, Carlos Omar",
+    "finish_time": "01:27:37",
+    "finish_seconds": 5257
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 682,
+    "name": "Ditchfield, Wesley",
+    "finish_time": "01:27:42",
+    "finish_seconds": 5262
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 684,
+    "name": "Berry, Darian",
+    "finish_time": "01:27:44",
+    "finish_seconds": 5264
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 686,
+    "name": "Leetz, Ryan",
+    "finish_time": "01:27:47",
+    "finish_seconds": 5267
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 688,
+    "name": "Allen, Daniel",
+    "finish_time": "01:27:49",
+    "finish_seconds": 5269
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 690,
+    "name": "Rodriguez-Ramirez, Rony",
+    "finish_time": "01:27:51",
+    "finish_seconds": 5271
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 692,
+    "name": "Woodall, Jordon",
+    "finish_time": "01:27:54",
+    "finish_seconds": 5274
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 694,
+    "name": "Ali, Moe",
+    "finish_time": "01:27:55",
+    "finish_seconds": 5275
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 696,
+    "name": "Shirley, Rob",
+    "finish_time": "01:27:56",
+    "finish_seconds": 5276
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 698,
+    "name": "Beatty, Richard",
+    "finish_time": "01:28:00",
+    "finish_seconds": 5280
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 700,
+    "name": "Mauceri, Carmen",
+    "finish_time": "01:28:01",
+    "finish_seconds": 5281
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 702,
+    "name": "Pinney, Bailey",
+    "finish_time": "01:28:04",
+    "finish_seconds": 5284
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 704,
+    "name": "Brunet, Gautier",
+    "finish_time": "01:28:09",
+    "finish_seconds": 5289
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 706,
+    "name": "Phillips, Benjamin",
+    "finish_time": "01:28:14",
+    "finish_seconds": 5294
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 708,
+    "name": "Warf, James",
+    "finish_time": "01:28:17",
+    "finish_seconds": 5297
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 710,
+    "name": "Doremus, Myles",
+    "finish_time": "01:28:20",
+    "finish_seconds": 5300
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 712,
+    "name": "Jones, Brendan",
+    "finish_time": "01:28:22",
+    "finish_seconds": 5302
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 714,
+    "name": "Fitzgerald, Tom",
+    "finish_time": "01:28:26",
+    "finish_seconds": 5306
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 716,
+    "name": "Knauth, Ethan",
+    "finish_time": "01:28:31",
+    "finish_seconds": 5311
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 718,
+    "name": "Wanstall, Adam",
+    "finish_time": "01:28:33",
+    "finish_seconds": 5313
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 720,
+    "name": "Papadimas, Billy",
+    "finish_time": "01:28:36",
+    "finish_seconds": 5316
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 722,
+    "name": "Milla, Bernardo",
+    "finish_time": "01:28:39",
+    "finish_seconds": 5319
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 724,
+    "name": "Couvat, Noe",
+    "finish_time": "01:28:41",
+    "finish_seconds": 5321
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 726,
+    "name": "Hernandez, Caleb",
+    "finish_time": "01:28:44",
+    "finish_seconds": 5324
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 728,
+    "name": "Chung, Aaron",
+    "finish_time": "01:28:46",
+    "finish_seconds": 5326
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 730,
+    "name": "Bloom, Ben",
+    "finish_time": "01:28:54",
+    "finish_seconds": 5334
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 732,
+    "name": "Nagle, Brian",
+    "finish_time": "01:28:55",
+    "finish_seconds": 5335
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 734,
+    "name": "Mccabe, Matt",
+    "finish_time": "01:28:59",
+    "finish_seconds": 5339
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 736,
+    "name": "Boudreau, Dylan",
+    "finish_time": "01:29:03",
+    "finish_seconds": 5343
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 738,
+    "name": "Berg, Fred",
+    "finish_time": "01:29:05",
+    "finish_seconds": 5345
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 740,
+    "name": "O\u2019Donnell, Daniel",
+    "finish_time": "01:29:09",
+    "finish_seconds": 5349
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 742,
+    "name": "Tyler, Clay",
+    "finish_time": "01:29:13",
+    "finish_seconds": 5353
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 744,
+    "name": "Gallegos, Brian",
+    "finish_time": "01:29:16",
+    "finish_seconds": 5356
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 746,
+    "name": "Ramirez, Daniel",
+    "finish_time": "01:29:17",
+    "finish_seconds": 5357
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 748,
+    "name": "Boucher, Christian",
+    "finish_time": "01:29:20",
+    "finish_seconds": 5360
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 750,
+    "name": "Driscoll, Jack",
+    "finish_time": "01:29:21",
+    "finish_seconds": 5361
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 752,
+    "name": "Dunn, Benjamin",
+    "finish_time": "01:29:23",
+    "finish_seconds": 5363
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 754,
+    "name": "Aggouras, Drew",
+    "finish_time": "01:29:24",
+    "finish_seconds": 5364
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 756,
+    "name": "Schoonmaker, Nicholas",
+    "finish_time": "01:29:26",
+    "finish_seconds": 5366
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 758,
+    "name": "Mazak, Alex",
+    "finish_time": "01:29:27",
+    "finish_seconds": 5367
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 760,
+    "name": "Pate, Chip",
+    "finish_time": "01:29:30",
+    "finish_seconds": 5370
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 762,
+    "name": "Gallegos, Edgar",
+    "finish_time": "01:29:33",
+    "finish_seconds": 5373
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 764,
+    "name": "Henry, Sean",
+    "finish_time": "01:29:42",
+    "finish_seconds": 5382
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 766,
+    "name": "Schutt, Andrew",
+    "finish_time": "01:29:42",
+    "finish_seconds": 5382
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 768,
+    "name": "Ramirez, Christian",
+    "finish_time": "01:29:45",
+    "finish_seconds": 5385
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 770,
+    "name": "Giardina, Paul",
+    "finish_time": "01:29:50",
+    "finish_seconds": 5390
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 772,
+    "name": "Lichtensteiger, Michael",
+    "finish_time": "01:29:54",
+    "finish_seconds": 5394
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 774,
+    "name": "Campisi, Joe",
+    "finish_time": "01:29:55",
+    "finish_seconds": 5395
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 776,
+    "name": "Oursler, Connor",
+    "finish_time": "01:29:58",
+    "finish_seconds": 5398
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 778,
+    "name": "Keh, Harley",
+    "finish_time": "01:29:59",
+    "finish_seconds": 5399
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 780,
+    "name": "Padilla, Esteban",
+    "finish_time": "01:30:00",
+    "finish_seconds": 5400
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 782,
+    "name": "Michael, Ryan",
+    "finish_time": "01:30:04",
+    "finish_seconds": 5404
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 784,
+    "name": "Sestito, Frank",
+    "finish_time": "01:30:13",
+    "finish_seconds": 5413
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 786,
+    "name": "Khalil, Mohamed",
+    "finish_time": "01:30:21",
+    "finish_seconds": 5421
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 788,
+    "name": "Castillo, Aaron",
+    "finish_time": "01:30:24",
+    "finish_seconds": 5424
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 790,
+    "name": "Peery, Bradley",
+    "finish_time": "01:30:29",
+    "finish_seconds": 5429
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 792,
+    "name": "vamvaketis, john",
+    "finish_time": "01:30:36",
+    "finish_seconds": 5436
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 794,
+    "name": "Mehta, Cpt",
+    "finish_time": "01:30:43",
+    "finish_seconds": 5443
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 796,
+    "name": "Asrat, Bakal",
+    "finish_time": "01:30:45",
+    "finish_seconds": 5445
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 798,
+    "name": "Ware Iv, Luther",
+    "finish_time": "01:30:46",
+    "finish_seconds": 5446
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 800,
+    "name": "Byrd, Bobby",
+    "finish_time": "01:30:51",
+    "finish_seconds": 5451
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 802,
+    "name": "Mason, Kevin",
+    "finish_time": "01:30:54",
+    "finish_seconds": 5454
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 804,
+    "name": "Rooney, Michael",
+    "finish_time": "01:30:56",
+    "finish_seconds": 5456
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 806,
+    "name": "Zambrano, Julian",
+    "finish_time": "01:30:59",
+    "finish_seconds": 5459
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 808,
+    "name": "Bose, David",
+    "finish_time": "01:31:02",
+    "finish_seconds": 5462
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 810,
+    "name": "Phillips, David",
+    "finish_time": "01:31:06",
+    "finish_seconds": 5466
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 812,
+    "name": "Evans, Fowler",
+    "finish_time": "01:31:09",
+    "finish_seconds": 5469
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 814,
+    "name": "Monahan, Josh",
+    "finish_time": "01:31:12",
+    "finish_seconds": 5472
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 816,
+    "name": "Jakubic, Alex",
+    "finish_time": "01:31:14",
+    "finish_seconds": 5474
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 818,
+    "name": "Hood, Christopher",
+    "finish_time": "01:31:17",
+    "finish_seconds": 5477
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 820,
+    "name": "Ramos, Jake",
+    "finish_time": "01:31:24",
+    "finish_seconds": 5484
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 822,
+    "name": "Do, Johnny",
+    "finish_time": "01:31:31",
+    "finish_seconds": 5491
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 824,
+    "name": "Carranza, Noah",
+    "finish_time": "01:31:32",
+    "finish_seconds": 5492
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 826,
+    "name": "De Souza, Paulo",
+    "finish_time": "01:31:32",
+    "finish_seconds": 5492
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 828,
+    "name": "Jaworski, Colin",
+    "finish_time": "01:31:40",
+    "finish_seconds": 5500
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 830,
+    "name": "Metz, Danny",
+    "finish_time": "01:31:44",
+    "finish_seconds": 5504
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 832,
+    "name": "Jones, Rod",
+    "finish_time": "01:31:49",
+    "finish_seconds": 5509
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 834,
+    "name": "Mangione, Ed",
+    "finish_time": "01:31:51",
+    "finish_seconds": 5511
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 836,
+    "name": "Gonzalez, Steven",
+    "finish_time": "01:31:53",
+    "finish_seconds": 5513
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 838,
+    "name": "Brown, Andy",
+    "finish_time": "01:31:56",
+    "finish_seconds": 5516
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 840,
+    "name": "Espiritu, Ethan",
+    "finish_time": "01:31:57",
+    "finish_seconds": 5517
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 842,
+    "name": "Johnson, Jamison",
+    "finish_time": "01:31:58",
+    "finish_seconds": 5518
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 844,
+    "name": "Mcgann, Matt",
+    "finish_time": "01:32:03",
+    "finish_seconds": 5523
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 846,
+    "name": "Quigley, Christian",
+    "finish_time": "01:32:07",
+    "finish_seconds": 5527
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 848,
+    "name": "Corbeil-Fiset, Louis-Dominique",
+    "finish_time": "01:32:10",
+    "finish_seconds": 5530
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 850,
+    "name": "Fox, Jim",
+    "finish_time": "01:32:12",
+    "finish_seconds": 5532
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 852,
+    "name": "Kranzky, Kyle",
+    "finish_time": "01:32:13",
+    "finish_seconds": 5533
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 854,
+    "name": "Galya, Vinny",
+    "finish_time": "01:32:16",
+    "finish_seconds": 5536
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 856,
+    "name": "Lamour, Alfredo",
+    "finish_time": "01:32:24",
+    "finish_seconds": 5544
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 858,
+    "name": "Crowley, Sean",
+    "finish_time": "01:32:26",
+    "finish_seconds": 5546
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 860,
+    "name": "Mcintyre, Michael",
+    "finish_time": "01:32:29",
+    "finish_seconds": 5549
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 862,
+    "name": "Chew, Larry",
+    "finish_time": "01:32:35",
+    "finish_seconds": 5555
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 864,
+    "name": "Camela, Manny",
+    "finish_time": "01:32:36",
+    "finish_seconds": 5556
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 866,
+    "name": "Bodino, Vince",
+    "finish_time": "01:32:37",
+    "finish_seconds": 5557
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 868,
+    "name": "Garvey, Paul",
+    "finish_time": "01:32:38",
+    "finish_seconds": 5558
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 870,
+    "name": "Dimler, Chris",
+    "finish_time": "01:32:39",
+    "finish_seconds": 5559
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 872,
+    "name": "Petteway, Kyren",
+    "finish_time": "01:32:42",
+    "finish_seconds": 5562
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 874,
+    "name": "Pollock, Brooks",
+    "finish_time": "01:32:46",
+    "finish_seconds": 5566
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 876,
+    "name": "Kerrigan, Brendon",
+    "finish_time": "01:32:49",
+    "finish_seconds": 5569
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 878,
+    "name": "Cardoso, Ilidio",
+    "finish_time": "01:32:55",
+    "finish_seconds": 5575
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 880,
+    "name": "Polky, Nathaniel",
+    "finish_time": "01:32:58",
+    "finish_seconds": 5578
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 882,
+    "name": "Nickel, Derek",
+    "finish_time": "01:33:05",
+    "finish_seconds": 5585
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 884,
+    "name": "Barcalow, Adam",
+    "finish_time": "01:33:07",
+    "finish_seconds": 5587
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 886,
+    "name": "Crosby, Mike",
+    "finish_time": "01:33:10",
+    "finish_seconds": 5590
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 888,
+    "name": "Taylor, Justin",
+    "finish_time": "01:33:15",
+    "finish_seconds": 5595
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 890,
+    "name": "Scanlon, Neil",
+    "finish_time": "01:33:28",
+    "finish_seconds": 5608
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 892,
+    "name": "Heim, Joshua",
+    "finish_time": "01:33:35",
+    "finish_seconds": 5615
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 894,
+    "name": "Bartels, Cheyn",
+    "finish_time": "01:33:43",
+    "finish_seconds": 5623
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 896,
+    "name": "Oesterle, Joseph",
+    "finish_time": "01:33:45",
+    "finish_seconds": 5625
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 898,
+    "name": "Michel, Joseph",
+    "finish_time": "01:33:51",
+    "finish_seconds": 5631
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 900,
+    "name": "Uwazurike, Francis",
+    "finish_time": "01:33:54",
+    "finish_seconds": 5634
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 902,
+    "name": "Williams, Stephen",
+    "finish_time": "01:33:56",
+    "finish_seconds": 5636
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 904,
+    "name": "O'Neill, Ardal",
+    "finish_time": "01:34:04",
+    "finish_seconds": 5644
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 906,
+    "name": "Quinlan, Diarmid",
+    "finish_time": "01:34:11",
+    "finish_seconds": 5651
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 908,
+    "name": "Race, Brenden",
+    "finish_time": "01:34:15",
+    "finish_seconds": 5655
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 910,
+    "name": "Huston, Adam",
+    "finish_time": "01:34:19",
+    "finish_seconds": 5659
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 912,
+    "name": "Bennett, Adam",
+    "finish_time": "01:34:21",
+    "finish_seconds": 5661
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 914,
+    "name": "Siegal, Jack",
+    "finish_time": "01:34:24",
+    "finish_seconds": 5664
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 916,
+    "name": "Mclellan, Brad",
+    "finish_time": "01:34:30",
+    "finish_seconds": 5670
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 918,
+    "name": "Carter, Brian",
+    "finish_time": "01:34:34",
+    "finish_seconds": 5674
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 920,
+    "name": "Walsh, Marc",
+    "finish_time": "01:34:35",
+    "finish_seconds": 5675
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 922,
+    "name": "Norcott, John",
+    "finish_time": "01:34:37",
+    "finish_seconds": 5677
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 924,
+    "name": "Edelman, Ed",
+    "finish_time": "01:34:41",
+    "finish_seconds": 5681
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 926,
+    "name": "Hargraves, Ricky",
+    "finish_time": "01:34:45",
+    "finish_seconds": 5685
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 928,
+    "name": "Meltz, Jonathan",
+    "finish_time": "01:34:46",
+    "finish_seconds": 5686
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 930,
+    "name": "Hall, Jared",
+    "finish_time": "01:34:49",
+    "finish_seconds": 5689
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 932,
+    "name": "Perlaza, Andy",
+    "finish_time": "01:34:54",
+    "finish_seconds": 5694
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 934,
+    "name": "Fontana, Anthony",
+    "finish_time": "01:34:59",
+    "finish_seconds": 5699
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 936,
+    "name": "Banks, Rasheem",
+    "finish_time": "01:35:03",
+    "finish_seconds": 5703
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 938,
+    "name": "Feliz, Jorbis",
+    "finish_time": "01:35:06",
+    "finish_seconds": 5706
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 940,
+    "name": "Haggarty, Christopher",
+    "finish_time": "01:35:07",
+    "finish_seconds": 5707
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 942,
+    "name": "C, G",
+    "finish_time": "01:35:14",
+    "finish_seconds": 5714
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 944,
+    "name": "Mcbreen, Matt",
+    "finish_time": "01:35:23",
+    "finish_seconds": 5723
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 946,
+    "name": "Pervizaj, Elez",
+    "finish_time": "01:35:28",
+    "finish_seconds": 5728
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 948,
+    "name": "Asprer, Mark",
+    "finish_time": "01:35:40",
+    "finish_seconds": 5740
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 950,
+    "name": "Gbamgbola, Talal",
+    "finish_time": "01:35:47",
+    "finish_seconds": 5747
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 952,
+    "name": "Perez Suarez, Jose Antonio",
+    "finish_time": "01:35:51",
+    "finish_seconds": 5751
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 954,
+    "name": "Caballero, Nathan",
+    "finish_time": "01:35:53",
+    "finish_seconds": 5753
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 956,
+    "name": "Close, Jonathan",
+    "finish_time": "01:36:01",
+    "finish_seconds": 5761
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 958,
+    "name": "Gunschel, Joshua",
+    "finish_time": "01:36:01",
+    "finish_seconds": 5761
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 960,
+    "name": "Bazzaro, Luca",
+    "finish_time": "01:36:05",
+    "finish_seconds": 5765
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 962,
+    "name": "Ligotti, Brian",
+    "finish_time": "01:36:07",
+    "finish_seconds": 5767
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 964,
+    "name": "Boylan, Colin",
+    "finish_time": "01:36:16",
+    "finish_seconds": 5776
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 966,
+    "name": "Middaugh, Justice",
+    "finish_time": "01:36:24",
+    "finish_seconds": 5784
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 968,
+    "name": "Ferguson, Michael",
+    "finish_time": "01:36:28",
+    "finish_seconds": 5788
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 970,
+    "name": "Echevarria, Jorge",
+    "finish_time": "01:36:30",
+    "finish_seconds": 5790
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 972,
+    "name": "Kee, Tacaree",
+    "finish_time": "01:36:30",
+    "finish_seconds": 5790
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 974,
+    "name": "Gusinov, Aaron",
+    "finish_time": "01:36:35",
+    "finish_seconds": 5795
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 976,
+    "name": "Meagher, Dan",
+    "finish_time": "01:36:42",
+    "finish_seconds": 5802
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 978,
+    "name": "Dias, Austin",
+    "finish_time": "01:36:55",
+    "finish_seconds": 5815
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 980,
+    "name": "Morales, Issac",
+    "finish_time": "01:36:56",
+    "finish_seconds": 5816
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 982,
+    "name": "Correia, Jeremy",
+    "finish_time": "01:36:59",
+    "finish_seconds": 5819
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 984,
+    "name": "Foti, Anthony",
+    "finish_time": "01:37:04",
+    "finish_seconds": 5824
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 986,
+    "name": "Lahive, Thomas",
+    "finish_time": "01:37:07",
+    "finish_seconds": 5827
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 988,
+    "name": "Burmeister, Nicolaus",
+    "finish_time": "01:37:11",
+    "finish_seconds": 5831
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 990,
+    "name": "Abbot, Tre",
+    "finish_time": "01:37:14",
+    "finish_seconds": 5834
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 992,
+    "name": "Sacco, Derek",
+    "finish_time": "01:37:19",
+    "finish_seconds": 5839
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 994,
+    "name": "Bruno, Louis",
+    "finish_time": "01:37:23",
+    "finish_seconds": 5843
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 996,
+    "name": "Cox, Billy",
+    "finish_time": "01:37:26",
+    "finish_seconds": 5846
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 998,
+    "name": "Martin, Tristan",
+    "finish_time": "01:37:37",
+    "finish_seconds": 5857
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1000,
+    "name": "Vasconcelos, Steve",
+    "finish_time": "01:37:38",
+    "finish_seconds": 5858
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1002,
+    "name": "Rutherford, Scott",
+    "finish_time": "01:37:42",
+    "finish_seconds": 5862
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1004,
+    "name": "Engermann, Jerrell",
+    "finish_time": "01:37:52",
+    "finish_seconds": 5872
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1006,
+    "name": "Woods, Mike",
+    "finish_time": "01:37:53",
+    "finish_seconds": 5873
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1008,
+    "name": "Downey, Myles",
+    "finish_time": "01:37:54",
+    "finish_seconds": 5874
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1010,
+    "name": "Geller, Josh",
+    "finish_time": "01:37:59",
+    "finish_seconds": 5879
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1012,
+    "name": "Johns, Chris",
+    "finish_time": "01:37:59",
+    "finish_seconds": 5879
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1014,
+    "name": "Walker, Christopher",
+    "finish_time": "01:38:05",
+    "finish_seconds": 5885
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1016,
+    "name": "Rostami, Rayiin",
+    "finish_time": "01:38:10",
+    "finish_seconds": 5890
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1018,
+    "name": "Harer, Luke",
+    "finish_time": "01:38:16",
+    "finish_seconds": 5896
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1020,
+    "name": "Quesada, Luis",
+    "finish_time": "01:38:17",
+    "finish_seconds": 5897
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1022,
+    "name": "Oviedo, Andy",
+    "finish_time": "01:38:23",
+    "finish_seconds": 5903
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1024,
+    "name": "Triantos, Nick",
+    "finish_time": "01:38:31",
+    "finish_seconds": 5911
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1026,
+    "name": "Holt, Chad",
+    "finish_time": "01:38:33",
+    "finish_seconds": 5913
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1028,
+    "name": "Brenk, Leonard",
+    "finish_time": "01:38:37",
+    "finish_seconds": 5917
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1030,
+    "name": "Dejordy, Alexander",
+    "finish_time": "01:38:42",
+    "finish_seconds": 5922
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1032,
+    "name": "Mejia, Jeremy",
+    "finish_time": "01:38:50",
+    "finish_seconds": 5930
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1034,
+    "name": "Hicks, Matthew",
+    "finish_time": "01:38:55",
+    "finish_seconds": 5935
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1036,
+    "name": "Burgess, James",
+    "finish_time": "01:39:04",
+    "finish_seconds": 5944
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1038,
+    "name": "Henry, J. Lucky",
+    "finish_time": "01:39:05",
+    "finish_seconds": 5945
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1040,
+    "name": "Rhee, Keunho",
+    "finish_time": "01:39:12",
+    "finish_seconds": 5952
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1042,
+    "name": "Dacunha, Matthew",
+    "finish_time": "01:39:14",
+    "finish_seconds": 5954
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1044,
+    "name": "Krupyshev, Niko",
+    "finish_time": "01:39:19",
+    "finish_seconds": 5959
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1046,
+    "name": "Wooley, John",
+    "finish_time": "01:39:24",
+    "finish_seconds": 5964
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1048,
+    "name": "Baez, Raul",
+    "finish_time": "01:39:29",
+    "finish_seconds": 5969
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1050,
+    "name": "Curtin, Billy",
+    "finish_time": "01:39:33",
+    "finish_seconds": 5973
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1052,
+    "name": "Mccallum, Adontae",
+    "finish_time": "01:39:35",
+    "finish_seconds": 5975
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1054,
+    "name": "McDonald, Joseph",
+    "finish_time": "01:39:39",
+    "finish_seconds": 5979
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1056,
+    "name": "Delgado, Jeff",
+    "finish_time": "01:39:50",
+    "finish_seconds": 5990
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1058,
+    "name": "Qadir, Atif",
+    "finish_time": "01:40:02",
+    "finish_seconds": 6002
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1060,
+    "name": "Feria, Michael",
+    "finish_time": "01:40:10",
+    "finish_seconds": 6010
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1062,
+    "name": "Lamothe, David",
+    "finish_time": "01:40:20",
+    "finish_seconds": 6020
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1064,
+    "name": "John, Terry",
+    "finish_time": "01:40:28",
+    "finish_seconds": 6028
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1066,
+    "name": "Kaplan, Mike",
+    "finish_time": "01:40:32",
+    "finish_seconds": 6032
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1068,
+    "name": "Curran, Colin",
+    "finish_time": "01:40:39",
+    "finish_seconds": 6039
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1070,
+    "name": "Hoskin, Lorenzo",
+    "finish_time": "01:40:40",
+    "finish_seconds": 6040
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1072,
+    "name": "Lis, Christopher",
+    "finish_time": "01:40:44",
+    "finish_seconds": 6044
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1074,
+    "name": "Hanchett, Zachary",
+    "finish_time": "01:40:49",
+    "finish_seconds": 6049
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1076,
+    "name": "DeLosSantos, Jason",
+    "finish_time": "01:40:51",
+    "finish_seconds": 6051
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1078,
+    "name": "Maldonado, Santiago",
+    "finish_time": "01:40:55",
+    "finish_seconds": 6055
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1080,
+    "name": "Joiner, Chad",
+    "finish_time": "01:40:57",
+    "finish_seconds": 6057
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1082,
+    "name": "Bugley, Derek",
+    "finish_time": "01:41:06",
+    "finish_seconds": 6066
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1084,
+    "name": "Maiorelle, Mike",
+    "finish_time": "01:41:07",
+    "finish_seconds": 6067
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1086,
+    "name": "Oliver, Jevon",
+    "finish_time": "01:41:13",
+    "finish_seconds": 6073
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1088,
+    "name": "Cooper, Theodore",
+    "finish_time": "01:41:15",
+    "finish_seconds": 6075
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1090,
+    "name": "D'Souza, Justin",
+    "finish_time": "01:41:19",
+    "finish_seconds": 6079
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1092,
+    "name": "Walsh, Brendan",
+    "finish_time": "01:41:29",
+    "finish_seconds": 6089
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1094,
+    "name": "O\u2019Neill, Connor",
+    "finish_time": "01:41:34",
+    "finish_seconds": 6094
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1096,
+    "name": "Greene, Steve",
+    "finish_time": "01:41:36",
+    "finish_seconds": 6096
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1098,
+    "name": "Weis-Heitner, Sean",
+    "finish_time": "01:41:41",
+    "finish_seconds": 6101
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1100,
+    "name": "Puntin, Matthew",
+    "finish_time": "01:41:51",
+    "finish_seconds": 6111
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1102,
+    "name": "Delaney, Adrian",
+    "finish_time": "01:42:01",
+    "finish_seconds": 6121
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1104,
+    "name": "Kliewe, Oliver",
+    "finish_time": "01:42:18",
+    "finish_seconds": 6138
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1106,
+    "name": "Li, Harry",
+    "finish_time": "01:42:29",
+    "finish_seconds": 6149
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1108,
+    "name": "Wong, Jamie",
+    "finish_time": "01:42:43",
+    "finish_seconds": 6163
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1110,
+    "name": "Van Dyke, Derik",
+    "finish_time": "01:42:45",
+    "finish_seconds": 6165
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1112,
+    "name": "Hoffmann, Nick",
+    "finish_time": "01:42:50",
+    "finish_seconds": 6170
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1114,
+    "name": "Klovas, Marius",
+    "finish_time": "01:43:01",
+    "finish_seconds": 6181
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1116,
+    "name": "Choochaisaengrat, Setthawut",
+    "finish_time": "01:43:09",
+    "finish_seconds": 6189
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1118,
+    "name": "Kalmakis, Jonathan",
+    "finish_time": "01:43:20",
+    "finish_seconds": 6200
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1120,
+    "name": "Rossi, Giuliano",
+    "finish_time": "01:43:23",
+    "finish_seconds": 6203
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1122,
+    "name": "Crowe, Cooper",
+    "finish_time": "01:43:35",
+    "finish_seconds": 6215
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1124,
+    "name": "Finco, Daniel",
+    "finish_time": "01:43:37",
+    "finish_seconds": 6217
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1126,
+    "name": "Quintal, Jp",
+    "finish_time": "01:43:43",
+    "finish_seconds": 6223
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1128,
+    "name": "Ingemi, Josh",
+    "finish_time": "01:43:47",
+    "finish_seconds": 6227
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1130,
+    "name": "Begel, Cyprien",
+    "finish_time": "01:43:50",
+    "finish_seconds": 6230
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1132,
+    "name": "Firestone, Blake",
+    "finish_time": "01:43:58",
+    "finish_seconds": 6238
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1134,
+    "name": "Elzayat, Moatasem",
+    "finish_time": "01:44:02",
+    "finish_seconds": 6242
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1136,
+    "name": "Flatford, Chuck",
+    "finish_time": "01:44:09",
+    "finish_seconds": 6249
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1138,
+    "name": "Brewer, Cameron",
+    "finish_time": "01:44:14",
+    "finish_seconds": 6254
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1140,
+    "name": "Smith, Adam",
+    "finish_time": "01:44:22",
+    "finish_seconds": 6262
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1142,
+    "name": "Bhardwaj, Praveen  Kumar",
+    "finish_time": "01:44:28",
+    "finish_seconds": 6268
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1144,
+    "name": "Seide, Claude",
+    "finish_time": "01:44:33",
+    "finish_seconds": 6273
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1146,
+    "name": "Nguyen, Ben",
+    "finish_time": "01:44:44",
+    "finish_seconds": 6284
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1148,
+    "name": "Pomavilla, Jose",
+    "finish_time": "01:44:59",
+    "finish_seconds": 6299
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1150,
+    "name": "Benevento, Andrew",
+    "finish_time": "01:45:03",
+    "finish_seconds": 6303
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1152,
+    "name": "Bennett, Ben",
+    "finish_time": "01:45:05",
+    "finish_seconds": 6305
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1154,
+    "name": "Guzman, Luis",
+    "finish_time": "01:45:10",
+    "finish_seconds": 6310
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1156,
+    "name": "Pickette, Tom",
+    "finish_time": "01:45:12",
+    "finish_seconds": 6312
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1158,
+    "name": "Anderson, Terry",
+    "finish_time": "01:45:13",
+    "finish_seconds": 6313
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1160,
+    "name": "P, Eryk",
+    "finish_time": "01:45:16",
+    "finish_seconds": 6316
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1162,
+    "name": "Nakajima, Daiki",
+    "finish_time": "01:45:21",
+    "finish_seconds": 6321
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1164,
+    "name": "Abdalla, Kareem",
+    "finish_time": "01:45:26",
+    "finish_seconds": 6326
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1166,
+    "name": "\u00d8hlenschl\u00e6ger, Alexander",
+    "finish_time": "01:45:27",
+    "finish_seconds": 6327
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1168,
+    "name": "Trinh, Hoang",
+    "finish_time": "01:45:34",
+    "finish_seconds": 6334
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "M",
+    "rank": 1170,
+    "name": "Goldner, Jeff",
+    "finish_time": "01:45:47",
+    "finish_seconds": 6347
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 1,
+    "name": "Manna, Cassidy",
+    "finish_time": "01:01:42",
+    "finish_seconds": 3702
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 3,
+    "name": "Wertz, Emily",
+    "finish_time": "01:05:51",
+    "finish_seconds": 3951
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 5,
+    "name": "Fanikos, Katie",
+    "finish_time": "01:07:39",
+    "finish_seconds": 4059
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 7,
+    "name": "Payne, Lyndsay",
+    "finish_time": "01:08:22",
+    "finish_seconds": 4102
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 9,
+    "name": "Decarli, Steph",
+    "finish_time": "01:09:15",
+    "finish_seconds": 4155
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 11,
+    "name": "Macdonlad, Taylor",
+    "finish_time": "01:09:49",
+    "finish_seconds": 4189
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 13,
+    "name": "Goodrich, Cordie",
+    "finish_time": "01:10:02",
+    "finish_seconds": 4202
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 15,
+    "name": "Obrien, Gina",
+    "finish_time": "01:10:17",
+    "finish_seconds": 4217
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 17,
+    "name": "Marotta, Stephanie",
+    "finish_time": "01:10:47",
+    "finish_seconds": 4247
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 19,
+    "name": "Endres, Alexa",
+    "finish_time": "01:11:07",
+    "finish_seconds": 4267
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 21,
+    "name": "Mcilroy, Madeleine",
+    "finish_time": "01:11:39",
+    "finish_seconds": 4299
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 23,
+    "name": "Reed, Brittany",
+    "finish_time": "01:11:43",
+    "finish_seconds": 4303
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 25,
+    "name": "Lee, Marguerite",
+    "finish_time": "01:12:05",
+    "finish_seconds": 4325
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 27,
+    "name": "Oconnell, Kaitlyn",
+    "finish_time": "01:12:27",
+    "finish_seconds": 4347
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 29,
+    "name": "Kurtz, Terri",
+    "finish_time": "01:12:30",
+    "finish_seconds": 4350
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 31,
+    "name": "Lefevre, Kate",
+    "finish_time": "01:12:47",
+    "finish_seconds": 4367
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 33,
+    "name": "Rose, Hollie",
+    "finish_time": "01:12:51",
+    "finish_seconds": 4371
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 35,
+    "name": "Meyer, Lauren",
+    "finish_time": "01:12:57",
+    "finish_seconds": 4377
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 37,
+    "name": "Pelletier, Molly",
+    "finish_time": "01:13:14",
+    "finish_seconds": 4394
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 39,
+    "name": "White, Jessica",
+    "finish_time": "01:13:23",
+    "finish_seconds": 4403
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 41,
+    "name": "Opeikun, Dana",
+    "finish_time": "01:13:27",
+    "finish_seconds": 4407
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 43,
+    "name": "Urquhart, Alie",
+    "finish_time": "01:13:43",
+    "finish_seconds": 4423
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 45,
+    "name": "Woods, Hannah-Grace",
+    "finish_time": "01:13:47",
+    "finish_seconds": 4427
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 47,
+    "name": "Pate, Molly",
+    "finish_time": "01:13:56",
+    "finish_seconds": 4436
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 49,
+    "name": "Maselli, Leah",
+    "finish_time": "01:14:03",
+    "finish_seconds": 4443
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 51,
+    "name": "Cuddy, Jessica",
+    "finish_time": "01:14:18",
+    "finish_seconds": 4458
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 53,
+    "name": "Backe, Amanda",
+    "finish_time": "01:14:21",
+    "finish_seconds": 4461
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 55,
+    "name": "Chia, Lindsay",
+    "finish_time": "01:14:25",
+    "finish_seconds": 4465
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 57,
+    "name": "Pearson, Hannah",
+    "finish_time": "01:14:26",
+    "finish_seconds": 4466
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 59,
+    "name": "Nelson, Cassie",
+    "finish_time": "01:14:47",
+    "finish_seconds": 4487
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 61,
+    "name": "Boyer, Eve",
+    "finish_time": "01:14:53",
+    "finish_seconds": 4493
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 63,
+    "name": "Bocklet, Marisa",
+    "finish_time": "01:15:15",
+    "finish_seconds": 4515
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 65,
+    "name": "Ellis, Johnna",
+    "finish_time": "01:15:21",
+    "finish_seconds": 4521
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 67,
+    "name": "Howland, Sydney",
+    "finish_time": "01:15:35",
+    "finish_seconds": 4535
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 69,
+    "name": "Poulopoulos, Katerina",
+    "finish_time": "01:15:45",
+    "finish_seconds": 4545
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 71,
+    "name": "Sikes, Avery",
+    "finish_time": "01:15:48",
+    "finish_seconds": 4548
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 73,
+    "name": "Kalugin, Katie",
+    "finish_time": "01:15:49",
+    "finish_seconds": 4549
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 75,
+    "name": "Schrepf, Kristina",
+    "finish_time": "01:15:50",
+    "finish_seconds": 4550
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 77,
+    "name": "Desanctis, Grace",
+    "finish_time": "01:15:51",
+    "finish_seconds": 4551
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 79,
+    "name": "Fish, Jennifer",
+    "finish_time": "01:15:53",
+    "finish_seconds": 4553
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 81,
+    "name": "Wiggins, Megan",
+    "finish_time": "01:16:01",
+    "finish_seconds": 4561
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 83,
+    "name": "Brownell, Kate",
+    "finish_time": "01:16:06",
+    "finish_seconds": 4566
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 85,
+    "name": "Palmberg, Summer",
+    "finish_time": "01:16:12",
+    "finish_seconds": 4572
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 87,
+    "name": "Connolly, Colleen",
+    "finish_time": "01:16:18",
+    "finish_seconds": 4578
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 89,
+    "name": "Lynch, Spencer",
+    "finish_time": "01:16:19",
+    "finish_seconds": 4579
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 91,
+    "name": "Sauber, Sarah",
+    "finish_time": "01:16:21",
+    "finish_seconds": 4581
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 93,
+    "name": "Haded, Becca",
+    "finish_time": "01:16:24",
+    "finish_seconds": 4584
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 95,
+    "name": "Oniskey, Micayla",
+    "finish_time": "01:16:29",
+    "finish_seconds": 4589
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 97,
+    "name": "Osborne, Ashley",
+    "finish_time": "01:16:31",
+    "finish_seconds": 4591
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 99,
+    "name": "Sampson, Kendra",
+    "finish_time": "01:16:32",
+    "finish_seconds": 4592
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 101,
+    "name": "Hoyt, Tricia",
+    "finish_time": "01:16:38",
+    "finish_seconds": 4598
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 103,
+    "name": "Spar, Jessica",
+    "finish_time": "01:16:43",
+    "finish_seconds": 4603
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 105,
+    "name": "Girard, Sandrine",
+    "finish_time": "01:16:55",
+    "finish_seconds": 4615
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 107,
+    "name": "Myers, Melissa",
+    "finish_time": "01:17:04",
+    "finish_seconds": 4624
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 109,
+    "name": "Lovelace, Kelsey",
+    "finish_time": "01:17:12",
+    "finish_seconds": 4632
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 111,
+    "name": "Martinez, Catalina",
+    "finish_time": "01:17:14",
+    "finish_seconds": 4634
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 113,
+    "name": "Salyer, Jodi",
+    "finish_time": "01:17:22",
+    "finish_seconds": 4642
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 115,
+    "name": "Sibrizzi, Michelle",
+    "finish_time": "01:17:33",
+    "finish_seconds": 4653
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 117,
+    "name": "Scala, Emily",
+    "finish_time": "01:17:44",
+    "finish_seconds": 4664
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 119,
+    "name": "Lordi, Katherine",
+    "finish_time": "01:17:54",
+    "finish_seconds": 4674
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 121,
+    "name": "Saks, Jessica",
+    "finish_time": "01:18:12",
+    "finish_seconds": 4692
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 123,
+    "name": "Ahern, Ashley",
+    "finish_time": "01:18:14",
+    "finish_seconds": 4694
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 125,
+    "name": "Singer, Deanna",
+    "finish_time": "01:18:17",
+    "finish_seconds": 4697
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 127,
+    "name": "Herman, Shannon",
+    "finish_time": "01:18:23",
+    "finish_seconds": 4703
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 129,
+    "name": "Angehr, Shannon",
+    "finish_time": "01:18:32",
+    "finish_seconds": 4712
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 131,
+    "name": "Pelaez, Carolina",
+    "finish_time": "01:18:33",
+    "finish_seconds": 4713
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 133,
+    "name": "SINCLAIR, KRISTIN",
+    "finish_time": "01:18:41",
+    "finish_seconds": 4721
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 135,
+    "name": "Daspin, Daria",
+    "finish_time": "01:18:47",
+    "finish_seconds": 4727
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 137,
+    "name": "Black, Caroline",
+    "finish_time": "01:18:50",
+    "finish_seconds": 4730
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 139,
+    "name": "Adams, Samantha",
+    "finish_time": "01:19:00",
+    "finish_seconds": 4740
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 141,
+    "name": "Gipe, Jessie",
+    "finish_time": "01:19:03",
+    "finish_seconds": 4743
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 143,
+    "name": "Hadlock, Alexandra",
+    "finish_time": "01:19:12",
+    "finish_seconds": 4752
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 145,
+    "name": "Baker, Emily",
+    "finish_time": "01:19:15",
+    "finish_seconds": 4755
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 147,
+    "name": "Diaco, Ashlin",
+    "finish_time": "01:19:22",
+    "finish_seconds": 4762
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 149,
+    "name": "Gimbel, Jessica",
+    "finish_time": "01:19:33",
+    "finish_seconds": 4773
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 151,
+    "name": "Abraham, Jacqueline",
+    "finish_time": "01:19:47",
+    "finish_seconds": 4787
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 153,
+    "name": "Sackett, Brittany",
+    "finish_time": "01:19:49",
+    "finish_seconds": 4789
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 155,
+    "name": "Devaney, Ashling",
+    "finish_time": "01:19:51",
+    "finish_seconds": 4791
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 157,
+    "name": "Moffatt, Maggie",
+    "finish_time": "01:19:52",
+    "finish_seconds": 4792
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 159,
+    "name": "Chaparro, Isabella",
+    "finish_time": "01:19:53",
+    "finish_seconds": 4793
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 161,
+    "name": "Gray, Lea",
+    "finish_time": "01:19:54",
+    "finish_seconds": 4794
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 163,
+    "name": "Kullak, Jaime",
+    "finish_time": "01:20:00",
+    "finish_seconds": 4800
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 165,
+    "name": "Hankin, Ellie",
+    "finish_time": "01:20:03",
+    "finish_seconds": 4803
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 167,
+    "name": "Concha, Monica",
+    "finish_time": "01:20:12",
+    "finish_seconds": 4812
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 169,
+    "name": "Wilimek, Gina",
+    "finish_time": "01:20:22",
+    "finish_seconds": 4822
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 171,
+    "name": "Skudder, Rebecca",
+    "finish_time": "01:20:25",
+    "finish_seconds": 4825
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 173,
+    "name": "Mcnamara, Kaitlyn",
+    "finish_time": "01:20:29",
+    "finish_seconds": 4829
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 175,
+    "name": "Toppa, Nicole",
+    "finish_time": "01:20:33",
+    "finish_seconds": 4833
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 177,
+    "name": "Carus, Sydney",
+    "finish_time": "01:20:35",
+    "finish_seconds": 4835
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 179,
+    "name": "Stoeckle, Lizzy",
+    "finish_time": "01:20:39",
+    "finish_seconds": 4839
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 181,
+    "name": "Araya, Maria Carolina",
+    "finish_time": "01:20:44",
+    "finish_seconds": 4844
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 183,
+    "name": "Myer, Andrea",
+    "finish_time": "01:20:49",
+    "finish_seconds": 4849
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 185,
+    "name": "Hyland, Alyssa",
+    "finish_time": "01:20:55",
+    "finish_seconds": 4855
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 187,
+    "name": "Peterson, Megan",
+    "finish_time": "01:21:00",
+    "finish_seconds": 4860
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 189,
+    "name": "Hosford, Jessi",
+    "finish_time": "01:21:08",
+    "finish_seconds": 4868
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 191,
+    "name": "Wing, Alexis",
+    "finish_time": "01:21:16",
+    "finish_seconds": 4876
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 193,
+    "name": "Luberto, Chantalle",
+    "finish_time": "01:21:20",
+    "finish_seconds": 4880
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 195,
+    "name": "Gonzalez, Melanie",
+    "finish_time": "01:21:21",
+    "finish_seconds": 4881
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 197,
+    "name": "Howard, Reilly",
+    "finish_time": "01:21:21",
+    "finish_seconds": 4881
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 199,
+    "name": "Grove, Jordan",
+    "finish_time": "01:21:28",
+    "finish_seconds": 4888
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 201,
+    "name": "Davidson, Haley",
+    "finish_time": "01:21:37",
+    "finish_seconds": 4897
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 203,
+    "name": "Shakhnovich, Elizabeth",
+    "finish_time": "01:21:43",
+    "finish_seconds": 4903
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 205,
+    "name": "Morelli, Alex",
+    "finish_time": "01:21:47",
+    "finish_seconds": 4907
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 207,
+    "name": "Cogswell, Amanda",
+    "finish_time": "01:21:50",
+    "finish_seconds": 4910
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 209,
+    "name": "Hoffman, Anita",
+    "finish_time": "01:21:54",
+    "finish_seconds": 4914
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 211,
+    "name": "Schwab, Jamie",
+    "finish_time": "01:21:59",
+    "finish_seconds": 4919
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 213,
+    "name": "Sowden, Gillian",
+    "finish_time": "01:22:04",
+    "finish_seconds": 4924
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 215,
+    "name": "Talbott, Amanda",
+    "finish_time": "01:22:05",
+    "finish_seconds": 4925
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 217,
+    "name": "Bay, Clara",
+    "finish_time": "01:22:14",
+    "finish_seconds": 4934
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 219,
+    "name": "Callahan, Eileen",
+    "finish_time": "01:22:16",
+    "finish_seconds": 4936
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 221,
+    "name": "Gosselin, Faith",
+    "finish_time": "01:22:18",
+    "finish_seconds": 4938
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 223,
+    "name": "Cloutier, Diana",
+    "finish_time": "01:22:23",
+    "finish_seconds": 4943
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 225,
+    "name": "Stoddard, Courtney",
+    "finish_time": "01:22:24",
+    "finish_seconds": 4944
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 227,
+    "name": "Lipinski, Hannah",
+    "finish_time": "01:22:31",
+    "finish_seconds": 4951
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 229,
+    "name": "Martinez-Reynolds, Olivia",
+    "finish_time": "01:22:36",
+    "finish_seconds": 4956
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 231,
+    "name": "Crowell, Christina",
+    "finish_time": "01:22:38",
+    "finish_seconds": 4958
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 233,
+    "name": "Herman, Keri",
+    "finish_time": "01:22:42",
+    "finish_seconds": 4962
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 235,
+    "name": "Davis, Kelsey",
+    "finish_time": "01:22:53",
+    "finish_seconds": 4973
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 237,
+    "name": "Schwarzkopf, Anna",
+    "finish_time": "01:22:55",
+    "finish_seconds": 4975
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 239,
+    "name": "Caccamo, Gabriella",
+    "finish_time": "01:22:56",
+    "finish_seconds": 4976
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 241,
+    "name": "Kearney, Emma",
+    "finish_time": "01:22:59",
+    "finish_seconds": 4979
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 243,
+    "name": "Gurlitz, Casey",
+    "finish_time": "01:23:06",
+    "finish_seconds": 4986
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 245,
+    "name": "Kadak, Chelsea",
+    "finish_time": "01:23:08",
+    "finish_seconds": 4988
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 247,
+    "name": "Mcgill Worsley, Jamie",
+    "finish_time": "01:23:14",
+    "finish_seconds": 4994
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 249,
+    "name": "Schergen, Kelsey",
+    "finish_time": "01:23:17",
+    "finish_seconds": 4997
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 251,
+    "name": "Cheek, Kelsey",
+    "finish_time": "01:23:20",
+    "finish_seconds": 5000
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 253,
+    "name": "Bowyer, Megan",
+    "finish_time": "01:23:21",
+    "finish_seconds": 5001
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 255,
+    "name": "Galvin, Lynda",
+    "finish_time": "01:23:24",
+    "finish_seconds": 5004
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 257,
+    "name": "Florio, Kylie",
+    "finish_time": "01:23:28",
+    "finish_seconds": 5008
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 259,
+    "name": "Mcginnity, Allison",
+    "finish_time": "01:23:33",
+    "finish_seconds": 5013
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 261,
+    "name": "Calinescu, Cosima Trinity",
+    "finish_time": "01:23:35",
+    "finish_seconds": 5015
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 263,
+    "name": "Annis, Ashley",
+    "finish_time": "01:23:41",
+    "finish_seconds": 5021
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 265,
+    "name": "Holland, Rachel",
+    "finish_time": "01:23:51",
+    "finish_seconds": 5031
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 267,
+    "name": "Polcari, Alexandra",
+    "finish_time": "01:23:52",
+    "finish_seconds": 5032
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 269,
+    "name": "Polen, Gracie",
+    "finish_time": "01:23:56",
+    "finish_seconds": 5036
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 271,
+    "name": "Mills, Taylor",
+    "finish_time": "01:23:58",
+    "finish_seconds": 5038
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 273,
+    "name": "Mcmanus, Ciara",
+    "finish_time": "01:24:01",
+    "finish_seconds": 5041
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 275,
+    "name": "Kettlewood, Maisey",
+    "finish_time": "01:24:02",
+    "finish_seconds": 5042
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 277,
+    "name": "Scanlon, Gina",
+    "finish_time": "01:24:04",
+    "finish_seconds": 5044
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 279,
+    "name": "Douglas, Grace",
+    "finish_time": "01:24:06",
+    "finish_seconds": 5046
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 281,
+    "name": "Martinez, Nazarena",
+    "finish_time": "01:24:09",
+    "finish_seconds": 5049
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 283,
+    "name": "PAN, CARLEEN",
+    "finish_time": "01:24:10",
+    "finish_seconds": 5050
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 285,
+    "name": "Harmston, Rachel",
+    "finish_time": "01:24:14",
+    "finish_seconds": 5054
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 287,
+    "name": "Fella, Nicole",
+    "finish_time": "01:24:16",
+    "finish_seconds": 5056
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 289,
+    "name": "Widberg, Andrea",
+    "finish_time": "01:24:21",
+    "finish_seconds": 5061
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 291,
+    "name": "Tvedten, Erika",
+    "finish_time": "01:24:23",
+    "finish_seconds": 5063
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 293,
+    "name": "Vazquez, Lizmarie",
+    "finish_time": "01:24:26",
+    "finish_seconds": 5066
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 295,
+    "name": "Torres, Liz",
+    "finish_time": "01:24:28",
+    "finish_seconds": 5068
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 297,
+    "name": "Nicoletti, Sarah",
+    "finish_time": "01:24:30",
+    "finish_seconds": 5070
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 299,
+    "name": "Lottman, Erica",
+    "finish_time": "01:24:36",
+    "finish_seconds": 5076
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 301,
+    "name": "Wallace, Rachel",
+    "finish_time": "01:24:41",
+    "finish_seconds": 5081
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 303,
+    "name": "Hayes, Stephanie",
+    "finish_time": "01:24:45",
+    "finish_seconds": 5085
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 305,
+    "name": "Brown, Stephanie",
+    "finish_time": "01:24:46",
+    "finish_seconds": 5086
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 307,
+    "name": "Amick, Jennifer",
+    "finish_time": "01:24:46",
+    "finish_seconds": 5086
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 309,
+    "name": "Cohober, Kaylee",
+    "finish_time": "01:24:47",
+    "finish_seconds": 5087
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 311,
+    "name": "Dangc, Eun",
+    "finish_time": "01:24:56",
+    "finish_seconds": 5096
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 313,
+    "name": "Hlavacek, Kaylee",
+    "finish_time": "01:25:00",
+    "finish_seconds": 5100
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 315,
+    "name": "Carrasco, Krista",
+    "finish_time": "01:25:04",
+    "finish_seconds": 5104
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 317,
+    "name": "Chastain, Jade",
+    "finish_time": "01:25:05",
+    "finish_seconds": 5105
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 319,
+    "name": "Archer, Tiffany",
+    "finish_time": "01:25:07",
+    "finish_seconds": 5107
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 321,
+    "name": "Mcguire, Jordan",
+    "finish_time": "01:25:18",
+    "finish_seconds": 5118
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 323,
+    "name": "Rockwal, Emily",
+    "finish_time": "01:25:18",
+    "finish_seconds": 5118
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 325,
+    "name": "Buss, Gwen",
+    "finish_time": "01:25:21",
+    "finish_seconds": 5121
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 327,
+    "name": "Nguyen, Karlyn",
+    "finish_time": "01:25:22",
+    "finish_seconds": 5122
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 329,
+    "name": "Labrador, Aalia",
+    "finish_time": "01:25:27",
+    "finish_seconds": 5127
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 331,
+    "name": "Titus, Alisha",
+    "finish_time": "01:25:29",
+    "finish_seconds": 5129
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 333,
+    "name": "Clapp, Mary",
+    "finish_time": "01:25:31",
+    "finish_seconds": 5131
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 334,
+    "name": "Whittington, Joya",
+    "finish_time": "01:25:32",
+    "finish_seconds": 5132
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 337,
+    "name": "Desjourdy, Lizzie",
+    "finish_time": "01:25:46",
+    "finish_seconds": 5146
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 339,
+    "name": "Fazzalari, Silvana",
+    "finish_time": "01:25:50",
+    "finish_seconds": 5150
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 341,
+    "name": "Granzin, Stefanie",
+    "finish_time": "01:25:54",
+    "finish_seconds": 5154
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 343,
+    "name": "Long, Bailey",
+    "finish_time": "01:26:00",
+    "finish_seconds": 5160
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 345,
+    "name": "Lapriore, Paige",
+    "finish_time": "01:26:17",
+    "finish_seconds": 5177
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 347,
+    "name": "Dacunha, Haley",
+    "finish_time": "01:26:29",
+    "finish_seconds": 5189
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 349,
+    "name": "Smith, Katherine",
+    "finish_time": "01:26:31",
+    "finish_seconds": 5191
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 351,
+    "name": "Shapiro, Lori",
+    "finish_time": "01:26:37",
+    "finish_seconds": 5197
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 353,
+    "name": "Callahan, Kristyn",
+    "finish_time": "01:26:40",
+    "finish_seconds": 5200
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 355,
+    "name": "Gilman, Cara",
+    "finish_time": "01:26:43",
+    "finish_seconds": 5203
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 357,
+    "name": "Wolf, Anne",
+    "finish_time": "01:26:45",
+    "finish_seconds": 5205
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 359,
+    "name": "Page, Rhiana",
+    "finish_time": "01:26:49",
+    "finish_seconds": 5209
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 361,
+    "name": "Wade, Maggie",
+    "finish_time": "01:26:51",
+    "finish_seconds": 5211
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 363,
+    "name": "Huerta Ortega, Maria",
+    "finish_time": "01:26:53",
+    "finish_seconds": 5213
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 365,
+    "name": "Johnson, Alyssa",
+    "finish_time": "01:26:54",
+    "finish_seconds": 5214
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 367,
+    "name": "Piacentino, Vp",
+    "finish_time": "01:26:55",
+    "finish_seconds": 5215
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 369,
+    "name": "Agarwal, Muskaan",
+    "finish_time": "01:26:58",
+    "finish_seconds": 5218
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 371,
+    "name": "Guerra, Angelina",
+    "finish_time": "01:26:59",
+    "finish_seconds": 5219
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 373,
+    "name": "Lubas, Melissa",
+    "finish_time": "01:27:01",
+    "finish_seconds": 5221
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 375,
+    "name": "Auerbach, Megan",
+    "finish_time": "01:27:03",
+    "finish_seconds": 5223
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 377,
+    "name": "Lattuada, Christine",
+    "finish_time": "01:27:08",
+    "finish_seconds": 5228
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 379,
+    "name": "Mason, Dana",
+    "finish_time": "01:27:10",
+    "finish_seconds": 5230
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 381,
+    "name": "Zehfuss, Drisana",
+    "finish_time": "01:27:14",
+    "finish_seconds": 5234
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 383,
+    "name": "Davidson, Miyuki",
+    "finish_time": "01:27:18",
+    "finish_seconds": 5238
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 385,
+    "name": "Giordano, Carrie",
+    "finish_time": "01:27:20",
+    "finish_seconds": 5240
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 387,
+    "name": "Boscaino, Caren",
+    "finish_time": "01:27:21",
+    "finish_seconds": 5241
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 389,
+    "name": "Roath, Brianna",
+    "finish_time": "01:27:22",
+    "finish_seconds": 5242
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 391,
+    "name": "Servatmand Degray, Sarah",
+    "finish_time": "01:27:23",
+    "finish_seconds": 5243
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 393,
+    "name": "Estrada, Selena",
+    "finish_time": "01:27:29",
+    "finish_seconds": 5249
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 395,
+    "name": "Ramonetti, Lexi",
+    "finish_time": "01:27:33",
+    "finish_seconds": 5253
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 397,
+    "name": "Sullivan, Maggie",
+    "finish_time": "01:27:37",
+    "finish_seconds": 5257
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 399,
+    "name": "Byron Geller, Jamie",
+    "finish_time": "01:27:43",
+    "finish_seconds": 5263
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 401,
+    "name": "Curtis, Keri",
+    "finish_time": "01:27:49",
+    "finish_seconds": 5269
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 403,
+    "name": "Rochlin, Genevieve",
+    "finish_time": "01:27:51",
+    "finish_seconds": 5271
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 405,
+    "name": "Rodriguez, Alexandra",
+    "finish_time": "01:27:52",
+    "finish_seconds": 5272
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 407,
+    "name": "Balfoort, Kristina",
+    "finish_time": "01:27:52",
+    "finish_seconds": 5272
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 409,
+    "name": "Difronzo, Rachel",
+    "finish_time": "01:27:56",
+    "finish_seconds": 5276
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 411,
+    "name": "Carbone, Kristin",
+    "finish_time": "01:27:59",
+    "finish_seconds": 5279
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 413,
+    "name": "Pierson, Brenna",
+    "finish_time": "01:28:00",
+    "finish_seconds": 5280
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 415,
+    "name": "Malaspina, Sydney",
+    "finish_time": "01:28:02",
+    "finish_seconds": 5282
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 417,
+    "name": "Nielsen, Jennifer",
+    "finish_time": "01:28:06",
+    "finish_seconds": 5286
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 419,
+    "name": "Mcelroy, Ava",
+    "finish_time": "01:28:08",
+    "finish_seconds": 5288
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 421,
+    "name": "Kamel, Howaida",
+    "finish_time": "01:28:09",
+    "finish_seconds": 5289
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 423,
+    "name": "Song, Joyce",
+    "finish_time": "01:28:11",
+    "finish_seconds": 5291
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 425,
+    "name": "Riedel, Brandalyn",
+    "finish_time": "01:28:15",
+    "finish_seconds": 5295
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 427,
+    "name": "Steigbigel, Ava",
+    "finish_time": "01:28:22",
+    "finish_seconds": 5302
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 429,
+    "name": "Kenny, Caroline",
+    "finish_time": "01:28:23",
+    "finish_seconds": 5303
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 431,
+    "name": "Moses, Taylor",
+    "finish_time": "01:28:24",
+    "finish_seconds": 5304
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 433,
+    "name": "Borden, Madelyn",
+    "finish_time": "01:28:31",
+    "finish_seconds": 5311
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 435,
+    "name": "Kaminski, Emily",
+    "finish_time": "01:28:33",
+    "finish_seconds": 5313
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 437,
+    "name": "Smith, Leigha",
+    "finish_time": "01:28:35",
+    "finish_seconds": 5315
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 439,
+    "name": "Mcdonald, Moira",
+    "finish_time": "01:28:38",
+    "finish_seconds": 5318
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 441,
+    "name": "Rodriguez-Palacios, Melanie",
+    "finish_time": "01:28:43",
+    "finish_seconds": 5323
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 443,
+    "name": "Smail, Jaedyn",
+    "finish_time": "01:28:51",
+    "finish_seconds": 5331
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 445,
+    "name": "Diodati, Molly",
+    "finish_time": "01:28:53",
+    "finish_seconds": 5333
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 447,
+    "name": "Hedspeth, Tori",
+    "finish_time": "01:28:55",
+    "finish_seconds": 5335
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 449,
+    "name": "Staszel, Lilia",
+    "finish_time": "01:28:57",
+    "finish_seconds": 5337
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 451,
+    "name": "Lin, Jamie",
+    "finish_time": "01:28:59",
+    "finish_seconds": 5339
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 453,
+    "name": "Miner, Natalia",
+    "finish_time": "01:29:07",
+    "finish_seconds": 5347
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 455,
+    "name": "Clear, Holli",
+    "finish_time": "01:29:08",
+    "finish_seconds": 5348
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 457,
+    "name": "Brissette, Parker",
+    "finish_time": "01:29:10",
+    "finish_seconds": 5350
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 459,
+    "name": "Garza, Audrey",
+    "finish_time": "01:29:15",
+    "finish_seconds": 5355
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 461,
+    "name": "Lithgow, Lauren",
+    "finish_time": "01:29:22",
+    "finish_seconds": 5362
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 463,
+    "name": "Willson, Emily",
+    "finish_time": "01:29:25",
+    "finish_seconds": 5365
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 465,
+    "name": "Drew, Emily",
+    "finish_time": "01:29:28",
+    "finish_seconds": 5368
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 467,
+    "name": "Wong, Pui Ting",
+    "finish_time": "01:29:33",
+    "finish_seconds": 5373
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 469,
+    "name": "Richards, Ava",
+    "finish_time": "01:29:34",
+    "finish_seconds": 5374
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 471,
+    "name": "Vala, Tracy",
+    "finish_time": "01:29:36",
+    "finish_seconds": 5376
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 473,
+    "name": "Rosadini, Lauren",
+    "finish_time": "01:29:38",
+    "finish_seconds": 5378
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 475,
+    "name": "Bastry, Kayla",
+    "finish_time": "01:29:39",
+    "finish_seconds": 5379
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 477,
+    "name": "West, Christine",
+    "finish_time": "01:29:42",
+    "finish_seconds": 5382
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 479,
+    "name": "Legacki, Susan",
+    "finish_time": "01:29:48",
+    "finish_seconds": 5388
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 481,
+    "name": "Malo, Holly",
+    "finish_time": "01:29:56",
+    "finish_seconds": 5396
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 483,
+    "name": "Anderson, Britt",
+    "finish_time": "01:29:58",
+    "finish_seconds": 5398
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 485,
+    "name": "Pelletier, Jordan",
+    "finish_time": "01:30:01",
+    "finish_seconds": 5401
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 487,
+    "name": "Bourdeau, Catherine",
+    "finish_time": "01:30:03",
+    "finish_seconds": 5403
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 489,
+    "name": "Marsh, Ashley",
+    "finish_time": "01:30:08",
+    "finish_seconds": 5408
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 491,
+    "name": "Mossop, Maggie",
+    "finish_time": "01:30:09",
+    "finish_seconds": 5409
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 493,
+    "name": "Marchese, Daniella",
+    "finish_time": "01:30:17",
+    "finish_seconds": 5417
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 495,
+    "name": "Macvarish, Natalie",
+    "finish_time": "01:30:18",
+    "finish_seconds": 5418
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 497,
+    "name": "White, Taylor",
+    "finish_time": "01:30:28",
+    "finish_seconds": 5428
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 499,
+    "name": "Boak, Katie",
+    "finish_time": "01:30:31",
+    "finish_seconds": 5431
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 501,
+    "name": "Podolski, Steph",
+    "finish_time": "01:30:32",
+    "finish_seconds": 5432
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 503,
+    "name": "Jackson, Meadow",
+    "finish_time": "01:30:35",
+    "finish_seconds": 5435
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 505,
+    "name": "Mann, Kaisa",
+    "finish_time": "01:30:45",
+    "finish_seconds": 5445
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 507,
+    "name": "Lynch, Kimberly",
+    "finish_time": "01:30:47",
+    "finish_seconds": 5447
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 509,
+    "name": "Willoughby, Jen",
+    "finish_time": "01:30:50",
+    "finish_seconds": 5450
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 511,
+    "name": "Peterson, Michelle",
+    "finish_time": "01:30:53",
+    "finish_seconds": 5453
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 513,
+    "name": "Devittorio, Victoria",
+    "finish_time": "01:30:56",
+    "finish_seconds": 5456
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 515,
+    "name": "Cosentino, Angela",
+    "finish_time": "01:31:01",
+    "finish_seconds": 5461
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 517,
+    "name": "Ripps, Karina",
+    "finish_time": "01:31:03",
+    "finish_seconds": 5463
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 519,
+    "name": "Moradi, Sophia",
+    "finish_time": "01:31:05",
+    "finish_seconds": 5465
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 521,
+    "name": "Mccoy, Averi",
+    "finish_time": "01:31:07",
+    "finish_seconds": 5467
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 523,
+    "name": "Slattery, Nicole",
+    "finish_time": "01:31:09",
+    "finish_seconds": 5469
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 525,
+    "name": "Zara, Angie",
+    "finish_time": "01:31:12",
+    "finish_seconds": 5472
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 527,
+    "name": "Collins, Samantha",
+    "finish_time": "01:31:18",
+    "finish_seconds": 5478
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 529,
+    "name": "Eddinger, Missy",
+    "finish_time": "01:31:19",
+    "finish_seconds": 5479
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 531,
+    "name": "Marchetti, Lauren",
+    "finish_time": "01:31:24",
+    "finish_seconds": 5484
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 533,
+    "name": "Borja, Alexis",
+    "finish_time": "01:31:25",
+    "finish_seconds": 5485
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 535,
+    "name": "Bartels, Heidi",
+    "finish_time": "01:31:31",
+    "finish_seconds": 5491
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 537,
+    "name": "Wayt Boemmels, Tara",
+    "finish_time": "01:31:38",
+    "finish_seconds": 5498
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 539,
+    "name": "Cowper, Jenna",
+    "finish_time": "01:31:38",
+    "finish_seconds": 5498
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 541,
+    "name": "Johnson, Gabby",
+    "finish_time": "01:31:41",
+    "finish_seconds": 5501
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 543,
+    "name": "Coelho, Jennifer",
+    "finish_time": "01:31:49",
+    "finish_seconds": 5509
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 545,
+    "name": "Barry, Gillian",
+    "finish_time": "01:31:51",
+    "finish_seconds": 5511
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 547,
+    "name": "Terrell, Meridien",
+    "finish_time": "01:31:51",
+    "finish_seconds": 5511
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 549,
+    "name": "Galvin, Deirdre",
+    "finish_time": "01:31:55",
+    "finish_seconds": 5515
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 551,
+    "name": "Canino, Eva",
+    "finish_time": "01:31:55",
+    "finish_seconds": 5515
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 553,
+    "name": "Rohde, Meghan",
+    "finish_time": "01:31:57",
+    "finish_seconds": 5517
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 555,
+    "name": "Swaffar, Zoe",
+    "finish_time": "01:32:03",
+    "finish_seconds": 5523
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 557,
+    "name": "Moorhead, Kate",
+    "finish_time": "01:32:07",
+    "finish_seconds": 5527
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 559,
+    "name": "Corrington, Kaila",
+    "finish_time": "01:32:17",
+    "finish_seconds": 5537
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 561,
+    "name": "Chillemi, Tara",
+    "finish_time": "01:32:22",
+    "finish_seconds": 5542
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 563,
+    "name": "Lyons, Brenda",
+    "finish_time": "01:32:25",
+    "finish_seconds": 5545
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 565,
+    "name": "Hooper, Megan",
+    "finish_time": "01:32:27",
+    "finish_seconds": 5547
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 567,
+    "name": "Di Santo, Gina",
+    "finish_time": "01:32:35",
+    "finish_seconds": 5555
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 569,
+    "name": "Thayer, Becky",
+    "finish_time": "01:32:40",
+    "finish_seconds": 5560
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 571,
+    "name": "Shuttleworth, Meg",
+    "finish_time": "01:32:45",
+    "finish_seconds": 5565
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 573,
+    "name": "Vaillancourt, Jayde",
+    "finish_time": "01:32:50",
+    "finish_seconds": 5570
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 575,
+    "name": "Blackmore, Katherine",
+    "finish_time": "01:32:58",
+    "finish_seconds": 5578
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 577,
+    "name": "Zhang, Molly",
+    "finish_time": "01:33:01",
+    "finish_seconds": 5581
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 579,
+    "name": "Williams, Kristina",
+    "finish_time": "01:33:02",
+    "finish_seconds": 5582
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 581,
+    "name": "Gurlitz, Megan",
+    "finish_time": "01:33:05",
+    "finish_seconds": 5585
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 583,
+    "name": "Earley, Kathleen",
+    "finish_time": "01:33:06",
+    "finish_seconds": 5586
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 585,
+    "name": "Loverro, Ashley",
+    "finish_time": "01:33:09",
+    "finish_seconds": 5589
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 587,
+    "name": "Prakopchyk, Darya",
+    "finish_time": "01:33:18",
+    "finish_seconds": 5598
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 589,
+    "name": "Fortier, Megan",
+    "finish_time": "01:33:25",
+    "finish_seconds": 5605
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 591,
+    "name": "Wenke, Tricia",
+    "finish_time": "01:33:31",
+    "finish_seconds": 5611
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 593,
+    "name": "Leblanc, Brooke",
+    "finish_time": "01:33:36",
+    "finish_seconds": 5616
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 595,
+    "name": "Ryabenko, Anastasiya",
+    "finish_time": "01:33:40",
+    "finish_seconds": 5620
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 597,
+    "name": "Dewey, Courtney",
+    "finish_time": "01:33:46",
+    "finish_seconds": 5626
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 599,
+    "name": "Mayer, Marley",
+    "finish_time": "01:33:48",
+    "finish_seconds": 5628
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 601,
+    "name": "Radloff, Macy",
+    "finish_time": "01:33:51",
+    "finish_seconds": 5631
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 603,
+    "name": "Vela, Andrea",
+    "finish_time": "01:33:52",
+    "finish_seconds": 5632
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 605,
+    "name": "Rodriguez, Daniela",
+    "finish_time": "01:34:02",
+    "finish_seconds": 5642
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 607,
+    "name": "Lederer, Megan",
+    "finish_time": "01:34:07",
+    "finish_seconds": 5647
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 609,
+    "name": "Watson, Rachel",
+    "finish_time": "01:34:08",
+    "finish_seconds": 5648
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 611,
+    "name": "Pedro, Julianne",
+    "finish_time": "01:34:12",
+    "finish_seconds": 5652
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 613,
+    "name": "Thomason, Kayla",
+    "finish_time": "01:34:20",
+    "finish_seconds": 5660
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 615,
+    "name": "Duda, Kelly",
+    "finish_time": "01:34:27",
+    "finish_seconds": 5667
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 617,
+    "name": "Colon, Nicole",
+    "finish_time": "01:34:27",
+    "finish_seconds": 5667
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 619,
+    "name": "Garcia, Nikole",
+    "finish_time": "01:34:28",
+    "finish_seconds": 5668
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 621,
+    "name": "Ehrhardt, Sarah",
+    "finish_time": "01:34:29",
+    "finish_seconds": 5669
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 623,
+    "name": "Marazzi, Angelina",
+    "finish_time": "01:34:31",
+    "finish_seconds": 5671
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 625,
+    "name": "Familia, Emily",
+    "finish_time": "01:34:31",
+    "finish_seconds": 5671
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 627,
+    "name": "Bartles, Mollie",
+    "finish_time": "01:34:34",
+    "finish_seconds": 5674
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 629,
+    "name": "O\u2019Hara, Michelle",
+    "finish_time": "01:34:35",
+    "finish_seconds": 5675
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 631,
+    "name": "Oconnor, Berit",
+    "finish_time": "01:34:38",
+    "finish_seconds": 5678
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 633,
+    "name": "Nelson, Heidi",
+    "finish_time": "01:34:39",
+    "finish_seconds": 5679
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 635,
+    "name": "Irons, Kristin",
+    "finish_time": "01:34:47",
+    "finish_seconds": 5687
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 637,
+    "name": "Chau, Melody",
+    "finish_time": "01:34:51",
+    "finish_seconds": 5691
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 639,
+    "name": "Ruth, Aoife",
+    "finish_time": "01:34:54",
+    "finish_seconds": 5694
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 641,
+    "name": "Delgado, Stephanie",
+    "finish_time": "01:35:07",
+    "finish_seconds": 5707
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 643,
+    "name": "Schooley, Kalee",
+    "finish_time": "01:35:10",
+    "finish_seconds": 5710
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 645,
+    "name": "Fuentes, Sally",
+    "finish_time": "01:35:13",
+    "finish_seconds": 5713
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 647,
+    "name": "Gianelle, Madison",
+    "finish_time": "01:35:16",
+    "finish_seconds": 5716
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 649,
+    "name": "Fernandes, Melinda",
+    "finish_time": "01:35:19",
+    "finish_seconds": 5719
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 651,
+    "name": "Bryan, Nadezda",
+    "finish_time": "01:35:20",
+    "finish_seconds": 5720
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 653,
+    "name": "Hoffman, Sue",
+    "finish_time": "01:35:34",
+    "finish_seconds": 5734
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 655,
+    "name": "Book, Alyson",
+    "finish_time": "01:35:40",
+    "finish_seconds": 5740
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 657,
+    "name": "Antenucci, Nicole",
+    "finish_time": "01:35:42",
+    "finish_seconds": 5742
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 659,
+    "name": "Nicklow, Mary Ann",
+    "finish_time": "01:35:55",
+    "finish_seconds": 5755
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 661,
+    "name": "Higgins, Patty",
+    "finish_time": "01:36:06",
+    "finish_seconds": 5766
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 663,
+    "name": "Jones, Kristen",
+    "finish_time": "01:36:06",
+    "finish_seconds": 5766
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 665,
+    "name": "Shull, Ryanne",
+    "finish_time": "01:36:09",
+    "finish_seconds": 5769
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 667,
+    "name": "Clarkson, Brittany",
+    "finish_time": "01:36:20",
+    "finish_seconds": 5780
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 669,
+    "name": "Klotz, Amy",
+    "finish_time": "01:36:26",
+    "finish_seconds": 5786
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 671,
+    "name": "Florek, Hannah",
+    "finish_time": "01:36:27",
+    "finish_seconds": 5787
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 673,
+    "name": "O'Malley, Gyee",
+    "finish_time": "01:36:34",
+    "finish_seconds": 5794
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 675,
+    "name": "Pace, Kathryn",
+    "finish_time": "01:36:35",
+    "finish_seconds": 5795
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 677,
+    "name": "Foss, Haley",
+    "finish_time": "01:36:36",
+    "finish_seconds": 5796
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 679,
+    "name": "Yatwa, Samantha",
+    "finish_time": "01:36:42",
+    "finish_seconds": 5802
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 681,
+    "name": "Zito, Alicia",
+    "finish_time": "01:36:47",
+    "finish_seconds": 5807
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 683,
+    "name": "Thrasher, Amanda",
+    "finish_time": "01:36:50",
+    "finish_seconds": 5810
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 685,
+    "name": "Kane, Grace",
+    "finish_time": "01:36:52",
+    "finish_seconds": 5812
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 687,
+    "name": "Omalley, Jodie",
+    "finish_time": "01:36:55",
+    "finish_seconds": 5815
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 689,
+    "name": "Buitrago, Angie",
+    "finish_time": "01:36:59",
+    "finish_seconds": 5819
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 691,
+    "name": "Priest, Annette",
+    "finish_time": "01:37:05",
+    "finish_seconds": 5825
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 693,
+    "name": "Bukauskaite, Migle",
+    "finish_time": "01:37:06",
+    "finish_seconds": 5826
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 695,
+    "name": "Serret, Belkis",
+    "finish_time": "01:37:09",
+    "finish_seconds": 5829
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 697,
+    "name": "Skudder-Pocius, Carolyn",
+    "finish_time": "01:37:12",
+    "finish_seconds": 5832
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 699,
+    "name": "Hamilton, Taylor",
+    "finish_time": "01:37:23",
+    "finish_seconds": 5843
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 701,
+    "name": "Mendoza, Hannah",
+    "finish_time": "01:37:25",
+    "finish_seconds": 5845
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 703,
+    "name": "Davila, Magali",
+    "finish_time": "01:37:31",
+    "finish_seconds": 5851
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 705,
+    "name": "Hansen, Megan",
+    "finish_time": "01:37:35",
+    "finish_seconds": 5855
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 707,
+    "name": "Jarrett, Sheronda",
+    "finish_time": "01:37:41",
+    "finish_seconds": 5861
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 709,
+    "name": "Thompson, Morgan",
+    "finish_time": "01:37:47",
+    "finish_seconds": 5867
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 711,
+    "name": "Caron, Gabriella",
+    "finish_time": "01:37:49",
+    "finish_seconds": 5869
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 713,
+    "name": "Lister, Molly",
+    "finish_time": "01:37:53",
+    "finish_seconds": 5873
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 715,
+    "name": "Escobar, Maria",
+    "finish_time": "01:37:57",
+    "finish_seconds": 5877
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 717,
+    "name": "Trottier, Amanda",
+    "finish_time": "01:37:59",
+    "finish_seconds": 5879
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 719,
+    "name": "Dai, Kexin",
+    "finish_time": "01:38:03",
+    "finish_seconds": 5883
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 721,
+    "name": "Bragg, Mary",
+    "finish_time": "01:38:04",
+    "finish_seconds": 5884
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 723,
+    "name": "Smith, Morgan",
+    "finish_time": "01:38:07",
+    "finish_seconds": 5887
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 725,
+    "name": "Rice, Teresa",
+    "finish_time": "01:38:12",
+    "finish_seconds": 5892
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 727,
+    "name": "Fairbairn, Audrey",
+    "finish_time": "01:38:14",
+    "finish_seconds": 5894
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 729,
+    "name": "Mccoole, Kellsie",
+    "finish_time": "01:38:15",
+    "finish_seconds": 5895
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 731,
+    "name": "Blitz, Carley",
+    "finish_time": "01:38:16",
+    "finish_seconds": 5896
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 733,
+    "name": "Martinez, Claire",
+    "finish_time": "01:38:20",
+    "finish_seconds": 5900
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 735,
+    "name": "Dilorenzo, Caitlin",
+    "finish_time": "01:38:26",
+    "finish_seconds": 5906
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 737,
+    "name": "Venegas, Elizabeth",
+    "finish_time": "01:38:27",
+    "finish_seconds": 5907
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 739,
+    "name": "Zhou, Tianyi",
+    "finish_time": "01:38:32",
+    "finish_seconds": 5912
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 741,
+    "name": "Grayson, Jessica",
+    "finish_time": "01:38:35",
+    "finish_seconds": 5915
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 743,
+    "name": "Degnan, Laura",
+    "finish_time": "01:38:41",
+    "finish_seconds": 5921
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 745,
+    "name": "Volpi, Hannah",
+    "finish_time": "01:38:48",
+    "finish_seconds": 5928
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 747,
+    "name": "Clark, Meredith",
+    "finish_time": "01:38:58",
+    "finish_seconds": 5938
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 749,
+    "name": "Biron, Leah",
+    "finish_time": "01:39:14",
+    "finish_seconds": 5954
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 751,
+    "name": "Daly, Jan",
+    "finish_time": "01:39:21",
+    "finish_seconds": 5961
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 753,
+    "name": "Barbosa Maldonado, Ashlye",
+    "finish_time": "01:39:23",
+    "finish_seconds": 5963
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 755,
+    "name": "Drefahl, Courtney",
+    "finish_time": "01:39:30",
+    "finish_seconds": 5970
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 757,
+    "name": "Tilley, Hannah",
+    "finish_time": "01:39:33",
+    "finish_seconds": 5973
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 759,
+    "name": "Carpio, Leslie",
+    "finish_time": "01:39:35",
+    "finish_seconds": 5975
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 761,
+    "name": "Church, Trish",
+    "finish_time": "01:39:41",
+    "finish_seconds": 5981
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 763,
+    "name": "Benedetto, Marisa",
+    "finish_time": "01:39:55",
+    "finish_seconds": 5995
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 765,
+    "name": "Leahy, Jill",
+    "finish_time": "01:39:59",
+    "finish_seconds": 5999
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 767,
+    "name": "Teltscher, Mckenna",
+    "finish_time": "01:40:03",
+    "finish_seconds": 6003
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 769,
+    "name": "Sharp, Jenna",
+    "finish_time": "01:40:13",
+    "finish_seconds": 6013
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 771,
+    "name": "Whittington, Ashley",
+    "finish_time": "01:40:26",
+    "finish_seconds": 6026
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 773,
+    "name": "Bellefleur, Sarah",
+    "finish_time": "01:40:27",
+    "finish_seconds": 6027
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 775,
+    "name": "Valenton, Phoebe",
+    "finish_time": "01:40:30",
+    "finish_seconds": 6030
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 777,
+    "name": "Abebe, Emnet",
+    "finish_time": "01:40:36",
+    "finish_seconds": 6036
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 779,
+    "name": "Ronghi, Katherine",
+    "finish_time": "01:40:43",
+    "finish_seconds": 6043
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 781,
+    "name": "Resz, Regan",
+    "finish_time": "01:40:47",
+    "finish_seconds": 6047
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 783,
+    "name": "Karnilaw, Mackenzie",
+    "finish_time": "01:40:48",
+    "finish_seconds": 6048
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 785,
+    "name": "Contreras, Daisy",
+    "finish_time": "01:40:51",
+    "finish_seconds": 6051
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 787,
+    "name": "Smith, Stephanie",
+    "finish_time": "01:40:54",
+    "finish_seconds": 6054
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 789,
+    "name": "Decker, Christina",
+    "finish_time": "01:41:05",
+    "finish_seconds": 6065
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 791,
+    "name": "Charkoudian-Rogers, Aline",
+    "finish_time": "01:41:12",
+    "finish_seconds": 6072
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 793,
+    "name": "Reid, Kaydian",
+    "finish_time": "01:41:17",
+    "finish_seconds": 6077
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 795,
+    "name": "Cantey, Carsyn",
+    "finish_time": "01:41:23",
+    "finish_seconds": 6083
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 797,
+    "name": "Vaillancourt, Tara Lee",
+    "finish_time": "01:41:31",
+    "finish_seconds": 6091
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 799,
+    "name": "Karter, Kate",
+    "finish_time": "01:41:36",
+    "finish_seconds": 6096
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 801,
+    "name": "Pieper, Lindsey",
+    "finish_time": "01:41:39",
+    "finish_seconds": 6099
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 803,
+    "name": "Frey, Jillian",
+    "finish_time": "01:41:57",
+    "finish_seconds": 6117
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 805,
+    "name": "Clemente, Jobelle Mae",
+    "finish_time": "01:41:58",
+    "finish_seconds": 6118
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 807,
+    "name": "Meacock, Tracey",
+    "finish_time": "01:42:04",
+    "finish_seconds": 6124
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 809,
+    "name": "Canora, Toni Ann",
+    "finish_time": "01:42:07",
+    "finish_seconds": 6127
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 811,
+    "name": "Ripple, Olivia",
+    "finish_time": "01:42:09",
+    "finish_seconds": 6129
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 813,
+    "name": "Anderson, Michele",
+    "finish_time": "01:42:16",
+    "finish_seconds": 6136
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 815,
+    "name": "Bautista, Shari-Allaine",
+    "finish_time": "01:42:29",
+    "finish_seconds": 6149
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 817,
+    "name": "Boudreau, Chelsea",
+    "finish_time": "01:42:33",
+    "finish_seconds": 6153
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 819,
+    "name": "Crowther, Ireland",
+    "finish_time": "01:42:35",
+    "finish_seconds": 6155
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 821,
+    "name": "Fulford, Marie",
+    "finish_time": "01:42:45",
+    "finish_seconds": 6165
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 823,
+    "name": "Sykes, Kristin",
+    "finish_time": "01:42:49",
+    "finish_seconds": 6169
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 825,
+    "name": "Bernhardt, Miriam",
+    "finish_time": "01:42:56",
+    "finish_seconds": 6176
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 827,
+    "name": "Macy, Misha",
+    "finish_time": "01:42:58",
+    "finish_seconds": 6178
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 829,
+    "name": "Nair, Lakshmi",
+    "finish_time": "01:43:06",
+    "finish_seconds": 6186
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 831,
+    "name": "Hirsch, Alysia",
+    "finish_time": "01:43:10",
+    "finish_seconds": 6190
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 833,
+    "name": "Imura, Nillie",
+    "finish_time": "01:43:16",
+    "finish_seconds": 6196
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 835,
+    "name": "Galvis, Erica",
+    "finish_time": "01:43:18",
+    "finish_seconds": 6198
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 837,
+    "name": "Oswald-Nicpon, Karolina",
+    "finish_time": "01:43:24",
+    "finish_seconds": 6204
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 839,
+    "name": "Mcgiverin, Brenda",
+    "finish_time": "01:43:28",
+    "finish_seconds": 6208
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 841,
+    "name": "Berryman, Jaime",
+    "finish_time": "01:43:39",
+    "finish_seconds": 6219
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 843,
+    "name": "Peterson, Dawn Marie",
+    "finish_time": "01:43:45",
+    "finish_seconds": 6225
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 845,
+    "name": "Callanan, Meghan",
+    "finish_time": "01:43:50",
+    "finish_seconds": 6230
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 847,
+    "name": "Rubeor, Amity",
+    "finish_time": "01:43:50",
+    "finish_seconds": 6230
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 849,
+    "name": "Dragun, Shira",
+    "finish_time": "01:44:03",
+    "finish_seconds": 6243
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 851,
+    "name": "Villa, Raegyn",
+    "finish_time": "01:44:07",
+    "finish_seconds": 6247
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 853,
+    "name": "Stock, Mallory",
+    "finish_time": "01:44:13",
+    "finish_seconds": 6253
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 855,
+    "name": "Zalzal, Jessica",
+    "finish_time": "01:44:15",
+    "finish_seconds": 6255
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 857,
+    "name": "Wardwell, Molly",
+    "finish_time": "01:44:27",
+    "finish_seconds": 6267
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 859,
+    "name": "Decost, Kendall",
+    "finish_time": "01:44:32",
+    "finish_seconds": 6272
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 861,
+    "name": "Valenti, Illissa",
+    "finish_time": "01:44:33",
+    "finish_seconds": 6273
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 863,
+    "name": "Bantum, Gloria",
+    "finish_time": "01:44:36",
+    "finish_seconds": 6276
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 865,
+    "name": "Conway, Laura",
+    "finish_time": "01:44:42",
+    "finish_seconds": 6282
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 867,
+    "name": "Madayag, Sheryl",
+    "finish_time": "01:44:42",
+    "finish_seconds": 6282
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 869,
+    "name": "Karahamad, Maha",
+    "finish_time": "01:44:48",
+    "finish_seconds": 6288
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 871,
+    "name": "Gordon, Isobella",
+    "finish_time": "01:45:02",
+    "finish_seconds": 6302
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 873,
+    "name": "Carlisle, Mary",
+    "finish_time": "01:45:10",
+    "finish_seconds": 6310
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 875,
+    "name": "Ambrose, Erika",
+    "finish_time": "01:45:17",
+    "finish_seconds": 6317
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 877,
+    "name": "Macdonald, Briana",
+    "finish_time": "01:45:20",
+    "finish_seconds": 6320
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 879,
+    "name": "Beinars, Gabrielle",
+    "finish_time": "01:45:21",
+    "finish_seconds": 6321
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 881,
+    "name": "Condon, Dagmar",
+    "finish_time": "01:45:25",
+    "finish_seconds": 6325
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 883,
+    "name": "Darger, Payton",
+    "finish_time": "01:45:28",
+    "finish_seconds": 6328
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 885,
+    "name": "Kryta, Darline",
+    "finish_time": "01:45:30",
+    "finish_seconds": 6330
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 887,
+    "name": "Gitajn, Leah",
+    "finish_time": "01:45:36",
+    "finish_seconds": 6336
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 889,
+    "name": "Cruz, Carmen",
+    "finish_time": "01:45:41",
+    "finish_seconds": 6341
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 891,
+    "name": "Piorkowski, Claire",
+    "finish_time": "01:45:44",
+    "finish_seconds": 6344
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 893,
+    "name": "Zand, Ladan",
+    "finish_time": "01:45:47",
+    "finish_seconds": 6347
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 895,
+    "name": "Grabda, Kathi",
+    "finish_time": "01:45:48",
+    "finish_seconds": 6348
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 897,
+    "name": "Stratton, Christina",
+    "finish_time": "01:45:49",
+    "finish_seconds": 6349
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 899,
+    "name": "Sova, Alexis",
+    "finish_time": "01:45:54",
+    "finish_seconds": 6354
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 901,
+    "name": "Ziering, Madyson",
+    "finish_time": "01:45:59",
+    "finish_seconds": 6359
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 903,
+    "name": "Syryla, Christina",
+    "finish_time": "01:46:06",
+    "finish_seconds": 6366
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 905,
+    "name": "Raymond, Lindsay",
+    "finish_time": "01:46:08",
+    "finish_seconds": 6368
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 907,
+    "name": "Watt, Jennifer",
+    "finish_time": "01:46:12",
+    "finish_seconds": 6372
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 909,
+    "name": "Saldana, Leslie",
+    "finish_time": "01:46:14",
+    "finish_seconds": 6374
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 911,
+    "name": "Fretz, Rebecca",
+    "finish_time": "01:46:21",
+    "finish_seconds": 6381
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 913,
+    "name": "Wnorowski, Alicia",
+    "finish_time": "01:46:23",
+    "finish_seconds": 6383
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 915,
+    "name": "Burri, Dominique",
+    "finish_time": "01:46:25",
+    "finish_seconds": 6385
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 917,
+    "name": "Ferdinand, Kirsten",
+    "finish_time": "01:46:29",
+    "finish_seconds": 6389
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 919,
+    "name": "Christian, Christine",
+    "finish_time": "01:46:33",
+    "finish_seconds": 6393
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 921,
+    "name": "Schuster, Rachel",
+    "finish_time": "01:46:36",
+    "finish_seconds": 6396
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 923,
+    "name": "Clarkson, Michele",
+    "finish_time": "01:46:39",
+    "finish_seconds": 6399
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 925,
+    "name": "Nalivaika, Alison",
+    "finish_time": "01:46:42",
+    "finish_seconds": 6402
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 927,
+    "name": "Maiorano, Rebecca",
+    "finish_time": "01:46:48",
+    "finish_seconds": 6408
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 929,
+    "name": "Chan, Heather",
+    "finish_time": "01:46:51",
+    "finish_seconds": 6411
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 931,
+    "name": "Davies, Chase",
+    "finish_time": "01:46:55",
+    "finish_seconds": 6415
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 933,
+    "name": "Paquette, Colleen",
+    "finish_time": "01:47:00",
+    "finish_seconds": 6420
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 935,
+    "name": "Rakers, Emily",
+    "finish_time": "01:47:15",
+    "finish_seconds": 6435
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 937,
+    "name": "Prinz, Darlene",
+    "finish_time": "01:47:32",
+    "finish_seconds": 6452
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 939,
+    "name": "Politis, Tia",
+    "finish_time": "01:47:42",
+    "finish_seconds": 6462
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 941,
+    "name": "Mckeon, Kerry",
+    "finish_time": "01:47:49",
+    "finish_seconds": 6469
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 943,
+    "name": "Pless, Tamara",
+    "finish_time": "01:47:50",
+    "finish_seconds": 6470
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 945,
+    "name": "Miranda, Nicole",
+    "finish_time": "01:47:53",
+    "finish_seconds": 6473
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 947,
+    "name": "Purcell, Renee",
+    "finish_time": "01:47:58",
+    "finish_seconds": 6478
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 949,
+    "name": "Camiso, Sierra",
+    "finish_time": "01:48:06",
+    "finish_seconds": 6486
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 951,
+    "name": "Whitlow-Stanzione, Helena",
+    "finish_time": "01:48:16",
+    "finish_seconds": 6496
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 953,
+    "name": "Tran, Emily",
+    "finish_time": "01:48:34",
+    "finish_seconds": 6514
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 955,
+    "name": "Souther, Alexis",
+    "finish_time": "01:48:40",
+    "finish_seconds": 6520
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 957,
+    "name": "Flores, Dania Angela",
+    "finish_time": "01:48:43",
+    "finish_seconds": 6523
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 959,
+    "name": "Lamar, Lexi",
+    "finish_time": "01:48:47",
+    "finish_seconds": 6527
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 961,
+    "name": "Sischo, Heather",
+    "finish_time": "01:48:53",
+    "finish_seconds": 6533
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 963,
+    "name": "Etienne, Diana",
+    "finish_time": "01:48:56",
+    "finish_seconds": 6536
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 965,
+    "name": "Ruiz, Glenda",
+    "finish_time": "01:49:02",
+    "finish_seconds": 6542
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 967,
+    "name": "Wilhelmsen, Lexi",
+    "finish_time": "01:49:05",
+    "finish_seconds": 6545
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 969,
+    "name": "Bartles, Randi",
+    "finish_time": "01:49:08",
+    "finish_seconds": 6548
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 971,
+    "name": "Collins, Heather",
+    "finish_time": "01:49:24",
+    "finish_seconds": 6564
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 973,
+    "name": "Chait, Tracy",
+    "finish_time": "01:49:28",
+    "finish_seconds": 6568
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 975,
+    "name": "Garcia, Lydia",
+    "finish_time": "01:49:34",
+    "finish_seconds": 6574
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 977,
+    "name": "Blu-Mocaer, Marie",
+    "finish_time": "01:49:36",
+    "finish_seconds": 6576
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 979,
+    "name": "Ottenschot, Ciera",
+    "finish_time": "01:49:57",
+    "finish_seconds": 6597
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 981,
+    "name": "Whitham, Amanda",
+    "finish_time": "01:49:59",
+    "finish_seconds": 6599
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 983,
+    "name": "Choi, Ingrid",
+    "finish_time": "01:50:06",
+    "finish_seconds": 6606
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 985,
+    "name": "Nguyen, Holly",
+    "finish_time": "01:50:19",
+    "finish_seconds": 6619
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 987,
+    "name": "Villafa\u00f1e, Jessica",
+    "finish_time": "01:50:27",
+    "finish_seconds": 6627
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 989,
+    "name": "Neimark, Sabrina",
+    "finish_time": "01:50:31",
+    "finish_seconds": 6631
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 991,
+    "name": "Perscheid, Mara",
+    "finish_time": "01:50:33",
+    "finish_seconds": 6633
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 993,
+    "name": "Spring, Rachel",
+    "finish_time": "01:50:34",
+    "finish_seconds": 6634
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 995,
+    "name": "Jones, Claudia",
+    "finish_time": "01:50:54",
+    "finish_seconds": 6654
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 997,
+    "name": "Anderson, Stephanie",
+    "finish_time": "01:51:01",
+    "finish_seconds": 6661
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 999,
+    "name": "Th\u00e9riault, Ama\u00eblle",
+    "finish_time": "01:51:03",
+    "finish_seconds": 6663
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 1001,
+    "name": "Elmehrath, Sandy",
+    "finish_time": "01:51:05",
+    "finish_seconds": 6665
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 1003,
+    "name": "Laboy, Tiffany",
+    "finish_time": "01:51:10",
+    "finish_seconds": 6670
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 1005,
+    "name": "Izykowski, Marissa",
+    "finish_time": "01:51:15",
+    "finish_seconds": 6675
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 1007,
+    "name": "Winkler, Taylor Ann",
+    "finish_time": "01:51:17",
+    "finish_seconds": 6677
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 1009,
+    "name": "Jeckel, Mia",
+    "finish_time": "01:51:18",
+    "finish_seconds": 6678
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 1011,
+    "name": "Hunter, Abigail",
+    "finish_time": "01:51:43",
+    "finish_seconds": 6703
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 1013,
+    "name": "Breker, Anika",
+    "finish_time": "01:51:48",
+    "finish_seconds": 6708
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 1015,
+    "name": "Blitz, Julia",
+    "finish_time": "01:51:57",
+    "finish_seconds": 6717
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 1017,
+    "name": "Garzon, Cindy",
+    "finish_time": "01:52:12",
+    "finish_seconds": 6732
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 1019,
+    "name": "Salinger, Keri",
+    "finish_time": "01:52:23",
+    "finish_seconds": 6743
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 1021,
+    "name": "Pena, Erika",
+    "finish_time": "01:52:34",
+    "finish_seconds": 6754
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 1023,
+    "name": "Schaufus, Candace",
+    "finish_time": "01:52:45",
+    "finish_seconds": 6765
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 1025,
+    "name": "Roese, Katie",
+    "finish_time": "01:52:56",
+    "finish_seconds": 6776
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 1027,
+    "name": "Cabrera, Mitchelly",
+    "finish_time": "01:53:16",
+    "finish_seconds": 6796
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 1029,
+    "name": "Liquigan, Nathalie",
+    "finish_time": "01:53:24",
+    "finish_seconds": 6804
+  },
+  {
+    "venue": "2025 Boston",
+    "gender": "W",
+    "rank": 1031,
+    "name": "Pfreundschuh, Erin",
+    "finish_time": "01:53:34",
+    "finish_seconds": 6814
+  }
+]

@@ -1,0 +1,2962 @@
+[
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 1,
+    "name": "Beugel, Rik",
+    "finish_time": "00:58:47",
+    "finish_seconds": 3527
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 3,
+    "name": "Hong, Beomseok",
+    "finish_time": "00:59:30",
+    "finish_seconds": 3570
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 5,
+    "name": "\u82cf, \u7430",
+    "finish_time": "01:01:11",
+    "finish_seconds": 3671
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 7,
+    "name": "Han, Daehyun",
+    "finish_time": "01:02:20",
+    "finish_seconds": 3740
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 9,
+    "name": "Jeon, Junhyeon",
+    "finish_time": "01:02:49",
+    "finish_seconds": 3769
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 11,
+    "name": "\u9646, \u9e4f",
+    "finish_time": "01:04:09",
+    "finish_seconds": 3849
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 13,
+    "name": "\u674e, \u5609\u8c6a",
+    "finish_time": "01:05:13",
+    "finish_seconds": 3913
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 15,
+    "name": "\ubc15, \uc0c1\uc6b0",
+    "finish_time": "01:05:44",
+    "finish_seconds": 3944
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 17,
+    "name": "Chacon, Louis",
+    "finish_time": "01:06:24",
+    "finish_seconds": 3984
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 19,
+    "name": "Kosasih, Sinthu",
+    "finish_time": "01:07:17",
+    "finish_seconds": 4037
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 21,
+    "name": "\ubc15, \uc885\ud638",
+    "finish_time": "01:07:56",
+    "finish_seconds": 4076
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 23,
+    "name": "Saggus, Tommy",
+    "finish_time": "01:08:32",
+    "finish_seconds": 4112
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 25,
+    "name": "Soon, Edward",
+    "finish_time": "01:08:41",
+    "finish_seconds": 4121
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 27,
+    "name": "\u9a6c, \u73c2",
+    "finish_time": "01:08:45",
+    "finish_seconds": 4125
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 29,
+    "name": "Roslan, Alim",
+    "finish_time": "01:08:48",
+    "finish_seconds": 4128
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 31,
+    "name": "Ko, Hangil",
+    "finish_time": "01:09:05",
+    "finish_seconds": 4145
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 33,
+    "name": "Bibb, Barnaby",
+    "finish_time": "01:10:22",
+    "finish_seconds": 4222
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 35,
+    "name": "Pak, Sangwook",
+    "finish_time": "01:11:10",
+    "finish_seconds": 4270
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 37,
+    "name": "\u5d14, \u80dc\u6770",
+    "finish_time": "01:11:44",
+    "finish_seconds": 4304
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 39,
+    "name": "\u9102, \u6cfd\u7fd4",
+    "finish_time": "01:12:16",
+    "finish_seconds": 4336
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 41,
+    "name": "Brownie, Will",
+    "finish_time": "01:12:31",
+    "finish_seconds": 4351
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 43,
+    "name": "Lai, Jeffrey",
+    "finish_time": "01:12:46",
+    "finish_seconds": 4366
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 45,
+    "name": "Akbary, Seena",
+    "finish_time": "01:12:58",
+    "finish_seconds": 4378
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 47,
+    "name": "Lim, Lewis",
+    "finish_time": "01:13:23",
+    "finish_seconds": 4403
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 49,
+    "name": "\u9648, \u6cfd\u6960",
+    "finish_time": "01:13:37",
+    "finish_seconds": 4417
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 51,
+    "name": "\u8d3e, \u535a\u7693",
+    "finish_time": "01:13:44",
+    "finish_seconds": 4424
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 53,
+    "name": "Baldin, Aleksandr",
+    "finish_time": "01:13:48",
+    "finish_seconds": 4428
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 55,
+    "name": "\u67e5, \u6f47\u6ea2",
+    "finish_time": "01:14:16",
+    "finish_seconds": 4456
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 57,
+    "name": "Cheung, Ian",
+    "finish_time": "01:14:40",
+    "finish_seconds": 4480
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 59,
+    "name": "Batmunkh, Munkhbileg",
+    "finish_time": "01:14:46",
+    "finish_seconds": 4486
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 61,
+    "name": "\u6731, \u7acb\u6636",
+    "finish_time": "01:15:06",
+    "finish_seconds": 4506
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 63,
+    "name": "Chan, Cj",
+    "finish_time": "01:15:18",
+    "finish_seconds": 4518
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 65,
+    "name": "\u5468, \u7eaa\u5143",
+    "finish_time": "01:15:35",
+    "finish_seconds": 4535
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 67,
+    "name": "Wangtal, Chanon",
+    "finish_time": "01:15:37",
+    "finish_seconds": 4537
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 69,
+    "name": "Chan, Chun Hei",
+    "finish_time": "01:15:43",
+    "finish_seconds": 4543
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 71,
+    "name": "\u5f20, \u5b8b\u5efa",
+    "finish_time": "01:15:54",
+    "finish_seconds": 4554
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 73,
+    "name": "Wong, Pak Kin",
+    "finish_time": "01:16:06",
+    "finish_seconds": 4566
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 75,
+    "name": "Park, Je Ryul",
+    "finish_time": "01:16:35",
+    "finish_seconds": 4595
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 77,
+    "name": "Koh, Duncan",
+    "finish_time": "01:16:43",
+    "finish_seconds": 4603
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 79,
+    "name": "\u9648, \u6653\u5b87",
+    "finish_time": "01:16:47",
+    "finish_seconds": 4607
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 81,
+    "name": "\u9ea6, \u575a",
+    "finish_time": "01:16:54",
+    "finish_seconds": 4614
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 83,
+    "name": "Derda, Daniel",
+    "finish_time": "01:17:02",
+    "finish_seconds": 4622
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 85,
+    "name": "Chung, Man Chun",
+    "finish_time": "01:17:11",
+    "finish_seconds": 4631
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 87,
+    "name": "\u694a, \u4fdd\u7f85",
+    "finish_time": "01:17:32",
+    "finish_seconds": 4652
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 89,
+    "name": "Cheung, Kinlong",
+    "finish_time": "01:17:45",
+    "finish_seconds": 4665
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 91,
+    "name": "Titomir, Andrei",
+    "finish_time": "01:18:04",
+    "finish_seconds": 4684
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 93,
+    "name": "Kim, Seonggyul",
+    "finish_time": "01:18:31",
+    "finish_seconds": 4711
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 95,
+    "name": "Engelhardt, Felix",
+    "finish_time": "01:18:37",
+    "finish_seconds": 4717
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 97,
+    "name": "Maxwell, Pierce",
+    "finish_time": "01:18:39",
+    "finish_seconds": 4719
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 99,
+    "name": "\u5f20, \u5929\u6dfb",
+    "finish_time": "01:18:53",
+    "finish_seconds": 4733
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 101,
+    "name": "Kuhn, Peter",
+    "finish_time": "01:19:23",
+    "finish_seconds": 4763
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 103,
+    "name": "\u9b4f, \u65ed",
+    "finish_time": "01:19:34",
+    "finish_seconds": 4774
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 105,
+    "name": "\u502a, \u5929\u65f8",
+    "finish_time": "01:19:48",
+    "finish_seconds": 4788
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 107,
+    "name": "\u5b59, \u5cb1\u9716",
+    "finish_time": "01:20:08",
+    "finish_seconds": 4808
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 109,
+    "name": "\u6bb7, \u9534",
+    "finish_time": "01:20:24",
+    "finish_seconds": 4824
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 111,
+    "name": "Lock, Greg",
+    "finish_time": "01:20:26",
+    "finish_seconds": 4826
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 113,
+    "name": "\u4e54, \u6d2a\u6d9b",
+    "finish_time": "01:20:32",
+    "finish_seconds": 4832
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 115,
+    "name": "Chan, Tak Fai",
+    "finish_time": "01:20:44",
+    "finish_seconds": 4844
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 117,
+    "name": "\u51af, \u6cbb\u6587",
+    "finish_time": "01:20:59",
+    "finish_seconds": 4859
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 119,
+    "name": "\u6731, \u6587\u660a",
+    "finish_time": "01:21:07",
+    "finish_seconds": 4867
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 121,
+    "name": "\u8d75, \u5d07\u5eb7",
+    "finish_time": "01:21:11",
+    "finish_seconds": 4871
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 123,
+    "name": "Lam, Ka Wai",
+    "finish_time": "01:21:16",
+    "finish_seconds": 4876
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 125,
+    "name": "\u6731, \u8096\u7acb",
+    "finish_time": "01:21:38",
+    "finish_seconds": 4898
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 127,
+    "name": "\u5d14, \u51ef",
+    "finish_time": "01:21:47",
+    "finish_seconds": 4907
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 129,
+    "name": "Varley, Aaron",
+    "finish_time": "01:22:00",
+    "finish_seconds": 4920
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 131,
+    "name": "\u6bd5, \u8d8a\u8283",
+    "finish_time": "01:22:04",
+    "finish_seconds": 4924
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 133,
+    "name": "\u9f50, \u9e23",
+    "finish_time": "01:22:11",
+    "finish_seconds": 4931
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 135,
+    "name": "Thai, Jimmy",
+    "finish_time": "01:22:15",
+    "finish_seconds": 4935
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 137,
+    "name": "Lim, Brandon",
+    "finish_time": "01:22:19",
+    "finish_seconds": 4939
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 139,
+    "name": "Chan, Cliff",
+    "finish_time": "01:22:30",
+    "finish_seconds": 4950
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 141,
+    "name": "\u80e1, \u6653\u5149",
+    "finish_time": "01:22:39",
+    "finish_seconds": 4959
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 143,
+    "name": "Kanchanapan, Matee",
+    "finish_time": "01:22:59",
+    "finish_seconds": 4979
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 145,
+    "name": "\u77eb, \u589e\u989c",
+    "finish_time": "01:23:06",
+    "finish_seconds": 4986
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 147,
+    "name": "Verstraete, Pieter",
+    "finish_time": "01:23:10",
+    "finish_seconds": 4990
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 149,
+    "name": "\u83ab, \u552f\u794e",
+    "finish_time": "01:23:13",
+    "finish_seconds": 4993
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 151,
+    "name": "Tan, Willy",
+    "finish_time": "01:23:18",
+    "finish_seconds": 4998
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 153,
+    "name": "Lam, Chun Hong",
+    "finish_time": "01:23:26",
+    "finish_seconds": 5006
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 155,
+    "name": "\u675c, \u5b9d\u9510",
+    "finish_time": "01:23:30",
+    "finish_seconds": 5010
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 157,
+    "name": "\u4e8e, \u4f69\u77f3",
+    "finish_time": "01:23:43",
+    "finish_seconds": 5023
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 159,
+    "name": "\u6881, \u535a",
+    "finish_time": "01:23:50",
+    "finish_seconds": 5030
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 161,
+    "name": "Cavilla Domenech, Javier",
+    "finish_time": "01:23:54",
+    "finish_seconds": 5034
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 163,
+    "name": "\u4e07, \u5b50\u8c6a",
+    "finish_time": "01:24:06",
+    "finish_seconds": 5046
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 165,
+    "name": "Lee, Alan Yee Tuen",
+    "finish_time": "01:24:07",
+    "finish_seconds": 5047
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 167,
+    "name": "Yu, Christopher",
+    "finish_time": "01:24:18",
+    "finish_seconds": 5058
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 169,
+    "name": "\u5434, \u535a",
+    "finish_time": "01:24:36",
+    "finish_seconds": 5076
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 171,
+    "name": "Hughes, Glyn",
+    "finish_time": "01:24:39",
+    "finish_seconds": 5079
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 173,
+    "name": "Trejo Romero, Amado",
+    "finish_time": "01:24:47",
+    "finish_seconds": 5087
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 175,
+    "name": "\u5510\u5929\u6765, \u5929\u6765",
+    "finish_time": "01:24:49",
+    "finish_seconds": 5089
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 177,
+    "name": "\u8c2d, \u7fd4\u4e91",
+    "finish_time": "01:25:17",
+    "finish_seconds": 5117
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 179,
+    "name": "Tan, Eugene Jim Ray",
+    "finish_time": "01:25:21",
+    "finish_seconds": 5121
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 181,
+    "name": "Ye, Tonny",
+    "finish_time": "01:25:31",
+    "finish_seconds": 5131
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 183,
+    "name": "\u9ec4, \u65b0\u5c27",
+    "finish_time": "01:25:35",
+    "finish_seconds": 5135
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 185,
+    "name": "Smith, Kameron",
+    "finish_time": "01:25:49",
+    "finish_seconds": 5149
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 187,
+    "name": "Williams, Chase",
+    "finish_time": "01:26:00",
+    "finish_seconds": 5160
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 189,
+    "name": "Kadere, Tafadzwa",
+    "finish_time": "01:26:05",
+    "finish_seconds": 5165
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 191,
+    "name": "\u5f20, \u7965\u7425",
+    "finish_time": "01:26:10",
+    "finish_seconds": 5170
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 193,
+    "name": "Molina, Javier",
+    "finish_time": "01:26:14",
+    "finish_seconds": 5174
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 195,
+    "name": "Goh, Pick Tong",
+    "finish_time": "01:26:22",
+    "finish_seconds": 5182
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 197,
+    "name": "Lai, Chin Hou",
+    "finish_time": "01:26:36",
+    "finish_seconds": 5196
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 199,
+    "name": "\u91d1, \u6e5b\u7693",
+    "finish_time": "01:26:46",
+    "finish_seconds": 5206
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 201,
+    "name": "\u9ec3, \u9298\u9686",
+    "finish_time": "01:26:49",
+    "finish_seconds": 5209
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 203,
+    "name": "\u5510, \u8f76\u8f69",
+    "finish_time": "01:26:55",
+    "finish_seconds": 5215
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 205,
+    "name": "Stani, Tomasz",
+    "finish_time": "01:27:00",
+    "finish_seconds": 5220
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 207,
+    "name": "Lee, Minkyu",
+    "finish_time": "01:27:16",
+    "finish_seconds": 5236
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 209,
+    "name": "Wang, Jie",
+    "finish_time": "01:27:22",
+    "finish_seconds": 5242
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 211,
+    "name": "\u8d75, \u4f69\u5ddd",
+    "finish_time": "01:27:43",
+    "finish_seconds": 5263
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 213,
+    "name": "\u5f90, \u535a",
+    "finish_time": "01:28:24",
+    "finish_seconds": 5304
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 215,
+    "name": "\u9ad8, \u6d69\u7136",
+    "finish_time": "01:28:29",
+    "finish_seconds": 5309
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 217,
+    "name": "\u987e, \u6587\u660c",
+    "finish_time": "01:28:35",
+    "finish_seconds": 5315
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 219,
+    "name": "\u8d75, \u794e\u660e",
+    "finish_time": "01:28:45",
+    "finish_seconds": 5325
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 221,
+    "name": "\u5218, \u6cfd\u8f69",
+    "finish_time": "01:28:56",
+    "finish_seconds": 5336
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 223,
+    "name": "Cannon, Fintan",
+    "finish_time": "01:29:11",
+    "finish_seconds": 5351
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 225,
+    "name": "\u51af, \u741b",
+    "finish_time": "01:29:24",
+    "finish_seconds": 5364
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 227,
+    "name": "\u725f, \u5bb5",
+    "finish_time": "01:29:26",
+    "finish_seconds": 5366
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 229,
+    "name": "\u6c5f, \u4e00\u6ef4",
+    "finish_time": "01:29:30",
+    "finish_seconds": 5370
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 231,
+    "name": "Meltzer, Joseph",
+    "finish_time": "01:29:34",
+    "finish_seconds": 5374
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 233,
+    "name": "\u5434, \u7ecf\u7eac",
+    "finish_time": "01:29:41",
+    "finish_seconds": 5381
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 235,
+    "name": "Foo, Derrick",
+    "finish_time": "01:29:51",
+    "finish_seconds": 5391
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 237,
+    "name": "\u738b, \u4e54\u7136",
+    "finish_time": "01:29:58",
+    "finish_seconds": 5398
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 239,
+    "name": "\u5ed6, \u51e1\u6dde",
+    "finish_time": "01:29:59",
+    "finish_seconds": 5399
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 241,
+    "name": "\u738b, \u5409\u6ee1",
+    "finish_time": "01:30:15",
+    "finish_seconds": 5415
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 243,
+    "name": "\u5f20, \u56fd\u73af",
+    "finish_time": "01:30:22",
+    "finish_seconds": 5422
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 245,
+    "name": "Toomata, Poese",
+    "finish_time": "01:30:34",
+    "finish_seconds": 5434
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 247,
+    "name": "\u5f20, \u653f\u8c6a",
+    "finish_time": "01:30:41",
+    "finish_seconds": 5441
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 249,
+    "name": "\u738b, \u5609\u680b",
+    "finish_time": "01:30:52",
+    "finish_seconds": 5452
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 251,
+    "name": "\u738b, \u707c\u5bd2",
+    "finish_time": "01:31:09",
+    "finish_seconds": 5469
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 253,
+    "name": "\u7fdf, \u9a9e",
+    "finish_time": "01:31:17",
+    "finish_seconds": 5477
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 255,
+    "name": "\u9646, \u51ef",
+    "finish_time": "01:31:31",
+    "finish_seconds": 5491
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 257,
+    "name": "\u8d75, \u56fd\u680b",
+    "finish_time": "01:31:35",
+    "finish_seconds": 5495
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 259,
+    "name": "Finnigan, Jonathan",
+    "finish_time": "01:31:46",
+    "finish_seconds": 5506
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 261,
+    "name": "\u53f2, \u817e\u98de",
+    "finish_time": "01:31:59",
+    "finish_seconds": 5519
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 263,
+    "name": "\u738b, \u5fb7\u9707",
+    "finish_time": "01:32:15",
+    "finish_seconds": 5535
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 265,
+    "name": "\u718a, \u745e",
+    "finish_time": "01:32:18",
+    "finish_seconds": 5538
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 267,
+    "name": "Cruchet, Frederic",
+    "finish_time": "01:32:33",
+    "finish_seconds": 5553
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 269,
+    "name": "Teo, Ser Luck",
+    "finish_time": "01:32:35",
+    "finish_seconds": 5555
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 271,
+    "name": "\u738b, \u78ca",
+    "finish_time": "01:32:44",
+    "finish_seconds": 5564
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 273,
+    "name": "Abegglen, David",
+    "finish_time": "01:32:50",
+    "finish_seconds": 5570
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 275,
+    "name": "\u90a2, \u6c38\u6d9b",
+    "finish_time": "01:32:56",
+    "finish_seconds": 5576
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 277,
+    "name": "\u65b9, \u7acb",
+    "finish_time": "01:33:07",
+    "finish_seconds": 5587
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 279,
+    "name": "\u674e, \u6d0b",
+    "finish_time": "01:33:19",
+    "finish_seconds": 5599
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 281,
+    "name": "\u97e9, \u777f",
+    "finish_time": "01:33:25",
+    "finish_seconds": 5605
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 283,
+    "name": "\u6c88, \u5a01",
+    "finish_time": "01:33:27",
+    "finish_seconds": 5607
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 285,
+    "name": "Tay, Max",
+    "finish_time": "01:33:29",
+    "finish_seconds": 5609
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 287,
+    "name": "\u738b, \u80dc",
+    "finish_time": "01:33:33",
+    "finish_seconds": 5613
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 289,
+    "name": "\u5f20, \u5ef6\u796f",
+    "finish_time": "01:33:36",
+    "finish_seconds": 5616
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 291,
+    "name": "\u65b9, \u590f\u4e3a",
+    "finish_time": "01:33:42",
+    "finish_seconds": 5622
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 293,
+    "name": "\u6768, \u5c11\u534e",
+    "finish_time": "01:33:50",
+    "finish_seconds": 5630
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 295,
+    "name": "Harris, Martin",
+    "finish_time": "01:34:09",
+    "finish_seconds": 5649
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 297,
+    "name": "\u91d1, \u5723",
+    "finish_time": "01:34:22",
+    "finish_seconds": 5662
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 299,
+    "name": "Lim, Yong Sheng",
+    "finish_time": "01:34:40",
+    "finish_seconds": 5680
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 301,
+    "name": "\u80e1, \u4e0a\u7984",
+    "finish_time": "01:35:04",
+    "finish_seconds": 5704
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 303,
+    "name": "\u674e, \u601d\u5cf0",
+    "finish_time": "01:35:06",
+    "finish_seconds": 5706
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 305,
+    "name": "\u6768, \u71d5\u534e",
+    "finish_time": "01:35:15",
+    "finish_seconds": 5715
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 307,
+    "name": "Koh, Zac",
+    "finish_time": "01:35:20",
+    "finish_seconds": 5720
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 309,
+    "name": "Tay, Choon Beng",
+    "finish_time": "01:35:28",
+    "finish_seconds": 5728
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 311,
+    "name": "\u5f20, \u9a70",
+    "finish_time": "01:35:39",
+    "finish_seconds": 5739
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 313,
+    "name": "\u5f20, \u6dfb\u7ffc",
+    "finish_time": "01:35:58",
+    "finish_seconds": 5758
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 315,
+    "name": "\u5218, \u6d0b",
+    "finish_time": "01:36:04",
+    "finish_seconds": 5764
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 317,
+    "name": "Seet, Alvin",
+    "finish_time": "01:36:18",
+    "finish_seconds": 5778
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 319,
+    "name": "Heinrich Schoeman, Nicholas",
+    "finish_time": "01:36:42",
+    "finish_seconds": 5802
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 321,
+    "name": "Hwang, Kyunghyun",
+    "finish_time": "01:36:56",
+    "finish_seconds": 5816
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 323,
+    "name": "\u5f20, \u5168\u76ca",
+    "finish_time": "01:37:03",
+    "finish_seconds": 5823
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 325,
+    "name": "\u8bb8, \u709c",
+    "finish_time": "01:37:16",
+    "finish_seconds": 5836
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 327,
+    "name": "\u9648, \u5e86\u65ed",
+    "finish_time": "01:37:21",
+    "finish_seconds": 5841
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 329,
+    "name": "\u8fde, \u632f\u4f1f",
+    "finish_time": "01:37:31",
+    "finish_seconds": 5851
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 331,
+    "name": "\u738b, \u5f81",
+    "finish_time": "01:37:39",
+    "finish_seconds": 5859
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 333,
+    "name": "\u53f2, \u667a\u535a",
+    "finish_time": "01:37:47",
+    "finish_seconds": 5867
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 335,
+    "name": "\u674e, \u5b66\u8c26",
+    "finish_time": "01:37:48",
+    "finish_seconds": 5868
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 337,
+    "name": "Yim, Jungsik",
+    "finish_time": "01:37:53",
+    "finish_seconds": 5873
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 339,
+    "name": "Lim, Mathias",
+    "finish_time": "01:37:55",
+    "finish_seconds": 5875
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 341,
+    "name": "\u5218, \u6d41",
+    "finish_time": "01:38:01",
+    "finish_seconds": 5881
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 343,
+    "name": "Mun, Juho",
+    "finish_time": "01:38:15",
+    "finish_seconds": 5895
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 345,
+    "name": "Mendoza, Harvey Clyd",
+    "finish_time": "01:38:24",
+    "finish_seconds": 5904
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 347,
+    "name": "Wai, Che Ho Adrian",
+    "finish_time": "01:38:44",
+    "finish_seconds": 5924
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 349,
+    "name": "Corpuz, Cyrus",
+    "finish_time": "01:38:54",
+    "finish_seconds": 5934
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 351,
+    "name": "\u8d3e, \u5146\u5353",
+    "finish_time": "01:39:00",
+    "finish_seconds": 5940
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 353,
+    "name": "\u97e9, \u7693",
+    "finish_time": "01:39:03",
+    "finish_seconds": 5943
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 355,
+    "name": "\u767d, \u798f\u7530",
+    "finish_time": "01:39:18",
+    "finish_seconds": 5958
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 357,
+    "name": "\u4ed8, \u5353\u9633",
+    "finish_time": "01:39:26",
+    "finish_seconds": 5966
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 359,
+    "name": "\u66f9, \u65e5",
+    "finish_time": "01:39:32",
+    "finish_seconds": 5972
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 361,
+    "name": "\u738b, \u521a",
+    "finish_time": "01:39:37",
+    "finish_seconds": 5977
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 363,
+    "name": "\u91d1, \u5723\u51ef",
+    "finish_time": "01:39:51",
+    "finish_seconds": 5991
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 365,
+    "name": "\u7a0b, \u6893\u8c6a",
+    "finish_time": "01:39:59",
+    "finish_seconds": 5999
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 367,
+    "name": "\u5f20, \u9e3f\u5b87",
+    "finish_time": "01:40:01",
+    "finish_seconds": 6001
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 369,
+    "name": "\u4f55, \u6797\u4fca",
+    "finish_time": "01:40:05",
+    "finish_seconds": 6005
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 371,
+    "name": "Yang, Zijian",
+    "finish_time": "01:40:11",
+    "finish_seconds": 6011
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 373,
+    "name": "\u77f3, \u7855",
+    "finish_time": "01:40:23",
+    "finish_seconds": 6023
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 375,
+    "name": "\u51af, \u4ef0\u6210",
+    "finish_time": "01:40:30",
+    "finish_seconds": 6030
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 377,
+    "name": "Vaitsiakhouski, Siarhei",
+    "finish_time": "01:40:40",
+    "finish_seconds": 6040
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 379,
+    "name": "\u85cf, \u53ef",
+    "finish_time": "01:40:45",
+    "finish_seconds": 6045
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 381,
+    "name": "\u6f58, \u65ed",
+    "finish_time": "01:41:11",
+    "finish_seconds": 6071
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 383,
+    "name": "Ashok Kumar, Bala",
+    "finish_time": "01:41:23",
+    "finish_seconds": 6083
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 385,
+    "name": "\u5218, \u519c\u5f3a",
+    "finish_time": "01:41:29",
+    "finish_seconds": 6089
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 387,
+    "name": "\u5218, \u7b71\u5f64",
+    "finish_time": "01:41:33",
+    "finish_seconds": 6093
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 389,
+    "name": "\u725b, \u6c38\u667a",
+    "finish_time": "01:41:48",
+    "finish_seconds": 6108
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 391,
+    "name": "\u949f, \u56fd\u76db",
+    "finish_time": "01:42:05",
+    "finish_seconds": 6125
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 393,
+    "name": "\u9f50, \u5b50\u8f69",
+    "finish_time": "01:42:11",
+    "finish_seconds": 6131
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 395,
+    "name": "Gvozdev, Evgenii",
+    "finish_time": "01:42:26",
+    "finish_seconds": 6146
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 397,
+    "name": "\u9676, \u5b66\u53bf",
+    "finish_time": "01:42:44",
+    "finish_seconds": 6164
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 399,
+    "name": "Poon, Paul",
+    "finish_time": "01:42:57",
+    "finish_seconds": 6177
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 401,
+    "name": "\u6768, \u745e",
+    "finish_time": "01:43:00",
+    "finish_seconds": 6180
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 403,
+    "name": "\u8521, \u81ea\u666f",
+    "finish_time": "01:43:02",
+    "finish_seconds": 6182
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 405,
+    "name": "Lin, Yen Yi",
+    "finish_time": "01:43:19",
+    "finish_seconds": 6199
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 407,
+    "name": "Huang, Yan-Jie",
+    "finish_time": "01:43:27",
+    "finish_seconds": 6207
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 409,
+    "name": "\u5f20, \u667a\u6d0b",
+    "finish_time": "01:43:32",
+    "finish_seconds": 6212
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 411,
+    "name": "\u5f20, \u5ca9",
+    "finish_time": "01:43:40",
+    "finish_seconds": 6220
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 413,
+    "name": "\u90ed, \u6a2a\u6ea2",
+    "finish_time": "01:43:43",
+    "finish_seconds": 6223
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 415,
+    "name": "\u6731, \u5b50\u8a00",
+    "finish_time": "01:43:58",
+    "finish_seconds": 6238
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 417,
+    "name": "Lo, Sung Yip Robin",
+    "finish_time": "01:44:05",
+    "finish_seconds": 6245
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 419,
+    "name": "Tam, Chun Man",
+    "finish_time": "01:44:25",
+    "finish_seconds": 6265
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 421,
+    "name": "\u738b, \u4e7e\u8d6b",
+    "finish_time": "01:44:34",
+    "finish_seconds": 6274
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 423,
+    "name": "Cheng, Edwin",
+    "finish_time": "01:44:57",
+    "finish_seconds": 6297
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 425,
+    "name": "\u7a0b, \u864e",
+    "finish_time": "01:45:10",
+    "finish_seconds": 6310
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 427,
+    "name": "\u53f2, \u4e9a\u9f99",
+    "finish_time": "01:45:16",
+    "finish_seconds": 6316
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 429,
+    "name": "\u7fdf, \u4e16\u5e38",
+    "finish_time": "01:45:32",
+    "finish_seconds": 6332
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 431,
+    "name": "\u738b, \u5b50\u51e1",
+    "finish_time": "01:45:52",
+    "finish_seconds": 6352
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 433,
+    "name": "\u5434, \u4f1f\u5e73",
+    "finish_time": "01:46:14",
+    "finish_seconds": 6374
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 435,
+    "name": "\u5f20, \u666f\u5174",
+    "finish_time": "01:46:24",
+    "finish_seconds": 6384
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 437,
+    "name": "Padilangga, Audi",
+    "finish_time": "01:46:26",
+    "finish_seconds": 6386
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 439,
+    "name": "\u9501, \u5927\u5143",
+    "finish_time": "01:46:43",
+    "finish_seconds": 6403
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 441,
+    "name": "\u4e01, \u94d6\u9f99",
+    "finish_time": "01:46:47",
+    "finish_seconds": 6407
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 443,
+    "name": "Yeo, Kim Hong",
+    "finish_time": "01:47:12",
+    "finish_seconds": 6432
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 445,
+    "name": "\u8bb8, \u5929\u4ed5",
+    "finish_time": "01:47:24",
+    "finish_seconds": 6444
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 447,
+    "name": "Li, Logan",
+    "finish_time": "01:47:29",
+    "finish_seconds": 6449
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 449,
+    "name": "\u738b, \u6d69\u54f2",
+    "finish_time": "01:47:44",
+    "finish_seconds": 6464
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 451,
+    "name": "\u4e4c, \u65e5\u5c3c",
+    "finish_time": "01:47:52",
+    "finish_seconds": 6472
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 453,
+    "name": "\u5f90, \u8d85\u51e1",
+    "finish_time": "01:48:05",
+    "finish_seconds": 6485
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 455,
+    "name": "\u5468, \u529b\u741b",
+    "finish_time": "01:48:46",
+    "finish_seconds": 6526
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 457,
+    "name": "\u738b, \u950b",
+    "finish_time": "01:48:51",
+    "finish_seconds": 6531
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 459,
+    "name": "\u4e07, \u6c38\u5f3a",
+    "finish_time": "01:48:59",
+    "finish_seconds": 6539
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 461,
+    "name": "Abbott, Tennessee",
+    "finish_time": "01:49:05",
+    "finish_seconds": 6545
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 463,
+    "name": "\u674e, \u5b50\u8c6a",
+    "finish_time": "01:49:20",
+    "finish_seconds": 6560
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 465,
+    "name": "\u8d75, \u5fa1\u4e1c",
+    "finish_time": "01:49:55",
+    "finish_seconds": 6595
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 467,
+    "name": "\u6ed1, \u9cb2",
+    "finish_time": "01:50:18",
+    "finish_seconds": 6618
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 469,
+    "name": "\u536b, \u5cf0",
+    "finish_time": "01:50:26",
+    "finish_seconds": 6626
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 471,
+    "name": "\u738b, \u822b\u671d",
+    "finish_time": "01:50:38",
+    "finish_seconds": 6638
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 473,
+    "name": "\u738b, \u806a",
+    "finish_time": "01:51:06",
+    "finish_seconds": 6666
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 475,
+    "name": "Abdul Rahman, Syamsul Amri Bin",
+    "finish_time": "01:51:13",
+    "finish_seconds": 6673
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 477,
+    "name": "\u725b, \u667a\u6e90",
+    "finish_time": "01:51:23",
+    "finish_seconds": 6683
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 479,
+    "name": "Kelly, John",
+    "finish_time": "01:52:11",
+    "finish_seconds": 6731
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 481,
+    "name": "Chalvon, Pierre",
+    "finish_time": "01:52:49",
+    "finish_seconds": 6769
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 483,
+    "name": "Kim, Kwanghyun",
+    "finish_time": "01:52:57",
+    "finish_seconds": 6777
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 485,
+    "name": "\u674e, \u5e38\u5251",
+    "finish_time": "01:53:14",
+    "finish_seconds": 6794
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "M",
+    "rank": 487,
+    "name": "Abad, Ronnie Jr",
+    "finish_time": "01:53:28",
+    "finish_seconds": 6808
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 1,
+    "name": "Yu, Minji",
+    "finish_time": "01:10:43",
+    "finish_seconds": 4243
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 3,
+    "name": "Deasy, Aine",
+    "finish_time": "01:12:19",
+    "finish_seconds": 4339
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 5,
+    "name": "\u8881, \u6c5f\u5bb9",
+    "finish_time": "01:12:43",
+    "finish_seconds": 4363
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 7,
+    "name": "\u9648, \u5bac",
+    "finish_time": "01:13:12",
+    "finish_seconds": 4392
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 9,
+    "name": "\u5468, \u5065",
+    "finish_time": "01:13:39",
+    "finish_seconds": 4419
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 11,
+    "name": "Ng, Michelle",
+    "finish_time": "01:14:49",
+    "finish_seconds": 4489
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 13,
+    "name": "Dramsdahl, Lillian",
+    "finish_time": "01:15:29",
+    "finish_seconds": 4529
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 15,
+    "name": "\u5510, \u96bd\u9633",
+    "finish_time": "01:16:15",
+    "finish_seconds": 4575
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 17,
+    "name": "\u9a6c, \u946b",
+    "finish_time": "01:17:10",
+    "finish_seconds": 4630
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 19,
+    "name": "\u6797, \u66fc",
+    "finish_time": "01:18:25",
+    "finish_seconds": 4705
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 21,
+    "name": "\u8881, \u9633\u9633",
+    "finish_time": "01:19:10",
+    "finish_seconds": 4750
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 23,
+    "name": "\u84dd, \u946b",
+    "finish_time": "01:19:25",
+    "finish_seconds": 4765
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 25,
+    "name": "Chan, Ho Ching",
+    "finish_time": "01:19:56",
+    "finish_seconds": 4796
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 27,
+    "name": "\u738b, \u96ef",
+    "finish_time": "01:19:59",
+    "finish_seconds": 4799
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 29,
+    "name": "Egan, Joanna",
+    "finish_time": "01:20:09",
+    "finish_seconds": 4809
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 31,
+    "name": "Alexandra, Chernova",
+    "finish_time": "01:20:33",
+    "finish_seconds": 4833
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 33,
+    "name": "\u90ed, \u73c2",
+    "finish_time": "01:20:46",
+    "finish_seconds": 4846
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 35,
+    "name": "\u738b, \u4e50\u9676",
+    "finish_time": "01:21:20",
+    "finish_seconds": 4880
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 37,
+    "name": "\u738b, \u94b0\u5a77",
+    "finish_time": "01:21:33",
+    "finish_seconds": 4893
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 39,
+    "name": "Tupjan, Jittapa",
+    "finish_time": "01:21:56",
+    "finish_seconds": 4916
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 41,
+    "name": "\u674e, \u96ea",
+    "finish_time": "01:21:59",
+    "finish_seconds": 4919
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 43,
+    "name": "Ngcebetsha, Qaqamba",
+    "finish_time": "01:21:59",
+    "finish_seconds": 4919
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 45,
+    "name": "\u674e, \u6b23\u6b23",
+    "finish_time": "01:22:04",
+    "finish_seconds": 4924
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 47,
+    "name": "\u516c, \u5b87\u822a",
+    "finish_time": "01:22:18",
+    "finish_seconds": 4938
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 49,
+    "name": "\uc815, \uc131\uc774",
+    "finish_time": "01:22:27",
+    "finish_seconds": 4947
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 51,
+    "name": "\u8096, \u6dcb\u723d",
+    "finish_time": "01:23:03",
+    "finish_seconds": 4983
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 53,
+    "name": "\u674e, \u6cfd\u8431",
+    "finish_time": "01:23:44",
+    "finish_seconds": 5024
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 55,
+    "name": "Dalmonego, Sasha",
+    "finish_time": "01:24:11",
+    "finish_seconds": 5051
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 57,
+    "name": "\u987e, \u84d3\u8389",
+    "finish_time": "01:24:43",
+    "finish_seconds": 5083
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 59,
+    "name": "\u675c, \u96e8\u8587",
+    "finish_time": "01:25:01",
+    "finish_seconds": 5101
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 61,
+    "name": "\u674e, \u96e8\u77b3",
+    "finish_time": "01:25:45",
+    "finish_seconds": 5145
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 63,
+    "name": "Pound, Stephanie Huai Zi",
+    "finish_time": "01:25:58",
+    "finish_seconds": 5158
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 65,
+    "name": "\u987e, \u8283",
+    "finish_time": "01:26:10",
+    "finish_seconds": 5170
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 67,
+    "name": "\u9ec4, \u6f88",
+    "finish_time": "01:26:40",
+    "finish_seconds": 5200
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 69,
+    "name": "\u9648, \u9526\u5bf0",
+    "finish_time": "01:27:17",
+    "finish_seconds": 5237
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 71,
+    "name": "\u5434, \u4fca",
+    "finish_time": "01:27:24",
+    "finish_seconds": 5244
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 73,
+    "name": "Chow, Chung Ting",
+    "finish_time": "01:27:37",
+    "finish_seconds": 5257
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 75,
+    "name": "\u5f90, \u6600",
+    "finish_time": "01:27:39",
+    "finish_seconds": 5259
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 77,
+    "name": "\u738b, \u5e73",
+    "finish_time": "01:28:12",
+    "finish_seconds": 5292
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 79,
+    "name": "\u7fdf, \u4f73\u7fbd",
+    "finish_time": "01:28:29",
+    "finish_seconds": 5309
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 81,
+    "name": "\u5f20, \u6f8e",
+    "finish_time": "01:28:30",
+    "finish_seconds": 5310
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 83,
+    "name": "Visutjindaporn, Ratchamon",
+    "finish_time": "01:29:08",
+    "finish_seconds": 5348
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 85,
+    "name": "\u90dc, \u6d01",
+    "finish_time": "01:29:15",
+    "finish_seconds": 5355
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 87,
+    "name": "Gourley, Cheryl",
+    "finish_time": "01:29:20",
+    "finish_seconds": 5360
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 89,
+    "name": "\u65bd, \u6167\u654f",
+    "finish_time": "01:29:34",
+    "finish_seconds": 5374
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 91,
+    "name": "\u5409, \u777f\u529b",
+    "finish_time": "01:29:48",
+    "finish_seconds": 5388
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 93,
+    "name": "\u666f, \u59d7\u59d7",
+    "finish_time": "01:29:58",
+    "finish_seconds": 5398
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 95,
+    "name": "\u738b, \u4f9d\u535a",
+    "finish_time": "01:30:31",
+    "finish_seconds": 5431
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 97,
+    "name": "\u859b, \u96e8\u6674",
+    "finish_time": "01:30:45",
+    "finish_seconds": 5445
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 99,
+    "name": "Wang, Sunny",
+    "finish_time": "01:31:03",
+    "finish_seconds": 5463
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 101,
+    "name": "\u8881, \u6167\u4e2d",
+    "finish_time": "01:31:29",
+    "finish_seconds": 5489
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 103,
+    "name": "Chi, Xiejie",
+    "finish_time": "01:31:43",
+    "finish_seconds": 5503
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 105,
+    "name": "\u8d3e, \u7e41",
+    "finish_time": "01:32:16",
+    "finish_seconds": 5536
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 107,
+    "name": "\u5218, \u6653\u9e64",
+    "finish_time": "01:32:29",
+    "finish_seconds": 5549
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 109,
+    "name": "Lin, Hoi Tung",
+    "finish_time": "01:33:02",
+    "finish_seconds": 5582
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 111,
+    "name": "Leong, Connie",
+    "finish_time": "01:33:17",
+    "finish_seconds": 5597
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 113,
+    "name": "Koesliono, Corina",
+    "finish_time": "01:33:27",
+    "finish_seconds": 5607
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 115,
+    "name": "\u675c, \u9879\u747e",
+    "finish_time": "01:33:52",
+    "finish_seconds": 5632
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 117,
+    "name": "\u5f20, \u5efa\u84c9",
+    "finish_time": "01:33:57",
+    "finish_seconds": 5637
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 119,
+    "name": "Kim, Pureum",
+    "finish_time": "01:34:08",
+    "finish_seconds": 5648
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 121,
+    "name": "\u4e07, \u96c5\u8339",
+    "finish_time": "01:34:21",
+    "finish_seconds": 5661
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 123,
+    "name": "Ng, Ruby",
+    "finish_time": "01:34:23",
+    "finish_seconds": 5663
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 125,
+    "name": "\u7f57, \u9896",
+    "finish_time": "01:34:43",
+    "finish_seconds": 5683
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 127,
+    "name": "\u9646, \u654f",
+    "finish_time": "01:34:53",
+    "finish_seconds": 5693
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 129,
+    "name": "\u6f58, \u6653\u971e",
+    "finish_time": "01:35:06",
+    "finish_seconds": 5706
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 131,
+    "name": "\u6d66, \u9aa5",
+    "finish_time": "01:35:16",
+    "finish_seconds": 5716
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 133,
+    "name": "\u5218, \u8fd0",
+    "finish_time": "01:35:34",
+    "finish_seconds": 5734
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 135,
+    "name": "\u6768, \u54f2",
+    "finish_time": "01:35:40",
+    "finish_seconds": 5740
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 137,
+    "name": "Chee, Sandy",
+    "finish_time": "01:36:07",
+    "finish_seconds": 5767
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 139,
+    "name": "\u7530, \u6842\u971e",
+    "finish_time": "01:36:26",
+    "finish_seconds": 5786
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 141,
+    "name": "\u6797, \u4e3d",
+    "finish_time": "01:36:29",
+    "finish_seconds": 5789
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 143,
+    "name": "\u859b, \u971c",
+    "finish_time": "01:36:40",
+    "finish_seconds": 5800
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 145,
+    "name": "Lindeque, Melandi",
+    "finish_time": "01:36:46",
+    "finish_seconds": 5806
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 147,
+    "name": "\u6f58, \u96e8\u99a8",
+    "finish_time": "01:37:07",
+    "finish_seconds": 5827
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 149,
+    "name": "Zhang, Margaret",
+    "finish_time": "01:37:39",
+    "finish_seconds": 5859
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 151,
+    "name": "\u97e9, \u71a0",
+    "finish_time": "01:37:51",
+    "finish_seconds": 5871
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 153,
+    "name": "\u674e, \u4f73\u747e",
+    "finish_time": "01:38:23",
+    "finish_seconds": 5903
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 155,
+    "name": "\u5b54, \u96c5\u946b",
+    "finish_time": "01:38:28",
+    "finish_seconds": 5908
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 157,
+    "name": "Yip, Wai Yan",
+    "finish_time": "01:38:31",
+    "finish_seconds": 5911
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 159,
+    "name": "\u5e2d, \u6167\u7433",
+    "finish_time": "01:38:42",
+    "finish_seconds": 5922
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 161,
+    "name": "\u5468, \u9648\u9e9f",
+    "finish_time": "01:39:22",
+    "finish_seconds": 5962
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 163,
+    "name": "\u5468, \u88d5\u6636",
+    "finish_time": "01:39:42",
+    "finish_seconds": 5982
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 165,
+    "name": "\u8c2d, \u9752\u73a5",
+    "finish_time": "01:40:23",
+    "finish_seconds": 6023
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 167,
+    "name": "\u8d75, \u7490",
+    "finish_time": "01:41:07",
+    "finish_seconds": 6067
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 169,
+    "name": "\u8d75, \u56fd\u745e",
+    "finish_time": "01:41:20",
+    "finish_seconds": 6080
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 171,
+    "name": "\u738b, \u73cf",
+    "finish_time": "01:41:37",
+    "finish_seconds": 6097
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 173,
+    "name": "Yu, Mengnan",
+    "finish_time": "01:42:13",
+    "finish_seconds": 6133
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 175,
+    "name": "\u4e07, \u4f73\u4eea",
+    "finish_time": "01:42:57",
+    "finish_seconds": 6177
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 177,
+    "name": "\u6728, \u4e3d\u4e3d",
+    "finish_time": "01:44:00",
+    "finish_seconds": 6240
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 179,
+    "name": "Zhang, Honglin",
+    "finish_time": "01:44:06",
+    "finish_seconds": 6246
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 181,
+    "name": "\u91d1, \u854a",
+    "finish_time": "01:44:20",
+    "finish_seconds": 6260
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 183,
+    "name": "Abdat, Nisyah",
+    "finish_time": "01:44:40",
+    "finish_seconds": 6280
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 185,
+    "name": "\u5355, \u7fbd\u5a77",
+    "finish_time": "01:44:56",
+    "finish_seconds": 6296
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 187,
+    "name": "\u4efb, \u82b3\u6b23",
+    "finish_time": "01:45:00",
+    "finish_seconds": 6300
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 189,
+    "name": "\u9648, \u6653\u827a",
+    "finish_time": "01:45:24",
+    "finish_seconds": 6324
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 191,
+    "name": "\u674e, \u6811\u90c1",
+    "finish_time": "01:45:32",
+    "finish_seconds": 6332
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 193,
+    "name": "Thongtaluang, Thitiporn",
+    "finish_time": "01:45:35",
+    "finish_seconds": 6335
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 195,
+    "name": "Dean, Kelly",
+    "finish_time": "01:45:54",
+    "finish_seconds": 6354
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 197,
+    "name": "\u8d21, \u9756\u8389",
+    "finish_time": "01:45:59",
+    "finish_seconds": 6359
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 199,
+    "name": "Wu, Qike",
+    "finish_time": "01:46:24",
+    "finish_seconds": 6384
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 201,
+    "name": "\u5218, \u7d2b\u51fd",
+    "finish_time": "01:47:09",
+    "finish_seconds": 6429
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 203,
+    "name": "\u674e, \u9896",
+    "finish_time": "01:47:21",
+    "finish_seconds": 6441
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 205,
+    "name": "\u6768, \u94b0\u6d01",
+    "finish_time": "01:48:03",
+    "finish_seconds": 6483
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 207,
+    "name": "Gerlach, Wannisa Kongtong",
+    "finish_time": "01:48:08",
+    "finish_seconds": 6488
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 209,
+    "name": "Liew, Wei Yong",
+    "finish_time": "01:48:29",
+    "finish_seconds": 6509
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 211,
+    "name": "\u5f20, \u7f8e\u60e0",
+    "finish_time": "01:48:53",
+    "finish_seconds": 6533
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 213,
+    "name": "\u7ae0, \u7693\u5bb9",
+    "finish_time": "01:48:59",
+    "finish_seconds": 6539
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 215,
+    "name": "\u674e, \u68a6\u695a",
+    "finish_time": "01:49:02",
+    "finish_seconds": 6542
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 217,
+    "name": "\u5218, \u601d\u8499",
+    "finish_time": "01:49:36",
+    "finish_seconds": 6576
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 219,
+    "name": "\u7ba1, \u7433",
+    "finish_time": "01:50:04",
+    "finish_seconds": 6604
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 221,
+    "name": "\u5434, \u660a",
+    "finish_time": "01:50:11",
+    "finish_seconds": 6611
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 223,
+    "name": "\u5218, \u4f73\u6613",
+    "finish_time": "01:50:41",
+    "finish_seconds": 6641
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 225,
+    "name": "\u674e, \u8fce\u8fce",
+    "finish_time": "01:50:54",
+    "finish_seconds": 6654
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 227,
+    "name": "Pong, Hei Yuet",
+    "finish_time": "01:51:10",
+    "finish_seconds": 6670
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 229,
+    "name": "\u9676, \u6d77\u4f9d",
+    "finish_time": "01:51:32",
+    "finish_seconds": 6692
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 231,
+    "name": "\u674e, \u5bd2\u9732",
+    "finish_time": "01:51:55",
+    "finish_seconds": 6715
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 233,
+    "name": "Chong, Cynthia",
+    "finish_time": "01:52:21",
+    "finish_seconds": 6741
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 235,
+    "name": "Lee, Dahyun",
+    "finish_time": "01:52:45",
+    "finish_seconds": 6765
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 237,
+    "name": "\u8c22, \u857e\u6d01",
+    "finish_time": "01:53:08",
+    "finish_seconds": 6788
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 239,
+    "name": "\u90d1, \u854a\u5ef7",
+    "finish_time": "01:53:16",
+    "finish_seconds": 6796
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 241,
+    "name": "\u5f20, \u7433",
+    "finish_time": "01:53:32",
+    "finish_seconds": 6812
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 243,
+    "name": "\u674e, \u4f73\u84c9",
+    "finish_time": "01:54:15",
+    "finish_seconds": 6855
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 245,
+    "name": "Lai, Anika",
+    "finish_time": "01:55:22",
+    "finish_seconds": 6922
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 247,
+    "name": "\u8d75, \u5ffb\u5b9c",
+    "finish_time": "01:55:29",
+    "finish_seconds": 6929
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 249,
+    "name": "Aguilar Zamora, Zeny Magalli",
+    "finish_time": "01:55:46",
+    "finish_seconds": 6946
+  },
+  {
+    "venue": "2025 Beijing",
+    "gender": "W",
+    "rank": 251,
+    "name": "\u6768, \u79cb\u8309",
+    "finish_time": "01:56:06",
+    "finish_seconds": 6966
+  }
+]

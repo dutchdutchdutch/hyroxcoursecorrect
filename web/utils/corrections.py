@@ -6,9 +6,9 @@ Handles percentage-based correction calculations with inverted logic
 """
 
 # Baseline median times (in seconds) for percentage calculations
-# These are the median finish times at Maastricht 2025 (baseline venue)
-BASELINE_MEN_MEDIAN = 4800.0  # 80 minutes
-BASELINE_WOMEN_MEDIAN = 5526.0  # 92.1 minutes
+# These are the median finish times at Chicago 2025 (baseline venue for Season 8)
+BASELINE_MEN_MEDIAN = 5044.2  # 84.07 minutes
+BASELINE_WOMEN_MEDIAN = 5476.8  # 91.28 minutes
 
 
 def calculate_percentage_correction(correction_seconds, baseline_median_seconds):

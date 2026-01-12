@@ -1,0 +1,8946 @@
+[
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1,
+    "name": "Schwarzkopf, Dieter",
+    "finish_time": "00:56:56",
+    "finish_seconds": 3416
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 3,
+    "name": "Sindermann, Thorben",
+    "finish_time": "00:59:32",
+    "finish_seconds": 3572
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 5,
+    "name": "Stoksbjerg, Daniel",
+    "finish_time": "01:00:10",
+    "finish_seconds": 3610
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 7,
+    "name": "Gearing, Matthew",
+    "finish_time": "01:00:59",
+    "finish_seconds": 3659
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 9,
+    "name": "Daniels, Richard",
+    "finish_time": "01:01:00",
+    "finish_seconds": 3660
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 11,
+    "name": "Kuenzel, Thore",
+    "finish_time": "01:01:32",
+    "finish_seconds": 3692
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 13,
+    "name": "Wiersma, Sil",
+    "finish_time": "01:01:42",
+    "finish_seconds": 3702
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 15,
+    "name": "Young, Adam",
+    "finish_time": "01:02:12",
+    "finish_seconds": 3732
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 17,
+    "name": "Keller, Brun",
+    "finish_time": "01:02:15",
+    "finish_seconds": 3735
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 19,
+    "name": "M\u00f6ller, Mats",
+    "finish_time": "01:02:16",
+    "finish_seconds": 3736
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 21,
+    "name": "Mazur, Andrii",
+    "finish_time": "01:02:47",
+    "finish_seconds": 3767
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 23,
+    "name": "Boxall, Matthew",
+    "finish_time": "01:03:08",
+    "finish_seconds": 3788
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 25,
+    "name": "Laferte, Aron",
+    "finish_time": "01:03:14",
+    "finish_seconds": 3794
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 27,
+    "name": "Schramm, Kai",
+    "finish_time": "01:03:18",
+    "finish_seconds": 3798
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 29,
+    "name": "hogan, jay",
+    "finish_time": "01:03:20",
+    "finish_seconds": 3800
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 31,
+    "name": "Kostiuk, Torben",
+    "finish_time": "01:03:34",
+    "finish_seconds": 3814
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 33,
+    "name": "Geckert, Dennis",
+    "finish_time": "01:03:40",
+    "finish_seconds": 3820
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 35,
+    "name": "Kotzott, Maximilian",
+    "finish_time": "01:03:48",
+    "finish_seconds": 3828
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 37,
+    "name": "Kunert, Maximilian",
+    "finish_time": "01:04:21",
+    "finish_seconds": 3861
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 39,
+    "name": "Blake, Ross",
+    "finish_time": "01:04:31",
+    "finish_seconds": 3871
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 41,
+    "name": "Gayer, Patrick",
+    "finish_time": "01:04:37",
+    "finish_seconds": 3877
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 43,
+    "name": "Ohlendorf, Chris-Andre",
+    "finish_time": "01:04:46",
+    "finish_seconds": 3886
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 45,
+    "name": "Keane, Chris",
+    "finish_time": "01:04:58",
+    "finish_seconds": 3898
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 47,
+    "name": "M\u00fcller, Moritz",
+    "finish_time": "01:05:11",
+    "finish_seconds": 3911
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 49,
+    "name": "Fruhmann, Andreas",
+    "finish_time": "01:05:21",
+    "finish_seconds": 3921
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 51,
+    "name": "Al Shaafi, Mohammed",
+    "finish_time": "01:05:39",
+    "finish_seconds": 3939
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 53,
+    "name": "Baan, Pim",
+    "finish_time": "01:05:44",
+    "finish_seconds": 3944
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 55,
+    "name": "Kroglowski, Oskar",
+    "finish_time": "01:05:59",
+    "finish_seconds": 3959
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 57,
+    "name": "Raab, Kenny",
+    "finish_time": "01:06:04",
+    "finish_seconds": 3964
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 59,
+    "name": "Bentler, Robinson",
+    "finish_time": "01:06:06",
+    "finish_seconds": 3966
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 61,
+    "name": "Kolk, Oskar",
+    "finish_time": "01:06:21",
+    "finish_seconds": 3981
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 63,
+    "name": "van Drunen, Floris",
+    "finish_time": "01:06:30",
+    "finish_seconds": 3990
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 65,
+    "name": "Elischer, Renning",
+    "finish_time": "01:06:39",
+    "finish_seconds": 3999
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 67,
+    "name": "Winninger, Rainer",
+    "finish_time": "01:06:42",
+    "finish_seconds": 4002
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 69,
+    "name": "Neumaier, Julian",
+    "finish_time": "01:06:50",
+    "finish_seconds": 4010
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 71,
+    "name": "Evans, Nick",
+    "finish_time": "01:06:54",
+    "finish_seconds": 4014
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 73,
+    "name": "Wawrzinek, Michael",
+    "finish_time": "01:06:57",
+    "finish_seconds": 4017
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 75,
+    "name": "Delfosse, Valentin",
+    "finish_time": "01:07:01",
+    "finish_seconds": 4021
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 77,
+    "name": "Mengdehl, Steven Ragnar",
+    "finish_time": "01:07:23",
+    "finish_seconds": 4043
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 79,
+    "name": "Bock, Ansgar",
+    "finish_time": "01:07:25",
+    "finish_seconds": 4045
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 81,
+    "name": "Langendorf, Christopher",
+    "finish_time": "01:07:30",
+    "finish_seconds": 4050
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 83,
+    "name": "Alberts, Teun",
+    "finish_time": "01:07:32",
+    "finish_seconds": 4052
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 85,
+    "name": "Wolf, Paul",
+    "finish_time": "01:07:48",
+    "finish_seconds": 4068
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 87,
+    "name": "Vogler, Ferdinand",
+    "finish_time": "01:07:52",
+    "finish_seconds": 4072
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 89,
+    "name": "Konrad, Dennis",
+    "finish_time": "01:07:53",
+    "finish_seconds": 4073
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 91,
+    "name": "Linnet, Christian",
+    "finish_time": "01:07:55",
+    "finish_seconds": 4075
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 93,
+    "name": "Timmermans, Dani\u00ebl",
+    "finish_time": "01:07:57",
+    "finish_seconds": 4077
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 95,
+    "name": "H\u00f6her, Julian",
+    "finish_time": "01:08:00",
+    "finish_seconds": 4080
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 97,
+    "name": "Skriver, Jon",
+    "finish_time": "01:08:05",
+    "finish_seconds": 4085
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 99,
+    "name": "Schitomirski, Kirill",
+    "finish_time": "01:08:15",
+    "finish_seconds": 4095
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 101,
+    "name": "M\u00fcller, Daniel",
+    "finish_time": "01:08:18",
+    "finish_seconds": 4098
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 103,
+    "name": "Aguiar Axpe, Javier",
+    "finish_time": "01:08:20",
+    "finish_seconds": 4100
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 105,
+    "name": "Foss Jensen, Simon",
+    "finish_time": "01:08:22",
+    "finish_seconds": 4102
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 107,
+    "name": "Bahadorvand, Hamun",
+    "finish_time": "01:08:25",
+    "finish_seconds": 4105
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 109,
+    "name": "Abel, Georg",
+    "finish_time": "01:08:35",
+    "finish_seconds": 4115
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 111,
+    "name": "Willart, Marcus",
+    "finish_time": "01:08:40",
+    "finish_seconds": 4120
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 113,
+    "name": "Stinchcomb, Karl",
+    "finish_time": "01:08:44",
+    "finish_seconds": 4124
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 115,
+    "name": "S\u00f8ndberg, Valdemar",
+    "finish_time": "01:08:48",
+    "finish_seconds": 4128
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 117,
+    "name": "Niewerth, Andreas",
+    "finish_time": "01:08:53",
+    "finish_seconds": 4133
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 119,
+    "name": "Boyle, David",
+    "finish_time": "01:08:57",
+    "finish_seconds": 4137
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 121,
+    "name": "Ben-Halla, Mouad",
+    "finish_time": "01:09:02",
+    "finish_seconds": 4142
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 123,
+    "name": "Poppeliers, Twan",
+    "finish_time": "01:09:08",
+    "finish_seconds": 4148
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 125,
+    "name": "Hellmich, Aldo",
+    "finish_time": "01:09:11",
+    "finish_seconds": 4151
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 127,
+    "name": "L\u00fctkewitte, Andreas",
+    "finish_time": "01:09:13",
+    "finish_seconds": 4153
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 129,
+    "name": "Sambill, Nils",
+    "finish_time": "01:09:17",
+    "finish_seconds": 4157
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 131,
+    "name": "Puttlitz, Francesco",
+    "finish_time": "01:09:21",
+    "finish_seconds": 4161
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 133,
+    "name": "Guter, Miguel",
+    "finish_time": "01:09:24",
+    "finish_seconds": 4164
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 135,
+    "name": "Auer, Marcel Dominik",
+    "finish_time": "01:09:25",
+    "finish_seconds": 4165
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 137,
+    "name": "Dewald, Sascha",
+    "finish_time": "01:09:28",
+    "finish_seconds": 4168
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 139,
+    "name": "Graner, Bj\u00f6rn",
+    "finish_time": "01:09:30",
+    "finish_seconds": 4170
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 141,
+    "name": "Martins, Jan-Peer",
+    "finish_time": "01:09:34",
+    "finish_seconds": 4174
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 143,
+    "name": "L\u00fcbbermann, Sven",
+    "finish_time": "01:09:41",
+    "finish_seconds": 4181
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 145,
+    "name": "Piechotta, Steffen",
+    "finish_time": "01:09:48",
+    "finish_seconds": 4188
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 147,
+    "name": "Mehren, Marcel",
+    "finish_time": "01:09:49",
+    "finish_seconds": 4189
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 149,
+    "name": "Fuchs, Sascha",
+    "finish_time": "01:09:49",
+    "finish_seconds": 4189
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 151,
+    "name": "Egger, Joost",
+    "finish_time": "01:09:51",
+    "finish_seconds": 4191
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 153,
+    "name": "Jessen, Daniel",
+    "finish_time": "01:09:51",
+    "finish_seconds": 4191
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 155,
+    "name": "S\u00f6nnichsen, Birger",
+    "finish_time": "01:09:54",
+    "finish_seconds": 4194
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 157,
+    "name": "Artz, Dennis",
+    "finish_time": "01:09:58",
+    "finish_seconds": 4198
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 159,
+    "name": "Lesting, Simon",
+    "finish_time": "01:10:01",
+    "finish_seconds": 4201
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 161,
+    "name": "Kessler, Michael",
+    "finish_time": "01:10:06",
+    "finish_seconds": 4206
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 163,
+    "name": "Lorenzen, Tim",
+    "finish_time": "01:10:14",
+    "finish_seconds": 4214
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 165,
+    "name": "Vidal, Sebastian",
+    "finish_time": "01:10:20",
+    "finish_seconds": 4220
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 167,
+    "name": "Hermesmeyer, Felix",
+    "finish_time": "01:10:24",
+    "finish_seconds": 4224
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 169,
+    "name": "Grundon, Callum",
+    "finish_time": "01:10:31",
+    "finish_seconds": 4231
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 171,
+    "name": "Clancy, Jason",
+    "finish_time": "01:10:40",
+    "finish_seconds": 4240
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 173,
+    "name": "Schulz-Meinen, Samir",
+    "finish_time": "01:10:42",
+    "finish_seconds": 4242
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 175,
+    "name": "Mucha, Finn",
+    "finish_time": "01:10:43",
+    "finish_seconds": 4243
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 177,
+    "name": "Tasca, Roman",
+    "finish_time": "01:10:48",
+    "finish_seconds": 4248
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 179,
+    "name": "Klaus, Tobias",
+    "finish_time": "01:10:50",
+    "finish_seconds": 4250
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 181,
+    "name": "Smit, Hendrik",
+    "finish_time": "01:10:55",
+    "finish_seconds": 4255
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 183,
+    "name": "Leonora, Oshadix",
+    "finish_time": "01:10:59",
+    "finish_seconds": 4259
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 185,
+    "name": "Wone, Ru",
+    "finish_time": "01:11:05",
+    "finish_seconds": 4265
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 187,
+    "name": "Schmidt, Anton",
+    "finish_time": "01:11:07",
+    "finish_seconds": 4267
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 189,
+    "name": "Schroven, Frank",
+    "finish_time": "01:11:08",
+    "finish_seconds": 4268
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 191,
+    "name": "Bruns, Flemming",
+    "finish_time": "01:11:15",
+    "finish_seconds": 4275
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 193,
+    "name": "Willkommen, Julius",
+    "finish_time": "01:11:23",
+    "finish_seconds": 4283
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 195,
+    "name": "Wendt, Ricardo",
+    "finish_time": "01:11:25",
+    "finish_seconds": 4285
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 197,
+    "name": "Theisen, Marco",
+    "finish_time": "01:11:30",
+    "finish_seconds": 4290
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 199,
+    "name": "Nolting, Tjorven",
+    "finish_time": "01:11:31",
+    "finish_seconds": 4291
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 201,
+    "name": "von Wieding, Fabian",
+    "finish_time": "01:11:34",
+    "finish_seconds": 4294
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 203,
+    "name": "Ehlers, Roy",
+    "finish_time": "01:11:39",
+    "finish_seconds": 4299
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 205,
+    "name": "S\u00f8ndermark, Jesper",
+    "finish_time": "01:11:40",
+    "finish_seconds": 4300
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 207,
+    "name": "von Preetzmann, Marc",
+    "finish_time": "01:11:46",
+    "finish_seconds": 4306
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 209,
+    "name": "Kumar, Manuel",
+    "finish_time": "01:11:56",
+    "finish_seconds": 4316
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 211,
+    "name": "Schlicht, Joschka",
+    "finish_time": "01:12:10",
+    "finish_seconds": 4330
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 213,
+    "name": "Nordmeier, Jens",
+    "finish_time": "01:12:12",
+    "finish_seconds": 4332
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 215,
+    "name": "Thielen, Nils",
+    "finish_time": "01:12:17",
+    "finish_seconds": 4337
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 217,
+    "name": "Fitzgerald, Karl",
+    "finish_time": "01:12:17",
+    "finish_seconds": 4337
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 219,
+    "name": "Fankhauser, Sandro",
+    "finish_time": "01:12:23",
+    "finish_seconds": 4343
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 221,
+    "name": "Marquardt, Dominic",
+    "finish_time": "01:12:26",
+    "finish_seconds": 4346
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 223,
+    "name": "Graf, Steffen",
+    "finish_time": "01:12:31",
+    "finish_seconds": 4351
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 225,
+    "name": "R\u00f6diger, Josa",
+    "finish_time": "01:12:33",
+    "finish_seconds": 4353
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 227,
+    "name": "Schadow, Thomas",
+    "finish_time": "01:12:34",
+    "finish_seconds": 4354
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 229,
+    "name": "Pietzschke, Felix",
+    "finish_time": "01:12:34",
+    "finish_seconds": 4354
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 231,
+    "name": "Pl\u00fcckhahn, Franz",
+    "finish_time": "01:12:36",
+    "finish_seconds": 4356
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 233,
+    "name": "Hebisch, Raphael",
+    "finish_time": "01:12:36",
+    "finish_seconds": 4356
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 235,
+    "name": "Diehl, Eric",
+    "finish_time": "01:12:38",
+    "finish_seconds": 4358
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 237,
+    "name": "Meyer, Tobias",
+    "finish_time": "01:12:45",
+    "finish_seconds": 4365
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 239,
+    "name": "B\u00fclau, Thies",
+    "finish_time": "01:12:46",
+    "finish_seconds": 4366
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 241,
+    "name": "Spicer, Rory Piers",
+    "finish_time": "01:12:47",
+    "finish_seconds": 4367
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 243,
+    "name": "Berger, Andy",
+    "finish_time": "01:12:55",
+    "finish_seconds": 4375
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 245,
+    "name": "Emond, Martin",
+    "finish_time": "01:12:56",
+    "finish_seconds": 4376
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 247,
+    "name": "Juozapaitis, Aurimas",
+    "finish_time": "01:13:01",
+    "finish_seconds": 4381
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 249,
+    "name": "van den Driest, Daan",
+    "finish_time": "01:13:02",
+    "finish_seconds": 4382
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 251,
+    "name": "Noord, Jeffrey",
+    "finish_time": "01:13:05",
+    "finish_seconds": 4385
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 253,
+    "name": "Schl\u00fcter, Sebastian",
+    "finish_time": "01:13:09",
+    "finish_seconds": 4389
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 255,
+    "name": "Petzold, Martin",
+    "finish_time": "01:13:11",
+    "finish_seconds": 4391
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 257,
+    "name": "Kr\u00fctzelmann, Kevin",
+    "finish_time": "01:13:13",
+    "finish_seconds": 4393
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 259,
+    "name": "Carpentier, Alexis",
+    "finish_time": "01:13:19",
+    "finish_seconds": 4399
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 261,
+    "name": "Mi\u00dffeldt, Steffen",
+    "finish_time": "01:13:22",
+    "finish_seconds": 4402
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 263,
+    "name": "V\u00f6lker, Christian",
+    "finish_time": "01:13:22",
+    "finish_seconds": 4402
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 265,
+    "name": "Will, Marco",
+    "finish_time": "01:13:25",
+    "finish_seconds": 4405
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 267,
+    "name": "Beggs, Wayne",
+    "finish_time": "01:13:29",
+    "finish_seconds": 4409
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 269,
+    "name": "Lilge, Wilhelm",
+    "finish_time": "01:13:32",
+    "finish_seconds": 4412
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 271,
+    "name": "Root, Melvin",
+    "finish_time": "01:13:37",
+    "finish_seconds": 4417
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 273,
+    "name": "Pirch, Henryk",
+    "finish_time": "01:13:39",
+    "finish_seconds": 4419
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 275,
+    "name": "Schuhmann, Jan",
+    "finish_time": "01:13:40",
+    "finish_seconds": 4420
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 277,
+    "name": "Viehhauser, Konstantin",
+    "finish_time": "01:13:41",
+    "finish_seconds": 4421
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 279,
+    "name": "Olberding, Patrick",
+    "finish_time": "01:13:42",
+    "finish_seconds": 4422
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 281,
+    "name": "Schudde, Tim",
+    "finish_time": "01:13:44",
+    "finish_seconds": 4424
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 283,
+    "name": "Bielenberg, Leon",
+    "finish_time": "01:13:45",
+    "finish_seconds": 4425
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 285,
+    "name": "Stemwedel, Artur",
+    "finish_time": "01:13:50",
+    "finish_seconds": 4430
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 287,
+    "name": "Arndt, Christian",
+    "finish_time": "01:13:57",
+    "finish_seconds": 4437
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 289,
+    "name": "Tschitschmann, Florian",
+    "finish_time": "01:13:59",
+    "finish_seconds": 4439
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 291,
+    "name": "Field, Daniel",
+    "finish_time": "01:13:59",
+    "finish_seconds": 4439
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 293,
+    "name": "Dams, Joshua",
+    "finish_time": "01:14:05",
+    "finish_seconds": 4445
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 295,
+    "name": "Fiorelli, Mehdi",
+    "finish_time": "01:14:05",
+    "finish_seconds": 4445
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 297,
+    "name": "Rahneberg, Romario",
+    "finish_time": "01:14:06",
+    "finish_seconds": 4446
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 299,
+    "name": "Nguyen, Hoang Viet",
+    "finish_time": "01:14:07",
+    "finish_seconds": 4447
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 301,
+    "name": "Fisker, Jacob",
+    "finish_time": "01:14:10",
+    "finish_seconds": 4450
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 303,
+    "name": "Flack, Markus",
+    "finish_time": "01:14:14",
+    "finish_seconds": 4454
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 305,
+    "name": "Troegel, Moritz",
+    "finish_time": "01:14:14",
+    "finish_seconds": 4454
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 307,
+    "name": "Meyer, Marco",
+    "finish_time": "01:14:15",
+    "finish_seconds": 4455
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 309,
+    "name": "Walter, Tobias M.",
+    "finish_time": "01:14:18",
+    "finish_seconds": 4458
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 311,
+    "name": "Eberhard, Thomas",
+    "finish_time": "01:14:20",
+    "finish_seconds": 4460
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 313,
+    "name": "Schuurman, Jordy",
+    "finish_time": "01:14:23",
+    "finish_seconds": 4463
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 315,
+    "name": "Beuleke, Felix",
+    "finish_time": "01:14:24",
+    "finish_seconds": 4464
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 317,
+    "name": "\u00c7etin, Do\u011fukan",
+    "finish_time": "01:14:28",
+    "finish_seconds": 4468
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 319,
+    "name": "Bojar, Pascal",
+    "finish_time": "01:14:29",
+    "finish_seconds": 4469
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 321,
+    "name": "PEYTUREAU, yoann",
+    "finish_time": "01:14:30",
+    "finish_seconds": 4470
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 323,
+    "name": "Breitkreutz, Frank",
+    "finish_time": "01:14:32",
+    "finish_seconds": 4472
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 325,
+    "name": "Ufken, Sven",
+    "finish_time": "01:14:34",
+    "finish_seconds": 4474
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 327,
+    "name": "Kelly, Tim",
+    "finish_time": "01:14:36",
+    "finish_seconds": 4476
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 329,
+    "name": "Oltmanns, Christian",
+    "finish_time": "01:14:36",
+    "finish_seconds": 4476
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 331,
+    "name": "Proulx, Felix",
+    "finish_time": "01:14:42",
+    "finish_seconds": 4482
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 333,
+    "name": "finn, david",
+    "finish_time": "01:14:42",
+    "finish_seconds": 4482
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 335,
+    "name": "Hohmann, Fabian",
+    "finish_time": "01:14:47",
+    "finish_seconds": 4487
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 337,
+    "name": "AGUADO AGENJO, JESUS",
+    "finish_time": "01:14:50",
+    "finish_seconds": 4490
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 339,
+    "name": "Pirch, Felix",
+    "finish_time": "01:14:53",
+    "finish_seconds": 4493
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 341,
+    "name": "Thullner, Jan-Paul",
+    "finish_time": "01:14:58",
+    "finish_seconds": 4498
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 343,
+    "name": "Zwierczyk, Sylwester",
+    "finish_time": "01:14:59",
+    "finish_seconds": 4499
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 345,
+    "name": "Pfeiffer, Korbinian",
+    "finish_time": "01:15:05",
+    "finish_seconds": 4505
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 347,
+    "name": "Arians, Daniel",
+    "finish_time": "01:15:10",
+    "finish_seconds": 4510
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 349,
+    "name": "Zayene, Anouar",
+    "finish_time": "01:15:18",
+    "finish_seconds": 4518
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 351,
+    "name": "Rezic, Marko",
+    "finish_time": "01:15:19",
+    "finish_seconds": 4519
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 353,
+    "name": "Bunde, Andre",
+    "finish_time": "01:15:21",
+    "finish_seconds": 4521
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 355,
+    "name": "W\u00fcsteney, Bj\u00f6rn",
+    "finish_time": "01:15:24",
+    "finish_seconds": 4524
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 357,
+    "name": "German, Andrej",
+    "finish_time": "01:15:28",
+    "finish_seconds": 4528
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 359,
+    "name": "Kaya, Kayhan",
+    "finish_time": "01:15:30",
+    "finish_seconds": 4530
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 361,
+    "name": "de Jong, Danny",
+    "finish_time": "01:15:34",
+    "finish_seconds": 4534
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 363,
+    "name": "Lerner, Martin",
+    "finish_time": "01:15:36",
+    "finish_seconds": 4536
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 365,
+    "name": "Koch, Norman",
+    "finish_time": "01:15:38",
+    "finish_seconds": 4538
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 367,
+    "name": "Lidzbarski, Kevin",
+    "finish_time": "01:15:39",
+    "finish_seconds": 4539
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 369,
+    "name": "Arter, Luke",
+    "finish_time": "01:15:39",
+    "finish_seconds": 4539
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 371,
+    "name": "Huber, Andr\u00e9",
+    "finish_time": "01:15:43",
+    "finish_seconds": 4543
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 373,
+    "name": "Willers, Mirco",
+    "finish_time": "01:15:44",
+    "finish_seconds": 4544
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 375,
+    "name": "Ulrich, Christoph",
+    "finish_time": "01:15:45",
+    "finish_seconds": 4545
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 377,
+    "name": "Frank, Christian",
+    "finish_time": "01:15:46",
+    "finish_seconds": 4546
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 379,
+    "name": "Piper, Robert",
+    "finish_time": "01:15:48",
+    "finish_seconds": 4548
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 381,
+    "name": "K\u00fcpper, Alexander",
+    "finish_time": "01:15:52",
+    "finish_seconds": 4552
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 383,
+    "name": "Schmidt, Maximilian",
+    "finish_time": "01:15:58",
+    "finish_seconds": 4558
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 385,
+    "name": "Brozek, Lukas",
+    "finish_time": "01:16:02",
+    "finish_seconds": 4562
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 387,
+    "name": "Huber, Florian",
+    "finish_time": "01:16:05",
+    "finish_seconds": 4565
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 389,
+    "name": "Schad, Roman",
+    "finish_time": "01:16:06",
+    "finish_seconds": 4566
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 391,
+    "name": "Bonner, Benny",
+    "finish_time": "01:16:07",
+    "finish_seconds": 4567
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 393,
+    "name": "Ohrt, Alexander",
+    "finish_time": "01:16:15",
+    "finish_seconds": 4575
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 395,
+    "name": "Flaig, David",
+    "finish_time": "01:16:16",
+    "finish_seconds": 4576
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 397,
+    "name": "Evans, Ryan",
+    "finish_time": "01:16:18",
+    "finish_seconds": 4578
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 399,
+    "name": "Eisenreich, Dominik",
+    "finish_time": "01:16:20",
+    "finish_seconds": 4580
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 401,
+    "name": "Franke, Tim",
+    "finish_time": "01:16:22",
+    "finish_seconds": 4582
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 403,
+    "name": "Wachendorf, Frederic",
+    "finish_time": "01:16:24",
+    "finish_seconds": 4584
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 405,
+    "name": "Duman, Yakup",
+    "finish_time": "01:16:27",
+    "finish_seconds": 4587
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 407,
+    "name": "Kompane, Ndumbe",
+    "finish_time": "01:16:30",
+    "finish_seconds": 4590
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 409,
+    "name": "Thoroe, S\u00f6ren",
+    "finish_time": "01:16:34",
+    "finish_seconds": 4594
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 411,
+    "name": "Soares, Frederik",
+    "finish_time": "01:16:35",
+    "finish_seconds": 4595
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 413,
+    "name": "Anders, Nils",
+    "finish_time": "01:16:41",
+    "finish_seconds": 4601
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 415,
+    "name": "Neubauer, Tom",
+    "finish_time": "01:16:48",
+    "finish_seconds": 4608
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 417,
+    "name": "Wei\u00df, Florian",
+    "finish_time": "01:16:52",
+    "finish_seconds": 4612
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 419,
+    "name": "Spreitzer, Patrik",
+    "finish_time": "01:16:55",
+    "finish_seconds": 4615
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 421,
+    "name": "Reininger, Markus",
+    "finish_time": "01:16:59",
+    "finish_seconds": 4619
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 423,
+    "name": "Hoppe, Sven",
+    "finish_time": "01:17:02",
+    "finish_seconds": 4622
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 425,
+    "name": "Rohde, Dominic",
+    "finish_time": "01:17:05",
+    "finish_seconds": 4625
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 427,
+    "name": "Locke, Anthony",
+    "finish_time": "01:17:09",
+    "finish_seconds": 4629
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 429,
+    "name": "Marino-Schneider, Christian",
+    "finish_time": "01:17:12",
+    "finish_seconds": 4632
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 431,
+    "name": "Schr\u00f6der, Heiner",
+    "finish_time": "01:17:13",
+    "finish_seconds": 4633
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 433,
+    "name": "Hilz, Viktor",
+    "finish_time": "01:17:16",
+    "finish_seconds": 4636
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 435,
+    "name": "Bastian, Marc",
+    "finish_time": "01:17:17",
+    "finish_seconds": 4637
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 437,
+    "name": "van Hoekelen, Bert",
+    "finish_time": "01:17:18",
+    "finish_seconds": 4638
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 439,
+    "name": "de Bolba, Cassio",
+    "finish_time": "01:17:20",
+    "finish_seconds": 4640
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 441,
+    "name": "Bernholt, Dirk",
+    "finish_time": "01:17:22",
+    "finish_seconds": 4642
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 443,
+    "name": "Rennies Kern, Sven",
+    "finish_time": "01:17:23",
+    "finish_seconds": 4643
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 445,
+    "name": "Franke, Johannes",
+    "finish_time": "01:17:29",
+    "finish_seconds": 4649
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 447,
+    "name": "Wolff, Dominik",
+    "finish_time": "01:17:35",
+    "finish_seconds": 4655
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 449,
+    "name": "Herbeck, Kevin",
+    "finish_time": "01:17:36",
+    "finish_seconds": 4656
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 451,
+    "name": "Mohrhardt, Marvin",
+    "finish_time": "01:17:39",
+    "finish_seconds": 4659
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 453,
+    "name": "Blankenaufulland, Stephan",
+    "finish_time": "01:17:40",
+    "finish_seconds": 4660
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 455,
+    "name": "Timm, Bastian",
+    "finish_time": "01:17:42",
+    "finish_seconds": 4662
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 457,
+    "name": "Edeha, Felix",
+    "finish_time": "01:17:44",
+    "finish_seconds": 4664
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 459,
+    "name": "Hering, Benedikt",
+    "finish_time": "01:17:45",
+    "finish_seconds": 4665
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 461,
+    "name": "Weinmann, Tim",
+    "finish_time": "01:17:46",
+    "finish_seconds": 4666
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 463,
+    "name": "Bartholdi, Fabian",
+    "finish_time": "01:17:51",
+    "finish_seconds": 4671
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 465,
+    "name": "Kadak, \u00d6nder",
+    "finish_time": "01:17:54",
+    "finish_seconds": 4674
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 467,
+    "name": "K\u00f6rschgen, Michael",
+    "finish_time": "01:18:01",
+    "finish_seconds": 4681
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 469,
+    "name": "Sch\u00e4fer, Philipp",
+    "finish_time": "01:18:01",
+    "finish_seconds": 4681
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 471,
+    "name": "Albrecht, Hardy",
+    "finish_time": "01:18:03",
+    "finish_seconds": 4683
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 473,
+    "name": "Schulz, Patrick",
+    "finish_time": "01:18:06",
+    "finish_seconds": 4686
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 475,
+    "name": "Schmidt, Adrian",
+    "finish_time": "01:18:07",
+    "finish_seconds": 4687
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 477,
+    "name": "Sowa, Adrian",
+    "finish_time": "01:18:10",
+    "finish_seconds": 4690
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 479,
+    "name": "Kr\u00e4mer, Lucas",
+    "finish_time": "01:18:11",
+    "finish_seconds": 4691
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 481,
+    "name": "Nitsche, Sascha",
+    "finish_time": "01:18:19",
+    "finish_seconds": 4699
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 483,
+    "name": "Hohmann, Richard",
+    "finish_time": "01:18:21",
+    "finish_seconds": 4701
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 485,
+    "name": "Marbaise, Thomas",
+    "finish_time": "01:18:21",
+    "finish_seconds": 4701
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 487,
+    "name": "Kuipers, Leroy",
+    "finish_time": "01:18:23",
+    "finish_seconds": 4703
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 489,
+    "name": "Ruschig, Matthias",
+    "finish_time": "01:18:30",
+    "finish_seconds": 4710
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 491,
+    "name": "Guck, Sascha",
+    "finish_time": "01:18:32",
+    "finish_seconds": 4712
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 493,
+    "name": "Winterbottom, Kyle",
+    "finish_time": "01:18:34",
+    "finish_seconds": 4714
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 495,
+    "name": "Usenbenz, Kai",
+    "finish_time": "01:18:34",
+    "finish_seconds": 4714
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 497,
+    "name": "Spoth, Hauke",
+    "finish_time": "01:18:36",
+    "finish_seconds": 4716
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 499,
+    "name": "Mayer, Magnus",
+    "finish_time": "01:18:42",
+    "finish_seconds": 4722
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 501,
+    "name": "Hacker, Christoph",
+    "finish_time": "01:18:43",
+    "finish_seconds": 4723
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 503,
+    "name": "Petzold, Sven",
+    "finish_time": "01:18:45",
+    "finish_seconds": 4725
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 505,
+    "name": "Standaert, Stefan",
+    "finish_time": "01:18:47",
+    "finish_seconds": 4727
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 507,
+    "name": "Jurga, Tom",
+    "finish_time": "01:18:50",
+    "finish_seconds": 4730
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 509,
+    "name": "Ha\u00dfe, Daniel",
+    "finish_time": "01:18:52",
+    "finish_seconds": 4732
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 511,
+    "name": "Niehoff, Max",
+    "finish_time": "01:18:52",
+    "finish_seconds": 4732
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 513,
+    "name": "Koenen, Niklas",
+    "finish_time": "01:18:55",
+    "finish_seconds": 4735
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 515,
+    "name": "Elflein, Phillip",
+    "finish_time": "01:18:59",
+    "finish_seconds": 4739
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 517,
+    "name": "Br\u00fccker, Leon",
+    "finish_time": "01:19:01",
+    "finish_seconds": 4741
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 519,
+    "name": "Vicente, Jo\u00e3o",
+    "finish_time": "01:19:02",
+    "finish_seconds": 4742
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 521,
+    "name": "Weiner, Adam",
+    "finish_time": "01:19:04",
+    "finish_seconds": 4744
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 523,
+    "name": "Teifke, Adrian",
+    "finish_time": "01:19:06",
+    "finish_seconds": 4746
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 525,
+    "name": "Morrison, Adam",
+    "finish_time": "01:19:11",
+    "finish_seconds": 4751
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 527,
+    "name": "M\u00fcller, Maximilian",
+    "finish_time": "01:19:16",
+    "finish_seconds": 4756
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 529,
+    "name": "Lange, Brooklyn",
+    "finish_time": "01:19:16",
+    "finish_seconds": 4756
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 531,
+    "name": "Alexy, Felix",
+    "finish_time": "01:19:17",
+    "finish_seconds": 4757
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 533,
+    "name": "Pl\u00f6tz, Ole",
+    "finish_time": "01:19:20",
+    "finish_seconds": 4760
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 535,
+    "name": "Schwencke, Felix",
+    "finish_time": "01:19:23",
+    "finish_seconds": 4763
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 537,
+    "name": "Linsner, Benjamin",
+    "finish_time": "01:19:24",
+    "finish_seconds": 4764
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 539,
+    "name": "Bautista Prieto, Santiago",
+    "finish_time": "01:19:29",
+    "finish_seconds": 4769
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 541,
+    "name": "Zimmermann, Axel",
+    "finish_time": "01:19:30",
+    "finish_seconds": 4770
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 543,
+    "name": "Aksoy, Ramazan",
+    "finish_time": "01:19:34",
+    "finish_seconds": 4774
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 545,
+    "name": "L\u00fcdeke, Sven",
+    "finish_time": "01:19:36",
+    "finish_seconds": 4776
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 547,
+    "name": "Hoppe, Niklas",
+    "finish_time": "01:19:38",
+    "finish_seconds": 4778
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 549,
+    "name": "Seiler, Bela",
+    "finish_time": "01:19:38",
+    "finish_seconds": 4778
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 551,
+    "name": "Mantey, Robin",
+    "finish_time": "01:19:42",
+    "finish_seconds": 4782
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 553,
+    "name": "Friesen, Waldemar",
+    "finish_time": "01:19:44",
+    "finish_seconds": 4784
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 555,
+    "name": "Thiessen, Manuel",
+    "finish_time": "01:19:51",
+    "finish_seconds": 4791
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 557,
+    "name": "Eichinger, Dominik",
+    "finish_time": "01:19:53",
+    "finish_seconds": 4793
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 559,
+    "name": "Overath, Martin",
+    "finish_time": "01:19:54",
+    "finish_seconds": 4794
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 561,
+    "name": "Weipert, Jens",
+    "finish_time": "01:19:55",
+    "finish_seconds": 4795
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 563,
+    "name": "Simon, Martin",
+    "finish_time": "01:19:59",
+    "finish_seconds": 4799
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 565,
+    "name": "Raule, Christopher",
+    "finish_time": "01:20:00",
+    "finish_seconds": 4800
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 567,
+    "name": "Sch\u00e4r, Dominic",
+    "finish_time": "01:20:03",
+    "finish_seconds": 4803
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 569,
+    "name": "Galvin, Eoin",
+    "finish_time": "01:20:10",
+    "finish_seconds": 4810
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 571,
+    "name": "Rundschke, David",
+    "finish_time": "01:20:14",
+    "finish_seconds": 4814
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 573,
+    "name": "Bohn, Shasa",
+    "finish_time": "01:20:18",
+    "finish_seconds": 4818
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 575,
+    "name": "Neumann, Malte",
+    "finish_time": "01:20:19",
+    "finish_seconds": 4819
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 577,
+    "name": "Ansell, Ollie",
+    "finish_time": "01:20:23",
+    "finish_seconds": 4823
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 579,
+    "name": "Ehlert, Andr\u00e9",
+    "finish_time": "01:20:24",
+    "finish_seconds": 4824
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 581,
+    "name": "Nijhuis, Bart",
+    "finish_time": "01:20:27",
+    "finish_seconds": 4827
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 583,
+    "name": "Modrak, Patrick",
+    "finish_time": "01:20:30",
+    "finish_seconds": 4830
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 585,
+    "name": "M\u00fcller, Luke",
+    "finish_time": "01:20:31",
+    "finish_seconds": 4831
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 587,
+    "name": "Roloff, Alexander",
+    "finish_time": "01:20:35",
+    "finish_seconds": 4835
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 589,
+    "name": "Andersen, Nicky",
+    "finish_time": "01:20:39",
+    "finish_seconds": 4839
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 591,
+    "name": "Heinisch, Simon",
+    "finish_time": "01:20:40",
+    "finish_seconds": 4840
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 593,
+    "name": "K\u00fcchler, Marvin",
+    "finish_time": "01:20:52",
+    "finish_seconds": 4852
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 595,
+    "name": "Ravens, Jens",
+    "finish_time": "01:20:54",
+    "finish_seconds": 4854
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 597,
+    "name": "Heikal, Adel",
+    "finish_time": "01:20:55",
+    "finish_seconds": 4855
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 599,
+    "name": "Kaiser, Michael",
+    "finish_time": "01:20:56",
+    "finish_seconds": 4856
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 601,
+    "name": "Hagedorn, Hanno",
+    "finish_time": "01:20:58",
+    "finish_seconds": 4858
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 603,
+    "name": "M\u00fcller, Simon",
+    "finish_time": "01:21:01",
+    "finish_seconds": 4861
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 605,
+    "name": "St\u00fcber, Yannic",
+    "finish_time": "01:21:03",
+    "finish_seconds": 4863
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 607,
+    "name": "Stief, Christopher",
+    "finish_time": "01:21:09",
+    "finish_seconds": 4869
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 609,
+    "name": "Beer, Patrick",
+    "finish_time": "01:21:13",
+    "finish_seconds": 4873
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 611,
+    "name": "Bildstein, Yannik",
+    "finish_time": "01:21:16",
+    "finish_seconds": 4876
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 613,
+    "name": "Dinsen, Rasmus",
+    "finish_time": "01:21:19",
+    "finish_seconds": 4879
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 615,
+    "name": "Ransby, Nikolaj",
+    "finish_time": "01:21:21",
+    "finish_seconds": 4881
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 617,
+    "name": "Hillen, Achim",
+    "finish_time": "01:21:24",
+    "finish_seconds": 4884
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 619,
+    "name": "Hartmann, Andreas",
+    "finish_time": "01:21:25",
+    "finish_seconds": 4885
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 621,
+    "name": "Sauer, Marc",
+    "finish_time": "01:21:26",
+    "finish_seconds": 4886
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 623,
+    "name": "Jahanfar, Amir",
+    "finish_time": "01:21:29",
+    "finish_seconds": 4889
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 625,
+    "name": "West, James",
+    "finish_time": "01:21:31",
+    "finish_seconds": 4891
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 627,
+    "name": "Kirsten, Jonathan",
+    "finish_time": "01:21:32",
+    "finish_seconds": 4892
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 629,
+    "name": "Dorsch, Christoph",
+    "finish_time": "01:21:35",
+    "finish_seconds": 4895
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 631,
+    "name": "Sielas, Johannes",
+    "finish_time": "01:21:37",
+    "finish_seconds": 4897
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 633,
+    "name": "Fuhlbr\u00fcgge, Martin",
+    "finish_time": "01:21:38",
+    "finish_seconds": 4898
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 635,
+    "name": "Westermann, Kristian",
+    "finish_time": "01:21:41",
+    "finish_seconds": 4901
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 637,
+    "name": "Albrecht, Tom",
+    "finish_time": "01:21:43",
+    "finish_seconds": 4903
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 639,
+    "name": "Henriksen, Malthe",
+    "finish_time": "01:21:43",
+    "finish_seconds": 4903
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 641,
+    "name": "Pleus, Christian",
+    "finish_time": "01:21:52",
+    "finish_seconds": 4912
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 643,
+    "name": "Triffitt, Sol",
+    "finish_time": "01:21:58",
+    "finish_seconds": 4918
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 645,
+    "name": "Dudek, Rim",
+    "finish_time": "01:21:59",
+    "finish_seconds": 4919
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 647,
+    "name": "Reese, Sebastian",
+    "finish_time": "01:22:01",
+    "finish_seconds": 4921
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 649,
+    "name": "Jeppesen, Daniel Emilio",
+    "finish_time": "01:22:04",
+    "finish_seconds": 4924
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 651,
+    "name": "Pakaski, Marcel",
+    "finish_time": "01:22:04",
+    "finish_seconds": 4924
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 653,
+    "name": "Funk, Thorsten",
+    "finish_time": "01:22:05",
+    "finish_seconds": 4925
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 655,
+    "name": "Sanders, Sven",
+    "finish_time": "01:22:08",
+    "finish_seconds": 4928
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 657,
+    "name": "Pr\u00f6ll, Stefan",
+    "finish_time": "01:22:10",
+    "finish_seconds": 4930
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 659,
+    "name": "Molinos martin, Javier",
+    "finish_time": "01:22:17",
+    "finish_seconds": 4937
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 661,
+    "name": "Kroll, Leander",
+    "finish_time": "01:22:20",
+    "finish_seconds": 4940
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 663,
+    "name": "Ulbrich, Scott",
+    "finish_time": "01:22:21",
+    "finish_seconds": 4941
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 665,
+    "name": "Gironde, Loic",
+    "finish_time": "01:22:24",
+    "finish_seconds": 4944
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 667,
+    "name": "Schuchhardt, Manuel",
+    "finish_time": "01:22:24",
+    "finish_seconds": 4944
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 669,
+    "name": "Wheeler, Adam",
+    "finish_time": "01:22:29",
+    "finish_seconds": 4949
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 671,
+    "name": "Feuersch\u00fctz, Simon Philipp",
+    "finish_time": "01:22:30",
+    "finish_seconds": 4950
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 673,
+    "name": "Hansen, Christian",
+    "finish_time": "01:22:32",
+    "finish_seconds": 4952
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 675,
+    "name": "Brasil, Sidney",
+    "finish_time": "01:22:33",
+    "finish_seconds": 4953
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 677,
+    "name": "Akkaya, Vahdet",
+    "finish_time": "01:22:35",
+    "finish_seconds": 4955
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 679,
+    "name": "Eberhard, Nicholai",
+    "finish_time": "01:22:36",
+    "finish_seconds": 4956
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 681,
+    "name": "Haase, Sven",
+    "finish_time": "01:22:39",
+    "finish_seconds": 4959
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 683,
+    "name": "Sommer, Benjamin",
+    "finish_time": "01:22:41",
+    "finish_seconds": 4961
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 685,
+    "name": "Harms, Philipp",
+    "finish_time": "01:22:43",
+    "finish_seconds": 4963
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 687,
+    "name": "Ringmann, Guido",
+    "finish_time": "01:22:45",
+    "finish_seconds": 4965
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 689,
+    "name": "S\u00e8ve, Dorian",
+    "finish_time": "01:22:46",
+    "finish_seconds": 4966
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 691,
+    "name": "G\u00e4rtner, Henning",
+    "finish_time": "01:22:47",
+    "finish_seconds": 4967
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 693,
+    "name": "Rugova, Nol",
+    "finish_time": "01:22:50",
+    "finish_seconds": 4970
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 695,
+    "name": "Lissewski, Ken",
+    "finish_time": "01:22:52",
+    "finish_seconds": 4972
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 697,
+    "name": "Geweiler, Sven",
+    "finish_time": "01:22:53",
+    "finish_seconds": 4973
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 699,
+    "name": "Rohmann, Nic",
+    "finish_time": "01:22:57",
+    "finish_seconds": 4977
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 701,
+    "name": "Kurek, Rafael",
+    "finish_time": "01:23:02",
+    "finish_seconds": 4982
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 703,
+    "name": "Arndt, Dennis",
+    "finish_time": "01:23:05",
+    "finish_seconds": 4985
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 705,
+    "name": "Schulte Beckhausen, Philipp",
+    "finish_time": "01:23:10",
+    "finish_seconds": 4990
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 707,
+    "name": "Artuschenko, Andrej",
+    "finish_time": "01:23:11",
+    "finish_seconds": 4991
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 709,
+    "name": "Lukas, Yannic",
+    "finish_time": "01:23:13",
+    "finish_seconds": 4993
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 711,
+    "name": "Koeppen, Leon",
+    "finish_time": "01:23:14",
+    "finish_seconds": 4994
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 713,
+    "name": "Arling, Timo",
+    "finish_time": "01:23:15",
+    "finish_seconds": 4995
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 715,
+    "name": "M\u00fcller, Jannes",
+    "finish_time": "01:23:17",
+    "finish_seconds": 4997
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 717,
+    "name": "Schr\u00f6der, Jan",
+    "finish_time": "01:23:18",
+    "finish_seconds": 4998
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 719,
+    "name": "K\u00f6hn, Hans Werner",
+    "finish_time": "01:23:20",
+    "finish_seconds": 5000
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 721,
+    "name": "B\u00fcllesbach, Timo",
+    "finish_time": "01:23:24",
+    "finish_seconds": 5004
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 723,
+    "name": "van der Aa, Julius",
+    "finish_time": "01:23:26",
+    "finish_seconds": 5006
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 725,
+    "name": "Dutt, Andreas",
+    "finish_time": "01:23:27",
+    "finish_seconds": 5007
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 727,
+    "name": "Br\u00f6ring, Stefan",
+    "finish_time": "01:23:28",
+    "finish_seconds": 5008
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 729,
+    "name": "Patel, Paresh",
+    "finish_time": "01:23:30",
+    "finish_seconds": 5010
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 731,
+    "name": "Fa, Arpad",
+    "finish_time": "01:23:34",
+    "finish_seconds": 5014
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 733,
+    "name": "D\u00f6rner, Tobias",
+    "finish_time": "01:23:36",
+    "finish_seconds": 5016
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 735,
+    "name": "Brouwers, Niclas",
+    "finish_time": "01:23:38",
+    "finish_seconds": 5018
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 737,
+    "name": "Lieder, Christoph",
+    "finish_time": "01:23:41",
+    "finish_seconds": 5021
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 739,
+    "name": "Simmonds, Charles",
+    "finish_time": "01:23:45",
+    "finish_seconds": 5025
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 741,
+    "name": "Schmidt, Kersten",
+    "finish_time": "01:23:48",
+    "finish_seconds": 5028
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 743,
+    "name": "Esgici, Ahmet",
+    "finish_time": "01:23:50",
+    "finish_seconds": 5030
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 745,
+    "name": "Trauernicht, Sven",
+    "finish_time": "01:23:50",
+    "finish_seconds": 5030
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 747,
+    "name": "Na\u00df, Yannik",
+    "finish_time": "01:23:51",
+    "finish_seconds": 5031
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 749,
+    "name": "Friedrich, Daniel",
+    "finish_time": "01:23:55",
+    "finish_seconds": 5035
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 751,
+    "name": "Opitz, Franco",
+    "finish_time": "01:23:57",
+    "finish_seconds": 5037
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 753,
+    "name": "Ketelsen, Lewe",
+    "finish_time": "01:24:00",
+    "finish_seconds": 5040
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 755,
+    "name": "Horch, Moritz",
+    "finish_time": "01:24:00",
+    "finish_seconds": 5040
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 757,
+    "name": "Moon, Alex",
+    "finish_time": "01:24:03",
+    "finish_seconds": 5043
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 759,
+    "name": "Neumann-Holbeck, Fabian",
+    "finish_time": "01:24:04",
+    "finish_seconds": 5044
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 761,
+    "name": "Sengelhoff, Miguel",
+    "finish_time": "01:24:06",
+    "finish_seconds": 5046
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 763,
+    "name": "Paulat, Niclas",
+    "finish_time": "01:24:08",
+    "finish_seconds": 5048
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 765,
+    "name": "Kapusta, Gregor",
+    "finish_time": "01:24:11",
+    "finish_seconds": 5051
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 767,
+    "name": "Fockers, Andreas",
+    "finish_time": "01:24:11",
+    "finish_seconds": 5051
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 769,
+    "name": "Bay, Brian",
+    "finish_time": "01:24:13",
+    "finish_seconds": 5053
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 771,
+    "name": "Bruland, Alexander",
+    "finish_time": "01:24:16",
+    "finish_seconds": 5056
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 773,
+    "name": "Antoine, Arthur",
+    "finish_time": "01:24:21",
+    "finish_seconds": 5061
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 775,
+    "name": "Cristoi, Ovidiu",
+    "finish_time": "01:24:23",
+    "finish_seconds": 5063
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 777,
+    "name": "Lukas, Sven",
+    "finish_time": "01:24:24",
+    "finish_seconds": 5064
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 779,
+    "name": "Apolant, Max",
+    "finish_time": "01:24:25",
+    "finish_seconds": 5065
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 781,
+    "name": "Steiper, Rene",
+    "finish_time": "01:24:26",
+    "finish_seconds": 5066
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 783,
+    "name": "Malinowski, Jakub",
+    "finish_time": "01:24:29",
+    "finish_seconds": 5069
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 785,
+    "name": "Villavicencio, Antonio",
+    "finish_time": "01:24:34",
+    "finish_seconds": 5074
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 787,
+    "name": "Henkies, Nicolas",
+    "finish_time": "01:24:40",
+    "finish_seconds": 5080
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 789,
+    "name": "Phillips, Daphny",
+    "finish_time": "01:24:42",
+    "finish_seconds": 5082
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 791,
+    "name": "Rathmanner, J\u00fcrgen",
+    "finish_time": "01:24:43",
+    "finish_seconds": 5083
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 793,
+    "name": "Sievers, Patrick",
+    "finish_time": "01:24:46",
+    "finish_seconds": 5086
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 795,
+    "name": "Jelalli, Aissa",
+    "finish_time": "01:24:53",
+    "finish_seconds": 5093
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 797,
+    "name": "Antweiler, Stefan",
+    "finish_time": "01:24:54",
+    "finish_seconds": 5094
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 799,
+    "name": "Bricknell, Joe",
+    "finish_time": "01:24:58",
+    "finish_seconds": 5098
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 801,
+    "name": "Werner, Henning",
+    "finish_time": "01:24:59",
+    "finish_seconds": 5099
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 803,
+    "name": "Kraj, Luk\u00e1\u0161",
+    "finish_time": "01:25:03",
+    "finish_seconds": 5103
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 805,
+    "name": "Pl\u00fcth, Lucas",
+    "finish_time": "01:25:05",
+    "finish_seconds": 5105
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 807,
+    "name": "Geerds, Bodo",
+    "finish_time": "01:25:08",
+    "finish_seconds": 5108
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 809,
+    "name": "Reichelt, Malte",
+    "finish_time": "01:25:09",
+    "finish_seconds": 5109
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 811,
+    "name": "Hilgenst\u00f6hler, Mads",
+    "finish_time": "01:25:11",
+    "finish_seconds": 5111
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 813,
+    "name": "Dimigen, Felix",
+    "finish_time": "01:25:12",
+    "finish_seconds": 5112
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 815,
+    "name": "Omoregbee, Louis Aisosa",
+    "finish_time": "01:25:16",
+    "finish_seconds": 5116
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 817,
+    "name": "Heinrichs, Frederik",
+    "finish_time": "01:25:18",
+    "finish_seconds": 5118
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 819,
+    "name": "Neumann-John, Maximilian",
+    "finish_time": "01:25:26",
+    "finish_seconds": 5126
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 821,
+    "name": "Vollmer, Bastian",
+    "finish_time": "01:25:33",
+    "finish_seconds": 5133
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 823,
+    "name": "Schl\u00fcter, Olaf",
+    "finish_time": "01:25:40",
+    "finish_seconds": 5140
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 825,
+    "name": "B\u00fcchling, Axel",
+    "finish_time": "01:25:41",
+    "finish_seconds": 5141
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 827,
+    "name": "K\u00fchl, Pascal",
+    "finish_time": "01:25:46",
+    "finish_seconds": 5146
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 829,
+    "name": "Schwitters, Tammo",
+    "finish_time": "01:25:51",
+    "finish_seconds": 5151
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 831,
+    "name": "K\u00fcster, Stefan",
+    "finish_time": "01:25:52",
+    "finish_seconds": 5152
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 833,
+    "name": "Maier, Markus",
+    "finish_time": "01:25:52",
+    "finish_seconds": 5152
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 835,
+    "name": "Petzina, Rainer",
+    "finish_time": "01:25:54",
+    "finish_seconds": 5154
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 837,
+    "name": "B\u00fcll, Thomss",
+    "finish_time": "01:26:00",
+    "finish_seconds": 5160
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 839,
+    "name": "Stephens, Mark",
+    "finish_time": "01:26:01",
+    "finish_seconds": 5161
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 841,
+    "name": "Linkiewicz, Nils",
+    "finish_time": "01:26:03",
+    "finish_seconds": 5163
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 843,
+    "name": "Tholen, Andreas",
+    "finish_time": "01:26:04",
+    "finish_seconds": 5164
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 845,
+    "name": "L\u00fcdemann, Christian",
+    "finish_time": "01:26:05",
+    "finish_seconds": 5165
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 847,
+    "name": "Cardoso e Sousa, Dennis",
+    "finish_time": "01:26:07",
+    "finish_seconds": 5167
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 849,
+    "name": "Belov, Valentin",
+    "finish_time": "01:26:10",
+    "finish_seconds": 5170
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 851,
+    "name": "Schr\u00f6der, Philipp",
+    "finish_time": "01:26:14",
+    "finish_seconds": 5174
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 853,
+    "name": "Perez Rangel, Juan Camilo",
+    "finish_time": "01:26:17",
+    "finish_seconds": 5177
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 855,
+    "name": "Poschmann, Otto",
+    "finish_time": "01:26:18",
+    "finish_seconds": 5178
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 857,
+    "name": "Silber, Stephan",
+    "finish_time": "01:26:20",
+    "finish_seconds": 5180
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 859,
+    "name": "Seidl, Gerhart",
+    "finish_time": "01:26:22",
+    "finish_seconds": 5182
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 861,
+    "name": "Hanley, James",
+    "finish_time": "01:26:24",
+    "finish_seconds": 5184
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 863,
+    "name": "Vass, Tom",
+    "finish_time": "01:26:26",
+    "finish_seconds": 5186
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 865,
+    "name": "Sch\u00fcller, Yannick",
+    "finish_time": "01:26:27",
+    "finish_seconds": 5187
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 867,
+    "name": "Reche, Kai",
+    "finish_time": "01:26:28",
+    "finish_seconds": 5188
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 869,
+    "name": "M\u00fcller, Kim",
+    "finish_time": "01:26:33",
+    "finish_seconds": 5193
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 871,
+    "name": "Schubert, Pascal",
+    "finish_time": "01:26:33",
+    "finish_seconds": 5193
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 873,
+    "name": "R\u00e4nicke, Christian",
+    "finish_time": "01:26:37",
+    "finish_seconds": 5197
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 875,
+    "name": "Jasper, Dennis",
+    "finish_time": "01:26:41",
+    "finish_seconds": 5201
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 877,
+    "name": "Brunet, Anthony",
+    "finish_time": "01:26:43",
+    "finish_seconds": 5203
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 879,
+    "name": "Colmann, Olaf Albert",
+    "finish_time": "01:26:47",
+    "finish_seconds": 5207
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 881,
+    "name": "van den Driest, Bram",
+    "finish_time": "01:26:47",
+    "finish_seconds": 5207
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 883,
+    "name": "Jensen, Mike",
+    "finish_time": "01:26:51",
+    "finish_seconds": 5211
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 885,
+    "name": "Audic, Thibault",
+    "finish_time": "01:26:56",
+    "finish_seconds": 5216
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 887,
+    "name": "Neudecker, Henrik",
+    "finish_time": "01:26:58",
+    "finish_seconds": 5218
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 889,
+    "name": "R\u00f6h, Matthis",
+    "finish_time": "01:27:00",
+    "finish_seconds": 5220
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 891,
+    "name": "Gerthsen, Melf",
+    "finish_time": "01:27:01",
+    "finish_seconds": 5221
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 893,
+    "name": "Wagner, Udo",
+    "finish_time": "01:27:03",
+    "finish_seconds": 5223
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 895,
+    "name": "Beyer, Leo",
+    "finish_time": "01:27:06",
+    "finish_seconds": 5226
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 897,
+    "name": "Kramer, Stefan",
+    "finish_time": "01:27:09",
+    "finish_seconds": 5229
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 899,
+    "name": "Grohnert, Christian",
+    "finish_time": "01:27:11",
+    "finish_seconds": 5231
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 901,
+    "name": "Leinius, Ulf",
+    "finish_time": "01:27:14",
+    "finish_seconds": 5234
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 903,
+    "name": "Woschek, Andreas",
+    "finish_time": "01:27:15",
+    "finish_seconds": 5235
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 905,
+    "name": "Winter, Norman",
+    "finish_time": "01:27:16",
+    "finish_seconds": 5236
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 907,
+    "name": "Wessel, Karsten",
+    "finish_time": "01:27:21",
+    "finish_seconds": 5241
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 909,
+    "name": "Diez, Timon",
+    "finish_time": "01:27:23",
+    "finish_seconds": 5243
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 911,
+    "name": "Friis, Nicky",
+    "finish_time": "01:27:26",
+    "finish_seconds": 5246
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 913,
+    "name": "Brady, Emmet",
+    "finish_time": "01:27:29",
+    "finish_seconds": 5249
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 915,
+    "name": "Wieking, Birger",
+    "finish_time": "01:27:31",
+    "finish_seconds": 5251
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 917,
+    "name": "Sch\u00f6n, Gerrit",
+    "finish_time": "01:27:36",
+    "finish_seconds": 5256
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 919,
+    "name": "Garcia, Kevin",
+    "finish_time": "01:27:38",
+    "finish_seconds": 5258
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 921,
+    "name": "Hilgenst\u00fchler, Hendrik",
+    "finish_time": "01:27:40",
+    "finish_seconds": 5260
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 923,
+    "name": "Breuer, Tom",
+    "finish_time": "01:27:42",
+    "finish_seconds": 5262
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 925,
+    "name": "Becher, Patrick",
+    "finish_time": "01:27:45",
+    "finish_seconds": 5265
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 927,
+    "name": "Measham, Hadleigh",
+    "finish_time": "01:27:47",
+    "finish_seconds": 5267
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 929,
+    "name": "Schwegmann, Holger",
+    "finish_time": "01:27:49",
+    "finish_seconds": 5269
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 931,
+    "name": "Hine, Mark",
+    "finish_time": "01:27:50",
+    "finish_seconds": 5270
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 933,
+    "name": "Singpiel, Torben",
+    "finish_time": "01:27:52",
+    "finish_seconds": 5272
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 935,
+    "name": "Ten Brinke, Lodewijk",
+    "finish_time": "01:27:55",
+    "finish_seconds": 5275
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 937,
+    "name": "Fischer, Stephan",
+    "finish_time": "01:27:57",
+    "finish_seconds": 5277
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 939,
+    "name": "Leonardo, Victorio",
+    "finish_time": "01:27:59",
+    "finish_seconds": 5279
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 941,
+    "name": "Kramer, Lukas",
+    "finish_time": "01:28:01",
+    "finish_seconds": 5281
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 943,
+    "name": "Simion, Razvan",
+    "finish_time": "01:28:01",
+    "finish_seconds": 5281
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 945,
+    "name": "Nguyen, Dustin",
+    "finish_time": "01:28:03",
+    "finish_seconds": 5283
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 947,
+    "name": "Lorbeer, Jan",
+    "finish_time": "01:28:05",
+    "finish_seconds": 5285
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 949,
+    "name": "Bauer, Alexander",
+    "finish_time": "01:28:06",
+    "finish_seconds": 5286
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 951,
+    "name": "Dalsgaard, Stephan",
+    "finish_time": "01:28:08",
+    "finish_seconds": 5288
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 953,
+    "name": "Thiele, Maximilian",
+    "finish_time": "01:28:13",
+    "finish_seconds": 5293
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 955,
+    "name": "Luu, Daniel",
+    "finish_time": "01:28:16",
+    "finish_seconds": 5296
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 957,
+    "name": "Guiziou, L\u00e9o",
+    "finish_time": "01:28:18",
+    "finish_seconds": 5298
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 959,
+    "name": "Zebisch, Adrian",
+    "finish_time": "01:28:22",
+    "finish_seconds": 5302
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 961,
+    "name": "Dhouib, Youssef",
+    "finish_time": "01:28:23",
+    "finish_seconds": 5303
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 963,
+    "name": "Huschke, Tobias",
+    "finish_time": "01:28:23",
+    "finish_seconds": 5303
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 965,
+    "name": "Maltzan, Fabian",
+    "finish_time": "01:28:25",
+    "finish_seconds": 5305
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 967,
+    "name": "Walter, Daniel",
+    "finish_time": "01:28:26",
+    "finish_seconds": 5306
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 969,
+    "name": "Volkwein, Paul",
+    "finish_time": "01:28:29",
+    "finish_seconds": 5309
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 971,
+    "name": "Constantinou, Alex",
+    "finish_time": "01:28:31",
+    "finish_seconds": 5311
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 973,
+    "name": "Bauersfeld, Marcel",
+    "finish_time": "01:28:32",
+    "finish_seconds": 5312
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 975,
+    "name": "Bernhardt, Wolfgang",
+    "finish_time": "01:28:33",
+    "finish_seconds": 5313
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 977,
+    "name": "Fischer-Wasels, Niko",
+    "finish_time": "01:28:34",
+    "finish_seconds": 5314
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 979,
+    "name": "Czech, Patrick",
+    "finish_time": "01:28:36",
+    "finish_seconds": 5316
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 981,
+    "name": "Dahlem, Fabio",
+    "finish_time": "01:28:37",
+    "finish_seconds": 5317
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 983,
+    "name": "Meyer zu Halingdorf, Andreas",
+    "finish_time": "01:28:40",
+    "finish_seconds": 5320
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 985,
+    "name": "Schneider, Kjell",
+    "finish_time": "01:28:42",
+    "finish_seconds": 5322
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 987,
+    "name": "Heavin, Liam",
+    "finish_time": "01:28:47",
+    "finish_seconds": 5327
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 989,
+    "name": "Jung, Alexander",
+    "finish_time": "01:28:49",
+    "finish_seconds": 5329
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 991,
+    "name": "Platena, Justus",
+    "finish_time": "01:28:49",
+    "finish_seconds": 5329
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 993,
+    "name": "Matthiesen, Thorsten",
+    "finish_time": "01:28:50",
+    "finish_seconds": 5330
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 995,
+    "name": "G\u00f6pfert, Mike",
+    "finish_time": "01:28:52",
+    "finish_seconds": 5332
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 997,
+    "name": "Shepsenval, Nikita",
+    "finish_time": "01:28:53",
+    "finish_seconds": 5333
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 999,
+    "name": "L\u00fcpping, Lars",
+    "finish_time": "01:28:54",
+    "finish_seconds": 5334
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1001,
+    "name": "B\u00f6ttcher, Dirk",
+    "finish_time": "01:28:57",
+    "finish_seconds": 5337
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1003,
+    "name": "Pozo, Sebastian",
+    "finish_time": "01:28:58",
+    "finish_seconds": 5338
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1005,
+    "name": "Raitano, Paolo",
+    "finish_time": "01:29:01",
+    "finish_seconds": 5341
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1007,
+    "name": "Rapelius, Christof",
+    "finish_time": "01:29:06",
+    "finish_seconds": 5346
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1009,
+    "name": "Keller, Atilla",
+    "finish_time": "01:29:09",
+    "finish_seconds": 5349
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1011,
+    "name": "Kolb, Alexander",
+    "finish_time": "01:29:11",
+    "finish_seconds": 5351
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1013,
+    "name": "Andresen, Till",
+    "finish_time": "01:29:14",
+    "finish_seconds": 5354
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1015,
+    "name": "Fagaschewski, Janosch",
+    "finish_time": "01:29:16",
+    "finish_seconds": 5356
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1017,
+    "name": "Lintz, Florian",
+    "finish_time": "01:29:17",
+    "finish_seconds": 5357
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1019,
+    "name": "Koch, Patrick",
+    "finish_time": "01:29:19",
+    "finish_seconds": 5359
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1021,
+    "name": "Gollan, Jan Malte",
+    "finish_time": "01:29:23",
+    "finish_seconds": 5363
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1023,
+    "name": "Chrobot, Daniel",
+    "finish_time": "01:29:25",
+    "finish_seconds": 5365
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1025,
+    "name": "WATEL, Jean-Maxence",
+    "finish_time": "01:29:26",
+    "finish_seconds": 5366
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1027,
+    "name": "Kohl, Tim",
+    "finish_time": "01:29:26",
+    "finish_seconds": 5366
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1029,
+    "name": "Schmidt, Akim",
+    "finish_time": "01:29:29",
+    "finish_seconds": 5369
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1031,
+    "name": "Molina, Agustin",
+    "finish_time": "01:29:30",
+    "finish_seconds": 5370
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1033,
+    "name": "Sonntag, Martin",
+    "finish_time": "01:29:31",
+    "finish_seconds": 5371
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1035,
+    "name": "Brandes, Marek",
+    "finish_time": "01:29:37",
+    "finish_seconds": 5377
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1037,
+    "name": "Schlaweck, Dustin",
+    "finish_time": "01:29:40",
+    "finish_seconds": 5380
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1039,
+    "name": "Zillinger, Niklas",
+    "finish_time": "01:29:42",
+    "finish_seconds": 5382
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1041,
+    "name": "Schiffner, Thomas",
+    "finish_time": "01:29:45",
+    "finish_seconds": 5385
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1043,
+    "name": "Fitzgerald, Aidan",
+    "finish_time": "01:29:49",
+    "finish_seconds": 5389
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1045,
+    "name": "Seeliger, Jan",
+    "finish_time": "01:29:51",
+    "finish_seconds": 5391
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1047,
+    "name": "Benn, Adam",
+    "finish_time": "01:29:53",
+    "finish_seconds": 5393
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1049,
+    "name": "Reger, Tobias",
+    "finish_time": "01:29:54",
+    "finish_seconds": 5394
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1051,
+    "name": "Kristensen, Peter",
+    "finish_time": "01:29:56",
+    "finish_seconds": 5396
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1053,
+    "name": "Queren, Patrick",
+    "finish_time": "01:29:56",
+    "finish_seconds": 5396
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1055,
+    "name": "T\u00fcrschmann, Mirco",
+    "finish_time": "01:29:58",
+    "finish_seconds": 5398
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1057,
+    "name": "Schmitz, Gereon",
+    "finish_time": "01:30:03",
+    "finish_seconds": 5403
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1059,
+    "name": "Pa\u00dfvogel, Nicklas",
+    "finish_time": "01:30:04",
+    "finish_seconds": 5404
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1061,
+    "name": "Otte, Jannes",
+    "finish_time": "01:30:09",
+    "finish_seconds": 5409
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1063,
+    "name": "Jensen, Rasmus",
+    "finish_time": "01:30:12",
+    "finish_seconds": 5412
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1065,
+    "name": "Schwerdtfeger, Patrick",
+    "finish_time": "01:30:17",
+    "finish_seconds": 5417
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1067,
+    "name": "Versley, Paul Leo",
+    "finish_time": "01:30:20",
+    "finish_seconds": 5420
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1069,
+    "name": "Herzog, Tom Justin",
+    "finish_time": "01:30:23",
+    "finish_seconds": 5423
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1071,
+    "name": "Aks\u00fct, Tolga",
+    "finish_time": "01:30:24",
+    "finish_seconds": 5424
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1073,
+    "name": "Nothdurft, Cedric",
+    "finish_time": "01:30:28",
+    "finish_seconds": 5428
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1075,
+    "name": "Gonzalez Elizalde, David",
+    "finish_time": "01:30:28",
+    "finish_seconds": 5428
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1077,
+    "name": "Klonicki, Mike",
+    "finish_time": "01:30:28",
+    "finish_seconds": 5428
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1079,
+    "name": "H\u00fcser, Frank",
+    "finish_time": "01:30:30",
+    "finish_seconds": 5430
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1081,
+    "name": "Blumenthal, Kevin",
+    "finish_time": "01:30:32",
+    "finish_seconds": 5432
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1083,
+    "name": "Christiansen, Timo",
+    "finish_time": "01:30:34",
+    "finish_seconds": 5434
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1085,
+    "name": "von Bleichert, Kristian",
+    "finish_time": "01:30:36",
+    "finish_seconds": 5436
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1087,
+    "name": "Steinhauer, Benjamin",
+    "finish_time": "01:30:37",
+    "finish_seconds": 5437
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1089,
+    "name": "Wieczorek, Jannis",
+    "finish_time": "01:30:43",
+    "finish_seconds": 5443
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1091,
+    "name": "Ziemann, Peter",
+    "finish_time": "01:30:46",
+    "finish_seconds": 5446
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1093,
+    "name": "Hildebrandt, Till",
+    "finish_time": "01:30:50",
+    "finish_seconds": 5450
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1095,
+    "name": "Hunecke, Bastian",
+    "finish_time": "01:30:51",
+    "finish_seconds": 5451
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1097,
+    "name": "Martens, Thomas",
+    "finish_time": "01:30:53",
+    "finish_seconds": 5453
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1099,
+    "name": "Bartschat, Timo",
+    "finish_time": "01:30:56",
+    "finish_seconds": 5456
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1101,
+    "name": "Pollakowski, Ruben",
+    "finish_time": "01:31:00",
+    "finish_seconds": 5460
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1103,
+    "name": "Reinhold, Michael",
+    "finish_time": "01:31:02",
+    "finish_seconds": 5462
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1105,
+    "name": "Schmitt, Maximilian",
+    "finish_time": "01:31:03",
+    "finish_seconds": 5463
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1107,
+    "name": "Prey, Jonas",
+    "finish_time": "01:31:06",
+    "finish_seconds": 5466
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1109,
+    "name": "Otte, Christopher",
+    "finish_time": "01:31:08",
+    "finish_seconds": 5468
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1111,
+    "name": "Stegemann, Tim",
+    "finish_time": "01:31:09",
+    "finish_seconds": 5469
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1113,
+    "name": "Wulf, Pascal",
+    "finish_time": "01:31:15",
+    "finish_seconds": 5475
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1115,
+    "name": "Kister, Andreas",
+    "finish_time": "01:31:16",
+    "finish_seconds": 5476
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1117,
+    "name": "Zwenger, Fabio",
+    "finish_time": "01:31:20",
+    "finish_seconds": 5480
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1119,
+    "name": "van den Berg, Andr\u00e9",
+    "finish_time": "01:31:22",
+    "finish_seconds": 5482
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1121,
+    "name": "Ouarghi, Yousef",
+    "finish_time": "01:31:25",
+    "finish_seconds": 5485
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1123,
+    "name": "Lehmanski, Patrick",
+    "finish_time": "01:31:27",
+    "finish_seconds": 5487
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1125,
+    "name": "Posor, Benjamin",
+    "finish_time": "01:31:27",
+    "finish_seconds": 5487
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1127,
+    "name": "Garrels, Patrick",
+    "finish_time": "01:31:32",
+    "finish_seconds": 5492
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1129,
+    "name": "Patrizio, Lawrence",
+    "finish_time": "01:31:33",
+    "finish_seconds": 5493
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1131,
+    "name": "Carmienke-B\u00f6ttcher, Philip",
+    "finish_time": "01:31:40",
+    "finish_seconds": 5500
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1133,
+    "name": "Beuning, Felix",
+    "finish_time": "01:31:41",
+    "finish_seconds": 5501
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1135,
+    "name": "Termer, Jonas",
+    "finish_time": "01:31:45",
+    "finish_seconds": 5505
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1137,
+    "name": "Lopez Alguiar, Gerardo Daniel",
+    "finish_time": "01:31:46",
+    "finish_seconds": 5506
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1139,
+    "name": "Wehlmann, Chris",
+    "finish_time": "01:31:49",
+    "finish_seconds": 5509
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1141,
+    "name": "Jaske, Sebastian",
+    "finish_time": "01:31:54",
+    "finish_seconds": 5514
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1143,
+    "name": "Stolina, Lennart",
+    "finish_time": "01:31:56",
+    "finish_seconds": 5516
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1145,
+    "name": "Featherstone, Chris Mark",
+    "finish_time": "01:31:57",
+    "finish_seconds": 5517
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1147,
+    "name": "Erpff, Finn",
+    "finish_time": "01:31:58",
+    "finish_seconds": 5518
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1149,
+    "name": "Staack, Bjarne",
+    "finish_time": "01:32:03",
+    "finish_seconds": 5523
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1151,
+    "name": "Karakas, Ayhan",
+    "finish_time": "01:32:06",
+    "finish_seconds": 5526
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1153,
+    "name": "Fischer, Christian",
+    "finish_time": "01:32:07",
+    "finish_seconds": 5527
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1155,
+    "name": "Gottschalch, Runar",
+    "finish_time": "01:32:13",
+    "finish_seconds": 5533
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1157,
+    "name": "Rost, Bastian",
+    "finish_time": "01:32:15",
+    "finish_seconds": 5535
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1159,
+    "name": "K\u00f6hler, Maximilian",
+    "finish_time": "01:32:20",
+    "finish_seconds": 5540
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1161,
+    "name": "Br\u00e4seke, Thomas",
+    "finish_time": "01:32:24",
+    "finish_seconds": 5544
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1163,
+    "name": "Ahrens, Kevin",
+    "finish_time": "01:32:29",
+    "finish_seconds": 5549
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1165,
+    "name": "Tkachenko, Olha",
+    "finish_time": "01:32:32",
+    "finish_seconds": 5552
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1167,
+    "name": "Benecke, Bastian",
+    "finish_time": "01:32:35",
+    "finish_seconds": 5555
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1169,
+    "name": "Winzeler, Pascal",
+    "finish_time": "01:32:36",
+    "finish_seconds": 5556
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1171,
+    "name": "Taller, Moritz",
+    "finish_time": "01:32:40",
+    "finish_seconds": 5560
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1173,
+    "name": "Malorny, Klaus",
+    "finish_time": "01:32:42",
+    "finish_seconds": 5562
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1175,
+    "name": "Koschare, Kester",
+    "finish_time": "01:32:49",
+    "finish_seconds": 5569
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1177,
+    "name": "Unger, Mattis",
+    "finish_time": "01:32:53",
+    "finish_seconds": 5573
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1179,
+    "name": "Kalitschke, Steffen",
+    "finish_time": "01:32:57",
+    "finish_seconds": 5577
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1181,
+    "name": "Aigner, Robert",
+    "finish_time": "01:32:58",
+    "finish_seconds": 5578
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1183,
+    "name": "Semmler, Mirko",
+    "finish_time": "01:33:04",
+    "finish_seconds": 5584
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1185,
+    "name": "Simmons, Joe",
+    "finish_time": "01:33:09",
+    "finish_seconds": 5589
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1187,
+    "name": "Mielke, Hendrik",
+    "finish_time": "01:33:13",
+    "finish_seconds": 5593
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1189,
+    "name": "Mott, Freddie",
+    "finish_time": "01:33:15",
+    "finish_seconds": 5595
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1191,
+    "name": "Mehlert, Heiko",
+    "finish_time": "01:33:19",
+    "finish_seconds": 5599
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1193,
+    "name": "L\u00fcbbert, Kjell",
+    "finish_time": "01:33:20",
+    "finish_seconds": 5600
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1195,
+    "name": "Wiebe, Andreas",
+    "finish_time": "01:33:26",
+    "finish_seconds": 5606
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1197,
+    "name": "Markert, Timo",
+    "finish_time": "01:33:28",
+    "finish_seconds": 5608
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1199,
+    "name": "Wolf, Patrick",
+    "finish_time": "01:33:29",
+    "finish_seconds": 5609
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1201,
+    "name": "Rathje, Erik",
+    "finish_time": "01:33:31",
+    "finish_seconds": 5611
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1203,
+    "name": "Breslin, Eamonn",
+    "finish_time": "01:33:32",
+    "finish_seconds": 5612
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1205,
+    "name": "Peter, Bastian",
+    "finish_time": "01:33:41",
+    "finish_seconds": 5621
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1207,
+    "name": "Pettersson, Philip",
+    "finish_time": "01:33:43",
+    "finish_seconds": 5623
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1209,
+    "name": "Lorenc, Jakub",
+    "finish_time": "01:33:45",
+    "finish_seconds": 5625
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1211,
+    "name": "Jaraba, George",
+    "finish_time": "01:33:48",
+    "finish_seconds": 5628
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1213,
+    "name": "Bitterlich, Florian",
+    "finish_time": "01:33:49",
+    "finish_seconds": 5629
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1215,
+    "name": "Makasci, Aydogan",
+    "finish_time": "01:33:50",
+    "finish_seconds": 5630
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1217,
+    "name": "Kupper, Alexander",
+    "finish_time": "01:33:51",
+    "finish_seconds": 5631
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1219,
+    "name": "Frank, Florian",
+    "finish_time": "01:33:52",
+    "finish_seconds": 5632
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1221,
+    "name": "Schr\u00f6der, Kay",
+    "finish_time": "01:33:53",
+    "finish_seconds": 5633
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1223,
+    "name": "Basche, Jacob",
+    "finish_time": "01:33:56",
+    "finish_seconds": 5636
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1225,
+    "name": "TSAKALOS, SPYRIDON",
+    "finish_time": "01:34:01",
+    "finish_seconds": 5641
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1227,
+    "name": "GALLOWAY, ISAAC",
+    "finish_time": "01:34:06",
+    "finish_seconds": 5646
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1229,
+    "name": "Gienow, Jakob",
+    "finish_time": "01:34:07",
+    "finish_seconds": 5647
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1231,
+    "name": "Schewe, Thomas",
+    "finish_time": "01:34:09",
+    "finish_seconds": 5649
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1233,
+    "name": "Rauh, Falco",
+    "finish_time": "01:34:12",
+    "finish_seconds": 5652
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1235,
+    "name": "Hoursch, Vincent",
+    "finish_time": "01:34:16",
+    "finish_seconds": 5656
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1237,
+    "name": "M\u00fcller, Christian",
+    "finish_time": "01:34:17",
+    "finish_seconds": 5657
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1239,
+    "name": "Zapatka, Lukas",
+    "finish_time": "01:34:22",
+    "finish_seconds": 5662
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1241,
+    "name": "Villiers-Tuthill, Graham",
+    "finish_time": "01:34:23",
+    "finish_seconds": 5663
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1243,
+    "name": "Riegamer, Ruben",
+    "finish_time": "01:34:26",
+    "finish_seconds": 5666
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1245,
+    "name": "Franke, Kai",
+    "finish_time": "01:34:28",
+    "finish_seconds": 5668
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1247,
+    "name": "Fernandes, Jerome",
+    "finish_time": "01:34:29",
+    "finish_seconds": 5669
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1249,
+    "name": "Martinez, Kevin",
+    "finish_time": "01:34:32",
+    "finish_seconds": 5672
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1251,
+    "name": "Nitschke, Sascha",
+    "finish_time": "01:34:34",
+    "finish_seconds": 5674
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1253,
+    "name": "Sanford, Louis",
+    "finish_time": "01:34:35",
+    "finish_seconds": 5675
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1255,
+    "name": "Wegeleben, Ole",
+    "finish_time": "01:34:38",
+    "finish_seconds": 5678
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1257,
+    "name": "M\u00f8ller, Kim Nyeng",
+    "finish_time": "01:34:40",
+    "finish_seconds": 5680
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1259,
+    "name": "Reinelt, Marcel",
+    "finish_time": "01:34:41",
+    "finish_seconds": 5681
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1261,
+    "name": "Rothe, Meik",
+    "finish_time": "01:34:45",
+    "finish_seconds": 5685
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1263,
+    "name": "Wischer, Hinrich",
+    "finish_time": "01:34:47",
+    "finish_seconds": 5687
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1265,
+    "name": "Mixdorf, Yannick",
+    "finish_time": "01:34:48",
+    "finish_seconds": 5688
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1267,
+    "name": "Harste, Roland",
+    "finish_time": "01:34:49",
+    "finish_seconds": 5689
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1269,
+    "name": "Elsner, Mike",
+    "finish_time": "01:35:00",
+    "finish_seconds": 5700
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1271,
+    "name": "Schwarz, Andre",
+    "finish_time": "01:35:05",
+    "finish_seconds": 5705
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1273,
+    "name": "GUZMAN, RAUL",
+    "finish_time": "01:35:09",
+    "finish_seconds": 5709
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1275,
+    "name": "Zabel, Philipp",
+    "finish_time": "01:35:14",
+    "finish_seconds": 5714
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1277,
+    "name": "Adamson, Roger",
+    "finish_time": "01:35:14",
+    "finish_seconds": 5714
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1279,
+    "name": "Gehlen, Nils",
+    "finish_time": "01:35:18",
+    "finish_seconds": 5718
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1281,
+    "name": "Krapf, Marco",
+    "finish_time": "01:35:19",
+    "finish_seconds": 5719
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1283,
+    "name": "McCarthy, Kilian",
+    "finish_time": "01:35:30",
+    "finish_seconds": 5730
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1285,
+    "name": "Schuell, Paul",
+    "finish_time": "01:35:32",
+    "finish_seconds": 5732
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1287,
+    "name": "Oelrich, Jannik",
+    "finish_time": "01:35:37",
+    "finish_seconds": 5737
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1289,
+    "name": "Sch\u00f6nfeld, Henrik",
+    "finish_time": "01:35:39",
+    "finish_seconds": 5739
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1291,
+    "name": "Hemme, Christopher",
+    "finish_time": "01:35:40",
+    "finish_seconds": 5740
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1293,
+    "name": "Klauenberg, Frank",
+    "finish_time": "01:35:42",
+    "finish_seconds": 5742
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1295,
+    "name": "Tahiri Alaoui, Marwane",
+    "finish_time": "01:35:45",
+    "finish_seconds": 5745
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1297,
+    "name": "Harrison, Marvin",
+    "finish_time": "01:35:49",
+    "finish_seconds": 5749
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1299,
+    "name": "Eistrup, Peter",
+    "finish_time": "01:35:51",
+    "finish_seconds": 5751
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1301,
+    "name": "Blohm, Hauke",
+    "finish_time": "01:35:54",
+    "finish_seconds": 5754
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1303,
+    "name": "Parr, Andr\u00e9",
+    "finish_time": "01:35:56",
+    "finish_seconds": 5756
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1305,
+    "name": "Bosbach, Matthias",
+    "finish_time": "01:35:57",
+    "finish_seconds": 5757
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1307,
+    "name": "Fischer, Tino",
+    "finish_time": "01:36:00",
+    "finish_seconds": 5760
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1309,
+    "name": "Heide, Tobias",
+    "finish_time": "01:36:03",
+    "finish_seconds": 5763
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1311,
+    "name": "Mohrmann, J\u00f6rg",
+    "finish_time": "01:36:06",
+    "finish_seconds": 5766
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1313,
+    "name": "Hausmann, Malte",
+    "finish_time": "01:36:14",
+    "finish_seconds": 5774
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1315,
+    "name": "Pelowski, \u0141ukasz",
+    "finish_time": "01:36:20",
+    "finish_seconds": 5780
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1317,
+    "name": "Barber, Ross",
+    "finish_time": "01:36:21",
+    "finish_seconds": 5781
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1319,
+    "name": "Schreiner, Andreas",
+    "finish_time": "01:36:25",
+    "finish_seconds": 5785
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1321,
+    "name": "Busch, Thorben",
+    "finish_time": "01:36:27",
+    "finish_seconds": 5787
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1323,
+    "name": "Tollmien, Sven",
+    "finish_time": "01:36:27",
+    "finish_seconds": 5787
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1325,
+    "name": "Moreau, Anthony",
+    "finish_time": "01:36:29",
+    "finish_seconds": 5789
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1327,
+    "name": "Dybka, \u0141ukasz",
+    "finish_time": "01:36:33",
+    "finish_seconds": 5793
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1329,
+    "name": "Dreismann, Gabriel Valentin",
+    "finish_time": "01:36:34",
+    "finish_seconds": 5794
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1331,
+    "name": "Heuckmann, Sebastian",
+    "finish_time": "01:36:34",
+    "finish_seconds": 5794
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1333,
+    "name": "Sellin, Tim",
+    "finish_time": "01:36:37",
+    "finish_seconds": 5797
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1335,
+    "name": "Bollig, Dirk",
+    "finish_time": "01:36:40",
+    "finish_seconds": 5800
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1337,
+    "name": "Chimm, Otto",
+    "finish_time": "01:36:43",
+    "finish_seconds": 5803
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1339,
+    "name": "Lins, Markus",
+    "finish_time": "01:36:47",
+    "finish_seconds": 5807
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1341,
+    "name": "Block, Tobias",
+    "finish_time": "01:36:48",
+    "finish_seconds": 5808
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1343,
+    "name": "Sch\u00fctze, Rudolf",
+    "finish_time": "01:36:51",
+    "finish_seconds": 5811
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1345,
+    "name": "Rodas, Norberto",
+    "finish_time": "01:36:53",
+    "finish_seconds": 5813
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1347,
+    "name": "Kohlhaas, Felix",
+    "finish_time": "01:36:55",
+    "finish_seconds": 5815
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1349,
+    "name": "Le Grand, Th\u00e9o",
+    "finish_time": "01:37:01",
+    "finish_seconds": 5821
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1351,
+    "name": "Zillger, Tizian Kai",
+    "finish_time": "01:37:09",
+    "finish_seconds": 5829
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1353,
+    "name": "Irawan, Timothy",
+    "finish_time": "01:37:11",
+    "finish_seconds": 5831
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1355,
+    "name": "Paus, Tobias",
+    "finish_time": "01:37:12",
+    "finish_seconds": 5832
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1357,
+    "name": "Lamprecht, Moritz",
+    "finish_time": "01:37:13",
+    "finish_seconds": 5833
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1359,
+    "name": "Ferreira Santos, Orlando",
+    "finish_time": "01:37:14",
+    "finish_seconds": 5834
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1361,
+    "name": "Tepe, Mehmet",
+    "finish_time": "01:37:18",
+    "finish_seconds": 5838
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1363,
+    "name": "Lewandowski, Marco",
+    "finish_time": "01:37:27",
+    "finish_seconds": 5847
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1365,
+    "name": "Runte, Ingo",
+    "finish_time": "01:37:29",
+    "finish_seconds": 5849
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1367,
+    "name": "M\u00fcller, Kai",
+    "finish_time": "01:37:32",
+    "finish_seconds": 5852
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1369,
+    "name": "Krepinsky, Gerrit",
+    "finish_time": "01:37:35",
+    "finish_seconds": 5855
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1371,
+    "name": "Rother, Sascha",
+    "finish_time": "01:37:40",
+    "finish_seconds": 5860
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1373,
+    "name": "Gehl, Lars",
+    "finish_time": "01:37:45",
+    "finish_seconds": 5865
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1375,
+    "name": "Jan\u00dfen, Marcel",
+    "finish_time": "01:37:49",
+    "finish_seconds": 5869
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1377,
+    "name": "Kummer, Tom",
+    "finish_time": "01:37:49",
+    "finish_seconds": 5869
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1379,
+    "name": "Warnke, Torsten",
+    "finish_time": "01:37:51",
+    "finish_seconds": 5871
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1381,
+    "name": "Pfeiffer, Bj\u00f6rn",
+    "finish_time": "01:37:55",
+    "finish_seconds": 5875
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1383,
+    "name": "Wellh\u00f6ner, Rafael",
+    "finish_time": "01:37:58",
+    "finish_seconds": 5878
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1385,
+    "name": "Finkenbusch, Bj\u00f6rn",
+    "finish_time": "01:38:00",
+    "finish_seconds": 5880
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1387,
+    "name": "Kuron, Nils",
+    "finish_time": "01:38:04",
+    "finish_seconds": 5884
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1389,
+    "name": "Bultink, Lars",
+    "finish_time": "01:38:11",
+    "finish_seconds": 5891
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1391,
+    "name": "Last, Mathias",
+    "finish_time": "01:38:11",
+    "finish_seconds": 5891
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1393,
+    "name": "Kohlmann, Dennis",
+    "finish_time": "01:38:15",
+    "finish_seconds": 5895
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1395,
+    "name": "Orlowski, Michael",
+    "finish_time": "01:38:22",
+    "finish_seconds": 5902
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1397,
+    "name": "Rogge, Christian",
+    "finish_time": "01:38:31",
+    "finish_seconds": 5911
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1399,
+    "name": "Kr\u00e4uliger, Moritz",
+    "finish_time": "01:38:33",
+    "finish_seconds": 5913
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1401,
+    "name": "Lehmann-Urff, Patrick",
+    "finish_time": "01:38:43",
+    "finish_seconds": 5923
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1403,
+    "name": "Timm, Christian",
+    "finish_time": "01:38:45",
+    "finish_seconds": 5925
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1405,
+    "name": "Napravnik, Robin",
+    "finish_time": "01:38:49",
+    "finish_seconds": 5929
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1407,
+    "name": "Storm, Sune",
+    "finish_time": "01:38:49",
+    "finish_seconds": 5929
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1409,
+    "name": "Reichersd\u00f6rfer, Florian",
+    "finish_time": "01:38:53",
+    "finish_seconds": 5933
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1411,
+    "name": "Weidmann, Sven",
+    "finish_time": "01:39:01",
+    "finish_seconds": 5941
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1413,
+    "name": "Eberhart, Andreas",
+    "finish_time": "01:39:12",
+    "finish_seconds": 5952
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1415,
+    "name": "Batsberg, Christoffer",
+    "finish_time": "01:39:12",
+    "finish_seconds": 5952
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1417,
+    "name": "Scheld, Alex",
+    "finish_time": "01:39:15",
+    "finish_seconds": 5955
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1419,
+    "name": "Krapf, Paul",
+    "finish_time": "01:39:21",
+    "finish_seconds": 5961
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1421,
+    "name": "Geers, Malte",
+    "finish_time": "01:39:23",
+    "finish_seconds": 5963
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1423,
+    "name": "Merten, Robin",
+    "finish_time": "01:39:27",
+    "finish_seconds": 5967
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1425,
+    "name": "Kremer, Bj\u00f6rn",
+    "finish_time": "01:39:34",
+    "finish_seconds": 5974
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1427,
+    "name": "Flynn, Conor",
+    "finish_time": "01:39:35",
+    "finish_seconds": 5975
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1429,
+    "name": "holm, Martin",
+    "finish_time": "01:39:44",
+    "finish_seconds": 5984
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1431,
+    "name": "Alwes, Birk",
+    "finish_time": "01:39:51",
+    "finish_seconds": 5991
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1433,
+    "name": "Douglas, Richard",
+    "finish_time": "01:39:53",
+    "finish_seconds": 5993
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1435,
+    "name": "Villatoro, Nicolas",
+    "finish_time": "01:40:01",
+    "finish_seconds": 6001
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1437,
+    "name": "Fleitmann, Enrico",
+    "finish_time": "01:40:04",
+    "finish_seconds": 6004
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1439,
+    "name": "Welker, Artur",
+    "finish_time": "01:40:05",
+    "finish_seconds": 6005
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1441,
+    "name": "Christiansen, Mathias",
+    "finish_time": "01:40:07",
+    "finish_seconds": 6007
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1443,
+    "name": "Seipt, Maximilian",
+    "finish_time": "01:40:10",
+    "finish_seconds": 6010
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1445,
+    "name": "Linnenkohl, Ole",
+    "finish_time": "01:40:13",
+    "finish_seconds": 6013
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1447,
+    "name": "Ide, Daniel",
+    "finish_time": "01:40:15",
+    "finish_seconds": 6015
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1449,
+    "name": "Wolf, Niklas",
+    "finish_time": "01:40:21",
+    "finish_seconds": 6021
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1451,
+    "name": "Naskar, Mrinal",
+    "finish_time": "01:40:21",
+    "finish_seconds": 6021
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1453,
+    "name": "St\u00f6hr, Patrick",
+    "finish_time": "01:40:28",
+    "finish_seconds": 6028
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1455,
+    "name": "Kaessner, Daniel",
+    "finish_time": "01:40:29",
+    "finish_seconds": 6029
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1457,
+    "name": "Noack, Danny",
+    "finish_time": "01:40:37",
+    "finish_seconds": 6037
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1459,
+    "name": "Beck, Jan",
+    "finish_time": "01:40:45",
+    "finish_seconds": 6045
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1461,
+    "name": "Ishac, Cl\u00e9ment",
+    "finish_time": "01:40:47",
+    "finish_seconds": 6047
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1463,
+    "name": "Geiselhart, Thorsten",
+    "finish_time": "01:40:52",
+    "finish_seconds": 6052
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1465,
+    "name": "Denecke, Maik",
+    "finish_time": "01:40:55",
+    "finish_seconds": 6055
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1467,
+    "name": "Siering, Markus",
+    "finish_time": "01:40:56",
+    "finish_seconds": 6056
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1469,
+    "name": "Oelkers, Cord-Felix",
+    "finish_time": "01:41:06",
+    "finish_seconds": 6066
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1471,
+    "name": "Lund J\u00f8rgensen, Rasmus",
+    "finish_time": "01:41:09",
+    "finish_seconds": 6069
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1473,
+    "name": "Fleischmann, Thomas",
+    "finish_time": "01:41:11",
+    "finish_seconds": 6071
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1475,
+    "name": "Morgenroth, Mathias",
+    "finish_time": "01:41:12",
+    "finish_seconds": 6072
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1477,
+    "name": "Dainat, Stefan",
+    "finish_time": "01:41:14",
+    "finish_seconds": 6074
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1479,
+    "name": "Staack, Dirk",
+    "finish_time": "01:41:16",
+    "finish_seconds": 6076
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1481,
+    "name": "Purera, Dejan",
+    "finish_time": "01:41:19",
+    "finish_seconds": 6079
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1483,
+    "name": "Marton, Thomas",
+    "finish_time": "01:41:22",
+    "finish_seconds": 6082
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1485,
+    "name": "Holzwart, Hermann",
+    "finish_time": "01:41:29",
+    "finish_seconds": 6089
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1487,
+    "name": "Schulze, Frank",
+    "finish_time": "01:41:30",
+    "finish_seconds": 6090
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1489,
+    "name": "Quandt, Jens",
+    "finish_time": "01:41:33",
+    "finish_seconds": 6093
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1491,
+    "name": "Kontze, Steven",
+    "finish_time": "01:41:45",
+    "finish_seconds": 6105
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1493,
+    "name": "Hoesch, Nicolas",
+    "finish_time": "01:41:47",
+    "finish_seconds": 6107
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1495,
+    "name": "Flanagan, Patrick",
+    "finish_time": "01:41:49",
+    "finish_seconds": 6109
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1497,
+    "name": "G\u00e9hanne, Bertrand",
+    "finish_time": "01:41:56",
+    "finish_seconds": 6116
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1499,
+    "name": "Ton, Philip",
+    "finish_time": "01:41:57",
+    "finish_seconds": 6117
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1501,
+    "name": "Gerke, Sebastian",
+    "finish_time": "01:42:01",
+    "finish_seconds": 6121
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1503,
+    "name": "Koch, Christian",
+    "finish_time": "01:42:08",
+    "finish_seconds": 6128
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1505,
+    "name": "H\u00fcbner, Markus",
+    "finish_time": "01:42:11",
+    "finish_seconds": 6131
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1507,
+    "name": "Hof, Georg",
+    "finish_time": "01:42:18",
+    "finish_seconds": 6138
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1509,
+    "name": "Windisch, Steve",
+    "finish_time": "01:42:19",
+    "finish_seconds": 6139
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1511,
+    "name": "Thielbeer, Thomas",
+    "finish_time": "01:42:23",
+    "finish_seconds": 6143
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "M",
+    "rank": 1513,
+    "name": "Benner, Martin",
+    "finish_time": "01:42:25",
+    "finish_seconds": 6145
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 1,
+    "name": "Walsh, Rosie",
+    "finish_time": "01:02:10",
+    "finish_seconds": 3730
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 3,
+    "name": "Thams, Line",
+    "finish_time": "01:02:45",
+    "finish_seconds": 3765
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 5,
+    "name": "Prebeck, Susanne",
+    "finish_time": "01:03:30",
+    "finish_seconds": 3810
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 7,
+    "name": "Raineri, Jaqueline Dana",
+    "finish_time": "01:05:01",
+    "finish_seconds": 3901
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 9,
+    "name": "Schmitt, Anette",
+    "finish_time": "01:05:33",
+    "finish_seconds": 3933
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 11,
+    "name": "Schr\u00f6ter, Lara",
+    "finish_time": "01:06:15",
+    "finish_seconds": 3975
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 13,
+    "name": "Schweigler, Signe",
+    "finish_time": "01:06:23",
+    "finish_seconds": 3983
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 15,
+    "name": "Celin, Sarah",
+    "finish_time": "01:07:32",
+    "finish_seconds": 4052
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 17,
+    "name": "Yates, Georgie",
+    "finish_time": "01:08:28",
+    "finish_seconds": 4108
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 19,
+    "name": "Staargaard, Mandy",
+    "finish_time": "01:08:33",
+    "finish_seconds": 4113
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 21,
+    "name": "Stocksieker, Laura",
+    "finish_time": "01:09:27",
+    "finish_seconds": 4167
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 23,
+    "name": "Korda, Katja",
+    "finish_time": "01:09:48",
+    "finish_seconds": 4188
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 25,
+    "name": "Gro\u00dfe-Schwiep, Birgit",
+    "finish_time": "01:09:56",
+    "finish_seconds": 4196
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 27,
+    "name": "Jerger, Jennifer",
+    "finish_time": "01:10:01",
+    "finish_seconds": 4201
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 29,
+    "name": "Russell, Samantha",
+    "finish_time": "01:10:19",
+    "finish_seconds": 4219
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 31,
+    "name": "Linnet, Sarah Holm",
+    "finish_time": "01:10:32",
+    "finish_seconds": 4232
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 33,
+    "name": "Opitz, Carina",
+    "finish_time": "01:10:49",
+    "finish_seconds": 4249
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 35,
+    "name": "Stelling, Julia",
+    "finish_time": "01:11:10",
+    "finish_seconds": 4270
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 37,
+    "name": "Ohm, Sarah",
+    "finish_time": "01:11:21",
+    "finish_seconds": 4281
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 39,
+    "name": "Javadian, Shabi",
+    "finish_time": "01:11:22",
+    "finish_seconds": 4282
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 41,
+    "name": "Lindemann, Jose",
+    "finish_time": "01:11:32",
+    "finish_seconds": 4292
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 43,
+    "name": "Gailus, Tina",
+    "finish_time": "01:11:34",
+    "finish_seconds": 4294
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 45,
+    "name": "D\u00f6rfel, Leonie",
+    "finish_time": "01:11:41",
+    "finish_seconds": 4301
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 47,
+    "name": "Laursen, Pernille",
+    "finish_time": "01:12:05",
+    "finish_seconds": 4325
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 49,
+    "name": "Hinz, Juliane",
+    "finish_time": "01:12:22",
+    "finish_seconds": 4342
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 51,
+    "name": "Hauser, Saskia",
+    "finish_time": "01:12:54",
+    "finish_seconds": 4374
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 53,
+    "name": "M\u00fcller, Katja",
+    "finish_time": "01:12:58",
+    "finish_seconds": 4378
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 55,
+    "name": "Charalampous, Aigli",
+    "finish_time": "01:13:16",
+    "finish_seconds": 4396
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 57,
+    "name": "Artz, Ines",
+    "finish_time": "01:13:30",
+    "finish_seconds": 4410
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 59,
+    "name": "Schr\u00f6der, Sarah",
+    "finish_time": "01:13:35",
+    "finish_seconds": 4415
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 61,
+    "name": "Ubert, Johanna",
+    "finish_time": "01:13:41",
+    "finish_seconds": 4421
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 63,
+    "name": "Yu, Zhuang",
+    "finish_time": "01:13:57",
+    "finish_seconds": 4437
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 65,
+    "name": "Klausner, Victoria",
+    "finish_time": "01:14:02",
+    "finish_seconds": 4442
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 67,
+    "name": "Rosendahl, Nina",
+    "finish_time": "01:14:09",
+    "finish_seconds": 4449
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 69,
+    "name": "Rekersbrink, Alix",
+    "finish_time": "01:14:20",
+    "finish_seconds": 4460
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 71,
+    "name": "Carstensen, Madita",
+    "finish_time": "01:14:36",
+    "finish_seconds": 4476
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 73,
+    "name": "Oltersdorf, Enya",
+    "finish_time": "01:14:48",
+    "finish_seconds": 4488
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 75,
+    "name": "Wickel, Lea",
+    "finish_time": "01:14:53",
+    "finish_seconds": 4493
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 77,
+    "name": "Tetteh, Hannah",
+    "finish_time": "01:15:05",
+    "finish_seconds": 4505
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 79,
+    "name": "Klopp, Cathrin",
+    "finish_time": "01:15:15",
+    "finish_seconds": 4515
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 81,
+    "name": "Kelb, Eva",
+    "finish_time": "01:15:23",
+    "finish_seconds": 4523
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 83,
+    "name": "Schneevoigt, Romy",
+    "finish_time": "01:15:31",
+    "finish_seconds": 4531
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 85,
+    "name": "Kretz, Sina",
+    "finish_time": "01:15:35",
+    "finish_seconds": 4535
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 87,
+    "name": "Herrmann, Sandra",
+    "finish_time": "01:15:35",
+    "finish_seconds": 4535
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 89,
+    "name": "Grontzki, C\u00e9line",
+    "finish_time": "01:15:40",
+    "finish_seconds": 4540
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 91,
+    "name": "Koefoed-Nielsen, Mathilde",
+    "finish_time": "01:15:49",
+    "finish_seconds": 4549
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 93,
+    "name": "Runge, Neele",
+    "finish_time": "01:15:52",
+    "finish_seconds": 4552
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 95,
+    "name": "Weeber, Eva",
+    "finish_time": "01:16:00",
+    "finish_seconds": 4560
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 97,
+    "name": "Dr. von Matuschka, Patricia",
+    "finish_time": "01:16:07",
+    "finish_seconds": 4567
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 99,
+    "name": "Diegelmann, Annika",
+    "finish_time": "01:16:27",
+    "finish_seconds": 4587
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 101,
+    "name": "Heyn, Janina",
+    "finish_time": "01:16:30",
+    "finish_seconds": 4590
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 103,
+    "name": "Werner, Stefanie",
+    "finish_time": "01:16:47",
+    "finish_seconds": 4607
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 105,
+    "name": "Schneider, Anika",
+    "finish_time": "01:16:50",
+    "finish_seconds": 4610
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 107,
+    "name": "K\u00f6ttgen, Alexandra",
+    "finish_time": "01:16:57",
+    "finish_seconds": 4617
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 109,
+    "name": "Minkes, Marit",
+    "finish_time": "01:17:03",
+    "finish_seconds": 4623
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 111,
+    "name": "Jensen, Anna",
+    "finish_time": "01:17:07",
+    "finish_seconds": 4627
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 113,
+    "name": "Dettling, Lea",
+    "finish_time": "01:17:11",
+    "finish_seconds": 4631
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 115,
+    "name": "Meier-Ullmann, Anette",
+    "finish_time": "01:17:12",
+    "finish_seconds": 4632
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 117,
+    "name": "H\u00f6ft, Lea-Sophie",
+    "finish_time": "01:17:14",
+    "finish_seconds": 4634
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 119,
+    "name": "Nilsson, Hanna",
+    "finish_time": "01:17:22",
+    "finish_seconds": 4642
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 121,
+    "name": "Solms, Carina",
+    "finish_time": "01:17:30",
+    "finish_seconds": 4650
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 123,
+    "name": "Radeck, Jule",
+    "finish_time": "01:17:34",
+    "finish_seconds": 4654
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 125,
+    "name": "Templeton, Amy",
+    "finish_time": "01:17:39",
+    "finish_seconds": 4659
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 127,
+    "name": "K\u00f6hler, Antonia",
+    "finish_time": "01:17:44",
+    "finish_seconds": 4664
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 129,
+    "name": "Harte, Tabea",
+    "finish_time": "01:17:58",
+    "finish_seconds": 4678
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 131,
+    "name": "Schacht, Caterina",
+    "finish_time": "01:18:02",
+    "finish_seconds": 4682
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 133,
+    "name": "Lidecke, Kyra",
+    "finish_time": "01:18:09",
+    "finish_seconds": 4689
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 135,
+    "name": "Tyllesen, Stine Bogetoft",
+    "finish_time": "01:18:30",
+    "finish_seconds": 4710
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 137,
+    "name": "Bergmann, Dina",
+    "finish_time": "01:18:44",
+    "finish_seconds": 4724
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 139,
+    "name": "Wachsmuth, Ina",
+    "finish_time": "01:18:51",
+    "finish_seconds": 4731
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 141,
+    "name": "Thielke, Alexandra",
+    "finish_time": "01:18:55",
+    "finish_seconds": 4735
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 143,
+    "name": "Bard, Or\u00e9lie",
+    "finish_time": "01:18:59",
+    "finish_seconds": 4739
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 145,
+    "name": "Lentini, Chiara",
+    "finish_time": "01:19:07",
+    "finish_seconds": 4747
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 147,
+    "name": "Becker, Anne",
+    "finish_time": "01:19:09",
+    "finish_seconds": 4749
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 149,
+    "name": "Wienecke, Marie",
+    "finish_time": "01:19:14",
+    "finish_seconds": 4754
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 151,
+    "name": "B\u00e2rsan, Catinca Cristiana",
+    "finish_time": "01:19:20",
+    "finish_seconds": 4760
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 153,
+    "name": "Stollenwerk, Christin",
+    "finish_time": "01:19:26",
+    "finish_seconds": 4766
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 155,
+    "name": "Sollitzer, Steffi",
+    "finish_time": "01:19:27",
+    "finish_seconds": 4767
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 157,
+    "name": "Schaland, Stina",
+    "finish_time": "01:19:29",
+    "finish_seconds": 4769
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 159,
+    "name": "JORDAN, EMMA",
+    "finish_time": "01:19:31",
+    "finish_seconds": 4771
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 161,
+    "name": "Jahn, Kristin",
+    "finish_time": "01:19:33",
+    "finish_seconds": 4773
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 163,
+    "name": "Sch\u00e4fer, Friederike",
+    "finish_time": "01:19:43",
+    "finish_seconds": 4783
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 165,
+    "name": "Malatsai, Tetiana",
+    "finish_time": "01:19:54",
+    "finish_seconds": 4794
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 167,
+    "name": "Hylla, Anika Maria",
+    "finish_time": "01:20:18",
+    "finish_seconds": 4818
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 169,
+    "name": "Ackermann, Meike",
+    "finish_time": "01:20:23",
+    "finish_seconds": 4823
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 171,
+    "name": "Weitkuhn, Sabrina",
+    "finish_time": "01:20:25",
+    "finish_seconds": 4825
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 173,
+    "name": "LAWLOR, SIOBHAN",
+    "finish_time": "01:20:31",
+    "finish_seconds": 4831
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 175,
+    "name": "Sommer, Laura",
+    "finish_time": "01:20:34",
+    "finish_seconds": 4834
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 177,
+    "name": "Butensch\u00f6n, Carlotta",
+    "finish_time": "01:20:36",
+    "finish_seconds": 4836
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 179,
+    "name": "Elsler, Josefina",
+    "finish_time": "01:20:45",
+    "finish_seconds": 4845
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 181,
+    "name": "Hoyer, Katharina",
+    "finish_time": "01:20:52",
+    "finish_seconds": 4852
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 183,
+    "name": "Vitting Frandsen, Nicoline",
+    "finish_time": "01:21:15",
+    "finish_seconds": 4875
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 185,
+    "name": "Berger, Svenja",
+    "finish_time": "01:21:25",
+    "finish_seconds": 4885
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 187,
+    "name": "Wilhelm, Jennifer",
+    "finish_time": "01:21:30",
+    "finish_seconds": 4890
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 189,
+    "name": "Engelund, Cecilie",
+    "finish_time": "01:21:40",
+    "finish_seconds": 4900
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 191,
+    "name": "Przymorska, Ewelina",
+    "finish_time": "01:21:43",
+    "finish_seconds": 4903
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 193,
+    "name": "Jacob, Paulin",
+    "finish_time": "01:21:47",
+    "finish_seconds": 4907
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 195,
+    "name": "Nurkkala, Marja",
+    "finish_time": "01:21:53",
+    "finish_seconds": 4913
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 197,
+    "name": "Gau, Hannah",
+    "finish_time": "01:21:59",
+    "finish_seconds": 4919
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 199,
+    "name": "Kistner, Caroline",
+    "finish_time": "01:22:01",
+    "finish_seconds": 4921
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 201,
+    "name": "M\u00fcller, Mari",
+    "finish_time": "01:22:06",
+    "finish_seconds": 4926
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 203,
+    "name": "Gorski, Melanie",
+    "finish_time": "01:22:21",
+    "finish_seconds": 4941
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 205,
+    "name": "Mittelst\u00e4dt, Maria",
+    "finish_time": "01:22:26",
+    "finish_seconds": 4946
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 207,
+    "name": "Grantz, Meike",
+    "finish_time": "01:22:27",
+    "finish_seconds": 4947
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 209,
+    "name": "Augath, Florence",
+    "finish_time": "01:22:42",
+    "finish_seconds": 4962
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 211,
+    "name": "Dettmann, Jennifer",
+    "finish_time": "01:22:51",
+    "finish_seconds": 4971
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 213,
+    "name": "Hardt, Nana",
+    "finish_time": "01:22:55",
+    "finish_seconds": 4975
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 215,
+    "name": "Wolfsteller, Anne",
+    "finish_time": "01:23:06",
+    "finish_seconds": 4986
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 217,
+    "name": "B\u00f6ttcher, Sonja",
+    "finish_time": "01:23:08",
+    "finish_seconds": 4988
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 219,
+    "name": "Sohlich, Svea Christin",
+    "finish_time": "01:23:09",
+    "finish_seconds": 4989
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 221,
+    "name": "Christiani, Sonja",
+    "finish_time": "01:23:10",
+    "finish_seconds": 4990
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 223,
+    "name": "Lepore, Leonela",
+    "finish_time": "01:23:15",
+    "finish_seconds": 4995
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 225,
+    "name": "Eickelmann, Laura",
+    "finish_time": "01:23:17",
+    "finish_seconds": 4997
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 227,
+    "name": "R\u00f6se, Johanna",
+    "finish_time": "01:23:19",
+    "finish_seconds": 4999
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 229,
+    "name": "Radau, Julia",
+    "finish_time": "01:23:19",
+    "finish_seconds": 4999
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 231,
+    "name": "Behl, Jessica",
+    "finish_time": "01:23:23",
+    "finish_seconds": 5003
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 233,
+    "name": "Schmieder, Stephanie",
+    "finish_time": "01:23:37",
+    "finish_seconds": 5017
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 235,
+    "name": "Antunes, Nat\u00e1lia",
+    "finish_time": "01:23:39",
+    "finish_seconds": 5019
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 237,
+    "name": "Ulrich, Melissa",
+    "finish_time": "01:23:51",
+    "finish_seconds": 5031
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 239,
+    "name": "Kauder, Milena",
+    "finish_time": "01:24:06",
+    "finish_seconds": 5046
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 241,
+    "name": "Bornemannn, Celia",
+    "finish_time": "01:24:14",
+    "finish_seconds": 5054
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 243,
+    "name": "Windt, Christina",
+    "finish_time": "01:24:19",
+    "finish_seconds": 5059
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 245,
+    "name": "Liggett, Stacey",
+    "finish_time": "01:24:21",
+    "finish_seconds": 5061
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 247,
+    "name": "Stricker, Silvia",
+    "finish_time": "01:24:25",
+    "finish_seconds": 5065
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 249,
+    "name": "Steitz, Janin",
+    "finish_time": "01:24:27",
+    "finish_seconds": 5067
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 251,
+    "name": "Stuhlmann, Anne-Rieke",
+    "finish_time": "01:24:28",
+    "finish_seconds": 5068
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 253,
+    "name": "Vosny, Kira",
+    "finish_time": "01:24:32",
+    "finish_seconds": 5072
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 255,
+    "name": "Vollmar, Alexandra",
+    "finish_time": "01:24:34",
+    "finish_seconds": 5074
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 257,
+    "name": "Spille, Jill",
+    "finish_time": "01:24:39",
+    "finish_seconds": 5079
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 259,
+    "name": "Sakowicz, Melina",
+    "finish_time": "01:24:43",
+    "finish_seconds": 5083
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 261,
+    "name": "M\u00f6llers, Christine",
+    "finish_time": "01:24:48",
+    "finish_seconds": 5088
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 263,
+    "name": "Billig, Kristin",
+    "finish_time": "01:24:54",
+    "finish_seconds": 5094
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 265,
+    "name": "Schneider, Jana",
+    "finish_time": "01:24:55",
+    "finish_seconds": 5095
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 267,
+    "name": "Petri, Antonia",
+    "finish_time": "01:25:02",
+    "finish_seconds": 5102
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 269,
+    "name": "Druchkiv, Katharina",
+    "finish_time": "01:25:06",
+    "finish_seconds": 5106
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 271,
+    "name": "Chapleo, Kristina",
+    "finish_time": "01:25:11",
+    "finish_seconds": 5111
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 273,
+    "name": "Schwarz, Lena",
+    "finish_time": "01:25:16",
+    "finish_seconds": 5116
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 275,
+    "name": "M\u00fcller, Cay-Marie",
+    "finish_time": "01:25:19",
+    "finish_seconds": 5119
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 277,
+    "name": "M\u00f6ller, Michelle",
+    "finish_time": "01:25:20",
+    "finish_seconds": 5120
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 279,
+    "name": "Hermeler, Sina",
+    "finish_time": "01:25:23",
+    "finish_seconds": 5123
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 281,
+    "name": "Risk\u00e6r, Stine",
+    "finish_time": "01:25:25",
+    "finish_seconds": 5125
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 283,
+    "name": "Stenzel, Selina",
+    "finish_time": "01:25:28",
+    "finish_seconds": 5128
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 285,
+    "name": "P\u00f6rschke, Jule Marie",
+    "finish_time": "01:25:32",
+    "finish_seconds": 5132
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 287,
+    "name": "Peinemann, Ilka",
+    "finish_time": "01:25:35",
+    "finish_seconds": 5135
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 289,
+    "name": "Haas, Lisa Camille",
+    "finish_time": "01:25:35",
+    "finish_seconds": 5135
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 291,
+    "name": "Blank, Anna-Lisa",
+    "finish_time": "01:25:42",
+    "finish_seconds": 5142
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 293,
+    "name": "Tauer, Sandra",
+    "finish_time": "01:25:45",
+    "finish_seconds": 5145
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 295,
+    "name": "G\u00f6tze, Stefanie",
+    "finish_time": "01:26:00",
+    "finish_seconds": 5160
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 297,
+    "name": "Richter, April",
+    "finish_time": "01:26:03",
+    "finish_seconds": 5163
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 299,
+    "name": "Euler, Saskia",
+    "finish_time": "01:26:05",
+    "finish_seconds": 5165
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 301,
+    "name": "G\u00f6pfert, Claudia",
+    "finish_time": "01:26:06",
+    "finish_seconds": 5166
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 303,
+    "name": "Jacob, Susanne",
+    "finish_time": "01:26:11",
+    "finish_seconds": 5171
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 305,
+    "name": "Sch\u00e4ffler, Monica",
+    "finish_time": "01:26:14",
+    "finish_seconds": 5174
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 307,
+    "name": "Reitmeier, Julia",
+    "finish_time": "01:26:15",
+    "finish_seconds": 5175
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 309,
+    "name": "Rohe, Vivian",
+    "finish_time": "01:26:26",
+    "finish_seconds": 5186
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 311,
+    "name": "Boer, Amelie",
+    "finish_time": "01:26:28",
+    "finish_seconds": 5188
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 313,
+    "name": "Aulike, Brit",
+    "finish_time": "01:26:30",
+    "finish_seconds": 5190
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 315,
+    "name": "Von Lienen, Sonja",
+    "finish_time": "01:26:33",
+    "finish_seconds": 5193
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 317,
+    "name": "P\u00fctz, Angelina",
+    "finish_time": "01:26:34",
+    "finish_seconds": 5194
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 319,
+    "name": "Steitz, Katja",
+    "finish_time": "01:26:39",
+    "finish_seconds": 5199
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 321,
+    "name": "Neumann, Julia",
+    "finish_time": "01:26:46",
+    "finish_seconds": 5206
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 323,
+    "name": "Peerenboom, Nadine",
+    "finish_time": "01:26:54",
+    "finish_seconds": 5214
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 325,
+    "name": "Frauendorf, Susanne",
+    "finish_time": "01:26:54",
+    "finish_seconds": 5214
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 327,
+    "name": "An, Katie",
+    "finish_time": "01:27:01",
+    "finish_seconds": 5221
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 329,
+    "name": "M\u00fchlenfeld, Sabrina",
+    "finish_time": "01:27:08",
+    "finish_seconds": 5228
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 331,
+    "name": "G\u00f6tz, Louisa",
+    "finish_time": "01:27:10",
+    "finish_seconds": 5230
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 333,
+    "name": "Nielsen, Anita",
+    "finish_time": "01:27:19",
+    "finish_seconds": 5239
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 335,
+    "name": "Albers, Imke",
+    "finish_time": "01:27:21",
+    "finish_seconds": 5241
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 337,
+    "name": "G\u00f3recka, Laura",
+    "finish_time": "01:27:30",
+    "finish_seconds": 5250
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 339,
+    "name": "Kienapfel, Simone",
+    "finish_time": "01:27:34",
+    "finish_seconds": 5254
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 341,
+    "name": "Hansen, Lisbeth",
+    "finish_time": "01:27:36",
+    "finish_seconds": 5256
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 343,
+    "name": "Brinkmann, Charlotte",
+    "finish_time": "01:27:38",
+    "finish_seconds": 5258
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 345,
+    "name": "Meurer, Anne",
+    "finish_time": "01:27:47",
+    "finish_seconds": 5267
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 347,
+    "name": "G\u00f6ttsch, Anna-Lena",
+    "finish_time": "01:27:53",
+    "finish_seconds": 5273
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 349,
+    "name": "Lawniczak, C\u00e9line",
+    "finish_time": "01:27:53",
+    "finish_seconds": 5273
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 351,
+    "name": "Ehmen, Lina Mareke",
+    "finish_time": "01:28:00",
+    "finish_seconds": 5280
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 353,
+    "name": "Shingareeva, Dina",
+    "finish_time": "01:28:05",
+    "finish_seconds": 5285
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 355,
+    "name": "Welker, Aileen",
+    "finish_time": "01:28:09",
+    "finish_seconds": 5289
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 357,
+    "name": "Kelm, Esther",
+    "finish_time": "01:28:16",
+    "finish_seconds": 5296
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 359,
+    "name": "Both, Anne-Charlotte",
+    "finish_time": "01:28:22",
+    "finish_seconds": 5302
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 361,
+    "name": "Notroff, Anika",
+    "finish_time": "01:28:23",
+    "finish_seconds": 5303
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 363,
+    "name": "Dengel, Nathalie",
+    "finish_time": "01:28:24",
+    "finish_seconds": 5304
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 365,
+    "name": "Stolina, Merve",
+    "finish_time": "01:28:28",
+    "finish_seconds": 5308
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 367,
+    "name": "wustrack, christina",
+    "finish_time": "01:28:33",
+    "finish_seconds": 5313
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 369,
+    "name": "Sandow, Katharina",
+    "finish_time": "01:28:38",
+    "finish_seconds": 5318
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 371,
+    "name": "Tro\u00df, Verena",
+    "finish_time": "01:28:41",
+    "finish_seconds": 5321
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 373,
+    "name": "Rexthelius, Anna",
+    "finish_time": "01:28:42",
+    "finish_seconds": 5322
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 375,
+    "name": "Schnack, Minou",
+    "finish_time": "01:28:49",
+    "finish_seconds": 5329
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 377,
+    "name": "Sonnenburg, Ina",
+    "finish_time": "01:28:56",
+    "finish_seconds": 5336
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 379,
+    "name": "Aelker, Emily",
+    "finish_time": "01:28:57",
+    "finish_seconds": 5337
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 381,
+    "name": "de Boer, Suzanne",
+    "finish_time": "01:29:01",
+    "finish_seconds": 5341
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 383,
+    "name": "Haist, Alina",
+    "finish_time": "01:29:05",
+    "finish_seconds": 5345
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 385,
+    "name": "Roters, Chaline",
+    "finish_time": "01:29:07",
+    "finish_seconds": 5347
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 387,
+    "name": "Loxen-Drewes, Heike",
+    "finish_time": "01:29:15",
+    "finish_seconds": 5355
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 389,
+    "name": "Pauly kok, Emily",
+    "finish_time": "01:29:16",
+    "finish_seconds": 5356
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 391,
+    "name": "Christensen, Camilla",
+    "finish_time": "01:29:23",
+    "finish_seconds": 5363
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 393,
+    "name": "Ostrowski, Jennifer",
+    "finish_time": "01:29:24",
+    "finish_seconds": 5364
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 395,
+    "name": "Yilmaz, Aynur",
+    "finish_time": "01:29:32",
+    "finish_seconds": 5372
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 397,
+    "name": "van Staalduinen, Gabriella",
+    "finish_time": "01:29:38",
+    "finish_seconds": 5378
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 399,
+    "name": "Zierenberg, Yvonne",
+    "finish_time": "01:29:42",
+    "finish_seconds": 5382
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 401,
+    "name": "M\u00f6ller, Marlene",
+    "finish_time": "01:29:48",
+    "finish_seconds": 5388
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 403,
+    "name": "Kokkalis, Mary",
+    "finish_time": "01:29:51",
+    "finish_seconds": 5391
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 405,
+    "name": "Aujla, Simmi",
+    "finish_time": "01:29:55",
+    "finish_seconds": 5395
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 407,
+    "name": "F\u00fcrste, Steph",
+    "finish_time": "01:29:58",
+    "finish_seconds": 5398
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 409,
+    "name": "M\u00fcller, Laurina",
+    "finish_time": "01:30:00",
+    "finish_seconds": 5400
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 411,
+    "name": "Juul, Kristine",
+    "finish_time": "01:30:00",
+    "finish_seconds": 5400
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 413,
+    "name": "Wilberscheid, Kimberley",
+    "finish_time": "01:30:02",
+    "finish_seconds": 5402
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 415,
+    "name": "Mohaupt, Anneke",
+    "finish_time": "01:30:08",
+    "finish_seconds": 5408
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 417,
+    "name": "R\u00f8sler, Monica",
+    "finish_time": "01:30:11",
+    "finish_seconds": 5411
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 419,
+    "name": "Floyd, Emily",
+    "finish_time": "01:30:14",
+    "finish_seconds": 5414
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 421,
+    "name": "Ahlvers, Solvie",
+    "finish_time": "01:30:16",
+    "finish_seconds": 5416
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 423,
+    "name": "Lecker, Sabrina",
+    "finish_time": "01:30:25",
+    "finish_seconds": 5425
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 425,
+    "name": "Schraner, Jana",
+    "finish_time": "01:30:30",
+    "finish_seconds": 5430
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 427,
+    "name": "Darr, Famke",
+    "finish_time": "01:30:34",
+    "finish_seconds": 5434
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 429,
+    "name": "Urban, Luise",
+    "finish_time": "01:30:39",
+    "finish_seconds": 5439
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 431,
+    "name": "Pawelczak, Kamila",
+    "finish_time": "01:30:41",
+    "finish_seconds": 5441
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 433,
+    "name": "Krohn, Nadja",
+    "finish_time": "01:30:50",
+    "finish_seconds": 5450
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 435,
+    "name": "Winkel, Christina",
+    "finish_time": "01:30:53",
+    "finish_seconds": 5453
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 437,
+    "name": "Zastrow, Romy",
+    "finish_time": "01:30:56",
+    "finish_seconds": 5456
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 439,
+    "name": "Felchner, Carola",
+    "finish_time": "01:30:58",
+    "finish_seconds": 5458
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 441,
+    "name": "Helsby, Laura",
+    "finish_time": "01:31:03",
+    "finish_seconds": 5463
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 443,
+    "name": "Goldberg, Monika",
+    "finish_time": "01:31:12",
+    "finish_seconds": 5472
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 445,
+    "name": "Ledingham, Hannah",
+    "finish_time": "01:31:27",
+    "finish_seconds": 5487
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 447,
+    "name": "Schieffers, Theresa",
+    "finish_time": "01:31:35",
+    "finish_seconds": 5495
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 449,
+    "name": "Ophoven, Daniela",
+    "finish_time": "01:31:59",
+    "finish_seconds": 5519
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 451,
+    "name": "Erdmann, Lynn",
+    "finish_time": "01:32:00",
+    "finish_seconds": 5520
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 453,
+    "name": "Harmon, Charlotte",
+    "finish_time": "01:32:08",
+    "finish_seconds": 5528
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 455,
+    "name": "B\u00fcrger, Katharina",
+    "finish_time": "01:32:09",
+    "finish_seconds": 5529
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 457,
+    "name": "Maciejewski, Sonja",
+    "finish_time": "01:32:10",
+    "finish_seconds": 5530
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 459,
+    "name": "Makowsky, Theresa Carlotta",
+    "finish_time": "01:32:15",
+    "finish_seconds": 5535
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 461,
+    "name": "Papen, Nicole",
+    "finish_time": "01:32:21",
+    "finish_seconds": 5541
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 463,
+    "name": "cormican, mandy",
+    "finish_time": "01:32:25",
+    "finish_seconds": 5545
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 465,
+    "name": "St\u00fcber, Nele",
+    "finish_time": "01:32:32",
+    "finish_seconds": 5552
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 467,
+    "name": "Schulze, Silke",
+    "finish_time": "01:32:36",
+    "finish_seconds": 5556
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 469,
+    "name": "Fosbraey, Amie",
+    "finish_time": "01:32:41",
+    "finish_seconds": 5561
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 471,
+    "name": "Wasserkampf, Alice",
+    "finish_time": "01:32:45",
+    "finish_seconds": 5565
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 473,
+    "name": "Buggie, Teresa",
+    "finish_time": "01:32:46",
+    "finish_seconds": 5566
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 475,
+    "name": "Paulsen, Anne",
+    "finish_time": "01:32:48",
+    "finish_seconds": 5568
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 477,
+    "name": "Lieschke, Lilli",
+    "finish_time": "01:33:04",
+    "finish_seconds": 5584
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 479,
+    "name": "Neumann, Marie",
+    "finish_time": "01:33:09",
+    "finish_seconds": 5589
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 481,
+    "name": "GIESE, NINA",
+    "finish_time": "01:33:16",
+    "finish_seconds": 5596
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 483,
+    "name": "Viteri, Zoe",
+    "finish_time": "01:33:19",
+    "finish_seconds": 5599
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 485,
+    "name": "Lehmbeck, Marianne",
+    "finish_time": "01:33:22",
+    "finish_seconds": 5602
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 487,
+    "name": "Reiter, Nicole",
+    "finish_time": "01:33:31",
+    "finish_seconds": 5611
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 489,
+    "name": "Miener, Imke",
+    "finish_time": "01:33:33",
+    "finish_seconds": 5613
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 491,
+    "name": "Marquardt, Sabrina",
+    "finish_time": "01:33:35",
+    "finish_seconds": 5615
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 493,
+    "name": "Wendhausen, Pia",
+    "finish_time": "01:33:37",
+    "finish_seconds": 5617
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 495,
+    "name": "Dreyer, Maike",
+    "finish_time": "01:33:40",
+    "finish_seconds": 5620
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 497,
+    "name": "Friedrich, Zoe",
+    "finish_time": "01:33:45",
+    "finish_seconds": 5625
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 499,
+    "name": "Schellenberg, Louisa",
+    "finish_time": "01:33:49",
+    "finish_seconds": 5629
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 501,
+    "name": "Matthies, Julia",
+    "finish_time": "01:33:53",
+    "finish_seconds": 5633
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 503,
+    "name": "Dill, Nicole",
+    "finish_time": "01:33:58",
+    "finish_seconds": 5638
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 505,
+    "name": "Emmert, Katrin",
+    "finish_time": "01:33:58",
+    "finish_seconds": 5638
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 507,
+    "name": "Zajceva, Lilija",
+    "finish_time": "01:34:00",
+    "finish_seconds": 5640
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 509,
+    "name": "Tacke, Sarah",
+    "finish_time": "01:34:04",
+    "finish_seconds": 5644
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 511,
+    "name": "Regel, Evelyna",
+    "finish_time": "01:34:10",
+    "finish_seconds": 5650
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 513,
+    "name": "Meiser, Sonja",
+    "finish_time": "01:34:15",
+    "finish_seconds": 5655
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 515,
+    "name": "Guntermann, Bettina",
+    "finish_time": "01:34:18",
+    "finish_seconds": 5658
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 517,
+    "name": "Kloss, Jessica",
+    "finish_time": "01:34:40",
+    "finish_seconds": 5680
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 519,
+    "name": "Seifert, Fabienne",
+    "finish_time": "01:34:57",
+    "finish_seconds": 5697
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 521,
+    "name": "Kr\u00fcger, Katharina-Bianca",
+    "finish_time": "01:34:59",
+    "finish_seconds": 5699
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 523,
+    "name": "Kruschewski, Lena",
+    "finish_time": "01:35:02",
+    "finish_seconds": 5702
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 525,
+    "name": "Oestrich, Camilla",
+    "finish_time": "01:35:03",
+    "finish_seconds": 5703
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 527,
+    "name": "Korn, Linda",
+    "finish_time": "01:35:06",
+    "finish_seconds": 5706
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 529,
+    "name": "Schumacher, Caroline",
+    "finish_time": "01:35:09",
+    "finish_seconds": 5709
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 531,
+    "name": "Sloninski, Jasmin",
+    "finish_time": "01:35:15",
+    "finish_seconds": 5715
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 533,
+    "name": "Krone, Elisa",
+    "finish_time": "01:35:18",
+    "finish_seconds": 5718
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 535,
+    "name": "Zarezke, Verena",
+    "finish_time": "01:35:21",
+    "finish_seconds": 5721
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 537,
+    "name": "Schander, Anna",
+    "finish_time": "01:35:32",
+    "finish_seconds": 5732
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 539,
+    "name": "Rehpenning, Hanna Sophie",
+    "finish_time": "01:35:41",
+    "finish_seconds": 5741
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 541,
+    "name": "K\u00fcpper, Murielle",
+    "finish_time": "01:35:48",
+    "finish_seconds": 5748
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 543,
+    "name": "Bethmann, Sabrina",
+    "finish_time": "01:35:55",
+    "finish_seconds": 5755
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 545,
+    "name": "Heider, Nadia",
+    "finish_time": "01:36:04",
+    "finish_seconds": 5764
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 547,
+    "name": "Pries, Svantje",
+    "finish_time": "01:36:11",
+    "finish_seconds": 5771
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 549,
+    "name": "Larsen, Anne Juel",
+    "finish_time": "01:36:13",
+    "finish_seconds": 5773
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 551,
+    "name": "J\u00e4hne, Kira",
+    "finish_time": "01:36:17",
+    "finish_seconds": 5777
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 553,
+    "name": "Eggers, Johanna",
+    "finish_time": "01:36:19",
+    "finish_seconds": 5779
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 555,
+    "name": "Rathje, Jana",
+    "finish_time": "01:36:23",
+    "finish_seconds": 5783
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 557,
+    "name": "Engel, Jessica",
+    "finish_time": "01:36:29",
+    "finish_seconds": 5789
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 559,
+    "name": "Kundinger, Jessica",
+    "finish_time": "01:36:38",
+    "finish_seconds": 5798
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 561,
+    "name": "Rabe von Pappenheim, Charlotte",
+    "finish_time": "01:36:47",
+    "finish_seconds": 5807
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 563,
+    "name": "Biohlawek, Anja",
+    "finish_time": "01:36:52",
+    "finish_seconds": 5812
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 565,
+    "name": "Adden, Beke",
+    "finish_time": "01:36:52",
+    "finish_seconds": 5812
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 567,
+    "name": "Michelsen, Lotus",
+    "finish_time": "01:36:58",
+    "finish_seconds": 5818
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 569,
+    "name": "boiche, alexandra",
+    "finish_time": "01:37:05",
+    "finish_seconds": 5825
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 571,
+    "name": "Ianniccheri, Olivia",
+    "finish_time": "01:37:13",
+    "finish_seconds": 5833
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 573,
+    "name": "Pedersen, Aidah",
+    "finish_time": "01:37:18",
+    "finish_seconds": 5838
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 575,
+    "name": "Lorenzen, Laura-Joe",
+    "finish_time": "01:37:30",
+    "finish_seconds": 5850
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 577,
+    "name": "Rymus, Henriette",
+    "finish_time": "01:37:38",
+    "finish_seconds": 5858
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 579,
+    "name": "Tempel, Dominique",
+    "finish_time": "01:37:43",
+    "finish_seconds": 5863
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 581,
+    "name": "Brandt, Lea",
+    "finish_time": "01:37:48",
+    "finish_seconds": 5868
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 583,
+    "name": "Lenkeit, Camilla",
+    "finish_time": "01:37:49",
+    "finish_seconds": 5869
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 585,
+    "name": "Tneoh, Joy",
+    "finish_time": "01:38:02",
+    "finish_seconds": 5882
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 587,
+    "name": "Faurskov, Stina",
+    "finish_time": "01:38:03",
+    "finish_seconds": 5883
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 589,
+    "name": "Happ, Ulli",
+    "finish_time": "01:38:06",
+    "finish_seconds": 5886
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 591,
+    "name": "Russay, Bettina",
+    "finish_time": "01:38:07",
+    "finish_seconds": 5887
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 593,
+    "name": "Pluschke, Kristina",
+    "finish_time": "01:38:11",
+    "finish_seconds": 5891
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 595,
+    "name": "Schetter, Dorte",
+    "finish_time": "01:38:14",
+    "finish_seconds": 5894
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 597,
+    "name": "Arendt, Claudia",
+    "finish_time": "01:38:23",
+    "finish_seconds": 5903
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 599,
+    "name": "Wans, Kristina",
+    "finish_time": "01:38:27",
+    "finish_seconds": 5907
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 601,
+    "name": "Scharch, Sonja",
+    "finish_time": "01:38:33",
+    "finish_seconds": 5913
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 603,
+    "name": "H\u00fcbner, Julia",
+    "finish_time": "01:38:34",
+    "finish_seconds": 5914
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 605,
+    "name": "Baumann, Hendrikje",
+    "finish_time": "01:38:42",
+    "finish_seconds": 5922
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 607,
+    "name": "Kremmling, Mette Victoria",
+    "finish_time": "01:38:45",
+    "finish_seconds": 5925
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 609,
+    "name": "Flatz, Annika",
+    "finish_time": "01:38:47",
+    "finish_seconds": 5927
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 611,
+    "name": "Barends, Simone",
+    "finish_time": "01:38:52",
+    "finish_seconds": 5932
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 613,
+    "name": "Knackstedt, Irina",
+    "finish_time": "01:38:54",
+    "finish_seconds": 5934
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 615,
+    "name": "Langhans, Stefanie",
+    "finish_time": "01:39:08",
+    "finish_seconds": 5948
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 617,
+    "name": "Ansell, Sarah",
+    "finish_time": "01:39:25",
+    "finish_seconds": 5965
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 619,
+    "name": "Hansen, Alena",
+    "finish_time": "01:39:26",
+    "finish_seconds": 5966
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 621,
+    "name": "Thomsen, Nika Carlotta",
+    "finish_time": "01:39:32",
+    "finish_seconds": 5972
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 623,
+    "name": "Schneider, Alexandra",
+    "finish_time": "01:39:53",
+    "finish_seconds": 5993
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 625,
+    "name": "Oldsen, Celine",
+    "finish_time": "01:40:09",
+    "finish_seconds": 6009
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 627,
+    "name": "Pihl, Marlene",
+    "finish_time": "01:40:16",
+    "finish_seconds": 6016
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 629,
+    "name": "Sturma, Petra",
+    "finish_time": "01:40:17",
+    "finish_seconds": 6017
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 631,
+    "name": "Hundt, Nathalie",
+    "finish_time": "01:40:28",
+    "finish_seconds": 6028
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 633,
+    "name": "Nohl, Lisa",
+    "finish_time": "01:40:28",
+    "finish_seconds": 6028
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 635,
+    "name": "Konrad, Maren",
+    "finish_time": "01:40:44",
+    "finish_seconds": 6044
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 637,
+    "name": "Zuievska, Vlada",
+    "finish_time": "01:40:45",
+    "finish_seconds": 6045
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 639,
+    "name": "Kirchhoff, Alexandra",
+    "finish_time": "01:40:55",
+    "finish_seconds": 6055
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 641,
+    "name": "Solis, Jenny",
+    "finish_time": "01:41:04",
+    "finish_seconds": 6064
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 643,
+    "name": "Pham, Thi Thuy Dung",
+    "finish_time": "01:41:08",
+    "finish_seconds": 6068
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 645,
+    "name": "Eser, Mutlu",
+    "finish_time": "01:41:13",
+    "finish_seconds": 6073
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 647,
+    "name": "Becker, Emma",
+    "finish_time": "01:41:20",
+    "finish_seconds": 6080
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 649,
+    "name": "Staker, Lara",
+    "finish_time": "01:41:29",
+    "finish_seconds": 6089
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 651,
+    "name": "Hourani, Zainab",
+    "finish_time": "01:41:35",
+    "finish_seconds": 6095
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 653,
+    "name": "H\u00f6nicke, Imke",
+    "finish_time": "01:41:39",
+    "finish_seconds": 6099
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 655,
+    "name": "Abrahams, Maren",
+    "finish_time": "01:41:47",
+    "finish_seconds": 6107
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 657,
+    "name": "Bey, Lea-Sophie",
+    "finish_time": "01:41:49",
+    "finish_seconds": 6109
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 659,
+    "name": "Stucke, Sophie",
+    "finish_time": "01:41:53",
+    "finish_seconds": 6113
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 661,
+    "name": "Krause, Anna",
+    "finish_time": "01:41:58",
+    "finish_seconds": 6118
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 663,
+    "name": "Wink, Sermin",
+    "finish_time": "01:42:03",
+    "finish_seconds": 6123
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 665,
+    "name": "Rokkedal, Maria Trier",
+    "finish_time": "01:42:15",
+    "finish_seconds": 6135
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 667,
+    "name": "Fesenbeck, Jana",
+    "finish_time": "01:42:26",
+    "finish_seconds": 6146
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 669,
+    "name": "Nowak, Lara",
+    "finish_time": "01:42:32",
+    "finish_seconds": 6152
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 671,
+    "name": "Reckemeier, Vanessa",
+    "finish_time": "01:42:38",
+    "finish_seconds": 6158
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 673,
+    "name": "Marquardt, Michaela",
+    "finish_time": "01:42:48",
+    "finish_seconds": 6168
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 675,
+    "name": "Glocker, Anita",
+    "finish_time": "01:42:52",
+    "finish_seconds": 6172
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 677,
+    "name": "Trzoska, Hannah",
+    "finish_time": "01:43:07",
+    "finish_seconds": 6187
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 679,
+    "name": "Rebmann, Lara",
+    "finish_time": "01:43:11",
+    "finish_seconds": 6191
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 681,
+    "name": "Klement, Kim Nathalie",
+    "finish_time": "01:43:15",
+    "finish_seconds": 6195
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 683,
+    "name": "Slijkhuis, Chim\u00e8ne",
+    "finish_time": "01:43:23",
+    "finish_seconds": 6203
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 685,
+    "name": "Giesecke, Kira",
+    "finish_time": "01:43:39",
+    "finish_seconds": 6219
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 687,
+    "name": "Beckmerhagen, Janine",
+    "finish_time": "01:44:01",
+    "finish_seconds": 6241
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 689,
+    "name": "Krake, Julia",
+    "finish_time": "01:44:03",
+    "finish_seconds": 6243
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 691,
+    "name": "M\u00edkov\u00e1, Eli\u0161ka",
+    "finish_time": "01:44:04",
+    "finish_seconds": 6244
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 693,
+    "name": "Grandt, Svenja",
+    "finish_time": "01:44:16",
+    "finish_seconds": 6256
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 695,
+    "name": "Tussing, Julia",
+    "finish_time": "01:44:20",
+    "finish_seconds": 6260
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 697,
+    "name": "Stastny, Ilona",
+    "finish_time": "01:44:21",
+    "finish_seconds": 6261
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 699,
+    "name": "Mudrich, Melanie",
+    "finish_time": "01:44:24",
+    "finish_seconds": 6264
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 701,
+    "name": "Greiwe, Nicki",
+    "finish_time": "01:44:31",
+    "finish_seconds": 6271
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 703,
+    "name": "M\u00fcller, Cathrin",
+    "finish_time": "01:44:41",
+    "finish_seconds": 6281
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 705,
+    "name": "Krahnen, Celina",
+    "finish_time": "01:44:46",
+    "finish_seconds": 6286
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 707,
+    "name": "Knab, Xiaoou",
+    "finish_time": "01:44:57",
+    "finish_seconds": 6297
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 709,
+    "name": "Murken, Elisa",
+    "finish_time": "01:44:59",
+    "finish_seconds": 6299
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 711,
+    "name": "Zernikow, Vivien",
+    "finish_time": "01:45:10",
+    "finish_seconds": 6310
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 713,
+    "name": "Winzer, Lisanne",
+    "finish_time": "01:45:24",
+    "finish_seconds": 6324
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 715,
+    "name": "Redegeld, Lisa",
+    "finish_time": "01:45:27",
+    "finish_seconds": 6327
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 717,
+    "name": "La Mela, Jessica",
+    "finish_time": "01:45:40",
+    "finish_seconds": 6340
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 719,
+    "name": "Dias Fernandes, Anna Sophia",
+    "finish_time": "01:45:47",
+    "finish_seconds": 6347
+  },
+  {
+    "venue": "2025 Hamburg",
+    "gender": "W",
+    "rank": 721,
+    "name": "Schnaak, Carolin",
+    "finish_time": "01:45:57",
+    "finish_seconds": 6357
+  }
+]

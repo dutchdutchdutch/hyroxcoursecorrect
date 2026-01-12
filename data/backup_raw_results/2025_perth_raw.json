@@ -1,0 +1,5130 @@
+[
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 1,
+    "name": "Mouzakki, Dylan",
+    "finish_time": "00:57:08",
+    "finish_seconds": 3428
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 3,
+    "name": "Park, Minsung",
+    "finish_time": "00:59:08",
+    "finish_seconds": 3548
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 5,
+    "name": "Lincoln, Chris",
+    "finish_time": "01:00:21",
+    "finish_seconds": 3621
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 7,
+    "name": "Gronow, Lachlan",
+    "finish_time": "01:01:00",
+    "finish_seconds": 3660
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 9,
+    "name": "Mood, Sam",
+    "finish_time": "01:01:47",
+    "finish_seconds": 3707
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 11,
+    "name": "Potter, Matt",
+    "finish_time": "01:02:29",
+    "finish_seconds": 3749
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 13,
+    "name": "Smith, Kurtis",
+    "finish_time": "01:02:44",
+    "finish_seconds": 3764
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 15,
+    "name": "Boyd, Lee",
+    "finish_time": "01:02:56",
+    "finish_seconds": 3776
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 17,
+    "name": "Carter, Adam",
+    "finish_time": "01:03:05",
+    "finish_seconds": 3785
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 19,
+    "name": "Greco, Luke",
+    "finish_time": "01:03:15",
+    "finish_seconds": 3795
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 21,
+    "name": "Clancy, Conor",
+    "finish_time": "01:03:42",
+    "finish_seconds": 3822
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 23,
+    "name": "Wilson, Jamie",
+    "finish_time": "01:03:49",
+    "finish_seconds": 3829
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 25,
+    "name": "Moore, Luke",
+    "finish_time": "01:04:36",
+    "finish_seconds": 3876
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 27,
+    "name": "Lewis, Ryan",
+    "finish_time": "01:05:14",
+    "finish_seconds": 3914
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 29,
+    "name": "Kruger, Brad",
+    "finish_time": "01:05:17",
+    "finish_seconds": 3917
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 31,
+    "name": "Mccudden, Jack",
+    "finish_time": "01:05:48",
+    "finish_seconds": 3948
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 33,
+    "name": "Schmitt, Joseph",
+    "finish_time": "01:06:00",
+    "finish_seconds": 3960
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 35,
+    "name": "Hambly, Callum",
+    "finish_time": "01:06:04",
+    "finish_seconds": 3964
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 37,
+    "name": "Norton, Jesse",
+    "finish_time": "01:06:17",
+    "finish_seconds": 3977
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 39,
+    "name": "Donald, Leslie",
+    "finish_time": "01:06:25",
+    "finish_seconds": 3985
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 41,
+    "name": "Upton-Davis, Patrick",
+    "finish_time": "01:06:30",
+    "finish_seconds": 3990
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 43,
+    "name": "Edwards, Tom",
+    "finish_time": "01:06:35",
+    "finish_seconds": 3995
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 45,
+    "name": "Boyle, Ciaran",
+    "finish_time": "01:06:51",
+    "finish_seconds": 4011
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 47,
+    "name": "Schipplock, Jayden",
+    "finish_time": "01:06:58",
+    "finish_seconds": 4018
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 49,
+    "name": "Hirtzel, David",
+    "finish_time": "01:07:13",
+    "finish_seconds": 4033
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 51,
+    "name": "Gault, Marcus",
+    "finish_time": "01:07:24",
+    "finish_seconds": 4044
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 53,
+    "name": "Kelsey Scott, Luke",
+    "finish_time": "01:07:53",
+    "finish_seconds": 4073
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 55,
+    "name": "Conway, Paddy",
+    "finish_time": "01:08:00",
+    "finish_seconds": 4080
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 57,
+    "name": "Fernandez, Yamandu",
+    "finish_time": "01:08:06",
+    "finish_seconds": 4086
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 59,
+    "name": "Britton, Luke",
+    "finish_time": "01:08:11",
+    "finish_seconds": 4091
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 61,
+    "name": "Beecher, Justin",
+    "finish_time": "01:08:20",
+    "finish_seconds": 4100
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 63,
+    "name": "Formosa, Alex",
+    "finish_time": "01:08:32",
+    "finish_seconds": 4112
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 65,
+    "name": "Devahasdin, Brody",
+    "finish_time": "01:08:41",
+    "finish_seconds": 4121
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 67,
+    "name": "Dos Santos, Chad",
+    "finish_time": "01:08:52",
+    "finish_seconds": 4132
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 69,
+    "name": "Christensen, Mathew",
+    "finish_time": "01:09:02",
+    "finish_seconds": 4142
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 71,
+    "name": "Liedtke, Jakob",
+    "finish_time": "01:09:11",
+    "finish_seconds": 4151
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 73,
+    "name": "Corbett, Cody",
+    "finish_time": "01:09:17",
+    "finish_seconds": 4157
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 75,
+    "name": "Mare, Jp",
+    "finish_time": "01:09:40",
+    "finish_seconds": 4180
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 77,
+    "name": "Hatzis, Eric",
+    "finish_time": "01:09:46",
+    "finish_seconds": 4186
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 79,
+    "name": "Allum, Josh",
+    "finish_time": "01:09:58",
+    "finish_seconds": 4198
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 81,
+    "name": "Nicholson, Sam",
+    "finish_time": "01:10:07",
+    "finish_seconds": 4207
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 83,
+    "name": "Woods, Matthew",
+    "finish_time": "01:10:08",
+    "finish_seconds": 4208
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 85,
+    "name": "Fox, Ryan",
+    "finish_time": "01:10:11",
+    "finish_seconds": 4211
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 87,
+    "name": "Carpenter, Ross",
+    "finish_time": "01:10:17",
+    "finish_seconds": 4217
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 89,
+    "name": "Ramos, Emmanuel",
+    "finish_time": "01:10:24",
+    "finish_seconds": 4224
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 91,
+    "name": "Warr, Mitchell",
+    "finish_time": "01:10:33",
+    "finish_seconds": 4233
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 93,
+    "name": "Gudelj, Luka",
+    "finish_time": "01:10:35",
+    "finish_seconds": 4235
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 95,
+    "name": "Johnson, Brett",
+    "finish_time": "01:10:39",
+    "finish_seconds": 4239
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 97,
+    "name": "Schoolkate, Brodie",
+    "finish_time": "01:10:48",
+    "finish_seconds": 4248
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 99,
+    "name": "Walker, Sam",
+    "finish_time": "01:11:02",
+    "finish_seconds": 4262
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 101,
+    "name": "Krapljanov, Blaine",
+    "finish_time": "01:11:06",
+    "finish_seconds": 4266
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 103,
+    "name": "Cunningham, Aiden",
+    "finish_time": "01:11:10",
+    "finish_seconds": 4270
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 105,
+    "name": "Gallagher, Brandon",
+    "finish_time": "01:11:11",
+    "finish_seconds": 4271
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 107,
+    "name": "Perceval, Chris",
+    "finish_time": "01:11:16",
+    "finish_seconds": 4276
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 109,
+    "name": "Katopodis, Louis",
+    "finish_time": "01:11:24",
+    "finish_seconds": 4284
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 111,
+    "name": "Donnelly, Richard",
+    "finish_time": "01:11:26",
+    "finish_seconds": 4286
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 113,
+    "name": "Douglas, Carl",
+    "finish_time": "01:11:28",
+    "finish_seconds": 4288
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 115,
+    "name": "Leonard, Robbie",
+    "finish_time": "01:11:45",
+    "finish_seconds": 4305
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 117,
+    "name": "Spring, Riley",
+    "finish_time": "01:11:49",
+    "finish_seconds": 4309
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 119,
+    "name": "Early, Conall",
+    "finish_time": "01:12:01",
+    "finish_seconds": 4321
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 121,
+    "name": "Goody, Karl",
+    "finish_time": "01:12:15",
+    "finish_seconds": 4335
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 123,
+    "name": "Hamer, Ben",
+    "finish_time": "01:12:20",
+    "finish_seconds": 4340
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 125,
+    "name": "York, David",
+    "finish_time": "01:12:29",
+    "finish_seconds": 4349
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 127,
+    "name": "Mckeown, J",
+    "finish_time": "01:12:34",
+    "finish_seconds": 4354
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 129,
+    "name": "Furley, Jackson",
+    "finish_time": "01:12:37",
+    "finish_seconds": 4357
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 131,
+    "name": "Dennedy, Michael",
+    "finish_time": "01:12:38",
+    "finish_seconds": 4358
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 133,
+    "name": "Nix, Lachlan",
+    "finish_time": "01:12:43",
+    "finish_seconds": 4363
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 135,
+    "name": "Buhagiar, Stephen",
+    "finish_time": "01:12:49",
+    "finish_seconds": 4369
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 137,
+    "name": "Van Ree, Mikel",
+    "finish_time": "01:12:51",
+    "finish_seconds": 4371
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 139,
+    "name": "Tosatto, Simon",
+    "finish_time": "01:12:56",
+    "finish_seconds": 4376
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 141,
+    "name": "Schmidt, Jan-Philipp",
+    "finish_time": "01:12:59",
+    "finish_seconds": 4379
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 143,
+    "name": "Ross, Graeme",
+    "finish_time": "01:13:08",
+    "finish_seconds": 4388
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 145,
+    "name": "Mcleish, Dylan",
+    "finish_time": "01:13:14",
+    "finish_seconds": 4394
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 147,
+    "name": "Macgregor, Robroy",
+    "finish_time": "01:13:19",
+    "finish_seconds": 4399
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 149,
+    "name": "Nel, Petrus",
+    "finish_time": "01:13:35",
+    "finish_seconds": 4415
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 151,
+    "name": "Burr, Joe",
+    "finish_time": "01:13:38",
+    "finish_seconds": 4418
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 153,
+    "name": "Atad, Anton",
+    "finish_time": "01:13:52",
+    "finish_seconds": 4432
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 155,
+    "name": "Smith, Finn",
+    "finish_time": "01:13:59",
+    "finish_seconds": 4439
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 157,
+    "name": "Phelan, Eoghan",
+    "finish_time": "01:14:01",
+    "finish_seconds": 4441
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 159,
+    "name": "Davy, Heath",
+    "finish_time": "01:14:03",
+    "finish_seconds": 4443
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 161,
+    "name": "Podnar, Blake",
+    "finish_time": "01:14:06",
+    "finish_seconds": 4446
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 163,
+    "name": "Palombella, Myles",
+    "finish_time": "01:14:07",
+    "finish_seconds": 4447
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 165,
+    "name": "Atkin, Isaac",
+    "finish_time": "01:14:10",
+    "finish_seconds": 4450
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 167,
+    "name": "Gangell, Christian",
+    "finish_time": "01:14:16",
+    "finish_seconds": 4456
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 169,
+    "name": "Andreou, Alex",
+    "finish_time": "01:14:19",
+    "finish_seconds": 4459
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 171,
+    "name": "Hutcheson, Ryan",
+    "finish_time": "01:14:23",
+    "finish_seconds": 4463
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 173,
+    "name": "Foster, Steven",
+    "finish_time": "01:14:24",
+    "finish_seconds": 4464
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 175,
+    "name": "Doheny, Conor",
+    "finish_time": "01:14:26",
+    "finish_seconds": 4466
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 177,
+    "name": "Chabrefy, Adrien",
+    "finish_time": "01:14:29",
+    "finish_seconds": 4469
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 179,
+    "name": "Wilson, Lachlan",
+    "finish_time": "01:14:38",
+    "finish_seconds": 4478
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 181,
+    "name": "Keum, Whee",
+    "finish_time": "01:14:40",
+    "finish_seconds": 4480
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 183,
+    "name": "Kellegher, Sean",
+    "finish_time": "01:14:42",
+    "finish_seconds": 4482
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 185,
+    "name": "Fox, Nathan",
+    "finish_time": "01:14:48",
+    "finish_seconds": 4488
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 187,
+    "name": "Simpson, Andrew",
+    "finish_time": "01:14:51",
+    "finish_seconds": 4491
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 189,
+    "name": "Parke, Matthew",
+    "finish_time": "01:14:55",
+    "finish_seconds": 4495
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 191,
+    "name": "Haslam, Anthony",
+    "finish_time": "01:15:00",
+    "finish_seconds": 4500
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 193,
+    "name": "Mccauley, Tyson",
+    "finish_time": "01:15:01",
+    "finish_seconds": 4501
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 195,
+    "name": "Brice, Scott",
+    "finish_time": "01:15:03",
+    "finish_seconds": 4503
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 197,
+    "name": "Soulos, Jack",
+    "finish_time": "01:15:12",
+    "finish_seconds": 4512
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 199,
+    "name": "Li, Joshua",
+    "finish_time": "01:15:20",
+    "finish_seconds": 4520
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 201,
+    "name": "Summerville, Rhys",
+    "finish_time": "01:15:22",
+    "finish_seconds": 4522
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 203,
+    "name": "Choate, Steve",
+    "finish_time": "01:15:27",
+    "finish_seconds": 4527
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 205,
+    "name": "O'Connor, Shane",
+    "finish_time": "01:15:29",
+    "finish_seconds": 4529
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 207,
+    "name": "Edwards, Jason",
+    "finish_time": "01:15:38",
+    "finish_seconds": 4538
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 209,
+    "name": "Deplanque, Andreas",
+    "finish_time": "01:15:39",
+    "finish_seconds": 4539
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 211,
+    "name": "Toniolo, Mathew",
+    "finish_time": "01:15:53",
+    "finish_seconds": 4553
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 213,
+    "name": "Gagne, David",
+    "finish_time": "01:15:55",
+    "finish_seconds": 4555
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 215,
+    "name": "Yeung, Nicholas",
+    "finish_time": "01:16:02",
+    "finish_seconds": 4562
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 217,
+    "name": "Spencer, Stephen",
+    "finish_time": "01:16:12",
+    "finish_seconds": 4572
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 219,
+    "name": "Piriou, Kilian",
+    "finish_time": "01:16:16",
+    "finish_seconds": 4576
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 221,
+    "name": "Farrell, Conrad",
+    "finish_time": "01:16:17",
+    "finish_seconds": 4577
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 223,
+    "name": "Ford, Kim",
+    "finish_time": "01:16:19",
+    "finish_seconds": 4579
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 225,
+    "name": "Coffey, Patrick",
+    "finish_time": "01:16:34",
+    "finish_seconds": 4594
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 227,
+    "name": "Bullwinkel, Mats",
+    "finish_time": "01:16:37",
+    "finish_seconds": 4597
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 229,
+    "name": "Fairbanks, Luke",
+    "finish_time": "01:16:41",
+    "finish_seconds": 4601
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 231,
+    "name": "Ward, Philip",
+    "finish_time": "01:16:42",
+    "finish_seconds": 4602
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 233,
+    "name": "Gomaa, Bassem",
+    "finish_time": "01:16:42",
+    "finish_seconds": 4602
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 235,
+    "name": "Norcross, Dave",
+    "finish_time": "01:16:46",
+    "finish_seconds": 4606
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 237,
+    "name": "Nestorovic, Stefan",
+    "finish_time": "01:16:47",
+    "finish_seconds": 4607
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 239,
+    "name": "Curran, Johnny",
+    "finish_time": "01:16:53",
+    "finish_seconds": 4613
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 241,
+    "name": "Cleuet, Antoine",
+    "finish_time": "01:16:54",
+    "finish_seconds": 4614
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 243,
+    "name": "Kinnane, Tommy",
+    "finish_time": "01:16:57",
+    "finish_seconds": 4617
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 245,
+    "name": "Reis, Jordan",
+    "finish_time": "01:17:01",
+    "finish_seconds": 4621
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 247,
+    "name": "Elliott, Nick",
+    "finish_time": "01:17:05",
+    "finish_seconds": 4625
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 249,
+    "name": "Rass, Heinrich",
+    "finish_time": "01:17:06",
+    "finish_seconds": 4626
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 251,
+    "name": "Dewe, David",
+    "finish_time": "01:17:10",
+    "finish_seconds": 4630
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 253,
+    "name": "Flavell, Leon",
+    "finish_time": "01:17:12",
+    "finish_seconds": 4632
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 255,
+    "name": "Ortiz, Esteban",
+    "finish_time": "01:17:17",
+    "finish_seconds": 4637
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 257,
+    "name": "Hughes, Connor",
+    "finish_time": "01:17:19",
+    "finish_seconds": 4639
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 259,
+    "name": "Rokkas, Niko",
+    "finish_time": "01:17:21",
+    "finish_seconds": 4641
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 261,
+    "name": "Blight, Joshua",
+    "finish_time": "01:17:44",
+    "finish_seconds": 4664
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 263,
+    "name": "Rybajlak, Beau",
+    "finish_time": "01:17:47",
+    "finish_seconds": 4667
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 265,
+    "name": "Franey, Duncan",
+    "finish_time": "01:17:53",
+    "finish_seconds": 4673
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 267,
+    "name": "Valerio, Julian",
+    "finish_time": "01:18:07",
+    "finish_seconds": 4687
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 269,
+    "name": "Riches, Benjamin",
+    "finish_time": "01:18:12",
+    "finish_seconds": 4692
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 271,
+    "name": "Nix, Cameron",
+    "finish_time": "01:18:17",
+    "finish_seconds": 4697
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 273,
+    "name": "Barris, George",
+    "finish_time": "01:18:22",
+    "finish_seconds": 4702
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 275,
+    "name": "Barry, Nick",
+    "finish_time": "01:18:26",
+    "finish_seconds": 4706
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 277,
+    "name": "Aravena, Alvaro",
+    "finish_time": "01:18:29",
+    "finish_seconds": 4709
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 279,
+    "name": "Douglas, Josh",
+    "finish_time": "01:18:39",
+    "finish_seconds": 4719
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 281,
+    "name": "Mccarthy, Russell",
+    "finish_time": "01:18:52",
+    "finish_seconds": 4732
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 283,
+    "name": "Gros, Cedric",
+    "finish_time": "01:18:52",
+    "finish_seconds": 4732
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 285,
+    "name": "Pham, Benjamin",
+    "finish_time": "01:19:04",
+    "finish_seconds": 4744
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 287,
+    "name": "Waterston, Sam",
+    "finish_time": "01:19:06",
+    "finish_seconds": 4746
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 289,
+    "name": "Hayes, Matthew",
+    "finish_time": "01:19:10",
+    "finish_seconds": 4750
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 291,
+    "name": "Hammond, Luke",
+    "finish_time": "01:19:11",
+    "finish_seconds": 4751
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 293,
+    "name": "Pegg, Jarryd",
+    "finish_time": "01:19:13",
+    "finish_seconds": 4753
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 295,
+    "name": "Saffioti, Zac",
+    "finish_time": "01:19:15",
+    "finish_seconds": 4755
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 297,
+    "name": "Wang, Teddy",
+    "finish_time": "01:19:21",
+    "finish_seconds": 4761
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 299,
+    "name": "Stewart, Jamie",
+    "finish_time": "01:19:29",
+    "finish_seconds": 4769
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 301,
+    "name": "Bird, Cameron",
+    "finish_time": "01:19:31",
+    "finish_seconds": 4771
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 303,
+    "name": "Wason, Matthew",
+    "finish_time": "01:19:44",
+    "finish_seconds": 4784
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 305,
+    "name": "Vosika, Laco",
+    "finish_time": "01:19:49",
+    "finish_seconds": 4789
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 307,
+    "name": "Backman, Scott",
+    "finish_time": "01:19:56",
+    "finish_seconds": 4796
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 309,
+    "name": "Wells, Steve",
+    "finish_time": "01:20:01",
+    "finish_seconds": 4801
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 311,
+    "name": "Anne, Timoth\u00e9",
+    "finish_time": "01:20:07",
+    "finish_seconds": 4807
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 313,
+    "name": "Elieff, Ben",
+    "finish_time": "01:20:08",
+    "finish_seconds": 4808
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 315,
+    "name": "Shadbolt, Tom",
+    "finish_time": "01:20:10",
+    "finish_seconds": 4810
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 317,
+    "name": "Littlejohn, Kurt",
+    "finish_time": "01:20:12",
+    "finish_seconds": 4812
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 319,
+    "name": "Miller, Jason",
+    "finish_time": "01:20:13",
+    "finish_seconds": 4813
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 321,
+    "name": "Reid, Jarrad",
+    "finish_time": "01:20:14",
+    "finish_seconds": 4814
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 323,
+    "name": "Rukavina, Ren",
+    "finish_time": "01:20:16",
+    "finish_seconds": 4816
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 325,
+    "name": "Mcauley, Conor",
+    "finish_time": "01:20:19",
+    "finish_seconds": 4819
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 327,
+    "name": "Llewellyn, Craig Lewis",
+    "finish_time": "01:20:29",
+    "finish_seconds": 4829
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 329,
+    "name": "Armstrong, Rhys",
+    "finish_time": "01:20:35",
+    "finish_seconds": 4835
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 331,
+    "name": "Devaney, Kealan",
+    "finish_time": "01:20:39",
+    "finish_seconds": 4839
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 333,
+    "name": "Urwin, Jethro",
+    "finish_time": "01:20:50",
+    "finish_seconds": 4850
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 335,
+    "name": "Weldon, Karl",
+    "finish_time": "01:20:51",
+    "finish_seconds": 4851
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 337,
+    "name": "Sutcliffe, Neil",
+    "finish_time": "01:20:53",
+    "finish_seconds": 4853
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 339,
+    "name": "O'Brien, Damian",
+    "finish_time": "01:21:04",
+    "finish_seconds": 4864
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 341,
+    "name": "Murphy, Lionel",
+    "finish_time": "01:21:06",
+    "finish_seconds": 4866
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 343,
+    "name": "Bossong, Paul",
+    "finish_time": "01:21:12",
+    "finish_seconds": 4872
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 345,
+    "name": "Chawla, Aakash",
+    "finish_time": "01:21:20",
+    "finish_seconds": 4880
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 347,
+    "name": "Canna, Kellen",
+    "finish_time": "01:21:28",
+    "finish_seconds": 4888
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 349,
+    "name": "Roberts, Bradley",
+    "finish_time": "01:21:32",
+    "finish_seconds": 4892
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 351,
+    "name": "Walker, Te Ate",
+    "finish_time": "01:21:35",
+    "finish_seconds": 4895
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 353,
+    "name": "Smith, Jacob",
+    "finish_time": "01:21:37",
+    "finish_seconds": 4897
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 355,
+    "name": "Darmakis, Daniel",
+    "finish_time": "01:21:42",
+    "finish_seconds": 4902
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 357,
+    "name": "Mcnamee, James",
+    "finish_time": "01:21:45",
+    "finish_seconds": 4905
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 359,
+    "name": "Watkins, Ray",
+    "finish_time": "01:21:50",
+    "finish_seconds": 4910
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 361,
+    "name": "Chaplyn, Josh",
+    "finish_time": "01:21:59",
+    "finish_seconds": 4919
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 363,
+    "name": "Smith, Paul",
+    "finish_time": "01:22:11",
+    "finish_seconds": 4931
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 365,
+    "name": "Audino, Laurie",
+    "finish_time": "01:22:14",
+    "finish_seconds": 4934
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 367,
+    "name": "Chadwick, David",
+    "finish_time": "01:22:32",
+    "finish_seconds": 4952
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 369,
+    "name": "Thiele, Daniel",
+    "finish_time": "01:22:38",
+    "finish_seconds": 4958
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 371,
+    "name": "Oliver, Matthew",
+    "finish_time": "01:22:42",
+    "finish_seconds": 4962
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 373,
+    "name": "Lockyer, Callum",
+    "finish_time": "01:22:46",
+    "finish_seconds": 4966
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 375,
+    "name": "Lisle, Daniel",
+    "finish_time": "01:22:53",
+    "finish_seconds": 4973
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 377,
+    "name": "Fassbender, Jason",
+    "finish_time": "01:23:00",
+    "finish_seconds": 4980
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 379,
+    "name": "Ratta, Dylan",
+    "finish_time": "01:23:03",
+    "finish_seconds": 4983
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 381,
+    "name": "Smith, Tom",
+    "finish_time": "01:23:06",
+    "finish_seconds": 4986
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 383,
+    "name": "Bellows, Andrew",
+    "finish_time": "01:23:14",
+    "finish_seconds": 4994
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 385,
+    "name": "Lemming, Jarrard",
+    "finish_time": "01:23:16",
+    "finish_seconds": 4996
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 387,
+    "name": "Snell, Mark",
+    "finish_time": "01:23:26",
+    "finish_seconds": 5006
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 389,
+    "name": "Eru, Cole",
+    "finish_time": "01:23:28",
+    "finish_seconds": 5008
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 391,
+    "name": "Lowther, Steven",
+    "finish_time": "01:23:32",
+    "finish_seconds": 5012
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 393,
+    "name": "Sargeson, Matt",
+    "finish_time": "01:23:35",
+    "finish_seconds": 5015
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 395,
+    "name": "O\u2019Neill, Ryan",
+    "finish_time": "01:23:37",
+    "finish_seconds": 5017
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 397,
+    "name": "Mcphee, Jamie",
+    "finish_time": "01:23:41",
+    "finish_seconds": 5021
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 399,
+    "name": "Pender, William",
+    "finish_time": "01:23:42",
+    "finish_seconds": 5022
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 401,
+    "name": "Liston, Fraser",
+    "finish_time": "01:23:54",
+    "finish_seconds": 5034
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 403,
+    "name": "Andrew, Tom",
+    "finish_time": "01:24:02",
+    "finish_seconds": 5042
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 405,
+    "name": "Arnold, James",
+    "finish_time": "01:24:03",
+    "finish_seconds": 5043
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 407,
+    "name": "Hughes, Jordan",
+    "finish_time": "01:24:06",
+    "finish_seconds": 5046
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 409,
+    "name": "Han, Chieh",
+    "finish_time": "01:24:19",
+    "finish_seconds": 5059
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 411,
+    "name": "Dirani, Yousef",
+    "finish_time": "01:24:20",
+    "finish_seconds": 5060
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 413,
+    "name": "Reid, David",
+    "finish_time": "01:24:22",
+    "finish_seconds": 5062
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 415,
+    "name": "Tuckley, Matthew",
+    "finish_time": "01:24:24",
+    "finish_seconds": 5064
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 417,
+    "name": "Grundy, Damien",
+    "finish_time": "01:24:36",
+    "finish_seconds": 5076
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 419,
+    "name": "Murphy, Alan",
+    "finish_time": "01:24:36",
+    "finish_seconds": 5076
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 421,
+    "name": "Scott, Michael",
+    "finish_time": "01:24:40",
+    "finish_seconds": 5080
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 423,
+    "name": "Chambers, Henry",
+    "finish_time": "01:24:47",
+    "finish_seconds": 5087
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 425,
+    "name": "Carling, Tom",
+    "finish_time": "01:24:49",
+    "finish_seconds": 5089
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 427,
+    "name": "Wright, Jack",
+    "finish_time": "01:24:59",
+    "finish_seconds": 5099
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 429,
+    "name": "Dean, Matthew",
+    "finish_time": "01:25:02",
+    "finish_seconds": 5102
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 431,
+    "name": "Perkin, Chris",
+    "finish_time": "01:25:17",
+    "finish_seconds": 5117
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 433,
+    "name": "Williamson, Kyle",
+    "finish_time": "01:25:19",
+    "finish_seconds": 5119
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 435,
+    "name": "Romeri, Anthony",
+    "finish_time": "01:25:29",
+    "finish_seconds": 5129
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 437,
+    "name": "Jobe, Matt",
+    "finish_time": "01:25:32",
+    "finish_seconds": 5132
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 439,
+    "name": "Mcwilliam, Craig",
+    "finish_time": "01:25:40",
+    "finish_seconds": 5140
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 441,
+    "name": "Bancroft, Justin",
+    "finish_time": "01:25:50",
+    "finish_seconds": 5150
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 443,
+    "name": "Deany, Dave",
+    "finish_time": "01:25:53",
+    "finish_seconds": 5153
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 445,
+    "name": "Torres, Juan",
+    "finish_time": "01:25:57",
+    "finish_seconds": 5157
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 447,
+    "name": "Kietzmann, Braydon",
+    "finish_time": "01:26:01",
+    "finish_seconds": 5161
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 449,
+    "name": "Reyes, Pablo",
+    "finish_time": "01:26:06",
+    "finish_seconds": 5166
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 451,
+    "name": "Ferguson, Calum",
+    "finish_time": "01:26:07",
+    "finish_seconds": 5167
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 453,
+    "name": "Granger, Adam",
+    "finish_time": "01:26:10",
+    "finish_seconds": 5170
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 455,
+    "name": "Grimaudo, Giuliano",
+    "finish_time": "01:26:13",
+    "finish_seconds": 5173
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 457,
+    "name": "Barton, Joshua",
+    "finish_time": "01:26:14",
+    "finish_seconds": 5174
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 459,
+    "name": "Marshall, Max",
+    "finish_time": "01:26:21",
+    "finish_seconds": 5181
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 461,
+    "name": "Edmondson, Jonathan",
+    "finish_time": "01:26:38",
+    "finish_seconds": 5198
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 463,
+    "name": "Du Preez, Justin",
+    "finish_time": "01:27:00",
+    "finish_seconds": 5220
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 465,
+    "name": "Dhadli, Ajay",
+    "finish_time": "01:27:01",
+    "finish_seconds": 5221
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 467,
+    "name": "Lam, Wilfrey",
+    "finish_time": "01:27:07",
+    "finish_seconds": 5227
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 469,
+    "name": "Andreasen, Alfred",
+    "finish_time": "01:27:14",
+    "finish_seconds": 5234
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 471,
+    "name": "Crean, Jack",
+    "finish_time": "01:27:20",
+    "finish_seconds": 5240
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 473,
+    "name": "West, Braydon",
+    "finish_time": "01:27:32",
+    "finish_seconds": 5252
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 475,
+    "name": "Bradley, Patrick",
+    "finish_time": "01:27:42",
+    "finish_seconds": 5262
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 477,
+    "name": "Phillips, Tyson",
+    "finish_time": "01:27:46",
+    "finish_seconds": 5266
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 479,
+    "name": "Staines, Michael",
+    "finish_time": "01:27:53",
+    "finish_seconds": 5273
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 481,
+    "name": "Marchese, Nino",
+    "finish_time": "01:27:58",
+    "finish_seconds": 5278
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 483,
+    "name": "Newman, Andy",
+    "finish_time": "01:27:59",
+    "finish_seconds": 5279
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 485,
+    "name": "Magee, Robert",
+    "finish_time": "01:28:00",
+    "finish_seconds": 5280
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 487,
+    "name": "Lane, Ted",
+    "finish_time": "01:28:08",
+    "finish_seconds": 5288
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 489,
+    "name": "Ong, Simon",
+    "finish_time": "01:28:08",
+    "finish_seconds": 5288
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 491,
+    "name": "Watson, James",
+    "finish_time": "01:28:12",
+    "finish_seconds": 5292
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 493,
+    "name": "Burrows, Connor",
+    "finish_time": "01:28:24",
+    "finish_seconds": 5304
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 495,
+    "name": "Rezaeimotlagh, Adel",
+    "finish_time": "01:28:32",
+    "finish_seconds": 5312
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 497,
+    "name": "Law, Kia Wei",
+    "finish_time": "01:28:36",
+    "finish_seconds": 5316
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 499,
+    "name": "Purba-Barnard, Samuel",
+    "finish_time": "01:28:38",
+    "finish_seconds": 5318
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 501,
+    "name": "Hardy, Craig",
+    "finish_time": "01:28:44",
+    "finish_seconds": 5324
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 503,
+    "name": "Ey, Jason",
+    "finish_time": "01:28:46",
+    "finish_seconds": 5326
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 505,
+    "name": "Feilding, Ryan",
+    "finish_time": "01:28:49",
+    "finish_seconds": 5329
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 507,
+    "name": "Gisbourne, Tom",
+    "finish_time": "01:28:56",
+    "finish_seconds": 5336
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 509,
+    "name": "Kinsella, Jimmy",
+    "finish_time": "01:29:03",
+    "finish_seconds": 5343
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 511,
+    "name": "Condos, Kosta",
+    "finish_time": "01:29:06",
+    "finish_seconds": 5346
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 513,
+    "name": "Gonzalez, Daniel",
+    "finish_time": "01:29:12",
+    "finish_seconds": 5352
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 515,
+    "name": "Deas, Ross",
+    "finish_time": "01:29:15",
+    "finish_seconds": 5355
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 517,
+    "name": "Stephenson, Matt",
+    "finish_time": "01:29:19",
+    "finish_seconds": 5359
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 519,
+    "name": "Meaney, Eddie",
+    "finish_time": "01:29:20",
+    "finish_seconds": 5360
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 521,
+    "name": "Glew, Rob",
+    "finish_time": "01:29:23",
+    "finish_seconds": 5363
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 523,
+    "name": "Jensen, Saxon",
+    "finish_time": "01:29:26",
+    "finish_seconds": 5366
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 525,
+    "name": "Laan, David",
+    "finish_time": "01:29:32",
+    "finish_seconds": 5372
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 527,
+    "name": "Bates, Caleb",
+    "finish_time": "01:29:33",
+    "finish_seconds": 5373
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 529,
+    "name": "Glew, Anthony",
+    "finish_time": "01:29:38",
+    "finish_seconds": 5378
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 531,
+    "name": "Gomes, Rodrigo",
+    "finish_time": "01:29:45",
+    "finish_seconds": 5385
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 533,
+    "name": "Dedaj, Vince",
+    "finish_time": "01:29:55",
+    "finish_seconds": 5395
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 535,
+    "name": "Martinez, Jose",
+    "finish_time": "01:30:10",
+    "finish_seconds": 5410
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 537,
+    "name": "Curtis, Zac",
+    "finish_time": "01:30:26",
+    "finish_seconds": 5426
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 539,
+    "name": "Corfield, Dion",
+    "finish_time": "01:30:40",
+    "finish_seconds": 5440
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 541,
+    "name": "Berard, Alexis",
+    "finish_time": "01:30:49",
+    "finish_seconds": 5449
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 543,
+    "name": "Stofberg, Rudolf",
+    "finish_time": "01:30:52",
+    "finish_seconds": 5452
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 545,
+    "name": "Taylor, Arafie",
+    "finish_time": "01:30:58",
+    "finish_seconds": 5458
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 547,
+    "name": "Howard, John",
+    "finish_time": "01:31:04",
+    "finish_seconds": 5464
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 549,
+    "name": "Shay, Drew",
+    "finish_time": "01:31:04",
+    "finish_seconds": 5464
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 551,
+    "name": "Atterbury, Juan",
+    "finish_time": "01:31:15",
+    "finish_seconds": 5475
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 553,
+    "name": "Muscat, Mark",
+    "finish_time": "01:31:24",
+    "finish_seconds": 5484
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 555,
+    "name": "Dempsey Reid, Sean",
+    "finish_time": "01:31:39",
+    "finish_seconds": 5499
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 557,
+    "name": "Baxter, Christopher",
+    "finish_time": "01:31:41",
+    "finish_seconds": 5501
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 559,
+    "name": "Smith, Shaun",
+    "finish_time": "01:31:46",
+    "finish_seconds": 5506
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 561,
+    "name": "Mcbride, Pearce",
+    "finish_time": "01:31:54",
+    "finish_seconds": 5514
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 563,
+    "name": "Robins, Adrian",
+    "finish_time": "01:31:55",
+    "finish_seconds": 5515
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 565,
+    "name": "Treend, Michael",
+    "finish_time": "01:31:57",
+    "finish_seconds": 5517
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 567,
+    "name": "Westdorp, Travis",
+    "finish_time": "01:32:07",
+    "finish_seconds": 5527
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 569,
+    "name": "Muggeridge, Kane",
+    "finish_time": "01:32:10",
+    "finish_seconds": 5530
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 571,
+    "name": "Williams, Paul",
+    "finish_time": "01:32:14",
+    "finish_seconds": 5534
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 573,
+    "name": "Fitzpatrick, Ross",
+    "finish_time": "01:32:17",
+    "finish_seconds": 5537
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 575,
+    "name": "Fardoulis, Stelio",
+    "finish_time": "01:32:24",
+    "finish_seconds": 5544
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 577,
+    "name": "Larkin, David",
+    "finish_time": "01:32:24",
+    "finish_seconds": 5544
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 579,
+    "name": "Parker, Ricky",
+    "finish_time": "01:32:31",
+    "finish_seconds": 5551
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 581,
+    "name": "Makhlin, Alex",
+    "finish_time": "01:32:34",
+    "finish_seconds": 5554
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 583,
+    "name": "Watson, Michael",
+    "finish_time": "01:32:40",
+    "finish_seconds": 5560
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 585,
+    "name": "Pretorius, Johannes",
+    "finish_time": "01:32:49",
+    "finish_seconds": 5569
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 587,
+    "name": "Pierce, Rob",
+    "finish_time": "01:33:02",
+    "finish_seconds": 5582
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 589,
+    "name": "Randall, David",
+    "finish_time": "01:33:09",
+    "finish_seconds": 5589
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 591,
+    "name": "Mccleary, Adam",
+    "finish_time": "01:33:14",
+    "finish_seconds": 5594
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 593,
+    "name": "Enslin, Gabe",
+    "finish_time": "01:33:28",
+    "finish_seconds": 5608
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 595,
+    "name": "Fotiadis, Luke",
+    "finish_time": "01:33:31",
+    "finish_seconds": 5611
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 597,
+    "name": "Kovacs, Cliff",
+    "finish_time": "01:33:32",
+    "finish_seconds": 5612
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 599,
+    "name": "Doyle, Barry",
+    "finish_time": "01:33:38",
+    "finish_seconds": 5618
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 601,
+    "name": "Erving, Jamie",
+    "finish_time": "01:33:51",
+    "finish_seconds": 5631
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 603,
+    "name": "Lyons, Matthew",
+    "finish_time": "01:34:08",
+    "finish_seconds": 5648
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 605,
+    "name": "Williams, Sam",
+    "finish_time": "01:34:24",
+    "finish_seconds": 5664
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 607,
+    "name": "Gardner, Ryan",
+    "finish_time": "01:34:33",
+    "finish_seconds": 5673
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 609,
+    "name": "Oblak, Tom",
+    "finish_time": "01:34:39",
+    "finish_seconds": 5679
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 611,
+    "name": "Durham, Lydon",
+    "finish_time": "01:34:46",
+    "finish_seconds": 5686
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 613,
+    "name": "Alliex, Lachlan",
+    "finish_time": "01:34:49",
+    "finish_seconds": 5689
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 615,
+    "name": "King, Dale",
+    "finish_time": "01:34:55",
+    "finish_seconds": 5695
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 617,
+    "name": "Atarau, Brendon",
+    "finish_time": "01:34:57",
+    "finish_seconds": 5697
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 619,
+    "name": "Davis, James",
+    "finish_time": "01:35:13",
+    "finish_seconds": 5713
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 621,
+    "name": "Massimini, Ryan",
+    "finish_time": "01:35:26",
+    "finish_seconds": 5726
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 623,
+    "name": "Valdes, Andres",
+    "finish_time": "01:35:36",
+    "finish_seconds": 5736
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 625,
+    "name": "Patel, Vishnu",
+    "finish_time": "01:35:36",
+    "finish_seconds": 5736
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 627,
+    "name": "Arteaga, Paco",
+    "finish_time": "01:35:36",
+    "finish_seconds": 5736
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 629,
+    "name": "Frampton, James",
+    "finish_time": "01:35:37",
+    "finish_seconds": 5737
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 631,
+    "name": "Brown, Mitchell",
+    "finish_time": "01:35:48",
+    "finish_seconds": 5748
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 633,
+    "name": "Mackin Brown, Andrew",
+    "finish_time": "01:35:49",
+    "finish_seconds": 5749
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 635,
+    "name": "Ball, Samuel",
+    "finish_time": "01:35:59",
+    "finish_seconds": 5759
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 637,
+    "name": "Clarke, Jeramiah",
+    "finish_time": "01:36:11",
+    "finish_seconds": 5771
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 639,
+    "name": "Wilsonham, Jarrod",
+    "finish_time": "01:36:12",
+    "finish_seconds": 5772
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 641,
+    "name": "Dumanon, John Patrick",
+    "finish_time": "01:36:34",
+    "finish_seconds": 5794
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 643,
+    "name": "Greenland, Riki",
+    "finish_time": "01:36:36",
+    "finish_seconds": 5796
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 645,
+    "name": "O Brien, Luke",
+    "finish_time": "01:36:49",
+    "finish_seconds": 5809
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 647,
+    "name": "Clark, Sam",
+    "finish_time": "01:36:55",
+    "finish_seconds": 5815
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 649,
+    "name": "Walsh, Colm",
+    "finish_time": "01:37:05",
+    "finish_seconds": 5825
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 651,
+    "name": "Munday, Sam",
+    "finish_time": "01:37:15",
+    "finish_seconds": 5835
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 653,
+    "name": "Ali, Ali Muhammad",
+    "finish_time": "01:37:31",
+    "finish_seconds": 5851
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 655,
+    "name": "Scardoni, Marco",
+    "finish_time": "01:37:39",
+    "finish_seconds": 5859
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 657,
+    "name": "Carder, Ben",
+    "finish_time": "01:38:08",
+    "finish_seconds": 5888
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 659,
+    "name": "Manocchio, Frank",
+    "finish_time": "01:38:22",
+    "finish_seconds": 5902
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 661,
+    "name": "Scanlon, Bevan",
+    "finish_time": "01:38:34",
+    "finish_seconds": 5914
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 663,
+    "name": "Atagan, Can",
+    "finish_time": "01:38:42",
+    "finish_seconds": 5922
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 665,
+    "name": "Muralis, Aivaras",
+    "finish_time": "01:38:50",
+    "finish_seconds": 5930
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 667,
+    "name": "Bryan, Vance",
+    "finish_time": "01:39:01",
+    "finish_seconds": 5941
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 669,
+    "name": "Crowe, Alan",
+    "finish_time": "01:39:05",
+    "finish_seconds": 5945
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 671,
+    "name": "Hevron, Zachary",
+    "finish_time": "01:39:09",
+    "finish_seconds": 5949
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 673,
+    "name": "Thai, Simon",
+    "finish_time": "01:39:12",
+    "finish_seconds": 5952
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 675,
+    "name": "Boike, Tim",
+    "finish_time": "01:39:18",
+    "finish_seconds": 5958
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 677,
+    "name": "Farrell, Eoghan",
+    "finish_time": "01:39:27",
+    "finish_seconds": 5967
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 679,
+    "name": "Choo, Nick",
+    "finish_time": "01:39:40",
+    "finish_seconds": 5980
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 681,
+    "name": "Crompton, Michael",
+    "finish_time": "01:39:56",
+    "finish_seconds": 5996
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "M",
+    "rank": 683,
+    "name": "Lambrianidis, Jonathan",
+    "finish_time": "01:40:04",
+    "finish_seconds": 6004
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 1,
+    "name": "Erbacher, Jane",
+    "finish_time": "01:05:28",
+    "finish_seconds": 3928
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 3,
+    "name": "Rettura, Daniella",
+    "finish_time": "01:05:43",
+    "finish_seconds": 3943
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 5,
+    "name": "Coales, Naomi",
+    "finish_time": "01:08:30",
+    "finish_seconds": 4110
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 7,
+    "name": "Brady, Olivia",
+    "finish_time": "01:08:42",
+    "finish_seconds": 4122
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 9,
+    "name": "Holman, Lucy",
+    "finish_time": "01:09:24",
+    "finish_seconds": 4164
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 11,
+    "name": "Fedele, Helen",
+    "finish_time": "01:09:47",
+    "finish_seconds": 4187
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 13,
+    "name": "Christopher, Stephanie",
+    "finish_time": "01:10:45",
+    "finish_seconds": 4245
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 15,
+    "name": "Robson, Georgia",
+    "finish_time": "01:11:21",
+    "finish_seconds": 4281
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 17,
+    "name": "Humphries, Emma",
+    "finish_time": "01:11:35",
+    "finish_seconds": 4295
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 19,
+    "name": "Mcclintock, Anna",
+    "finish_time": "01:11:44",
+    "finish_seconds": 4304
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 21,
+    "name": "Elliott, Erica",
+    "finish_time": "01:11:52",
+    "finish_seconds": 4312
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 23,
+    "name": "Schulz, Revelyn",
+    "finish_time": "01:12:04",
+    "finish_seconds": 4324
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 25,
+    "name": "Baylis, Emma",
+    "finish_time": "01:12:27",
+    "finish_seconds": 4347
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 27,
+    "name": "Barlow, Harriet",
+    "finish_time": "01:12:51",
+    "finish_seconds": 4371
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 29,
+    "name": "Quinn, Maddie",
+    "finish_time": "01:13:19",
+    "finish_seconds": 4399
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 31,
+    "name": "Gianorsi, Aurelia",
+    "finish_time": "01:13:30",
+    "finish_seconds": 4410
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 33,
+    "name": "Challenor, Cailie",
+    "finish_time": "01:13:39",
+    "finish_seconds": 4419
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 35,
+    "name": "Lonergan, Natasha",
+    "finish_time": "01:13:40",
+    "finish_seconds": 4420
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 37,
+    "name": "Bratkovic, Emma",
+    "finish_time": "01:14:25",
+    "finish_seconds": 4465
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 39,
+    "name": "Brans, Mel",
+    "finish_time": "01:14:28",
+    "finish_seconds": 4468
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 41,
+    "name": "Parker, Steph",
+    "finish_time": "01:14:38",
+    "finish_seconds": 4478
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 43,
+    "name": "Craven, Rebecca",
+    "finish_time": "01:14:44",
+    "finish_seconds": 4484
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 45,
+    "name": "Parisi, Dee",
+    "finish_time": "01:14:49",
+    "finish_seconds": 4489
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 47,
+    "name": "Herrera, Ruby",
+    "finish_time": "01:15:03",
+    "finish_seconds": 4503
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 49,
+    "name": "Sims, Emily",
+    "finish_time": "01:15:41",
+    "finish_seconds": 4541
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 51,
+    "name": "Walkemeyer, Christine",
+    "finish_time": "01:15:46",
+    "finish_seconds": 4546
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 53,
+    "name": "Nofz, Kass",
+    "finish_time": "01:15:48",
+    "finish_seconds": 4548
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 55,
+    "name": "Jarman, Jordan",
+    "finish_time": "01:15:55",
+    "finish_seconds": 4555
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 57,
+    "name": "Taylor, Demi",
+    "finish_time": "01:16:01",
+    "finish_seconds": 4561
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 59,
+    "name": "Camilleri, Martha",
+    "finish_time": "01:16:15",
+    "finish_seconds": 4575
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 61,
+    "name": "Osborne, Hannah",
+    "finish_time": "01:16:19",
+    "finish_seconds": 4579
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 63,
+    "name": "Mirco, Paige",
+    "finish_time": "01:16:25",
+    "finish_seconds": 4585
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 65,
+    "name": "Size, Portia",
+    "finish_time": "01:16:32",
+    "finish_seconds": 4592
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 67,
+    "name": "Yard, Fiona",
+    "finish_time": "01:16:33",
+    "finish_seconds": 4593
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 69,
+    "name": "Grant, Mylee",
+    "finish_time": "01:16:53",
+    "finish_seconds": 4613
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 71,
+    "name": "Hitchcock, Karla",
+    "finish_time": "01:16:57",
+    "finish_seconds": 4617
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 73,
+    "name": "Kohn, Tessa",
+    "finish_time": "01:17:00",
+    "finish_seconds": 4620
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 75,
+    "name": "Gregg, Sara",
+    "finish_time": "01:17:21",
+    "finish_seconds": 4641
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 77,
+    "name": "Kruge\u1e5f-Nel, Chenel",
+    "finish_time": "01:17:33",
+    "finish_seconds": 4653
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 79,
+    "name": "Gregson, Paige",
+    "finish_time": "01:17:37",
+    "finish_seconds": 4657
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 81,
+    "name": "Whiting, Kelly",
+    "finish_time": "01:17:53",
+    "finish_seconds": 4673
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 83,
+    "name": "O'Loughlin-Eames, Tegan",
+    "finish_time": "01:18:01",
+    "finish_seconds": 4681
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 85,
+    "name": "Lombard, Bianca",
+    "finish_time": "01:18:10",
+    "finish_seconds": 4690
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 87,
+    "name": "Oakes, Natalie",
+    "finish_time": "01:18:29",
+    "finish_seconds": 4709
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 89,
+    "name": "Airey, Maddi",
+    "finish_time": "01:18:36",
+    "finish_seconds": 4716
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 91,
+    "name": "Varigos, Nikki",
+    "finish_time": "01:18:39",
+    "finish_seconds": 4719
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 93,
+    "name": "Hislop, Steph",
+    "finish_time": "01:18:41",
+    "finish_seconds": 4721
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 95,
+    "name": "Hoath, Kirstee",
+    "finish_time": "01:18:45",
+    "finish_seconds": 4725
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 97,
+    "name": "Solomons, Kim",
+    "finish_time": "01:18:51",
+    "finish_seconds": 4731
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 99,
+    "name": "Croome, Illeanna",
+    "finish_time": "01:18:57",
+    "finish_seconds": 4737
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 101,
+    "name": "Clunie, Hannah",
+    "finish_time": "01:19:07",
+    "finish_seconds": 4747
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 103,
+    "name": "Cunningham, Lisa",
+    "finish_time": "01:19:09",
+    "finish_seconds": 4749
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 105,
+    "name": "Cote, Hannah",
+    "finish_time": "01:19:17",
+    "finish_seconds": 4757
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 107,
+    "name": "Flynn, Charlotte",
+    "finish_time": "01:19:29",
+    "finish_seconds": 4769
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 109,
+    "name": "Tini, Keeley",
+    "finish_time": "01:19:36",
+    "finish_seconds": 4776
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 111,
+    "name": "Murray, Jane",
+    "finish_time": "01:19:44",
+    "finish_seconds": 4784
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 113,
+    "name": "Burch, Tameka",
+    "finish_time": "01:19:56",
+    "finish_seconds": 4796
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 115,
+    "name": "Passmore, Millie",
+    "finish_time": "01:19:57",
+    "finish_seconds": 4797
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 117,
+    "name": "Petrin, Nicole",
+    "finish_time": "01:20:00",
+    "finish_seconds": 4800
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 119,
+    "name": "Guilfoyle, Sarah",
+    "finish_time": "01:20:03",
+    "finish_seconds": 4803
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 121,
+    "name": "Gravina, Jayne",
+    "finish_time": "01:20:10",
+    "finish_seconds": 4810
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 123,
+    "name": "Britnell, Dee",
+    "finish_time": "01:20:23",
+    "finish_seconds": 4823
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 125,
+    "name": "Guczi, Zsofia",
+    "finish_time": "01:20:26",
+    "finish_seconds": 4826
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 127,
+    "name": "Mccartney, Lana",
+    "finish_time": "01:20:30",
+    "finish_seconds": 4830
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 129,
+    "name": "Threadgold-Wallace, Zara",
+    "finish_time": "01:20:42",
+    "finish_seconds": 4842
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 131,
+    "name": "Greene, Stephanie",
+    "finish_time": "01:20:59",
+    "finish_seconds": 4859
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 133,
+    "name": "West, Millie",
+    "finish_time": "01:21:03",
+    "finish_seconds": 4863
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 135,
+    "name": "Quinlan, Geordie",
+    "finish_time": "01:21:16",
+    "finish_seconds": 4876
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 137,
+    "name": "Notman, Claire",
+    "finish_time": "01:21:21",
+    "finish_seconds": 4881
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 139,
+    "name": "Vaughan, Laura",
+    "finish_time": "01:21:37",
+    "finish_seconds": 4897
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 141,
+    "name": "Chahwan, Sarah",
+    "finish_time": "01:21:41",
+    "finish_seconds": 4901
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 143,
+    "name": "Armstrong, Angela",
+    "finish_time": "01:21:49",
+    "finish_seconds": 4909
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 145,
+    "name": "Duffy, Karen",
+    "finish_time": "01:21:51",
+    "finish_seconds": 4911
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 147,
+    "name": "Nyenhuis, Lisa",
+    "finish_time": "01:21:57",
+    "finish_seconds": 4917
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 149,
+    "name": "Whelan, Emily",
+    "finish_time": "01:22:06",
+    "finish_seconds": 4926
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 151,
+    "name": "Rinaudo, Rebecca",
+    "finish_time": "01:22:15",
+    "finish_seconds": 4935
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 153,
+    "name": "Raduva, Georgie",
+    "finish_time": "01:22:22",
+    "finish_seconds": 4942
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 155,
+    "name": "West, Jess",
+    "finish_time": "01:22:28",
+    "finish_seconds": 4948
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 157,
+    "name": "Atkinson PERILLO, Poppy",
+    "finish_time": "01:22:33",
+    "finish_seconds": 4953
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 159,
+    "name": "Oomen, Lyn",
+    "finish_time": "01:22:36",
+    "finish_seconds": 4956
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 161,
+    "name": "Price, Teagan",
+    "finish_time": "01:22:46",
+    "finish_seconds": 4966
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 163,
+    "name": "Jackson, Tayla",
+    "finish_time": "01:22:48",
+    "finish_seconds": 4968
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 165,
+    "name": "Bright, Ashleigh",
+    "finish_time": "01:23:04",
+    "finish_seconds": 4984
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 167,
+    "name": "Shephard, Sophie",
+    "finish_time": "01:23:08",
+    "finish_seconds": 4988
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 169,
+    "name": "Miln, Clare",
+    "finish_time": "01:23:10",
+    "finish_seconds": 4990
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 171,
+    "name": "Cahill, Marnie",
+    "finish_time": "01:23:15",
+    "finish_seconds": 4995
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 173,
+    "name": "Kaur, Dee",
+    "finish_time": "01:23:18",
+    "finish_seconds": 4998
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 175,
+    "name": "Van Duyn, Samantha",
+    "finish_time": "01:23:30",
+    "finish_seconds": 5010
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 177,
+    "name": "Westberg, Denise",
+    "finish_time": "01:23:32",
+    "finish_seconds": 5012
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 179,
+    "name": "Waldron, Aishling",
+    "finish_time": "01:23:35",
+    "finish_seconds": 5015
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 181,
+    "name": "Oosthuizen, Janika",
+    "finish_time": "01:23:43",
+    "finish_seconds": 5023
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 183,
+    "name": "Lenehan-Hawser, Kelsi",
+    "finish_time": "01:23:46",
+    "finish_seconds": 5026
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 185,
+    "name": "Philpott, Taylor",
+    "finish_time": "01:23:51",
+    "finish_seconds": 5031
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 187,
+    "name": "Simon, Laura",
+    "finish_time": "01:23:54",
+    "finish_seconds": 5034
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 189,
+    "name": "Fitzpatrick, Ashley",
+    "finish_time": "01:24:03",
+    "finish_seconds": 5043
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 191,
+    "name": "Healey, Madison",
+    "finish_time": "01:24:10",
+    "finish_seconds": 5050
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 193,
+    "name": "Monks, Emily",
+    "finish_time": "01:24:32",
+    "finish_seconds": 5072
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 195,
+    "name": "De Vattimo, Simone",
+    "finish_time": "01:24:50",
+    "finish_seconds": 5090
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 197,
+    "name": "Macnamara, Cassie",
+    "finish_time": "01:25:02",
+    "finish_seconds": 5102
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 199,
+    "name": "Heywood, Alicia",
+    "finish_time": "01:25:09",
+    "finish_seconds": 5109
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 201,
+    "name": "Henley, Laura",
+    "finish_time": "01:25:30",
+    "finish_seconds": 5130
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 203,
+    "name": "Jurca, Joanna",
+    "finish_time": "01:25:36",
+    "finish_seconds": 5136
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 205,
+    "name": "Limmer, Annabel",
+    "finish_time": "01:25:38",
+    "finish_seconds": 5138
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 207,
+    "name": "Mckeever, Aoife",
+    "finish_time": "01:25:44",
+    "finish_seconds": 5144
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 209,
+    "name": "Burns, Jazzmin",
+    "finish_time": "01:25:57",
+    "finish_seconds": 5157
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 211,
+    "name": "Buckland, Poppy",
+    "finish_time": "01:26:04",
+    "finish_seconds": 5164
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 213,
+    "name": "Bissenden, Laura-Jane",
+    "finish_time": "01:26:06",
+    "finish_seconds": 5166
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 215,
+    "name": "Huynh, Laitiah",
+    "finish_time": "01:26:09",
+    "finish_seconds": 5169
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 217,
+    "name": "Camilleri, Rhianyn",
+    "finish_time": "01:26:13",
+    "finish_seconds": 5173
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 219,
+    "name": "Ware, Sarah",
+    "finish_time": "01:26:14",
+    "finish_seconds": 5174
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 221,
+    "name": "Payne, Erica",
+    "finish_time": "01:26:18",
+    "finish_seconds": 5178
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 223,
+    "name": "Mcfarland, Grace",
+    "finish_time": "01:26:21",
+    "finish_seconds": 5181
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 225,
+    "name": "Daish, Danielle",
+    "finish_time": "01:26:22",
+    "finish_seconds": 5182
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 227,
+    "name": "Emmett, Rachael",
+    "finish_time": "01:26:23",
+    "finish_seconds": 5183
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 229,
+    "name": "Weeden, Tayeesha",
+    "finish_time": "01:26:28",
+    "finish_seconds": 5188
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 231,
+    "name": "O'Neill, Orla",
+    "finish_time": "01:26:35",
+    "finish_seconds": 5195
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 233,
+    "name": "Parfitt, Josie",
+    "finish_time": "01:26:42",
+    "finish_seconds": 5202
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 235,
+    "name": "Huynh, Joanna",
+    "finish_time": "01:26:58",
+    "finish_seconds": 5218
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 237,
+    "name": "Troyak, Alison",
+    "finish_time": "01:27:09",
+    "finish_seconds": 5229
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 239,
+    "name": "Thorby, Anne",
+    "finish_time": "01:27:25",
+    "finish_seconds": 5245
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 241,
+    "name": "Chan, Jessica",
+    "finish_time": "01:27:28",
+    "finish_seconds": 5248
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 243,
+    "name": "O'Shea, Lydia",
+    "finish_time": "01:27:37",
+    "finish_seconds": 5257
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 245,
+    "name": "Thomas, Georgia",
+    "finish_time": "01:27:47",
+    "finish_seconds": 5267
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 247,
+    "name": "Samata, Vanessa",
+    "finish_time": "01:27:49",
+    "finish_seconds": 5269
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 249,
+    "name": "Sumatluck, Jolene",
+    "finish_time": "01:28:10",
+    "finish_seconds": 5290
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 251,
+    "name": "Chand, Praena",
+    "finish_time": "01:28:14",
+    "finish_seconds": 5294
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 253,
+    "name": "Van Der Schyff, Chantel",
+    "finish_time": "01:28:16",
+    "finish_seconds": 5296
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 255,
+    "name": "Grocock, Mia",
+    "finish_time": "01:28:18",
+    "finish_seconds": 5298
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 257,
+    "name": "Clifford, Stephanie",
+    "finish_time": "01:28:21",
+    "finish_seconds": 5301
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 259,
+    "name": "Meszaros, Emily",
+    "finish_time": "01:28:26",
+    "finish_seconds": 5306
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 261,
+    "name": "Clayton, Lisa",
+    "finish_time": "01:28:33",
+    "finish_seconds": 5313
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 263,
+    "name": "Mamoli, Sandy",
+    "finish_time": "01:28:39",
+    "finish_seconds": 5319
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 265,
+    "name": "Muir, Meg",
+    "finish_time": "01:28:50",
+    "finish_seconds": 5330
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 267,
+    "name": "Garces Vidal, Beatriz",
+    "finish_time": "01:28:54",
+    "finish_seconds": 5334
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 269,
+    "name": "Kong, Rachel",
+    "finish_time": "01:28:57",
+    "finish_seconds": 5337
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 271,
+    "name": "Lange, Naomi",
+    "finish_time": "01:29:11",
+    "finish_seconds": 5351
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 273,
+    "name": "Delahey, Katie",
+    "finish_time": "01:29:12",
+    "finish_seconds": 5352
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 275,
+    "name": "Armstrong, Clair",
+    "finish_time": "01:29:14",
+    "finish_seconds": 5354
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 277,
+    "name": "Kilderry-Jones, Jane",
+    "finish_time": "01:29:25",
+    "finish_seconds": 5365
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 279,
+    "name": "Jenkins, Shannon",
+    "finish_time": "01:29:30",
+    "finish_seconds": 5370
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 281,
+    "name": "Pymm, Taylor",
+    "finish_time": "01:29:41",
+    "finish_seconds": 5381
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 283,
+    "name": "Hillman, Vanessa",
+    "finish_time": "01:29:48",
+    "finish_seconds": 5388
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 285,
+    "name": "Whitehead, Kaylee",
+    "finish_time": "01:29:52",
+    "finish_seconds": 5392
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 287,
+    "name": "Mondello, Isabella",
+    "finish_time": "01:30:01",
+    "finish_seconds": 5401
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 289,
+    "name": "Broun, Ruby",
+    "finish_time": "01:30:14",
+    "finish_seconds": 5414
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 291,
+    "name": "Lynch, Joanne",
+    "finish_time": "01:30:17",
+    "finish_seconds": 5417
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 293,
+    "name": "Schwass, Chelsea",
+    "finish_time": "01:30:25",
+    "finish_seconds": 5425
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 295,
+    "name": "Gallagher, Emma",
+    "finish_time": "01:30:35",
+    "finish_seconds": 5435
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 297,
+    "name": "Taylor, Kadee",
+    "finish_time": "01:30:42",
+    "finish_seconds": 5442
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 299,
+    "name": "Khatib, Zena",
+    "finish_time": "01:30:47",
+    "finish_seconds": 5447
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 301,
+    "name": "Mcintosh, Chloe",
+    "finish_time": "01:30:49",
+    "finish_seconds": 5449
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 303,
+    "name": "Palmisano, Gresi",
+    "finish_time": "01:30:56",
+    "finish_seconds": 5456
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 305,
+    "name": "Newbery, Cassie",
+    "finish_time": "01:31:02",
+    "finish_seconds": 5462
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 307,
+    "name": "Mcardle, Hannah",
+    "finish_time": "01:31:08",
+    "finish_seconds": 5468
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 309,
+    "name": "Bilderbeck, Emily",
+    "finish_time": "01:31:11",
+    "finish_seconds": 5471
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 311,
+    "name": "Jacobson, Mackenzie",
+    "finish_time": "01:31:15",
+    "finish_seconds": 5475
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 313,
+    "name": "Geerlings, Claire",
+    "finish_time": "01:31:20",
+    "finish_seconds": 5480
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 315,
+    "name": "Boteler, Estie",
+    "finish_time": "01:31:23",
+    "finish_seconds": 5483
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 317,
+    "name": "Brook, Emma",
+    "finish_time": "01:31:25",
+    "finish_seconds": 5485
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 319,
+    "name": "Briley, Marie",
+    "finish_time": "01:31:29",
+    "finish_seconds": 5489
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 321,
+    "name": "Adamson, Caroline",
+    "finish_time": "01:31:32",
+    "finish_seconds": 5492
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 323,
+    "name": "Smith, Meree",
+    "finish_time": "01:32:00",
+    "finish_seconds": 5520
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 325,
+    "name": "Dawson, Sian",
+    "finish_time": "01:32:01",
+    "finish_seconds": 5521
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 327,
+    "name": "Howe, Emily",
+    "finish_time": "01:32:07",
+    "finish_seconds": 5527
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 329,
+    "name": "Swift, Samantha",
+    "finish_time": "01:32:08",
+    "finish_seconds": 5528
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 331,
+    "name": "Dorrough, Kaelyn",
+    "finish_time": "01:32:11",
+    "finish_seconds": 5531
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 333,
+    "name": "Law, Jess",
+    "finish_time": "01:32:13",
+    "finish_seconds": 5533
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 335,
+    "name": "Davies-Morgan, Victoria",
+    "finish_time": "01:32:14",
+    "finish_seconds": 5534
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 337,
+    "name": "Akmal, Maizatul",
+    "finish_time": "01:32:24",
+    "finish_seconds": 5544
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 339,
+    "name": "Cox, Abi",
+    "finish_time": "01:32:29",
+    "finish_seconds": 5549
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 341,
+    "name": "Soh, Anniza",
+    "finish_time": "01:32:34",
+    "finish_seconds": 5554
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 343,
+    "name": "Kossivis, Alicia",
+    "finish_time": "01:32:38",
+    "finish_seconds": 5558
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 345,
+    "name": "Te Kowhai, Faith",
+    "finish_time": "01:32:43",
+    "finish_seconds": 5563
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 347,
+    "name": "Goh, Andrina",
+    "finish_time": "01:32:54",
+    "finish_seconds": 5574
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 349,
+    "name": "Fallon, Kate",
+    "finish_time": "01:33:03",
+    "finish_seconds": 5583
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 351,
+    "name": "Dixon, Tamara",
+    "finish_time": "01:33:06",
+    "finish_seconds": 5586
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 353,
+    "name": "Pendlebury, Stephanie",
+    "finish_time": "01:33:09",
+    "finish_seconds": 5589
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 355,
+    "name": "Odonnell, Hollie",
+    "finish_time": "01:33:23",
+    "finish_seconds": 5603
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 357,
+    "name": "Warner, Skylia",
+    "finish_time": "01:33:33",
+    "finish_seconds": 5613
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 359,
+    "name": "Harding, Katie",
+    "finish_time": "01:33:39",
+    "finish_seconds": 5619
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 361,
+    "name": "Tram, Jane",
+    "finish_time": "01:33:51",
+    "finish_seconds": 5631
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 363,
+    "name": "Waterhouse, Jess",
+    "finish_time": "01:33:56",
+    "finish_seconds": 5636
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 365,
+    "name": "Shah, Farrah",
+    "finish_time": "01:34:04",
+    "finish_seconds": 5644
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 367,
+    "name": "Silva, Stephanie",
+    "finish_time": "01:34:05",
+    "finish_seconds": 5645
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 369,
+    "name": "Burton, Tia",
+    "finish_time": "01:34:10",
+    "finish_seconds": 5650
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 371,
+    "name": "Gedling, Kyla",
+    "finish_time": "01:34:20",
+    "finish_seconds": 5660
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 373,
+    "name": "New, Jaika",
+    "finish_time": "01:34:24",
+    "finish_seconds": 5664
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 375,
+    "name": "Bates, Laura",
+    "finish_time": "01:34:37",
+    "finish_seconds": 5677
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 377,
+    "name": "Walsh, Larissa",
+    "finish_time": "01:34:39",
+    "finish_seconds": 5679
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 379,
+    "name": "Staines, Cassidy",
+    "finish_time": "01:34:56",
+    "finish_seconds": 5696
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 381,
+    "name": "Bojar, Tahlia",
+    "finish_time": "01:35:00",
+    "finish_seconds": 5700
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 383,
+    "name": "Kozak, Sarina",
+    "finish_time": "01:35:04",
+    "finish_seconds": 5704
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 385,
+    "name": "Pickard, Kayleigh",
+    "finish_time": "01:35:11",
+    "finish_seconds": 5711
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 387,
+    "name": "Baxter, Rachael",
+    "finish_time": "01:35:15",
+    "finish_seconds": 5715
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 389,
+    "name": "Pek, Yun Xuan",
+    "finish_time": "01:35:16",
+    "finish_seconds": 5716
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 391,
+    "name": "Hargreaves, Sophie",
+    "finish_time": "01:35:19",
+    "finish_seconds": 5719
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 393,
+    "name": "Lam, Kar Mun",
+    "finish_time": "01:35:23",
+    "finish_seconds": 5723
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 395,
+    "name": "Grant, Karen",
+    "finish_time": "01:35:28",
+    "finish_seconds": 5728
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 397,
+    "name": "Noonan, Ashlee",
+    "finish_time": "01:35:35",
+    "finish_seconds": 5735
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 399,
+    "name": "Baitz, Elisse",
+    "finish_time": "01:35:51",
+    "finish_seconds": 5751
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 401,
+    "name": "Smith, Natalie",
+    "finish_time": "01:35:54",
+    "finish_seconds": 5754
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 403,
+    "name": "Coltton, Sonja",
+    "finish_time": "01:36:13",
+    "finish_seconds": 5773
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 405,
+    "name": "Weal, Claudia",
+    "finish_time": "01:36:19",
+    "finish_seconds": 5779
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 407,
+    "name": "Brown, Anne",
+    "finish_time": "01:36:24",
+    "finish_seconds": 5784
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 409,
+    "name": "Jansen, Eliza",
+    "finish_time": "01:36:28",
+    "finish_seconds": 5788
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 411,
+    "name": "Zainal, Nadia",
+    "finish_time": "01:36:32",
+    "finish_seconds": 5792
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 413,
+    "name": "Dechene, Katelyn",
+    "finish_time": "01:36:54",
+    "finish_seconds": 5814
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 415,
+    "name": "Vanderdeyl, Cheryl",
+    "finish_time": "01:36:57",
+    "finish_seconds": 5817
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 417,
+    "name": "Edmondson, Cassie",
+    "finish_time": "01:37:03",
+    "finish_seconds": 5823
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 419,
+    "name": "Stirling, Courtney",
+    "finish_time": "01:37:05",
+    "finish_seconds": 5825
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 421,
+    "name": "Ellis, Haylee",
+    "finish_time": "01:37:09",
+    "finish_seconds": 5829
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 423,
+    "name": "Cairns, Carrie-Anne",
+    "finish_time": "01:37:19",
+    "finish_seconds": 5839
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 425,
+    "name": "Mableson, Zoe",
+    "finish_time": "01:37:21",
+    "finish_seconds": 5841
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 427,
+    "name": "Coltart, Tori",
+    "finish_time": "01:37:24",
+    "finish_seconds": 5844
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 429,
+    "name": "Kaye, Lauren",
+    "finish_time": "01:37:38",
+    "finish_seconds": 5858
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 431,
+    "name": "Campbell, Deborah",
+    "finish_time": "01:37:46",
+    "finish_seconds": 5866
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 433,
+    "name": "Mirfield, Sandie",
+    "finish_time": "01:37:56",
+    "finish_seconds": 5876
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 435,
+    "name": "Fynes, Leah",
+    "finish_time": "01:37:58",
+    "finish_seconds": 5878
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 437,
+    "name": "Jones, Hannah",
+    "finish_time": "01:38:05",
+    "finish_seconds": 5885
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 439,
+    "name": "Dickens, Lucy",
+    "finish_time": "01:38:14",
+    "finish_seconds": 5894
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 441,
+    "name": "Benatti, Thainan",
+    "finish_time": "01:38:16",
+    "finish_seconds": 5896
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 443,
+    "name": "Radice, Jen",
+    "finish_time": "01:38:24",
+    "finish_seconds": 5904
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 445,
+    "name": "Cotham, Jade",
+    "finish_time": "01:38:27",
+    "finish_seconds": 5907
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 447,
+    "name": "Balazs, Ciara",
+    "finish_time": "01:38:29",
+    "finish_seconds": 5909
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 449,
+    "name": "Theunissen, Antoinette",
+    "finish_time": "01:38:42",
+    "finish_seconds": 5922
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 451,
+    "name": "Davis, Cynthia",
+    "finish_time": "01:38:53",
+    "finish_seconds": 5933
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 453,
+    "name": "Roe, Jessica",
+    "finish_time": "01:38:56",
+    "finish_seconds": 5936
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 455,
+    "name": "Papalia, Jasmin",
+    "finish_time": "01:39:01",
+    "finish_seconds": 5941
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 457,
+    "name": "Ryan, Madison",
+    "finish_time": "01:39:06",
+    "finish_seconds": 5946
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 459,
+    "name": "Henderson, Nina",
+    "finish_time": "01:39:13",
+    "finish_seconds": 5953
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 461,
+    "name": "Glenn, Megan",
+    "finish_time": "01:39:15",
+    "finish_seconds": 5955
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 463,
+    "name": "Thatcher, Lauren",
+    "finish_time": "01:39:20",
+    "finish_seconds": 5960
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 465,
+    "name": "Dewi, Ika",
+    "finish_time": "01:39:23",
+    "finish_seconds": 5963
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 467,
+    "name": "Reca, Anita",
+    "finish_time": "01:39:24",
+    "finish_seconds": 5964
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 469,
+    "name": "Butler, Fleur",
+    "finish_time": "01:39:41",
+    "finish_seconds": 5981
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 471,
+    "name": "Bazeley, Tristen",
+    "finish_time": "01:39:47",
+    "finish_seconds": 5987
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 473,
+    "name": "Screaigh, Renee",
+    "finish_time": "01:39:54",
+    "finish_seconds": 5994
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 475,
+    "name": "Stone, Claire",
+    "finish_time": "01:39:56",
+    "finish_seconds": 5996
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 477,
+    "name": "Mcinnes, Kellie",
+    "finish_time": "01:40:02",
+    "finish_seconds": 6002
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 479,
+    "name": "Flynn, Erin",
+    "finish_time": "01:40:09",
+    "finish_seconds": 6009
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 481,
+    "name": "Hewitt-Wihongi, Sarah",
+    "finish_time": "01:40:20",
+    "finish_seconds": 6020
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 483,
+    "name": "Denny, Jasmine",
+    "finish_time": "01:40:26",
+    "finish_seconds": 6026
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 485,
+    "name": "Glenn-Ward, Shani",
+    "finish_time": "01:40:33",
+    "finish_seconds": 6033
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 487,
+    "name": "Ware, Olivia",
+    "finish_time": "01:40:44",
+    "finish_seconds": 6044
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 489,
+    "name": "Trail, Deb",
+    "finish_time": "01:40:52",
+    "finish_seconds": 6052
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 491,
+    "name": "Lissington, Karina",
+    "finish_time": "01:40:55",
+    "finish_seconds": 6055
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 493,
+    "name": "Tan, Jing",
+    "finish_time": "01:41:01",
+    "finish_seconds": 6061
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 495,
+    "name": "Johnston, Ella",
+    "finish_time": "01:41:10",
+    "finish_seconds": 6070
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 497,
+    "name": "Karacan, Lale",
+    "finish_time": "01:41:27",
+    "finish_seconds": 6087
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 499,
+    "name": "Erkardes, Ebru",
+    "finish_time": "01:41:41",
+    "finish_seconds": 6101
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 501,
+    "name": "Chua, Jasmin",
+    "finish_time": "01:41:52",
+    "finish_seconds": 6112
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 503,
+    "name": "Mclaughlin, Alisha",
+    "finish_time": "01:42:11",
+    "finish_seconds": 6131
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 505,
+    "name": "Boura, Brittany",
+    "finish_time": "01:42:14",
+    "finish_seconds": 6134
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 507,
+    "name": "Fenton, Emily",
+    "finish_time": "01:42:17",
+    "finish_seconds": 6137
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 509,
+    "name": "Venter, Karla",
+    "finish_time": "01:42:22",
+    "finish_seconds": 6142
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 511,
+    "name": "Richter, Lauren",
+    "finish_time": "01:42:31",
+    "finish_seconds": 6151
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 513,
+    "name": "Allen, Kaitlan",
+    "finish_time": "01:42:34",
+    "finish_seconds": 6154
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 515,
+    "name": "D'Amato, Monique",
+    "finish_time": "01:42:42",
+    "finish_seconds": 6162
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 517,
+    "name": "Welch, Jenna",
+    "finish_time": "01:42:53",
+    "finish_seconds": 6173
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 519,
+    "name": "Breteau-Bates, Claire",
+    "finish_time": "01:42:58",
+    "finish_seconds": 6178
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 521,
+    "name": "Smith, Yumin",
+    "finish_time": "01:43:00",
+    "finish_seconds": 6180
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 523,
+    "name": "Altintas, Derya",
+    "finish_time": "01:43:03",
+    "finish_seconds": 6183
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 525,
+    "name": "Harnas, Rebecca",
+    "finish_time": "01:43:08",
+    "finish_seconds": 6188
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 527,
+    "name": "Costello, Courtney",
+    "finish_time": "01:43:24",
+    "finish_seconds": 6204
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 529,
+    "name": "Holland, Jody",
+    "finish_time": "01:43:36",
+    "finish_seconds": 6216
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 531,
+    "name": "Tabone, Tania",
+    "finish_time": "01:43:47",
+    "finish_seconds": 6227
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 533,
+    "name": "Craig, Sukanya",
+    "finish_time": "01:43:59",
+    "finish_seconds": 6239
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 535,
+    "name": "Wood, Eliza",
+    "finish_time": "01:44:07",
+    "finish_seconds": 6247
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 537,
+    "name": "Canale, Regina",
+    "finish_time": "01:44:24",
+    "finish_seconds": 6264
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 539,
+    "name": "Lockyer, Lucie",
+    "finish_time": "01:44:40",
+    "finish_seconds": 6280
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 541,
+    "name": "Quail-Duggan, Claudia",
+    "finish_time": "01:45:00",
+    "finish_seconds": 6300
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 543,
+    "name": "Brough, Christiane",
+    "finish_time": "01:45:05",
+    "finish_seconds": 6305
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 545,
+    "name": "Saleh, Ayah",
+    "finish_time": "01:45:12",
+    "finish_seconds": 6312
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 547,
+    "name": "Home, Megan",
+    "finish_time": "01:45:17",
+    "finish_seconds": 6317
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 549,
+    "name": "Duddington, Bec",
+    "finish_time": "01:45:22",
+    "finish_seconds": 6322
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 551,
+    "name": "Swan, Michelle",
+    "finish_time": "01:45:26",
+    "finish_seconds": 6326
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 553,
+    "name": "Schrauwen, Mare",
+    "finish_time": "01:45:32",
+    "finish_seconds": 6332
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 555,
+    "name": "Petts, Amy",
+    "finish_time": "01:45:42",
+    "finish_seconds": 6342
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 557,
+    "name": "O'Sullivan, Claire",
+    "finish_time": "01:45:46",
+    "finish_seconds": 6346
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 559,
+    "name": "Prins, Tam",
+    "finish_time": "01:45:52",
+    "finish_seconds": 6352
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 561,
+    "name": "Zeelie, Janine",
+    "finish_time": "01:46:07",
+    "finish_seconds": 6367
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 563,
+    "name": "Amin, Laura",
+    "finish_time": "01:46:10",
+    "finish_seconds": 6370
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 565,
+    "name": "Rawatan, Cindy",
+    "finish_time": "01:46:16",
+    "finish_seconds": 6376
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 567,
+    "name": "Wickenden, Courtney",
+    "finish_time": "01:46:25",
+    "finish_seconds": 6385
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 569,
+    "name": "Suca, Kathy",
+    "finish_time": "01:46:39",
+    "finish_seconds": 6399
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 571,
+    "name": "Rodgers, Molly",
+    "finish_time": "01:46:51",
+    "finish_seconds": 6411
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 573,
+    "name": "Houhou, Karima",
+    "finish_time": "01:46:56",
+    "finish_seconds": 6416
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 575,
+    "name": "Miles, Belinda",
+    "finish_time": "01:47:04",
+    "finish_seconds": 6424
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 577,
+    "name": "Hanna, Sarah",
+    "finish_time": "01:47:06",
+    "finish_seconds": 6426
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 579,
+    "name": "Perry, Meagan",
+    "finish_time": "01:47:18",
+    "finish_seconds": 6438
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 581,
+    "name": "Baker, Jayde",
+    "finish_time": "01:47:45",
+    "finish_seconds": 6465
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 583,
+    "name": "Price, Annalise",
+    "finish_time": "01:47:55",
+    "finish_seconds": 6475
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 585,
+    "name": "Skepper, Kenzi",
+    "finish_time": "01:48:10",
+    "finish_seconds": 6490
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 587,
+    "name": "Walters-Briggs, Te-Rina",
+    "finish_time": "01:48:19",
+    "finish_seconds": 6499
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 589,
+    "name": "Ali, Dayu",
+    "finish_time": "01:48:23",
+    "finish_seconds": 6503
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 591,
+    "name": "Callis, Sarah",
+    "finish_time": "01:48:40",
+    "finish_seconds": 6520
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 593,
+    "name": "Boxall, Julie",
+    "finish_time": "01:48:59",
+    "finish_seconds": 6539
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 595,
+    "name": "Ando, Paris",
+    "finish_time": "01:49:14",
+    "finish_seconds": 6554
+  },
+  {
+    "venue": "2025 Perth",
+    "gender": "W",
+    "rank": 597,
+    "name": "Farina, Gabrielle",
+    "finish_time": "01:49:21",
+    "finish_seconds": 6561
+  }
+]

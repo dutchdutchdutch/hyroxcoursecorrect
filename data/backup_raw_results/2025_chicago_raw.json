@@ -1,0 +1,8794 @@
+[
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1,
+    "name": "Graboys, Noah",
+    "finish_time": "00:57:09",
+    "finish_seconds": 3429
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 3,
+    "name": "Cygan, Zach",
+    "finish_time": "00:59:15",
+    "finish_seconds": 3555
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 5,
+    "name": "Sweeney, Derrik",
+    "finish_time": "01:01:21",
+    "finish_seconds": 3681
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 7,
+    "name": "Wenzel, Lucas",
+    "finish_time": "01:02:39",
+    "finish_seconds": 3759
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 9,
+    "name": "Bryant, Parker",
+    "finish_time": "01:03:30",
+    "finish_seconds": 3810
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 11,
+    "name": "Brush, Jake",
+    "finish_time": "01:03:49",
+    "finish_seconds": 3829
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 13,
+    "name": "Jones, Nick",
+    "finish_time": "01:04:32",
+    "finish_seconds": 3872
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 15,
+    "name": "Kaye, Bennett",
+    "finish_time": "01:04:58",
+    "finish_seconds": 3898
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 17,
+    "name": "Moltzan, Garrett",
+    "finish_time": "01:05:17",
+    "finish_seconds": 3917
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 19,
+    "name": "Nelson, Cole",
+    "finish_time": "01:05:39",
+    "finish_seconds": 3939
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 21,
+    "name": "Needham, Dustin",
+    "finish_time": "01:05:53",
+    "finish_seconds": 3953
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 23,
+    "name": "Miller, Dakota",
+    "finish_time": "01:06:14",
+    "finish_seconds": 3974
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 25,
+    "name": "Ezzat, Ramsey",
+    "finish_time": "01:06:33",
+    "finish_seconds": 3993
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 27,
+    "name": "Hansing, Matt",
+    "finish_time": "01:06:34",
+    "finish_seconds": 3994
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 29,
+    "name": "Schwartz, Ben",
+    "finish_time": "01:06:47",
+    "finish_seconds": 4007
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 31,
+    "name": "Littlefield, Jesse",
+    "finish_time": "01:06:57",
+    "finish_seconds": 4017
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 33,
+    "name": "Wiitala, Matt",
+    "finish_time": "01:07:13",
+    "finish_seconds": 4033
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 35,
+    "name": "Costello, JK",
+    "finish_time": "01:07:15",
+    "finish_seconds": 4035
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 37,
+    "name": "Jones, Bobby",
+    "finish_time": "01:07:23",
+    "finish_seconds": 4043
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 39,
+    "name": "Clegg, Connor",
+    "finish_time": "01:07:32",
+    "finish_seconds": 4052
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 41,
+    "name": "Haferkorn, Kenny",
+    "finish_time": "01:07:44",
+    "finish_seconds": 4064
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 43,
+    "name": "Berillo, Kyle",
+    "finish_time": "01:07:57",
+    "finish_seconds": 4077
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 45,
+    "name": "Gathers, Andre",
+    "finish_time": "01:08:32",
+    "finish_seconds": 4112
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 47,
+    "name": "Snitker, Derek",
+    "finish_time": "01:08:35",
+    "finish_seconds": 4115
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 49,
+    "name": "Adams, Evan",
+    "finish_time": "01:08:42",
+    "finish_seconds": 4122
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 51,
+    "name": "Fuhrman, Jamie",
+    "finish_time": "01:08:54",
+    "finish_seconds": 4134
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 53,
+    "name": "Boulos, Michael",
+    "finish_time": "01:09:00",
+    "finish_seconds": 4140
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 55,
+    "name": "Horan, Diarmuid",
+    "finish_time": "01:09:04",
+    "finish_seconds": 4144
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 57,
+    "name": "Wilkins, Mitch",
+    "finish_time": "01:09:14",
+    "finish_seconds": 4154
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 59,
+    "name": "Nwaelele, Chibuzor",
+    "finish_time": "01:09:34",
+    "finish_seconds": 4174
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 61,
+    "name": "Yudt, Jerry",
+    "finish_time": "01:09:37",
+    "finish_seconds": 4177
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 63,
+    "name": "Billing, Rory",
+    "finish_time": "01:09:38",
+    "finish_seconds": 4178
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 65,
+    "name": "Yandle, Christopher",
+    "finish_time": "01:09:41",
+    "finish_seconds": 4181
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 67,
+    "name": "Roy, Cameron",
+    "finish_time": "01:09:54",
+    "finish_seconds": 4194
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 69,
+    "name": "Raftery, Drake",
+    "finish_time": "01:09:55",
+    "finish_seconds": 4195
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 71,
+    "name": "Radin, Joshua",
+    "finish_time": "01:10:03",
+    "finish_seconds": 4203
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 73,
+    "name": "Shanken, Ross",
+    "finish_time": "01:10:06",
+    "finish_seconds": 4206
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 75,
+    "name": "Buott, Chris",
+    "finish_time": "01:10:09",
+    "finish_seconds": 4209
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 77,
+    "name": "Clarke, Mike",
+    "finish_time": "01:10:16",
+    "finish_seconds": 4216
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 79,
+    "name": "Leckner, Jack",
+    "finish_time": "01:10:24",
+    "finish_seconds": 4224
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 81,
+    "name": "Bouback, Matt",
+    "finish_time": "01:10:27",
+    "finish_seconds": 4227
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 83,
+    "name": "Kamens, Dalton",
+    "finish_time": "01:10:32",
+    "finish_seconds": 4232
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 85,
+    "name": "Comeau, Samuel",
+    "finish_time": "01:10:45",
+    "finish_seconds": 4245
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 87,
+    "name": "Saunders, Bishop",
+    "finish_time": "01:10:57",
+    "finish_seconds": 4257
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 89,
+    "name": "Buttermore, John",
+    "finish_time": "01:11:05",
+    "finish_seconds": 4265
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 91,
+    "name": "Dedoes, Mike",
+    "finish_time": "01:11:18",
+    "finish_seconds": 4278
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 93,
+    "name": "Kaszynski, Chris",
+    "finish_time": "01:11:23",
+    "finish_seconds": 4283
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 95,
+    "name": "Link, Matthew",
+    "finish_time": "01:11:32",
+    "finish_seconds": 4292
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 97,
+    "name": "Epale, Julien",
+    "finish_time": "01:11:37",
+    "finish_seconds": 4297
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 99,
+    "name": "Kostenzer, Anton",
+    "finish_time": "01:11:44",
+    "finish_seconds": 4304
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 101,
+    "name": "Billaud, Sebastien",
+    "finish_time": "01:11:54",
+    "finish_seconds": 4314
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 103,
+    "name": "McKendry, Matthew",
+    "finish_time": "01:12:02",
+    "finish_seconds": 4322
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 105,
+    "name": "Smith, Matt",
+    "finish_time": "01:12:05",
+    "finish_seconds": 4325
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 107,
+    "name": "greco, anthony",
+    "finish_time": "01:12:08",
+    "finish_seconds": 4328
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 109,
+    "name": "Keith, Jack",
+    "finish_time": "01:12:14",
+    "finish_seconds": 4334
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 111,
+    "name": "Asito, Vinny",
+    "finish_time": "01:12:23",
+    "finish_seconds": 4343
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 113,
+    "name": "Daubenspeck, Jordan",
+    "finish_time": "01:12:24",
+    "finish_seconds": 4344
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 115,
+    "name": "Miller, Brian",
+    "finish_time": "01:12:27",
+    "finish_seconds": 4347
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 117,
+    "name": "Daniel, Joe",
+    "finish_time": "01:12:30",
+    "finish_seconds": 4350
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 119,
+    "name": "James, Robert",
+    "finish_time": "01:12:30",
+    "finish_seconds": 4350
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 121,
+    "name": "Manes, Oscar",
+    "finish_time": "01:12:33",
+    "finish_seconds": 4353
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 123,
+    "name": "Jimenez, Timothy",
+    "finish_time": "01:12:42",
+    "finish_seconds": 4362
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 125,
+    "name": "Honn, Kevin",
+    "finish_time": "01:12:48",
+    "finish_seconds": 4368
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 127,
+    "name": "Szwarc, Kevin",
+    "finish_time": "01:12:50",
+    "finish_seconds": 4370
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 129,
+    "name": "Hall, Brett",
+    "finish_time": "01:12:54",
+    "finish_seconds": 4374
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 131,
+    "name": "Brooks, Tanner",
+    "finish_time": "01:12:59",
+    "finish_seconds": 4379
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 133,
+    "name": "Koehler, David",
+    "finish_time": "01:13:09",
+    "finish_seconds": 4389
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 135,
+    "name": "Martinez, Sal",
+    "finish_time": "01:13:12",
+    "finish_seconds": 4392
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 137,
+    "name": "presti, kyle",
+    "finish_time": "01:13:16",
+    "finish_seconds": 4396
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 139,
+    "name": "Segula, Zac",
+    "finish_time": "01:13:34",
+    "finish_seconds": 4414
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 141,
+    "name": "Seidel, Tony",
+    "finish_time": "01:13:36",
+    "finish_seconds": 4416
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 143,
+    "name": "Goetz, Aaron",
+    "finish_time": "01:13:51",
+    "finish_seconds": 4431
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 145,
+    "name": "Penizotto, Nick",
+    "finish_time": "01:13:53",
+    "finish_seconds": 4433
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 147,
+    "name": "Burnett, Christopher",
+    "finish_time": "01:14:00",
+    "finish_seconds": 4440
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 149,
+    "name": "Kaley, Brad",
+    "finish_time": "01:14:01",
+    "finish_seconds": 4441
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 151,
+    "name": "Gilbert, Josh",
+    "finish_time": "01:14:04",
+    "finish_seconds": 4444
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 153,
+    "name": "Carlson, Christopher",
+    "finish_time": "01:14:15",
+    "finish_seconds": 4455
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 155,
+    "name": "Forrest, Dennis",
+    "finish_time": "01:14:21",
+    "finish_seconds": 4461
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 157,
+    "name": "Mitchell, Alex",
+    "finish_time": "01:14:29",
+    "finish_seconds": 4469
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 159,
+    "name": "D\u2019Aquila, Michael",
+    "finish_time": "01:14:35",
+    "finish_seconds": 4475
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 161,
+    "name": "Styrna, Joseph",
+    "finish_time": "01:14:37",
+    "finish_seconds": 4477
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 163,
+    "name": "Beckmann, Brian",
+    "finish_time": "01:14:45",
+    "finish_seconds": 4485
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 165,
+    "name": "Martinez, DJ",
+    "finish_time": "01:14:48",
+    "finish_seconds": 4488
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 167,
+    "name": "Willy, Dan",
+    "finish_time": "01:14:52",
+    "finish_seconds": 4492
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 169,
+    "name": "Weber, Shane",
+    "finish_time": "01:14:54",
+    "finish_seconds": 4494
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 171,
+    "name": "Follman, Ryan",
+    "finish_time": "01:14:59",
+    "finish_seconds": 4499
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 173,
+    "name": "Bowman, David",
+    "finish_time": "01:15:02",
+    "finish_seconds": 4502
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 175,
+    "name": "Rusenas, Viktor",
+    "finish_time": "01:15:09",
+    "finish_seconds": 4509
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 177,
+    "name": "Levall, Stephen",
+    "finish_time": "01:15:09",
+    "finish_seconds": 4509
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 179,
+    "name": "Thomas, Phillip",
+    "finish_time": "01:15:11",
+    "finish_seconds": 4511
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 181,
+    "name": "Pavay, Tyler",
+    "finish_time": "01:15:15",
+    "finish_seconds": 4515
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 183,
+    "name": "Thoresen, Paul",
+    "finish_time": "01:15:18",
+    "finish_seconds": 4518
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 185,
+    "name": "Le\u00f3n, Jos\u00e9",
+    "finish_time": "01:15:18",
+    "finish_seconds": 4518
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 187,
+    "name": "Bartlett, Cameron",
+    "finish_time": "01:15:19",
+    "finish_seconds": 4519
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 189,
+    "name": "Richter, Jeff",
+    "finish_time": "01:15:20",
+    "finish_seconds": 4520
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 191,
+    "name": "Olesen, Kasper",
+    "finish_time": "01:15:27",
+    "finish_seconds": 4527
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 193,
+    "name": "Clark, Taylor",
+    "finish_time": "01:15:32",
+    "finish_seconds": 4532
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 195,
+    "name": "Brochu, Andrew",
+    "finish_time": "01:15:34",
+    "finish_seconds": 4534
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 197,
+    "name": "Miller, Eric",
+    "finish_time": "01:15:40",
+    "finish_seconds": 4540
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 199,
+    "name": "Kaul, Jason",
+    "finish_time": "01:15:42",
+    "finish_seconds": 4542
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 201,
+    "name": "Frankel, Robbie",
+    "finish_time": "01:15:47",
+    "finish_seconds": 4547
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 203,
+    "name": "Alagna, Steve",
+    "finish_time": "01:15:49",
+    "finish_seconds": 4549
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 205,
+    "name": "Greenwell, Luke",
+    "finish_time": "01:15:50",
+    "finish_seconds": 4550
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 207,
+    "name": "Ryff, Drake",
+    "finish_time": "01:15:51",
+    "finish_seconds": 4551
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 209,
+    "name": "Schmitt, Mark",
+    "finish_time": "01:15:52",
+    "finish_seconds": 4552
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 211,
+    "name": "Garrido, Carlos",
+    "finish_time": "01:15:58",
+    "finish_seconds": 4558
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 213,
+    "name": "Russo, Carl",
+    "finish_time": "01:16:02",
+    "finish_seconds": 4562
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 215,
+    "name": "Crews, Hayden",
+    "finish_time": "01:16:06",
+    "finish_seconds": 4566
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 217,
+    "name": "Hennig, Wade",
+    "finish_time": "01:16:10",
+    "finish_seconds": 4570
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 219,
+    "name": "Rudy, Derek",
+    "finish_time": "01:16:13",
+    "finish_seconds": 4573
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 221,
+    "name": "Luebke, Keegan",
+    "finish_time": "01:16:17",
+    "finish_seconds": 4577
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 223,
+    "name": "Frank, Brendan",
+    "finish_time": "01:16:20",
+    "finish_seconds": 4580
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 225,
+    "name": "Fontecchio, Ari",
+    "finish_time": "01:16:23",
+    "finish_seconds": 4583
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 227,
+    "name": "Saderholm, Ian",
+    "finish_time": "01:16:32",
+    "finish_seconds": 4592
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 229,
+    "name": "Habash, David",
+    "finish_time": "01:16:39",
+    "finish_seconds": 4599
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 231,
+    "name": "Felton, Mike",
+    "finish_time": "01:16:39",
+    "finish_seconds": 4599
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 233,
+    "name": "Howarth, James",
+    "finish_time": "01:16:39",
+    "finish_seconds": 4599
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 235,
+    "name": "Muir, Cameron",
+    "finish_time": "01:16:45",
+    "finish_seconds": 4605
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 237,
+    "name": "Bialon, Nick",
+    "finish_time": "01:16:47",
+    "finish_seconds": 4607
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 239,
+    "name": "PENROD, MITCHELL",
+    "finish_time": "01:16:51",
+    "finish_seconds": 4611
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 241,
+    "name": "Dooling, Sean",
+    "finish_time": "01:16:54",
+    "finish_seconds": 4614
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 243,
+    "name": "Dall, Austin",
+    "finish_time": "01:16:58",
+    "finish_seconds": 4618
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 245,
+    "name": "Gutierrez, Cesar",
+    "finish_time": "01:17:06",
+    "finish_seconds": 4626
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 247,
+    "name": "Trudo, Jack",
+    "finish_time": "01:17:09",
+    "finish_seconds": 4629
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 249,
+    "name": "Renwick, Logan",
+    "finish_time": "01:17:17",
+    "finish_seconds": 4637
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 251,
+    "name": "Necas, Lukas",
+    "finish_time": "01:17:20",
+    "finish_seconds": 4640
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 253,
+    "name": "Stenzel, William",
+    "finish_time": "01:17:28",
+    "finish_seconds": 4648
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 255,
+    "name": "Iqbal, Maaz",
+    "finish_time": "01:17:31",
+    "finish_seconds": 4651
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 257,
+    "name": "Chaudhry, Aditya",
+    "finish_time": "01:17:31",
+    "finish_seconds": 4651
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 259,
+    "name": "Stoner, Eli",
+    "finish_time": "01:17:33",
+    "finish_seconds": 4653
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 261,
+    "name": "Zajac, Robert",
+    "finish_time": "01:17:37",
+    "finish_seconds": 4657
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 263,
+    "name": "Pirone, Peter",
+    "finish_time": "01:17:43",
+    "finish_seconds": 4663
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 265,
+    "name": "BANE, MATTHEW",
+    "finish_time": "01:17:44",
+    "finish_seconds": 4664
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 267,
+    "name": "Poindexter, Andrew",
+    "finish_time": "01:17:50",
+    "finish_seconds": 4670
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 269,
+    "name": "Loutfi, Sam",
+    "finish_time": "01:17:58",
+    "finish_seconds": 4678
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 271,
+    "name": "Garza, Armando",
+    "finish_time": "01:18:05",
+    "finish_seconds": 4685
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 273,
+    "name": "King, Hunter",
+    "finish_time": "01:18:09",
+    "finish_seconds": 4689
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 275,
+    "name": "Lombardo, Aidan",
+    "finish_time": "01:18:10",
+    "finish_seconds": 4690
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 277,
+    "name": "Miller, Kyle",
+    "finish_time": "01:18:16",
+    "finish_seconds": 4696
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 279,
+    "name": "Kerschner, Collin",
+    "finish_time": "01:18:19",
+    "finish_seconds": 4699
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 281,
+    "name": "Harbison, Chris",
+    "finish_time": "01:18:23",
+    "finish_seconds": 4703
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 283,
+    "name": "Vis, Jake",
+    "finish_time": "01:18:29",
+    "finish_seconds": 4709
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 285,
+    "name": "Insalaco, Sam",
+    "finish_time": "01:18:30",
+    "finish_seconds": 4710
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 287,
+    "name": "Nee, Joe",
+    "finish_time": "01:18:35",
+    "finish_seconds": 4715
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 289,
+    "name": "Lagus, Sam",
+    "finish_time": "01:18:37",
+    "finish_seconds": 4717
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 291,
+    "name": "Good, JV",
+    "finish_time": "01:18:39",
+    "finish_seconds": 4719
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 293,
+    "name": "Wilson, Brian",
+    "finish_time": "01:18:40",
+    "finish_seconds": 4720
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 295,
+    "name": "Nelson, Dylan",
+    "finish_time": "01:18:51",
+    "finish_seconds": 4731
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 297,
+    "name": "Dybas, Chris",
+    "finish_time": "01:18:52",
+    "finish_seconds": 4732
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 299,
+    "name": "Bell, Tyler",
+    "finish_time": "01:18:52",
+    "finish_seconds": 4732
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 301,
+    "name": "Ford-Carther, David",
+    "finish_time": "01:18:53",
+    "finish_seconds": 4733
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 303,
+    "name": "Turner, Lee",
+    "finish_time": "01:18:56",
+    "finish_seconds": 4736
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 305,
+    "name": "Bax, Michael",
+    "finish_time": "01:19:02",
+    "finish_seconds": 4742
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 307,
+    "name": "Dolenc, Nathan",
+    "finish_time": "01:19:04",
+    "finish_seconds": 4744
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 309,
+    "name": "Rosko, Brian",
+    "finish_time": "01:19:05",
+    "finish_seconds": 4745
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 311,
+    "name": "Carrano, Vinny",
+    "finish_time": "01:19:06",
+    "finish_seconds": 4746
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 313,
+    "name": "Ciotta, David",
+    "finish_time": "01:19:08",
+    "finish_seconds": 4748
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 315,
+    "name": "March, Zachary",
+    "finish_time": "01:19:16",
+    "finish_seconds": 4756
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 317,
+    "name": "Plummer, Shane",
+    "finish_time": "01:19:17",
+    "finish_seconds": 4757
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 319,
+    "name": "Caumeran, Marc",
+    "finish_time": "01:19:27",
+    "finish_seconds": 4767
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 321,
+    "name": "Mackey, Matt",
+    "finish_time": "01:19:30",
+    "finish_seconds": 4770
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 323,
+    "name": "Cartaya, Nick",
+    "finish_time": "01:19:37",
+    "finish_seconds": 4777
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 325,
+    "name": "Sorensen, Ross",
+    "finish_time": "01:19:38",
+    "finish_seconds": 4778
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 327,
+    "name": "Bernal, Gerardo",
+    "finish_time": "01:19:39",
+    "finish_seconds": 4779
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 329,
+    "name": "Madariaga, Ramon",
+    "finish_time": "01:19:42",
+    "finish_seconds": 4782
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 331,
+    "name": "Novak, Jacob",
+    "finish_time": "01:19:42",
+    "finish_seconds": 4782
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 333,
+    "name": "Van Dyke, Danny",
+    "finish_time": "01:19:46",
+    "finish_seconds": 4786
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 335,
+    "name": "Dickey, Brian",
+    "finish_time": "01:19:46",
+    "finish_seconds": 4786
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 337,
+    "name": "Jacobsen, John",
+    "finish_time": "01:19:52",
+    "finish_seconds": 4792
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 339,
+    "name": "Lubs, Tony",
+    "finish_time": "01:19:55",
+    "finish_seconds": 4795
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 341,
+    "name": "canfield, zach",
+    "finish_time": "01:19:55",
+    "finish_seconds": 4795
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 343,
+    "name": "Jolley, Alex",
+    "finish_time": "01:19:58",
+    "finish_seconds": 4798
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 345,
+    "name": "Hesseltine, Aaron",
+    "finish_time": "01:20:01",
+    "finish_seconds": 4801
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 347,
+    "name": "Velazquez, Efrain",
+    "finish_time": "01:20:09",
+    "finish_seconds": 4809
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 349,
+    "name": "Lau, Zachary",
+    "finish_time": "01:20:10",
+    "finish_seconds": 4810
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 351,
+    "name": "Luther, Grant",
+    "finish_time": "01:20:10",
+    "finish_seconds": 4810
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 353,
+    "name": "McGregor, Ian",
+    "finish_time": "01:20:14",
+    "finish_seconds": 4814
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 355,
+    "name": "Hilsabeck, Jackson",
+    "finish_time": "01:20:20",
+    "finish_seconds": 4820
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 357,
+    "name": "Sam, Izzy",
+    "finish_time": "01:20:23",
+    "finish_seconds": 4823
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 359,
+    "name": "McConkey, Eli",
+    "finish_time": "01:20:31",
+    "finish_seconds": 4831
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 361,
+    "name": "Vargas, Luis",
+    "finish_time": "01:20:32",
+    "finish_seconds": 4832
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 363,
+    "name": "Sturdyvin, Jason",
+    "finish_time": "01:20:34",
+    "finish_seconds": 4834
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 365,
+    "name": "Lee, Taylor",
+    "finish_time": "01:20:38",
+    "finish_seconds": 4838
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 367,
+    "name": "Brownfield, Shane",
+    "finish_time": "01:20:43",
+    "finish_seconds": 4843
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 369,
+    "name": "Honeycutt, Cole",
+    "finish_time": "01:20:47",
+    "finish_seconds": 4847
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 371,
+    "name": "Cotton, Spencer",
+    "finish_time": "01:20:50",
+    "finish_seconds": 4850
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 373,
+    "name": "Hwang, John",
+    "finish_time": "01:20:51",
+    "finish_seconds": 4851
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 375,
+    "name": "Sepsis, George",
+    "finish_time": "01:20:52",
+    "finish_seconds": 4852
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 377,
+    "name": "Gonzales, Mario",
+    "finish_time": "01:20:55",
+    "finish_seconds": 4855
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 379,
+    "name": "Davidson, Andrew",
+    "finish_time": "01:20:56",
+    "finish_seconds": 4856
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 381,
+    "name": "Knip, Daryl",
+    "finish_time": "01:20:57",
+    "finish_seconds": 4857
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 383,
+    "name": "Centeno, Jose",
+    "finish_time": "01:20:57",
+    "finish_seconds": 4857
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 385,
+    "name": "Baxter, Ryan",
+    "finish_time": "01:21:03",
+    "finish_seconds": 4863
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 387,
+    "name": "Khvala, Vadym",
+    "finish_time": "01:21:05",
+    "finish_seconds": 4865
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 389,
+    "name": "Breihof, Michael",
+    "finish_time": "01:21:08",
+    "finish_seconds": 4868
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 391,
+    "name": "Aten, Aaron",
+    "finish_time": "01:21:13",
+    "finish_seconds": 4873
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 393,
+    "name": "Schulz, Bryan",
+    "finish_time": "01:21:16",
+    "finish_seconds": 4876
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 395,
+    "name": "Musolino, Mark",
+    "finish_time": "01:21:19",
+    "finish_seconds": 4879
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 397,
+    "name": "Ariana, Jamie",
+    "finish_time": "01:21:21",
+    "finish_seconds": 4881
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 399,
+    "name": "Pernai, Michael",
+    "finish_time": "01:21:26",
+    "finish_seconds": 4886
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 401,
+    "name": "Payne, Jordan",
+    "finish_time": "01:21:28",
+    "finish_seconds": 4888
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 403,
+    "name": "Hescock, Hale",
+    "finish_time": "01:21:29",
+    "finish_seconds": 4889
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 405,
+    "name": "Lopez, Vincent",
+    "finish_time": "01:21:32",
+    "finish_seconds": 4892
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 407,
+    "name": "Byrne, Thomas",
+    "finish_time": "01:21:46",
+    "finish_seconds": 4906
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 409,
+    "name": "Ploenzke, Chris",
+    "finish_time": "01:21:48",
+    "finish_seconds": 4908
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 411,
+    "name": "Beaulieu, Jake",
+    "finish_time": "01:21:50",
+    "finish_seconds": 4910
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 413,
+    "name": "Liu, Yuze",
+    "finish_time": "01:21:52",
+    "finish_seconds": 4912
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 415,
+    "name": "Sears, Logan",
+    "finish_time": "01:21:55",
+    "finish_seconds": 4915
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 417,
+    "name": "Alvarez, Brian",
+    "finish_time": "01:21:59",
+    "finish_seconds": 4919
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 419,
+    "name": "Moussavi, Cameron",
+    "finish_time": "01:22:01",
+    "finish_seconds": 4921
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 421,
+    "name": "Pierson, Ross",
+    "finish_time": "01:22:03",
+    "finish_seconds": 4923
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 423,
+    "name": "Galle, Alex",
+    "finish_time": "01:22:06",
+    "finish_seconds": 4926
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 425,
+    "name": "Fraise, Brent",
+    "finish_time": "01:22:07",
+    "finish_seconds": 4927
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 427,
+    "name": "Gilley, Sean",
+    "finish_time": "01:22:08",
+    "finish_seconds": 4928
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 429,
+    "name": "Lambert, Alex",
+    "finish_time": "01:22:09",
+    "finish_seconds": 4929
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 431,
+    "name": "Rivecca, Mike",
+    "finish_time": "01:22:16",
+    "finish_seconds": 4936
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 433,
+    "name": "Kemp Bohan, Phillip",
+    "finish_time": "01:22:21",
+    "finish_seconds": 4941
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 435,
+    "name": "Holguin, Jesse",
+    "finish_time": "01:22:23",
+    "finish_seconds": 4943
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 437,
+    "name": "DePerno, Tony",
+    "finish_time": "01:22:26",
+    "finish_seconds": 4946
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 439,
+    "name": "Tsang, Kingo",
+    "finish_time": "01:22:31",
+    "finish_seconds": 4951
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 441,
+    "name": "Oneil, Kevin",
+    "finish_time": "01:22:38",
+    "finish_seconds": 4958
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 443,
+    "name": "Cook, Garrett",
+    "finish_time": "01:22:38",
+    "finish_seconds": 4958
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 445,
+    "name": "Reyes, Chris",
+    "finish_time": "01:22:48",
+    "finish_seconds": 4968
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 447,
+    "name": "Matienzo, Fernando",
+    "finish_time": "01:22:49",
+    "finish_seconds": 4969
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 449,
+    "name": "Adams, Nolan",
+    "finish_time": "01:22:52",
+    "finish_seconds": 4972
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 451,
+    "name": "J\u00fanior, Ant\u00f4nio",
+    "finish_time": "01:22:53",
+    "finish_seconds": 4973
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 453,
+    "name": "DeCrane, Kyle",
+    "finish_time": "01:22:57",
+    "finish_seconds": 4977
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 455,
+    "name": "Serna Zapata, Simon",
+    "finish_time": "01:23:01",
+    "finish_seconds": 4981
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 457,
+    "name": "Pimentel De Araujo, Lucas",
+    "finish_time": "01:23:06",
+    "finish_seconds": 4986
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 459,
+    "name": "Gillam, Chris",
+    "finish_time": "01:23:08",
+    "finish_seconds": 4988
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 461,
+    "name": "Paradis, Guillaume",
+    "finish_time": "01:23:13",
+    "finish_seconds": 4993
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 463,
+    "name": "Fox, Jon",
+    "finish_time": "01:23:16",
+    "finish_seconds": 4996
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 465,
+    "name": "Wehrman, Blake",
+    "finish_time": "01:23:19",
+    "finish_seconds": 4999
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 467,
+    "name": "Price, Chad",
+    "finish_time": "01:23:19",
+    "finish_seconds": 4999
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 469,
+    "name": "Moridzadeh, Rameen",
+    "finish_time": "01:23:20",
+    "finish_seconds": 5000
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 471,
+    "name": "Narvaja, Matias",
+    "finish_time": "01:23:21",
+    "finish_seconds": 5001
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 473,
+    "name": "Camano, Ray",
+    "finish_time": "01:23:25",
+    "finish_seconds": 5005
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 475,
+    "name": "Breen, Nic",
+    "finish_time": "01:23:27",
+    "finish_seconds": 5007
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 477,
+    "name": "Kontos, Theo",
+    "finish_time": "01:23:27",
+    "finish_seconds": 5007
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 479,
+    "name": "Bouchard, Ryan",
+    "finish_time": "01:23:33",
+    "finish_seconds": 5013
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 481,
+    "name": "Kerksick, Chad",
+    "finish_time": "01:23:35",
+    "finish_seconds": 5015
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 483,
+    "name": "Dickerson, Brian",
+    "finish_time": "01:23:37",
+    "finish_seconds": 5017
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 485,
+    "name": "Pajot, Collin",
+    "finish_time": "01:23:38",
+    "finish_seconds": 5018
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 487,
+    "name": "Murray, Lorrington",
+    "finish_time": "01:23:46",
+    "finish_seconds": 5026
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 489,
+    "name": "Ahkuoi, Trevor",
+    "finish_time": "01:23:49",
+    "finish_seconds": 5029
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 491,
+    "name": "Krautkramer, Spencer",
+    "finish_time": "01:23:51",
+    "finish_seconds": 5031
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 493,
+    "name": "HONG, JUYEONG",
+    "finish_time": "01:23:57",
+    "finish_seconds": 5037
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 495,
+    "name": "Valo, Walt",
+    "finish_time": "01:24:01",
+    "finish_seconds": 5041
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 497,
+    "name": "Pericht, Mike",
+    "finish_time": "01:24:03",
+    "finish_seconds": 5043
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 499,
+    "name": "DiMarco, Christopher",
+    "finish_time": "01:24:04",
+    "finish_seconds": 5044
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 501,
+    "name": "Breen, Caneron",
+    "finish_time": "01:24:04",
+    "finish_seconds": 5044
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 503,
+    "name": "Dade, Delmar",
+    "finish_time": "01:24:06",
+    "finish_seconds": 5046
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 505,
+    "name": "Berthet, Joey",
+    "finish_time": "01:24:09",
+    "finish_seconds": 5049
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 507,
+    "name": "Koltz, Stefan",
+    "finish_time": "01:24:10",
+    "finish_seconds": 5050
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 509,
+    "name": "Bourman, Nate",
+    "finish_time": "01:24:13",
+    "finish_seconds": 5053
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 511,
+    "name": "Floyd, Daniel",
+    "finish_time": "01:24:17",
+    "finish_seconds": 5057
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 513,
+    "name": "Smith, Aaron",
+    "finish_time": "01:24:23",
+    "finish_seconds": 5063
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 515,
+    "name": "Jones, Adam",
+    "finish_time": "01:24:28",
+    "finish_seconds": 5068
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 517,
+    "name": "Jimenez, Marcos",
+    "finish_time": "01:24:36",
+    "finish_seconds": 5076
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 519,
+    "name": "Sutherland, Joash",
+    "finish_time": "01:24:39",
+    "finish_seconds": 5079
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 521,
+    "name": "Wilhelm, Ryan",
+    "finish_time": "01:24:43",
+    "finish_seconds": 5083
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 523,
+    "name": "Knapp, Chris",
+    "finish_time": "01:24:45",
+    "finish_seconds": 5085
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 525,
+    "name": "Sengstaken, Nick",
+    "finish_time": "01:24:48",
+    "finish_seconds": 5088
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 527,
+    "name": "Thompson, Mitch",
+    "finish_time": "01:24:51",
+    "finish_seconds": 5091
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 529,
+    "name": "Rodriguez, Pedro",
+    "finish_time": "01:24:52",
+    "finish_seconds": 5092
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 531,
+    "name": "Wenger, Gunner",
+    "finish_time": "01:24:56",
+    "finish_seconds": 5096
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 533,
+    "name": "Arnold, Alex",
+    "finish_time": "01:24:59",
+    "finish_seconds": 5099
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 535,
+    "name": "Whilden, Joseph",
+    "finish_time": "01:25:03",
+    "finish_seconds": 5103
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 537,
+    "name": "Murillo, Samuel",
+    "finish_time": "01:25:05",
+    "finish_seconds": 5105
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 539,
+    "name": "Druck, Seth",
+    "finish_time": "01:25:08",
+    "finish_seconds": 5108
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 541,
+    "name": "Donis, Michael",
+    "finish_time": "01:25:11",
+    "finish_seconds": 5111
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 543,
+    "name": "Rudorfer, Kevin",
+    "finish_time": "01:25:23",
+    "finish_seconds": 5123
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 545,
+    "name": "Quigley, Conor",
+    "finish_time": "01:25:27",
+    "finish_seconds": 5127
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 547,
+    "name": "Rismiller, Jacob",
+    "finish_time": "01:25:30",
+    "finish_seconds": 5130
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 549,
+    "name": "voss, thaddeus",
+    "finish_time": "01:25:36",
+    "finish_seconds": 5136
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 551,
+    "name": "Frame, Alex",
+    "finish_time": "01:25:36",
+    "finish_seconds": 5136
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 553,
+    "name": "Cordes, Philip",
+    "finish_time": "01:25:38",
+    "finish_seconds": 5138
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 555,
+    "name": "Laubenstein, Travis",
+    "finish_time": "01:25:44",
+    "finish_seconds": 5144
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 557,
+    "name": "Collette, James",
+    "finish_time": "01:25:48",
+    "finish_seconds": 5148
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 559,
+    "name": "Rode, Oliver",
+    "finish_time": "01:25:49",
+    "finish_seconds": 5149
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 561,
+    "name": "Zarate, David",
+    "finish_time": "01:25:52",
+    "finish_seconds": 5152
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 563,
+    "name": "Law, David",
+    "finish_time": "01:25:56",
+    "finish_seconds": 5156
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 565,
+    "name": "Sek, Konrad",
+    "finish_time": "01:25:59",
+    "finish_seconds": 5159
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 567,
+    "name": "DOoge, Logan",
+    "finish_time": "01:26:03",
+    "finish_seconds": 5163
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 569,
+    "name": "Baltes, Christian",
+    "finish_time": "01:26:05",
+    "finish_seconds": 5165
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 571,
+    "name": "Galliher, Patrick",
+    "finish_time": "01:26:06",
+    "finish_seconds": 5166
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 573,
+    "name": "Brinkley, Brad",
+    "finish_time": "01:26:11",
+    "finish_seconds": 5171
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 575,
+    "name": "Abdo, Markie",
+    "finish_time": "01:26:12",
+    "finish_seconds": 5172
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 577,
+    "name": "Morehead, Will",
+    "finish_time": "01:26:14",
+    "finish_seconds": 5174
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 579,
+    "name": "Befus, Matthew",
+    "finish_time": "01:26:18",
+    "finish_seconds": 5178
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 581,
+    "name": "Robert, Marc",
+    "finish_time": "01:26:21",
+    "finish_seconds": 5181
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 583,
+    "name": "Goldenberg, Danny",
+    "finish_time": "01:26:22",
+    "finish_seconds": 5182
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 585,
+    "name": "Cooke, Chris",
+    "finish_time": "01:26:24",
+    "finish_seconds": 5184
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 587,
+    "name": "Brunner, Shane",
+    "finish_time": "01:26:25",
+    "finish_seconds": 5185
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 589,
+    "name": "Rounds, Jeffrey",
+    "finish_time": "01:26:30",
+    "finish_seconds": 5190
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 591,
+    "name": "Heurung, Josh",
+    "finish_time": "01:26:31",
+    "finish_seconds": 5191
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 593,
+    "name": "Girgis, Matt",
+    "finish_time": "01:26:32",
+    "finish_seconds": 5192
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 595,
+    "name": "Shlomov, Eitan",
+    "finish_time": "01:26:32",
+    "finish_seconds": 5192
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 597,
+    "name": "Ali, Moe",
+    "finish_time": "01:26:34",
+    "finish_seconds": 5194
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 599,
+    "name": "Haber, Isaiah",
+    "finish_time": "01:26:36",
+    "finish_seconds": 5196
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 601,
+    "name": "West, James",
+    "finish_time": "01:26:37",
+    "finish_seconds": 5197
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 603,
+    "name": "minnaert, mario",
+    "finish_time": "01:26:39",
+    "finish_seconds": 5199
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 605,
+    "name": "Mocke, Kelvinne",
+    "finish_time": "01:26:40",
+    "finish_seconds": 5200
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 607,
+    "name": "johnson, deion",
+    "finish_time": "01:26:41",
+    "finish_seconds": 5201
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 609,
+    "name": "Berenschot, Max",
+    "finish_time": "01:26:43",
+    "finish_seconds": 5203
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 611,
+    "name": "Moody, Christopher",
+    "finish_time": "01:26:46",
+    "finish_seconds": 5206
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 613,
+    "name": "Vermeillet, Aurelien",
+    "finish_time": "01:26:46",
+    "finish_seconds": 5206
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 615,
+    "name": "Watanabe, Ivan",
+    "finish_time": "01:26:49",
+    "finish_seconds": 5209
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 617,
+    "name": "van Doorn, Herbert Maxim",
+    "finish_time": "01:26:49",
+    "finish_seconds": 5209
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 619,
+    "name": "Herfat, Farokh",
+    "finish_time": "01:26:56",
+    "finish_seconds": 5216
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 621,
+    "name": "Sanchez, Nat",
+    "finish_time": "01:27:00",
+    "finish_seconds": 5220
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 623,
+    "name": "Brede, Larry",
+    "finish_time": "01:27:02",
+    "finish_seconds": 5222
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 625,
+    "name": "Pietro, Kevin",
+    "finish_time": "01:27:07",
+    "finish_seconds": 5227
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 627,
+    "name": "Dickinson, Patrick",
+    "finish_time": "01:27:08",
+    "finish_seconds": 5228
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 629,
+    "name": "Poklop, Jake",
+    "finish_time": "01:27:11",
+    "finish_seconds": 5231
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 631,
+    "name": "Gallo, Michael",
+    "finish_time": "01:27:13",
+    "finish_seconds": 5233
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 633,
+    "name": "Drexler, Chris",
+    "finish_time": "01:27:15",
+    "finish_seconds": 5235
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 635,
+    "name": "Kmiec, Steve",
+    "finish_time": "01:27:17",
+    "finish_seconds": 5237
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 637,
+    "name": "Cowen, Matthew",
+    "finish_time": "01:27:20",
+    "finish_seconds": 5240
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 639,
+    "name": "Balagot, Joe",
+    "finish_time": "01:27:20",
+    "finish_seconds": 5240
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 641,
+    "name": "Sarambo, Christopher",
+    "finish_time": "01:27:20",
+    "finish_seconds": 5240
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 643,
+    "name": "Fairlie, Joshua",
+    "finish_time": "01:27:23",
+    "finish_seconds": 5243
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 645,
+    "name": "Quinn, Connor",
+    "finish_time": "01:27:25",
+    "finish_seconds": 5245
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 647,
+    "name": "Mason, Jeffrey",
+    "finish_time": "01:27:26",
+    "finish_seconds": 5246
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 649,
+    "name": "Hatch, Scott",
+    "finish_time": "01:27:29",
+    "finish_seconds": 5249
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 651,
+    "name": "Hoskins, Brady",
+    "finish_time": "01:27:30",
+    "finish_seconds": 5250
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 653,
+    "name": "Rodriguez, Jesus",
+    "finish_time": "01:27:34",
+    "finish_seconds": 5254
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 655,
+    "name": "Schultz, Joanthan",
+    "finish_time": "01:27:40",
+    "finish_seconds": 5260
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 657,
+    "name": "Long, Jacob",
+    "finish_time": "01:27:47",
+    "finish_seconds": 5267
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 659,
+    "name": "Friedland, Zach",
+    "finish_time": "01:27:48",
+    "finish_seconds": 5268
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 661,
+    "name": "Payette, Zachary",
+    "finish_time": "01:27:50",
+    "finish_seconds": 5270
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 663,
+    "name": "moring, kyle",
+    "finish_time": "01:27:53",
+    "finish_seconds": 5273
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 665,
+    "name": "McCourt, Zachary",
+    "finish_time": "01:27:55",
+    "finish_seconds": 5275
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 667,
+    "name": "Harrington, Dustin",
+    "finish_time": "01:27:59",
+    "finish_seconds": 5279
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 669,
+    "name": "ARMAND, Damien",
+    "finish_time": "01:28:00",
+    "finish_seconds": 5280
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 671,
+    "name": "Hildebrandt, Alex",
+    "finish_time": "01:28:08",
+    "finish_seconds": 5288
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 673,
+    "name": "Heitkamp, Dean",
+    "finish_time": "01:28:09",
+    "finish_seconds": 5289
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 675,
+    "name": "Loper, Rishon",
+    "finish_time": "01:28:10",
+    "finish_seconds": 5290
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 677,
+    "name": "Fukuyama, Max",
+    "finish_time": "01:28:14",
+    "finish_seconds": 5294
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 679,
+    "name": "Schnaars, Craig",
+    "finish_time": "01:28:17",
+    "finish_seconds": 5297
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 681,
+    "name": "Lambers, Jake",
+    "finish_time": "01:28:19",
+    "finish_seconds": 5299
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 683,
+    "name": "Krier, Drew",
+    "finish_time": "01:28:22",
+    "finish_seconds": 5302
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 685,
+    "name": "Clarke, Julian",
+    "finish_time": "01:28:23",
+    "finish_seconds": 5303
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 687,
+    "name": "Rolle, Darin",
+    "finish_time": "01:28:25",
+    "finish_seconds": 5305
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 689,
+    "name": "SACHER, BRADLEY",
+    "finish_time": "01:28:27",
+    "finish_seconds": 5307
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 691,
+    "name": "Swindell, Hasani",
+    "finish_time": "01:28:34",
+    "finish_seconds": 5314
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 693,
+    "name": "Robles, Enrique",
+    "finish_time": "01:28:39",
+    "finish_seconds": 5319
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 695,
+    "name": "Adcock, Shawn",
+    "finish_time": "01:28:39",
+    "finish_seconds": 5319
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 697,
+    "name": "Moran, Colton",
+    "finish_time": "01:28:43",
+    "finish_seconds": 5323
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 699,
+    "name": "Girgis, Paul",
+    "finish_time": "01:28:44",
+    "finish_seconds": 5324
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 701,
+    "name": "Fargo, Bill",
+    "finish_time": "01:28:47",
+    "finish_seconds": 5327
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 703,
+    "name": "Stephens, Jonathan",
+    "finish_time": "01:28:51",
+    "finish_seconds": 5331
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 705,
+    "name": "Wood, Andrew",
+    "finish_time": "01:28:55",
+    "finish_seconds": 5335
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 707,
+    "name": "Carillo, Salvatore",
+    "finish_time": "01:28:56",
+    "finish_seconds": 5336
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 709,
+    "name": "Godfrey, Jackson",
+    "finish_time": "01:28:57",
+    "finish_seconds": 5337
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 711,
+    "name": "Sandry, Michael",
+    "finish_time": "01:29:02",
+    "finish_seconds": 5342
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 713,
+    "name": "Brown, Leviticus",
+    "finish_time": "01:29:02",
+    "finish_seconds": 5342
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 715,
+    "name": "Meyer, Mike",
+    "finish_time": "01:29:05",
+    "finish_seconds": 5345
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 717,
+    "name": "Tomlinson, George",
+    "finish_time": "01:29:10",
+    "finish_seconds": 5350
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 719,
+    "name": "Sronkoski, Jim",
+    "finish_time": "01:29:16",
+    "finish_seconds": 5356
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 721,
+    "name": "Franks, Paul",
+    "finish_time": "01:29:19",
+    "finish_seconds": 5359
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 723,
+    "name": "Bennett, Kevin",
+    "finish_time": "01:29:21",
+    "finish_seconds": 5361
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 725,
+    "name": "Walker, Marcel",
+    "finish_time": "01:29:23",
+    "finish_seconds": 5363
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 727,
+    "name": "Haufschildt, Travis",
+    "finish_time": "01:29:26",
+    "finish_seconds": 5366
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 729,
+    "name": "Velasco, Ruben",
+    "finish_time": "01:29:28",
+    "finish_seconds": 5368
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 731,
+    "name": "Birkel, Brodie",
+    "finish_time": "01:29:30",
+    "finish_seconds": 5370
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 733,
+    "name": "Leach, Danny",
+    "finish_time": "01:29:32",
+    "finish_seconds": 5372
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 735,
+    "name": "Meyers, Will",
+    "finish_time": "01:29:32",
+    "finish_seconds": 5372
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 737,
+    "name": "Alcasid, Jerik",
+    "finish_time": "01:29:39",
+    "finish_seconds": 5379
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 739,
+    "name": "Wallace II, Dave",
+    "finish_time": "01:29:45",
+    "finish_seconds": 5385
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 741,
+    "name": "Learner, Henry",
+    "finish_time": "01:29:52",
+    "finish_seconds": 5392
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 743,
+    "name": "Carney, Logan",
+    "finish_time": "01:30:04",
+    "finish_seconds": 5404
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 745,
+    "name": "Ophus, Vince",
+    "finish_time": "01:30:08",
+    "finish_seconds": 5408
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 747,
+    "name": "Gardner, Shaquille",
+    "finish_time": "01:30:13",
+    "finish_seconds": 5413
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 749,
+    "name": "Rooney, Kyle",
+    "finish_time": "01:30:14",
+    "finish_seconds": 5414
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 751,
+    "name": "Grabo, Stephen",
+    "finish_time": "01:30:17",
+    "finish_seconds": 5417
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 753,
+    "name": "Orr, Levi",
+    "finish_time": "01:30:21",
+    "finish_seconds": 5421
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 755,
+    "name": "Newell, Mike",
+    "finish_time": "01:30:23",
+    "finish_seconds": 5423
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 757,
+    "name": "Bruno III, Guerino",
+    "finish_time": "01:30:26",
+    "finish_seconds": 5426
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 759,
+    "name": "Cooper, Matthew",
+    "finish_time": "01:30:29",
+    "finish_seconds": 5429
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 761,
+    "name": "Lubrant, Jacob",
+    "finish_time": "01:30:36",
+    "finish_seconds": 5436
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 763,
+    "name": "Kogen, Scott",
+    "finish_time": "01:30:39",
+    "finish_seconds": 5439
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 765,
+    "name": "Pfeil, Kevin",
+    "finish_time": "01:30:42",
+    "finish_seconds": 5442
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 767,
+    "name": "Haro, David",
+    "finish_time": "01:30:43",
+    "finish_seconds": 5443
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 769,
+    "name": "Albright, Brandon",
+    "finish_time": "01:30:53",
+    "finish_seconds": 5453
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 771,
+    "name": "Daigh, Arthur",
+    "finish_time": "01:30:58",
+    "finish_seconds": 5458
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 773,
+    "name": "Orquiola, Sean",
+    "finish_time": "01:30:59",
+    "finish_seconds": 5459
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 775,
+    "name": "Fiebelkorn, Michael",
+    "finish_time": "01:31:03",
+    "finish_seconds": 5463
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 777,
+    "name": "Johnson, Patrick",
+    "finish_time": "01:31:05",
+    "finish_seconds": 5465
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 779,
+    "name": "Mourtokokis, Chris",
+    "finish_time": "01:31:10",
+    "finish_seconds": 5470
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 781,
+    "name": "Bompalli, Bhargav",
+    "finish_time": "01:31:15",
+    "finish_seconds": 5475
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 783,
+    "name": "Madden, Joseph",
+    "finish_time": "01:31:16",
+    "finish_seconds": 5476
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 785,
+    "name": "Carre, Louis",
+    "finish_time": "01:31:17",
+    "finish_seconds": 5477
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 787,
+    "name": "Stange, Eric",
+    "finish_time": "01:31:19",
+    "finish_seconds": 5479
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 789,
+    "name": "oconnor, cameron",
+    "finish_time": "01:31:21",
+    "finish_seconds": 5481
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 791,
+    "name": "Jones, Steve",
+    "finish_time": "01:31:26",
+    "finish_seconds": 5486
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 793,
+    "name": "Guevara, Alber",
+    "finish_time": "01:31:29",
+    "finish_seconds": 5489
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 795,
+    "name": "WILGENBUSCH, THOMAS",
+    "finish_time": "01:31:31",
+    "finish_seconds": 5491
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 797,
+    "name": "Rodrigues, Brolin",
+    "finish_time": "01:31:38",
+    "finish_seconds": 5498
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 799,
+    "name": "Flannigan, Tony",
+    "finish_time": "01:31:40",
+    "finish_seconds": 5500
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 801,
+    "name": "Mier, Christopher",
+    "finish_time": "01:31:46",
+    "finish_seconds": 5506
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 803,
+    "name": "Lange, Christopher",
+    "finish_time": "01:31:51",
+    "finish_seconds": 5511
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 805,
+    "name": "Steinberg, Craig",
+    "finish_time": "01:31:55",
+    "finish_seconds": 5515
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 807,
+    "name": "Niebeling, Kyle",
+    "finish_time": "01:31:57",
+    "finish_seconds": 5517
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 809,
+    "name": "Miller, Jeffery",
+    "finish_time": "01:31:58",
+    "finish_seconds": 5518
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 811,
+    "name": "Cornell, Joel",
+    "finish_time": "01:31:59",
+    "finish_seconds": 5519
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 813,
+    "name": "Miller, Montgomery",
+    "finish_time": "01:31:59",
+    "finish_seconds": 5519
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 815,
+    "name": "Van Ooyen, Hank",
+    "finish_time": "01:32:04",
+    "finish_seconds": 5524
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 817,
+    "name": "Popp, Aaron",
+    "finish_time": "01:32:08",
+    "finish_seconds": 5528
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 819,
+    "name": "Roberts, Daniel",
+    "finish_time": "01:32:13",
+    "finish_seconds": 5533
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 821,
+    "name": "Maser, Daniel",
+    "finish_time": "01:32:16",
+    "finish_seconds": 5536
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 823,
+    "name": "Bogan, William",
+    "finish_time": "01:32:18",
+    "finish_seconds": 5538
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 825,
+    "name": "Pfeiffer, Henry",
+    "finish_time": "01:32:19",
+    "finish_seconds": 5539
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 827,
+    "name": "Zamora, Jonathan",
+    "finish_time": "01:32:22",
+    "finish_seconds": 5542
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 829,
+    "name": "Barrett, Nick",
+    "finish_time": "01:32:29",
+    "finish_seconds": 5549
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 831,
+    "name": "Kiser, Ryan",
+    "finish_time": "01:32:32",
+    "finish_seconds": 5552
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 833,
+    "name": "Martinez, Juan",
+    "finish_time": "01:32:33",
+    "finish_seconds": 5553
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 835,
+    "name": "Bergeron, Andrew",
+    "finish_time": "01:32:35",
+    "finish_seconds": 5555
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 837,
+    "name": "Cramton, Adam",
+    "finish_time": "01:32:37",
+    "finish_seconds": 5557
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 839,
+    "name": "Daday, Michael",
+    "finish_time": "01:32:39",
+    "finish_seconds": 5559
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 841,
+    "name": "Muckenthaler, Paul",
+    "finish_time": "01:32:45",
+    "finish_seconds": 5565
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 843,
+    "name": "Nissen, Anthony",
+    "finish_time": "01:32:52",
+    "finish_seconds": 5572
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 845,
+    "name": "Jay, Matthew",
+    "finish_time": "01:32:53",
+    "finish_seconds": 5573
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 847,
+    "name": "Holthaus, Alec",
+    "finish_time": "01:32:54",
+    "finish_seconds": 5574
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 849,
+    "name": "Quirong, Mathew",
+    "finish_time": "01:32:56",
+    "finish_seconds": 5576
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 851,
+    "name": "Powell, Scott",
+    "finish_time": "01:33:00",
+    "finish_seconds": 5580
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 853,
+    "name": "Hajiharis, Malamas",
+    "finish_time": "01:33:05",
+    "finish_seconds": 5585
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 855,
+    "name": "Soto, Phillip",
+    "finish_time": "01:33:07",
+    "finish_seconds": 5587
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 857,
+    "name": "Marshall, Korey",
+    "finish_time": "01:33:08",
+    "finish_seconds": 5588
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 859,
+    "name": "Caustrita, Eduardo",
+    "finish_time": "01:33:10",
+    "finish_seconds": 5590
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 861,
+    "name": "Robinson, Matthew",
+    "finish_time": "01:33:13",
+    "finish_seconds": 5593
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 863,
+    "name": "Sullivan, Derek",
+    "finish_time": "01:33:15",
+    "finish_seconds": 5595
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 865,
+    "name": "Glowacki, Jonathan",
+    "finish_time": "01:33:15",
+    "finish_seconds": 5595
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 867,
+    "name": "Hart, Rick",
+    "finish_time": "01:33:19",
+    "finish_seconds": 5599
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 869,
+    "name": "Young, Michael",
+    "finish_time": "01:33:20",
+    "finish_seconds": 5600
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 871,
+    "name": "Boyd, Marvin",
+    "finish_time": "01:33:30",
+    "finish_seconds": 5610
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 873,
+    "name": "Meyer, Jackson",
+    "finish_time": "01:33:31",
+    "finish_seconds": 5611
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 875,
+    "name": "Mears, Gregory",
+    "finish_time": "01:33:31",
+    "finish_seconds": 5611
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 877,
+    "name": "Marcon, Tommy",
+    "finish_time": "01:33:32",
+    "finish_seconds": 5612
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 879,
+    "name": "Boonsin, Poom",
+    "finish_time": "01:33:37",
+    "finish_seconds": 5617
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 881,
+    "name": "Rome, Cody",
+    "finish_time": "01:33:39",
+    "finish_seconds": 5619
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 883,
+    "name": "Dearth, Justin",
+    "finish_time": "01:33:41",
+    "finish_seconds": 5621
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 885,
+    "name": "Blackburn, Benjamin",
+    "finish_time": "01:33:44",
+    "finish_seconds": 5624
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 887,
+    "name": "White, Tim",
+    "finish_time": "01:33:53",
+    "finish_seconds": 5633
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 889,
+    "name": "Southfield, Nolan",
+    "finish_time": "01:33:57",
+    "finish_seconds": 5637
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 891,
+    "name": "Watson, Nicholas",
+    "finish_time": "01:33:58",
+    "finish_seconds": 5638
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 893,
+    "name": "Romero, Cesar",
+    "finish_time": "01:34:01",
+    "finish_seconds": 5641
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 895,
+    "name": "Chen, Samuel",
+    "finish_time": "01:34:04",
+    "finish_seconds": 5644
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 897,
+    "name": "dowdney, Trevor",
+    "finish_time": "01:34:13",
+    "finish_seconds": 5653
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 899,
+    "name": "Woodhull, Charles",
+    "finish_time": "01:34:15",
+    "finish_seconds": 5655
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 901,
+    "name": "Klosek, Richard",
+    "finish_time": "01:34:16",
+    "finish_seconds": 5656
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 903,
+    "name": "Pike, Jonathan",
+    "finish_time": "01:34:18",
+    "finish_seconds": 5658
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 905,
+    "name": "Hoffman, Andrew",
+    "finish_time": "01:34:19",
+    "finish_seconds": 5659
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 907,
+    "name": "Kayser, Shane",
+    "finish_time": "01:34:21",
+    "finish_seconds": 5661
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 909,
+    "name": "Platts, Josh",
+    "finish_time": "01:34:24",
+    "finish_seconds": 5664
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 911,
+    "name": "Rosenberg, Matthew",
+    "finish_time": "01:34:29",
+    "finish_seconds": 5669
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 913,
+    "name": "Seaman, Stephen",
+    "finish_time": "01:34:31",
+    "finish_seconds": 5671
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 915,
+    "name": "Basabe, Aaron",
+    "finish_time": "01:34:35",
+    "finish_seconds": 5675
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 917,
+    "name": "Ortiz, Kristian",
+    "finish_time": "01:34:39",
+    "finish_seconds": 5679
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 919,
+    "name": "Masich, John",
+    "finish_time": "01:34:43",
+    "finish_seconds": 5683
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 921,
+    "name": "Balaski, Michael",
+    "finish_time": "01:34:46",
+    "finish_seconds": 5686
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 923,
+    "name": "Datar, Joseph",
+    "finish_time": "01:34:54",
+    "finish_seconds": 5694
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 925,
+    "name": "McQueen, Chris",
+    "finish_time": "01:34:55",
+    "finish_seconds": 5695
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 927,
+    "name": "Nessling Jr., Mike",
+    "finish_time": "01:34:57",
+    "finish_seconds": 5697
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 929,
+    "name": "Ty, Carl",
+    "finish_time": "01:35:00",
+    "finish_seconds": 5700
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 931,
+    "name": "Nguyen, Justin",
+    "finish_time": "01:35:05",
+    "finish_seconds": 5705
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 933,
+    "name": "Bowers, Ben",
+    "finish_time": "01:35:07",
+    "finish_seconds": 5707
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 935,
+    "name": "Blunt, Andrew",
+    "finish_time": "01:35:12",
+    "finish_seconds": 5712
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 937,
+    "name": "Rosario Rodr\u00edguez, Gregory",
+    "finish_time": "01:35:18",
+    "finish_seconds": 5718
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 939,
+    "name": "CHANDRAKANTHAN, MAYURAN",
+    "finish_time": "01:35:25",
+    "finish_seconds": 5725
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 941,
+    "name": "Mei, Steve",
+    "finish_time": "01:35:26",
+    "finish_seconds": 5726
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 943,
+    "name": "Kim, Noah",
+    "finish_time": "01:35:33",
+    "finish_seconds": 5733
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 945,
+    "name": "Unger, Michael",
+    "finish_time": "01:35:37",
+    "finish_seconds": 5737
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 947,
+    "name": "Riehl, JD",
+    "finish_time": "01:35:40",
+    "finish_seconds": 5740
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 949,
+    "name": "Diveney, Wes",
+    "finish_time": "01:35:42",
+    "finish_seconds": 5742
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 951,
+    "name": "Stan, Manuel",
+    "finish_time": "01:35:46",
+    "finish_seconds": 5746
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 953,
+    "name": "Richardson, Patrick",
+    "finish_time": "01:35:49",
+    "finish_seconds": 5749
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 955,
+    "name": "Martin, Tyler",
+    "finish_time": "01:35:52",
+    "finish_seconds": 5752
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 957,
+    "name": "Hicks, Marlow",
+    "finish_time": "01:35:53",
+    "finish_seconds": 5753
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 959,
+    "name": "Kobinsky, Jeff",
+    "finish_time": "01:35:54",
+    "finish_seconds": 5754
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 961,
+    "name": "Logan, Eli",
+    "finish_time": "01:35:55",
+    "finish_seconds": 5755
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 963,
+    "name": "Torkelson, Ethan",
+    "finish_time": "01:36:01",
+    "finish_seconds": 5761
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 965,
+    "name": "Collins, Victor",
+    "finish_time": "01:36:06",
+    "finish_seconds": 5766
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 967,
+    "name": "Tsai, Ho-Chen",
+    "finish_time": "01:36:11",
+    "finish_seconds": 5771
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 969,
+    "name": "Messer, Jeff",
+    "finish_time": "01:36:12",
+    "finish_seconds": 5772
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 971,
+    "name": "Romero, Josh",
+    "finish_time": "01:36:15",
+    "finish_seconds": 5775
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 973,
+    "name": "Klainbaum, Abraham",
+    "finish_time": "01:36:17",
+    "finish_seconds": 5777
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 975,
+    "name": "Soto, Eduardo",
+    "finish_time": "01:36:19",
+    "finish_seconds": 5779
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 977,
+    "name": "Wolfgram, Landon",
+    "finish_time": "01:36:24",
+    "finish_seconds": 5784
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 979,
+    "name": "Rascon, Carlos",
+    "finish_time": "01:36:30",
+    "finish_seconds": 5790
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 981,
+    "name": "Baer, Colin",
+    "finish_time": "01:36:37",
+    "finish_seconds": 5797
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 983,
+    "name": "Merryman, Daniel",
+    "finish_time": "01:36:40",
+    "finish_seconds": 5800
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 985,
+    "name": "Evenstad, Brogan",
+    "finish_time": "01:36:46",
+    "finish_seconds": 5806
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 987,
+    "name": "Schneider, Jacob",
+    "finish_time": "01:36:48",
+    "finish_seconds": 5808
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 989,
+    "name": "Nguyen, Lap",
+    "finish_time": "01:36:51",
+    "finish_seconds": 5811
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 991,
+    "name": "Soto, Andy",
+    "finish_time": "01:36:53",
+    "finish_seconds": 5813
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 993,
+    "name": "Edelman, Ed",
+    "finish_time": "01:36:55",
+    "finish_seconds": 5815
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 995,
+    "name": "Chen, Jim",
+    "finish_time": "01:36:57",
+    "finish_seconds": 5817
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 997,
+    "name": "Nathan, Adam",
+    "finish_time": "01:37:00",
+    "finish_seconds": 5820
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 999,
+    "name": "Munker, Ryan \u201cScrawn\u201d",
+    "finish_time": "01:37:03",
+    "finish_seconds": 5823
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1001,
+    "name": "Ramirez, Adrian",
+    "finish_time": "01:37:04",
+    "finish_seconds": 5824
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1003,
+    "name": "Mellinger, Jonathan",
+    "finish_time": "01:37:05",
+    "finish_seconds": 5825
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1005,
+    "name": "Maurer, Joseph",
+    "finish_time": "01:37:09",
+    "finish_seconds": 5829
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1007,
+    "name": "Petsy, Jared",
+    "finish_time": "01:37:14",
+    "finish_seconds": 5834
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1009,
+    "name": "Cummings, Thomas",
+    "finish_time": "01:37:16",
+    "finish_seconds": 5836
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1011,
+    "name": "Quirk, Devin",
+    "finish_time": "01:37:24",
+    "finish_seconds": 5844
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1013,
+    "name": "Hymer, Jeff",
+    "finish_time": "01:37:29",
+    "finish_seconds": 5849
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1015,
+    "name": "Muegge, AJ",
+    "finish_time": "01:37:29",
+    "finish_seconds": 5849
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1017,
+    "name": "Khan, Jamal",
+    "finish_time": "01:37:34",
+    "finish_seconds": 5854
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1019,
+    "name": "Stauber, Sam",
+    "finish_time": "01:37:38",
+    "finish_seconds": 5858
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1021,
+    "name": "Heil, Dusty",
+    "finish_time": "01:37:40",
+    "finish_seconds": 5860
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1023,
+    "name": "Simionato, Alessandro",
+    "finish_time": "01:37:42",
+    "finish_seconds": 5862
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1025,
+    "name": "Kim, Yoojoon",
+    "finish_time": "01:37:46",
+    "finish_seconds": 5866
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1027,
+    "name": "Werner, Adam",
+    "finish_time": "01:37:49",
+    "finish_seconds": 5869
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1029,
+    "name": "Kuta, Ryan",
+    "finish_time": "01:37:53",
+    "finish_seconds": 5873
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1031,
+    "name": "Luchmun, Kevin",
+    "finish_time": "01:37:56",
+    "finish_seconds": 5876
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1033,
+    "name": "Brunner, Andy",
+    "finish_time": "01:38:05",
+    "finish_seconds": 5885
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1035,
+    "name": "Sandoval, Antonio",
+    "finish_time": "01:38:09",
+    "finish_seconds": 5889
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1037,
+    "name": "Sardana, Shivam",
+    "finish_time": "01:38:12",
+    "finish_seconds": 5892
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1039,
+    "name": "Ovans, Christopher",
+    "finish_time": "01:38:19",
+    "finish_seconds": 5899
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1041,
+    "name": "Blackburn, Stephen",
+    "finish_time": "01:38:21",
+    "finish_seconds": 5901
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1043,
+    "name": "Chang, Jonathan",
+    "finish_time": "01:38:22",
+    "finish_seconds": 5902
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1045,
+    "name": "Lehmann, Jacob",
+    "finish_time": "01:38:27",
+    "finish_seconds": 5907
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1047,
+    "name": "Williams, Greg",
+    "finish_time": "01:38:28",
+    "finish_seconds": 5908
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1049,
+    "name": "Scaduto, Cameron",
+    "finish_time": "01:38:30",
+    "finish_seconds": 5910
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1051,
+    "name": "Scheffert, Troy",
+    "finish_time": "01:38:32",
+    "finish_seconds": 5912
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1053,
+    "name": "Hopkins, Brian",
+    "finish_time": "01:38:37",
+    "finish_seconds": 5917
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1055,
+    "name": "Castillo, Juan",
+    "finish_time": "01:38:38",
+    "finish_seconds": 5918
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1057,
+    "name": "Sammons, Patrick",
+    "finish_time": "01:38:41",
+    "finish_seconds": 5921
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1059,
+    "name": "Moore, Daniel",
+    "finish_time": "01:38:45",
+    "finish_seconds": 5925
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1061,
+    "name": "Riddle, Joe",
+    "finish_time": "01:38:49",
+    "finish_seconds": 5929
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1063,
+    "name": "Schneider, David",
+    "finish_time": "01:38:53",
+    "finish_seconds": 5933
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1065,
+    "name": "Pitlik, Tyler",
+    "finish_time": "01:38:55",
+    "finish_seconds": 5935
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1067,
+    "name": "Bishr, Adham",
+    "finish_time": "01:38:56",
+    "finish_seconds": 5936
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1069,
+    "name": "Collins, Justin",
+    "finish_time": "01:39:01",
+    "finish_seconds": 5941
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1071,
+    "name": "Corredor, Sebastian",
+    "finish_time": "01:39:04",
+    "finish_seconds": 5944
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1073,
+    "name": "Grencewicz, Dennis",
+    "finish_time": "01:39:06",
+    "finish_seconds": 5946
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1075,
+    "name": "Smith, Cooper",
+    "finish_time": "01:39:13",
+    "finish_seconds": 5953
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1077,
+    "name": "Abdullgafoor, Chira",
+    "finish_time": "01:39:15",
+    "finish_seconds": 5955
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1079,
+    "name": "Magner, Ricky",
+    "finish_time": "01:39:19",
+    "finish_seconds": 5959
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1081,
+    "name": "Dammen, James",
+    "finish_time": "01:39:20",
+    "finish_seconds": 5960
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1083,
+    "name": "Hearon, Scott",
+    "finish_time": "01:39:31",
+    "finish_seconds": 5971
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1085,
+    "name": "Faulkner, Shawn",
+    "finish_time": "01:39:37",
+    "finish_seconds": 5977
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1087,
+    "name": "Naval, Victor",
+    "finish_time": "01:39:51",
+    "finish_seconds": 5991
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1089,
+    "name": "Lizarazo G, Fernando A",
+    "finish_time": "01:39:52",
+    "finish_seconds": 5992
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1091,
+    "name": "Losetchi, Ion",
+    "finish_time": "01:39:55",
+    "finish_seconds": 5995
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1093,
+    "name": "Siegrist, Michael",
+    "finish_time": "01:40:01",
+    "finish_seconds": 6001
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1095,
+    "name": "Foster, Michael",
+    "finish_time": "01:40:06",
+    "finish_seconds": 6006
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1097,
+    "name": "Duval, Brant",
+    "finish_time": "01:40:08",
+    "finish_seconds": 6008
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1099,
+    "name": "Selman, Noah",
+    "finish_time": "01:40:12",
+    "finish_seconds": 6012
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1101,
+    "name": "Ramil, Samuel",
+    "finish_time": "01:40:16",
+    "finish_seconds": 6016
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1103,
+    "name": "Kulaev, David",
+    "finish_time": "01:40:23",
+    "finish_seconds": 6023
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1105,
+    "name": "Williams, Barton",
+    "finish_time": "01:40:26",
+    "finish_seconds": 6026
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1107,
+    "name": "Broshar, Connor",
+    "finish_time": "01:40:30",
+    "finish_seconds": 6030
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1109,
+    "name": "Lincecum, Ryan",
+    "finish_time": "01:40:43",
+    "finish_seconds": 6043
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1111,
+    "name": "Sekyi, Jared",
+    "finish_time": "01:40:47",
+    "finish_seconds": 6047
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1113,
+    "name": "Matsey, Shelton",
+    "finish_time": "01:40:51",
+    "finish_seconds": 6051
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1115,
+    "name": "Basta, Eric",
+    "finish_time": "01:40:54",
+    "finish_seconds": 6054
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1117,
+    "name": "Browning, Joe",
+    "finish_time": "01:40:59",
+    "finish_seconds": 6059
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1119,
+    "name": "McQueen, Cohen",
+    "finish_time": "01:41:01",
+    "finish_seconds": 6061
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1121,
+    "name": "Feeney, Trey",
+    "finish_time": "01:41:04",
+    "finish_seconds": 6064
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1123,
+    "name": "Huber, Christopher",
+    "finish_time": "01:41:04",
+    "finish_seconds": 6064
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1125,
+    "name": "Maldonado Quintana, Hiram Jose",
+    "finish_time": "01:41:06",
+    "finish_seconds": 6066
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1127,
+    "name": "Baumhardt, Joe",
+    "finish_time": "01:41:12",
+    "finish_seconds": 6072
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1129,
+    "name": "Zawodniak, Rodger",
+    "finish_time": "01:41:14",
+    "finish_seconds": 6074
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1131,
+    "name": "Sours, Mike",
+    "finish_time": "01:41:18",
+    "finish_seconds": 6078
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1133,
+    "name": "Wagner, Steve",
+    "finish_time": "01:41:20",
+    "finish_seconds": 6080
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1135,
+    "name": "Chandrappa, Rahul",
+    "finish_time": "01:41:23",
+    "finish_seconds": 6083
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1137,
+    "name": "Haskett, Ross",
+    "finish_time": "01:41:28",
+    "finish_seconds": 6088
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1139,
+    "name": "Villarreal, Jose",
+    "finish_time": "01:41:33",
+    "finish_seconds": 6093
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1141,
+    "name": "Castrova, Darrin",
+    "finish_time": "01:41:34",
+    "finish_seconds": 6094
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1143,
+    "name": "Schmidt, Josh",
+    "finish_time": "01:41:45",
+    "finish_seconds": 6105
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1145,
+    "name": "Pacourek, Chris",
+    "finish_time": "01:41:46",
+    "finish_seconds": 6106
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1147,
+    "name": "Kanan, Laith",
+    "finish_time": "01:41:49",
+    "finish_seconds": 6109
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1149,
+    "name": "Tinius, Joshua",
+    "finish_time": "01:41:56",
+    "finish_seconds": 6116
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1151,
+    "name": "Lees, Nathan",
+    "finish_time": "01:42:09",
+    "finish_seconds": 6129
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1153,
+    "name": "Levisee, Paul",
+    "finish_time": "01:42:16",
+    "finish_seconds": 6136
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1155,
+    "name": "Jones, Tim",
+    "finish_time": "01:42:22",
+    "finish_seconds": 6142
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1157,
+    "name": "ZALESKY, DAVID",
+    "finish_time": "01:42:25",
+    "finish_seconds": 6145
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1159,
+    "name": "Lefkowitz, Josh",
+    "finish_time": "01:42:29",
+    "finish_seconds": 6149
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1161,
+    "name": "Noland, Kelly",
+    "finish_time": "01:42:33",
+    "finish_seconds": 6153
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1163,
+    "name": "Blackburn, Jacob",
+    "finish_time": "01:42:36",
+    "finish_seconds": 6156
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1165,
+    "name": "Neville, Stephen",
+    "finish_time": "01:42:39",
+    "finish_seconds": 6159
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1167,
+    "name": "Lunsford, Mark",
+    "finish_time": "01:42:41",
+    "finish_seconds": 6161
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1169,
+    "name": "DiMarco, Lou",
+    "finish_time": "01:42:49",
+    "finish_seconds": 6169
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1171,
+    "name": "Peterson, Marco",
+    "finish_time": "01:42:55",
+    "finish_seconds": 6175
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1173,
+    "name": "Dushaj, Anthony",
+    "finish_time": "01:42:57",
+    "finish_seconds": 6177
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1175,
+    "name": "Bobkov, Egor",
+    "finish_time": "01:43:02",
+    "finish_seconds": 6182
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1177,
+    "name": "Kollasch, Chad",
+    "finish_time": "01:43:10",
+    "finish_seconds": 6190
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1179,
+    "name": "Sabatini, Dominic",
+    "finish_time": "01:43:13",
+    "finish_seconds": 6193
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1181,
+    "name": "Chisalita, Gheorghe",
+    "finish_time": "01:43:16",
+    "finish_seconds": 6196
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1183,
+    "name": "O\u2019Neill, Owen",
+    "finish_time": "01:43:19",
+    "finish_seconds": 6199
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1185,
+    "name": "Betts, Mike",
+    "finish_time": "01:43:28",
+    "finish_seconds": 6208
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1187,
+    "name": "Charles, Joshua",
+    "finish_time": "01:43:35",
+    "finish_seconds": 6215
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1189,
+    "name": "Chesnick, Kyle",
+    "finish_time": "01:43:37",
+    "finish_seconds": 6217
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1191,
+    "name": "Ciluffo, Brian",
+    "finish_time": "01:43:40",
+    "finish_seconds": 6220
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1193,
+    "name": "Smith, Mitch",
+    "finish_time": "01:43:55",
+    "finish_seconds": 6235
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1195,
+    "name": "Rodriguez, David",
+    "finish_time": "01:43:59",
+    "finish_seconds": 6239
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1197,
+    "name": "Tocco, Patrick",
+    "finish_time": "01:44:02",
+    "finish_seconds": 6242
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1199,
+    "name": "Hlavaty, Chris",
+    "finish_time": "01:44:17",
+    "finish_seconds": 6257
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1201,
+    "name": "Keaffaber, Peyton",
+    "finish_time": "01:44:18",
+    "finish_seconds": 6258
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1203,
+    "name": "Schwartz, Evan",
+    "finish_time": "01:44:22",
+    "finish_seconds": 6262
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1205,
+    "name": "Martin, Ryan",
+    "finish_time": "01:44:24",
+    "finish_seconds": 6264
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1207,
+    "name": "Levin, Michael",
+    "finish_time": "01:44:28",
+    "finish_seconds": 6268
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1209,
+    "name": "Kozlowski, Stan",
+    "finish_time": "01:44:31",
+    "finish_seconds": 6271
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1211,
+    "name": "Hoffmann, Bruce",
+    "finish_time": "01:44:38",
+    "finish_seconds": 6278
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1213,
+    "name": "Ayers, Cody",
+    "finish_time": "01:44:42",
+    "finish_seconds": 6282
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1215,
+    "name": "DeSagun, Rob",
+    "finish_time": "01:44:49",
+    "finish_seconds": 6289
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1217,
+    "name": "Bennett, Keith",
+    "finish_time": "01:44:54",
+    "finish_seconds": 6294
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1219,
+    "name": "Meyer, Aaron",
+    "finish_time": "01:44:55",
+    "finish_seconds": 6295
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1221,
+    "name": "Jorgensen, Neil",
+    "finish_time": "01:45:01",
+    "finish_seconds": 6301
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1223,
+    "name": "Engroff, George",
+    "finish_time": "01:45:02",
+    "finish_seconds": 6302
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1225,
+    "name": "Dennis, Mike",
+    "finish_time": "01:45:11",
+    "finish_seconds": 6311
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1227,
+    "name": "Baker, Kyle",
+    "finish_time": "01:45:23",
+    "finish_seconds": 6323
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1229,
+    "name": "Martin, Andrew",
+    "finish_time": "01:45:30",
+    "finish_seconds": 6330
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1231,
+    "name": "Gudis, David",
+    "finish_time": "01:45:34",
+    "finish_seconds": 6334
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1233,
+    "name": "Tanis, Roger",
+    "finish_time": "01:45:47",
+    "finish_seconds": 6347
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1235,
+    "name": "Kocerka, Steven",
+    "finish_time": "01:45:51",
+    "finish_seconds": 6351
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1237,
+    "name": "FARHAN, AIMAN",
+    "finish_time": "01:45:53",
+    "finish_seconds": 6353
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1239,
+    "name": "Valley, Ken",
+    "finish_time": "01:46:09",
+    "finish_seconds": 6369
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1241,
+    "name": "Xie, Michael",
+    "finish_time": "01:46:14",
+    "finish_seconds": 6374
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1243,
+    "name": "Berbel, David",
+    "finish_time": "01:46:20",
+    "finish_seconds": 6380
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1245,
+    "name": "Boghra, Shivam",
+    "finish_time": "01:46:21",
+    "finish_seconds": 6381
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1247,
+    "name": "Arnold, Benjamin",
+    "finish_time": "01:46:27",
+    "finish_seconds": 6387
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1249,
+    "name": "Meloche, Henry",
+    "finish_time": "01:46:28",
+    "finish_seconds": 6388
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1251,
+    "name": "Adams, Edward",
+    "finish_time": "01:46:35",
+    "finish_seconds": 6395
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1253,
+    "name": "Zancolli, Patrick",
+    "finish_time": "01:46:37",
+    "finish_seconds": 6397
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1255,
+    "name": "Baker, Kellan",
+    "finish_time": "01:46:44",
+    "finish_seconds": 6404
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1257,
+    "name": "Bellorin, Wilfredo",
+    "finish_time": "01:46:46",
+    "finish_seconds": 6406
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1259,
+    "name": "Mantravadi, Avinash",
+    "finish_time": "01:46:52",
+    "finish_seconds": 6412
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1261,
+    "name": "Frost, Alex",
+    "finish_time": "01:46:57",
+    "finish_seconds": 6417
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1263,
+    "name": "Cantu, Andrew",
+    "finish_time": "01:46:59",
+    "finish_seconds": 6419
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1265,
+    "name": "Tracey, Warren",
+    "finish_time": "01:47:07",
+    "finish_seconds": 6427
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1267,
+    "name": "Miller, Scott",
+    "finish_time": "01:47:09",
+    "finish_seconds": 6429
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1269,
+    "name": "Hianik, Jake",
+    "finish_time": "01:47:12",
+    "finish_seconds": 6432
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1271,
+    "name": "McBrearty, Edward",
+    "finish_time": "01:47:12",
+    "finish_seconds": 6432
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1273,
+    "name": "Richter, Jim",
+    "finish_time": "01:47:16",
+    "finish_seconds": 6436
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1275,
+    "name": "Treleven, Dakota",
+    "finish_time": "01:47:21",
+    "finish_seconds": 6441
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1277,
+    "name": "Steinway, Brian",
+    "finish_time": "01:47:25",
+    "finish_seconds": 6445
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1279,
+    "name": "McCullough, Kenneth",
+    "finish_time": "01:47:32",
+    "finish_seconds": 6452
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1281,
+    "name": "Olsen, Joe",
+    "finish_time": "01:47:35",
+    "finish_seconds": 6455
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1283,
+    "name": "Acosta, Jon",
+    "finish_time": "01:47:48",
+    "finish_seconds": 6468
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1285,
+    "name": "Smith, Sean",
+    "finish_time": "01:47:56",
+    "finish_seconds": 6476
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1287,
+    "name": "Dean, Tory",
+    "finish_time": "01:48:02",
+    "finish_seconds": 6482
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1289,
+    "name": "Svec, Bryan",
+    "finish_time": "01:48:09",
+    "finish_seconds": 6489
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1291,
+    "name": "Carrillo, Fernando",
+    "finish_time": "01:48:16",
+    "finish_seconds": 6496
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1293,
+    "name": "Painter, Tyler",
+    "finish_time": "01:48:25",
+    "finish_seconds": 6505
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "M",
+    "rank": 1295,
+    "name": "Davis, Adam",
+    "finish_time": "01:48:32",
+    "finish_seconds": 6512
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 1,
+    "name": "Duke, Katie",
+    "finish_time": "01:02:41",
+    "finish_seconds": 3761
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 3,
+    "name": "Cummins, Jordyn",
+    "finish_time": "01:06:35",
+    "finish_seconds": 3995
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 5,
+    "name": "Dennes, Jill",
+    "finish_time": "01:06:48",
+    "finish_seconds": 4008
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 7,
+    "name": "MacNeill, Steph",
+    "finish_time": "01:07:14",
+    "finish_seconds": 4034
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 9,
+    "name": "Jamerino, Melissa",
+    "finish_time": "01:07:34",
+    "finish_seconds": 4054
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 11,
+    "name": "Chandler, Cam-Ranh",
+    "finish_time": "01:07:48",
+    "finish_seconds": 4068
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 13,
+    "name": "Rooke, Lisa",
+    "finish_time": "01:07:52",
+    "finish_seconds": 4072
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 15,
+    "name": "Stocklmeir, Kim",
+    "finish_time": "01:07:58",
+    "finish_seconds": 4078
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 17,
+    "name": "Kaminski, Alexandra",
+    "finish_time": "01:08:31",
+    "finish_seconds": 4111
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 19,
+    "name": "Raftery, Wendy",
+    "finish_time": "01:08:57",
+    "finish_seconds": 4137
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 21,
+    "name": "McIlroy, Madeleine",
+    "finish_time": "01:09:21",
+    "finish_seconds": 4161
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 23,
+    "name": "Lee, Vesna",
+    "finish_time": "01:09:44",
+    "finish_seconds": 4184
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 25,
+    "name": "De Lucas, Yesica",
+    "finish_time": "01:10:04",
+    "finish_seconds": 4204
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 27,
+    "name": "Kim, Mikang",
+    "finish_time": "01:10:32",
+    "finish_seconds": 4232
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 29,
+    "name": "Morris, Olivia",
+    "finish_time": "01:11:01",
+    "finish_seconds": 4261
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 31,
+    "name": "Whitcomb, Kathryn",
+    "finish_time": "01:11:08",
+    "finish_seconds": 4268
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 33,
+    "name": "Dierikx, Kelsey",
+    "finish_time": "01:11:20",
+    "finish_seconds": 4280
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 35,
+    "name": "Genova, Erin",
+    "finish_time": "01:11:23",
+    "finish_seconds": 4283
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 37,
+    "name": "McNamara, Kaitlyn",
+    "finish_time": "01:11:38",
+    "finish_seconds": 4298
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 39,
+    "name": "Viteretti, Amanda",
+    "finish_time": "01:11:42",
+    "finish_seconds": 4302
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 41,
+    "name": "Gipe, Jessie",
+    "finish_time": "01:12:01",
+    "finish_seconds": 4321
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 43,
+    "name": "GINSKI, AMANDA",
+    "finish_time": "01:12:29",
+    "finish_seconds": 4349
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 45,
+    "name": "Sedjo, Lydia",
+    "finish_time": "01:12:38",
+    "finish_seconds": 4358
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 47,
+    "name": "Durastanti, Ashley",
+    "finish_time": "01:13:24",
+    "finish_seconds": 4404
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 49,
+    "name": "Paul, Peyton",
+    "finish_time": "01:13:35",
+    "finish_seconds": 4415
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 51,
+    "name": "Woods, Carmen",
+    "finish_time": "01:13:40",
+    "finish_seconds": 4420
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 53,
+    "name": "Smith, Francesca",
+    "finish_time": "01:13:45",
+    "finish_seconds": 4425
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 55,
+    "name": "Barlow, Adriana",
+    "finish_time": "01:14:02",
+    "finish_seconds": 4442
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 57,
+    "name": "Bates, Erin",
+    "finish_time": "01:14:07",
+    "finish_seconds": 4447
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 59,
+    "name": "Mergener, Emily",
+    "finish_time": "01:14:16",
+    "finish_seconds": 4456
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 61,
+    "name": "Smith, Kourtney",
+    "finish_time": "01:14:19",
+    "finish_seconds": 4459
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 63,
+    "name": "Summers, Amanda",
+    "finish_time": "01:14:22",
+    "finish_seconds": 4462
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 65,
+    "name": "Leggett, Jessica",
+    "finish_time": "01:14:33",
+    "finish_seconds": 4473
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 67,
+    "name": "Wagner, Bridget",
+    "finish_time": "01:14:54",
+    "finish_seconds": 4494
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 69,
+    "name": "Cardwell, Shari",
+    "finish_time": "01:15:20",
+    "finish_seconds": 4520
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 71,
+    "name": "Frazier, Meredith",
+    "finish_time": "01:15:29",
+    "finish_seconds": 4529
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 73,
+    "name": "Custer, Whitney",
+    "finish_time": "01:15:32",
+    "finish_seconds": 4532
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 75,
+    "name": "Killian, Alyssa",
+    "finish_time": "01:15:38",
+    "finish_seconds": 4538
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 77,
+    "name": "Constantino, Jazmine",
+    "finish_time": "01:15:42",
+    "finish_seconds": 4542
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 79,
+    "name": "Ahalt, Claire",
+    "finish_time": "01:16:04",
+    "finish_seconds": 4564
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 81,
+    "name": "Pastko, Julie",
+    "finish_time": "01:16:09",
+    "finish_seconds": 4569
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 83,
+    "name": "Edwards, Sarah",
+    "finish_time": "01:16:19",
+    "finish_seconds": 4579
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 85,
+    "name": "Ng, Megan",
+    "finish_time": "01:16:21",
+    "finish_seconds": 4581
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 87,
+    "name": "Burns, Laura",
+    "finish_time": "01:16:23",
+    "finish_seconds": 4583
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 89,
+    "name": "Johnson, Francesca",
+    "finish_time": "01:16:25",
+    "finish_seconds": 4585
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 91,
+    "name": "Brunori, Kate",
+    "finish_time": "01:16:29",
+    "finish_seconds": 4589
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 93,
+    "name": "Tirch, Ella",
+    "finish_time": "01:16:36",
+    "finish_seconds": 4596
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 95,
+    "name": "Williamson, Brittanie",
+    "finish_time": "01:16:38",
+    "finish_seconds": 4598
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 97,
+    "name": "Ayres, Leah",
+    "finish_time": "01:16:48",
+    "finish_seconds": 4608
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 99,
+    "name": "Boulier, Sarena",
+    "finish_time": "01:16:55",
+    "finish_seconds": 4615
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 101,
+    "name": "Anderson, Vanessa",
+    "finish_time": "01:17:01",
+    "finish_seconds": 4621
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 103,
+    "name": "Laubenthal, Grace",
+    "finish_time": "01:17:16",
+    "finish_seconds": 4636
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 105,
+    "name": "Fiebelkorn, Lacey",
+    "finish_time": "01:17:21",
+    "finish_seconds": 4641
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 107,
+    "name": "Grams, Kalli",
+    "finish_time": "01:17:24",
+    "finish_seconds": 4644
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 109,
+    "name": "Ritzius, Molly",
+    "finish_time": "01:17:36",
+    "finish_seconds": 4656
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 111,
+    "name": "Marshall, Megan",
+    "finish_time": "01:17:39",
+    "finish_seconds": 4659
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 113,
+    "name": "White, Emilie",
+    "finish_time": "01:17:45",
+    "finish_seconds": 4665
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 115,
+    "name": "Carpenter, Maddi",
+    "finish_time": "01:17:46",
+    "finish_seconds": 4666
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 117,
+    "name": "FC, Luisa",
+    "finish_time": "01:17:47",
+    "finish_seconds": 4667
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 119,
+    "name": "Evenhouse, Leah",
+    "finish_time": "01:17:58",
+    "finish_seconds": 4678
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 121,
+    "name": "Jancova, Silvia",
+    "finish_time": "01:18:06",
+    "finish_seconds": 4686
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 123,
+    "name": "Bowerman, Keri",
+    "finish_time": "01:18:12",
+    "finish_seconds": 4692
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 125,
+    "name": "James, Caryn",
+    "finish_time": "01:18:19",
+    "finish_seconds": 4699
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 127,
+    "name": "Liggins, Cara",
+    "finish_time": "01:18:24",
+    "finish_seconds": 4704
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 129,
+    "name": "Huot, Pascale",
+    "finish_time": "01:18:32",
+    "finish_seconds": 4712
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 131,
+    "name": "Venable, Kristina",
+    "finish_time": "01:18:33",
+    "finish_seconds": 4713
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 133,
+    "name": "Meyer, Jessyca",
+    "finish_time": "01:18:38",
+    "finish_seconds": 4718
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 135,
+    "name": "Ellison, Jill",
+    "finish_time": "01:18:50",
+    "finish_seconds": 4730
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 137,
+    "name": "Thomas, Molly",
+    "finish_time": "01:18:55",
+    "finish_seconds": 4735
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 139,
+    "name": "Carrillo Pasos, Maria Isabella",
+    "finish_time": "01:18:56",
+    "finish_seconds": 4736
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 141,
+    "name": "Koenigs, Echo",
+    "finish_time": "01:18:57",
+    "finish_seconds": 4737
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 143,
+    "name": "Ferroni, Andrea",
+    "finish_time": "01:18:58",
+    "finish_seconds": 4738
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 145,
+    "name": "Brown, Haley",
+    "finish_time": "01:19:01",
+    "finish_seconds": 4741
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 147,
+    "name": "Overdorf, Meredith",
+    "finish_time": "01:19:02",
+    "finish_seconds": 4742
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 149,
+    "name": "Evans, Michelle",
+    "finish_time": "01:19:06",
+    "finish_seconds": 4746
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 151,
+    "name": "Smith, Kathleen",
+    "finish_time": "01:19:11",
+    "finish_seconds": 4751
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 153,
+    "name": "Saladin, Katie",
+    "finish_time": "01:19:15",
+    "finish_seconds": 4755
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 155,
+    "name": "Sleeman, Kaylee",
+    "finish_time": "01:19:16",
+    "finish_seconds": 4756
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 157,
+    "name": "Mayfield, Kendyll",
+    "finish_time": "01:19:20",
+    "finish_seconds": 4760
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 159,
+    "name": "Valentin, Hillary",
+    "finish_time": "01:19:22",
+    "finish_seconds": 4762
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 161,
+    "name": "Byers, Allison",
+    "finish_time": "01:19:26",
+    "finish_seconds": 4766
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 163,
+    "name": "Trimble, Lindsey",
+    "finish_time": "01:19:31",
+    "finish_seconds": 4771
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 165,
+    "name": "Johnson, Erica",
+    "finish_time": "01:19:37",
+    "finish_seconds": 4777
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 167,
+    "name": "Kelly, Amanda",
+    "finish_time": "01:19:43",
+    "finish_seconds": 4783
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 169,
+    "name": "Thomas, Destiny",
+    "finish_time": "01:19:46",
+    "finish_seconds": 4786
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 171,
+    "name": "Hartman, Brooke",
+    "finish_time": "01:20:00",
+    "finish_seconds": 4800
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 173,
+    "name": "Anderson, Liz",
+    "finish_time": "01:20:03",
+    "finish_seconds": 4803
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 175,
+    "name": "Ronberg, Kara",
+    "finish_time": "01:20:08",
+    "finish_seconds": 4808
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 177,
+    "name": "Morrison, Katie",
+    "finish_time": "01:20:10",
+    "finish_seconds": 4810
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 179,
+    "name": "Wiitanen, Brooke",
+    "finish_time": "01:20:12",
+    "finish_seconds": 4812
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 181,
+    "name": "Wright, Haley",
+    "finish_time": "01:20:15",
+    "finish_seconds": 4815
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 183,
+    "name": "Humphrey, Elizabeth",
+    "finish_time": "01:20:16",
+    "finish_seconds": 4816
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 185,
+    "name": "Hruska, Melissa",
+    "finish_time": "01:20:21",
+    "finish_seconds": 4821
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 187,
+    "name": "Hernandez, Gabriella",
+    "finish_time": "01:20:28",
+    "finish_seconds": 4828
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 189,
+    "name": "Hunt, Carly",
+    "finish_time": "01:20:29",
+    "finish_seconds": 4829
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 191,
+    "name": "Mohorek, Allison",
+    "finish_time": "01:20:29",
+    "finish_seconds": 4829
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 193,
+    "name": "Zabari, Leah",
+    "finish_time": "01:20:30",
+    "finish_seconds": 4830
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 195,
+    "name": "Bianchi, Kristin",
+    "finish_time": "01:20:34",
+    "finish_seconds": 4834
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 197,
+    "name": "Lorek, Rajwah",
+    "finish_time": "01:20:35",
+    "finish_seconds": 4835
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 199,
+    "name": "Bruno, Jenna",
+    "finish_time": "01:20:38",
+    "finish_seconds": 4838
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 201,
+    "name": "Grabouski, Christina",
+    "finish_time": "01:20:41",
+    "finish_seconds": 4841
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 203,
+    "name": "Salazar, Elena",
+    "finish_time": "01:20:43",
+    "finish_seconds": 4843
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 205,
+    "name": "Fedrigon, Audriana",
+    "finish_time": "01:20:51",
+    "finish_seconds": 4851
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 207,
+    "name": "Soffner, Maria",
+    "finish_time": "01:20:59",
+    "finish_seconds": 4859
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 209,
+    "name": "Ortiz, Karissa",
+    "finish_time": "01:21:03",
+    "finish_seconds": 4863
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 211,
+    "name": "Peressini, Maggie",
+    "finish_time": "01:21:09",
+    "finish_seconds": 4869
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 213,
+    "name": "Turner, Sara",
+    "finish_time": "01:21:19",
+    "finish_seconds": 4879
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 215,
+    "name": "Ward, Katie",
+    "finish_time": "01:21:21",
+    "finish_seconds": 4881
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 217,
+    "name": "Roumani, Manal",
+    "finish_time": "01:21:24",
+    "finish_seconds": 4884
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 219,
+    "name": "Arimbado, Nadia",
+    "finish_time": "01:21:31",
+    "finish_seconds": 4891
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 221,
+    "name": "DeBruyn, Alison",
+    "finish_time": "01:21:36",
+    "finish_seconds": 4896
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 223,
+    "name": "Faber, Holli",
+    "finish_time": "01:21:42",
+    "finish_seconds": 4902
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 225,
+    "name": "Cassens, Jamie",
+    "finish_time": "01:21:51",
+    "finish_seconds": 4911
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 227,
+    "name": "Persohn, Amber",
+    "finish_time": "01:21:51",
+    "finish_seconds": 4911
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 229,
+    "name": "Bedrosian, Megan",
+    "finish_time": "01:21:53",
+    "finish_seconds": 4913
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 231,
+    "name": "Figueroa, Margarita",
+    "finish_time": "01:21:57",
+    "finish_seconds": 4917
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 233,
+    "name": "Karnchanaphati, Rachelle",
+    "finish_time": "01:22:04",
+    "finish_seconds": 4924
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 235,
+    "name": "Anthony, Hannah",
+    "finish_time": "01:22:09",
+    "finish_seconds": 4929
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 237,
+    "name": "Brown, Julia",
+    "finish_time": "01:22:14",
+    "finish_seconds": 4934
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 239,
+    "name": "Jelinek, Alyssa",
+    "finish_time": "01:22:19",
+    "finish_seconds": 4939
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 241,
+    "name": "Marulli, Kristen",
+    "finish_time": "01:22:22",
+    "finish_seconds": 4942
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 243,
+    "name": "Przybyla, Julie",
+    "finish_time": "01:22:29",
+    "finish_seconds": 4949
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 245,
+    "name": "Keehan, Brittany",
+    "finish_time": "01:22:33",
+    "finish_seconds": 4953
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 247,
+    "name": "Wuest, Stasha",
+    "finish_time": "01:22:40",
+    "finish_seconds": 4960
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 249,
+    "name": "Schmelzer, Katie",
+    "finish_time": "01:22:42",
+    "finish_seconds": 4962
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 251,
+    "name": "Mondello, Katie",
+    "finish_time": "01:22:43",
+    "finish_seconds": 4963
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 253,
+    "name": "Inciong, Sarah",
+    "finish_time": "01:22:45",
+    "finish_seconds": 4965
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 255,
+    "name": "Woods, Nicole",
+    "finish_time": "01:22:47",
+    "finish_seconds": 4967
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 257,
+    "name": "Nicholson, Ashley",
+    "finish_time": "01:22:53",
+    "finish_seconds": 4973
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 259,
+    "name": "Stein, Kendall",
+    "finish_time": "01:22:58",
+    "finish_seconds": 4978
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 261,
+    "name": "Martin, Melissa",
+    "finish_time": "01:23:05",
+    "finish_seconds": 4985
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 263,
+    "name": "Smith, Jalyn Park",
+    "finish_time": "01:23:08",
+    "finish_seconds": 4988
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 265,
+    "name": "Dammen, Maggie",
+    "finish_time": "01:23:10",
+    "finish_seconds": 4990
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 267,
+    "name": "Noah, Melinda",
+    "finish_time": "01:23:17",
+    "finish_seconds": 4997
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 269,
+    "name": "Harris, Daralynne",
+    "finish_time": "01:23:18",
+    "finish_seconds": 4998
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 271,
+    "name": "Traina, maureen",
+    "finish_time": "01:23:19",
+    "finish_seconds": 4999
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 273,
+    "name": "Dahlen, Nichole",
+    "finish_time": "01:23:20",
+    "finish_seconds": 5000
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 275,
+    "name": "Dickerson, Laura",
+    "finish_time": "01:23:21",
+    "finish_seconds": 5001
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 277,
+    "name": "Sweeney, Alejandra",
+    "finish_time": "01:23:27",
+    "finish_seconds": 5007
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 279,
+    "name": "de Llano, Patty",
+    "finish_time": "01:23:34",
+    "finish_seconds": 5014
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 281,
+    "name": "Roudebush, Bekha",
+    "finish_time": "01:23:41",
+    "finish_seconds": 5021
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 283,
+    "name": "Canales Perez, Mariana",
+    "finish_time": "01:23:49",
+    "finish_seconds": 5029
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 285,
+    "name": "Nichols, Lindsey",
+    "finish_time": "01:23:55",
+    "finish_seconds": 5035
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 287,
+    "name": "Norris, Marissa",
+    "finish_time": "01:23:56",
+    "finish_seconds": 5036
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 289,
+    "name": "Chen, Xinyi",
+    "finish_time": "01:23:58",
+    "finish_seconds": 5038
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 291,
+    "name": "Rodriguez, Alexandra",
+    "finish_time": "01:24:07",
+    "finish_seconds": 5047
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 293,
+    "name": "Bass, Meredith",
+    "finish_time": "01:24:08",
+    "finish_seconds": 5048
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 295,
+    "name": "Rucobo Alvarez, Melissa",
+    "finish_time": "01:24:09",
+    "finish_seconds": 5049
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 297,
+    "name": "Radke, Reagen",
+    "finish_time": "01:24:12",
+    "finish_seconds": 5052
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 299,
+    "name": "Hawkins, Jessica",
+    "finish_time": "01:24:13",
+    "finish_seconds": 5053
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 301,
+    "name": "Bajda, Lindsay",
+    "finish_time": "01:24:21",
+    "finish_seconds": 5061
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 303,
+    "name": "Williams, Aiesha",
+    "finish_time": "01:24:27",
+    "finish_seconds": 5067
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 305,
+    "name": "Giacomini, Jill",
+    "finish_time": "01:24:29",
+    "finish_seconds": 5069
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 307,
+    "name": "Cowger, Ellie",
+    "finish_time": "01:24:31",
+    "finish_seconds": 5071
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 309,
+    "name": "Wang, Yuelian",
+    "finish_time": "01:24:37",
+    "finish_seconds": 5077
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 311,
+    "name": "Cavalli, Karoliina",
+    "finish_time": "01:24:41",
+    "finish_seconds": 5081
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 313,
+    "name": "Treu, Jessica",
+    "finish_time": "01:24:42",
+    "finish_seconds": 5082
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 315,
+    "name": "Dangelmajer, Emily",
+    "finish_time": "01:24:45",
+    "finish_seconds": 5085
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 317,
+    "name": "Litschgi, Victoria",
+    "finish_time": "01:24:50",
+    "finish_seconds": 5090
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 319,
+    "name": "Cleaver, Sarah",
+    "finish_time": "01:24:51",
+    "finish_seconds": 5091
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 321,
+    "name": "Rothman, Karen",
+    "finish_time": "01:24:54",
+    "finish_seconds": 5094
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 323,
+    "name": "Pfeiffer, Rachel",
+    "finish_time": "01:25:04",
+    "finish_seconds": 5104
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 325,
+    "name": "Newman, Caitlin",
+    "finish_time": "01:25:12",
+    "finish_seconds": 5112
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 327,
+    "name": "Webster, Kerstin",
+    "finish_time": "01:25:17",
+    "finish_seconds": 5117
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 329,
+    "name": "Brash, Megan",
+    "finish_time": "01:25:24",
+    "finish_seconds": 5124
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 331,
+    "name": "Schumacher, Lacey",
+    "finish_time": "01:25:25",
+    "finish_seconds": 5125
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 333,
+    "name": "Wood, Briony",
+    "finish_time": "01:25:32",
+    "finish_seconds": 5132
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 335,
+    "name": "Jozefowski, Martina",
+    "finish_time": "01:25:37",
+    "finish_seconds": 5137
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 337,
+    "name": "Larsen, Corinne",
+    "finish_time": "01:25:38",
+    "finish_seconds": 5138
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 339,
+    "name": "Albaum, Lauren",
+    "finish_time": "01:25:44",
+    "finish_seconds": 5144
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 341,
+    "name": "DOoge, Alex",
+    "finish_time": "01:25:47",
+    "finish_seconds": 5147
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 343,
+    "name": "Anderson, Patricia",
+    "finish_time": "01:25:51",
+    "finish_seconds": 5151
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 345,
+    "name": "Murawski, Tara",
+    "finish_time": "01:25:53",
+    "finish_seconds": 5153
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 347,
+    "name": "Whalen, Anna",
+    "finish_time": "01:26:00",
+    "finish_seconds": 5160
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 349,
+    "name": "Wilhelmi, Amy",
+    "finish_time": "01:26:01",
+    "finish_seconds": 5161
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 351,
+    "name": "Mahoney, Delaney",
+    "finish_time": "01:26:07",
+    "finish_seconds": 5167
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 353,
+    "name": "Adelman, Marisa",
+    "finish_time": "01:26:11",
+    "finish_seconds": 5171
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 355,
+    "name": "Mekeel, Sarah",
+    "finish_time": "01:26:20",
+    "finish_seconds": 5180
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 357,
+    "name": "McCuen, Ashley",
+    "finish_time": "01:26:21",
+    "finish_seconds": 5181
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 359,
+    "name": "Vizza, Allison",
+    "finish_time": "01:26:23",
+    "finish_seconds": 5183
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 361,
+    "name": "Harris, Kristen",
+    "finish_time": "01:26:27",
+    "finish_seconds": 5187
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 363,
+    "name": "Schooley, Kalee",
+    "finish_time": "01:26:27",
+    "finish_seconds": 5187
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 365,
+    "name": "Williams, Kelsie",
+    "finish_time": "01:26:36",
+    "finish_seconds": 5196
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 367,
+    "name": "Capadocia, Cheryl",
+    "finish_time": "01:26:48",
+    "finish_seconds": 5208
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 369,
+    "name": "McCann, Rebecca",
+    "finish_time": "01:26:50",
+    "finish_seconds": 5210
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 371,
+    "name": "Lenters, Victoria",
+    "finish_time": "01:27:02",
+    "finish_seconds": 5222
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 373,
+    "name": "Fox, Alexis",
+    "finish_time": "01:27:07",
+    "finish_seconds": 5227
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 375,
+    "name": "Eickmeier, Hanna",
+    "finish_time": "01:27:14",
+    "finish_seconds": 5234
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 377,
+    "name": "Krueger, Syd",
+    "finish_time": "01:27:20",
+    "finish_seconds": 5240
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 379,
+    "name": "Adanalic, Elma",
+    "finish_time": "01:27:28",
+    "finish_seconds": 5248
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 381,
+    "name": "Jones, Holly",
+    "finish_time": "01:27:30",
+    "finish_seconds": 5250
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 383,
+    "name": "Reibenstein, Rachel",
+    "finish_time": "01:27:34",
+    "finish_seconds": 5254
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 385,
+    "name": "Larry, Debbie",
+    "finish_time": "01:27:50",
+    "finish_seconds": 5270
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 387,
+    "name": "Blackshaw, Amanda",
+    "finish_time": "01:27:50",
+    "finish_seconds": 5270
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 389,
+    "name": "Wolons, Jillian",
+    "finish_time": "01:27:55",
+    "finish_seconds": 5275
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 391,
+    "name": "Haas, Krystin",
+    "finish_time": "01:27:56",
+    "finish_seconds": 5276
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 393,
+    "name": "Boyer, Jennifer",
+    "finish_time": "01:27:58",
+    "finish_seconds": 5278
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 395,
+    "name": "Faria, Gabriella",
+    "finish_time": "01:28:01",
+    "finish_seconds": 5281
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 397,
+    "name": "Plomb, Eva",
+    "finish_time": "01:28:04",
+    "finish_seconds": 5284
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 399,
+    "name": "Saftich, Megan",
+    "finish_time": "01:28:05",
+    "finish_seconds": 5285
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 401,
+    "name": "Webb, Terryn",
+    "finish_time": "01:28:10",
+    "finish_seconds": 5290
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 403,
+    "name": "Pavletich, Ellie",
+    "finish_time": "01:28:16",
+    "finish_seconds": 5296
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 405,
+    "name": "Feick, Jill",
+    "finish_time": "01:28:17",
+    "finish_seconds": 5297
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 407,
+    "name": "Meyer, Anke",
+    "finish_time": "01:28:18",
+    "finish_seconds": 5298
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 409,
+    "name": "Solak, Natalia",
+    "finish_time": "01:28:25",
+    "finish_seconds": 5305
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 411,
+    "name": "Schutte, Kimberly",
+    "finish_time": "01:28:27",
+    "finish_seconds": 5307
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 413,
+    "name": "Bowen, Jess",
+    "finish_time": "01:28:37",
+    "finish_seconds": 5317
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 415,
+    "name": "O'Reilly, Sarah",
+    "finish_time": "01:28:42",
+    "finish_seconds": 5322
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 417,
+    "name": "Purtell, Jamieson",
+    "finish_time": "01:28:46",
+    "finish_seconds": 5326
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 419,
+    "name": "Johnson, Hannah",
+    "finish_time": "01:28:49",
+    "finish_seconds": 5329
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 421,
+    "name": "Jacka, Yasmin",
+    "finish_time": "01:28:52",
+    "finish_seconds": 5332
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 423,
+    "name": "frohm, Maggie",
+    "finish_time": "01:29:00",
+    "finish_seconds": 5340
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 425,
+    "name": "Laps, Elyse",
+    "finish_time": "01:29:02",
+    "finish_seconds": 5342
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 427,
+    "name": "Baldi, Andre",
+    "finish_time": "01:29:08",
+    "finish_seconds": 5348
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 429,
+    "name": "Villanueva, Roxana",
+    "finish_time": "01:29:13",
+    "finish_seconds": 5353
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 431,
+    "name": "Domask, Maiah",
+    "finish_time": "01:29:17",
+    "finish_seconds": 5357
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 433,
+    "name": "Heinz, Lucila",
+    "finish_time": "01:29:20",
+    "finish_seconds": 5360
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 435,
+    "name": "Broyd, Sarah",
+    "finish_time": "01:29:24",
+    "finish_seconds": 5364
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 437,
+    "name": "Bruno, Gretchen",
+    "finish_time": "01:29:27",
+    "finish_seconds": 5367
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 439,
+    "name": "Beene Cline, Morgan",
+    "finish_time": "01:29:28",
+    "finish_seconds": 5368
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 441,
+    "name": "Rodriguez, Stephanie",
+    "finish_time": "01:29:32",
+    "finish_seconds": 5372
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 443,
+    "name": "McCullough, Sara",
+    "finish_time": "01:29:32",
+    "finish_seconds": 5372
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 445,
+    "name": "Maher, Maureen",
+    "finish_time": "01:29:37",
+    "finish_seconds": 5377
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 447,
+    "name": "Sanhamel, Nicole",
+    "finish_time": "01:29:40",
+    "finish_seconds": 5380
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 449,
+    "name": "Griffith, Sophia",
+    "finish_time": "01:29:42",
+    "finish_seconds": 5382
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 451,
+    "name": "Sterr, Brooke",
+    "finish_time": "01:29:48",
+    "finish_seconds": 5388
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 453,
+    "name": "Shymkewich, Kayla",
+    "finish_time": "01:29:56",
+    "finish_seconds": 5396
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 455,
+    "name": "Orlando, Dana",
+    "finish_time": "01:29:58",
+    "finish_seconds": 5398
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 457,
+    "name": "Zelenika, Julia",
+    "finish_time": "01:29:59",
+    "finish_seconds": 5399
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 459,
+    "name": "Valenti, Julie",
+    "finish_time": "01:30:04",
+    "finish_seconds": 5404
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 461,
+    "name": "Forsyth, Liana",
+    "finish_time": "01:30:07",
+    "finish_seconds": 5407
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 463,
+    "name": "Nicevski, Lauren",
+    "finish_time": "01:30:07",
+    "finish_seconds": 5407
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 465,
+    "name": "Peele, Emily",
+    "finish_time": "01:30:10",
+    "finish_seconds": 5410
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 467,
+    "name": "Mizerka, Loni",
+    "finish_time": "01:30:12",
+    "finish_seconds": 5412
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 469,
+    "name": "Hollander, Kelsey",
+    "finish_time": "01:30:13",
+    "finish_seconds": 5413
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 471,
+    "name": "Suta, Jennifer",
+    "finish_time": "01:30:15",
+    "finish_seconds": 5415
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 473,
+    "name": "Snyder, Alyse",
+    "finish_time": "01:30:16",
+    "finish_seconds": 5416
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 475,
+    "name": "Brastad, Sidney",
+    "finish_time": "01:30:17",
+    "finish_seconds": 5417
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 477,
+    "name": "Leeper, Bri",
+    "finish_time": "01:30:25",
+    "finish_seconds": 5425
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 479,
+    "name": "Samoylyuk, Olga",
+    "finish_time": "01:30:25",
+    "finish_seconds": 5425
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 481,
+    "name": "Gomez, Michelle",
+    "finish_time": "01:30:31",
+    "finish_seconds": 5431
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 483,
+    "name": "Pringle, Beth",
+    "finish_time": "01:30:36",
+    "finish_seconds": 5436
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 485,
+    "name": "Muren, Mandy",
+    "finish_time": "01:30:39",
+    "finish_seconds": 5439
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 487,
+    "name": "Horschler, Erica",
+    "finish_time": "01:30:46",
+    "finish_seconds": 5446
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 489,
+    "name": "Munoz, Maria",
+    "finish_time": "01:30:48",
+    "finish_seconds": 5448
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 491,
+    "name": "Pickering, Jill",
+    "finish_time": "01:30:49",
+    "finish_seconds": 5449
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 493,
+    "name": "Evans, Shuneen",
+    "finish_time": "01:30:59",
+    "finish_seconds": 5459
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 495,
+    "name": "Eggerichs, Jensen",
+    "finish_time": "01:31:08",
+    "finish_seconds": 5468
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 497,
+    "name": "Willeford, Erica",
+    "finish_time": "01:31:09",
+    "finish_seconds": 5469
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 499,
+    "name": "Stamison, Jill",
+    "finish_time": "01:31:13",
+    "finish_seconds": 5473
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 501,
+    "name": "Campanelli, Britt",
+    "finish_time": "01:31:18",
+    "finish_seconds": 5478
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 503,
+    "name": "Hultberg, Diana",
+    "finish_time": "01:31:20",
+    "finish_seconds": 5480
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 505,
+    "name": "Ikenberry, Logan",
+    "finish_time": "01:31:22",
+    "finish_seconds": 5482
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 507,
+    "name": "Donley, Shawnah",
+    "finish_time": "01:31:24",
+    "finish_seconds": 5484
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 509,
+    "name": "WILLE, SARAH",
+    "finish_time": "01:31:26",
+    "finish_seconds": 5486
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 511,
+    "name": "Torres, Eliana",
+    "finish_time": "01:31:35",
+    "finish_seconds": 5495
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 513,
+    "name": "Le, Anna",
+    "finish_time": "01:31:46",
+    "finish_seconds": 5506
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 515,
+    "name": "Rasoulis, Venice",
+    "finish_time": "01:31:55",
+    "finish_seconds": 5515
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 517,
+    "name": "Brown, Sarah",
+    "finish_time": "01:31:57",
+    "finish_seconds": 5517
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 519,
+    "name": "Shipler, Morgan",
+    "finish_time": "01:32:01",
+    "finish_seconds": 5521
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 521,
+    "name": "Sanders, Amy",
+    "finish_time": "01:32:04",
+    "finish_seconds": 5524
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 523,
+    "name": "Ross, Nora",
+    "finish_time": "01:32:05",
+    "finish_seconds": 5525
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 525,
+    "name": "Capek, Kaitlin",
+    "finish_time": "01:32:07",
+    "finish_seconds": 5527
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 527,
+    "name": "Muche, Halle",
+    "finish_time": "01:32:11",
+    "finish_seconds": 5531
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 529,
+    "name": "Sevilla, Endyth",
+    "finish_time": "01:32:13",
+    "finish_seconds": 5533
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 531,
+    "name": "Wheeland, Caroleen Cea",
+    "finish_time": "01:32:15",
+    "finish_seconds": 5535
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 533,
+    "name": "McCardell, Shannon",
+    "finish_time": "01:32:18",
+    "finish_seconds": 5538
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 535,
+    "name": "Popowitz, Sarah",
+    "finish_time": "01:32:21",
+    "finish_seconds": 5541
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 537,
+    "name": "Pelz, Kendra",
+    "finish_time": "01:32:23",
+    "finish_seconds": 5543
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 539,
+    "name": "Flavin, Tamara",
+    "finish_time": "01:32:26",
+    "finish_seconds": 5546
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 541,
+    "name": "Gertner, Danielle",
+    "finish_time": "01:32:30",
+    "finish_seconds": 5550
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 543,
+    "name": "Hansen, Megan",
+    "finish_time": "01:32:38",
+    "finish_seconds": 5558
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 545,
+    "name": "Laios, Katerina",
+    "finish_time": "01:32:42",
+    "finish_seconds": 5562
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 547,
+    "name": "Kelsey-Schultz, Lisa",
+    "finish_time": "01:32:48",
+    "finish_seconds": 5568
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 549,
+    "name": "Hansen, Shannon",
+    "finish_time": "01:32:50",
+    "finish_seconds": 5570
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 551,
+    "name": "Sheehan, Jessie",
+    "finish_time": "01:32:57",
+    "finish_seconds": 5577
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 553,
+    "name": "Cota, Marcia",
+    "finish_time": "01:33:00",
+    "finish_seconds": 5580
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 555,
+    "name": "Watson, Rachel",
+    "finish_time": "01:33:02",
+    "finish_seconds": 5582
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 557,
+    "name": "Schultz, Elizabeth",
+    "finish_time": "01:33:03",
+    "finish_seconds": 5583
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 559,
+    "name": "Vannatta, Angelica",
+    "finish_time": "01:33:09",
+    "finish_seconds": 5589
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 561,
+    "name": "Weckerly, Kristen",
+    "finish_time": "01:33:11",
+    "finish_seconds": 5591
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 563,
+    "name": "Manser, Amanda",
+    "finish_time": "01:33:12",
+    "finish_seconds": 5592
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 565,
+    "name": "Adamski, Meredith",
+    "finish_time": "01:33:23",
+    "finish_seconds": 5603
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 567,
+    "name": "Riddle, Amy",
+    "finish_time": "01:33:26",
+    "finish_seconds": 5606
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 569,
+    "name": "Schiff, Danielle",
+    "finish_time": "01:33:31",
+    "finish_seconds": 5611
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 571,
+    "name": "Wallace, Julia",
+    "finish_time": "01:33:37",
+    "finish_seconds": 5617
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 573,
+    "name": "Leech, Chanda",
+    "finish_time": "01:33:48",
+    "finish_seconds": 5628
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 575,
+    "name": "Hussey, Hannah",
+    "finish_time": "01:33:50",
+    "finish_seconds": 5630
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 577,
+    "name": "Gruetzmacher, Samantha",
+    "finish_time": "01:33:54",
+    "finish_seconds": 5634
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 579,
+    "name": "Milani, Martina",
+    "finish_time": "01:33:56",
+    "finish_seconds": 5636
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 581,
+    "name": "Buckingham, Sarah",
+    "finish_time": "01:34:01",
+    "finish_seconds": 5641
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 583,
+    "name": "Toribio, Jatnna",
+    "finish_time": "01:34:09",
+    "finish_seconds": 5649
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 585,
+    "name": "Thompson, Christi",
+    "finish_time": "01:34:12",
+    "finish_seconds": 5652
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 587,
+    "name": "Bukauskaite, Migle",
+    "finish_time": "01:34:23",
+    "finish_seconds": 5663
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 589,
+    "name": "Graham, Lyndsey",
+    "finish_time": "01:34:25",
+    "finish_seconds": 5665
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 591,
+    "name": "Thorn, Hannah",
+    "finish_time": "01:34:30",
+    "finish_seconds": 5670
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 593,
+    "name": "Korte, Valarie",
+    "finish_time": "01:34:35",
+    "finish_seconds": 5675
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 595,
+    "name": "Trusewych, Adriana",
+    "finish_time": "01:34:36",
+    "finish_seconds": 5676
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 597,
+    "name": "Novales, Mercedes",
+    "finish_time": "01:34:41",
+    "finish_seconds": 5681
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 599,
+    "name": "Denen, Ivy",
+    "finish_time": "01:34:45",
+    "finish_seconds": 5685
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 601,
+    "name": "Conlon, Jonna",
+    "finish_time": "01:34:48",
+    "finish_seconds": 5688
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 603,
+    "name": "Houghton, Brianna",
+    "finish_time": "01:34:51",
+    "finish_seconds": 5691
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 605,
+    "name": "Traylor, Kay",
+    "finish_time": "01:34:52",
+    "finish_seconds": 5692
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 607,
+    "name": "Dewey, Courtney",
+    "finish_time": "01:34:54",
+    "finish_seconds": 5694
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 609,
+    "name": "Chandler, Catherine",
+    "finish_time": "01:35:01",
+    "finish_seconds": 5701
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 611,
+    "name": "Avelar Pena, Darby",
+    "finish_time": "01:35:07",
+    "finish_seconds": 5707
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 613,
+    "name": "Martin, Andra",
+    "finish_time": "01:35:12",
+    "finish_seconds": 5712
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 615,
+    "name": "Metts-Childers, Rebekah",
+    "finish_time": "01:35:21",
+    "finish_seconds": 5721
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 617,
+    "name": "Patenaude, Andi",
+    "finish_time": "01:35:30",
+    "finish_seconds": 5730
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 619,
+    "name": "Abbott, Ellissa",
+    "finish_time": "01:35:36",
+    "finish_seconds": 5736
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 621,
+    "name": "Alexander, Tasha",
+    "finish_time": "01:35:44",
+    "finish_seconds": 5744
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 623,
+    "name": "Aquino, Viviana",
+    "finish_time": "01:35:46",
+    "finish_seconds": 5746
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 625,
+    "name": "Stefanowski, Sydney",
+    "finish_time": "01:35:49",
+    "finish_seconds": 5749
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 627,
+    "name": "Handlon, Allison",
+    "finish_time": "01:36:03",
+    "finish_seconds": 5763
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 629,
+    "name": "Shea, Lindsay",
+    "finish_time": "01:36:06",
+    "finish_seconds": 5766
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 631,
+    "name": "Peterson, Andrea",
+    "finish_time": "01:36:12",
+    "finish_seconds": 5772
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 633,
+    "name": "Zangs, Jena",
+    "finish_time": "01:36:16",
+    "finish_seconds": 5776
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 635,
+    "name": "Garcia, Heidy",
+    "finish_time": "01:36:25",
+    "finish_seconds": 5785
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 637,
+    "name": "Karm, Heather",
+    "finish_time": "01:36:28",
+    "finish_seconds": 5788
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 639,
+    "name": "Northcraft, Angela",
+    "finish_time": "01:36:30",
+    "finish_seconds": 5790
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 641,
+    "name": "Peck, Maggie",
+    "finish_time": "01:36:33",
+    "finish_seconds": 5793
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 643,
+    "name": "YAMAMOTO, LIZ",
+    "finish_time": "01:36:34",
+    "finish_seconds": 5794
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 645,
+    "name": "Snider, Sophie",
+    "finish_time": "01:36:36",
+    "finish_seconds": 5796
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 647,
+    "name": "Boespflug, Sarah",
+    "finish_time": "01:36:39",
+    "finish_seconds": 5799
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 649,
+    "name": "Bagdon, Brooklyn",
+    "finish_time": "01:36:43",
+    "finish_seconds": 5803
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 651,
+    "name": "Jorgensen, Emily",
+    "finish_time": "01:36:49",
+    "finish_seconds": 5809
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 653,
+    "name": "Stacey, Sydney",
+    "finish_time": "01:36:55",
+    "finish_seconds": 5815
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 655,
+    "name": "Waskom, Alicia",
+    "finish_time": "01:37:01",
+    "finish_seconds": 5821
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 657,
+    "name": "Kerrey, Katie",
+    "finish_time": "01:37:04",
+    "finish_seconds": 5824
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 659,
+    "name": "Young, Leah",
+    "finish_time": "01:37:07",
+    "finish_seconds": 5827
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 661,
+    "name": "Hass, Katie",
+    "finish_time": "01:37:12",
+    "finish_seconds": 5832
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 663,
+    "name": "Regula-Malacha, Monica",
+    "finish_time": "01:37:14",
+    "finish_seconds": 5834
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 665,
+    "name": "Figg, Meaghan",
+    "finish_time": "01:37:25",
+    "finish_seconds": 5845
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 667,
+    "name": "Guldin, Sara",
+    "finish_time": "01:37:26",
+    "finish_seconds": 5846
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 669,
+    "name": "Crosby, Amber",
+    "finish_time": "01:37:34",
+    "finish_seconds": 5854
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 671,
+    "name": "Roh, Hyeryung",
+    "finish_time": "01:37:37",
+    "finish_seconds": 5857
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 673,
+    "name": "Carpenter, Bailee",
+    "finish_time": "01:37:41",
+    "finish_seconds": 5861
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 675,
+    "name": "Tilley, Hannah",
+    "finish_time": "01:37:46",
+    "finish_seconds": 5866
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 677,
+    "name": "Calvillo, Susana",
+    "finish_time": "01:37:52",
+    "finish_seconds": 5872
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 679,
+    "name": "Kirkby, Ashley",
+    "finish_time": "01:37:58",
+    "finish_seconds": 5878
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 681,
+    "name": "Hickey, Lizzy",
+    "finish_time": "01:38:06",
+    "finish_seconds": 5886
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 683,
+    "name": "Taylor, Christy",
+    "finish_time": "01:38:09",
+    "finish_seconds": 5889
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 685,
+    "name": "Alexandres, Julie",
+    "finish_time": "01:38:10",
+    "finish_seconds": 5890
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 687,
+    "name": "Corn, Kenzi",
+    "finish_time": "01:38:12",
+    "finish_seconds": 5892
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 689,
+    "name": "McCullough, Katy",
+    "finish_time": "01:38:14",
+    "finish_seconds": 5894
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 691,
+    "name": "Burns, Jamie",
+    "finish_time": "01:38:16",
+    "finish_seconds": 5896
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 693,
+    "name": "Jesko, Mallory",
+    "finish_time": "01:38:17",
+    "finish_seconds": 5897
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 695,
+    "name": "Ferreyra, Analia",
+    "finish_time": "01:38:21",
+    "finish_seconds": 5901
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 697,
+    "name": "Jacyna, Katie",
+    "finish_time": "01:38:39",
+    "finish_seconds": 5919
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 699,
+    "name": "Cowley, Mckinzie",
+    "finish_time": "01:38:48",
+    "finish_seconds": 5928
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 701,
+    "name": "Barrantes Castillo, Iris Cristina",
+    "finish_time": "01:38:52",
+    "finish_seconds": 5932
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 703,
+    "name": "Casey, Alison",
+    "finish_time": "01:38:53",
+    "finish_seconds": 5933
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 705,
+    "name": "Gurrola, Sandra",
+    "finish_time": "01:38:58",
+    "finish_seconds": 5938
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 707,
+    "name": "Jones, Meghan",
+    "finish_time": "01:39:04",
+    "finish_seconds": 5944
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 709,
+    "name": "Strickland, Allison",
+    "finish_time": "01:39:09",
+    "finish_seconds": 5949
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 711,
+    "name": "Carlisle, Mary",
+    "finish_time": "01:39:15",
+    "finish_seconds": 5955
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 713,
+    "name": "Dastoor, Stacie",
+    "finish_time": "01:39:18",
+    "finish_seconds": 5958
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 715,
+    "name": "Fojas, Michele",
+    "finish_time": "01:39:20",
+    "finish_seconds": 5960
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 717,
+    "name": "Wickersham, Caitlin",
+    "finish_time": "01:39:22",
+    "finish_seconds": 5962
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 719,
+    "name": "Gager, Megan",
+    "finish_time": "01:39:32",
+    "finish_seconds": 5972
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 721,
+    "name": "Moukahal, Hala",
+    "finish_time": "01:39:39",
+    "finish_seconds": 5979
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 723,
+    "name": "Luedtke, Sabrina",
+    "finish_time": "01:39:43",
+    "finish_seconds": 5983
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 725,
+    "name": "Forte, Natalie",
+    "finish_time": "01:39:52",
+    "finish_seconds": 5992
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 727,
+    "name": "Porter, Adrienne",
+    "finish_time": "01:40:00",
+    "finish_seconds": 6000
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 729,
+    "name": "Couch, Nichole",
+    "finish_time": "01:40:07",
+    "finish_seconds": 6007
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 731,
+    "name": "Barnak, Katarzyna",
+    "finish_time": "01:40:09",
+    "finish_seconds": 6009
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 733,
+    "name": "Berillo, Tasha",
+    "finish_time": "01:40:18",
+    "finish_seconds": 6018
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 735,
+    "name": "Macchia, Kari",
+    "finish_time": "01:40:28",
+    "finish_seconds": 6028
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 737,
+    "name": "Smith, Jillian",
+    "finish_time": "01:40:34",
+    "finish_seconds": 6034
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 739,
+    "name": "Cambron, Faye",
+    "finish_time": "01:40:35",
+    "finish_seconds": 6035
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 741,
+    "name": "Garza, Alexia",
+    "finish_time": "01:40:40",
+    "finish_seconds": 6040
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 743,
+    "name": "Andresen, Heidi",
+    "finish_time": "01:40:45",
+    "finish_seconds": 6045
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 745,
+    "name": "Popov, Alysse",
+    "finish_time": "01:40:49",
+    "finish_seconds": 6049
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 747,
+    "name": "Das, Ipsita",
+    "finish_time": "01:40:54",
+    "finish_seconds": 6054
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 749,
+    "name": "Frank, Lauren",
+    "finish_time": "01:40:56",
+    "finish_seconds": 6056
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 751,
+    "name": "Blackwood, Krissy",
+    "finish_time": "01:41:04",
+    "finish_seconds": 6064
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 753,
+    "name": "Van Tuyl, Jenna",
+    "finish_time": "01:41:05",
+    "finish_seconds": 6065
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 755,
+    "name": "Upshaw, Jessica",
+    "finish_time": "01:41:10",
+    "finish_seconds": 6070
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 757,
+    "name": "Suchter, Amanda",
+    "finish_time": "01:41:12",
+    "finish_seconds": 6072
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 759,
+    "name": "Blasing, Melissa",
+    "finish_time": "01:41:22",
+    "finish_seconds": 6082
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 761,
+    "name": "Stuckey, Deidre",
+    "finish_time": "01:41:30",
+    "finish_seconds": 6090
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 763,
+    "name": "Ludy, Tina",
+    "finish_time": "01:41:35",
+    "finish_seconds": 6095
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 765,
+    "name": "Young, laura",
+    "finish_time": "01:41:46",
+    "finish_seconds": 6106
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 767,
+    "name": "Metzler, Lea",
+    "finish_time": "01:41:50",
+    "finish_seconds": 6110
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 769,
+    "name": "Braddock, Jamie",
+    "finish_time": "01:41:58",
+    "finish_seconds": 6118
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 771,
+    "name": "Martin, Shayla",
+    "finish_time": "01:42:04",
+    "finish_seconds": 6124
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 773,
+    "name": "Laswell, Alicia",
+    "finish_time": "01:42:07",
+    "finish_seconds": 6127
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 775,
+    "name": "Wojcik, Kristine",
+    "finish_time": "01:42:15",
+    "finish_seconds": 6135
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 777,
+    "name": "Reifsnyder, Jennifer",
+    "finish_time": "01:42:16",
+    "finish_seconds": 6136
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 779,
+    "name": "Gordon, Meredith",
+    "finish_time": "01:42:29",
+    "finish_seconds": 6149
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 781,
+    "name": "Miller, Tasha",
+    "finish_time": "01:42:33",
+    "finish_seconds": 6153
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 783,
+    "name": "Ring, Elizabeth",
+    "finish_time": "01:42:35",
+    "finish_seconds": 6155
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 785,
+    "name": "Dymek, Faith",
+    "finish_time": "01:42:50",
+    "finish_seconds": 6170
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 787,
+    "name": "Clegg, Sarah",
+    "finish_time": "01:43:02",
+    "finish_seconds": 6182
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 789,
+    "name": "Meyer, Kayla",
+    "finish_time": "01:43:11",
+    "finish_seconds": 6191
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 791,
+    "name": "Zimmerman, Heather",
+    "finish_time": "01:43:16",
+    "finish_seconds": 6196
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 793,
+    "name": "Crane, Emma",
+    "finish_time": "01:43:26",
+    "finish_seconds": 6206
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 795,
+    "name": "Sanders, Melissa",
+    "finish_time": "01:43:32",
+    "finish_seconds": 6212
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 797,
+    "name": "Pratt, Mary",
+    "finish_time": "01:43:34",
+    "finish_seconds": 6214
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 799,
+    "name": "Wellenreiter, Destiny",
+    "finish_time": "01:43:35",
+    "finish_seconds": 6215
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 801,
+    "name": "Dodd, Rebecca",
+    "finish_time": "01:43:41",
+    "finish_seconds": 6221
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 803,
+    "name": "Warfield, Jordan",
+    "finish_time": "01:43:45",
+    "finish_seconds": 6225
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 805,
+    "name": "Seaman, Hilary",
+    "finish_time": "01:43:48",
+    "finish_seconds": 6228
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 807,
+    "name": "Rangel, Carrie",
+    "finish_time": "01:43:49",
+    "finish_seconds": 6229
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 809,
+    "name": "Golding, Caroline",
+    "finish_time": "01:43:57",
+    "finish_seconds": 6237
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 811,
+    "name": "Rhine, Joy",
+    "finish_time": "01:44:00",
+    "finish_seconds": 6240
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 813,
+    "name": "Hildebrand, Rebecca",
+    "finish_time": "01:44:04",
+    "finish_seconds": 6244
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 815,
+    "name": "Kawa, Rachel",
+    "finish_time": "01:44:12",
+    "finish_seconds": 6252
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 817,
+    "name": "Drost, Alyson",
+    "finish_time": "01:44:24",
+    "finish_seconds": 6264
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 819,
+    "name": "Parkhurst, Heidi",
+    "finish_time": "01:44:34",
+    "finish_seconds": 6274
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 821,
+    "name": "Zissler, Erin",
+    "finish_time": "01:44:40",
+    "finish_seconds": 6280
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 823,
+    "name": "Chollette, Julienne",
+    "finish_time": "01:44:53",
+    "finish_seconds": 6293
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 825,
+    "name": "Cook, Alicia",
+    "finish_time": "01:45:00",
+    "finish_seconds": 6300
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 827,
+    "name": "Schmidt, Alexa",
+    "finish_time": "01:45:03",
+    "finish_seconds": 6303
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 829,
+    "name": "Noah, Peyton",
+    "finish_time": "01:45:08",
+    "finish_seconds": 6308
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 831,
+    "name": "Rato, Mary",
+    "finish_time": "01:45:15",
+    "finish_seconds": 6315
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 833,
+    "name": "Kelly, Katherine",
+    "finish_time": "01:45:29",
+    "finish_seconds": 6329
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 835,
+    "name": "Liang, Edith",
+    "finish_time": "01:45:32",
+    "finish_seconds": 6332
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 837,
+    "name": "Schueppert, Emma",
+    "finish_time": "01:45:33",
+    "finish_seconds": 6333
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 839,
+    "name": "Hernandez-Solis, Lea",
+    "finish_time": "01:45:45",
+    "finish_seconds": 6345
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 841,
+    "name": "Ladisa, Casey",
+    "finish_time": "01:45:54",
+    "finish_seconds": 6354
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 843,
+    "name": "Stern, Alicia",
+    "finish_time": "01:45:57",
+    "finish_seconds": 6357
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 845,
+    "name": "Gabel, Erica",
+    "finish_time": "01:46:01",
+    "finish_seconds": 6361
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 847,
+    "name": "Riley, Emily",
+    "finish_time": "01:46:05",
+    "finish_seconds": 6365
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 849,
+    "name": "Gordon, Isobella",
+    "finish_time": "01:46:15",
+    "finish_seconds": 6375
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 851,
+    "name": "Streich, Kelsi",
+    "finish_time": "01:46:21",
+    "finish_seconds": 6381
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 853,
+    "name": "Patel, Kiran",
+    "finish_time": "01:46:23",
+    "finish_seconds": 6383
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 855,
+    "name": "Riesselman, Cecely",
+    "finish_time": "01:46:33",
+    "finish_seconds": 6393
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 857,
+    "name": "Nichols, Emily",
+    "finish_time": "01:46:40",
+    "finish_seconds": 6400
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 859,
+    "name": "Schneider, Liz",
+    "finish_time": "01:46:42",
+    "finish_seconds": 6402
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 861,
+    "name": "Pfeifer, Dafne",
+    "finish_time": "01:46:48",
+    "finish_seconds": 6408
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 863,
+    "name": "Barre, Maureen",
+    "finish_time": "01:47:02",
+    "finish_seconds": 6422
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 865,
+    "name": "Gutierrez, Alexa",
+    "finish_time": "01:47:06",
+    "finish_seconds": 6426
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 867,
+    "name": "Schutt Beckman, Abby",
+    "finish_time": "01:47:10",
+    "finish_seconds": 6430
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 869,
+    "name": "Underwood, Emily",
+    "finish_time": "01:47:19",
+    "finish_seconds": 6439
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 871,
+    "name": "Morris, Vanessa J",
+    "finish_time": "01:47:27",
+    "finish_seconds": 6447
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 873,
+    "name": "Jiratawatchai, Supaporn Patty",
+    "finish_time": "01:47:33",
+    "finish_seconds": 6453
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 875,
+    "name": "Boyd, Malia",
+    "finish_time": "01:47:34",
+    "finish_seconds": 6454
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 877,
+    "name": "Polintan, Janique",
+    "finish_time": "01:47:40",
+    "finish_seconds": 6460
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 879,
+    "name": "Dillow, Mercedes",
+    "finish_time": "01:47:52",
+    "finish_seconds": 6472
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 881,
+    "name": "Alukic, Michelle",
+    "finish_time": "01:47:56",
+    "finish_seconds": 6476
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 883,
+    "name": "Lin, Alisa",
+    "finish_time": "01:48:04",
+    "finish_seconds": 6484
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 885,
+    "name": "Ferrell, Emma",
+    "finish_time": "01:48:13",
+    "finish_seconds": 6493
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 887,
+    "name": "McCloskey, Ashley",
+    "finish_time": "01:48:27",
+    "finish_seconds": 6507
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 889,
+    "name": "Harriman, Megan",
+    "finish_time": "01:48:38",
+    "finish_seconds": 6518
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 891,
+    "name": "Sanchez, Monica",
+    "finish_time": "01:48:41",
+    "finish_seconds": 6521
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 893,
+    "name": "Smith, Elizabeth",
+    "finish_time": "01:48:45",
+    "finish_seconds": 6525
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 895,
+    "name": "McKechnie, Heather",
+    "finish_time": "01:48:45",
+    "finish_seconds": 6525
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 897,
+    "name": "Hamm, Heidi",
+    "finish_time": "01:48:50",
+    "finish_seconds": 6530
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 899,
+    "name": "Wood, Alyssa",
+    "finish_time": "01:49:01",
+    "finish_seconds": 6541
+  },
+  {
+    "venue": "2025 Chicago",
+    "gender": "W",
+    "rank": 901,
+    "name": "micha, trinity",
+    "finish_time": "01:49:05",
+    "finish_seconds": 6545
+  }
+]

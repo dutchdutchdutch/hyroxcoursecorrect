@@ -1,0 +1,1586 @@
+[
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 1,
+    "name": "Geisel, Sebastian",
+    "finish_time": "01:02:54",
+    "finish_seconds": 3774
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 3,
+    "name": "Fernandes, Marcus",
+    "finish_time": "01:05:20",
+    "finish_seconds": 3920
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 5,
+    "name": "Costa, Jeferson",
+    "finish_time": "01:07:45",
+    "finish_seconds": 4065
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 7,
+    "name": "Martinez, Manuel",
+    "finish_time": "01:08:33",
+    "finish_seconds": 4113
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 9,
+    "name": "Nakadaira, Guilherme",
+    "finish_time": "01:10:13",
+    "finish_seconds": 4213
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 11,
+    "name": "Merlin, Augustin",
+    "finish_time": "01:11:17",
+    "finish_seconds": 4277
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 13,
+    "name": "Guardini, Thiago",
+    "finish_time": "01:11:46",
+    "finish_seconds": 4306
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 15,
+    "name": "Barros, Carlos",
+    "finish_time": "01:12:06",
+    "finish_seconds": 4326
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 17,
+    "name": "Dornellas, Leandro",
+    "finish_time": "01:12:18",
+    "finish_seconds": 4338
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 19,
+    "name": "Gouveia, Axel",
+    "finish_time": "01:13:05",
+    "finish_seconds": 4385
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 21,
+    "name": "Mota, C\u00e1ssio",
+    "finish_time": "01:13:09",
+    "finish_seconds": 4389
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 23,
+    "name": "Scheffer, Rodrigo",
+    "finish_time": "01:13:24",
+    "finish_seconds": 4404
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 25,
+    "name": "Henrique, Andr\u00e9",
+    "finish_time": "01:13:42",
+    "finish_seconds": 4422
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 27,
+    "name": "Rocha, Bruno",
+    "finish_time": "01:14:15",
+    "finish_seconds": 4455
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 29,
+    "name": "Jara Cordero, Erick Jhonson",
+    "finish_time": "01:14:17",
+    "finish_seconds": 4457
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 31,
+    "name": "Bessa, Brendo",
+    "finish_time": "01:14:40",
+    "finish_seconds": 4480
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 33,
+    "name": "Aquino De Souza, Egon Felipe",
+    "finish_time": "01:15:13",
+    "finish_seconds": 4513
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 35,
+    "name": "Reis, F\u00e1bio",
+    "finish_time": "01:15:57",
+    "finish_seconds": 4557
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 37,
+    "name": "Moncada, Martin",
+    "finish_time": "01:16:03",
+    "finish_seconds": 4563
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 39,
+    "name": "Lemos, Gustavo",
+    "finish_time": "01:16:32",
+    "finish_seconds": 4592
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 41,
+    "name": "Caliaro, F\u00e1bio",
+    "finish_time": "01:16:54",
+    "finish_seconds": 4614
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 43,
+    "name": "Hamzeh, Matt",
+    "finish_time": "01:16:57",
+    "finish_seconds": 4617
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 45,
+    "name": "Sacco, Wandemberg",
+    "finish_time": "01:17:11",
+    "finish_seconds": 4631
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 47,
+    "name": "Collard, Toby",
+    "finish_time": "01:17:18",
+    "finish_seconds": 4638
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 49,
+    "name": "Geara, Marcelo",
+    "finish_time": "01:17:23",
+    "finish_seconds": 4643
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 51,
+    "name": "Forrest, Kevin",
+    "finish_time": "01:17:36",
+    "finish_seconds": 4656
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 53,
+    "name": "Assis, Guilherme",
+    "finish_time": "01:17:53",
+    "finish_seconds": 4673
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 55,
+    "name": "Alves, Waltamir",
+    "finish_time": "01:18:21",
+    "finish_seconds": 4701
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 57,
+    "name": "Araldi, Flavio",
+    "finish_time": "01:18:28",
+    "finish_seconds": 4708
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 59,
+    "name": "Saad Neto, Mario Abdalla",
+    "finish_time": "01:18:48",
+    "finish_seconds": 4728
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 61,
+    "name": "Su\u00e1rez, Santiago",
+    "finish_time": "01:19:20",
+    "finish_seconds": 4760
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 63,
+    "name": "Andrade Sant' Anna Santos, Caio",
+    "finish_time": "01:19:24",
+    "finish_seconds": 4764
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 65,
+    "name": "Carrijo, Gabriel",
+    "finish_time": "01:19:31",
+    "finish_seconds": 4771
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 67,
+    "name": "Matos, Luan",
+    "finish_time": "01:19:41",
+    "finish_seconds": 4781
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 69,
+    "name": "Tavares, Igor",
+    "finish_time": "01:19:55",
+    "finish_seconds": 4795
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 71,
+    "name": "Laquale, Thiago",
+    "finish_time": "01:19:58",
+    "finish_seconds": 4798
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 73,
+    "name": "Silva, Richard",
+    "finish_time": "01:20:09",
+    "finish_seconds": 4809
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 75,
+    "name": "Romero, Pablo",
+    "finish_time": "01:20:34",
+    "finish_seconds": 4834
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 77,
+    "name": "Cardoso, Fl\u00e1vio",
+    "finish_time": "01:21:00",
+    "finish_seconds": 4860
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 79,
+    "name": "S\u00e1nchez, Carlos",
+    "finish_time": "01:21:06",
+    "finish_seconds": 4866
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 81,
+    "name": "Teixeira, Laercio",
+    "finish_time": "01:21:16",
+    "finish_seconds": 4876
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 83,
+    "name": "Font\u00e3o, Thiago",
+    "finish_time": "01:21:22",
+    "finish_seconds": 4882
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 85,
+    "name": "Oliveira, Wilker",
+    "finish_time": "01:21:24",
+    "finish_seconds": 4884
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 87,
+    "name": "Calderon, Ricardo",
+    "finish_time": "01:21:28",
+    "finish_seconds": 4888
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 89,
+    "name": "Oliveira, Luiz Fernando",
+    "finish_time": "01:21:50",
+    "finish_seconds": 4910
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 91,
+    "name": "Candido Evangelista Da Silva, Henrique",
+    "finish_time": "01:21:58",
+    "finish_seconds": 4918
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 93,
+    "name": "De Bolba, Cassio",
+    "finish_time": "01:22:37",
+    "finish_seconds": 4957
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 95,
+    "name": "Pezenti, Rodrigo",
+    "finish_time": "01:22:49",
+    "finish_seconds": 4969
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 97,
+    "name": "Reis, Vinicius",
+    "finish_time": "01:22:51",
+    "finish_seconds": 4971
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 99,
+    "name": "Dos Santos, Rafael Rosino",
+    "finish_time": "01:23:08",
+    "finish_seconds": 4988
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 101,
+    "name": "Sepulveda, Eduardo",
+    "finish_time": "01:23:19",
+    "finish_seconds": 4999
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 103,
+    "name": "Domenes, Rodrigo",
+    "finish_time": "01:23:27",
+    "finish_seconds": 5007
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 105,
+    "name": "Sieburth, Dannyel",
+    "finish_time": "01:23:37",
+    "finish_seconds": 5017
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 107,
+    "name": "Da Dalto, Rafael",
+    "finish_time": "01:23:41",
+    "finish_seconds": 5021
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 109,
+    "name": "Azevedo, Macus",
+    "finish_time": "01:23:48",
+    "finish_seconds": 5028
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 111,
+    "name": "Klebis, Diogo",
+    "finish_time": "01:23:50",
+    "finish_seconds": 5030
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 113,
+    "name": "Zagallo, Tiago",
+    "finish_time": "01:23:55",
+    "finish_seconds": 5035
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 115,
+    "name": "Martinelli, Weverton",
+    "finish_time": "01:24:02",
+    "finish_seconds": 5042
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 117,
+    "name": "Vaz, Ademilton",
+    "finish_time": "01:24:08",
+    "finish_seconds": 5048
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 119,
+    "name": "J\u00fanior, Amarildo",
+    "finish_time": "01:24:09",
+    "finish_seconds": 5049
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 121,
+    "name": "Ardachnikoff, Vitor",
+    "finish_time": "01:24:17",
+    "finish_seconds": 5057
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 123,
+    "name": "Luis, Howard",
+    "finish_time": "01:24:28",
+    "finish_seconds": 5068
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 125,
+    "name": "Cesar Chaves Da Cruz, Paulo",
+    "finish_time": "01:24:41",
+    "finish_seconds": 5081
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 127,
+    "name": "Amazonas, Ricardo",
+    "finish_time": "01:25:07",
+    "finish_seconds": 5107
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 129,
+    "name": "Martins, Pedro",
+    "finish_time": "01:25:14",
+    "finish_seconds": 5114
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 131,
+    "name": "French, Gavin",
+    "finish_time": "01:25:24",
+    "finish_seconds": 5124
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 133,
+    "name": "Wolicki, Patrick",
+    "finish_time": "01:25:30",
+    "finish_seconds": 5130
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 135,
+    "name": "Figueira De Oliveira, Caio",
+    "finish_time": "01:25:36",
+    "finish_seconds": 5136
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 137,
+    "name": "Vicente, Gabriel",
+    "finish_time": "01:25:54",
+    "finish_seconds": 5154
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 139,
+    "name": "Cacuro, Gabriel",
+    "finish_time": "01:26:00",
+    "finish_seconds": 5160
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 141,
+    "name": "Modesto, Renan",
+    "finish_time": "01:26:05",
+    "finish_seconds": 5165
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 143,
+    "name": "Costa Da Silva, Andre",
+    "finish_time": "01:26:14",
+    "finish_seconds": 5174
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 145,
+    "name": "Mariano Dos Santos, Marcelo",
+    "finish_time": "01:26:23",
+    "finish_seconds": 5183
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 147,
+    "name": "Belem, Renan",
+    "finish_time": "01:26:30",
+    "finish_seconds": 5190
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 149,
+    "name": "Rodrigues, Julcimar",
+    "finish_time": "01:26:45",
+    "finish_seconds": 5205
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 151,
+    "name": "Oliveira, Michel",
+    "finish_time": "01:26:57",
+    "finish_seconds": 5217
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 153,
+    "name": "Santos, Felipe",
+    "finish_time": "01:27:16",
+    "finish_seconds": 5236
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 155,
+    "name": "Ciriaco, Alistarles",
+    "finish_time": "01:27:27",
+    "finish_seconds": 5247
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 157,
+    "name": "Oliveira, Daniel",
+    "finish_time": "01:27:31",
+    "finish_seconds": 5251
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 159,
+    "name": "Sena, Arthur",
+    "finish_time": "01:27:36",
+    "finish_seconds": 5256
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 161,
+    "name": "Mada, Rafael",
+    "finish_time": "01:27:42",
+    "finish_seconds": 5262
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 163,
+    "name": "Franceschet, J\u00falio",
+    "finish_time": "01:27:49",
+    "finish_seconds": 5269
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 165,
+    "name": "Chirico, Gabriel",
+    "finish_time": "01:28:06",
+    "finish_seconds": 5286
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 167,
+    "name": "Boeira, Leandro",
+    "finish_time": "01:28:15",
+    "finish_seconds": 5295
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 169,
+    "name": "Andreo, Rodrigo",
+    "finish_time": "01:28:29",
+    "finish_seconds": 5309
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 171,
+    "name": "Vieira Maciel, Lu\u00eds Paulo",
+    "finish_time": "01:28:47",
+    "finish_seconds": 5327
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 173,
+    "name": "Sim\u00e3o Da Silva Junior, Josinaldo",
+    "finish_time": "01:29:01",
+    "finish_seconds": 5341
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 175,
+    "name": "Cohen Salles, Daniel",
+    "finish_time": "01:29:12",
+    "finish_seconds": 5352
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 177,
+    "name": "Sampaio Moreira, Michel",
+    "finish_time": "01:29:15",
+    "finish_seconds": 5355
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 179,
+    "name": "Braile Cunha, Rafael",
+    "finish_time": "01:29:21",
+    "finish_seconds": 5361
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 181,
+    "name": "Kenji, Guilherme",
+    "finish_time": "01:29:51",
+    "finish_seconds": 5391
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 183,
+    "name": "Gomes, Artur",
+    "finish_time": "01:30:02",
+    "finish_seconds": 5402
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 185,
+    "name": "Garnica, Guilherme",
+    "finish_time": "01:30:16",
+    "finish_seconds": 5416
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 187,
+    "name": "Costa, Bernardo",
+    "finish_time": "01:30:43",
+    "finish_seconds": 5443
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 189,
+    "name": "Dias, Lucas",
+    "finish_time": "01:30:47",
+    "finish_seconds": 5447
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 191,
+    "name": "Alves Camargo, Diego",
+    "finish_time": "01:31:03",
+    "finish_seconds": 5463
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 193,
+    "name": "Mathias, Gabriel",
+    "finish_time": "01:31:14",
+    "finish_seconds": 5474
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 195,
+    "name": "Gimenes, Deyvis",
+    "finish_time": "01:31:20",
+    "finish_seconds": 5480
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 197,
+    "name": "De Mayrinck, Raphael",
+    "finish_time": "01:31:33",
+    "finish_seconds": 5493
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 199,
+    "name": "Ishii, Kohei",
+    "finish_time": "01:31:38",
+    "finish_seconds": 5498
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 201,
+    "name": "Rojz, Andr\u00e9",
+    "finish_time": "01:31:49",
+    "finish_seconds": 5509
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 203,
+    "name": "Pietri, Erick",
+    "finish_time": "01:32:00",
+    "finish_seconds": 5520
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 205,
+    "name": "Spruce, Samuel",
+    "finish_time": "01:32:11",
+    "finish_seconds": 5531
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 207,
+    "name": "Mello, Jo\u00e3o",
+    "finish_time": "01:32:26",
+    "finish_seconds": 5546
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 209,
+    "name": "Machado, Leonardo",
+    "finish_time": "01:32:47",
+    "finish_seconds": 5567
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 211,
+    "name": "Lima, Guilherme Henrique",
+    "finish_time": "01:32:57",
+    "finish_seconds": 5577
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 213,
+    "name": "Coelho, Rafael",
+    "finish_time": "01:33:13",
+    "finish_seconds": 5593
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 215,
+    "name": "Faria, Dimas",
+    "finish_time": "01:33:20",
+    "finish_seconds": 5600
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 217,
+    "name": "Gimenez Ramos, Guilherme",
+    "finish_time": "01:33:27",
+    "finish_seconds": 5607
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 219,
+    "name": "Chu, Renato",
+    "finish_time": "01:33:42",
+    "finish_seconds": 5622
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 221,
+    "name": "Sobral, Guilherme",
+    "finish_time": "01:33:52",
+    "finish_seconds": 5632
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 223,
+    "name": "Garcia Caballero, Jonathan",
+    "finish_time": "01:34:10",
+    "finish_seconds": 5650
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 225,
+    "name": "Oliveira, Leandro",
+    "finish_time": "01:34:26",
+    "finish_seconds": 5666
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 227,
+    "name": "Resende, Vitor",
+    "finish_time": "01:34:44",
+    "finish_seconds": 5684
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 229,
+    "name": "Jos\u00e9 Teixeira, Marcio",
+    "finish_time": "01:35:07",
+    "finish_seconds": 5707
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 231,
+    "name": "Marmello Bahia, Igor",
+    "finish_time": "01:35:38",
+    "finish_seconds": 5738
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 233,
+    "name": "Diniz, Eduardo",
+    "finish_time": "01:36:05",
+    "finish_seconds": 5765
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 235,
+    "name": "Yabu, Guilherme",
+    "finish_time": "01:36:25",
+    "finish_seconds": 5785
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 237,
+    "name": "Cof, Sebastjan",
+    "finish_time": "01:36:34",
+    "finish_seconds": 5794
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 239,
+    "name": "Prado Carvalho Arantes, Juliano",
+    "finish_time": "01:36:57",
+    "finish_seconds": 5817
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 241,
+    "name": "Mojica, Luis",
+    "finish_time": "01:37:14",
+    "finish_seconds": 5834
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 243,
+    "name": "Eid, Ricardo",
+    "finish_time": "01:37:19",
+    "finish_seconds": 5839
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 245,
+    "name": "Val\u00e9rio, Leonardo",
+    "finish_time": "01:37:35",
+    "finish_seconds": 5855
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 247,
+    "name": "Junior, Franco",
+    "finish_time": "01:37:38",
+    "finish_seconds": 5858
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 249,
+    "name": "Vieira, Diogo",
+    "finish_time": "01:37:53",
+    "finish_seconds": 5873
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 251,
+    "name": "Rodrigues Azevedo, Evandro",
+    "finish_time": "01:38:11",
+    "finish_seconds": 5891
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 253,
+    "name": "Del Fabro, Vin\u00edcius",
+    "finish_time": "01:38:22",
+    "finish_seconds": 5902
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 255,
+    "name": "Teixeira De Almeida, Maicon",
+    "finish_time": "01:38:35",
+    "finish_seconds": 5915
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 257,
+    "name": "Reis De Oliveira, Daniel",
+    "finish_time": "01:38:41",
+    "finish_seconds": 5921
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 259,
+    "name": "Melo, Daniel",
+    "finish_time": "01:38:54",
+    "finish_seconds": 5934
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 261,
+    "name": "Ferreira, Elison",
+    "finish_time": "01:39:14",
+    "finish_seconds": 5954
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 263,
+    "name": "Alves, Eduardo",
+    "finish_time": "01:39:25",
+    "finish_seconds": 5965
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 265,
+    "name": "Meireles, Paulo",
+    "finish_time": "01:40:31",
+    "finish_seconds": 6031
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 267,
+    "name": "Palhares Lopes Dos Santos, Pedro Henrique",
+    "finish_time": "01:40:57",
+    "finish_seconds": 6057
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 269,
+    "name": "Fechine, Fabio",
+    "finish_time": "01:41:08",
+    "finish_seconds": 6068
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 271,
+    "name": "Mascena De Medeiros, Emmanuel",
+    "finish_time": "01:41:28",
+    "finish_seconds": 6088
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 273,
+    "name": "Rodrigues, Andrei Luiz",
+    "finish_time": "01:41:38",
+    "finish_seconds": 6098
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 275,
+    "name": "Pereira Stefani, Guilherme",
+    "finish_time": "01:41:46",
+    "finish_seconds": 6106
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 277,
+    "name": "Kawakami, Daniel",
+    "finish_time": "01:41:53",
+    "finish_seconds": 6113
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 279,
+    "name": "Branco, Gabriel",
+    "finish_time": "01:41:57",
+    "finish_seconds": 6117
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 281,
+    "name": "Pereira, Wagner",
+    "finish_time": "01:42:08",
+    "finish_seconds": 6128
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 283,
+    "name": "Tauan, Gabriel",
+    "finish_time": "01:42:34",
+    "finish_seconds": 6154
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 285,
+    "name": "Santos Dutra, Luciano",
+    "finish_time": "01:43:04",
+    "finish_seconds": 6184
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 287,
+    "name": "Silva, Lucas",
+    "finish_time": "01:43:18",
+    "finish_seconds": 6198
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 289,
+    "name": "Barranco, Lionel",
+    "finish_time": "01:43:39",
+    "finish_seconds": 6219
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 291,
+    "name": "Miguel, Matheus",
+    "finish_time": "01:44:16",
+    "finish_seconds": 6256
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 293,
+    "name": "Malacrida Dare, Paulo Rogerio",
+    "finish_time": "01:44:18",
+    "finish_seconds": 6258
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 295,
+    "name": "Dias, Lucas",
+    "finish_time": "01:44:46",
+    "finish_seconds": 6286
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 297,
+    "name": "Laurent, Guillaume",
+    "finish_time": "01:44:52",
+    "finish_seconds": 6292
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 299,
+    "name": "Branco, F\u00e1bio",
+    "finish_time": "01:45:01",
+    "finish_seconds": 6301
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 301,
+    "name": "Dionysio, Ivan Depoian",
+    "finish_time": "01:45:10",
+    "finish_seconds": 6310
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 303,
+    "name": "Lozeiro De Araujo Junior, Wilsomar",
+    "finish_time": "01:45:18",
+    "finish_seconds": 6318
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "M",
+    "rank": 305,
+    "name": "Zanetti, Felipe",
+    "finish_time": "01:45:35",
+    "finish_seconds": 6335
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 1,
+    "name": "Vergara, Carola",
+    "finish_time": "01:12:25",
+    "finish_seconds": 4345
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 3,
+    "name": "Heran Arce, Camila",
+    "finish_time": "01:15:31",
+    "finish_seconds": 4531
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 5,
+    "name": "Duarte Lopes, Bruna",
+    "finish_time": "01:16:58",
+    "finish_seconds": 4618
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 7,
+    "name": "Amaral, Neila",
+    "finish_time": "01:17:06",
+    "finish_seconds": 4626
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 9,
+    "name": "Balcarze, Mariana",
+    "finish_time": "01:18:44",
+    "finish_seconds": 4724
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 11,
+    "name": "Costa Torres, Fernanda Kelly",
+    "finish_time": "01:18:49",
+    "finish_seconds": 4729
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 13,
+    "name": "Zanom, Andreza",
+    "finish_time": "01:19:48",
+    "finish_seconds": 4788
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 15,
+    "name": "Gurtner, Janaya",
+    "finish_time": "01:20:29",
+    "finish_seconds": 4829
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 17,
+    "name": "Franke, Andrea",
+    "finish_time": "01:22:29",
+    "finish_seconds": 4949
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 19,
+    "name": "Paulino, Marisa",
+    "finish_time": "01:23:16",
+    "finish_seconds": 4996
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 21,
+    "name": "Aguila, Adriana",
+    "finish_time": "01:23:51",
+    "finish_seconds": 5031
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 23,
+    "name": "Moreno, Paula",
+    "finish_time": "01:24:28",
+    "finish_seconds": 5068
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 25,
+    "name": "Silva, Louane",
+    "finish_time": "01:24:39",
+    "finish_seconds": 5079
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 27,
+    "name": "Tavares, Myllena",
+    "finish_time": "01:25:21",
+    "finish_seconds": 5121
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 29,
+    "name": "Luz, Patricia",
+    "finish_time": "01:25:42",
+    "finish_seconds": 5142
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 31,
+    "name": "Konrath, Roberta",
+    "finish_time": "01:27:44",
+    "finish_seconds": 5264
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 33,
+    "name": "Paco, Flora",
+    "finish_time": "01:27:58",
+    "finish_seconds": 5278
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 35,
+    "name": "Tozetto De Carvalho, Renata",
+    "finish_time": "01:28:45",
+    "finish_seconds": 5325
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 37,
+    "name": "Zagallo, Adriana",
+    "finish_time": "01:29:20",
+    "finish_seconds": 5360
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 39,
+    "name": "Santos, Priscilinha",
+    "finish_time": "01:30:45",
+    "finish_seconds": 5445
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 41,
+    "name": "Corr\u00eaa, Mariana",
+    "finish_time": "01:32:31",
+    "finish_seconds": 5551
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 43,
+    "name": "Torrealba, Francys",
+    "finish_time": "01:33:00",
+    "finish_seconds": 5580
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 45,
+    "name": "Blazute, Fernanda",
+    "finish_time": "01:33:33",
+    "finish_seconds": 5613
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 47,
+    "name": "Leveque, Bernice",
+    "finish_time": "01:33:51",
+    "finish_seconds": 5631
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 49,
+    "name": "Baigorria, Alejandra",
+    "finish_time": "01:34:14",
+    "finish_seconds": 5654
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 51,
+    "name": "Galvez, Sofia",
+    "finish_time": "01:34:25",
+    "finish_seconds": 5665
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 53,
+    "name": "Tomazoni, Juliane",
+    "finish_time": "01:34:48",
+    "finish_seconds": 5688
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 55,
+    "name": "Diamantino, Mariana",
+    "finish_time": "01:35:15",
+    "finish_seconds": 5715
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 57,
+    "name": "Mu\u00f1oz, Kathy",
+    "finish_time": "01:37:02",
+    "finish_seconds": 5822
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 59,
+    "name": "Circelli, Ariadine",
+    "finish_time": "01:37:48",
+    "finish_seconds": 5868
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 61,
+    "name": "Cezar, Renata",
+    "finish_time": "01:39:39",
+    "finish_seconds": 5979
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 63,
+    "name": "Ilidia De Almeida Silva, Milena",
+    "finish_time": "01:40:45",
+    "finish_seconds": 6045
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 65,
+    "name": "Ribeiro, Fabiana",
+    "finish_time": "01:41:16",
+    "finish_seconds": 6076
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 67,
+    "name": "Santo, Lila",
+    "finish_time": "01:41:57",
+    "finish_seconds": 6117
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 69,
+    "name": "Triebess, Isabella",
+    "finish_time": "01:42:49",
+    "finish_seconds": 6169
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 71,
+    "name": "Silva, Manuela",
+    "finish_time": "01:43:54",
+    "finish_seconds": 6234
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 73,
+    "name": "Alex, Anna Lena",
+    "finish_time": "01:44:45",
+    "finish_seconds": 6285
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 75,
+    "name": "Dias, Camila",
+    "finish_time": "01:45:26",
+    "finish_seconds": 6326
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 77,
+    "name": "Amaral, Renata",
+    "finish_time": "01:45:57",
+    "finish_seconds": 6357
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 79,
+    "name": "Fernandes De Sousa, Janiamar",
+    "finish_time": "01:47:18",
+    "finish_seconds": 6438
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 81,
+    "name": "Uemura, Miriam",
+    "finish_time": "01:48:03",
+    "finish_seconds": 6483
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 83,
+    "name": "Soares Di Pompo Assayag, Luciana",
+    "finish_time": "01:48:47",
+    "finish_seconds": 6527
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 85,
+    "name": "Duval, Caroline",
+    "finish_time": "01:49:24",
+    "finish_seconds": 6564
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 87,
+    "name": "Helmer, Gabriella",
+    "finish_time": "01:50:39",
+    "finish_seconds": 6639
+  },
+  {
+    "venue": "2025 Sao Paulo",
+    "gender": "W",
+    "rank": 89,
+    "name": "Carvajal, Maria Jose",
+    "finish_time": "01:51:27",
+    "finish_seconds": 6687
+  }
+]

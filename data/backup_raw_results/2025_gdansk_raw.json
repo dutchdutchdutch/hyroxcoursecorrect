@@ -1,0 +1,3474 @@
+[
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 1,
+    "name": "Jarczok, Bartosz",
+    "finish_time": "00:56:46",
+    "finish_seconds": 3406
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 3,
+    "name": "Roberts, Toby",
+    "finish_time": "00:58:17",
+    "finish_seconds": 3497
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 5,
+    "name": "G\u0105sior, Maksymilian",
+    "finish_time": "00:59:29",
+    "finish_seconds": 3569
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 7,
+    "name": "O'Halloran, Phil",
+    "finish_time": "01:01:48",
+    "finish_seconds": 3708
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 9,
+    "name": "Tomczyk, Piotr",
+    "finish_time": "01:02:19",
+    "finish_seconds": 3739
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 11,
+    "name": "McCarthy, Sean",
+    "finish_time": "01:02:45",
+    "finish_seconds": 3765
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 13,
+    "name": "Roberts, Jordan",
+    "finish_time": "01:03:07",
+    "finish_seconds": 3787
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 15,
+    "name": "Edstr\u00f6m, Alexander",
+    "finish_time": "01:03:21",
+    "finish_seconds": 3801
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 17,
+    "name": "Marko, Tomash",
+    "finish_time": "01:04:04",
+    "finish_seconds": 3844
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 19,
+    "name": "Race, Tom",
+    "finish_time": "01:04:14",
+    "finish_seconds": 3854
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 21,
+    "name": "Healey, Daniel",
+    "finish_time": "01:04:59",
+    "finish_seconds": 3899
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 23,
+    "name": "Caira, Marco Vincent",
+    "finish_time": "01:05:50",
+    "finish_seconds": 3950
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 25,
+    "name": "Osborn, Jack",
+    "finish_time": "01:06:23",
+    "finish_seconds": 3983
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 27,
+    "name": "Maci\u0105\u017cek, Krzysztof",
+    "finish_time": "01:06:43",
+    "finish_seconds": 4003
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 29,
+    "name": "Hannan, Paraic",
+    "finish_time": "01:06:52",
+    "finish_seconds": 4012
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 31,
+    "name": "Law, Ross",
+    "finish_time": "01:07:10",
+    "finish_seconds": 4030
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 33,
+    "name": "Filt, Thomas",
+    "finish_time": "01:07:16",
+    "finish_seconds": 4036
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 35,
+    "name": "Hellmich, Aldo",
+    "finish_time": "01:07:29",
+    "finish_seconds": 4049
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 37,
+    "name": "Sp\u0142awski, Krystian",
+    "finish_time": "01:07:58",
+    "finish_seconds": 4078
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 39,
+    "name": "Andersen, J\u00f8rgen Aastorp",
+    "finish_time": "01:08:04",
+    "finish_seconds": 4084
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 41,
+    "name": "Grewar, Kirk",
+    "finish_time": "01:08:13",
+    "finish_seconds": 4093
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 43,
+    "name": "Kowalski, Adam",
+    "finish_time": "01:08:18",
+    "finish_seconds": 4098
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 45,
+    "name": "Rozenbergs, Aigars",
+    "finish_time": "01:08:29",
+    "finish_seconds": 4109
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 47,
+    "name": "Fio\u0142ek, Pawe\u0142",
+    "finish_time": "01:08:38",
+    "finish_seconds": 4118
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 49,
+    "name": "Soborski, Krzysztof",
+    "finish_time": "01:08:43",
+    "finish_seconds": 4123
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 51,
+    "name": "Wo\u0142k, Mariusz",
+    "finish_time": "01:09:06",
+    "finish_seconds": 4146
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 53,
+    "name": "Kowalski, Artur",
+    "finish_time": "01:09:12",
+    "finish_seconds": 4152
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 55,
+    "name": "Sobczak, Robert",
+    "finish_time": "01:09:15",
+    "finish_seconds": 4155
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 57,
+    "name": "Kazubski, Piotr",
+    "finish_time": "01:09:20",
+    "finish_seconds": 4160
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 59,
+    "name": "Stannard, Paul",
+    "finish_time": "01:09:27",
+    "finish_seconds": 4167
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 61,
+    "name": "Wyrwa, Dariusz",
+    "finish_time": "01:09:47",
+    "finish_seconds": 4187
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 63,
+    "name": "Lasak, Konrad",
+    "finish_time": "01:09:53",
+    "finish_seconds": 4193
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 65,
+    "name": "Mickiewicz, Tomasz",
+    "finish_time": "01:10:20",
+    "finish_seconds": 4220
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 67,
+    "name": "Smukowski, Przemys\u0142aw",
+    "finish_time": "01:10:23",
+    "finish_seconds": 4223
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 69,
+    "name": "Zielinski, Piotr",
+    "finish_time": "01:10:57",
+    "finish_seconds": 4257
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 71,
+    "name": "Gapski, Mateusz",
+    "finish_time": "01:11:21",
+    "finish_seconds": 4281
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 73,
+    "name": "Krakowski, Jan",
+    "finish_time": "01:11:25",
+    "finish_seconds": 4285
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 75,
+    "name": "Frachowicz, Mateusz",
+    "finish_time": "01:11:31",
+    "finish_seconds": 4291
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 77,
+    "name": "Andreas, Dimitri",
+    "finish_time": "01:11:35",
+    "finish_seconds": 4295
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 79,
+    "name": "Maciejewski, Adam",
+    "finish_time": "01:11:54",
+    "finish_seconds": 4314
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 81,
+    "name": "Teixeira, Francisco",
+    "finish_time": "01:12:02",
+    "finish_seconds": 4322
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 83,
+    "name": "Buchowicz, Dariusz",
+    "finish_time": "01:12:08",
+    "finish_seconds": 4328
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 85,
+    "name": "Sadowski, Marek",
+    "finish_time": "01:12:17",
+    "finish_seconds": 4337
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 87,
+    "name": "Mroczek, Mateusz",
+    "finish_time": "01:12:21",
+    "finish_seconds": 4341
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 89,
+    "name": "Szcz\u0119sny, Tomasz",
+    "finish_time": "01:12:24",
+    "finish_seconds": 4344
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 91,
+    "name": "Mrozowicz, Cezary",
+    "finish_time": "01:12:28",
+    "finish_seconds": 4348
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 93,
+    "name": "Szczepankiewicz, Adam",
+    "finish_time": "01:12:35",
+    "finish_seconds": 4355
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 95,
+    "name": "Dutton Matthews, Will Rocco",
+    "finish_time": "01:12:50",
+    "finish_seconds": 4370
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 97,
+    "name": "Stawicki, Jacek",
+    "finish_time": "01:12:58",
+    "finish_seconds": 4378
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 99,
+    "name": "Banaszczyk, Janusz",
+    "finish_time": "01:13:24",
+    "finish_seconds": 4404
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 101,
+    "name": "Czy\u017c, Rados\u0142aw",
+    "finish_time": "01:13:29",
+    "finish_seconds": 4409
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 103,
+    "name": "TATAR, WOJCIECH",
+    "finish_time": "01:13:34",
+    "finish_seconds": 4414
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 105,
+    "name": "Teleki, Art\u00far",
+    "finish_time": "01:13:56",
+    "finish_seconds": 4436
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 107,
+    "name": "Dolata, Krzysztof",
+    "finish_time": "01:14:12",
+    "finish_seconds": 4452
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 109,
+    "name": "Sadoch, Kamil",
+    "finish_time": "01:14:13",
+    "finish_seconds": 4453
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 111,
+    "name": "Abspoel, Kevin",
+    "finish_time": "01:14:23",
+    "finish_seconds": 4463
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 113,
+    "name": "Kasprzyk, Mateusz",
+    "finish_time": "01:14:24",
+    "finish_seconds": 4464
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 115,
+    "name": "Mrozek, Micha\u0142",
+    "finish_time": "01:14:27",
+    "finish_seconds": 4467
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 117,
+    "name": "Tirabi, Kyllian",
+    "finish_time": "01:14:30",
+    "finish_seconds": 4470
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 119,
+    "name": "Karli\u0144ski, Jakub",
+    "finish_time": "01:14:35",
+    "finish_seconds": 4475
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 121,
+    "name": "Ry\u0144ski, \u0141ukasz",
+    "finish_time": "01:14:38",
+    "finish_seconds": 4478
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 123,
+    "name": "Pasuto, Grzegorz",
+    "finish_time": "01:14:41",
+    "finish_seconds": 4481
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 125,
+    "name": "Babicz, Pawel",
+    "finish_time": "01:14:46",
+    "finish_seconds": 4486
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 127,
+    "name": "Homik, Marek",
+    "finish_time": "01:14:48",
+    "finish_seconds": 4488
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 129,
+    "name": "\u017b\u0142obi\u0144ski, Bartosz",
+    "finish_time": "01:14:54",
+    "finish_seconds": 4494
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 131,
+    "name": "\u017burad, \u0141ukasz",
+    "finish_time": "01:14:59",
+    "finish_seconds": 4499
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 133,
+    "name": "Rz\u0105sa, Franciszek",
+    "finish_time": "01:15:00",
+    "finish_seconds": 4500
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 135,
+    "name": "Olkowicz, Dariusz",
+    "finish_time": "01:15:03",
+    "finish_seconds": 4503
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 137,
+    "name": "Kenning, Damian",
+    "finish_time": "01:15:15",
+    "finish_seconds": 4515
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 139,
+    "name": "Jele\u0144, Piotr",
+    "finish_time": "01:15:26",
+    "finish_seconds": 4526
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 141,
+    "name": "RUDNIK, Marcin",
+    "finish_time": "01:15:29",
+    "finish_seconds": 4529
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 143,
+    "name": "Skapczyk, Dawid",
+    "finish_time": "01:15:31",
+    "finish_seconds": 4531
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 145,
+    "name": "Maksymiuk, Arkadiusz",
+    "finish_time": "01:15:40",
+    "finish_seconds": 4540
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 147,
+    "name": "Wawryniuk, Marek",
+    "finish_time": "01:15:42",
+    "finish_seconds": 4542
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 149,
+    "name": "Horton, Benjamin",
+    "finish_time": "01:15:48",
+    "finish_seconds": 4548
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 151,
+    "name": "Foley, Liam",
+    "finish_time": "01:16:02",
+    "finish_seconds": 4562
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 153,
+    "name": "Furmaniak, Kacper",
+    "finish_time": "01:16:09",
+    "finish_seconds": 4569
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 155,
+    "name": "Biernacik, Tobiasz",
+    "finish_time": "01:16:12",
+    "finish_seconds": 4572
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 157,
+    "name": "Do\u0142\u0119ga-Kozierowski, Jan",
+    "finish_time": "01:16:14",
+    "finish_seconds": 4574
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 159,
+    "name": "Pietrzak, Mateusz",
+    "finish_time": "01:16:31",
+    "finish_seconds": 4591
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 161,
+    "name": "Chmieli\u0144aki, Piotr",
+    "finish_time": "01:16:41",
+    "finish_seconds": 4601
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 163,
+    "name": "G\u0142owacki, Patryk",
+    "finish_time": "01:16:48",
+    "finish_seconds": 4608
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 165,
+    "name": "Doherty, Ni\u00e1ll",
+    "finish_time": "01:16:51",
+    "finish_seconds": 4611
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 167,
+    "name": "Zwierz, Hubert",
+    "finish_time": "01:16:59",
+    "finish_seconds": 4619
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 169,
+    "name": "Zaj\u0119cki, Szymon",
+    "finish_time": "01:17:01",
+    "finish_seconds": 4621
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 171,
+    "name": "Kowalczyk, Marcin",
+    "finish_time": "01:17:09",
+    "finish_seconds": 4629
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 173,
+    "name": "Virkunen, Egert",
+    "finish_time": "01:17:12",
+    "finish_seconds": 4632
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 175,
+    "name": "Bielski, Seweryn",
+    "finish_time": "01:17:13",
+    "finish_seconds": 4633
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 177,
+    "name": "Duszkiewicz, Damian",
+    "finish_time": "01:17:16",
+    "finish_seconds": 4636
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 179,
+    "name": "Miszel, Witold",
+    "finish_time": "01:17:21",
+    "finish_seconds": 4641
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 181,
+    "name": "Pietras, Mateusz",
+    "finish_time": "01:17:29",
+    "finish_seconds": 4649
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 183,
+    "name": "Grabowski, Bartosz",
+    "finish_time": "01:17:36",
+    "finish_seconds": 4656
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 185,
+    "name": "Biadu\u0144, Daniel",
+    "finish_time": "01:17:43",
+    "finish_seconds": 4663
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 187,
+    "name": "Styranko, Tomasz",
+    "finish_time": "01:18:03",
+    "finish_seconds": 4683
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 189,
+    "name": "Ivantsov, Evgenii",
+    "finish_time": "01:18:06",
+    "finish_seconds": 4686
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 191,
+    "name": "Garrard, Ben",
+    "finish_time": "01:18:10",
+    "finish_seconds": 4690
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 193,
+    "name": "Mcilwee, Ryan",
+    "finish_time": "01:18:14",
+    "finish_seconds": 4694
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 195,
+    "name": "Naczk, Bartosz",
+    "finish_time": "01:18:21",
+    "finish_seconds": 4701
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 197,
+    "name": "Dudek, Mariusz",
+    "finish_time": "01:18:24",
+    "finish_seconds": 4704
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 199,
+    "name": "Chybowski, Jaros\u0142aw",
+    "finish_time": "01:18:37",
+    "finish_seconds": 4717
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 201,
+    "name": "Davison, Paul",
+    "finish_time": "01:18:40",
+    "finish_seconds": 4720
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 203,
+    "name": "Iwanicki, Beniamin",
+    "finish_time": "01:18:43",
+    "finish_seconds": 4723
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 205,
+    "name": "\u00d6hlund, Andreas",
+    "finish_time": "01:18:44",
+    "finish_seconds": 4724
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 207,
+    "name": "Ka\u017amierczak, \u0141ukasz",
+    "finish_time": "01:18:50",
+    "finish_seconds": 4730
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 209,
+    "name": "Czarnecki, Piotr",
+    "finish_time": "01:18:55",
+    "finish_seconds": 4735
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 211,
+    "name": "Kudrelek, S\u0142awek",
+    "finish_time": "01:18:56",
+    "finish_seconds": 4736
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 213,
+    "name": "Baniewski, Jakub",
+    "finish_time": "01:18:56",
+    "finish_seconds": 4736
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 215,
+    "name": "Makosa, Peter",
+    "finish_time": "01:19:02",
+    "finish_seconds": 4742
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 217,
+    "name": "RATAJCZAK, MARIUSZ",
+    "finish_time": "01:19:10",
+    "finish_seconds": 4750
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 219,
+    "name": "Okleja, Jakub",
+    "finish_time": "01:19:12",
+    "finish_seconds": 4752
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 221,
+    "name": "Parkinson, Stephen",
+    "finish_time": "01:19:14",
+    "finish_seconds": 4754
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 223,
+    "name": "Szafarczyk, Marcin",
+    "finish_time": "01:19:20",
+    "finish_seconds": 4760
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 225,
+    "name": "Komar, Rafa\u0142",
+    "finish_time": "01:19:30",
+    "finish_seconds": 4770
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 227,
+    "name": "Nowak, Jarek",
+    "finish_time": "01:19:39",
+    "finish_seconds": 4779
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 229,
+    "name": "Lew, Kamil",
+    "finish_time": "01:19:41",
+    "finish_seconds": 4781
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 231,
+    "name": "Ratajczyk, Szymon",
+    "finish_time": "01:19:46",
+    "finish_seconds": 4786
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 233,
+    "name": "Ko\u0142odziejski, Miko\u0142aj",
+    "finish_time": "01:20:03",
+    "finish_seconds": 4803
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 235,
+    "name": "Dyer, Rob",
+    "finish_time": "01:20:09",
+    "finish_seconds": 4809
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 237,
+    "name": "Jacobs, Lee",
+    "finish_time": "01:20:13",
+    "finish_seconds": 4813
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 239,
+    "name": "Michalczyk, Matt",
+    "finish_time": "01:20:21",
+    "finish_seconds": 4821
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 241,
+    "name": "Kubabski, Patryk",
+    "finish_time": "01:20:34",
+    "finish_seconds": 4834
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 243,
+    "name": "Wac, Damian",
+    "finish_time": "01:20:44",
+    "finish_seconds": 4844
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 245,
+    "name": "Morrice, Keith",
+    "finish_time": "01:20:46",
+    "finish_seconds": 4846
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 247,
+    "name": "Vella Dimech, Luke",
+    "finish_time": "01:20:47",
+    "finish_seconds": 4847
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 249,
+    "name": "Svoboda, Jan",
+    "finish_time": "01:20:56",
+    "finish_seconds": 4856
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 251,
+    "name": "Gasiul, Dominik",
+    "finish_time": "01:20:57",
+    "finish_seconds": 4857
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 253,
+    "name": "Roznerski, Adam",
+    "finish_time": "01:21:02",
+    "finish_seconds": 4862
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 255,
+    "name": "Konieczny, \u0141ukasz",
+    "finish_time": "01:21:10",
+    "finish_seconds": 4870
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 257,
+    "name": "Robertson, Aaron",
+    "finish_time": "01:21:13",
+    "finish_seconds": 4873
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 259,
+    "name": "Lyons, Michael",
+    "finish_time": "01:21:17",
+    "finish_seconds": 4877
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 261,
+    "name": "Pedersen, Sondre",
+    "finish_time": "01:21:34",
+    "finish_seconds": 4894
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 263,
+    "name": "Kalinowski, Karol",
+    "finish_time": "01:21:42",
+    "finish_seconds": 4902
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 265,
+    "name": "Sovkovs, Imants",
+    "finish_time": "01:21:43",
+    "finish_seconds": 4903
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 267,
+    "name": "Chejdysz, Marcin",
+    "finish_time": "01:21:44",
+    "finish_seconds": 4904
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 269,
+    "name": "Rudzi\u0144ski, Maciej",
+    "finish_time": "01:21:50",
+    "finish_seconds": 4910
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 271,
+    "name": "Olszewski, Piotr",
+    "finish_time": "01:21:53",
+    "finish_seconds": 4913
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 273,
+    "name": "Doma\u0144ski, Maciej",
+    "finish_time": "01:21:55",
+    "finish_seconds": 4915
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 275,
+    "name": "Bonnefoy, Bastien",
+    "finish_time": "01:21:58",
+    "finish_seconds": 4918
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 277,
+    "name": "Folmer, Christian",
+    "finish_time": "01:22:06",
+    "finish_seconds": 4926
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 279,
+    "name": "Piasecki, Grzegorz",
+    "finish_time": "01:22:08",
+    "finish_seconds": 4928
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 281,
+    "name": "Kobylinski, Szymon",
+    "finish_time": "01:22:16",
+    "finish_seconds": 4936
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 283,
+    "name": "Corbett-Peters, Callum",
+    "finish_time": "01:22:23",
+    "finish_seconds": 4943
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 285,
+    "name": "Wojciechowski, Mateusz",
+    "finish_time": "01:22:25",
+    "finish_seconds": 4945
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 287,
+    "name": "Vahldiek, Daniel Maximilian",
+    "finish_time": "01:22:26",
+    "finish_seconds": 4946
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 289,
+    "name": "Cichno, Miko\u0142aj",
+    "finish_time": "01:22:35",
+    "finish_seconds": 4955
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 291,
+    "name": "Szultka, Szymon",
+    "finish_time": "01:22:49",
+    "finish_seconds": 4969
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 293,
+    "name": "Cici\u0144ski, Rafa\u0142",
+    "finish_time": "01:22:55",
+    "finish_seconds": 4975
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 295,
+    "name": "Macpherson, Rory",
+    "finish_time": "01:23:00",
+    "finish_seconds": 4980
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 297,
+    "name": "Bieryt, Przemys\u0142aw",
+    "finish_time": "01:23:03",
+    "finish_seconds": 4983
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 299,
+    "name": "Craven, Dave",
+    "finish_time": "01:23:10",
+    "finish_seconds": 4990
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 301,
+    "name": "Lee, Craig",
+    "finish_time": "01:23:23",
+    "finish_seconds": 5003
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 303,
+    "name": "Pasternak, Wojciech",
+    "finish_time": "01:23:29",
+    "finish_seconds": 5009
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 305,
+    "name": "Santos silva, Luis",
+    "finish_time": "01:23:34",
+    "finish_seconds": 5014
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 307,
+    "name": "Konopka, Artur",
+    "finish_time": "01:23:45",
+    "finish_seconds": 5025
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 309,
+    "name": "Antwi, Nana Owusu",
+    "finish_time": "01:23:49",
+    "finish_seconds": 5029
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 311,
+    "name": "Choroma\u0144ski, Przemys\u0142aw",
+    "finish_time": "01:23:53",
+    "finish_seconds": 5033
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 313,
+    "name": "Stasi\u0144ski, Wojciech",
+    "finish_time": "01:23:57",
+    "finish_seconds": 5037
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 315,
+    "name": "Zwarra, Dennis",
+    "finish_time": "01:24:06",
+    "finish_seconds": 5046
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 317,
+    "name": "Pod\u0142yska, Tadeusz",
+    "finish_time": "01:24:15",
+    "finish_seconds": 5055
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 319,
+    "name": "W\u00f3jcik, Jakub",
+    "finish_time": "01:24:20",
+    "finish_seconds": 5060
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 321,
+    "name": "Kondracki, Marcin",
+    "finish_time": "01:24:22",
+    "finish_seconds": 5062
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 323,
+    "name": "Gajocha, Micha\u0142",
+    "finish_time": "01:24:26",
+    "finish_seconds": 5066
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 325,
+    "name": "Potoczny, Dawid",
+    "finish_time": "01:24:30",
+    "finish_seconds": 5070
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 327,
+    "name": "Szczepa\u0144ski, \u0141ukasz",
+    "finish_time": "01:24:33",
+    "finish_seconds": 5073
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 329,
+    "name": "Kaczmarek, Pawe\u0142",
+    "finish_time": "01:24:43",
+    "finish_seconds": 5083
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 331,
+    "name": "Stachowski, Piotr",
+    "finish_time": "01:24:53",
+    "finish_seconds": 5093
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 333,
+    "name": "Ma\u0144ko, Bartosz",
+    "finish_time": "01:25:01",
+    "finish_seconds": 5101
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 335,
+    "name": "Welton, Christopher",
+    "finish_time": "01:25:09",
+    "finish_seconds": 5109
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 337,
+    "name": "Grabowski, Mateusz",
+    "finish_time": "01:25:15",
+    "finish_seconds": 5115
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 339,
+    "name": "Sadauskas, Kestutis",
+    "finish_time": "01:25:16",
+    "finish_seconds": 5116
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 341,
+    "name": "Czai\u0144ski, Grzegorz",
+    "finish_time": "01:25:21",
+    "finish_seconds": 5121
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 343,
+    "name": "Hall, Matthew",
+    "finish_time": "01:25:23",
+    "finish_seconds": 5123
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 345,
+    "name": "Ulianchenko, Mykhailo",
+    "finish_time": "01:25:26",
+    "finish_seconds": 5126
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 347,
+    "name": "Harris, Liam",
+    "finish_time": "01:25:32",
+    "finish_seconds": 5132
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 349,
+    "name": "Webber, Alex",
+    "finish_time": "01:25:37",
+    "finish_seconds": 5137
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 351,
+    "name": "Gallagher, Liam",
+    "finish_time": "01:25:41",
+    "finish_seconds": 5141
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 353,
+    "name": "Le Duc, Tuan",
+    "finish_time": "01:25:44",
+    "finish_seconds": 5144
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 355,
+    "name": "Owsianny, Robert",
+    "finish_time": "01:25:53",
+    "finish_seconds": 5153
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 357,
+    "name": "Mi\u010d\u00edk, David",
+    "finish_time": "01:25:55",
+    "finish_seconds": 5155
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 359,
+    "name": "Romanowski, Przemys\u0142aw",
+    "finish_time": "01:25:59",
+    "finish_seconds": 5159
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 361,
+    "name": "W\u00f3jcik, Cezary",
+    "finish_time": "01:26:03",
+    "finish_seconds": 5163
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 363,
+    "name": "Liu, Peng",
+    "finish_time": "01:26:06",
+    "finish_seconds": 5166
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 365,
+    "name": "Perzanowski, Jakub",
+    "finish_time": "01:26:10",
+    "finish_seconds": 5170
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 367,
+    "name": "Antoniuk, Michal",
+    "finish_time": "01:26:15",
+    "finish_seconds": 5175
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 369,
+    "name": "Wo\u017aniak, Jakub",
+    "finish_time": "01:26:16",
+    "finish_seconds": 5176
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 371,
+    "name": "Bilski, Jakub",
+    "finish_time": "01:26:18",
+    "finish_seconds": 5178
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 373,
+    "name": "Bo\u0144kowski, Mariusz",
+    "finish_time": "01:26:20",
+    "finish_seconds": 5180
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 375,
+    "name": "Wasag, Wojtek",
+    "finish_time": "01:26:28",
+    "finish_seconds": 5188
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 377,
+    "name": "Krzymowski, Jacek",
+    "finish_time": "01:26:42",
+    "finish_seconds": 5202
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 379,
+    "name": "Kuc, Krzysztof",
+    "finish_time": "01:26:49",
+    "finish_seconds": 5209
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 381,
+    "name": "Opali\u0144ski, Dariusz",
+    "finish_time": "01:26:54",
+    "finish_seconds": 5214
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 383,
+    "name": "Siedlerski, Gwidon",
+    "finish_time": "01:26:57",
+    "finish_seconds": 5217
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 385,
+    "name": "Pabin, Pawe\u0142",
+    "finish_time": "01:27:07",
+    "finish_seconds": 5227
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 387,
+    "name": "Gahan, David",
+    "finish_time": "01:27:12",
+    "finish_seconds": 5232
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 389,
+    "name": "fawcett, adam",
+    "finish_time": "01:27:16",
+    "finish_seconds": 5236
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 391,
+    "name": "Grzelak, Mateusz",
+    "finish_time": "01:27:27",
+    "finish_seconds": 5247
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 393,
+    "name": "Pa\u0161kevi\u010dius, Tomas",
+    "finish_time": "01:27:30",
+    "finish_seconds": 5250
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 395,
+    "name": "Rutter, Brian",
+    "finish_time": "01:27:35",
+    "finish_seconds": 5255
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 397,
+    "name": "Jakowski, Damian",
+    "finish_time": "01:27:36",
+    "finish_seconds": 5256
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 399,
+    "name": "Jankus, Evaldas",
+    "finish_time": "01:27:57",
+    "finish_seconds": 5277
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 401,
+    "name": "Bl\u00e5holm, Simon",
+    "finish_time": "01:27:59",
+    "finish_seconds": 5279
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 403,
+    "name": "Deshmukh, Andy",
+    "finish_time": "01:28:04",
+    "finish_seconds": 5284
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 405,
+    "name": "Larbes, Fay\u00e7al",
+    "finish_time": "01:28:06",
+    "finish_seconds": 5286
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 407,
+    "name": "Je\u017cowski, Dawid",
+    "finish_time": "01:28:15",
+    "finish_seconds": 5295
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 409,
+    "name": "Fediuk, Karol",
+    "finish_time": "01:28:20",
+    "finish_seconds": 5300
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 411,
+    "name": "Chudeusz, Piotr",
+    "finish_time": "01:28:25",
+    "finish_seconds": 5305
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 413,
+    "name": "Wi\u015bniewski, Bartosz",
+    "finish_time": "01:28:35",
+    "finish_seconds": 5315
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 415,
+    "name": "Paszyn, Damian",
+    "finish_time": "01:28:37",
+    "finish_seconds": 5317
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 417,
+    "name": "Drawc, \u0141ukasz",
+    "finish_time": "01:28:44",
+    "finish_seconds": 5324
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 419,
+    "name": "Doli\u0144ski, Konrad",
+    "finish_time": "01:28:57",
+    "finish_seconds": 5337
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 421,
+    "name": "Carmellino, Fernando",
+    "finish_time": "01:29:04",
+    "finish_seconds": 5344
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 423,
+    "name": "Nowosad, Piotrek",
+    "finish_time": "01:29:07",
+    "finish_seconds": 5347
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 425,
+    "name": "Roth, Robin",
+    "finish_time": "01:29:08",
+    "finish_seconds": 5348
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 427,
+    "name": "Burns, Duane",
+    "finish_time": "01:29:18",
+    "finish_seconds": 5358
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 429,
+    "name": "Deacon, Nigel",
+    "finish_time": "01:29:22",
+    "finish_seconds": 5362
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 431,
+    "name": "Abdalla leftawi, Ahmed",
+    "finish_time": "01:29:30",
+    "finish_seconds": 5370
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 433,
+    "name": "Eberhart, Andreas",
+    "finish_time": "01:29:46",
+    "finish_seconds": 5386
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 435,
+    "name": "Rafaj, Marko",
+    "finish_time": "01:29:51",
+    "finish_seconds": 5391
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 437,
+    "name": "Walusiak, Daniel",
+    "finish_time": "01:29:56",
+    "finish_seconds": 5396
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 439,
+    "name": "Gawlik, \u0141ukasz",
+    "finish_time": "01:30:01",
+    "finish_seconds": 5401
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 441,
+    "name": "Sikorski, Marcin",
+    "finish_time": "01:30:03",
+    "finish_seconds": 5403
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 443,
+    "name": "Chrzanowski, Artur",
+    "finish_time": "01:30:14",
+    "finish_seconds": 5414
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 445,
+    "name": "Wierusz-Walknowski, Dominik",
+    "finish_time": "01:30:20",
+    "finish_seconds": 5420
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 447,
+    "name": "Studniarek, Pawe\u0142",
+    "finish_time": "01:30:27",
+    "finish_seconds": 5427
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 449,
+    "name": "Hulinsky, Jiri",
+    "finish_time": "01:30:31",
+    "finish_seconds": 5431
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 451,
+    "name": "Ko\u0159\u00ednek, Martin",
+    "finish_time": "01:30:37",
+    "finish_seconds": 5437
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 453,
+    "name": "Wawrzy\u0144czak, Arkadiusz",
+    "finish_time": "01:30:40",
+    "finish_seconds": 5440
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 455,
+    "name": "Pabijasz, B\u0142a\u017cej",
+    "finish_time": "01:30:42",
+    "finish_seconds": 5442
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 457,
+    "name": "Ossowski, Jakub",
+    "finish_time": "01:30:47",
+    "finish_seconds": 5447
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 459,
+    "name": "Glennie, Ethan",
+    "finish_time": "01:31:09",
+    "finish_seconds": 5469
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 461,
+    "name": "Zaghi, Mattia",
+    "finish_time": "01:31:18",
+    "finish_seconds": 5478
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 463,
+    "name": "Lech, Piotr",
+    "finish_time": "01:31:20",
+    "finish_seconds": 5480
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 465,
+    "name": "B\u0142a\u017cej, Rafa\u0142",
+    "finish_time": "01:31:33",
+    "finish_seconds": 5493
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 467,
+    "name": "olejniczak, hubert",
+    "finish_time": "01:31:36",
+    "finish_seconds": 5496
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 469,
+    "name": "LEWANDOWSKI, JAKUB",
+    "finish_time": "01:31:39",
+    "finish_seconds": 5499
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 471,
+    "name": "Csaky, Adam",
+    "finish_time": "01:31:46",
+    "finish_seconds": 5506
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 473,
+    "name": "Kozio\u0142, Krzysztof",
+    "finish_time": "01:31:55",
+    "finish_seconds": 5515
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 475,
+    "name": "\u015amigielski, \u0141ukasz",
+    "finish_time": "01:32:05",
+    "finish_seconds": 5525
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 477,
+    "name": "Witek, Damian",
+    "finish_time": "01:32:08",
+    "finish_seconds": 5528
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 479,
+    "name": "Morrad, James",
+    "finish_time": "01:32:16",
+    "finish_seconds": 5536
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 481,
+    "name": "Winnicki, Tomasz",
+    "finish_time": "01:32:23",
+    "finish_seconds": 5543
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 483,
+    "name": "Klimczak, Piotr",
+    "finish_time": "01:32:24",
+    "finish_seconds": 5544
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 485,
+    "name": "Chyzh, Andrii",
+    "finish_time": "01:32:32",
+    "finish_seconds": 5552
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 487,
+    "name": "Reed, Joseph",
+    "finish_time": "01:32:42",
+    "finish_seconds": 5562
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 489,
+    "name": "Wilson, Gary",
+    "finish_time": "01:32:46",
+    "finish_seconds": 5566
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 491,
+    "name": "Clark, Jonathan",
+    "finish_time": "01:32:51",
+    "finish_seconds": 5571
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 493,
+    "name": "Wawrzusiszyn, Kacper",
+    "finish_time": "01:32:57",
+    "finish_seconds": 5577
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 495,
+    "name": "Przeliorz, Marek",
+    "finish_time": "01:33:07",
+    "finish_seconds": 5587
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 497,
+    "name": "Wi\u0105cek, Karol",
+    "finish_time": "01:33:16",
+    "finish_seconds": 5596
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 499,
+    "name": "Olszewski, Piotr",
+    "finish_time": "01:33:17",
+    "finish_seconds": 5597
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 501,
+    "name": "Vizgirda, Justas",
+    "finish_time": "01:33:24",
+    "finish_seconds": 5604
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 503,
+    "name": "Michalik, Dominik",
+    "finish_time": "01:33:30",
+    "finish_seconds": 5610
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 505,
+    "name": "Kukla, S\u0142awomir",
+    "finish_time": "01:33:39",
+    "finish_seconds": 5619
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 507,
+    "name": "W\u00f3jcicki, Mariusz",
+    "finish_time": "01:33:45",
+    "finish_seconds": 5625
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 509,
+    "name": "Miko\u0142ajewski, Przemys\u0142aw",
+    "finish_time": "01:33:54",
+    "finish_seconds": 5634
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 511,
+    "name": "Tarnacki, Maciej",
+    "finish_time": "01:34:01",
+    "finish_seconds": 5641
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 513,
+    "name": "Adamczyk, Hubert",
+    "finish_time": "01:34:07",
+    "finish_seconds": 5647
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 515,
+    "name": "Doma\u0144ski, Jacek",
+    "finish_time": "01:34:17",
+    "finish_seconds": 5657
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 517,
+    "name": "Szel\u0105g, Sebastian",
+    "finish_time": "01:34:22",
+    "finish_seconds": 5662
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 519,
+    "name": "Bain, Craig",
+    "finish_time": "01:34:24",
+    "finish_seconds": 5664
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 521,
+    "name": "Prytula, Bartosz",
+    "finish_time": "01:34:33",
+    "finish_seconds": 5673
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 523,
+    "name": "Blaszczyk, Robert",
+    "finish_time": "01:34:40",
+    "finish_seconds": 5680
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 525,
+    "name": "Kubiak, Jakub",
+    "finish_time": "01:34:45",
+    "finish_seconds": 5685
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 527,
+    "name": "Soko\u0142owski, Rados\u0142aw",
+    "finish_time": "01:34:56",
+    "finish_seconds": 5696
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 529,
+    "name": "BATORSKI, KRZYSZTOF",
+    "finish_time": "01:35:16",
+    "finish_seconds": 5716
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 531,
+    "name": "Styn, Arkadiusz",
+    "finish_time": "01:35:19",
+    "finish_seconds": 5719
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 533,
+    "name": "Cassidy, Stephen",
+    "finish_time": "01:35:35",
+    "finish_seconds": 5735
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 535,
+    "name": "Twarowski, Grzegorz",
+    "finish_time": "01:35:52",
+    "finish_seconds": 5752
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 537,
+    "name": "Odrzywo\u0142ek, Przemys\u0142aw",
+    "finish_time": "01:36:07",
+    "finish_seconds": 5767
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 539,
+    "name": "Komorowski, Adam",
+    "finish_time": "01:36:22",
+    "finish_seconds": 5782
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 541,
+    "name": "Niekraszewicz, Konstanty",
+    "finish_time": "01:36:31",
+    "finish_seconds": 5791
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 543,
+    "name": "Zarycza\u0144ski, Micha\u0142",
+    "finish_time": "01:36:45",
+    "finish_seconds": 5805
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 545,
+    "name": "Ko\u0142kowski, Pawe\u0142",
+    "finish_time": "01:36:56",
+    "finish_seconds": 5816
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 547,
+    "name": "Knutsson, David",
+    "finish_time": "01:37:00",
+    "finish_seconds": 5820
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 549,
+    "name": "Czarnecki, Michal",
+    "finish_time": "01:37:06",
+    "finish_seconds": 5826
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 551,
+    "name": "Orszulik, Adrian",
+    "finish_time": "01:37:12",
+    "finish_seconds": 5832
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 553,
+    "name": "Bogdan, Richard",
+    "finish_time": "01:37:22",
+    "finish_seconds": 5842
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 555,
+    "name": "Rzewuski, Karol",
+    "finish_time": "01:37:26",
+    "finish_seconds": 5846
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 557,
+    "name": "Tusk, Adam",
+    "finish_time": "01:37:34",
+    "finish_seconds": 5854
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 559,
+    "name": "Boucher, K\u00e9vin",
+    "finish_time": "01:37:45",
+    "finish_seconds": 5865
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 561,
+    "name": "Gola, Tomasz Emanuel",
+    "finish_time": "01:37:58",
+    "finish_seconds": 5878
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 563,
+    "name": "Klich, Mateusz",
+    "finish_time": "01:38:06",
+    "finish_seconds": 5886
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 565,
+    "name": "Szyma\u0144ski, Marcin",
+    "finish_time": "01:38:17",
+    "finish_seconds": 5897
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 567,
+    "name": "Boyle, John",
+    "finish_time": "01:38:23",
+    "finish_seconds": 5903
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 569,
+    "name": "Huggins, Carl",
+    "finish_time": "01:38:36",
+    "finish_seconds": 5916
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 571,
+    "name": "Stanuch, Jakub",
+    "finish_time": "01:38:38",
+    "finish_seconds": 5918
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 573,
+    "name": "Jancauskas, Ramunas",
+    "finish_time": "01:38:44",
+    "finish_seconds": 5924
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 575,
+    "name": "Chmurak, Wojciech",
+    "finish_time": "01:39:19",
+    "finish_seconds": 5959
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 577,
+    "name": "Piotrowski, Pawe\u0142",
+    "finish_time": "01:39:35",
+    "finish_seconds": 5975
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 579,
+    "name": "Su\u0142kowski, Marcin",
+    "finish_time": "01:39:47",
+    "finish_seconds": 5987
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 581,
+    "name": "Furdal, Przemys\u0142aw",
+    "finish_time": "01:39:48",
+    "finish_seconds": 5988
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 583,
+    "name": "Karwacki, Grzegorz",
+    "finish_time": "01:39:58",
+    "finish_seconds": 5998
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 585,
+    "name": "Czarnecki, Pawe\u0142",
+    "finish_time": "01:40:08",
+    "finish_seconds": 6008
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 587,
+    "name": "Tierney, Ryan",
+    "finish_time": "01:40:24",
+    "finish_seconds": 6024
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 589,
+    "name": "Makarewicz, Rafa\u0142",
+    "finish_time": "01:40:32",
+    "finish_seconds": 6032
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 591,
+    "name": "Antoszewski, Filip",
+    "finish_time": "01:40:46",
+    "finish_seconds": 6046
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 593,
+    "name": "Oko\u0142otowicz, \u0141ukasz",
+    "finish_time": "01:41:08",
+    "finish_seconds": 6068
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "M",
+    "rank": 595,
+    "name": "Gorecki, Tomek",
+    "finish_time": "01:41:26",
+    "finish_seconds": 6086
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 1,
+    "name": "Schimansky, Alina",
+    "finish_time": "01:05:37",
+    "finish_seconds": 3937
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 3,
+    "name": "Malinen, Selina",
+    "finish_time": "01:06:51",
+    "finish_seconds": 4011
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 5,
+    "name": "Bidas, R\u00f3\u017ca",
+    "finish_time": "01:07:49",
+    "finish_seconds": 4069
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 7,
+    "name": "Lubicka, Joanna",
+    "finish_time": "01:08:16",
+    "finish_seconds": 4096
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 9,
+    "name": "Czarnik, Dagmara",
+    "finish_time": "01:09:19",
+    "finish_seconds": 4159
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 11,
+    "name": "Dzikowicz, Magdalena",
+    "finish_time": "01:10:33",
+    "finish_seconds": 4233
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 13,
+    "name": "Eckersley, Rose",
+    "finish_time": "01:10:58",
+    "finish_seconds": 4258
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 15,
+    "name": "Ogden, Kez",
+    "finish_time": "01:11:20",
+    "finish_seconds": 4280
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 17,
+    "name": "Sawicka, Sandra",
+    "finish_time": "01:12:05",
+    "finish_seconds": 4325
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 19,
+    "name": "Pau\u017eait\u0117, Evelina",
+    "finish_time": "01:12:09",
+    "finish_seconds": 4329
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 21,
+    "name": "Gos, Monika",
+    "finish_time": "01:12:25",
+    "finish_seconds": 4345
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 23,
+    "name": "Raczak, Justyna",
+    "finish_time": "01:12:37",
+    "finish_seconds": 4357
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 25,
+    "name": "Zair, Dorota",
+    "finish_time": "01:13:42",
+    "finish_seconds": 4422
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 27,
+    "name": "Pearce, Katie",
+    "finish_time": "01:13:57",
+    "finish_seconds": 4437
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 29,
+    "name": "Juel Ibsen, Nana",
+    "finish_time": "01:14:34",
+    "finish_seconds": 4474
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 31,
+    "name": "Naw\u00f3j, Katarzyna",
+    "finish_time": "01:15:09",
+    "finish_seconds": 4509
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 33,
+    "name": "Skibicka, Monika",
+    "finish_time": "01:15:40",
+    "finish_seconds": 4540
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 35,
+    "name": "Wiecko, Justyna",
+    "finish_time": "01:15:43",
+    "finish_seconds": 4543
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 37,
+    "name": "Sz\u0142ui\u0144ska, Eliza",
+    "finish_time": "01:16:11",
+    "finish_seconds": 4571
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 39,
+    "name": "\u015aliwi\u0144ska-Kryza, Magdalena",
+    "finish_time": "01:16:46",
+    "finish_seconds": 4606
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 41,
+    "name": "Morawska, Julita",
+    "finish_time": "01:17:07",
+    "finish_seconds": 4627
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 43,
+    "name": "Ku\u010derov\u00e1, Ad\u00e9la",
+    "finish_time": "01:17:18",
+    "finish_seconds": 4638
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 45,
+    "name": "Ga\u0142uszy\u0144ska, Katarzyna",
+    "finish_time": "01:17:24",
+    "finish_seconds": 4644
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 47,
+    "name": "Moltzan-Ma\u0142kowska, Liliana",
+    "finish_time": "01:17:44",
+    "finish_seconds": 4664
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 49,
+    "name": "Lyrvall, Anna",
+    "finish_time": "01:17:51",
+    "finish_seconds": 4671
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 51,
+    "name": "Walton, Joanna",
+    "finish_time": "01:18:28",
+    "finish_seconds": 4708
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 53,
+    "name": "McKelvey, Sabrina",
+    "finish_time": "01:18:44",
+    "finish_seconds": 4724
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 55,
+    "name": "\u015aliwi\u0144ska, Joanna",
+    "finish_time": "01:18:59",
+    "finish_seconds": 4739
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 57,
+    "name": "Mork\u016bnait\u0117, Marija",
+    "finish_time": "01:19:07",
+    "finish_seconds": 4747
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 59,
+    "name": "\u017demaityt\u0117, Milda",
+    "finish_time": "01:19:17",
+    "finish_seconds": 4757
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 61,
+    "name": "Szkudlarek, Agata",
+    "finish_time": "01:19:32",
+    "finish_seconds": 4772
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 63,
+    "name": "Piwonska, Julita",
+    "finish_time": "01:19:49",
+    "finish_seconds": 4789
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 65,
+    "name": "Lochrie, Debbie",
+    "finish_time": "01:20:23",
+    "finish_seconds": 4823
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 67,
+    "name": "Krawczyk, Michalina",
+    "finish_time": "01:20:29",
+    "finish_seconds": 4829
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 69,
+    "name": "Bro\u017cek, Daria",
+    "finish_time": "01:20:46",
+    "finish_seconds": 4846
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 71,
+    "name": "Bia\u0142ko, Marlena",
+    "finish_time": "01:20:57",
+    "finish_seconds": 4857
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 73,
+    "name": "Zawada, Weronika",
+    "finish_time": "01:21:04",
+    "finish_seconds": 4864
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 75,
+    "name": "Patrick, Tracy",
+    "finish_time": "01:21:32",
+    "finish_seconds": 4892
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 77,
+    "name": "Rajner, Gosia",
+    "finish_time": "01:21:40",
+    "finish_seconds": 4900
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 79,
+    "name": "Pi\u00f3rkowska, Monika",
+    "finish_time": "01:22:05",
+    "finish_seconds": 4925
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 81,
+    "name": "Rizza, Louise",
+    "finish_time": "01:22:20",
+    "finish_seconds": 4940
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 83,
+    "name": "Kaczmarek, Agnieszka",
+    "finish_time": "01:22:27",
+    "finish_seconds": 4947
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 85,
+    "name": "Lloyd, Amy",
+    "finish_time": "01:22:42",
+    "finish_seconds": 4962
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 87,
+    "name": "J\u00f3nsd\u00f3ttir, Sunneva",
+    "finish_time": "01:22:47",
+    "finish_seconds": 4967
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 89,
+    "name": "G\u00f3recka, Klaudia",
+    "finish_time": "01:22:53",
+    "finish_seconds": 4973
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 91,
+    "name": "\u015awidrak, Anna",
+    "finish_time": "01:23:01",
+    "finish_seconds": 4981
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 93,
+    "name": "Jagoda, Malgorzata",
+    "finish_time": "01:23:09",
+    "finish_seconds": 4989
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 95,
+    "name": "Fairclough, Vivienne",
+    "finish_time": "01:23:09",
+    "finish_seconds": 4989
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 97,
+    "name": "Sadowska, \u017baneta",
+    "finish_time": "01:23:16",
+    "finish_seconds": 4996
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 99,
+    "name": "\u015awizdor, Katarzyna",
+    "finish_time": "01:23:23",
+    "finish_seconds": 5003
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 101,
+    "name": "Christensen, Charlotte",
+    "finish_time": "01:23:40",
+    "finish_seconds": 5020
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 103,
+    "name": "Staaf, Julia",
+    "finish_time": "01:23:41",
+    "finish_seconds": 5021
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 105,
+    "name": "Bukelskyte, Laura",
+    "finish_time": "01:23:48",
+    "finish_seconds": 5028
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 107,
+    "name": "Wo\u017aniak, Magdalena",
+    "finish_time": "01:23:58",
+    "finish_seconds": 5038
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 109,
+    "name": "Kowalewska, Patrycja",
+    "finish_time": "01:24:00",
+    "finish_seconds": 5040
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 111,
+    "name": "Soko\u0142owska, Natalia",
+    "finish_time": "01:24:15",
+    "finish_seconds": 5055
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 113,
+    "name": "Cielem\u0119cka, Anna",
+    "finish_time": "01:24:28",
+    "finish_seconds": 5068
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 115,
+    "name": "Bednarz, Klaudia",
+    "finish_time": "01:24:38",
+    "finish_seconds": 5078
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 117,
+    "name": "Malus, Patrycja",
+    "finish_time": "01:24:44",
+    "finish_seconds": 5084
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 119,
+    "name": "Hajda, Agnieszka",
+    "finish_time": "01:24:59",
+    "finish_seconds": 5099
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 121,
+    "name": "S\u0142omczewska, Agnieszka",
+    "finish_time": "01:25:17",
+    "finish_seconds": 5117
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 123,
+    "name": "Gierach, Sylwia",
+    "finish_time": "01:25:21",
+    "finish_seconds": 5121
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 125,
+    "name": "Panek, Oliwia",
+    "finish_time": "01:25:25",
+    "finish_seconds": 5125
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 127,
+    "name": "RUDNIK, Ela",
+    "finish_time": "01:26:04",
+    "finish_seconds": 5164
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 129,
+    "name": "Gallagher, Joette",
+    "finish_time": "01:26:10",
+    "finish_seconds": 5170
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 131,
+    "name": "Jermalavi\u010dien\u0117, Gintar\u0117",
+    "finish_time": "01:26:23",
+    "finish_seconds": 5183
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 133,
+    "name": "CISZAK, MARINA",
+    "finish_time": "01:26:28",
+    "finish_seconds": 5188
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 135,
+    "name": "Se\u0144k\u00f3w, Lidia",
+    "finish_time": "01:26:38",
+    "finish_seconds": 5198
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 137,
+    "name": "Banks, Julia",
+    "finish_time": "01:26:49",
+    "finish_seconds": 5209
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 139,
+    "name": "Ma\u0142ek-Marczuk, Hanna",
+    "finish_time": "01:27:03",
+    "finish_seconds": 5223
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 141,
+    "name": "Karli\u0144ska, Katarzyna",
+    "finish_time": "01:27:09",
+    "finish_seconds": 5229
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 143,
+    "name": "Richmond, Jade",
+    "finish_time": "01:27:37",
+    "finish_seconds": 5257
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 145,
+    "name": "Kalinowska, Monika",
+    "finish_time": "01:27:49",
+    "finish_seconds": 5269
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 147,
+    "name": "Kociszewska, Magdalena",
+    "finish_time": "01:28:13",
+    "finish_seconds": 5293
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 149,
+    "name": "Giles, Christine",
+    "finish_time": "01:28:31",
+    "finish_seconds": 5311
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 151,
+    "name": "Nowicka, Joanna",
+    "finish_time": "01:28:33",
+    "finish_seconds": 5313
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 153,
+    "name": "Grudzka-Flak, Iwona",
+    "finish_time": "01:28:41",
+    "finish_seconds": 5321
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 155,
+    "name": "M\u0105dry, Anna",
+    "finish_time": "01:28:51",
+    "finish_seconds": 5331
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 157,
+    "name": "Mcarthur, Ruth Eilidh",
+    "finish_time": "01:29:01",
+    "finish_seconds": 5341
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 159,
+    "name": "Newman, Sophie",
+    "finish_time": "01:29:04",
+    "finish_seconds": 5344
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 161,
+    "name": "Bugajska, Wirginia",
+    "finish_time": "01:29:10",
+    "finish_seconds": 5350
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 163,
+    "name": "Fulgentius, Louice",
+    "finish_time": "01:29:31",
+    "finish_seconds": 5371
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 165,
+    "name": "Sielwanowska, Wiktoria",
+    "finish_time": "01:29:36",
+    "finish_seconds": 5376
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 167,
+    "name": "Fraser, Olwen",
+    "finish_time": "01:30:00",
+    "finish_seconds": 5400
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 169,
+    "name": "Meril\u00e4inen, Erika",
+    "finish_time": "01:30:21",
+    "finish_seconds": 5421
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 171,
+    "name": "O Donovan, Claire",
+    "finish_time": "01:30:23",
+    "finish_seconds": 5423
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 173,
+    "name": "B\u0113ma, Maija",
+    "finish_time": "01:30:47",
+    "finish_seconds": 5447
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 175,
+    "name": "Komorowska-So\u0142odowczuk, Katarzyna",
+    "finish_time": "01:31:06",
+    "finish_seconds": 5466
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 177,
+    "name": "Burs, Klaudia",
+    "finish_time": "01:31:10",
+    "finish_seconds": 5470
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 179,
+    "name": "Matuszewska, Paulina",
+    "finish_time": "01:31:18",
+    "finish_seconds": 5478
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 181,
+    "name": "Bradbury, Florence",
+    "finish_time": "01:31:23",
+    "finish_seconds": 5483
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 183,
+    "name": "Matuszewska, Magdalena",
+    "finish_time": "01:31:48",
+    "finish_seconds": 5508
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 185,
+    "name": "Chustecka, Paula",
+    "finish_time": "01:32:25",
+    "finish_seconds": 5545
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 187,
+    "name": "J\u00f3nsd\u00f3ttir, Tanja Bj\u00f6rk",
+    "finish_time": "01:32:29",
+    "finish_seconds": 5549
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 189,
+    "name": "Kornafel, Barbara",
+    "finish_time": "01:32:36",
+    "finish_seconds": 5556
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 191,
+    "name": "Godiff, Kelsea",
+    "finish_time": "01:32:46",
+    "finish_seconds": 5566
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 193,
+    "name": "Skrzeszewska, Emilia",
+    "finish_time": "01:33:01",
+    "finish_seconds": 5581
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 195,
+    "name": "Prichard, Kym",
+    "finish_time": "01:33:02",
+    "finish_seconds": 5582
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 197,
+    "name": "Damek, Wiktoria",
+    "finish_time": "01:33:10",
+    "finish_seconds": 5590
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 199,
+    "name": "Kr\u00f3l, Izabela",
+    "finish_time": "01:33:23",
+    "finish_seconds": 5603
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 201,
+    "name": "Mandziuk, Edita",
+    "finish_time": "01:33:38",
+    "finish_seconds": 5618
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 203,
+    "name": "Paty\u0144ska, Katarzyna",
+    "finish_time": "01:33:43",
+    "finish_seconds": 5623
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 205,
+    "name": "Sroka, Martyna",
+    "finish_time": "01:33:53",
+    "finish_seconds": 5633
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 207,
+    "name": "Ryan Shanahan, Abbie",
+    "finish_time": "01:34:18",
+    "finish_seconds": 5658
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 209,
+    "name": "Jones, Louise",
+    "finish_time": "01:34:31",
+    "finish_seconds": 5671
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 211,
+    "name": "Protsenko, Mariana",
+    "finish_time": "01:35:09",
+    "finish_seconds": 5709
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 213,
+    "name": "Rajszczak, Anna",
+    "finish_time": "01:35:26",
+    "finish_seconds": 5726
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 215,
+    "name": "Owsianna, Kaja",
+    "finish_time": "01:35:49",
+    "finish_seconds": 5749
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 217,
+    "name": "Wojty\u015b, Natalia",
+    "finish_time": "01:36:07",
+    "finish_seconds": 5767
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 219,
+    "name": "Mazur, Aleksandra",
+    "finish_time": "01:36:30",
+    "finish_seconds": 5790
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 221,
+    "name": "Walerczyk-Sas, Anna",
+    "finish_time": "01:36:57",
+    "finish_seconds": 5817
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 223,
+    "name": "Br\u00f3zda, Katarzyna",
+    "finish_time": "01:37:13",
+    "finish_seconds": 5833
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 225,
+    "name": "Baluta, Anna",
+    "finish_time": "01:37:42",
+    "finish_seconds": 5862
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 227,
+    "name": "Cooney, Jennifer",
+    "finish_time": "01:37:47",
+    "finish_seconds": 5867
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 229,
+    "name": "Stawska, Sylwia",
+    "finish_time": "01:38:07",
+    "finish_seconds": 5887
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 231,
+    "name": "PRZYBY\u0141OWSKA, JUSTYNA",
+    "finish_time": "01:38:10",
+    "finish_seconds": 5890
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 233,
+    "name": "Loc, Agnieszka",
+    "finish_time": "01:38:37",
+    "finish_seconds": 5917
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 235,
+    "name": "\u017barnicka, Anna",
+    "finish_time": "01:38:47",
+    "finish_seconds": 5927
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 237,
+    "name": "Borz\u0119cka, Agata",
+    "finish_time": "01:39:07",
+    "finish_seconds": 5947
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 239,
+    "name": "Winiarska, Katarzyna",
+    "finish_time": "01:39:40",
+    "finish_seconds": 5980
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 241,
+    "name": "Komorek, Sylwia",
+    "finish_time": "01:39:52",
+    "finish_seconds": 5992
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 243,
+    "name": "Tait, Michelle",
+    "finish_time": "01:40:03",
+    "finish_seconds": 6003
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 245,
+    "name": "Durda, Patrycja",
+    "finish_time": "01:40:27",
+    "finish_seconds": 6027
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 247,
+    "name": "G\u00f3recka-Winkler, Paulina",
+    "finish_time": "01:40:37",
+    "finish_seconds": 6037
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 249,
+    "name": "Ragnarsd\u00f3ttir, Rakel",
+    "finish_time": "01:41:17",
+    "finish_seconds": 6077
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 251,
+    "name": "Gabbott, Victoria",
+    "finish_time": "01:41:18",
+    "finish_seconds": 6078
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 253,
+    "name": "Brudzy\u0144ska, Klaudia",
+    "finish_time": "01:41:44",
+    "finish_seconds": 6104
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 255,
+    "name": "Kaim, Kinga",
+    "finish_time": "01:41:59",
+    "finish_seconds": 6119
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 257,
+    "name": "Pawela, Anna",
+    "finish_time": "01:42:19",
+    "finish_seconds": 6139
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 259,
+    "name": "Lachowicz, Anna",
+    "finish_time": "01:42:51",
+    "finish_seconds": 6171
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 261,
+    "name": "Zeszutek, Natalia",
+    "finish_time": "01:43:03",
+    "finish_seconds": 6183
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 263,
+    "name": "Tomaszewska, Agata",
+    "finish_time": "01:43:16",
+    "finish_seconds": 6196
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 265,
+    "name": "Proca, Cristina",
+    "finish_time": "01:43:22",
+    "finish_seconds": 6202
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 267,
+    "name": "Jarkowska, Barbara",
+    "finish_time": "01:44:13",
+    "finish_seconds": 6253
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 269,
+    "name": "Ku\u0107, Renata",
+    "finish_time": "01:44:25",
+    "finish_seconds": 6265
+  },
+  {
+    "venue": "2025 Gdansk",
+    "gender": "W",
+    "rank": 271,
+    "name": "Kobylarczyk, Ma\u0142gorzata",
+    "finish_time": "01:44:34",
+    "finish_seconds": 6274
+  }
+]

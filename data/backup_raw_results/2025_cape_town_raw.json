@@ -1,0 +1,3882 @@
+[
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 1,
+    "name": "Lotter, Janco",
+    "finish_time": "01:02:25",
+    "finish_seconds": 3745
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 2,
+    "name": "Goldsbrough, Simon",
+    "finish_time": "01:02:29",
+    "finish_seconds": 3749
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 4,
+    "name": "Nel, Charles",
+    "finish_time": "01:02:52",
+    "finish_seconds": 3772
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 6,
+    "name": "Kamffer, Heinrich",
+    "finish_time": "01:04:06",
+    "finish_seconds": 3846
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 8,
+    "name": "Deane, Jonathan",
+    "finish_time": "01:04:26",
+    "finish_seconds": 3866
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 10,
+    "name": "Du Plessis, Pieter",
+    "finish_time": "01:05:11",
+    "finish_seconds": 3911
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 12,
+    "name": "Gouws, Ethan",
+    "finish_time": "01:05:31",
+    "finish_seconds": 3931
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 14,
+    "name": "Steer, Ryan (Double Quote)Ry(Double Q",
+    "finish_time": "01:06:39",
+    "finish_seconds": 3999
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 16,
+    "name": "Stevens, Lance",
+    "finish_time": "01:07:07",
+    "finish_seconds": 4027
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 18,
+    "name": "Usher, Devon",
+    "finish_time": "01:07:37",
+    "finish_seconds": 4057
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 20,
+    "name": "Levin, Simon",
+    "finish_time": "01:07:53",
+    "finish_seconds": 4073
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 22,
+    "name": "April, Dalton",
+    "finish_time": "01:08:16",
+    "finish_seconds": 4096
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 24,
+    "name": "Greeff, Christiaan",
+    "finish_time": "01:09:18",
+    "finish_seconds": 4158
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 26,
+    "name": "Mesquita Da Cruz, Leonardo",
+    "finish_time": "01:09:48",
+    "finish_seconds": 4188
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 28,
+    "name": "Jordaan, Louw",
+    "finish_time": "01:09:53",
+    "finish_seconds": 4193
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 30,
+    "name": "Hewlett, Tristan Evan",
+    "finish_time": "01:10:02",
+    "finish_seconds": 4202
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 32,
+    "name": "Golding, Jaysen",
+    "finish_time": "01:10:05",
+    "finish_seconds": 4205
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 34,
+    "name": "De Beer, Jan",
+    "finish_time": "01:10:18",
+    "finish_seconds": 4218
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 36,
+    "name": "Van Niekerk, Lenel",
+    "finish_time": "01:10:28",
+    "finish_seconds": 4228
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 38,
+    "name": "Henderson, Mauritz",
+    "finish_time": "01:10:56",
+    "finish_seconds": 4256
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 40,
+    "name": "Hattingh, Wium",
+    "finish_time": "01:11:05",
+    "finish_seconds": 4265
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 42,
+    "name": "Genser, Alexander",
+    "finish_time": "01:11:08",
+    "finish_seconds": 4268
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 44,
+    "name": "Solomons, Zeo",
+    "finish_time": "01:11:26",
+    "finish_seconds": 4286
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 46,
+    "name": "Basson, Ryan",
+    "finish_time": "01:11:30",
+    "finish_seconds": 4290
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 48,
+    "name": "Taylor, Alistair",
+    "finish_time": "01:11:44",
+    "finish_seconds": 4304
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 50,
+    "name": "Wicht, Johan",
+    "finish_time": "01:12:19",
+    "finish_seconds": 4339
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 52,
+    "name": "Kuhlmann, Daniel",
+    "finish_time": "01:12:34",
+    "finish_seconds": 4354
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 54,
+    "name": "Louw, Petri",
+    "finish_time": "01:12:40",
+    "finish_seconds": 4360
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 56,
+    "name": "Doubell, Ryan",
+    "finish_time": "01:12:48",
+    "finish_seconds": 4368
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 58,
+    "name": "Turkington, Wesley",
+    "finish_time": "01:13:03",
+    "finish_seconds": 4383
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 60,
+    "name": "Bigham, Jonathan",
+    "finish_time": "01:13:22",
+    "finish_seconds": 4402
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 62,
+    "name": "Rees-Gibbs, Dean",
+    "finish_time": "01:13:33",
+    "finish_seconds": 4413
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 64,
+    "name": "Beeslaar, Gerhard",
+    "finish_time": "01:13:35",
+    "finish_seconds": 4415
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 66,
+    "name": "Willard, Justin",
+    "finish_time": "01:14:02",
+    "finish_seconds": 4442
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 68,
+    "name": "De Jongh, Quintin",
+    "finish_time": "01:14:15",
+    "finish_seconds": 4455
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 70,
+    "name": "Marais, Nico",
+    "finish_time": "01:14:20",
+    "finish_seconds": 4460
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 72,
+    "name": "Hunter-Parsonage, Jonathan",
+    "finish_time": "01:14:26",
+    "finish_seconds": 4466
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 74,
+    "name": "Human-Reto, Llewellyn",
+    "finish_time": "01:14:35",
+    "finish_seconds": 4475
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 76,
+    "name": "Dassie, Michael",
+    "finish_time": "01:14:50",
+    "finish_seconds": 4490
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 78,
+    "name": "Nel, Dante",
+    "finish_time": "01:14:59",
+    "finish_seconds": 4499
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 80,
+    "name": "Gerhardt, Hedley",
+    "finish_time": "01:15:17",
+    "finish_seconds": 4517
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 82,
+    "name": "Van Der Merwe, Frans",
+    "finish_time": "01:15:50",
+    "finish_seconds": 4550
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 84,
+    "name": "Gillingham, Paul Cyrille",
+    "finish_time": "01:15:57",
+    "finish_seconds": 4557
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 86,
+    "name": "Alexander, Anver",
+    "finish_time": "01:16:15",
+    "finish_seconds": 4575
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 88,
+    "name": "Van Blerk, Andre",
+    "finish_time": "01:16:26",
+    "finish_seconds": 4586
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 90,
+    "name": "Fredericks, Clint",
+    "finish_time": "01:16:31",
+    "finish_seconds": 4591
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 92,
+    "name": "Thixton, Ash",
+    "finish_time": "01:16:44",
+    "finish_seconds": 4604
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 94,
+    "name": "Mumba, Tim",
+    "finish_time": "01:17:15",
+    "finish_seconds": 4635
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 96,
+    "name": "Heydenrych, Conrad",
+    "finish_time": "01:17:24",
+    "finish_seconds": 4644
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 98,
+    "name": "Joaquim, Duane",
+    "finish_time": "01:17:25",
+    "finish_seconds": 4645
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 100,
+    "name": "Aucamp, Pieter",
+    "finish_time": "01:17:37",
+    "finish_seconds": 4657
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 102,
+    "name": "Fourie, Jan",
+    "finish_time": "01:17:43",
+    "finish_seconds": 4663
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 104,
+    "name": "Collins, Ben",
+    "finish_time": "01:17:48",
+    "finish_seconds": 4668
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 106,
+    "name": "Beukes, Tiaan",
+    "finish_time": "01:17:52",
+    "finish_seconds": 4672
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 108,
+    "name": "Chemaly, Thomas",
+    "finish_time": "01:18:06",
+    "finish_seconds": 4686
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 110,
+    "name": "Oosthuizen, Nico",
+    "finish_time": "01:18:14",
+    "finish_seconds": 4694
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 112,
+    "name": "Munro, Xan",
+    "finish_time": "01:18:17",
+    "finish_seconds": 4697
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 114,
+    "name": "Buthelezi, Siyabonga",
+    "finish_time": "01:18:26",
+    "finish_seconds": 4706
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 116,
+    "name": "Monticoe, Maxx",
+    "finish_time": "01:18:35",
+    "finish_seconds": 4715
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 118,
+    "name": "Van Niekerk, Andre",
+    "finish_time": "01:18:48",
+    "finish_seconds": 4728
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 120,
+    "name": "Bruwer, Jordaan",
+    "finish_time": "01:18:58",
+    "finish_seconds": 4738
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 122,
+    "name": "Slootmans, Tom",
+    "finish_time": "01:19:04",
+    "finish_seconds": 4744
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 124,
+    "name": "Gerber, Ben-Pierre",
+    "finish_time": "01:19:16",
+    "finish_seconds": 4756
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 126,
+    "name": "Affat, Nicholas",
+    "finish_time": "01:19:21",
+    "finish_seconds": 4761
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 128,
+    "name": "Khawula, Nduduzo",
+    "finish_time": "01:19:30",
+    "finish_seconds": 4770
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 130,
+    "name": "Chonco, Khulani",
+    "finish_time": "01:19:31",
+    "finish_seconds": 4771
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 132,
+    "name": "Swartland, Michael",
+    "finish_time": "01:19:43",
+    "finish_seconds": 4783
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 134,
+    "name": "Beukman, Bernhard",
+    "finish_time": "01:19:58",
+    "finish_seconds": 4798
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 136,
+    "name": "Keulder, Dewald",
+    "finish_time": "01:20:03",
+    "finish_seconds": 4803
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 138,
+    "name": "Lee, Thomas",
+    "finish_time": "01:20:08",
+    "finish_seconds": 4808
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 140,
+    "name": "Lombaard, Cor",
+    "finish_time": "01:20:22",
+    "finish_seconds": 4822
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 142,
+    "name": "Humphries, Mickey",
+    "finish_time": "01:20:34",
+    "finish_seconds": 4834
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 144,
+    "name": "Lipawsky, Christopher",
+    "finish_time": "01:20:42",
+    "finish_seconds": 4842
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 146,
+    "name": "Goeieman, Steve",
+    "finish_time": "01:20:52",
+    "finish_seconds": 4852
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 148,
+    "name": "Moulder, Anrich",
+    "finish_time": "01:20:54",
+    "finish_seconds": 4854
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 150,
+    "name": "Laby, Mathieu",
+    "finish_time": "01:21:00",
+    "finish_seconds": 4860
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 152,
+    "name": "Troskie, Christiaan",
+    "finish_time": "01:21:04",
+    "finish_seconds": 4864
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 154,
+    "name": "Melck, Ronnie",
+    "finish_time": "01:21:13",
+    "finish_seconds": 4873
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 156,
+    "name": "Marima, Sipho",
+    "finish_time": "01:21:17",
+    "finish_seconds": 4877
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 158,
+    "name": "Rodrigues, Keegan",
+    "finish_time": "01:21:25",
+    "finish_seconds": 4885
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 160,
+    "name": "Murray, Ben",
+    "finish_time": "01:21:27",
+    "finish_seconds": 4887
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 162,
+    "name": "Berman, Darren",
+    "finish_time": "01:21:31",
+    "finish_seconds": 4891
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 164,
+    "name": "Sanza Iii, Bethel",
+    "finish_time": "01:21:42",
+    "finish_seconds": 4902
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 166,
+    "name": "Abrahams, Liam Toni",
+    "finish_time": "01:21:42",
+    "finish_seconds": 4902
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 168,
+    "name": "Marewangepo, Takudzwa",
+    "finish_time": "01:21:48",
+    "finish_seconds": 4908
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 170,
+    "name": "Sharp, Kendon",
+    "finish_time": "01:21:50",
+    "finish_seconds": 4910
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 172,
+    "name": "Pauw, Theo",
+    "finish_time": "01:21:51",
+    "finish_seconds": 4911
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 174,
+    "name": "Rossouw, Anthon",
+    "finish_time": "01:22:02",
+    "finish_seconds": 4922
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 176,
+    "name": "Lindveld, Julio",
+    "finish_time": "01:22:08",
+    "finish_seconds": 4928
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 178,
+    "name": "Mcclintock, Francois",
+    "finish_time": "01:22:11",
+    "finish_seconds": 4931
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 180,
+    "name": "Mclellan, Garreth",
+    "finish_time": "01:22:14",
+    "finish_seconds": 4934
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 182,
+    "name": "Ferreira, Janus",
+    "finish_time": "01:22:28",
+    "finish_seconds": 4948
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 184,
+    "name": "Simmons, Justin",
+    "finish_time": "01:22:31",
+    "finish_seconds": 4951
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 186,
+    "name": "Eid, Louis Zahawi",
+    "finish_time": "01:22:43",
+    "finish_seconds": 4963
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 188,
+    "name": "Trichard, Jean-Marc",
+    "finish_time": "01:22:54",
+    "finish_seconds": 4974
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 190,
+    "name": "Jansen, Rohan",
+    "finish_time": "01:23:03",
+    "finish_seconds": 4983
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 192,
+    "name": "Castle, Sheldon",
+    "finish_time": "01:23:09",
+    "finish_seconds": 4989
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 194,
+    "name": "Wasserfall, Dylan",
+    "finish_time": "01:23:11",
+    "finish_seconds": 4991
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 196,
+    "name": "Van Huyssteen, Heinrich",
+    "finish_time": "01:23:15",
+    "finish_seconds": 4995
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 198,
+    "name": "Van Stryp, Theo",
+    "finish_time": "01:23:27",
+    "finish_seconds": 5007
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 200,
+    "name": "Berkowitz, Shane",
+    "finish_time": "01:23:44",
+    "finish_seconds": 5024
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 202,
+    "name": "Thebus, Ziyaad",
+    "finish_time": "01:23:49",
+    "finish_seconds": 5029
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 204,
+    "name": "Louw, Jacques",
+    "finish_time": "01:23:58",
+    "finish_seconds": 5038
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 206,
+    "name": "Payne, Wesley",
+    "finish_time": "01:24:07",
+    "finish_seconds": 5047
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 208,
+    "name": "Sanders, Darren",
+    "finish_time": "01:24:15",
+    "finish_seconds": 5055
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 210,
+    "name": "Van Wyk, Jarod",
+    "finish_time": "01:24:21",
+    "finish_seconds": 5061
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 212,
+    "name": "Latiff, Muhammad Bilal",
+    "finish_time": "01:24:24",
+    "finish_seconds": 5064
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 214,
+    "name": "Saravia, Andres",
+    "finish_time": "01:24:33",
+    "finish_seconds": 5073
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 216,
+    "name": "Motha, Sithembiso",
+    "finish_time": "01:24:45",
+    "finish_seconds": 5085
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 218,
+    "name": "Summers, Rainer",
+    "finish_time": "01:24:50",
+    "finish_seconds": 5090
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 220,
+    "name": "Cilliers, Daniel",
+    "finish_time": "01:24:54",
+    "finish_seconds": 5094
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 222,
+    "name": "Mulligan, Cecil",
+    "finish_time": "01:24:57",
+    "finish_seconds": 5097
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 224,
+    "name": "Bellingan, Ruan",
+    "finish_time": "01:25:10",
+    "finish_seconds": 5110
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 226,
+    "name": "Trew-Browne, Rae",
+    "finish_time": "01:25:21",
+    "finish_seconds": 5121
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 228,
+    "name": "Kollenberg, Benjamin",
+    "finish_time": "01:25:26",
+    "finish_seconds": 5126
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 230,
+    "name": "Van Rensburg, Deon",
+    "finish_time": "01:25:31",
+    "finish_seconds": 5131
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 232,
+    "name": "Douglas, Tim",
+    "finish_time": "01:25:46",
+    "finish_seconds": 5146
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 234,
+    "name": "Ngotho, Samuel",
+    "finish_time": "01:25:51",
+    "finish_seconds": 5151
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 236,
+    "name": "Pillay, Ricardo",
+    "finish_time": "01:25:59",
+    "finish_seconds": 5159
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 238,
+    "name": "Fredericks, Umar",
+    "finish_time": "01:26:13",
+    "finish_seconds": 5173
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 240,
+    "name": "Isaac, Dale",
+    "finish_time": "01:26:17",
+    "finish_seconds": 5177
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 242,
+    "name": "Verschuren, Robert",
+    "finish_time": "01:26:24",
+    "finish_seconds": 5184
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 244,
+    "name": "Schoeman, Gordon",
+    "finish_time": "01:26:27",
+    "finish_seconds": 5187
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 246,
+    "name": "Petzer, Jared",
+    "finish_time": "01:26:48",
+    "finish_seconds": 5208
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 248,
+    "name": "Knoesen, Scherrit",
+    "finish_time": "01:26:48",
+    "finish_seconds": 5208
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 250,
+    "name": "Visser, Devilliers",
+    "finish_time": "01:26:54",
+    "finish_seconds": 5214
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 252,
+    "name": "Van Wyk, Louis",
+    "finish_time": "01:27:01",
+    "finish_seconds": 5221
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 254,
+    "name": "Wilson, Peter",
+    "finish_time": "01:27:27",
+    "finish_seconds": 5247
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 256,
+    "name": "Madlala, Awanda",
+    "finish_time": "01:27:49",
+    "finish_seconds": 5269
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 258,
+    "name": "Van Rooyen, Inus",
+    "finish_time": "01:27:55",
+    "finish_seconds": 5275
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 260,
+    "name": "Mia, Imraan",
+    "finish_time": "01:28:04",
+    "finish_seconds": 5284
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 262,
+    "name": "Wessels, Deon",
+    "finish_time": "01:28:11",
+    "finish_seconds": 5291
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 264,
+    "name": "Fernandes, Jean-Claude",
+    "finish_time": "01:28:23",
+    "finish_seconds": 5303
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 266,
+    "name": "De Villiers, Gideon",
+    "finish_time": "01:28:31",
+    "finish_seconds": 5311
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 268,
+    "name": "Edey, Richard",
+    "finish_time": "01:28:34",
+    "finish_seconds": 5314
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 270,
+    "name": "De Sousa, Manny",
+    "finish_time": "01:28:35",
+    "finish_seconds": 5315
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 272,
+    "name": "Lisk, Leigh",
+    "finish_time": "01:28:51",
+    "finish_seconds": 5331
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 274,
+    "name": "Du Plessis, Divan",
+    "finish_time": "01:28:52",
+    "finish_seconds": 5332
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 276,
+    "name": "Webb, Frederick",
+    "finish_time": "01:28:58",
+    "finish_seconds": 5338
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 278,
+    "name": "Diepes, Oliver",
+    "finish_time": "01:28:59",
+    "finish_seconds": 5339
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 280,
+    "name": "Mcclure, Tyler",
+    "finish_time": "01:29:10",
+    "finish_seconds": 5350
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 282,
+    "name": "Bosch, Werner",
+    "finish_time": "01:29:18",
+    "finish_seconds": 5358
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 284,
+    "name": "Greyling, Herman",
+    "finish_time": "01:29:21",
+    "finish_seconds": 5361
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 286,
+    "name": "Bolze, Simon",
+    "finish_time": "01:29:27",
+    "finish_seconds": 5367
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 288,
+    "name": "Porter, Nicholas",
+    "finish_time": "01:29:34",
+    "finish_seconds": 5374
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 290,
+    "name": "Erasmus, Andre",
+    "finish_time": "01:29:36",
+    "finish_seconds": 5376
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 292,
+    "name": "Brosnihan, Warren",
+    "finish_time": "01:29:54",
+    "finish_seconds": 5394
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 294,
+    "name": "Jooste, Tyler",
+    "finish_time": "01:30:03",
+    "finish_seconds": 5403
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 296,
+    "name": "Louw, Byron",
+    "finish_time": "01:30:11",
+    "finish_seconds": 5411
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 298,
+    "name": "Mafuva, Tawanda",
+    "finish_time": "01:30:23",
+    "finish_seconds": 5423
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 300,
+    "name": "Jolobe, Aya",
+    "finish_time": "01:30:35",
+    "finish_seconds": 5435
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 302,
+    "name": "Masondo, Samkelo",
+    "finish_time": "01:30:42",
+    "finish_seconds": 5442
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 304,
+    "name": "Mashita, Sammy",
+    "finish_time": "01:30:49",
+    "finish_seconds": 5449
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 306,
+    "name": "Mbhele, Siphamandla",
+    "finish_time": "01:30:55",
+    "finish_seconds": 5455
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 308,
+    "name": "Meekel, Max",
+    "finish_time": "01:30:56",
+    "finish_seconds": 5456
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 310,
+    "name": "Mcdonald, Greg",
+    "finish_time": "01:31:01",
+    "finish_seconds": 5461
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 312,
+    "name": "Miller, Michael",
+    "finish_time": "01:31:13",
+    "finish_seconds": 5473
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 314,
+    "name": "Schneeberger, Shaun",
+    "finish_time": "01:31:25",
+    "finish_seconds": 5485
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 316,
+    "name": "Kennedy, Grant",
+    "finish_time": "01:31:34",
+    "finish_seconds": 5494
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 318,
+    "name": "Rawjee, Raj",
+    "finish_time": "01:31:43",
+    "finish_seconds": 5503
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 320,
+    "name": "Govender, Dean",
+    "finish_time": "01:31:46",
+    "finish_seconds": 5506
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 322,
+    "name": "Dormer, Blake",
+    "finish_time": "01:31:55",
+    "finish_seconds": 5515
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 324,
+    "name": "Muller, Pieter-John",
+    "finish_time": "01:32:04",
+    "finish_seconds": 5524
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 326,
+    "name": "Kamara, Amadu",
+    "finish_time": "01:32:10",
+    "finish_seconds": 5530
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 328,
+    "name": "Spies, Abraham",
+    "finish_time": "01:32:15",
+    "finish_seconds": 5535
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 330,
+    "name": "Spofana, Samuel",
+    "finish_time": "01:32:21",
+    "finish_seconds": 5541
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 332,
+    "name": "Potgieter, Jaco",
+    "finish_time": "01:32:23",
+    "finish_seconds": 5543
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 334,
+    "name": "Hanekom, Nic",
+    "finish_time": "01:32:34",
+    "finish_seconds": 5554
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 336,
+    "name": "Burger, Schalk-Willem",
+    "finish_time": "01:32:39",
+    "finish_seconds": 5559
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 338,
+    "name": "Ross, Stuart Alexander",
+    "finish_time": "01:32:48",
+    "finish_seconds": 5568
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 340,
+    "name": "Slater, Bradley",
+    "finish_time": "01:32:52",
+    "finish_seconds": 5572
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 342,
+    "name": "Galatis, Michael",
+    "finish_time": "01:33:04",
+    "finish_seconds": 5584
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 344,
+    "name": "Bothma, Dan",
+    "finish_time": "01:33:07",
+    "finish_seconds": 5587
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 346,
+    "name": "Johnson, Olufemi",
+    "finish_time": "01:33:12",
+    "finish_seconds": 5592
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 348,
+    "name": "Bopoto, Tapiwa",
+    "finish_time": "01:33:15",
+    "finish_seconds": 5595
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 350,
+    "name": "Mclachlan, Peter",
+    "finish_time": "01:33:19",
+    "finish_seconds": 5599
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 352,
+    "name": "Webb, Mat",
+    "finish_time": "01:33:20",
+    "finish_seconds": 5600
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 354,
+    "name": "Van Zyl, Bertus",
+    "finish_time": "01:33:27",
+    "finish_seconds": 5607
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 356,
+    "name": "Lassissi, Abdou",
+    "finish_time": "01:33:30",
+    "finish_seconds": 5610
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 358,
+    "name": "Bethell, David",
+    "finish_time": "01:33:48",
+    "finish_seconds": 5628
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 360,
+    "name": "Grobbelaar, Da-Neil",
+    "finish_time": "01:33:57",
+    "finish_seconds": 5637
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 362,
+    "name": "Theron, Tiaan",
+    "finish_time": "01:34:00",
+    "finish_seconds": 5640
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 364,
+    "name": "Van Loggerenberg, Rohan",
+    "finish_time": "01:34:03",
+    "finish_seconds": 5643
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 366,
+    "name": "Cloete, Jonathan",
+    "finish_time": "01:34:09",
+    "finish_seconds": 5649
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 368,
+    "name": "Torvaney, James",
+    "finish_time": "01:34:12",
+    "finish_seconds": 5652
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 370,
+    "name": "Du Preez, Mark",
+    "finish_time": "01:34:18",
+    "finish_seconds": 5658
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 372,
+    "name": "Muchatibaya, Hilbert",
+    "finish_time": "01:34:26",
+    "finish_seconds": 5666
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 374,
+    "name": "Nxumalo, Tshepo",
+    "finish_time": "01:34:31",
+    "finish_seconds": 5671
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 376,
+    "name": "Harvey, Derek",
+    "finish_time": "01:34:47",
+    "finish_seconds": 5687
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 378,
+    "name": "Bates, Ambrose",
+    "finish_time": "01:34:53",
+    "finish_seconds": 5693
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 380,
+    "name": "Jooste, Maritz",
+    "finish_time": "01:34:55",
+    "finish_seconds": 5695
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 382,
+    "name": "Opperman, Michael",
+    "finish_time": "01:35:00",
+    "finish_seconds": 5700
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 384,
+    "name": "Ely, Tashreeq",
+    "finish_time": "01:35:17",
+    "finish_seconds": 5717
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 386,
+    "name": "Manaka, Tebogo",
+    "finish_time": "01:35:23",
+    "finish_seconds": 5723
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 388,
+    "name": "Hanse, Rudy",
+    "finish_time": "01:35:27",
+    "finish_seconds": 5727
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 390,
+    "name": "Durandt, David",
+    "finish_time": "01:35:32",
+    "finish_seconds": 5732
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 392,
+    "name": "O'Reilly, Jared",
+    "finish_time": "01:35:43",
+    "finish_seconds": 5743
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 394,
+    "name": "Bond, Ayren",
+    "finish_time": "01:35:47",
+    "finish_seconds": 5747
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 396,
+    "name": "Van Jaarsveld, Gert",
+    "finish_time": "01:35:56",
+    "finish_seconds": 5756
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 398,
+    "name": "Jordaan, Helgaard",
+    "finish_time": "01:36:05",
+    "finish_seconds": 5765
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 400,
+    "name": "Naidoo, Jared",
+    "finish_time": "01:36:09",
+    "finish_seconds": 5769
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 402,
+    "name": "Willis, Vainon",
+    "finish_time": "01:36:20",
+    "finish_seconds": 5780
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 404,
+    "name": "Turner, Matthew",
+    "finish_time": "01:36:31",
+    "finish_seconds": 5791
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 406,
+    "name": "Geldenhuys, Johan",
+    "finish_time": "01:36:54",
+    "finish_seconds": 5814
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 408,
+    "name": "Kruger, Sage",
+    "finish_time": "01:37:05",
+    "finish_seconds": 5825
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 410,
+    "name": "Williams, Dwayne",
+    "finish_time": "01:37:06",
+    "finish_seconds": 5826
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 412,
+    "name": "Smit, Erik",
+    "finish_time": "01:37:11",
+    "finish_seconds": 5831
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 414,
+    "name": "Adam, Stuart",
+    "finish_time": "01:37:19",
+    "finish_seconds": 5839
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 416,
+    "name": "Rarane, Lonwabo",
+    "finish_time": "01:37:31",
+    "finish_seconds": 5851
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 418,
+    "name": "Towindo, Tiri",
+    "finish_time": "01:37:36",
+    "finish_seconds": 5856
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 420,
+    "name": "Stemmet, Dayyaan",
+    "finish_time": "01:37:41",
+    "finish_seconds": 5861
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 422,
+    "name": "Gericke, Anrich",
+    "finish_time": "01:37:54",
+    "finish_seconds": 5874
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 424,
+    "name": "Strauss, Johann",
+    "finish_time": "01:37:55",
+    "finish_seconds": 5875
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 426,
+    "name": "Hawkins, Sacha",
+    "finish_time": "01:37:59",
+    "finish_seconds": 5879
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 428,
+    "name": "Boswell, Keegan",
+    "finish_time": "01:38:09",
+    "finish_seconds": 5889
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 430,
+    "name": "Stears, Reinhardt",
+    "finish_time": "01:38:14",
+    "finish_seconds": 5894
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 432,
+    "name": "Gxasheka, Nathi",
+    "finish_time": "01:38:25",
+    "finish_seconds": 5905
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 434,
+    "name": "Taberer, Roy",
+    "finish_time": "01:38:33",
+    "finish_seconds": 5913
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 436,
+    "name": "Saidi, Tinashe",
+    "finish_time": "01:38:53",
+    "finish_seconds": 5933
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 438,
+    "name": "Zwart, Dillan",
+    "finish_time": "01:39:01",
+    "finish_seconds": 5941
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 440,
+    "name": "Kennedy, Kyle",
+    "finish_time": "01:39:04",
+    "finish_seconds": 5944
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 442,
+    "name": "Mokone, Dayfred",
+    "finish_time": "01:39:08",
+    "finish_seconds": 5948
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 444,
+    "name": "Lyster, James",
+    "finish_time": "01:39:37",
+    "finish_seconds": 5977
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 446,
+    "name": "Mashinini, Xolani",
+    "finish_time": "01:39:42",
+    "finish_seconds": 5982
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 448,
+    "name": "Jacobs, Jerome",
+    "finish_time": "01:39:43",
+    "finish_seconds": 5983
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 450,
+    "name": "Kessler, Wayne",
+    "finish_time": "01:39:44",
+    "finish_seconds": 5984
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 452,
+    "name": "Westra, Bernhard",
+    "finish_time": "01:39:45",
+    "finish_seconds": 5985
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 454,
+    "name": "Bham, Muneer",
+    "finish_time": "01:39:58",
+    "finish_seconds": 5998
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 456,
+    "name": "Gouws, Johan",
+    "finish_time": "01:40:03",
+    "finish_seconds": 6003
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 458,
+    "name": "Jakoet, Ebrahim",
+    "finish_time": "01:40:11",
+    "finish_seconds": 6011
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 460,
+    "name": "Robertson, Nic",
+    "finish_time": "01:40:17",
+    "finish_seconds": 6017
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 462,
+    "name": "Nkosi, Sobhuza",
+    "finish_time": "01:40:58",
+    "finish_seconds": 6058
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 464,
+    "name": "Jacobs, Byron",
+    "finish_time": "01:41:03",
+    "finish_seconds": 6063
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 466,
+    "name": "Kriel, Jason",
+    "finish_time": "01:41:10",
+    "finish_seconds": 6070
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 468,
+    "name": "Mostert, Andrew",
+    "finish_time": "01:41:17",
+    "finish_seconds": 6077
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 470,
+    "name": "Oo, Swunhtat",
+    "finish_time": "01:41:28",
+    "finish_seconds": 6088
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 472,
+    "name": "Staats, Wouter",
+    "finish_time": "01:41:32",
+    "finish_seconds": 6092
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 474,
+    "name": "Moore, Nathan",
+    "finish_time": "01:41:38",
+    "finish_seconds": 6098
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 476,
+    "name": "Le Roux, Marius",
+    "finish_time": "01:41:53",
+    "finish_seconds": 6113
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 478,
+    "name": "Poluektov, Vladimir",
+    "finish_time": "01:42:00",
+    "finish_seconds": 6120
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 480,
+    "name": "Schreuder, Altus",
+    "finish_time": "01:42:15",
+    "finish_seconds": 6135
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 482,
+    "name": "Riitho, Eric",
+    "finish_time": "01:42:22",
+    "finish_seconds": 6142
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 484,
+    "name": "Hough, Jaco",
+    "finish_time": "01:42:31",
+    "finish_seconds": 6151
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 486,
+    "name": "Parker, Graham",
+    "finish_time": "01:42:36",
+    "finish_seconds": 6156
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 488,
+    "name": "Groenewald, Mark",
+    "finish_time": "01:42:39",
+    "finish_seconds": 6159
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 490,
+    "name": "Van Der Westhuizen, Steve",
+    "finish_time": "01:42:45",
+    "finish_seconds": 6165
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 492,
+    "name": "Jeptha, Sherwin",
+    "finish_time": "01:42:50",
+    "finish_seconds": 6170
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 494,
+    "name": "Johnson, Van-Lee",
+    "finish_time": "01:42:56",
+    "finish_seconds": 6176
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 496,
+    "name": "Sonkosi, Kuhle",
+    "finish_time": "01:43:01",
+    "finish_seconds": 6181
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 498,
+    "name": "Biaya, Alex",
+    "finish_time": "01:43:46",
+    "finish_seconds": 6226
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 500,
+    "name": "Young, Kyle",
+    "finish_time": "01:43:55",
+    "finish_seconds": 6235
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 502,
+    "name": "Weyer, Lourens",
+    "finish_time": "01:44:02",
+    "finish_seconds": 6242
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 504,
+    "name": "Cerfonteyn, Jared",
+    "finish_time": "01:44:07",
+    "finish_seconds": 6247
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 506,
+    "name": "Setiloane, Moeng",
+    "finish_time": "01:44:17",
+    "finish_seconds": 6257
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 508,
+    "name": "Fernandes, Jean-Claude",
+    "finish_time": "01:44:26",
+    "finish_seconds": 6266
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 510,
+    "name": "Umpafu, Harmony",
+    "finish_time": "01:44:36",
+    "finish_seconds": 6276
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 512,
+    "name": "Best, James",
+    "finish_time": "01:44:50",
+    "finish_seconds": 6290
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 514,
+    "name": "Van As, Armin",
+    "finish_time": "01:44:58",
+    "finish_seconds": 6298
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 516,
+    "name": "Majola, Mfundo",
+    "finish_time": "01:45:25",
+    "finish_seconds": 6325
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 518,
+    "name": "Mcconkey, Matthew",
+    "finish_time": "01:45:30",
+    "finish_seconds": 6330
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 520,
+    "name": "Mtshali, Lelo",
+    "finish_time": "01:45:51",
+    "finish_seconds": 6351
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 522,
+    "name": "Fivaz, Derryk",
+    "finish_time": "01:45:59",
+    "finish_seconds": 6359
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 524,
+    "name": "Motsa, Khayalethu",
+    "finish_time": "01:46:04",
+    "finish_seconds": 6364
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 526,
+    "name": "Mncayi, Anda",
+    "finish_time": "01:46:09",
+    "finish_seconds": 6369
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 528,
+    "name": "Mooi, Sechaba",
+    "finish_time": "01:46:15",
+    "finish_seconds": 6375
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 530,
+    "name": "Liesbrock, Philipp",
+    "finish_time": "01:46:27",
+    "finish_seconds": 6387
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 532,
+    "name": "Du Randt, Zeanu",
+    "finish_time": "01:46:37",
+    "finish_seconds": 6397
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 534,
+    "name": "Wilson, Matthew",
+    "finish_time": "01:46:48",
+    "finish_seconds": 6408
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 536,
+    "name": "Desmond, Daniel",
+    "finish_time": "01:46:54",
+    "finish_seconds": 6414
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 538,
+    "name": "Gunning, Storm",
+    "finish_time": "01:47:07",
+    "finish_seconds": 6427
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 540,
+    "name": "Mcevoy, Greg",
+    "finish_time": "01:47:15",
+    "finish_seconds": 6435
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 542,
+    "name": "Naidoo, Jonathan",
+    "finish_time": "01:47:28",
+    "finish_seconds": 6448
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 544,
+    "name": "Bindu, Leon",
+    "finish_time": "01:47:45",
+    "finish_seconds": 6465
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 546,
+    "name": "Cronje, George",
+    "finish_time": "01:47:54",
+    "finish_seconds": 6474
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 548,
+    "name": "Tenza, Dumisani",
+    "finish_time": "01:48:10",
+    "finish_seconds": 6490
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 550,
+    "name": "Kohlsdorf, Marcel",
+    "finish_time": "01:48:29",
+    "finish_seconds": 6509
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 552,
+    "name": "Du Toit, Jacques",
+    "finish_time": "01:48:36",
+    "finish_seconds": 6516
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 554,
+    "name": "Ismail, Muhammad",
+    "finish_time": "01:48:40",
+    "finish_seconds": 6520
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 556,
+    "name": "Robinson, Andrew",
+    "finish_time": "01:48:53",
+    "finish_seconds": 6533
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 558,
+    "name": "Hume, Brandon",
+    "finish_time": "01:49:09",
+    "finish_seconds": 6549
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 560,
+    "name": "Chhika, Rahul",
+    "finish_time": "01:49:13",
+    "finish_seconds": 6553
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 562,
+    "name": "Genis, James",
+    "finish_time": "01:49:27",
+    "finish_seconds": 6567
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 564,
+    "name": "Nabbee, Zayne",
+    "finish_time": "01:49:31",
+    "finish_seconds": 6571
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 566,
+    "name": "Mnguni, Bethu",
+    "finish_time": "01:49:38",
+    "finish_seconds": 6578
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 568,
+    "name": "Pyper, Shaun",
+    "finish_time": "01:50:09",
+    "finish_seconds": 6609
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 570,
+    "name": "Davids, Franco",
+    "finish_time": "01:50:26",
+    "finish_seconds": 6626
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 572,
+    "name": "Marsden, Iain",
+    "finish_time": "01:50:36",
+    "finish_seconds": 6636
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 574,
+    "name": "Hector, Lehandro",
+    "finish_time": "01:50:47",
+    "finish_seconds": 6647
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 576,
+    "name": "Ricketts, Vincent",
+    "finish_time": "01:50:59",
+    "finish_seconds": 6659
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 578,
+    "name": "Ballim, Imraan",
+    "finish_time": "01:51:04",
+    "finish_seconds": 6664
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 580,
+    "name": "Woest, Kieran",
+    "finish_time": "01:51:33",
+    "finish_seconds": 6693
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 582,
+    "name": "Smith, Ashraf",
+    "finish_time": "01:51:47",
+    "finish_seconds": 6707
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 584,
+    "name": "Marmande, Theo",
+    "finish_time": "01:51:52",
+    "finish_seconds": 6712
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 586,
+    "name": "Williams, Leor",
+    "finish_time": "01:52:02",
+    "finish_seconds": 6722
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 588,
+    "name": "Harris, Keaton",
+    "finish_time": "01:52:09",
+    "finish_seconds": 6729
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 590,
+    "name": "Smit, Hugo",
+    "finish_time": "01:52:21",
+    "finish_seconds": 6741
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 592,
+    "name": "Sapto, Wesley",
+    "finish_time": "01:52:35",
+    "finish_seconds": 6755
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 594,
+    "name": "Deetlefs, David",
+    "finish_time": "01:52:42",
+    "finish_seconds": 6762
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 596,
+    "name": "Nyathela, Mkhosi",
+    "finish_time": "01:52:47",
+    "finish_seconds": 6767
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 598,
+    "name": "Blake, Morne",
+    "finish_time": "01:52:53",
+    "finish_seconds": 6773
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 600,
+    "name": "Singh, Jitesh",
+    "finish_time": "01:52:56",
+    "finish_seconds": 6776
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 602,
+    "name": "Rasekgala, Matome",
+    "finish_time": "01:53:15",
+    "finish_seconds": 6795
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 604,
+    "name": "Renner, Adick",
+    "finish_time": "01:53:30",
+    "finish_seconds": 6810
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 606,
+    "name": "Van Maasdyk, Matthew",
+    "finish_time": "01:53:32",
+    "finish_seconds": 6812
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 608,
+    "name": "Windt, Robin",
+    "finish_time": "01:53:34",
+    "finish_seconds": 6814
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 610,
+    "name": "Botha, Philip",
+    "finish_time": "01:53:43",
+    "finish_seconds": 6823
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 612,
+    "name": "Bhebhe, Musawenkosi",
+    "finish_time": "01:53:50",
+    "finish_seconds": 6830
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 614,
+    "name": "Mansour, Galal",
+    "finish_time": "01:54:10",
+    "finish_seconds": 6850
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 616,
+    "name": "Bester, Stefan",
+    "finish_time": "01:54:24",
+    "finish_seconds": 6864
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 618,
+    "name": "Mento, Tyler",
+    "finish_time": "01:54:33",
+    "finish_seconds": 6873
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 620,
+    "name": "Brown, Curtly",
+    "finish_time": "01:54:35",
+    "finish_seconds": 6875
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 622,
+    "name": "Gagiano, Steven",
+    "finish_time": "01:54:41",
+    "finish_seconds": 6881
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "M",
+    "rank": 624,
+    "name": "Swanepoel, Clinton",
+    "finish_time": "01:55:10",
+    "finish_seconds": 6910
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 1,
+    "name": "Taylor, Caley",
+    "finish_time": "01:08:01",
+    "finish_seconds": 4081
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 3,
+    "name": "Ward, Hayley",
+    "finish_time": "01:10:15",
+    "finish_seconds": 4215
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 5,
+    "name": "Lombard, Teresa",
+    "finish_time": "01:11:49",
+    "finish_seconds": 4309
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 7,
+    "name": "Van Niekerk, Moncheri",
+    "finish_time": "01:12:58",
+    "finish_seconds": 4378
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 9,
+    "name": "Hogg, Teal",
+    "finish_time": "01:13:27",
+    "finish_seconds": 4407
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 11,
+    "name": "Wilson, Raquel",
+    "finish_time": "01:13:47",
+    "finish_seconds": 4427
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 13,
+    "name": "Reid, Lexi",
+    "finish_time": "01:14:54",
+    "finish_seconds": 4494
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 15,
+    "name": "De Goede, Hannah",
+    "finish_time": "01:15:02",
+    "finish_seconds": 4502
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 17,
+    "name": "Briers, Louise",
+    "finish_time": "01:15:32",
+    "finish_seconds": 4532
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 19,
+    "name": "Potgieter, Leani",
+    "finish_time": "01:15:42",
+    "finish_seconds": 4542
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 21,
+    "name": "Barrett-Theron, Zaan",
+    "finish_time": "01:16:45",
+    "finish_seconds": 4605
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 23,
+    "name": "Ward, Robyn",
+    "finish_time": "01:17:08",
+    "finish_seconds": 4628
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 25,
+    "name": "Main, Casey",
+    "finish_time": "01:17:08",
+    "finish_seconds": 4628
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 27,
+    "name": "Cockcroft, Sydne Erin",
+    "finish_time": "01:17:31",
+    "finish_seconds": 4651
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 29,
+    "name": "Reynolds, Jade",
+    "finish_time": "01:17:43",
+    "finish_seconds": 4663
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 31,
+    "name": "Moxley, Michelle",
+    "finish_time": "01:18:03",
+    "finish_seconds": 4683
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 33,
+    "name": "Peerbux, Mashaael",
+    "finish_time": "01:18:25",
+    "finish_seconds": 4705
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 35,
+    "name": "Jordaan, Anneke",
+    "finish_time": "01:19:02",
+    "finish_seconds": 4742
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 37,
+    "name": "Loftie-Eaton, Megan",
+    "finish_time": "01:19:16",
+    "finish_seconds": 4756
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 39,
+    "name": "Kemp, Mari",
+    "finish_time": "01:19:23",
+    "finish_seconds": 4763
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 41,
+    "name": "Vermaak, Tanya",
+    "finish_time": "01:19:31",
+    "finish_seconds": 4771
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 43,
+    "name": "Bruwer, Naomi",
+    "finish_time": "01:19:51",
+    "finish_seconds": 4791
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 45,
+    "name": "Clark, Melissa",
+    "finish_time": "01:19:55",
+    "finish_seconds": 4795
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 47,
+    "name": "Phelps, Melissa",
+    "finish_time": "01:20:04",
+    "finish_seconds": 4804
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 49,
+    "name": "Agostinho, Natalie",
+    "finish_time": "01:20:26",
+    "finish_seconds": 4826
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 51,
+    "name": "Podesta, Emma",
+    "finish_time": "01:21:06",
+    "finish_seconds": 4866
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 53,
+    "name": "Shaik, Kausar",
+    "finish_time": "01:21:36",
+    "finish_seconds": 4896
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 55,
+    "name": "Perry, Caitlin",
+    "finish_time": "01:21:42",
+    "finish_seconds": 4902
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 57,
+    "name": "Shoeman, Cheyenne",
+    "finish_time": "01:22:04",
+    "finish_seconds": 4924
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 59,
+    "name": "Struwig, Chantel",
+    "finish_time": "01:22:29",
+    "finish_seconds": 4949
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 61,
+    "name": "Khali, Sphelele",
+    "finish_time": "01:22:50",
+    "finish_seconds": 4970
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 63,
+    "name": "Potgieter, Lesyl",
+    "finish_time": "01:23:30",
+    "finish_seconds": 5010
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 65,
+    "name": "Van Heerden, Monique",
+    "finish_time": "01:23:41",
+    "finish_seconds": 5021
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 67,
+    "name": "Van Rooyen, Louise",
+    "finish_time": "01:23:43",
+    "finish_seconds": 5023
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 69,
+    "name": "Vercueil, Amerae",
+    "finish_time": "01:23:51",
+    "finish_seconds": 5031
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 71,
+    "name": "Vasconcelos, Monique",
+    "finish_time": "01:24:13",
+    "finish_seconds": 5053
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 73,
+    "name": "Carbutt Haslam, Belinda",
+    "finish_time": "01:24:58",
+    "finish_seconds": 5098
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 75,
+    "name": "Van Der Merwe, Cayla",
+    "finish_time": "01:25:23",
+    "finish_seconds": 5123
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 77,
+    "name": "Cinquetti, Giulia",
+    "finish_time": "01:25:37",
+    "finish_seconds": 5137
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 79,
+    "name": "Kriel, Michelle",
+    "finish_time": "01:25:50",
+    "finish_seconds": 5150
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 81,
+    "name": "Houterman, Nina",
+    "finish_time": "01:25:58",
+    "finish_seconds": 5158
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 83,
+    "name": "Malan, Janet",
+    "finish_time": "01:26:10",
+    "finish_seconds": 5170
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 85,
+    "name": "Nelson, Venessa",
+    "finish_time": "01:26:24",
+    "finish_seconds": 5184
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 87,
+    "name": "O'Brien, Mishka",
+    "finish_time": "01:26:25",
+    "finish_seconds": 5185
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 89,
+    "name": "Mushaya, Patience",
+    "finish_time": "01:26:33",
+    "finish_seconds": 5193
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 91,
+    "name": "Fourie, Marinda",
+    "finish_time": "01:26:37",
+    "finish_seconds": 5197
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 93,
+    "name": "Sparks, Irma",
+    "finish_time": "01:26:59",
+    "finish_seconds": 5219
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 95,
+    "name": "Roode, Emma",
+    "finish_time": "01:27:25",
+    "finish_seconds": 5245
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 97,
+    "name": "Dykman, Kendra",
+    "finish_time": "01:27:43",
+    "finish_seconds": 5263
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 99,
+    "name": "Bailey, Jade",
+    "finish_time": "01:27:53",
+    "finish_seconds": 5273
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 101,
+    "name": "Pershina, Dasha",
+    "finish_time": "01:27:55",
+    "finish_seconds": 5275
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 103,
+    "name": "Pienaar, Annemari",
+    "finish_time": "01:28:04",
+    "finish_seconds": 5284
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 105,
+    "name": "Liversage, J\u00f6hke",
+    "finish_time": "01:28:06",
+    "finish_seconds": 5286
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 107,
+    "name": "Morris, Olivia",
+    "finish_time": "01:28:11",
+    "finish_seconds": 5291
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 109,
+    "name": "Kaltom Mpetu, Portia",
+    "finish_time": "01:28:14",
+    "finish_seconds": 5294
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 111,
+    "name": "Hickey, Siena",
+    "finish_time": "01:28:32",
+    "finish_seconds": 5312
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 113,
+    "name": "Fraser-Mackenzie, Eliza",
+    "finish_time": "01:28:57",
+    "finish_seconds": 5337
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 115,
+    "name": "Usgaard, Tori",
+    "finish_time": "01:29:10",
+    "finish_seconds": 5350
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 117,
+    "name": "Raftopoulos, Jenny",
+    "finish_time": "01:29:32",
+    "finish_seconds": 5372
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 119,
+    "name": "Blake - Goudemond, Emily",
+    "finish_time": "01:29:37",
+    "finish_seconds": 5377
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 121,
+    "name": "Myburgh, Madeleine",
+    "finish_time": "01:29:56",
+    "finish_seconds": 5396
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 123,
+    "name": "Bauer, Jordana",
+    "finish_time": "01:30:19",
+    "finish_seconds": 5419
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 125,
+    "name": "Moller, Jolene",
+    "finish_time": "01:30:23",
+    "finish_seconds": 5423
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 127,
+    "name": "Variava, Firdous",
+    "finish_time": "01:30:40",
+    "finish_seconds": 5440
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 129,
+    "name": "De Abreu, Sandra",
+    "finish_time": "01:30:52",
+    "finish_seconds": 5452
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 131,
+    "name": "Biyela, Neliswe",
+    "finish_time": "01:31:00",
+    "finish_seconds": 5460
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 133,
+    "name": "Fourie, Janine",
+    "finish_time": "01:31:24",
+    "finish_seconds": 5484
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 135,
+    "name": "Busse, Kayleigh",
+    "finish_time": "01:31:30",
+    "finish_seconds": 5490
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 137,
+    "name": "Taljaard, Kimm",
+    "finish_time": "01:31:34",
+    "finish_seconds": 5494
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 139,
+    "name": "Foster, Jacqueline",
+    "finish_time": "01:31:49",
+    "finish_seconds": 5509
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 141,
+    "name": "Albertyn, Chevon",
+    "finish_time": "01:32:02",
+    "finish_seconds": 5522
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 143,
+    "name": "Du Plessis, Susanna Hendrina",
+    "finish_time": "01:32:25",
+    "finish_seconds": 5545
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 145,
+    "name": "Jacobs, Lauren Adrienne",
+    "finish_time": "01:32:34",
+    "finish_seconds": 5554
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 147,
+    "name": "De St Pern, Meagan",
+    "finish_time": "01:33:14",
+    "finish_seconds": 5594
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 149,
+    "name": "Batt, Carla",
+    "finish_time": "01:33:19",
+    "finish_seconds": 5599
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 151,
+    "name": "Du Plooy, Rinske-Mari",
+    "finish_time": "01:33:30",
+    "finish_seconds": 5610
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 153,
+    "name": "Du Plessis, Chandre",
+    "finish_time": "01:33:37",
+    "finish_seconds": 5617
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 155,
+    "name": "Du Randt, Kirsty",
+    "finish_time": "01:33:57",
+    "finish_seconds": 5637
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 157,
+    "name": "Whiteman, Shannon",
+    "finish_time": "01:34:05",
+    "finish_seconds": 5645
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 159,
+    "name": "Van Antwerp, Carol",
+    "finish_time": "01:34:12",
+    "finish_seconds": 5652
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 161,
+    "name": "Allen, Catherine",
+    "finish_time": "01:34:48",
+    "finish_seconds": 5688
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 163,
+    "name": "Knuzwayo, Nomvula",
+    "finish_time": "01:34:56",
+    "finish_seconds": 5696
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 165,
+    "name": "Del Fabbro, Giada",
+    "finish_time": "01:35:18",
+    "finish_seconds": 5718
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 167,
+    "name": "Mocke, Assilah",
+    "finish_time": "01:35:31",
+    "finish_seconds": 5731
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 169,
+    "name": "Kareli, Pulane",
+    "finish_time": "01:35:52",
+    "finish_seconds": 5752
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 171,
+    "name": "Mxakato, Nonophela",
+    "finish_time": "01:36:08",
+    "finish_seconds": 5768
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 173,
+    "name": "Kebatlile, Tswelelo",
+    "finish_time": "01:36:10",
+    "finish_seconds": 5770
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 175,
+    "name": "Knox, Claudia",
+    "finish_time": "01:36:15",
+    "finish_seconds": 5775
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 177,
+    "name": "Bester, Ninon",
+    "finish_time": "01:36:35",
+    "finish_seconds": 5795
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 179,
+    "name": "Masekoameng, Machemo",
+    "finish_time": "01:36:42",
+    "finish_seconds": 5802
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 181,
+    "name": "Thompson, Kate",
+    "finish_time": "01:36:55",
+    "finish_seconds": 5815
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 183,
+    "name": "Steyn, Ilana",
+    "finish_time": "01:37:45",
+    "finish_seconds": 5865
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 185,
+    "name": "Mtsewu, Phelisa",
+    "finish_time": "01:38:12",
+    "finish_seconds": 5892
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 187,
+    "name": "Van Alphen, Michelle",
+    "finish_time": "01:38:31",
+    "finish_seconds": 5911
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 189,
+    "name": "Vos, Chloe",
+    "finish_time": "01:38:59",
+    "finish_seconds": 5939
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 191,
+    "name": "Rix, Lune",
+    "finish_time": "01:39:14",
+    "finish_seconds": 5954
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 193,
+    "name": "Amra, Naazneen",
+    "finish_time": "01:39:24",
+    "finish_seconds": 5964
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 195,
+    "name": "De Bruin, Ansumi",
+    "finish_time": "01:39:34",
+    "finish_seconds": 5974
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 197,
+    "name": "Olivier, Dun\u00e9",
+    "finish_time": "01:39:41",
+    "finish_seconds": 5981
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 199,
+    "name": "Coertze, Lan\u00e9",
+    "finish_time": "01:39:53",
+    "finish_seconds": 5993
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 201,
+    "name": "Schenk, Clare",
+    "finish_time": "01:40:11",
+    "finish_seconds": 6011
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 203,
+    "name": "Van Eeden, Nicole",
+    "finish_time": "01:40:29",
+    "finish_seconds": 6029
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 205,
+    "name": "Muller, Chantal",
+    "finish_time": "01:40:40",
+    "finish_seconds": 6040
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 207,
+    "name": "Ceruti, Micaela",
+    "finish_time": "01:40:55",
+    "finish_seconds": 6055
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 209,
+    "name": "Peche, Morgan",
+    "finish_time": "01:41:02",
+    "finish_seconds": 6062
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 211,
+    "name": "Espin, Crystal",
+    "finish_time": "01:41:23",
+    "finish_seconds": 6083
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 213,
+    "name": "Cassiem, Mishqua",
+    "finish_time": "01:41:51",
+    "finish_seconds": 6111
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 215,
+    "name": "Rautenbach, Jackie",
+    "finish_time": "01:42:03",
+    "finish_seconds": 6123
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 217,
+    "name": "Williams, Courtney",
+    "finish_time": "01:42:12",
+    "finish_seconds": 6132
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 219,
+    "name": "Van Zyl, Karla",
+    "finish_time": "01:42:22",
+    "finish_seconds": 6142
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 221,
+    "name": "Podems, Donna",
+    "finish_time": "01:42:35",
+    "finish_seconds": 6155
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 223,
+    "name": "Mphanje, Kelebohile",
+    "finish_time": "01:42:57",
+    "finish_seconds": 6177
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 225,
+    "name": "Denil, Leilani",
+    "finish_time": "01:43:08",
+    "finish_seconds": 6188
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 227,
+    "name": "Ortell, Tiffney",
+    "finish_time": "01:43:19",
+    "finish_seconds": 6199
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 229,
+    "name": "Jackson, Lizl",
+    "finish_time": "01:43:26",
+    "finish_seconds": 6206
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 231,
+    "name": "Farisani, Lindelwa",
+    "finish_time": "01:43:49",
+    "finish_seconds": 6229
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 233,
+    "name": "Govuza, Atlegang",
+    "finish_time": "01:43:53",
+    "finish_seconds": 6233
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 235,
+    "name": "Petersen, Charnay",
+    "finish_time": "01:44:16",
+    "finish_seconds": 6256
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 237,
+    "name": "Wolffs, Chelsea",
+    "finish_time": "01:44:24",
+    "finish_seconds": 6264
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 239,
+    "name": "Bekker, Hestia",
+    "finish_time": "01:44:40",
+    "finish_seconds": 6280
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 241,
+    "name": "Geldenhuys, Lara",
+    "finish_time": "01:44:44",
+    "finish_seconds": 6284
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 243,
+    "name": "Vermaak, Leandra",
+    "finish_time": "01:45:07",
+    "finish_seconds": 6307
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 245,
+    "name": "Toros, Christina",
+    "finish_time": "01:45:29",
+    "finish_seconds": 6329
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 247,
+    "name": "Golomba, Sisanda",
+    "finish_time": "01:45:46",
+    "finish_seconds": 6346
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 249,
+    "name": "Starke, Nareema",
+    "finish_time": "01:46:11",
+    "finish_seconds": 6371
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 251,
+    "name": "Tshiamo, Mpho",
+    "finish_time": "01:46:20",
+    "finish_seconds": 6380
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 253,
+    "name": "Swartland, Katherine",
+    "finish_time": "01:46:52",
+    "finish_seconds": 6412
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 255,
+    "name": "Trollip, Marezane",
+    "finish_time": "01:47:06",
+    "finish_seconds": 6426
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 257,
+    "name": "Kuhnel, Sonja",
+    "finish_time": "01:47:07",
+    "finish_seconds": 6427
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 259,
+    "name": "Tlhone, Nniny",
+    "finish_time": "01:47:23",
+    "finish_seconds": 6443
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 261,
+    "name": "Van Der Merwe, Amone",
+    "finish_time": "01:47:37",
+    "finish_seconds": 6457
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 263,
+    "name": "Syffert, Alicia",
+    "finish_time": "01:47:53",
+    "finish_seconds": 6473
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 265,
+    "name": "Le Roux, Thelmarie",
+    "finish_time": "01:48:09",
+    "finish_seconds": 6489
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 267,
+    "name": "D'Arch, Gabrielle",
+    "finish_time": "01:48:12",
+    "finish_seconds": 6492
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 269,
+    "name": "Cena, Marika",
+    "finish_time": "01:48:15",
+    "finish_seconds": 6495
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 271,
+    "name": "Hartnick, Olive",
+    "finish_time": "01:48:20",
+    "finish_seconds": 6500
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 273,
+    "name": "Modika, Manape",
+    "finish_time": "01:48:48",
+    "finish_seconds": 6528
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 275,
+    "name": "Jansen, Ingrid",
+    "finish_time": "01:49:00",
+    "finish_seconds": 6540
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 277,
+    "name": "Masilo, Michelle",
+    "finish_time": "01:49:15",
+    "finish_seconds": 6555
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 279,
+    "name": "Pieters, Tina",
+    "finish_time": "01:49:30",
+    "finish_seconds": 6570
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 281,
+    "name": "Franco, Carla",
+    "finish_time": "01:49:43",
+    "finish_seconds": 6583
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 283,
+    "name": "Guitton-Broggi, Bertille",
+    "finish_time": "01:50:06",
+    "finish_seconds": 6606
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 285,
+    "name": "Kanyowa, Ruvimbo",
+    "finish_time": "01:50:49",
+    "finish_seconds": 6649
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 287,
+    "name": "Lindsay, Nicole",
+    "finish_time": "01:50:56",
+    "finish_seconds": 6656
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 289,
+    "name": "Konisi, Londi",
+    "finish_time": "01:51:21",
+    "finish_seconds": 6681
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 291,
+    "name": "Mayile, Siphosethu",
+    "finish_time": "01:51:32",
+    "finish_seconds": 6692
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 293,
+    "name": "Valjalo, Dina",
+    "finish_time": "01:51:44",
+    "finish_seconds": 6704
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 295,
+    "name": "Buckley-Fawcett, Lauren",
+    "finish_time": "01:51:56",
+    "finish_seconds": 6716
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 297,
+    "name": "Adams, Natasha",
+    "finish_time": "01:52:02",
+    "finish_seconds": 6722
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 299,
+    "name": "Thabethe, Thando",
+    "finish_time": "01:52:15",
+    "finish_seconds": 6735
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 301,
+    "name": "Nieuwoudt, Adre",
+    "finish_time": "01:52:28",
+    "finish_seconds": 6748
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 303,
+    "name": "September, Shaniley",
+    "finish_time": "01:53:03",
+    "finish_seconds": 6783
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 305,
+    "name": "Moodley, Keshnee",
+    "finish_time": "01:53:54",
+    "finish_seconds": 6834
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 307,
+    "name": "Ndimande, Lungile",
+    "finish_time": "01:54:11",
+    "finish_seconds": 6851
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 309,
+    "name": "Makhaye, Thembeka",
+    "finish_time": "01:54:43",
+    "finish_seconds": 6883
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 311,
+    "name": "Manganye, Salome",
+    "finish_time": "01:55:18",
+    "finish_seconds": 6918
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 313,
+    "name": "Fritz, Debbie",
+    "finish_time": "01:55:49",
+    "finish_seconds": 6949
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 315,
+    "name": "Matlhare, Zamangoma",
+    "finish_time": "01:56:15",
+    "finish_seconds": 6975
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 317,
+    "name": "Van Jaarsveld, Marianne",
+    "finish_time": "01:56:53",
+    "finish_seconds": 7013
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 319,
+    "name": "Shepherd, Yvettte",
+    "finish_time": "01:57:12",
+    "finish_seconds": 7032
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 321,
+    "name": "Ndlovu, Samukelisiwe",
+    "finish_time": "01:57:41",
+    "finish_seconds": 7061
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 323,
+    "name": "Taylor, Aimee",
+    "finish_time": "01:58:07",
+    "finish_seconds": 7087
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 325,
+    "name": "Sengoatsi, Re\u2019Mthabetsi",
+    "finish_time": "01:58:35",
+    "finish_seconds": 7115
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 327,
+    "name": "Letcher, Keira",
+    "finish_time": "01:58:58",
+    "finish_seconds": 7138
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 329,
+    "name": "Roux, Patricia",
+    "finish_time": "01:59:47",
+    "finish_seconds": 7187
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 331,
+    "name": "Lange, Marieke",
+    "finish_time": "02:00:15",
+    "finish_seconds": 7215
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 333,
+    "name": "Everts, Dawn",
+    "finish_time": "02:00:21",
+    "finish_seconds": 7221
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 335,
+    "name": "Smit, Jeanine",
+    "finish_time": "02:00:43",
+    "finish_seconds": 7243
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 336,
+    "name": "Du Toit, Jodine",
+    "finish_time": "02:01:09",
+    "finish_seconds": 7269
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 339,
+    "name": "Scholtz, Cecilia",
+    "finish_time": "02:01:32",
+    "finish_seconds": 7292
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 341,
+    "name": "Van Zyl, Zani",
+    "finish_time": "02:01:39",
+    "finish_seconds": 7299
+  },
+  {
+    "venue": "2025 Cape Town",
+    "gender": "W",
+    "rank": 343,
+    "name": "Matshika, Koketso",
+    "finish_time": "02:02:12",
+    "finish_seconds": 7332
+  }
+]

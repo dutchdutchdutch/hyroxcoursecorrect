@@ -1,0 +1,6562 @@
+[
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 1,
+    "name": "Glen, Jonathan",
+    "finish_time": "00:58:30",
+    "finish_seconds": 3510
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 3,
+    "name": "Nurse, Dylan",
+    "finish_time": "00:59:57",
+    "finish_seconds": 3597
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 5,
+    "name": "O'Connor, Evan",
+    "finish_time": "01:00:42",
+    "finish_seconds": 3642
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 7,
+    "name": "Grafentin, Grant",
+    "finish_time": "01:01:55",
+    "finish_seconds": 3715
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 9,
+    "name": "Catani, Kellen",
+    "finish_time": "01:02:31",
+    "finish_seconds": 3751
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 11,
+    "name": "Hartman, Michael",
+    "finish_time": "01:02:37",
+    "finish_seconds": 3757
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 13,
+    "name": "Downey, Nick",
+    "finish_time": "01:03:08",
+    "finish_seconds": 3788
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 15,
+    "name": "Wong, Chris",
+    "finish_time": "01:03:31",
+    "finish_seconds": 3811
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 17,
+    "name": "Truesdale, Dylan",
+    "finish_time": "01:03:42",
+    "finish_seconds": 3822
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 19,
+    "name": "Edge, Richard",
+    "finish_time": "01:04:02",
+    "finish_seconds": 3842
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 21,
+    "name": "Hall, Justin",
+    "finish_time": "01:04:30",
+    "finish_seconds": 3870
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 23,
+    "name": "Caughran, Colin",
+    "finish_time": "01:05:00",
+    "finish_seconds": 3900
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 25,
+    "name": "Miller, Dakota",
+    "finish_time": "01:05:17",
+    "finish_seconds": 3917
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 27,
+    "name": "Mellas, Nathan",
+    "finish_time": "01:05:43",
+    "finish_seconds": 3943
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 29,
+    "name": "Kropf, Reagan",
+    "finish_time": "01:06:00",
+    "finish_seconds": 3960
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 31,
+    "name": "Ribelli, Neil",
+    "finish_time": "01:06:31",
+    "finish_seconds": 3991
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 33,
+    "name": "Wilkins, Aaron",
+    "finish_time": "01:06:56",
+    "finish_seconds": 4016
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 35,
+    "name": "Miller, Sam",
+    "finish_time": "01:07:04",
+    "finish_seconds": 4024
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 37,
+    "name": "Russell, Tom",
+    "finish_time": "01:07:17",
+    "finish_seconds": 4037
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 39,
+    "name": "Delzer, Ronnie",
+    "finish_time": "01:07:21",
+    "finish_seconds": 4041
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 41,
+    "name": "de Medeiros, Lucas",
+    "finish_time": "01:07:39",
+    "finish_seconds": 4059
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 43,
+    "name": "Henrich, Ryan",
+    "finish_time": "01:07:46",
+    "finish_seconds": 4066
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 45,
+    "name": "Venegas, Henry",
+    "finish_time": "01:08:02",
+    "finish_seconds": 4082
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 47,
+    "name": "Lind, Brayden",
+    "finish_time": "01:08:06",
+    "finish_seconds": 4086
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 49,
+    "name": "Hambrecht, Jeff",
+    "finish_time": "01:08:09",
+    "finish_seconds": 4089
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 51,
+    "name": "Gossett, Matt",
+    "finish_time": "01:08:11",
+    "finish_seconds": 4091
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 53,
+    "name": "McAllister, Logan",
+    "finish_time": "01:08:18",
+    "finish_seconds": 4098
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 55,
+    "name": "Scalavino, Austin",
+    "finish_time": "01:08:34",
+    "finish_seconds": 4114
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 57,
+    "name": "Ramirez, Jeremiah",
+    "finish_time": "01:08:44",
+    "finish_seconds": 4124
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 59,
+    "name": "Koskimaki, Jeffrey",
+    "finish_time": "01:08:54",
+    "finish_seconds": 4134
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 61,
+    "name": "Shelby, Matthew",
+    "finish_time": "01:09:24",
+    "finish_seconds": 4164
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 63,
+    "name": "Fasulkey, Alexzander",
+    "finish_time": "01:09:57",
+    "finish_seconds": 4197
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 65,
+    "name": "Magalhaes, Michael",
+    "finish_time": "01:09:59",
+    "finish_seconds": 4199
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 67,
+    "name": "Sugatan, Justin",
+    "finish_time": "01:10:10",
+    "finish_seconds": 4210
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 69,
+    "name": "Essex, George",
+    "finish_time": "01:10:20",
+    "finish_seconds": 4220
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 71,
+    "name": "Chau, Trey",
+    "finish_time": "01:10:33",
+    "finish_seconds": 4233
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 73,
+    "name": "Meade, Nate",
+    "finish_time": "01:10:44",
+    "finish_seconds": 4244
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 75,
+    "name": "Finke, Nick",
+    "finish_time": "01:10:45",
+    "finish_seconds": 4245
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 77,
+    "name": "Chavez, Jefte",
+    "finish_time": "01:10:47",
+    "finish_seconds": 4247
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 79,
+    "name": "Ward, Jackson",
+    "finish_time": "01:11:03",
+    "finish_seconds": 4263
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 81,
+    "name": "Dedoes, Mike",
+    "finish_time": "01:11:17",
+    "finish_seconds": 4277
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 83,
+    "name": "Phillips, Eric",
+    "finish_time": "01:11:33",
+    "finish_seconds": 4293
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 85,
+    "name": "Kirchoff, Dan",
+    "finish_time": "01:11:45",
+    "finish_seconds": 4305
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 87,
+    "name": "Barrett, Jeremy",
+    "finish_time": "01:11:49",
+    "finish_seconds": 4309
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 89,
+    "name": "Martin, Jordan",
+    "finish_time": "01:12:01",
+    "finish_seconds": 4321
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 91,
+    "name": "Ciuffo, Chris",
+    "finish_time": "01:12:14",
+    "finish_seconds": 4334
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 93,
+    "name": "Frank, Erik",
+    "finish_time": "01:12:18",
+    "finish_seconds": 4338
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 95,
+    "name": "Wilkin, Russ",
+    "finish_time": "01:12:24",
+    "finish_seconds": 4344
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 97,
+    "name": "Bouhana, Kyle",
+    "finish_time": "01:12:29",
+    "finish_seconds": 4349
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 99,
+    "name": "Link, Matthew",
+    "finish_time": "01:12:34",
+    "finish_seconds": 4354
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 101,
+    "name": "Swindle, Brett",
+    "finish_time": "01:12:35",
+    "finish_seconds": 4355
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 103,
+    "name": "Harden, Zack",
+    "finish_time": "01:12:37",
+    "finish_seconds": 4357
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 104,
+    "name": "McCrary, Bernard",
+    "finish_time": "01:12:38",
+    "finish_seconds": 4358
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 107,
+    "name": "Turk, Ryan",
+    "finish_time": "01:12:44",
+    "finish_seconds": 4364
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 109,
+    "name": "Quash, Tim",
+    "finish_time": "01:12:48",
+    "finish_seconds": 4368
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 111,
+    "name": "Saunders, Cooper",
+    "finish_time": "01:12:56",
+    "finish_seconds": 4376
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 113,
+    "name": "Buitron, Christian",
+    "finish_time": "01:12:58",
+    "finish_seconds": 4378
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 115,
+    "name": "Diianni, Jonathan",
+    "finish_time": "01:13:08",
+    "finish_seconds": 4388
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 117,
+    "name": "Beecher, Bill",
+    "finish_time": "01:13:09",
+    "finish_seconds": 4389
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 119,
+    "name": "Bailey, Chad",
+    "finish_time": "01:13:11",
+    "finish_seconds": 4391
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 121,
+    "name": "Beck, Johnny",
+    "finish_time": "01:13:12",
+    "finish_seconds": 4392
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 123,
+    "name": "Butler, Andrew",
+    "finish_time": "01:13:24",
+    "finish_seconds": 4404
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 125,
+    "name": "Manso, Nicholas",
+    "finish_time": "01:13:35",
+    "finish_seconds": 4415
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 127,
+    "name": "Simione, Michael",
+    "finish_time": "01:13:38",
+    "finish_seconds": 4418
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 129,
+    "name": "Childree, Parker",
+    "finish_time": "01:13:44",
+    "finish_seconds": 4424
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 131,
+    "name": "Papanikas, Sam",
+    "finish_time": "01:13:48",
+    "finish_seconds": 4428
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 133,
+    "name": "Tuttle, Emerson",
+    "finish_time": "01:13:52",
+    "finish_seconds": 4432
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 135,
+    "name": "Reyes, Jacob",
+    "finish_time": "01:13:56",
+    "finish_seconds": 4436
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 137,
+    "name": "Kieffer, Matt",
+    "finish_time": "01:13:58",
+    "finish_seconds": 4438
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 139,
+    "name": "Henderson, Kenneth",
+    "finish_time": "01:14:08",
+    "finish_seconds": 4448
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 141,
+    "name": "Ghriaz, Ali",
+    "finish_time": "01:14:12",
+    "finish_seconds": 4452
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 143,
+    "name": "Turner, Cooper",
+    "finish_time": "01:14:20",
+    "finish_seconds": 4460
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 145,
+    "name": "Lee, Daniel",
+    "finish_time": "01:14:25",
+    "finish_seconds": 4465
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 147,
+    "name": "Chavez Gomez, Daniel",
+    "finish_time": "01:14:31",
+    "finish_seconds": 4471
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 149,
+    "name": "Wileman, Bill",
+    "finish_time": "01:14:40",
+    "finish_seconds": 4480
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 151,
+    "name": "Walsh, Frank",
+    "finish_time": "01:14:48",
+    "finish_seconds": 4488
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 153,
+    "name": "Sansone, DJ",
+    "finish_time": "01:14:53",
+    "finish_seconds": 4493
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 155,
+    "name": "Gruebel, Daniel",
+    "finish_time": "01:15:05",
+    "finish_seconds": 4505
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 157,
+    "name": "Bradham, Robert",
+    "finish_time": "01:15:12",
+    "finish_seconds": 4512
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 159,
+    "name": "Haynes, Billy",
+    "finish_time": "01:15:17",
+    "finish_seconds": 4517
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 161,
+    "name": "Fournier, Nicholas",
+    "finish_time": "01:15:20",
+    "finish_seconds": 4520
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 163,
+    "name": "Reeves, Chase",
+    "finish_time": "01:15:24",
+    "finish_seconds": 4524
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 165,
+    "name": "Dunsavage, Zach",
+    "finish_time": "01:15:25",
+    "finish_seconds": 4525
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 167,
+    "name": "Connolly, Joseph",
+    "finish_time": "01:15:31",
+    "finish_seconds": 4531
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 169,
+    "name": "Wasden, Cole",
+    "finish_time": "01:15:34",
+    "finish_seconds": 4534
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 171,
+    "name": "Smith, Art",
+    "finish_time": "01:15:38",
+    "finish_seconds": 4538
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 173,
+    "name": "Sharpless, Lewie",
+    "finish_time": "01:15:42",
+    "finish_seconds": 4542
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 175,
+    "name": "Summitt, Ryan",
+    "finish_time": "01:15:56",
+    "finish_seconds": 4556
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 177,
+    "name": "Howson, Cole",
+    "finish_time": "01:16:03",
+    "finish_seconds": 4563
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 179,
+    "name": "Comeens, Adam",
+    "finish_time": "01:16:09",
+    "finish_seconds": 4569
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 181,
+    "name": "Giovannetti, Cole",
+    "finish_time": "01:16:10",
+    "finish_seconds": 4570
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 183,
+    "name": "Forrester, Scotty",
+    "finish_time": "01:16:13",
+    "finish_seconds": 4573
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 185,
+    "name": "Freeman, Marcus",
+    "finish_time": "01:16:18",
+    "finish_seconds": 4578
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 187,
+    "name": "Bouchard, Johnny",
+    "finish_time": "01:16:30",
+    "finish_seconds": 4590
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 189,
+    "name": "Brenzel, Brian",
+    "finish_time": "01:16:37",
+    "finish_seconds": 4597
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 191,
+    "name": "Baysinger, Matthew",
+    "finish_time": "01:16:47",
+    "finish_seconds": 4607
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 193,
+    "name": "Wlosinski, Kevin",
+    "finish_time": "01:16:52",
+    "finish_seconds": 4612
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 195,
+    "name": "Murphy, Tim",
+    "finish_time": "01:16:55",
+    "finish_seconds": 4615
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 197,
+    "name": "Lipold, Marek",
+    "finish_time": "01:16:58",
+    "finish_seconds": 4618
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 199,
+    "name": "McKinley, Brian",
+    "finish_time": "01:16:58",
+    "finish_seconds": 4618
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 201,
+    "name": "Brown, Lawrence",
+    "finish_time": "01:17:01",
+    "finish_seconds": 4621
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 203,
+    "name": "Kumba, Jordyn",
+    "finish_time": "01:17:12",
+    "finish_seconds": 4632
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 205,
+    "name": "Devine, Frank",
+    "finish_time": "01:17:15",
+    "finish_seconds": 4635
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 207,
+    "name": "Caruthers, Conner",
+    "finish_time": "01:17:23",
+    "finish_seconds": 4643
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 209,
+    "name": "Marin, Andres",
+    "finish_time": "01:17:25",
+    "finish_seconds": 4645
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 211,
+    "name": "Quevedo, Carlos",
+    "finish_time": "01:17:26",
+    "finish_seconds": 4646
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 213,
+    "name": "Macklin, Drew",
+    "finish_time": "01:17:32",
+    "finish_seconds": 4652
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 215,
+    "name": "Wloch, John",
+    "finish_time": "01:17:39",
+    "finish_seconds": 4659
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 217,
+    "name": "Vise, Jason",
+    "finish_time": "01:17:45",
+    "finish_seconds": 4665
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 219,
+    "name": "Speets, Mark",
+    "finish_time": "01:17:50",
+    "finish_seconds": 4670
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 221,
+    "name": "Hughes, Dylan",
+    "finish_time": "01:17:58",
+    "finish_seconds": 4678
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 223,
+    "name": "Mcclinton, Brodney",
+    "finish_time": "01:18:00",
+    "finish_seconds": 4680
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 225,
+    "name": "Broome, Scott",
+    "finish_time": "01:18:01",
+    "finish_seconds": 4681
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 227,
+    "name": "Green, Kevin",
+    "finish_time": "01:18:11",
+    "finish_seconds": 4691
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 229,
+    "name": "Stratton, Jimmy",
+    "finish_time": "01:18:13",
+    "finish_seconds": 4693
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 231,
+    "name": "Krenz, Evan",
+    "finish_time": "01:18:18",
+    "finish_seconds": 4698
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 233,
+    "name": "Croft, Eric",
+    "finish_time": "01:18:25",
+    "finish_seconds": 4705
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 235,
+    "name": "Heilman, William",
+    "finish_time": "01:18:31",
+    "finish_seconds": 4711
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 237,
+    "name": "Suzuki, Sho",
+    "finish_time": "01:18:36",
+    "finish_seconds": 4716
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 239,
+    "name": "Vincent, Kyle",
+    "finish_time": "01:18:41",
+    "finish_seconds": 4721
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 241,
+    "name": "Griffin, Kevin",
+    "finish_time": "01:18:44",
+    "finish_seconds": 4724
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 243,
+    "name": "Rodriguez, Ruben",
+    "finish_time": "01:18:46",
+    "finish_seconds": 4726
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 245,
+    "name": "Knapp, Dan",
+    "finish_time": "01:18:49",
+    "finish_seconds": 4729
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 247,
+    "name": "Joned, Nigel",
+    "finish_time": "01:18:52",
+    "finish_seconds": 4732
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 249,
+    "name": "Chinni, Jesse",
+    "finish_time": "01:19:07",
+    "finish_seconds": 4747
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 251,
+    "name": "Teague jr, Kimlyn",
+    "finish_time": "01:19:09",
+    "finish_seconds": 4749
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 253,
+    "name": "Schmidt, Brent",
+    "finish_time": "01:19:13",
+    "finish_seconds": 4753
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 255,
+    "name": "Campuzano, David",
+    "finish_time": "01:19:16",
+    "finish_seconds": 4756
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 257,
+    "name": "O\u2019sullivan, Nick",
+    "finish_time": "01:19:17",
+    "finish_seconds": 4757
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 259,
+    "name": "Frataccia, Leland",
+    "finish_time": "01:19:19",
+    "finish_seconds": 4759
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 261,
+    "name": "Brock, Lee",
+    "finish_time": "01:19:21",
+    "finish_seconds": 4761
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 263,
+    "name": "Arnett, Brian",
+    "finish_time": "01:19:24",
+    "finish_seconds": 4764
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 265,
+    "name": "Skelley, Ryan",
+    "finish_time": "01:19:29",
+    "finish_seconds": 4769
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 267,
+    "name": "Pisciotta, John",
+    "finish_time": "01:19:33",
+    "finish_seconds": 4773
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 269,
+    "name": "Johnson, Tyler",
+    "finish_time": "01:19:34",
+    "finish_seconds": 4774
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 271,
+    "name": "Canada, Jeremiah",
+    "finish_time": "01:19:35",
+    "finish_seconds": 4775
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 273,
+    "name": "Yip, Daniel",
+    "finish_time": "01:19:36",
+    "finish_seconds": 4776
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 275,
+    "name": "McKay, James",
+    "finish_time": "01:19:40",
+    "finish_seconds": 4780
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 277,
+    "name": "Calhoon, Nick",
+    "finish_time": "01:19:45",
+    "finish_seconds": 4785
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 279,
+    "name": "Prior, Jason",
+    "finish_time": "01:19:47",
+    "finish_seconds": 4787
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 281,
+    "name": "Wiggins, Aaron",
+    "finish_time": "01:19:50",
+    "finish_seconds": 4790
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 283,
+    "name": "graper, Jeferson",
+    "finish_time": "01:19:52",
+    "finish_seconds": 4792
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 285,
+    "name": "Moore, Ben",
+    "finish_time": "01:19:55",
+    "finish_seconds": 4795
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 287,
+    "name": "Sceusa, Joseph",
+    "finish_time": "01:19:57",
+    "finish_seconds": 4797
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 289,
+    "name": "cool, theodore",
+    "finish_time": "01:20:02",
+    "finish_seconds": 4802
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 291,
+    "name": "Reid, JaTory",
+    "finish_time": "01:20:03",
+    "finish_seconds": 4803
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 293,
+    "name": "Pelt, Marcus",
+    "finish_time": "01:20:05",
+    "finish_seconds": 4805
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 295,
+    "name": "Thompson, Kristofer",
+    "finish_time": "01:20:08",
+    "finish_seconds": 4808
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 297,
+    "name": "Vargas, William",
+    "finish_time": "01:20:09",
+    "finish_seconds": 4809
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 299,
+    "name": "Buffington, Jeb",
+    "finish_time": "01:20:14",
+    "finish_seconds": 4814
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 301,
+    "name": "Hartmann, Patrick",
+    "finish_time": "01:20:15",
+    "finish_seconds": 4815
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 303,
+    "name": "Rutz, Christopher",
+    "finish_time": "01:20:20",
+    "finish_seconds": 4820
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 305,
+    "name": "Day, Ian",
+    "finish_time": "01:20:29",
+    "finish_seconds": 4829
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 307,
+    "name": "Rounds, James",
+    "finish_time": "01:20:30",
+    "finish_seconds": 4830
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 309,
+    "name": "Middleton, Philip",
+    "finish_time": "01:20:34",
+    "finish_seconds": 4834
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 311,
+    "name": "Hightower, Bret",
+    "finish_time": "01:20:36",
+    "finish_seconds": 4836
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 313,
+    "name": "Guarcello, Larry",
+    "finish_time": "01:20:38",
+    "finish_seconds": 4838
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 315,
+    "name": "White, Walker",
+    "finish_time": "01:20:41",
+    "finish_seconds": 4841
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 317,
+    "name": "Anderson, Jeremiah",
+    "finish_time": "01:20:46",
+    "finish_seconds": 4846
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 319,
+    "name": "Rios, Nigel",
+    "finish_time": "01:20:52",
+    "finish_seconds": 4852
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 321,
+    "name": "Tocci, Paul",
+    "finish_time": "01:20:53",
+    "finish_seconds": 4853
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 323,
+    "name": "Taber, Brandon",
+    "finish_time": "01:20:56",
+    "finish_seconds": 4856
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 325,
+    "name": "Brown, Kyle",
+    "finish_time": "01:21:03",
+    "finish_seconds": 4863
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 327,
+    "name": "cisneros, Hugo",
+    "finish_time": "01:21:05",
+    "finish_seconds": 4865
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 329,
+    "name": "Speaks, Jason",
+    "finish_time": "01:21:08",
+    "finish_seconds": 4868
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 331,
+    "name": "Reeder, Colby",
+    "finish_time": "01:21:11",
+    "finish_seconds": 4871
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 333,
+    "name": "Cote, Jacob",
+    "finish_time": "01:21:13",
+    "finish_seconds": 4873
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 335,
+    "name": "Darwin, Andrew",
+    "finish_time": "01:21:15",
+    "finish_seconds": 4875
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 337,
+    "name": "Kapasakis, Anthony",
+    "finish_time": "01:21:17",
+    "finish_seconds": 4877
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 339,
+    "name": "Hauber, Christian",
+    "finish_time": "01:21:17",
+    "finish_seconds": 4877
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 341,
+    "name": "Terry, Boone",
+    "finish_time": "01:21:22",
+    "finish_seconds": 4882
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 343,
+    "name": "Quijano, Francisco",
+    "finish_time": "01:21:25",
+    "finish_seconds": 4885
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 345,
+    "name": "Baracat, Jonathan",
+    "finish_time": "01:21:32",
+    "finish_seconds": 4892
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 347,
+    "name": "Hoover, Jeff",
+    "finish_time": "01:21:33",
+    "finish_seconds": 4893
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 349,
+    "name": "Tahirovic, Avdo",
+    "finish_time": "01:21:42",
+    "finish_seconds": 4902
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 351,
+    "name": "Reynolds, Drew",
+    "finish_time": "01:21:46",
+    "finish_seconds": 4906
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 353,
+    "name": "Insalaco, Sam",
+    "finish_time": "01:21:50",
+    "finish_seconds": 4910
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 355,
+    "name": "Trevidic, Paul",
+    "finish_time": "01:21:51",
+    "finish_seconds": 4911
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 357,
+    "name": "Bradley, David",
+    "finish_time": "01:22:04",
+    "finish_seconds": 4924
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 359,
+    "name": "Fowler, Jesse",
+    "finish_time": "01:22:09",
+    "finish_seconds": 4929
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 361,
+    "name": "Bence, Aaron",
+    "finish_time": "01:22:13",
+    "finish_seconds": 4933
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 363,
+    "name": "Snodgrass, Heath",
+    "finish_time": "01:22:20",
+    "finish_seconds": 4940
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 365,
+    "name": "Wright III, Charles",
+    "finish_time": "01:22:25",
+    "finish_seconds": 4945
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 367,
+    "name": "Utley, Jordan",
+    "finish_time": "01:22:28",
+    "finish_seconds": 4948
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 369,
+    "name": "Belfore, Jonathan",
+    "finish_time": "01:22:30",
+    "finish_seconds": 4950
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 371,
+    "name": "Cumberland, Dan",
+    "finish_time": "01:22:30",
+    "finish_seconds": 4950
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 373,
+    "name": "McGhar, Noah",
+    "finish_time": "01:22:34",
+    "finish_seconds": 4954
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 375,
+    "name": "Martin, Patrick",
+    "finish_time": "01:22:35",
+    "finish_seconds": 4955
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 377,
+    "name": "Dragon, Bobby",
+    "finish_time": "01:22:38",
+    "finish_seconds": 4958
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 379,
+    "name": "Uberuaga, Chris",
+    "finish_time": "01:22:41",
+    "finish_seconds": 4961
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 381,
+    "name": "Welton, Kellum",
+    "finish_time": "01:22:48",
+    "finish_seconds": 4968
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 383,
+    "name": "Stevens, Chris",
+    "finish_time": "01:22:49",
+    "finish_seconds": 4969
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 385,
+    "name": "Hallman, Travis",
+    "finish_time": "01:22:53",
+    "finish_seconds": 4973
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 387,
+    "name": "Goyette, Aidan",
+    "finish_time": "01:22:56",
+    "finish_seconds": 4976
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 389,
+    "name": "Robinson, Joshua",
+    "finish_time": "01:23:05",
+    "finish_seconds": 4985
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 391,
+    "name": "Holmes, Chris",
+    "finish_time": "01:23:09",
+    "finish_seconds": 4989
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 393,
+    "name": "Dupilka, Jake",
+    "finish_time": "01:23:15",
+    "finish_seconds": 4995
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 395,
+    "name": "Beck, Chad",
+    "finish_time": "01:23:17",
+    "finish_seconds": 4997
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 397,
+    "name": "Sutley, Coy",
+    "finish_time": "01:23:18",
+    "finish_seconds": 4998
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 399,
+    "name": "Martini, Orlando",
+    "finish_time": "01:23:24",
+    "finish_seconds": 5004
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 401,
+    "name": "Crooker, Conner",
+    "finish_time": "01:23:25",
+    "finish_seconds": 5005
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 403,
+    "name": "Lyles, Travis",
+    "finish_time": "01:23:31",
+    "finish_seconds": 5011
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 405,
+    "name": "Morbitzer, Anthony",
+    "finish_time": "01:23:38",
+    "finish_seconds": 5018
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 407,
+    "name": "Neary, Liam",
+    "finish_time": "01:23:42",
+    "finish_seconds": 5022
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 409,
+    "name": "Arvold, Jake",
+    "finish_time": "01:23:46",
+    "finish_seconds": 5026
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 411,
+    "name": "Diaz, Ricardo",
+    "finish_time": "01:23:47",
+    "finish_seconds": 5027
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 413,
+    "name": "Ogundipe, Damola",
+    "finish_time": "01:23:48",
+    "finish_seconds": 5028
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 415,
+    "name": "Spencer, William",
+    "finish_time": "01:23:51",
+    "finish_seconds": 5031
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 417,
+    "name": "Spangler, Alex",
+    "finish_time": "01:23:56",
+    "finish_seconds": 5036
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 419,
+    "name": "Farmer, Jacob",
+    "finish_time": "01:24:09",
+    "finish_seconds": 5049
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 421,
+    "name": "Sheley, Matthew",
+    "finish_time": "01:24:11",
+    "finish_seconds": 5051
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 423,
+    "name": "Craven, Richie",
+    "finish_time": "01:24:13",
+    "finish_seconds": 5053
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 425,
+    "name": "Miller, James",
+    "finish_time": "01:24:16",
+    "finish_seconds": 5056
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 427,
+    "name": "Culpepper, Andrew",
+    "finish_time": "01:24:18",
+    "finish_seconds": 5058
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 429,
+    "name": "Hudson, Lee",
+    "finish_time": "01:24:24",
+    "finish_seconds": 5064
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 431,
+    "name": "Wilson, Storm",
+    "finish_time": "01:24:33",
+    "finish_seconds": 5073
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 433,
+    "name": "Freeman, Tyler",
+    "finish_time": "01:24:35",
+    "finish_seconds": 5075
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 435,
+    "name": "Pifer, Tom",
+    "finish_time": "01:24:42",
+    "finish_seconds": 5082
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 437,
+    "name": "Gilchrist, Mark",
+    "finish_time": "01:24:45",
+    "finish_seconds": 5085
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 439,
+    "name": "Hernandez, Gianni",
+    "finish_time": "01:24:46",
+    "finish_seconds": 5086
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 441,
+    "name": "Rodriguez, Erik",
+    "finish_time": "01:24:49",
+    "finish_seconds": 5089
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 443,
+    "name": "Waltermire, Mark",
+    "finish_time": "01:24:52",
+    "finish_seconds": 5092
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 445,
+    "name": "Warden, Kaleb",
+    "finish_time": "01:24:56",
+    "finish_seconds": 5096
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 447,
+    "name": "Gant, Diop",
+    "finish_time": "01:25:04",
+    "finish_seconds": 5104
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 449,
+    "name": "Fant, Harrison Cordell",
+    "finish_time": "01:25:09",
+    "finish_seconds": 5109
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 451,
+    "name": "Donovan, Kevin",
+    "finish_time": "01:25:12",
+    "finish_seconds": 5112
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 453,
+    "name": "Morell, Michael",
+    "finish_time": "01:25:14",
+    "finish_seconds": 5114
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 455,
+    "name": "Parris, Tj",
+    "finish_time": "01:25:20",
+    "finish_seconds": 5120
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 457,
+    "name": "O'Bryant, Blair",
+    "finish_time": "01:25:22",
+    "finish_seconds": 5122
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 459,
+    "name": "Gisagara, Johnny",
+    "finish_time": "01:25:24",
+    "finish_seconds": 5124
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 461,
+    "name": "Gibney, Jack",
+    "finish_time": "01:25:24",
+    "finish_seconds": 5124
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 463,
+    "name": "McAfee, Ross",
+    "finish_time": "01:25:27",
+    "finish_seconds": 5127
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 465,
+    "name": "long, brandon",
+    "finish_time": "01:25:32",
+    "finish_seconds": 5132
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 467,
+    "name": "Lawrie, John",
+    "finish_time": "01:25:36",
+    "finish_seconds": 5136
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 469,
+    "name": "Rush, Chance",
+    "finish_time": "01:25:42",
+    "finish_seconds": 5142
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 471,
+    "name": "Anderson, Isaac",
+    "finish_time": "01:25:46",
+    "finish_seconds": 5146
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 473,
+    "name": "Niedopytalski, Vincent",
+    "finish_time": "01:25:56",
+    "finish_seconds": 5156
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 475,
+    "name": "Raymond, Kevin",
+    "finish_time": "01:26:02",
+    "finish_seconds": 5162
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 477,
+    "name": "Cho, Eric",
+    "finish_time": "01:26:02",
+    "finish_seconds": 5162
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 479,
+    "name": "Harper, Tod",
+    "finish_time": "01:26:08",
+    "finish_seconds": 5168
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 481,
+    "name": "Aliento, Ken",
+    "finish_time": "01:26:10",
+    "finish_seconds": 5170
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 483,
+    "name": "Brackett, Tony",
+    "finish_time": "01:26:14",
+    "finish_seconds": 5174
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 485,
+    "name": "Anders, Ben",
+    "finish_time": "01:26:30",
+    "finish_seconds": 5190
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 487,
+    "name": "Smith, Aaron",
+    "finish_time": "01:26:33",
+    "finish_seconds": 5193
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 489,
+    "name": "Kishel, Cody",
+    "finish_time": "01:26:37",
+    "finish_seconds": 5197
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 491,
+    "name": "Brown, Derrick",
+    "finish_time": "01:26:41",
+    "finish_seconds": 5201
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 493,
+    "name": "Heise, Chris",
+    "finish_time": "01:26:43",
+    "finish_seconds": 5203
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 495,
+    "name": "Zimmerman, Rick",
+    "finish_time": "01:26:45",
+    "finish_seconds": 5205
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 497,
+    "name": "Legault, Phil",
+    "finish_time": "01:26:52",
+    "finish_seconds": 5212
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 499,
+    "name": "Marklin, Luke",
+    "finish_time": "01:27:01",
+    "finish_seconds": 5221
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 501,
+    "name": "Smith, Charlie",
+    "finish_time": "01:27:02",
+    "finish_seconds": 5222
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 503,
+    "name": "Kaset, Jason",
+    "finish_time": "01:27:04",
+    "finish_seconds": 5224
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 505,
+    "name": "Decou, Tyler",
+    "finish_time": "01:27:07",
+    "finish_seconds": 5227
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 507,
+    "name": "Wendler, Paul",
+    "finish_time": "01:27:19",
+    "finish_seconds": 5239
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 509,
+    "name": "Hoffman, Desmond",
+    "finish_time": "01:27:34",
+    "finish_seconds": 5254
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 511,
+    "name": "Crider, Alan",
+    "finish_time": "01:27:36",
+    "finish_seconds": 5256
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 513,
+    "name": "Ager, Walter",
+    "finish_time": "01:27:37",
+    "finish_seconds": 5257
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 515,
+    "name": "Anastasio, Chris",
+    "finish_time": "01:27:39",
+    "finish_seconds": 5259
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 517,
+    "name": "Peterson, Andrew",
+    "finish_time": "01:27:42",
+    "finish_seconds": 5262
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 519,
+    "name": "Warne, Gordon",
+    "finish_time": "01:27:47",
+    "finish_seconds": 5267
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 521,
+    "name": "Williams, Jonah",
+    "finish_time": "01:27:50",
+    "finish_seconds": 5270
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 523,
+    "name": "Hendrix, Brian",
+    "finish_time": "01:27:56",
+    "finish_seconds": 5276
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 525,
+    "name": "Fox, Terrance",
+    "finish_time": "01:28:04",
+    "finish_seconds": 5284
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 527,
+    "name": "Edillon, Erwin",
+    "finish_time": "01:28:09",
+    "finish_seconds": 5289
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 529,
+    "name": "Mueller, greg",
+    "finish_time": "01:28:13",
+    "finish_seconds": 5293
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 531,
+    "name": "Smith, Ty",
+    "finish_time": "01:28:17",
+    "finish_seconds": 5297
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 533,
+    "name": "Smith, Doug",
+    "finish_time": "01:28:23",
+    "finish_seconds": 5303
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 535,
+    "name": "Monroe, Josh",
+    "finish_time": "01:28:27",
+    "finish_seconds": 5307
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 537,
+    "name": "Hanahan, Gil",
+    "finish_time": "01:28:33",
+    "finish_seconds": 5313
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 539,
+    "name": "Gordon, Gavin",
+    "finish_time": "01:28:35",
+    "finish_seconds": 5315
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 541,
+    "name": "Shuler, Matt",
+    "finish_time": "01:28:36",
+    "finish_seconds": 5316
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 543,
+    "name": "Egidio, Marco",
+    "finish_time": "01:28:36",
+    "finish_seconds": 5316
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 545,
+    "name": "Castillo, Ivan",
+    "finish_time": "01:28:39",
+    "finish_seconds": 5319
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 547,
+    "name": "Romero, Logan",
+    "finish_time": "01:28:41",
+    "finish_seconds": 5321
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 549,
+    "name": "Miret, Maikel",
+    "finish_time": "01:28:49",
+    "finish_seconds": 5329
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 551,
+    "name": "Ballard, Blake",
+    "finish_time": "01:28:50",
+    "finish_seconds": 5330
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 553,
+    "name": "Edelman, Ed",
+    "finish_time": "01:28:53",
+    "finish_seconds": 5333
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 555,
+    "name": "Clark, Carson",
+    "finish_time": "01:28:54",
+    "finish_seconds": 5334
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 557,
+    "name": "Adorno, Brian",
+    "finish_time": "01:29:00",
+    "finish_seconds": 5340
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 559,
+    "name": "ZAPP, TROY",
+    "finish_time": "01:29:01",
+    "finish_seconds": 5341
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 561,
+    "name": "Samuel, Charles",
+    "finish_time": "01:29:04",
+    "finish_seconds": 5344
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 563,
+    "name": "Tsui, Alfred",
+    "finish_time": "01:29:07",
+    "finish_seconds": 5347
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 565,
+    "name": "McConnell, Mick",
+    "finish_time": "01:29:11",
+    "finish_seconds": 5351
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 567,
+    "name": "Yu, Brian",
+    "finish_time": "01:29:12",
+    "finish_seconds": 5352
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 569,
+    "name": "Cohen, Jacob",
+    "finish_time": "01:29:14",
+    "finish_seconds": 5354
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 571,
+    "name": "Huntzicker, George",
+    "finish_time": "01:29:15",
+    "finish_seconds": 5355
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 573,
+    "name": "Sheehan, Richard",
+    "finish_time": "01:29:21",
+    "finish_seconds": 5361
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 575,
+    "name": "Murray, Stephen",
+    "finish_time": "01:29:23",
+    "finish_seconds": 5363
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 577,
+    "name": "Roberts, Brian",
+    "finish_time": "01:29:28",
+    "finish_seconds": 5368
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 579,
+    "name": "Howell, Brock",
+    "finish_time": "01:29:31",
+    "finish_seconds": 5371
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 581,
+    "name": "Douglas, David",
+    "finish_time": "01:29:34",
+    "finish_seconds": 5374
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 583,
+    "name": "Daniels, Freddie",
+    "finish_time": "01:29:39",
+    "finish_seconds": 5379
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 585,
+    "name": "Butera, Glenn",
+    "finish_time": "01:29:41",
+    "finish_seconds": 5381
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 587,
+    "name": "Ruppersburg, Charles",
+    "finish_time": "01:29:42",
+    "finish_seconds": 5382
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 589,
+    "name": "Johnston, Nic",
+    "finish_time": "01:29:50",
+    "finish_seconds": 5390
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 591,
+    "name": "Tong, Jordan",
+    "finish_time": "01:29:54",
+    "finish_seconds": 5394
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 593,
+    "name": "Prosser, Jesse",
+    "finish_time": "01:29:54",
+    "finish_seconds": 5394
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 595,
+    "name": "Pender, Killian",
+    "finish_time": "01:29:55",
+    "finish_seconds": 5395
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 597,
+    "name": "Driscoll, hunter",
+    "finish_time": "01:29:59",
+    "finish_seconds": 5399
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 599,
+    "name": "Boyd, Chandler",
+    "finish_time": "01:30:01",
+    "finish_seconds": 5401
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 601,
+    "name": "Glendinning, Colin",
+    "finish_time": "01:30:09",
+    "finish_seconds": 5409
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 603,
+    "name": "Nkenke, Chinweuba",
+    "finish_time": "01:30:09",
+    "finish_seconds": 5409
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 605,
+    "name": "Horvath, Daniel",
+    "finish_time": "01:30:12",
+    "finish_seconds": 5412
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 607,
+    "name": "Walker, Derrick",
+    "finish_time": "01:30:16",
+    "finish_seconds": 5416
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 609,
+    "name": "Carroll, Ricky",
+    "finish_time": "01:30:19",
+    "finish_seconds": 5419
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 611,
+    "name": "Flannelly, Patrick",
+    "finish_time": "01:30:40",
+    "finish_seconds": 5440
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 613,
+    "name": "Burton, David",
+    "finish_time": "01:30:41",
+    "finish_seconds": 5441
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 615,
+    "name": "Vejzovic, Velmir",
+    "finish_time": "01:30:49",
+    "finish_seconds": 5449
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 617,
+    "name": "Sierra, Giovanni",
+    "finish_time": "01:30:53",
+    "finish_seconds": 5453
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 619,
+    "name": "Marks, Chris",
+    "finish_time": "01:30:56",
+    "finish_seconds": 5456
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 621,
+    "name": "SAULSBERY, WILLIAM",
+    "finish_time": "01:30:59",
+    "finish_seconds": 5459
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 623,
+    "name": "Vintinner, Sean",
+    "finish_time": "01:31:02",
+    "finish_seconds": 5462
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 625,
+    "name": "Matsuoka, Maclane",
+    "finish_time": "01:31:03",
+    "finish_seconds": 5463
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 627,
+    "name": "Yamashita, Taro",
+    "finish_time": "01:31:06",
+    "finish_seconds": 5466
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 629,
+    "name": "Vargas, Eric",
+    "finish_time": "01:31:08",
+    "finish_seconds": 5468
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 631,
+    "name": "Mauldin, Keaton",
+    "finish_time": "01:31:12",
+    "finish_seconds": 5472
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 633,
+    "name": "Ryu, James",
+    "finish_time": "01:31:21",
+    "finish_seconds": 5481
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 635,
+    "name": "Wright, Aven",
+    "finish_time": "01:31:29",
+    "finish_seconds": 5489
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 637,
+    "name": "Foreman, John",
+    "finish_time": "01:31:35",
+    "finish_seconds": 5495
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 639,
+    "name": "Grubbs, Robby",
+    "finish_time": "01:31:44",
+    "finish_seconds": 5504
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 641,
+    "name": "Mattar, Samir",
+    "finish_time": "01:31:45",
+    "finish_seconds": 5505
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 643,
+    "name": "Davis, Brian",
+    "finish_time": "01:31:47",
+    "finish_seconds": 5507
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 645,
+    "name": "Poe, Mike",
+    "finish_time": "01:31:48",
+    "finish_seconds": 5508
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 647,
+    "name": "Suggs, Kevin",
+    "finish_time": "01:31:51",
+    "finish_seconds": 5511
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 649,
+    "name": "Barrett, Dustin",
+    "finish_time": "01:31:59",
+    "finish_seconds": 5519
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 651,
+    "name": "Colon, Brandon",
+    "finish_time": "01:32:04",
+    "finish_seconds": 5524
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 653,
+    "name": "Girgis, Paul",
+    "finish_time": "01:32:08",
+    "finish_seconds": 5528
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 655,
+    "name": "Goins, Adam",
+    "finish_time": "01:32:15",
+    "finish_seconds": 5535
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 657,
+    "name": "Smith, Cole",
+    "finish_time": "01:32:18",
+    "finish_seconds": 5538
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 659,
+    "name": "Bridgeman, Christian",
+    "finish_time": "01:32:20",
+    "finish_seconds": 5540
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 661,
+    "name": "Lopez, Eddie",
+    "finish_time": "01:32:21",
+    "finish_seconds": 5541
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 663,
+    "name": "Kiser, Ryan",
+    "finish_time": "01:32:26",
+    "finish_seconds": 5546
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 665,
+    "name": "Newby, Justin",
+    "finish_time": "01:32:29",
+    "finish_seconds": 5549
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 667,
+    "name": "Soyyigit, Salih",
+    "finish_time": "01:32:31",
+    "finish_seconds": 5551
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 669,
+    "name": "Brun, Steven",
+    "finish_time": "01:32:44",
+    "finish_seconds": 5564
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 671,
+    "name": "Rice, Carter",
+    "finish_time": "01:32:48",
+    "finish_seconds": 5568
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 673,
+    "name": "Cancel, Jose",
+    "finish_time": "01:32:55",
+    "finish_seconds": 5575
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 675,
+    "name": "Bryant, Eli",
+    "finish_time": "01:32:57",
+    "finish_seconds": 5577
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 677,
+    "name": "Gunselman, Cody",
+    "finish_time": "01:33:02",
+    "finish_seconds": 5582
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 679,
+    "name": "Bishop, Luke",
+    "finish_time": "01:33:09",
+    "finish_seconds": 5589
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 681,
+    "name": "reynolds, mitchel",
+    "finish_time": "01:33:11",
+    "finish_seconds": 5591
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 683,
+    "name": "Hernandez, Willord",
+    "finish_time": "01:33:15",
+    "finish_seconds": 5595
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 685,
+    "name": "Pillow, Thomas",
+    "finish_time": "01:33:20",
+    "finish_seconds": 5600
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 687,
+    "name": "Ciborowski, Todd",
+    "finish_time": "01:33:24",
+    "finish_seconds": 5604
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 689,
+    "name": "Eade, Paul",
+    "finish_time": "01:33:35",
+    "finish_seconds": 5615
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 691,
+    "name": "Fletcher, Kyle",
+    "finish_time": "01:33:36",
+    "finish_seconds": 5616
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 693,
+    "name": "Davis, Tyler",
+    "finish_time": "01:33:44",
+    "finish_seconds": 5624
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 695,
+    "name": "Swotek, Carson",
+    "finish_time": "01:33:53",
+    "finish_seconds": 5633
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 697,
+    "name": "Tillotson, Ryan",
+    "finish_time": "01:33:57",
+    "finish_seconds": 5637
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 699,
+    "name": "Hathaway, Will",
+    "finish_time": "01:34:00",
+    "finish_seconds": 5640
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 701,
+    "name": "Gardner, Shaquille",
+    "finish_time": "01:34:02",
+    "finish_seconds": 5642
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 703,
+    "name": "Commodore, Daitwan",
+    "finish_time": "01:34:04",
+    "finish_seconds": 5644
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 705,
+    "name": "Haynes, Dan",
+    "finish_time": "01:34:09",
+    "finish_seconds": 5649
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 707,
+    "name": "Han, Nate",
+    "finish_time": "01:34:14",
+    "finish_seconds": 5654
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 709,
+    "name": "Gottlieb, Geoff",
+    "finish_time": "01:34:14",
+    "finish_seconds": 5654
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 711,
+    "name": "Prisby, Jedediah",
+    "finish_time": "01:34:21",
+    "finish_seconds": 5661
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 713,
+    "name": "Sneed, Clay",
+    "finish_time": "01:34:28",
+    "finish_seconds": 5668
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 715,
+    "name": "Spinosa, Adam",
+    "finish_time": "01:34:40",
+    "finish_seconds": 5680
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 717,
+    "name": "Stoffer, Ryan",
+    "finish_time": "01:34:50",
+    "finish_seconds": 5690
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 719,
+    "name": "Aikens, Shawn",
+    "finish_time": "01:34:52",
+    "finish_seconds": 5692
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 721,
+    "name": "Washington, Damion",
+    "finish_time": "01:35:00",
+    "finish_seconds": 5700
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 723,
+    "name": "McGuire, James",
+    "finish_time": "01:35:03",
+    "finish_seconds": 5703
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 725,
+    "name": "Ortega, Alex",
+    "finish_time": "01:35:04",
+    "finish_seconds": 5704
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 727,
+    "name": "Sharif, Reed",
+    "finish_time": "01:35:05",
+    "finish_seconds": 5705
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 729,
+    "name": "Harrell, Brian",
+    "finish_time": "01:35:09",
+    "finish_seconds": 5709
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 731,
+    "name": "Turchin, Billy",
+    "finish_time": "01:35:17",
+    "finish_seconds": 5717
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 733,
+    "name": "Qayoum, Khalid",
+    "finish_time": "01:35:24",
+    "finish_seconds": 5724
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 735,
+    "name": "Anderson, David",
+    "finish_time": "01:35:26",
+    "finish_seconds": 5726
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 737,
+    "name": "Munger, Josh",
+    "finish_time": "01:35:39",
+    "finish_seconds": 5739
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 739,
+    "name": "Leger, Armand",
+    "finish_time": "01:35:44",
+    "finish_seconds": 5744
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 741,
+    "name": "Scogin, Richard",
+    "finish_time": "01:35:46",
+    "finish_seconds": 5746
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 743,
+    "name": "Jones, Taiwan",
+    "finish_time": "01:35:51",
+    "finish_seconds": 5751
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 745,
+    "name": "Vo, Paul",
+    "finish_time": "01:35:52",
+    "finish_seconds": 5752
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 747,
+    "name": "Ashton, Gavin",
+    "finish_time": "01:35:54",
+    "finish_seconds": 5754
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 749,
+    "name": "Joseph, Andrew",
+    "finish_time": "01:35:54",
+    "finish_seconds": 5754
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 751,
+    "name": "Richardson, Darian",
+    "finish_time": "01:35:57",
+    "finish_seconds": 5757
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 753,
+    "name": "Gatti, Jimmy",
+    "finish_time": "01:36:05",
+    "finish_seconds": 5765
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 755,
+    "name": "Mehta, Sanchit",
+    "finish_time": "01:36:07",
+    "finish_seconds": 5767
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 757,
+    "name": "Jones, Joshua",
+    "finish_time": "01:36:08",
+    "finish_seconds": 5768
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 759,
+    "name": "Lee, Edy",
+    "finish_time": "01:36:12",
+    "finish_seconds": 5772
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 761,
+    "name": "Holmes, Jakub",
+    "finish_time": "01:36:12",
+    "finish_seconds": 5772
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 763,
+    "name": "Dixon, Sylas",
+    "finish_time": "01:36:21",
+    "finish_seconds": 5781
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 765,
+    "name": "Walker, Cole",
+    "finish_time": "01:36:25",
+    "finish_seconds": 5785
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 767,
+    "name": "Flynt, Jon D",
+    "finish_time": "01:36:31",
+    "finish_seconds": 5791
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 769,
+    "name": "Feliciano, Mike",
+    "finish_time": "01:36:46",
+    "finish_seconds": 5806
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 771,
+    "name": "Duran, Andy",
+    "finish_time": "01:36:47",
+    "finish_seconds": 5807
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 773,
+    "name": "Cooper, Paul",
+    "finish_time": "01:36:52",
+    "finish_seconds": 5812
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 775,
+    "name": "Espinoza, Jesse",
+    "finish_time": "01:36:53",
+    "finish_seconds": 5813
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 777,
+    "name": "Soomro, Haaris",
+    "finish_time": "01:36:58",
+    "finish_seconds": 5818
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 779,
+    "name": "Mancilla, Mason",
+    "finish_time": "01:37:01",
+    "finish_seconds": 5821
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 781,
+    "name": "Henn, Patrick",
+    "finish_time": "01:37:06",
+    "finish_seconds": 5826
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 783,
+    "name": "Green, Ryan",
+    "finish_time": "01:37:13",
+    "finish_seconds": 5833
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 785,
+    "name": "McPheely, Gregg",
+    "finish_time": "01:37:16",
+    "finish_seconds": 5836
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 787,
+    "name": "Donoghue, Dave",
+    "finish_time": "01:37:30",
+    "finish_seconds": 5850
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 789,
+    "name": "Gregory, Billy",
+    "finish_time": "01:37:40",
+    "finish_seconds": 5860
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 791,
+    "name": "Garcia, Gabriel",
+    "finish_time": "01:37:42",
+    "finish_seconds": 5862
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 793,
+    "name": "Hunter, Alex",
+    "finish_time": "01:37:44",
+    "finish_seconds": 5864
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 795,
+    "name": "Hinkle, David",
+    "finish_time": "01:37:50",
+    "finish_seconds": 5870
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 797,
+    "name": "bautista, jorge",
+    "finish_time": "01:37:58",
+    "finish_seconds": 5878
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 799,
+    "name": "Gallegos, Edgar",
+    "finish_time": "01:38:02",
+    "finish_seconds": 5882
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 801,
+    "name": "Deckert, Greg",
+    "finish_time": "01:38:12",
+    "finish_seconds": 5892
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 803,
+    "name": "Vobbe, Stephen",
+    "finish_time": "01:38:22",
+    "finish_seconds": 5902
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 805,
+    "name": "Jones, Terrell",
+    "finish_time": "01:38:24",
+    "finish_seconds": 5904
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 807,
+    "name": "Chen, Oscar",
+    "finish_time": "01:38:28",
+    "finish_seconds": 5908
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 809,
+    "name": "Taylor, Ryne",
+    "finish_time": "01:38:33",
+    "finish_seconds": 5913
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 811,
+    "name": "Kent, Houston",
+    "finish_time": "01:38:37",
+    "finish_seconds": 5917
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 813,
+    "name": "Maxwell, Kyle",
+    "finish_time": "01:38:37",
+    "finish_seconds": 5917
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 815,
+    "name": "Franklin, Gman",
+    "finish_time": "01:38:43",
+    "finish_seconds": 5923
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 817,
+    "name": "Hawkins, Kevin",
+    "finish_time": "01:38:44",
+    "finish_seconds": 5924
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 819,
+    "name": "Fitzgerald, Austin",
+    "finish_time": "01:38:48",
+    "finish_seconds": 5928
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 821,
+    "name": "Escobar, Edgar",
+    "finish_time": "01:38:56",
+    "finish_seconds": 5936
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 823,
+    "name": "Hernandez, David",
+    "finish_time": "01:39:03",
+    "finish_seconds": 5943
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 825,
+    "name": "Bridges, Billy",
+    "finish_time": "01:39:07",
+    "finish_seconds": 5947
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 827,
+    "name": "Payne, Desmond",
+    "finish_time": "01:39:13",
+    "finish_seconds": 5953
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 829,
+    "name": "Ragan, Shane",
+    "finish_time": "01:39:20",
+    "finish_seconds": 5960
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 831,
+    "name": "Ott, Ross",
+    "finish_time": "01:39:34",
+    "finish_seconds": 5974
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 833,
+    "name": "Willacey, Khari",
+    "finish_time": "01:39:46",
+    "finish_seconds": 5986
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 835,
+    "name": "Briscione, RJ",
+    "finish_time": "01:40:01",
+    "finish_seconds": 6001
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 837,
+    "name": "Johnson, Les",
+    "finish_time": "01:40:09",
+    "finish_seconds": 6009
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 839,
+    "name": "McDowell, Brandon",
+    "finish_time": "01:40:20",
+    "finish_seconds": 6020
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 841,
+    "name": "Edwards, Will",
+    "finish_time": "01:40:22",
+    "finish_seconds": 6022
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 843,
+    "name": "Kaufman, Mark",
+    "finish_time": "01:40:25",
+    "finish_seconds": 6025
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 845,
+    "name": "Nguyen, Abel",
+    "finish_time": "01:40:30",
+    "finish_seconds": 6030
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 847,
+    "name": "Compton, Ben",
+    "finish_time": "01:40:40",
+    "finish_seconds": 6040
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 849,
+    "name": "Scott, Joshua",
+    "finish_time": "01:40:42",
+    "finish_seconds": 6042
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 851,
+    "name": "Baker, Darrin",
+    "finish_time": "01:40:53",
+    "finish_seconds": 6053
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 853,
+    "name": "Assinesi, Drew",
+    "finish_time": "01:40:58",
+    "finish_seconds": 6058
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 855,
+    "name": "Strauss-Malcolm, Ben",
+    "finish_time": "01:41:01",
+    "finish_seconds": 6061
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 857,
+    "name": "Akins, Jacob",
+    "finish_time": "01:41:03",
+    "finish_seconds": 6063
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 859,
+    "name": "Chavez, Jonathan",
+    "finish_time": "01:41:10",
+    "finish_seconds": 6070
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 861,
+    "name": "Chesney, John",
+    "finish_time": "01:41:18",
+    "finish_seconds": 6078
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 863,
+    "name": "Chatterjea, Rahul",
+    "finish_time": "01:41:24",
+    "finish_seconds": 6084
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 865,
+    "name": "Rice, Paul",
+    "finish_time": "01:41:25",
+    "finish_seconds": 6085
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 867,
+    "name": "Stolpestad, Robert",
+    "finish_time": "01:41:29",
+    "finish_seconds": 6089
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 869,
+    "name": "Arango, Michael",
+    "finish_time": "01:41:48",
+    "finish_seconds": 6108
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 871,
+    "name": "Bennett, Brian",
+    "finish_time": "01:41:52",
+    "finish_seconds": 6112
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 873,
+    "name": "Evans, Bryan",
+    "finish_time": "01:41:53",
+    "finish_seconds": 6113
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 875,
+    "name": "Hallman, Arthur",
+    "finish_time": "01:42:01",
+    "finish_seconds": 6121
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 877,
+    "name": "Shah, Krishen",
+    "finish_time": "01:42:03",
+    "finish_seconds": 6123
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 879,
+    "name": "Kozitza, Harlan",
+    "finish_time": "01:42:12",
+    "finish_seconds": 6132
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 881,
+    "name": "Littlejohn, Kyle",
+    "finish_time": "01:42:18",
+    "finish_seconds": 6138
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 883,
+    "name": "Jones, Nathan",
+    "finish_time": "01:42:26",
+    "finish_seconds": 6146
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 885,
+    "name": "PITTMAN, MATTHEW",
+    "finish_time": "01:42:31",
+    "finish_seconds": 6151
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 887,
+    "name": "Smith, Josh",
+    "finish_time": "01:42:39",
+    "finish_seconds": 6159
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 889,
+    "name": "Hefter, Steven",
+    "finish_time": "01:42:42",
+    "finish_seconds": 6162
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 891,
+    "name": "McLain, Cody",
+    "finish_time": "01:42:53",
+    "finish_seconds": 6173
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 893,
+    "name": "BOWMAN, EDDIE",
+    "finish_time": "01:42:56",
+    "finish_seconds": 6176
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 895,
+    "name": "Jones, Vince",
+    "finish_time": "01:43:05",
+    "finish_seconds": 6185
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 897,
+    "name": "McDonald, John",
+    "finish_time": "01:43:08",
+    "finish_seconds": 6188
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 899,
+    "name": "Barron, angel",
+    "finish_time": "01:43:21",
+    "finish_seconds": 6201
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 901,
+    "name": "Smith, Karl",
+    "finish_time": "01:43:31",
+    "finish_seconds": 6211
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 903,
+    "name": "Buff, Jimmie",
+    "finish_time": "01:43:31",
+    "finish_seconds": 6211
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 905,
+    "name": "Yard, Shane",
+    "finish_time": "01:43:38",
+    "finish_seconds": 6218
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 907,
+    "name": "Calhoun, Ben",
+    "finish_time": "01:43:41",
+    "finish_seconds": 6221
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 909,
+    "name": "Cooper, Preston",
+    "finish_time": "01:43:42",
+    "finish_seconds": 6222
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 911,
+    "name": "Zealear, David",
+    "finish_time": "01:43:48",
+    "finish_seconds": 6228
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 913,
+    "name": "Pfeifer, Ryne",
+    "finish_time": "01:43:59",
+    "finish_seconds": 6239
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 915,
+    "name": "Howell, Chase",
+    "finish_time": "01:44:00",
+    "finish_seconds": 6240
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 917,
+    "name": "Mead, Kirk",
+    "finish_time": "01:44:09",
+    "finish_seconds": 6249
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 919,
+    "name": "Colebourn, Jonathan",
+    "finish_time": "01:44:13",
+    "finish_seconds": 6253
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 921,
+    "name": "Calder\u00f3n, Alex",
+    "finish_time": "01:44:15",
+    "finish_seconds": 6255
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 923,
+    "name": "Cuppia, Andrew",
+    "finish_time": "01:44:25",
+    "finish_seconds": 6265
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 925,
+    "name": "Broome, Craig",
+    "finish_time": "01:44:28",
+    "finish_seconds": 6268
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 927,
+    "name": "Hernandez Bravo, Jean Carlo",
+    "finish_time": "01:44:32",
+    "finish_seconds": 6272
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 929,
+    "name": "Keener, Darin",
+    "finish_time": "01:44:35",
+    "finish_seconds": 6275
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 931,
+    "name": "Haire, John",
+    "finish_time": "01:44:46",
+    "finish_seconds": 6286
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 933,
+    "name": "Yurko, Michael",
+    "finish_time": "01:44:47",
+    "finish_seconds": 6287
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 935,
+    "name": "Jensen, Deaven",
+    "finish_time": "01:44:52",
+    "finish_seconds": 6292
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 937,
+    "name": "Onderdonk, Willie",
+    "finish_time": "01:44:59",
+    "finish_seconds": 6299
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 939,
+    "name": "Moorman, David",
+    "finish_time": "01:45:00",
+    "finish_seconds": 6300
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 941,
+    "name": "Holder, Cody",
+    "finish_time": "01:45:04",
+    "finish_seconds": 6304
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 943,
+    "name": "Markert, Dave",
+    "finish_time": "01:45:06",
+    "finish_seconds": 6306
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 945,
+    "name": "Gnakadja, Anthony",
+    "finish_time": "01:45:11",
+    "finish_seconds": 6311
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 947,
+    "name": "Allen, Daron",
+    "finish_time": "01:45:17",
+    "finish_seconds": 6317
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 949,
+    "name": "Russell, Kristian",
+    "finish_time": "01:45:21",
+    "finish_seconds": 6321
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 951,
+    "name": "Wolfe, Kyle",
+    "finish_time": "01:45:34",
+    "finish_seconds": 6334
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 953,
+    "name": "Robins, Ryan",
+    "finish_time": "01:45:38",
+    "finish_seconds": 6338
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 955,
+    "name": "PARDAL, Jean-Claude",
+    "finish_time": "01:45:43",
+    "finish_seconds": 6343
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 957,
+    "name": "Hogue II, Harold",
+    "finish_time": "01:45:44",
+    "finish_seconds": 6344
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 959,
+    "name": "Smith, Matthew",
+    "finish_time": "01:45:46",
+    "finish_seconds": 6346
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 961,
+    "name": "Willis, Lance",
+    "finish_time": "01:45:51",
+    "finish_seconds": 6351
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 963,
+    "name": "Turnage, Kirby",
+    "finish_time": "01:45:55",
+    "finish_seconds": 6355
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 965,
+    "name": "LePore, Lonnie",
+    "finish_time": "01:46:02",
+    "finish_seconds": 6362
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 967,
+    "name": "Carrion, Enrique",
+    "finish_time": "01:46:04",
+    "finish_seconds": 6364
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 969,
+    "name": "Rider, Craig",
+    "finish_time": "01:46:10",
+    "finish_seconds": 6370
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 971,
+    "name": "Remaley, Jason",
+    "finish_time": "01:46:21",
+    "finish_seconds": 6381
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 973,
+    "name": "Kramer, John",
+    "finish_time": "01:46:31",
+    "finish_seconds": 6391
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 975,
+    "name": "Longcoy, Cliff",
+    "finish_time": "01:46:36",
+    "finish_seconds": 6396
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 977,
+    "name": "Markin, Max",
+    "finish_time": "01:46:41",
+    "finish_seconds": 6401
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 979,
+    "name": "Brooks, Benjamin",
+    "finish_time": "01:47:05",
+    "finish_seconds": 6425
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 981,
+    "name": "King, Clint",
+    "finish_time": "01:47:16",
+    "finish_seconds": 6436
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 983,
+    "name": "Hoskin, Lorenzo",
+    "finish_time": "01:47:20",
+    "finish_seconds": 6440
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 985,
+    "name": "Brown, Durrell",
+    "finish_time": "01:47:27",
+    "finish_seconds": 6447
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 987,
+    "name": "Thomas, Dave",
+    "finish_time": "01:47:31",
+    "finish_seconds": 6451
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 989,
+    "name": "e hawkins, john",
+    "finish_time": "01:47:41",
+    "finish_seconds": 6461
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 991,
+    "name": "Hollmann, Ben",
+    "finish_time": "01:47:50",
+    "finish_seconds": 6470
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "M",
+    "rank": 993,
+    "name": "Torres, Daniel",
+    "finish_time": "01:48:01",
+    "finish_seconds": 6481
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 1,
+    "name": "Fagre, Carleigh",
+    "finish_time": "01:05:28",
+    "finish_seconds": 3928
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 3,
+    "name": "Guidry, Karyn",
+    "finish_time": "01:07:30",
+    "finish_seconds": 4050
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 5,
+    "name": "Dewan, Diana",
+    "finish_time": "01:08:19",
+    "finish_seconds": 4099
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 7,
+    "name": "Corriher, Emily",
+    "finish_time": "01:08:58",
+    "finish_seconds": 4138
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 9,
+    "name": "Yingling, Sara",
+    "finish_time": "01:09:27",
+    "finish_seconds": 4167
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 11,
+    "name": "Pratt, Katelin",
+    "finish_time": "01:10:09",
+    "finish_seconds": 4209
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 13,
+    "name": "Schell, Kirstin",
+    "finish_time": "01:10:25",
+    "finish_seconds": 4225
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 15,
+    "name": "Edwards, Laura Jean",
+    "finish_time": "01:10:32",
+    "finish_seconds": 4232
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 17,
+    "name": "Payne, Shannon",
+    "finish_time": "01:10:54",
+    "finish_seconds": 4254
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 19,
+    "name": "Knoll, Taylor",
+    "finish_time": "01:11:21",
+    "finish_seconds": 4281
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 21,
+    "name": "Duval, Laura",
+    "finish_time": "01:11:46",
+    "finish_seconds": 4306
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 23,
+    "name": "Fox, Pamela",
+    "finish_time": "01:11:58",
+    "finish_seconds": 4318
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 25,
+    "name": "Tyson, Lauren",
+    "finish_time": "01:12:21",
+    "finish_seconds": 4341
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 27,
+    "name": "Rice, Ellie",
+    "finish_time": "01:12:34",
+    "finish_seconds": 4354
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 29,
+    "name": "Walker, Deyana",
+    "finish_time": "01:12:39",
+    "finish_seconds": 4359
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 31,
+    "name": "Miller, Cora",
+    "finish_time": "01:13:38",
+    "finish_seconds": 4418
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 33,
+    "name": "Triani, Samantha",
+    "finish_time": "01:13:45",
+    "finish_seconds": 4425
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 35,
+    "name": "Szekely, Kata",
+    "finish_time": "01:13:53",
+    "finish_seconds": 4433
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 37,
+    "name": "Goncalves, Hannah",
+    "finish_time": "01:14:29",
+    "finish_seconds": 4469
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 39,
+    "name": "De la garza, Valeria",
+    "finish_time": "01:14:43",
+    "finish_seconds": 4483
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 41,
+    "name": "Palermo, Renee",
+    "finish_time": "01:14:50",
+    "finish_seconds": 4490
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 43,
+    "name": "Henshaw, Rebecca",
+    "finish_time": "01:15:35",
+    "finish_seconds": 4535
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 45,
+    "name": "Mattison, Erica",
+    "finish_time": "01:15:43",
+    "finish_seconds": 4543
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 47,
+    "name": "Radloff, Sydney",
+    "finish_time": "01:15:46",
+    "finish_seconds": 4546
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 49,
+    "name": "Starosto, Margaret",
+    "finish_time": "01:16:05",
+    "finish_seconds": 4565
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 51,
+    "name": "Abdo, Joyce",
+    "finish_time": "01:16:20",
+    "finish_seconds": 4580
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 53,
+    "name": "Rollins, Catie",
+    "finish_time": "01:16:42",
+    "finish_seconds": 4602
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 55,
+    "name": "Maruyama, Riho",
+    "finish_time": "01:16:54",
+    "finish_seconds": 4614
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 57,
+    "name": "Houston, Amy",
+    "finish_time": "01:17:13",
+    "finish_seconds": 4633
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 59,
+    "name": "Humsi, Erin",
+    "finish_time": "01:17:23",
+    "finish_seconds": 4643
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 61,
+    "name": "Somerville, Laura",
+    "finish_time": "01:17:43",
+    "finish_seconds": 4663
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 63,
+    "name": "Vesterinen, Heidi",
+    "finish_time": "01:18:11",
+    "finish_seconds": 4691
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 65,
+    "name": "Braunbeck, Olivia",
+    "finish_time": "01:18:18",
+    "finish_seconds": 4698
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 67,
+    "name": "Konstanzer, Meah",
+    "finish_time": "01:18:22",
+    "finish_seconds": 4702
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 69,
+    "name": "Brown, Demis",
+    "finish_time": "01:18:42",
+    "finish_seconds": 4722
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 71,
+    "name": "Keane, Delaney",
+    "finish_time": "01:18:50",
+    "finish_seconds": 4730
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 73,
+    "name": "Hankin, Ellie",
+    "finish_time": "01:18:56",
+    "finish_seconds": 4736
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 75,
+    "name": "Sparks, Madi",
+    "finish_time": "01:19:04",
+    "finish_seconds": 4744
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 77,
+    "name": "Mark, Chloe",
+    "finish_time": "01:19:18",
+    "finish_seconds": 4758
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 79,
+    "name": "Gross, Ann",
+    "finish_time": "01:19:27",
+    "finish_seconds": 4767
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 81,
+    "name": "Bocklet, Marisa",
+    "finish_time": "01:19:43",
+    "finish_seconds": 4783
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 83,
+    "name": "White, Riley",
+    "finish_time": "01:19:51",
+    "finish_seconds": 4791
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 85,
+    "name": "Douglas, Lauren",
+    "finish_time": "01:19:53",
+    "finish_seconds": 4793
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 87,
+    "name": "Sever, Kate",
+    "finish_time": "01:20:04",
+    "finish_seconds": 4804
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 89,
+    "name": "Jacobs, Kirstian",
+    "finish_time": "01:20:07",
+    "finish_seconds": 4807
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 91,
+    "name": "Walker, Allison",
+    "finish_time": "01:20:11",
+    "finish_seconds": 4811
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 93,
+    "name": "Sherrill, Lindsey",
+    "finish_time": "01:20:20",
+    "finish_seconds": 4820
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 95,
+    "name": "Dumsky, Jessica",
+    "finish_time": "01:20:26",
+    "finish_seconds": 4826
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 97,
+    "name": "Bradley, Anna Beth",
+    "finish_time": "01:20:54",
+    "finish_seconds": 4854
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 99,
+    "name": "Perez, Imelda",
+    "finish_time": "01:20:55",
+    "finish_seconds": 4855
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 101,
+    "name": "Hadley, Mychelle",
+    "finish_time": "01:21:02",
+    "finish_seconds": 4862
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 103,
+    "name": "Varano, Erin",
+    "finish_time": "01:21:08",
+    "finish_seconds": 4868
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 105,
+    "name": "Rhodes, Annalee",
+    "finish_time": "01:21:15",
+    "finish_seconds": 4875
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 107,
+    "name": "Fitzpatrick, Darielle",
+    "finish_time": "01:21:30",
+    "finish_seconds": 4890
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 109,
+    "name": "Smart, Christina",
+    "finish_time": "01:21:34",
+    "finish_seconds": 4894
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 111,
+    "name": "Magato, Elizabeth",
+    "finish_time": "01:21:38",
+    "finish_seconds": 4898
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 113,
+    "name": "Harr, Kylee",
+    "finish_time": "01:21:50",
+    "finish_seconds": 4910
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 115,
+    "name": "Pearson, April",
+    "finish_time": "01:21:59",
+    "finish_seconds": 4919
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 117,
+    "name": "Stoddard, Courtney",
+    "finish_time": "01:22:09",
+    "finish_seconds": 4929
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 119,
+    "name": "Ramsey, Emily",
+    "finish_time": "01:22:30",
+    "finish_seconds": 4950
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 121,
+    "name": "Leone, Elizabeth",
+    "finish_time": "01:22:33",
+    "finish_seconds": 4953
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 123,
+    "name": "Toney, Marissa",
+    "finish_time": "01:22:40",
+    "finish_seconds": 4960
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 125,
+    "name": "Reusser, Ella",
+    "finish_time": "01:22:46",
+    "finish_seconds": 4966
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 127,
+    "name": "Liever, Kathleen",
+    "finish_time": "01:23:01",
+    "finish_seconds": 4981
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 129,
+    "name": "Oo, Yun Wai Wai",
+    "finish_time": "01:23:06",
+    "finish_seconds": 4986
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 131,
+    "name": "Morrison, Mary",
+    "finish_time": "01:23:08",
+    "finish_seconds": 4988
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 133,
+    "name": "OCONNELL, ROBIN",
+    "finish_time": "01:23:14",
+    "finish_seconds": 4994
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 135,
+    "name": "Smith, Kathleen",
+    "finish_time": "01:23:23",
+    "finish_seconds": 5003
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 137,
+    "name": "Zipperer, Regina",
+    "finish_time": "01:23:28",
+    "finish_seconds": 5008
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 139,
+    "name": "Strobbe, Amy",
+    "finish_time": "01:23:36",
+    "finish_seconds": 5016
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 141,
+    "name": "Fulco, Caroline",
+    "finish_time": "01:23:50",
+    "finish_seconds": 5030
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 143,
+    "name": "Ahalt, Claire",
+    "finish_time": "01:23:53",
+    "finish_seconds": 5033
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 145,
+    "name": "Layman, Drew",
+    "finish_time": "01:23:58",
+    "finish_seconds": 5038
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 147,
+    "name": "Cavallo, Christina",
+    "finish_time": "01:24:01",
+    "finish_seconds": 5041
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 149,
+    "name": "Schmidt, Kristen",
+    "finish_time": "01:24:04",
+    "finish_seconds": 5044
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 151,
+    "name": "Rivera, Maria",
+    "finish_time": "01:24:07",
+    "finish_seconds": 5047
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 153,
+    "name": "Wilde, Neo",
+    "finish_time": "01:24:10",
+    "finish_seconds": 5050
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 155,
+    "name": "Kuban, Amanda",
+    "finish_time": "01:24:18",
+    "finish_seconds": 5058
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 157,
+    "name": "Kaila, Erin",
+    "finish_time": "01:24:20",
+    "finish_seconds": 5060
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 159,
+    "name": "kuhn, kristen",
+    "finish_time": "01:24:30",
+    "finish_seconds": 5070
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 161,
+    "name": "Martinez, Francisca",
+    "finish_time": "01:24:33",
+    "finish_seconds": 5073
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 163,
+    "name": "Krajenta, Kara",
+    "finish_time": "01:24:38",
+    "finish_seconds": 5078
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 165,
+    "name": "Wells, Merideth",
+    "finish_time": "01:24:53",
+    "finish_seconds": 5093
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 167,
+    "name": "Zander, Meg",
+    "finish_time": "01:25:02",
+    "finish_seconds": 5102
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 169,
+    "name": "Johnson, Paulette",
+    "finish_time": "01:25:07",
+    "finish_seconds": 5107
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 171,
+    "name": "Olsen, Allison",
+    "finish_time": "01:25:11",
+    "finish_seconds": 5111
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 173,
+    "name": "Calvin, Michaela",
+    "finish_time": "01:25:17",
+    "finish_seconds": 5117
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 175,
+    "name": "Goyette, Heather",
+    "finish_time": "01:25:25",
+    "finish_seconds": 5125
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 177,
+    "name": "Henry, Asia",
+    "finish_time": "01:25:29",
+    "finish_seconds": 5129
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 179,
+    "name": "Poindexter, Joanna",
+    "finish_time": "01:25:43",
+    "finish_seconds": 5143
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 181,
+    "name": "Parks, Jade",
+    "finish_time": "01:25:47",
+    "finish_seconds": 5147
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 183,
+    "name": "Edmiston (Davis), Josie",
+    "finish_time": "01:25:55",
+    "finish_seconds": 5155
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 185,
+    "name": "Morgan, Amanda",
+    "finish_time": "01:26:06",
+    "finish_seconds": 5166
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 187,
+    "name": "Patten, Becca",
+    "finish_time": "01:26:10",
+    "finish_seconds": 5170
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 189,
+    "name": "Stevens, Alexis",
+    "finish_time": "01:26:44",
+    "finish_seconds": 5204
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 191,
+    "name": "Hendricks, Megan",
+    "finish_time": "01:26:46",
+    "finish_seconds": 5206
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 193,
+    "name": "Collins, Skylar",
+    "finish_time": "01:26:50",
+    "finish_seconds": 5210
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 195,
+    "name": "Applegate, Amy",
+    "finish_time": "01:26:57",
+    "finish_seconds": 5217
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 197,
+    "name": "Tyber, Shelle",
+    "finish_time": "01:27:16",
+    "finish_seconds": 5236
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 199,
+    "name": "Tucker, Kathleen",
+    "finish_time": "01:27:18",
+    "finish_seconds": 5238
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 201,
+    "name": "Toolsee, Jayde",
+    "finish_time": "01:27:25",
+    "finish_seconds": 5245
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 203,
+    "name": "Perry, Blair",
+    "finish_time": "01:27:40",
+    "finish_seconds": 5260
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 205,
+    "name": "Lo, Melinda",
+    "finish_time": "01:27:45",
+    "finish_seconds": 5265
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 207,
+    "name": "Stewart, Mikayla",
+    "finish_time": "01:27:46",
+    "finish_seconds": 5266
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 209,
+    "name": "Hullinger, Emily",
+    "finish_time": "01:27:48",
+    "finish_seconds": 5268
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 211,
+    "name": "Martin, Melissa",
+    "finish_time": "01:27:52",
+    "finish_seconds": 5272
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 213,
+    "name": "Pitcairn, Jan",
+    "finish_time": "01:28:08",
+    "finish_seconds": 5288
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 215,
+    "name": "Vorkapich, Kathryn",
+    "finish_time": "01:28:10",
+    "finish_seconds": 5290
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 217,
+    "name": "Cour, Cat",
+    "finish_time": "01:28:21",
+    "finish_seconds": 5301
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 219,
+    "name": "Smith, Emma",
+    "finish_time": "01:28:25",
+    "finish_seconds": 5305
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 221,
+    "name": "Owenby, Annabelle",
+    "finish_time": "01:28:27",
+    "finish_seconds": 5307
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 223,
+    "name": "Sanders, Sydney",
+    "finish_time": "01:28:33",
+    "finish_seconds": 5313
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 225,
+    "name": "LaCrosse, Deb",
+    "finish_time": "01:28:41",
+    "finish_seconds": 5321
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 227,
+    "name": "Birn, Kimberly",
+    "finish_time": "01:28:49",
+    "finish_seconds": 5329
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 229,
+    "name": "Keo, Angela",
+    "finish_time": "01:28:58",
+    "finish_seconds": 5338
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 231,
+    "name": "Kelly, Jen",
+    "finish_time": "01:29:04",
+    "finish_seconds": 5344
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 233,
+    "name": "Cody, Amy",
+    "finish_time": "01:29:06",
+    "finish_seconds": 5346
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 235,
+    "name": "Serra, Marina",
+    "finish_time": "01:29:11",
+    "finish_seconds": 5351
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 237,
+    "name": "Binkley, Amanda",
+    "finish_time": "01:29:16",
+    "finish_seconds": 5356
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 239,
+    "name": "Gibson, Chrissy",
+    "finish_time": "01:29:23",
+    "finish_seconds": 5363
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 241,
+    "name": "King, Erin",
+    "finish_time": "01:29:26",
+    "finish_seconds": 5366
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 243,
+    "name": "Ullman, Starra",
+    "finish_time": "01:29:32",
+    "finish_seconds": 5372
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 245,
+    "name": "douglas, grace",
+    "finish_time": "01:29:37",
+    "finish_seconds": 5377
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 247,
+    "name": "Guan, Maime",
+    "finish_time": "01:29:44",
+    "finish_seconds": 5384
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 249,
+    "name": "Arend, Rebecca",
+    "finish_time": "01:29:47",
+    "finish_seconds": 5387
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 251,
+    "name": "Brennan, Allie",
+    "finish_time": "01:29:53",
+    "finish_seconds": 5393
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 253,
+    "name": "Nunnelly, Sarah",
+    "finish_time": "01:29:53",
+    "finish_seconds": 5393
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 255,
+    "name": "Frymark, Jaclyn",
+    "finish_time": "01:29:54",
+    "finish_seconds": 5394
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 257,
+    "name": "Harvey, Alex",
+    "finish_time": "01:30:08",
+    "finish_seconds": 5408
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 259,
+    "name": "Chen, Gabby",
+    "finish_time": "01:30:11",
+    "finish_seconds": 5411
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 261,
+    "name": "Legg, Ashley",
+    "finish_time": "01:30:12",
+    "finish_seconds": 5412
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 263,
+    "name": "Otero, Melanie",
+    "finish_time": "01:30:22",
+    "finish_seconds": 5422
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 265,
+    "name": "Streeter, Melissa",
+    "finish_time": "01:30:26",
+    "finish_seconds": 5426
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 267,
+    "name": "Diaco, Ashlin",
+    "finish_time": "01:30:31",
+    "finish_seconds": 5431
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 269,
+    "name": "Bullock, Amy",
+    "finish_time": "01:30:36",
+    "finish_seconds": 5436
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 271,
+    "name": "Brewer, Heidi",
+    "finish_time": "01:30:42",
+    "finish_seconds": 5442
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 273,
+    "name": "Carter, Hannah",
+    "finish_time": "01:30:48",
+    "finish_seconds": 5448
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 275,
+    "name": "Thompson, Rachel",
+    "finish_time": "01:31:08",
+    "finish_seconds": 5468
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 277,
+    "name": "Fry, Sharon",
+    "finish_time": "01:31:15",
+    "finish_seconds": 5475
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 279,
+    "name": "Verworn, Jennifer",
+    "finish_time": "01:31:19",
+    "finish_seconds": 5479
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 281,
+    "name": "Bauer, Tara",
+    "finish_time": "01:31:40",
+    "finish_seconds": 5500
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 283,
+    "name": "Rogan, Pam",
+    "finish_time": "01:31:45",
+    "finish_seconds": 5505
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 285,
+    "name": "Defreitas, Priscila",
+    "finish_time": "01:31:55",
+    "finish_seconds": 5515
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 287,
+    "name": "Ausley, Ellen",
+    "finish_time": "01:31:57",
+    "finish_seconds": 5517
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 289,
+    "name": "Spradley, Jessica",
+    "finish_time": "01:32:01",
+    "finish_seconds": 5521
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 291,
+    "name": "Reiter, Melissa",
+    "finish_time": "01:32:17",
+    "finish_seconds": 5537
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 293,
+    "name": "Pantazides, Brooke",
+    "finish_time": "01:32:26",
+    "finish_seconds": 5546
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 295,
+    "name": "Somogyi, Molly",
+    "finish_time": "01:32:31",
+    "finish_seconds": 5551
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 297,
+    "name": "Chastain, Jade",
+    "finish_time": "01:32:32",
+    "finish_seconds": 5552
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 299,
+    "name": "Paintner-Rudolph, Krista",
+    "finish_time": "01:32:36",
+    "finish_seconds": 5556
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 301,
+    "name": "Vermeulen, Elizabeth",
+    "finish_time": "01:32:47",
+    "finish_seconds": 5567
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 303,
+    "name": "Lane, Ashlee",
+    "finish_time": "01:32:48",
+    "finish_seconds": 5568
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 305,
+    "name": "Flannelly, Kristin",
+    "finish_time": "01:32:50",
+    "finish_seconds": 5570
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 307,
+    "name": "Hayman, Kelly",
+    "finish_time": "01:32:54",
+    "finish_seconds": 5574
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 309,
+    "name": "Brinson, Alexis",
+    "finish_time": "01:32:56",
+    "finish_seconds": 5576
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 311,
+    "name": "Inmon, Lauren",
+    "finish_time": "01:32:57",
+    "finish_seconds": 5577
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 313,
+    "name": "Coffin, Christin",
+    "finish_time": "01:33:20",
+    "finish_seconds": 5600
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 315,
+    "name": "Liotta, Victoria",
+    "finish_time": "01:33:28",
+    "finish_seconds": 5608
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 317,
+    "name": "Grochowski, Erica",
+    "finish_time": "01:33:33",
+    "finish_seconds": 5613
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 319,
+    "name": "Kleszewski, Ashley",
+    "finish_time": "01:33:39",
+    "finish_seconds": 5619
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 321,
+    "name": "Melchiorre, Tina",
+    "finish_time": "01:33:43",
+    "finish_seconds": 5623
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 323,
+    "name": "Vohra, Muskaan",
+    "finish_time": "01:33:49",
+    "finish_seconds": 5629
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 325,
+    "name": "cavote, Niki",
+    "finish_time": "01:34:06",
+    "finish_seconds": 5646
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 327,
+    "name": "Dunlop, Andi",
+    "finish_time": "01:34:07",
+    "finish_seconds": 5647
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 329,
+    "name": "Sims, Veronica",
+    "finish_time": "01:34:13",
+    "finish_seconds": 5653
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 331,
+    "name": "Angelini, Vicki",
+    "finish_time": "01:34:16",
+    "finish_seconds": 5656
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 333,
+    "name": "Schoen, Robyn",
+    "finish_time": "01:34:29",
+    "finish_seconds": 5669
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 335,
+    "name": "Bradfield, Jensen",
+    "finish_time": "01:34:36",
+    "finish_seconds": 5676
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 337,
+    "name": "Blake, Madelyn",
+    "finish_time": "01:34:41",
+    "finish_seconds": 5681
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 339,
+    "name": "Curtis, Keri",
+    "finish_time": "01:34:47",
+    "finish_seconds": 5687
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 341,
+    "name": "Oliver, Melanie",
+    "finish_time": "01:34:51",
+    "finish_seconds": 5691
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 343,
+    "name": "Schug, Montana",
+    "finish_time": "01:34:53",
+    "finish_seconds": 5693
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 345,
+    "name": "Karpenko, Kathryn",
+    "finish_time": "01:34:54",
+    "finish_seconds": 5694
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 347,
+    "name": "Gubser, Janet",
+    "finish_time": "01:35:01",
+    "finish_seconds": 5701
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 349,
+    "name": "Thrash, Emily",
+    "finish_time": "01:35:11",
+    "finish_seconds": 5711
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 351,
+    "name": "Shiflett, Alice",
+    "finish_time": "01:35:26",
+    "finish_seconds": 5726
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 353,
+    "name": "Tracy, Julie",
+    "finish_time": "01:35:32",
+    "finish_seconds": 5732
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 355,
+    "name": "Kitchen, Jenny",
+    "finish_time": "01:35:41",
+    "finish_seconds": 5741
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 357,
+    "name": "Hill, Adrienne",
+    "finish_time": "01:35:48",
+    "finish_seconds": 5748
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 359,
+    "name": "Etter, Lizz",
+    "finish_time": "01:35:51",
+    "finish_seconds": 5751
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 361,
+    "name": "Wess, Kelly",
+    "finish_time": "01:35:53",
+    "finish_seconds": 5753
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 363,
+    "name": "Schneider, Jessica",
+    "finish_time": "01:35:56",
+    "finish_seconds": 5756
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 365,
+    "name": "Drefahl, Courtney",
+    "finish_time": "01:36:01",
+    "finish_seconds": 5761
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 367,
+    "name": "Yamashita, Anna",
+    "finish_time": "01:36:07",
+    "finish_seconds": 5767
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 369,
+    "name": "Parker, Lisa",
+    "finish_time": "01:36:11",
+    "finish_seconds": 5771
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 371,
+    "name": "Myers, Skyler",
+    "finish_time": "01:36:15",
+    "finish_seconds": 5775
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 373,
+    "name": "Heble, Heather",
+    "finish_time": "01:36:20",
+    "finish_seconds": 5780
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 375,
+    "name": "Foote, Carman",
+    "finish_time": "01:36:28",
+    "finish_seconds": 5788
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 377,
+    "name": "Petersen, Tori Hope",
+    "finish_time": "01:36:32",
+    "finish_seconds": 5792
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 379,
+    "name": "Hurley, Leah",
+    "finish_time": "01:36:40",
+    "finish_seconds": 5800
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 381,
+    "name": "Roe, Ashley",
+    "finish_time": "01:36:48",
+    "finish_seconds": 5808
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 383,
+    "name": "Weldy, Kaisha",
+    "finish_time": "01:36:52",
+    "finish_seconds": 5812
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 385,
+    "name": "Delgado, Victoria",
+    "finish_time": "01:36:53",
+    "finish_seconds": 5813
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 387,
+    "name": "Prevatte, Kiley",
+    "finish_time": "01:37:24",
+    "finish_seconds": 5844
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 389,
+    "name": "Kroog, Samantha",
+    "finish_time": "01:37:31",
+    "finish_seconds": 5851
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 391,
+    "name": "Pressley, Adeleigh",
+    "finish_time": "01:37:36",
+    "finish_seconds": 5856
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 393,
+    "name": "Kozlowski, Bailey",
+    "finish_time": "01:37:44",
+    "finish_seconds": 5864
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 395,
+    "name": "Kim, Susie",
+    "finish_time": "01:37:57",
+    "finish_seconds": 5877
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 397,
+    "name": "LaPointe, Sydney",
+    "finish_time": "01:38:07",
+    "finish_seconds": 5887
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 399,
+    "name": "Carter, Whitnie",
+    "finish_time": "01:38:14",
+    "finish_seconds": 5894
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 401,
+    "name": "Kiawa, Elizabeth",
+    "finish_time": "01:38:25",
+    "finish_seconds": 5905
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 403,
+    "name": "HENDRIX, KELLY",
+    "finish_time": "01:38:45",
+    "finish_seconds": 5925
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 405,
+    "name": "Wiltsee, Lisa",
+    "finish_time": "01:38:49",
+    "finish_seconds": 5929
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 407,
+    "name": "Fruitt, Miriam",
+    "finish_time": "01:38:52",
+    "finish_seconds": 5932
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 409,
+    "name": "Barajas, Maria",
+    "finish_time": "01:38:53",
+    "finish_seconds": 5933
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 411,
+    "name": "Graham, Madaline",
+    "finish_time": "01:39:02",
+    "finish_seconds": 5942
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 413,
+    "name": "Scott, Savannah",
+    "finish_time": "01:39:13",
+    "finish_seconds": 5953
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 415,
+    "name": "Austin, Morgan",
+    "finish_time": "01:39:15",
+    "finish_seconds": 5955
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 417,
+    "name": "Ehinger, Lauren",
+    "finish_time": "01:39:19",
+    "finish_seconds": 5959
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 419,
+    "name": "Wiggins, Sara",
+    "finish_time": "01:39:20",
+    "finish_seconds": 5960
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 421,
+    "name": "Lancaster, Catherine",
+    "finish_time": "01:39:28",
+    "finish_seconds": 5968
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 423,
+    "name": "Ziegler, Kirsten",
+    "finish_time": "01:39:33",
+    "finish_seconds": 5973
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 425,
+    "name": "Crow, Chanel",
+    "finish_time": "01:39:36",
+    "finish_seconds": 5976
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 427,
+    "name": "Jeckel, Mia",
+    "finish_time": "01:39:42",
+    "finish_seconds": 5982
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 429,
+    "name": "Pittman, Chloe",
+    "finish_time": "01:39:52",
+    "finish_seconds": 5992
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 431,
+    "name": "Klein, Kym",
+    "finish_time": "01:40:00",
+    "finish_seconds": 6000
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 433,
+    "name": "Romer, Lisa",
+    "finish_time": "01:40:08",
+    "finish_seconds": 6008
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 435,
+    "name": "Thrasher, Amanda",
+    "finish_time": "01:40:16",
+    "finish_seconds": 6016
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 437,
+    "name": "Hollister, Josie",
+    "finish_time": "01:40:18",
+    "finish_seconds": 6018
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 439,
+    "name": "Fisher, Cassie",
+    "finish_time": "01:40:24",
+    "finish_seconds": 6024
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 441,
+    "name": "Statham, Evelyn",
+    "finish_time": "01:40:27",
+    "finish_seconds": 6027
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 443,
+    "name": "Daniel, Emily",
+    "finish_time": "01:40:44",
+    "finish_seconds": 6044
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 445,
+    "name": "Mcduffie, Alex",
+    "finish_time": "01:40:58",
+    "finish_seconds": 6058
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 447,
+    "name": "Kiesel, Kayley",
+    "finish_time": "01:41:01",
+    "finish_seconds": 6061
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 449,
+    "name": "Vallejo, Nancy",
+    "finish_time": "01:41:05",
+    "finish_seconds": 6065
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 451,
+    "name": "Nix, Kelsey",
+    "finish_time": "01:41:07",
+    "finish_seconds": 6067
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 453,
+    "name": "Woodward, Shannon",
+    "finish_time": "01:41:12",
+    "finish_seconds": 6072
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 455,
+    "name": "Gately, Allison",
+    "finish_time": "01:41:17",
+    "finish_seconds": 6077
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 457,
+    "name": "Cosola, Kaylee",
+    "finish_time": "01:41:33",
+    "finish_seconds": 6093
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 459,
+    "name": "Kollar, Allison",
+    "finish_time": "01:41:35",
+    "finish_seconds": 6095
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 461,
+    "name": "Brennan, Mandy",
+    "finish_time": "01:41:36",
+    "finish_seconds": 6096
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 463,
+    "name": "Gurrola, Sandra",
+    "finish_time": "01:41:38",
+    "finish_seconds": 6098
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 465,
+    "name": "Gaither, Gheri",
+    "finish_time": "01:41:43",
+    "finish_seconds": 6103
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 467,
+    "name": "Pender, Naya",
+    "finish_time": "01:41:53",
+    "finish_seconds": 6113
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 469,
+    "name": "Green, Jaime",
+    "finish_time": "01:42:18",
+    "finish_seconds": 6138
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 471,
+    "name": "Carson, Courtney",
+    "finish_time": "01:42:30",
+    "finish_seconds": 6150
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 473,
+    "name": "Yost, Carlyn",
+    "finish_time": "01:42:45",
+    "finish_seconds": 6165
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 475,
+    "name": "Bradley, LaTonya",
+    "finish_time": "01:42:48",
+    "finish_seconds": 6168
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 477,
+    "name": "Long, Ashley",
+    "finish_time": "01:42:56",
+    "finish_seconds": 6176
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 479,
+    "name": "Corley, Amanda",
+    "finish_time": "01:43:02",
+    "finish_seconds": 6182
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 481,
+    "name": "Webster, Sjemila",
+    "finish_time": "01:43:06",
+    "finish_seconds": 6186
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 483,
+    "name": "Poole, Lexington",
+    "finish_time": "01:43:22",
+    "finish_seconds": 6202
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 485,
+    "name": "Jimenez, Siboney",
+    "finish_time": "01:43:33",
+    "finish_seconds": 6213
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 487,
+    "name": "Grow, McKaella",
+    "finish_time": "01:43:37",
+    "finish_seconds": 6217
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 489,
+    "name": "Brown, Angel-Marie",
+    "finish_time": "01:43:51",
+    "finish_seconds": 6231
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 491,
+    "name": "Sampson, Caroline",
+    "finish_time": "01:43:55",
+    "finish_seconds": 6235
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 493,
+    "name": "Torres, Liz",
+    "finish_time": "01:44:06",
+    "finish_seconds": 6246
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 495,
+    "name": "Dillman, Nicole",
+    "finish_time": "01:44:14",
+    "finish_seconds": 6254
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 497,
+    "name": "Pifer, Catherine",
+    "finish_time": "01:44:15",
+    "finish_seconds": 6255
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 499,
+    "name": "Malpass, Coral",
+    "finish_time": "01:44:18",
+    "finish_seconds": 6258
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 501,
+    "name": "Jordan, Raven",
+    "finish_time": "01:44:23",
+    "finish_seconds": 6263
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 503,
+    "name": "Miller, Alainee",
+    "finish_time": "01:44:29",
+    "finish_seconds": 6269
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 505,
+    "name": "Chatham, Sammy",
+    "finish_time": "01:44:29",
+    "finish_seconds": 6269
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 507,
+    "name": "Hilt, Jessica",
+    "finish_time": "01:44:35",
+    "finish_seconds": 6275
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 509,
+    "name": "Smith, Tracy",
+    "finish_time": "01:44:36",
+    "finish_seconds": 6276
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 511,
+    "name": "Kaley, Chalon",
+    "finish_time": "01:44:38",
+    "finish_seconds": 6278
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 513,
+    "name": "Norris, Yolanda",
+    "finish_time": "01:44:44",
+    "finish_seconds": 6284
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 515,
+    "name": "Clark, Avery",
+    "finish_time": "01:44:47",
+    "finish_seconds": 6287
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 517,
+    "name": "Marsman, Sidney",
+    "finish_time": "01:44:50",
+    "finish_seconds": 6290
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 519,
+    "name": "Dick, Paighten",
+    "finish_time": "01:45:08",
+    "finish_seconds": 6308
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 521,
+    "name": "Evenson, Lisa",
+    "finish_time": "01:45:11",
+    "finish_seconds": 6311
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 523,
+    "name": "Bruce, Carrie",
+    "finish_time": "01:45:13",
+    "finish_seconds": 6313
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 525,
+    "name": "Shelburne, Tessa",
+    "finish_time": "01:45:41",
+    "finish_seconds": 6341
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 527,
+    "name": "loubris, Hannah",
+    "finish_time": "01:45:43",
+    "finish_seconds": 6343
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 529,
+    "name": "Ramsey, Lauren",
+    "finish_time": "01:45:44",
+    "finish_seconds": 6344
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 531,
+    "name": "Mucker, Chardon",
+    "finish_time": "01:46:00",
+    "finish_seconds": 6360
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 533,
+    "name": "Hanson, Kaylene",
+    "finish_time": "01:46:22",
+    "finish_seconds": 6382
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 535,
+    "name": "M Murphy, Hailey",
+    "finish_time": "01:46:26",
+    "finish_seconds": 6386
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 537,
+    "name": "Borowski, Ashley",
+    "finish_time": "01:46:35",
+    "finish_seconds": 6395
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 539,
+    "name": "Hauser, Rachel",
+    "finish_time": "01:46:45",
+    "finish_seconds": 6405
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 541,
+    "name": "Nesbitt, Betsy",
+    "finish_time": "01:46:52",
+    "finish_seconds": 6412
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 543,
+    "name": "Hrdlicka, Maureen",
+    "finish_time": "01:47:05",
+    "finish_seconds": 6425
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 545,
+    "name": "tavernier, lexa",
+    "finish_time": "01:47:11",
+    "finish_seconds": 6431
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 547,
+    "name": "Boulay, Germilie",
+    "finish_time": "01:47:20",
+    "finish_seconds": 6440
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 549,
+    "name": "Patchin, Hannah",
+    "finish_time": "01:47:22",
+    "finish_seconds": 6442
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 551,
+    "name": "Price, Grace",
+    "finish_time": "01:47:29",
+    "finish_seconds": 6449
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 553,
+    "name": "Fortier, Megan",
+    "finish_time": "01:47:35",
+    "finish_seconds": 6455
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 555,
+    "name": "McDermott, Stephanie",
+    "finish_time": "01:47:44",
+    "finish_seconds": 6464
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 557,
+    "name": "Griffin, Addisyn",
+    "finish_time": "01:47:53",
+    "finish_seconds": 6473
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 559,
+    "name": "Grice, Kate",
+    "finish_time": "01:47:59",
+    "finish_seconds": 6479
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 561,
+    "name": "Cooper, Lori",
+    "finish_time": "01:48:15",
+    "finish_seconds": 6495
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 563,
+    "name": "Crider, Sydney",
+    "finish_time": "01:48:18",
+    "finish_seconds": 6498
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 565,
+    "name": "Lucas, Sarah",
+    "finish_time": "01:48:31",
+    "finish_seconds": 6511
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 567,
+    "name": "Clarke, Mecca",
+    "finish_time": "01:48:33",
+    "finish_seconds": 6513
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 569,
+    "name": "Larach, Clarissa",
+    "finish_time": "01:48:36",
+    "finish_seconds": 6516
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 571,
+    "name": "Herron, Bethany",
+    "finish_time": "01:48:43",
+    "finish_seconds": 6523
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 573,
+    "name": "Hollien, Eileen",
+    "finish_time": "01:48:50",
+    "finish_seconds": 6530
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 575,
+    "name": "Coyne, Shelley",
+    "finish_time": "01:48:53",
+    "finish_seconds": 6533
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 577,
+    "name": "Barron, Amy",
+    "finish_time": "01:49:00",
+    "finish_seconds": 6540
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 579,
+    "name": "Almanza Hern\u00e1ndez, Irene",
+    "finish_time": "01:49:04",
+    "finish_seconds": 6544
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 581,
+    "name": "Grubbs, Neesha",
+    "finish_time": "01:49:06",
+    "finish_seconds": 6546
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 583,
+    "name": "Dollar, Cindy",
+    "finish_time": "01:49:18",
+    "finish_seconds": 6558
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 585,
+    "name": "Thomas, Faith",
+    "finish_time": "01:49:27",
+    "finish_seconds": 6567
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 587,
+    "name": "Fryer, Candace",
+    "finish_time": "01:49:39",
+    "finish_seconds": 6579
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 589,
+    "name": "Buxton, Karen",
+    "finish_time": "01:49:53",
+    "finish_seconds": 6593
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 591,
+    "name": "Raymond, Wendy",
+    "finish_time": "01:50:07",
+    "finish_seconds": 6607
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 593,
+    "name": "Gunter, Ashleigh",
+    "finish_time": "01:50:32",
+    "finish_seconds": 6632
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 595,
+    "name": "Dekrey, Tane",
+    "finish_time": "01:50:41",
+    "finish_seconds": 6641
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 597,
+    "name": "McGraw, Heather",
+    "finish_time": "01:50:43",
+    "finish_seconds": 6643
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 599,
+    "name": "Fischer, Lisa",
+    "finish_time": "01:51:05",
+    "finish_seconds": 6665
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 601,
+    "name": "Lebischak, Heather",
+    "finish_time": "01:51:28",
+    "finish_seconds": 6688
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 603,
+    "name": "Holan, Dev",
+    "finish_time": "01:51:38",
+    "finish_seconds": 6698
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 605,
+    "name": "Cirese, Kathleen",
+    "finish_time": "01:51:40",
+    "finish_seconds": 6700
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 607,
+    "name": "Volchenkova, Irina",
+    "finish_time": "01:51:46",
+    "finish_seconds": 6706
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 609,
+    "name": "Mask, Whitney",
+    "finish_time": "01:51:51",
+    "finish_seconds": 6711
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 611,
+    "name": "Klang, Liz",
+    "finish_time": "01:51:57",
+    "finish_seconds": 6717
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 613,
+    "name": "Waits, Tiffany",
+    "finish_time": "01:52:18",
+    "finish_seconds": 6738
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 615,
+    "name": "Witt, Caitlyn",
+    "finish_time": "01:52:26",
+    "finish_seconds": 6746
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 617,
+    "name": "Wilcox, Mercede",
+    "finish_time": "01:52:45",
+    "finish_seconds": 6765
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 619,
+    "name": "Stancil, Jasmine",
+    "finish_time": "01:52:47",
+    "finish_seconds": 6767
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 621,
+    "name": "Alwal, Ananaya",
+    "finish_time": "01:52:58",
+    "finish_seconds": 6778
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 623,
+    "name": "Welte, Lena",
+    "finish_time": "01:53:22",
+    "finish_seconds": 6802
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 625,
+    "name": "Butler, Britt",
+    "finish_time": "01:53:28",
+    "finish_seconds": 6808
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 627,
+    "name": "Wade, Logan",
+    "finish_time": "01:53:49",
+    "finish_seconds": 6829
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 629,
+    "name": "Heinly, Carmen",
+    "finish_time": "01:53:57",
+    "finish_seconds": 6837
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 631,
+    "name": "Lightner, Paige",
+    "finish_time": "01:54:06",
+    "finish_seconds": 6846
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 633,
+    "name": "Page, Ayda",
+    "finish_time": "01:54:10",
+    "finish_seconds": 6850
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 635,
+    "name": "Wilhite, Emerson",
+    "finish_time": "01:54:14",
+    "finish_seconds": 6854
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 637,
+    "name": "Mack, Shavika",
+    "finish_time": "01:54:36",
+    "finish_seconds": 6876
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 639,
+    "name": "Morawiec, Jodi",
+    "finish_time": "01:54:55",
+    "finish_seconds": 6895
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 641,
+    "name": "Stanton, Staci",
+    "finish_time": "01:54:59",
+    "finish_seconds": 6899
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 643,
+    "name": "Escobar, Marisol",
+    "finish_time": "01:55:04",
+    "finish_seconds": 6904
+  },
+  {
+    "venue": "2025 Atlanta",
+    "gender": "W",
+    "rank": 645,
+    "name": "Collier, Brittany",
+    "finish_time": "01:55:18",
+    "finish_seconds": 6918
+  }
+]

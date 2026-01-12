@@ -1,0 +1,9074 @@
+[
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1,
+    "name": "Sutherland, Ben",
+    "finish_time": "00:55:36",
+    "finish_seconds": 3336
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 3,
+    "name": "Arruti, Igor",
+    "finish_time": "00:58:18",
+    "finish_seconds": 3498
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 5,
+    "name": "Ploj, Alja\u017e",
+    "finish_time": "00:58:41",
+    "finish_seconds": 3521
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 7,
+    "name": "Henry, Conor",
+    "finish_time": "00:59:10",
+    "finish_seconds": 3550
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 9,
+    "name": "Serrano, Roger",
+    "finish_time": "00:59:26",
+    "finish_seconds": 3566
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 11,
+    "name": "Maguire, Conor",
+    "finish_time": "00:59:29",
+    "finish_seconds": 3569
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 13,
+    "name": "Laurent, Thibaud",
+    "finish_time": "00:59:38",
+    "finish_seconds": 3578
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 15,
+    "name": "Mcguinness, Brandon",
+    "finish_time": "00:59:57",
+    "finish_seconds": 3597
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 17,
+    "name": "Buckland, Luke",
+    "finish_time": "01:00:07",
+    "finish_seconds": 3607
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 19,
+    "name": "TEBBUTT, CRAIG",
+    "finish_time": "01:00:47",
+    "finish_seconds": 3647
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 21,
+    "name": "Koumpouras, lazaros",
+    "finish_time": "01:01:10",
+    "finish_seconds": 3670
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 23,
+    "name": "Poirot, Maxime",
+    "finish_time": "01:01:23",
+    "finish_seconds": 3683
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 25,
+    "name": "Hern\u00e1ndez delgado, Aitami",
+    "finish_time": "01:01:30",
+    "finish_seconds": 3690
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 27,
+    "name": "Falconi, Enrico",
+    "finish_time": "01:01:35",
+    "finish_seconds": 3695
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 29,
+    "name": "Macr\u00ec, Domenico",
+    "finish_time": "01:01:40",
+    "finish_seconds": 3700
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 31,
+    "name": "Viviani, Nicola",
+    "finish_time": "01:01:53",
+    "finish_seconds": 3713
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 33,
+    "name": "Cresswell, Lewis",
+    "finish_time": "01:02:01",
+    "finish_seconds": 3721
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 35,
+    "name": "Brock, George",
+    "finish_time": "01:02:22",
+    "finish_seconds": 3742
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 37,
+    "name": "Grillo, Lorenzo",
+    "finish_time": "01:02:26",
+    "finish_seconds": 3746
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 39,
+    "name": "Gkorezis, Dimitrios",
+    "finish_time": "01:02:31",
+    "finish_seconds": 3751
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 41,
+    "name": "Garcez, Vasco",
+    "finish_time": "01:02:39",
+    "finish_seconds": 3759
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 43,
+    "name": "Olivier, Thomas",
+    "finish_time": "01:02:41",
+    "finish_seconds": 3761
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 45,
+    "name": "Nicolino, Christian",
+    "finish_time": "01:02:43",
+    "finish_seconds": 3763
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 47,
+    "name": "Ruche, Edgar",
+    "finish_time": "01:02:58",
+    "finish_seconds": 3778
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 49,
+    "name": "Pleger, Johannes",
+    "finish_time": "01:03:00",
+    "finish_seconds": 3780
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 51,
+    "name": "McCrum, Jay",
+    "finish_time": "01:03:02",
+    "finish_seconds": 3782
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 53,
+    "name": "OTMANE, elies",
+    "finish_time": "01:03:07",
+    "finish_seconds": 3787
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 55,
+    "name": "Abel, Joseph",
+    "finish_time": "01:03:14",
+    "finish_seconds": 3794
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 57,
+    "name": "Oliver, Matt",
+    "finish_time": "01:03:17",
+    "finish_seconds": 3797
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 59,
+    "name": "Aleksandrovic, Nikita",
+    "finish_time": "01:03:19",
+    "finish_seconds": 3799
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 61,
+    "name": "Povoli, Stefano",
+    "finish_time": "01:03:19",
+    "finish_seconds": 3799
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 63,
+    "name": "Crawford, Gary",
+    "finish_time": "01:03:26",
+    "finish_seconds": 3806
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 65,
+    "name": "Agriodemos, christos",
+    "finish_time": "01:03:35",
+    "finish_seconds": 3815
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 67,
+    "name": "Oliver, Anthony",
+    "finish_time": "01:03:41",
+    "finish_seconds": 3821
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 69,
+    "name": "Skinner, Gareth",
+    "finish_time": "01:03:48",
+    "finish_seconds": 3828
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 71,
+    "name": "Landi, Andrea",
+    "finish_time": "01:03:51",
+    "finish_seconds": 3831
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 73,
+    "name": "Garello, Giulio",
+    "finish_time": "01:03:58",
+    "finish_seconds": 3838
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 75,
+    "name": "Fairnington, Barney",
+    "finish_time": "01:03:59",
+    "finish_seconds": 3839
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 77,
+    "name": "Carmignani, Alessio",
+    "finish_time": "01:04:01",
+    "finish_seconds": 3841
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 79,
+    "name": "Ryan, Declan",
+    "finish_time": "01:04:04",
+    "finish_seconds": 3844
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 81,
+    "name": "Dumoulin, Timothy",
+    "finish_time": "01:04:08",
+    "finish_seconds": 3848
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 83,
+    "name": "Thibault, laviedut",
+    "finish_time": "01:04:15",
+    "finish_seconds": 3855
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 85,
+    "name": "Valero, Borja",
+    "finish_time": "01:04:19",
+    "finish_seconds": 3859
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 87,
+    "name": "Cansfield, Tom",
+    "finish_time": "01:04:19",
+    "finish_seconds": 3859
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 89,
+    "name": "Chachoua, Rayan",
+    "finish_time": "01:04:23",
+    "finish_seconds": 3863
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 91,
+    "name": "Shepherd, Harry",
+    "finish_time": "01:04:25",
+    "finish_seconds": 3865
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 93,
+    "name": "ROGER, Matthias",
+    "finish_time": "01:04:31",
+    "finish_seconds": 3871
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 95,
+    "name": "Daubney, Sam",
+    "finish_time": "01:04:43",
+    "finish_seconds": 3883
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 97,
+    "name": "Wilson, Jack",
+    "finish_time": "01:04:46",
+    "finish_seconds": 3886
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 99,
+    "name": "Dick, Bryan",
+    "finish_time": "01:04:48",
+    "finish_seconds": 3888
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 101,
+    "name": "Hancock, Darren",
+    "finish_time": "01:04:57",
+    "finish_seconds": 3897
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 103,
+    "name": "Angelini, Marco",
+    "finish_time": "01:05:03",
+    "finish_seconds": 3903
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 105,
+    "name": "Francis, James",
+    "finish_time": "01:05:08",
+    "finish_seconds": 3908
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 107,
+    "name": "Sibilia, Andrea",
+    "finish_time": "01:05:14",
+    "finish_seconds": 3914
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 109,
+    "name": "Kostiuk, Torben",
+    "finish_time": "01:05:25",
+    "finish_seconds": 3925
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 111,
+    "name": "Wilson, Jack",
+    "finish_time": "01:05:44",
+    "finish_seconds": 3944
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 113,
+    "name": "Pinter, Luca",
+    "finish_time": "01:05:46",
+    "finish_seconds": 3946
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 115,
+    "name": "Murray, Colm",
+    "finish_time": "01:05:47",
+    "finish_seconds": 3947
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 117,
+    "name": "Bemment, Tom",
+    "finish_time": "01:05:51",
+    "finish_seconds": 3951
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 119,
+    "name": "Gallagher, Brian",
+    "finish_time": "01:05:56",
+    "finish_seconds": 3956
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 121,
+    "name": "Mucci, Marco Laerte",
+    "finish_time": "01:05:59",
+    "finish_seconds": 3959
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 123,
+    "name": "SERRATO, S\u00e9bastien",
+    "finish_time": "01:06:04",
+    "finish_seconds": 3964
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 125,
+    "name": "kohler, Florian",
+    "finish_time": "01:06:09",
+    "finish_seconds": 3969
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 126,
+    "name": "Pitti, Emiliano",
+    "finish_time": "01:06:11",
+    "finish_seconds": 3971
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 129,
+    "name": "Tamb\u00e8, Marco",
+    "finish_time": "01:06:12",
+    "finish_seconds": 3972
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 131,
+    "name": "Le Gac, Arnaud",
+    "finish_time": "01:06:17",
+    "finish_seconds": 3977
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 133,
+    "name": "Harper, Ellis",
+    "finish_time": "01:06:18",
+    "finish_seconds": 3978
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 135,
+    "name": "Point, Cl\u00e9ment",
+    "finish_time": "01:06:22",
+    "finish_seconds": 3982
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 137,
+    "name": "Harlow, Chris",
+    "finish_time": "01:06:23",
+    "finish_seconds": 3983
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 139,
+    "name": "Buccellato, Nicholas",
+    "finish_time": "01:06:27",
+    "finish_seconds": 3987
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 141,
+    "name": "Oliver, Jack",
+    "finish_time": "01:06:36",
+    "finish_seconds": 3996
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 143,
+    "name": "Tentella, Filippo",
+    "finish_time": "01:06:38",
+    "finish_seconds": 3998
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 145,
+    "name": "Hanlon, Joseph",
+    "finish_time": "01:06:41",
+    "finish_seconds": 4001
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 147,
+    "name": "Calzavara, Gianluca",
+    "finish_time": "01:06:42",
+    "finish_seconds": 4002
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 149,
+    "name": "Cavacece, Fabio",
+    "finish_time": "01:06:51",
+    "finish_seconds": 4011
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 151,
+    "name": "Woods, Aarron",
+    "finish_time": "01:06:52",
+    "finish_seconds": 4012
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 153,
+    "name": "Lamming, Tim",
+    "finish_time": "01:06:54",
+    "finish_seconds": 4014
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 155,
+    "name": "Zuravlev, Peter",
+    "finish_time": "01:06:57",
+    "finish_seconds": 4017
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 157,
+    "name": "Ged\u017ei\u016bnas, Matas",
+    "finish_time": "01:06:59",
+    "finish_seconds": 4019
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 159,
+    "name": "sherlock, Declan",
+    "finish_time": "01:07:03",
+    "finish_seconds": 4023
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 161,
+    "name": "Ascensio, Benoit",
+    "finish_time": "01:07:07",
+    "finish_seconds": 4027
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 163,
+    "name": "McCabe, Carlton",
+    "finish_time": "01:07:07",
+    "finish_seconds": 4027
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 165,
+    "name": "Radice, Matteo",
+    "finish_time": "01:07:11",
+    "finish_seconds": 4031
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 167,
+    "name": "Thexton, Michael",
+    "finish_time": "01:07:16",
+    "finish_seconds": 4036
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 169,
+    "name": "Mar\u00e9chal, Corentin",
+    "finish_time": "01:07:20",
+    "finish_seconds": 4040
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 171,
+    "name": "Barnard, Joshua",
+    "finish_time": "01:07:27",
+    "finish_seconds": 4047
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 173,
+    "name": "Scaletta, Davide",
+    "finish_time": "01:07:36",
+    "finish_seconds": 4056
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 175,
+    "name": "Michalski, Mariusz",
+    "finish_time": "01:07:38",
+    "finish_seconds": 4058
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 177,
+    "name": "Alex, Lens",
+    "finish_time": "01:07:42",
+    "finish_seconds": 4062
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 179,
+    "name": "Pion, Janick",
+    "finish_time": "01:07:44",
+    "finish_seconds": 4064
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 181,
+    "name": "Astrauskas, Lukas",
+    "finish_time": "01:07:44",
+    "finish_seconds": 4064
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 183,
+    "name": "Susani, Guido",
+    "finish_time": "01:07:46",
+    "finish_seconds": 4066
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 185,
+    "name": "Bonne, Chandler",
+    "finish_time": "01:07:47",
+    "finish_seconds": 4067
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 187,
+    "name": "Cavallo, Matteo",
+    "finish_time": "01:07:54",
+    "finish_seconds": 4074
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 189,
+    "name": "De luca, Enrico",
+    "finish_time": "01:08:03",
+    "finish_seconds": 4083
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 191,
+    "name": "Hatinguais, Pierre",
+    "finish_time": "01:08:04",
+    "finish_seconds": 4084
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 193,
+    "name": "Jenkins, Owen",
+    "finish_time": "01:08:09",
+    "finish_seconds": 4089
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 195,
+    "name": "Messon, Thony",
+    "finish_time": "01:08:09",
+    "finish_seconds": 4089
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 197,
+    "name": "Duchi, Jacopo",
+    "finish_time": "01:08:14",
+    "finish_seconds": 4094
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 199,
+    "name": "Fierro, Todd",
+    "finish_time": "01:08:17",
+    "finish_seconds": 4097
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 201,
+    "name": "Campbell, Jack",
+    "finish_time": "01:08:20",
+    "finish_seconds": 4100
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 203,
+    "name": "Santamaria, Giuseppe",
+    "finish_time": "01:08:21",
+    "finish_seconds": 4101
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 205,
+    "name": "Neill, Max",
+    "finish_time": "01:08:26",
+    "finish_seconds": 4106
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 207,
+    "name": "Fourvel, Alexis",
+    "finish_time": "01:08:29",
+    "finish_seconds": 4109
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 209,
+    "name": "Corvetto, Enrico",
+    "finish_time": "01:08:34",
+    "finish_seconds": 4114
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 211,
+    "name": "Espagnol, Jeremy",
+    "finish_time": "01:08:37",
+    "finish_seconds": 4117
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 213,
+    "name": "Mooney, Paul",
+    "finish_time": "01:08:37",
+    "finish_seconds": 4117
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 215,
+    "name": "Harding, Brian",
+    "finish_time": "01:08:40",
+    "finish_seconds": 4120
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 217,
+    "name": "Landes, Quentin",
+    "finish_time": "01:08:45",
+    "finish_seconds": 4125
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 219,
+    "name": "Stabel, Stefano",
+    "finish_time": "01:08:48",
+    "finish_seconds": 4128
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 221,
+    "name": "FREYSS, C\u00e9dric",
+    "finish_time": "01:08:52",
+    "finish_seconds": 4132
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 223,
+    "name": "McCay-Hines, Oscar",
+    "finish_time": "01:08:54",
+    "finish_seconds": 4134
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 225,
+    "name": "Pucci, Paride",
+    "finish_time": "01:08:58",
+    "finish_seconds": 4138
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 227,
+    "name": "Vidal, Edouard",
+    "finish_time": "01:09:09",
+    "finish_seconds": 4149
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 229,
+    "name": "Lloyd, Jordan",
+    "finish_time": "01:09:11",
+    "finish_seconds": 4151
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 231,
+    "name": "Ellul, Lynden",
+    "finish_time": "01:09:11",
+    "finish_seconds": 4151
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 233,
+    "name": "Molyvdis, Mattis",
+    "finish_time": "01:09:14",
+    "finish_seconds": 4154
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 235,
+    "name": "Brady, Dean",
+    "finish_time": "01:09:15",
+    "finish_seconds": 4155
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 237,
+    "name": "Hollenback, Dylan",
+    "finish_time": "01:09:20",
+    "finish_seconds": 4160
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 239,
+    "name": "Lobato, Diogo",
+    "finish_time": "01:09:21",
+    "finish_seconds": 4161
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 241,
+    "name": "Anou, Abderrahmane",
+    "finish_time": "01:09:27",
+    "finish_seconds": 4167
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 243,
+    "name": "Bazine, Safouane",
+    "finish_time": "01:09:27",
+    "finish_seconds": 4167
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 245,
+    "name": "O Leary, Niall",
+    "finish_time": "01:09:27",
+    "finish_seconds": 4167
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 247,
+    "name": "Credentino, Mirko",
+    "finish_time": "01:09:30",
+    "finish_seconds": 4170
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 249,
+    "name": "Mammarella, Federico",
+    "finish_time": "01:09:35",
+    "finish_seconds": 4175
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 251,
+    "name": "IBOUKHOULEF, Elias",
+    "finish_time": "01:09:35",
+    "finish_seconds": 4175
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 253,
+    "name": "Silvestri, Jacopo",
+    "finish_time": "01:09:40",
+    "finish_seconds": 4180
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 255,
+    "name": "Righini, Andrea",
+    "finish_time": "01:09:40",
+    "finish_seconds": 4180
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 257,
+    "name": "Vella, Saviour",
+    "finish_time": "01:09:44",
+    "finish_seconds": 4184
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 259,
+    "name": "Salvemini, Enrico",
+    "finish_time": "01:09:46",
+    "finish_seconds": 4186
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 261,
+    "name": "Jouve, Cl\u00e9ment",
+    "finish_time": "01:09:47",
+    "finish_seconds": 4187
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 263,
+    "name": "Carbotta, Luca",
+    "finish_time": "01:09:49",
+    "finish_seconds": 4189
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 265,
+    "name": "Kang, Daewon",
+    "finish_time": "01:09:52",
+    "finish_seconds": 4192
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 267,
+    "name": "Hennani, Hamza",
+    "finish_time": "01:09:54",
+    "finish_seconds": 4194
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 269,
+    "name": "Cirstocea, Dragos",
+    "finish_time": "01:09:59",
+    "finish_seconds": 4199
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 271,
+    "name": "Bouvarel, Gr\u00e9goire",
+    "finish_time": "01:10:00",
+    "finish_seconds": 4200
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 273,
+    "name": "CANEL, Alexis",
+    "finish_time": "01:10:02",
+    "finish_seconds": 4202
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 275,
+    "name": "Fabre, C\u00e9dric",
+    "finish_time": "01:10:05",
+    "finish_seconds": 4205
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 277,
+    "name": "Jacquemin, Yannis",
+    "finish_time": "01:10:11",
+    "finish_seconds": 4211
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 279,
+    "name": "Marniesse, J\u00e9r\u00e9mie",
+    "finish_time": "01:10:11",
+    "finish_seconds": 4211
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 281,
+    "name": "Nannini, Geremia",
+    "finish_time": "01:10:11",
+    "finish_seconds": 4211
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 283,
+    "name": "Dugon, Dorian",
+    "finish_time": "01:10:17",
+    "finish_seconds": 4217
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 285,
+    "name": "Sargenti, Jonathan",
+    "finish_time": "01:10:21",
+    "finish_seconds": 4221
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 287,
+    "name": "Nicolleau, Enzo",
+    "finish_time": "01:10:22",
+    "finish_seconds": 4222
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 289,
+    "name": "Amatulli, Christian",
+    "finish_time": "01:10:23",
+    "finish_seconds": 4223
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 291,
+    "name": "Santambrogio, Mauro",
+    "finish_time": "01:10:26",
+    "finish_seconds": 4226
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 293,
+    "name": "Di Basilio, Marco",
+    "finish_time": "01:10:28",
+    "finish_seconds": 4228
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 295,
+    "name": "GASSET, Arthur",
+    "finish_time": "01:10:30",
+    "finish_seconds": 4230
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 297,
+    "name": "Hadland, Harry",
+    "finish_time": "01:10:32",
+    "finish_seconds": 4232
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 299,
+    "name": "Bone, Matthew",
+    "finish_time": "01:10:33",
+    "finish_seconds": 4233
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 301,
+    "name": "Manfroni, Enrico",
+    "finish_time": "01:10:33",
+    "finish_seconds": 4233
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 303,
+    "name": "Buttigieg, Keith",
+    "finish_time": "01:10:34",
+    "finish_seconds": 4234
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 305,
+    "name": "Ciferri, Marco",
+    "finish_time": "01:10:36",
+    "finish_seconds": 4236
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 307,
+    "name": "Kolenyak, Miroslav",
+    "finish_time": "01:10:39",
+    "finish_seconds": 4239
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 309,
+    "name": "Scoca, Stefano",
+    "finish_time": "01:10:40",
+    "finish_seconds": 4240
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 311,
+    "name": "Bianchi, Kevin",
+    "finish_time": "01:10:45",
+    "finish_seconds": 4245
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 313,
+    "name": "Mpasio, Theodoros",
+    "finish_time": "01:10:46",
+    "finish_seconds": 4246
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 315,
+    "name": "Lee, Pier",
+    "finish_time": "01:10:48",
+    "finish_seconds": 4248
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 317,
+    "name": "Salvatori, Niccol\u00f2",
+    "finish_time": "01:10:50",
+    "finish_seconds": 4250
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 319,
+    "name": "D'evangelista, Alessio",
+    "finish_time": "01:10:55",
+    "finish_seconds": 4255
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 321,
+    "name": "Sandomenico, Alessandro",
+    "finish_time": "01:10:59",
+    "finish_seconds": 4259
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 323,
+    "name": "Rochford, Connor",
+    "finish_time": "01:10:59",
+    "finish_seconds": 4259
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 325,
+    "name": "Porte, Jordan",
+    "finish_time": "01:11:01",
+    "finish_seconds": 4261
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 327,
+    "name": "tirrito, manuel",
+    "finish_time": "01:11:02",
+    "finish_seconds": 4262
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 329,
+    "name": "Dicorato, Alessandro",
+    "finish_time": "01:11:05",
+    "finish_seconds": 4265
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 331,
+    "name": "Calcagno, Ariel Alejandro",
+    "finish_time": "01:11:06",
+    "finish_seconds": 4266
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 333,
+    "name": "Domenichelli, Fabio",
+    "finish_time": "01:11:06",
+    "finish_seconds": 4266
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 335,
+    "name": "Rincu, Dumitru",
+    "finish_time": "01:11:09",
+    "finish_seconds": 4269
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 337,
+    "name": "Brady, Lachlann",
+    "finish_time": "01:11:10",
+    "finish_seconds": 4270
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 339,
+    "name": "Klime\u0161, Jakub",
+    "finish_time": "01:11:14",
+    "finish_seconds": 4274
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 341,
+    "name": "FORTE, JEAN-PHILIPPE",
+    "finish_time": "01:11:17",
+    "finish_seconds": 4277
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 343,
+    "name": "Borges Coelho, Jo\u00e3o Francisco",
+    "finish_time": "01:11:18",
+    "finish_seconds": 4278
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 345,
+    "name": "Berra rezusta, Xabier",
+    "finish_time": "01:11:23",
+    "finish_seconds": 4283
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 347,
+    "name": "Perez Rodriguez, Victor",
+    "finish_time": "01:11:25",
+    "finish_seconds": 4285
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 349,
+    "name": "Afiane, Farid",
+    "finish_time": "01:11:25",
+    "finish_seconds": 4285
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 351,
+    "name": "Giampietro, Davide",
+    "finish_time": "01:11:34",
+    "finish_seconds": 4294
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 353,
+    "name": "Perez, Elouan",
+    "finish_time": "01:11:34",
+    "finish_seconds": 4294
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 355,
+    "name": "campaniello, matteo",
+    "finish_time": "01:11:36",
+    "finish_seconds": 4296
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 357,
+    "name": "williams, Huw",
+    "finish_time": "01:11:39",
+    "finish_seconds": 4299
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 359,
+    "name": "Coeurdray, Morgan",
+    "finish_time": "01:11:40",
+    "finish_seconds": 4300
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 361,
+    "name": "Boldrini, Nazzareno",
+    "finish_time": "01:11:41",
+    "finish_seconds": 4301
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 363,
+    "name": "Gauci, Jurgen",
+    "finish_time": "01:11:43",
+    "finish_seconds": 4303
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 365,
+    "name": "De Santis, Daniele",
+    "finish_time": "01:11:49",
+    "finish_seconds": 4309
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 367,
+    "name": "Sormani, Luca",
+    "finish_time": "01:11:50",
+    "finish_seconds": 4310
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 369,
+    "name": "Costosi, Lorenzo",
+    "finish_time": "01:11:50",
+    "finish_seconds": 4310
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 371,
+    "name": "Falzarano, Gabriele",
+    "finish_time": "01:11:54",
+    "finish_seconds": 4314
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 373,
+    "name": "Esposito, Davide",
+    "finish_time": "01:11:55",
+    "finish_seconds": 4315
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 375,
+    "name": "Mesaros, Florian",
+    "finish_time": "01:11:55",
+    "finish_seconds": 4315
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 377,
+    "name": "Nicolussi Moretto, Maximilian",
+    "finish_time": "01:11:56",
+    "finish_seconds": 4316
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 379,
+    "name": "Amabili, Davide",
+    "finish_time": "01:11:58",
+    "finish_seconds": 4318
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 381,
+    "name": "Farrugia, Steve",
+    "finish_time": "01:12:00",
+    "finish_seconds": 4320
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 383,
+    "name": "Brambilla Colnago, Alessandro",
+    "finish_time": "01:12:01",
+    "finish_seconds": 4321
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 385,
+    "name": "PEYRICAL, julien",
+    "finish_time": "01:12:02",
+    "finish_seconds": 4322
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 387,
+    "name": "Hrushchak, Bohdan",
+    "finish_time": "01:12:05",
+    "finish_seconds": 4325
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 389,
+    "name": "Lefrere, Nicolas",
+    "finish_time": "01:12:12",
+    "finish_seconds": 4332
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 391,
+    "name": "Petrocchi, Claudio",
+    "finish_time": "01:12:14",
+    "finish_seconds": 4334
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 393,
+    "name": "Marilungo, Marco",
+    "finish_time": "01:12:17",
+    "finish_seconds": 4337
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 395,
+    "name": "Ashworth, Lee",
+    "finish_time": "01:12:20",
+    "finish_seconds": 4340
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 397,
+    "name": "Valente, Costantino",
+    "finish_time": "01:12:21",
+    "finish_seconds": 4341
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 399,
+    "name": "Montay, Thibaut",
+    "finish_time": "01:12:23",
+    "finish_seconds": 4343
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 401,
+    "name": "Dozsa, Peter",
+    "finish_time": "01:12:25",
+    "finish_seconds": 4345
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 403,
+    "name": "Jennings, Ian",
+    "finish_time": "01:12:27",
+    "finish_seconds": 4347
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 405,
+    "name": "Hountangni, Emeric",
+    "finish_time": "01:12:27",
+    "finish_seconds": 4347
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 407,
+    "name": "Diskin, Connor",
+    "finish_time": "01:12:29",
+    "finish_seconds": 4349
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 409,
+    "name": "Pitk\u00e4nen, Mikko",
+    "finish_time": "01:12:30",
+    "finish_seconds": 4350
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 411,
+    "name": "Laurent, Lucas",
+    "finish_time": "01:12:33",
+    "finish_seconds": 4353
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 413,
+    "name": "Gibbs, Harrison",
+    "finish_time": "01:12:41",
+    "finish_seconds": 4361
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 415,
+    "name": "Gueddari, Zackary",
+    "finish_time": "01:12:44",
+    "finish_seconds": 4364
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 417,
+    "name": "Mardones, Pablo",
+    "finish_time": "01:12:46",
+    "finish_seconds": 4366
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 419,
+    "name": "Uzal, Vadim",
+    "finish_time": "01:12:48",
+    "finish_seconds": 4368
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 421,
+    "name": "Flynn, John",
+    "finish_time": "01:12:52",
+    "finish_seconds": 4372
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 423,
+    "name": "Duffy, Adrian",
+    "finish_time": "01:12:53",
+    "finish_seconds": 4373
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 425,
+    "name": "Del Panta, Niccolo",
+    "finish_time": "01:12:54",
+    "finish_seconds": 4374
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 427,
+    "name": "Vitrone, Valerio",
+    "finish_time": "01:13:00",
+    "finish_seconds": 4380
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 429,
+    "name": "Greenwell, Will",
+    "finish_time": "01:13:00",
+    "finish_seconds": 4380
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 431,
+    "name": "tomei, federico",
+    "finish_time": "01:13:03",
+    "finish_seconds": 4383
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 433,
+    "name": "Metcalfe, Alex",
+    "finish_time": "01:13:07",
+    "finish_seconds": 4387
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 435,
+    "name": "Fadda, Nicolas",
+    "finish_time": "01:13:07",
+    "finish_seconds": 4387
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 437,
+    "name": "Leporati, Davide",
+    "finish_time": "01:13:08",
+    "finish_seconds": 4388
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 439,
+    "name": "Conboy, Stephen",
+    "finish_time": "01:13:09",
+    "finish_seconds": 4389
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 441,
+    "name": "Leto, Alessandro",
+    "finish_time": "01:13:11",
+    "finish_seconds": 4391
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 443,
+    "name": "Stubicar, Ales",
+    "finish_time": "01:13:12",
+    "finish_seconds": 4392
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 445,
+    "name": "Cole, Jack",
+    "finish_time": "01:13:15",
+    "finish_seconds": 4395
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 447,
+    "name": "COLIN, Emeric",
+    "finish_time": "01:13:17",
+    "finish_seconds": 4397
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 449,
+    "name": "Pugliese, Fiorenzo",
+    "finish_time": "01:13:20",
+    "finish_seconds": 4400
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 451,
+    "name": "Nagle, Matty",
+    "finish_time": "01:13:22",
+    "finish_seconds": 4402
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 453,
+    "name": "Nerici, Giacomo Giovanni",
+    "finish_time": "01:13:23",
+    "finish_seconds": 4403
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 455,
+    "name": "Minini, Stefano",
+    "finish_time": "01:13:25",
+    "finish_seconds": 4405
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 457,
+    "name": "Brambilla, Tommaso",
+    "finish_time": "01:13:27",
+    "finish_seconds": 4407
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 459,
+    "name": "Kawashima, Masahiro",
+    "finish_time": "01:13:29",
+    "finish_seconds": 4409
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 461,
+    "name": "Vietti, Davide",
+    "finish_time": "01:13:30",
+    "finish_seconds": 4410
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 463,
+    "name": "Cooper, Joe",
+    "finish_time": "01:13:30",
+    "finish_seconds": 4410
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 465,
+    "name": "Carecchio, Nicol\u00f2",
+    "finish_time": "01:13:32",
+    "finish_seconds": 4412
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 467,
+    "name": "Lubrano Lobianco, Biagio",
+    "finish_time": "01:13:33",
+    "finish_seconds": 4413
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 469,
+    "name": "Weatherall, Mark",
+    "finish_time": "01:13:40",
+    "finish_seconds": 4420
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 471,
+    "name": "Hutchinson, Oliver",
+    "finish_time": "01:13:42",
+    "finish_seconds": 4422
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 473,
+    "name": "Masselin, Hugues",
+    "finish_time": "01:13:44",
+    "finish_seconds": 4424
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 475,
+    "name": "France, Tom",
+    "finish_time": "01:13:46",
+    "finish_seconds": 4426
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 477,
+    "name": "Carpini, Tommaso",
+    "finish_time": "01:13:50",
+    "finish_seconds": 4430
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 479,
+    "name": "Greselin, Domenico",
+    "finish_time": "01:13:52",
+    "finish_seconds": 4432
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 481,
+    "name": "Grandi, Alessandro",
+    "finish_time": "01:13:53",
+    "finish_seconds": 4433
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 483,
+    "name": "Molon, Andrea",
+    "finish_time": "01:13:54",
+    "finish_seconds": 4434
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 485,
+    "name": "FRANCOIS, Dimitri",
+    "finish_time": "01:13:56",
+    "finish_seconds": 4436
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 487,
+    "name": "Oneill, Thomas",
+    "finish_time": "01:13:58",
+    "finish_seconds": 4438
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 489,
+    "name": "MUNARI, MICKAEL",
+    "finish_time": "01:13:59",
+    "finish_seconds": 4439
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 491,
+    "name": "Conti, Lorenzo",
+    "finish_time": "01:14:00",
+    "finish_seconds": 4440
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 493,
+    "name": "Cozza, Michel",
+    "finish_time": "01:14:01",
+    "finish_seconds": 4441
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 495,
+    "name": "Cigna, Vincenzo",
+    "finish_time": "01:14:02",
+    "finish_seconds": 4442
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 497,
+    "name": "Romijn, Ruben",
+    "finish_time": "01:14:02",
+    "finish_seconds": 4442
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 499,
+    "name": "Foster, Cameron",
+    "finish_time": "01:14:06",
+    "finish_seconds": 4446
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 501,
+    "name": "Walsh, Se\u00e1n",
+    "finish_time": "01:14:08",
+    "finish_seconds": 4448
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 503,
+    "name": "Riva, Stefano",
+    "finish_time": "01:14:11",
+    "finish_seconds": 4451
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 505,
+    "name": "FRANCESCH, Quentin",
+    "finish_time": "01:14:13",
+    "finish_seconds": 4453
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 507,
+    "name": "Muscella, Lorenzo",
+    "finish_time": "01:14:16",
+    "finish_seconds": 4456
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 509,
+    "name": "Delaney, Michael",
+    "finish_time": "01:14:20",
+    "finish_seconds": 4460
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 511,
+    "name": "Poot, Yannick",
+    "finish_time": "01:14:21",
+    "finish_seconds": 4461
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 513,
+    "name": "Fulgeri, Leonardo",
+    "finish_time": "01:14:24",
+    "finish_seconds": 4464
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 515,
+    "name": "Fox, Joshua",
+    "finish_time": "01:14:26",
+    "finish_seconds": 4466
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 517,
+    "name": "Rom\u00e3o, Tiago",
+    "finish_time": "01:14:27",
+    "finish_seconds": 4467
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 519,
+    "name": "Woodhouse, Ashley",
+    "finish_time": "01:14:30",
+    "finish_seconds": 4470
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 521,
+    "name": "Juan Riera, Pedro",
+    "finish_time": "01:14:31",
+    "finish_seconds": 4471
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 523,
+    "name": "Sk\u00e1cel\u00edk, Ji\u0159\u00ed",
+    "finish_time": "01:14:32",
+    "finish_seconds": 4472
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 525,
+    "name": "Cuenat, Arnaud",
+    "finish_time": "01:14:36",
+    "finish_seconds": 4476
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 527,
+    "name": "Paglia, Gabriele",
+    "finish_time": "01:14:42",
+    "finish_seconds": 4482
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 529,
+    "name": "Lancini, Lorenzo",
+    "finish_time": "01:14:43",
+    "finish_seconds": 4483
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 531,
+    "name": "Lacch\u00e8, Giuseppe",
+    "finish_time": "01:14:44",
+    "finish_seconds": 4484
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 533,
+    "name": "Nuccilli, Andrea",
+    "finish_time": "01:14:47",
+    "finish_seconds": 4487
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 535,
+    "name": "Nicholl, Robert",
+    "finish_time": "01:14:51",
+    "finish_seconds": 4491
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 537,
+    "name": "Ronzullo, Riccardo",
+    "finish_time": "01:14:51",
+    "finish_seconds": 4491
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 539,
+    "name": "Gunawardhana, Maik",
+    "finish_time": "01:14:53",
+    "finish_seconds": 4493
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 541,
+    "name": "Cazzaniga, Mirco",
+    "finish_time": "01:14:56",
+    "finish_seconds": 4496
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 543,
+    "name": "Bignoli, Federico",
+    "finish_time": "01:14:59",
+    "finish_seconds": 4499
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 545,
+    "name": "Niederwolfsgruber, Lukas",
+    "finish_time": "01:15:00",
+    "finish_seconds": 4500
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 547,
+    "name": "Clark, Liam",
+    "finish_time": "01:15:02",
+    "finish_seconds": 4502
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 549,
+    "name": "Tavarani, Simone",
+    "finish_time": "01:15:03",
+    "finish_seconds": 4503
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 551,
+    "name": "Bienaime, Romain",
+    "finish_time": "01:15:07",
+    "finish_seconds": 4507
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 553,
+    "name": "GAZZANIGA AGRADI, LUCA",
+    "finish_time": "01:15:14",
+    "finish_seconds": 4514
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 555,
+    "name": "Cardea, Davide",
+    "finish_time": "01:15:15",
+    "finish_seconds": 4515
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 557,
+    "name": "McGrath, Liam",
+    "finish_time": "01:15:20",
+    "finish_seconds": 4520
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 559,
+    "name": "Costa, Andrea",
+    "finish_time": "01:15:23",
+    "finish_seconds": 4523
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 561,
+    "name": "Madden, Steven",
+    "finish_time": "01:15:27",
+    "finish_seconds": 4527
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 563,
+    "name": "Proietti, Andrea",
+    "finish_time": "01:15:28",
+    "finish_seconds": 4528
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 565,
+    "name": "Perez, Robin",
+    "finish_time": "01:15:31",
+    "finish_seconds": 4531
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 567,
+    "name": "Tutty, William",
+    "finish_time": "01:15:32",
+    "finish_seconds": 4532
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 569,
+    "name": "BARESI, MATTEO",
+    "finish_time": "01:15:35",
+    "finish_seconds": 4535
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 571,
+    "name": "Ferraris, Mario",
+    "finish_time": "01:15:41",
+    "finish_seconds": 4541
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 573,
+    "name": "Molloy, Rob",
+    "finish_time": "01:15:43",
+    "finish_seconds": 4543
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 575,
+    "name": "Torest, Rudy",
+    "finish_time": "01:15:46",
+    "finish_seconds": 4546
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 577,
+    "name": "Thibault, Florent",
+    "finish_time": "01:15:47",
+    "finish_seconds": 4547
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 579,
+    "name": "Rigby, Nick",
+    "finish_time": "01:15:49",
+    "finish_seconds": 4549
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 581,
+    "name": "Danglades, Jean-Christophe",
+    "finish_time": "01:15:51",
+    "finish_seconds": 4551
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 583,
+    "name": "Zipper, Jean",
+    "finish_time": "01:15:52",
+    "finish_seconds": 4552
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 585,
+    "name": "McConnochie, Barry",
+    "finish_time": "01:15:54",
+    "finish_seconds": 4554
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 587,
+    "name": "Day, Benjamin",
+    "finish_time": "01:15:54",
+    "finish_seconds": 4554
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 589,
+    "name": "Mazeyrac, Geoffrey",
+    "finish_time": "01:15:56",
+    "finish_seconds": 4556
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 591,
+    "name": "Renzetti, Fabio",
+    "finish_time": "01:16:00",
+    "finish_seconds": 4560
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 593,
+    "name": "Luongo, Lorenzo",
+    "finish_time": "01:16:06",
+    "finish_seconds": 4566
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 595,
+    "name": "D\u2019Erasmo, Luca",
+    "finish_time": "01:16:07",
+    "finish_seconds": 4567
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 597,
+    "name": "Wiegand, Michael",
+    "finish_time": "01:16:10",
+    "finish_seconds": 4570
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 599,
+    "name": "Assenza, Johan",
+    "finish_time": "01:16:11",
+    "finish_seconds": 4571
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 601,
+    "name": "Alice, Alex",
+    "finish_time": "01:16:13",
+    "finish_seconds": 4573
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 603,
+    "name": "Lakobrija, Deni",
+    "finish_time": "01:16:17",
+    "finish_seconds": 4577
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 605,
+    "name": "Weipert, Jens",
+    "finish_time": "01:16:19",
+    "finish_seconds": 4579
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 607,
+    "name": "Mignone, Giovanni",
+    "finish_time": "01:16:20",
+    "finish_seconds": 4580
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 609,
+    "name": "Milios, Kylian",
+    "finish_time": "01:16:23",
+    "finish_seconds": 4583
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 611,
+    "name": "Madley, James",
+    "finish_time": "01:16:23",
+    "finish_seconds": 4583
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 613,
+    "name": "Vannetti, Giacomo",
+    "finish_time": "01:16:25",
+    "finish_seconds": 4585
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 615,
+    "name": "Albaux, Valentin",
+    "finish_time": "01:16:26",
+    "finish_seconds": 4586
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 617,
+    "name": "Gauthier, Aurelien",
+    "finish_time": "01:16:31",
+    "finish_seconds": 4591
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 619,
+    "name": "Masi, Matteo",
+    "finish_time": "01:16:37",
+    "finish_seconds": 4597
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 621,
+    "name": "De Santis, Andrea",
+    "finish_time": "01:16:38",
+    "finish_seconds": 4598
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 623,
+    "name": "Belladelli, Giulio-Richard",
+    "finish_time": "01:16:39",
+    "finish_seconds": 4599
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 625,
+    "name": "brondolin, stefano",
+    "finish_time": "01:16:41",
+    "finish_seconds": 4601
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 627,
+    "name": "Fulcheri, Simone",
+    "finish_time": "01:16:44",
+    "finish_seconds": 4604
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 629,
+    "name": "Radice, Emanuele",
+    "finish_time": "01:16:50",
+    "finish_seconds": 4610
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 631,
+    "name": "Vignola, Marco",
+    "finish_time": "01:16:56",
+    "finish_seconds": 4616
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 633,
+    "name": "Negri, Michele",
+    "finish_time": "01:16:57",
+    "finish_seconds": 4617
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 635,
+    "name": "HOFFMANN, MAXENCE",
+    "finish_time": "01:16:57",
+    "finish_seconds": 4617
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 637,
+    "name": "Leynaud, Eloi",
+    "finish_time": "01:17:00",
+    "finish_seconds": 4620
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 639,
+    "name": "Barab\u00e1si, Istv\u00e1n",
+    "finish_time": "01:17:03",
+    "finish_seconds": 4623
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 641,
+    "name": "Patel, Vishan",
+    "finish_time": "01:17:07",
+    "finish_seconds": 4627
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 643,
+    "name": "Gasbarra, Gianmarco",
+    "finish_time": "01:17:10",
+    "finish_seconds": 4630
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 645,
+    "name": "Neggache, Touffik",
+    "finish_time": "01:17:12",
+    "finish_seconds": 4632
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 647,
+    "name": "Nodaro, Edoardo",
+    "finish_time": "01:17:13",
+    "finish_seconds": 4633
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 649,
+    "name": "Nico, Pietro",
+    "finish_time": "01:17:15",
+    "finish_seconds": 4635
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 651,
+    "name": "Finch, Peter",
+    "finish_time": "01:17:16",
+    "finish_seconds": 4636
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 653,
+    "name": "Mollett, Nathan",
+    "finish_time": "01:17:19",
+    "finish_seconds": 4639
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 655,
+    "name": "Di Girolamo, Lorenzo",
+    "finish_time": "01:17:19",
+    "finish_seconds": 4639
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 657,
+    "name": "GIBIINO, MANUEL",
+    "finish_time": "01:17:23",
+    "finish_seconds": 4643
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 659,
+    "name": "Walsh, Rob",
+    "finish_time": "01:17:24",
+    "finish_seconds": 4644
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 661,
+    "name": "Baltuzzi, Mattia",
+    "finish_time": "01:17:24",
+    "finish_seconds": 4644
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 663,
+    "name": "Magni, Luca",
+    "finish_time": "01:17:26",
+    "finish_seconds": 4646
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 665,
+    "name": "Girardin, Luca",
+    "finish_time": "01:17:27",
+    "finish_seconds": 4647
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 667,
+    "name": "Sforna, Simone",
+    "finish_time": "01:17:27",
+    "finish_seconds": 4647
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 669,
+    "name": "Bennett, Ellis",
+    "finish_time": "01:17:29",
+    "finish_seconds": 4649
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 671,
+    "name": "Delestrait, Guillaume",
+    "finish_time": "01:17:31",
+    "finish_seconds": 4651
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 673,
+    "name": "Varey, Lewis",
+    "finish_time": "01:17:31",
+    "finish_seconds": 4651
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 675,
+    "name": "Deschiens, Alexis",
+    "finish_time": "01:17:31",
+    "finish_seconds": 4651
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 677,
+    "name": "Bonelli, Greg",
+    "finish_time": "01:17:32",
+    "finish_seconds": 4652
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 679,
+    "name": "Ntanikas, Giannis",
+    "finish_time": "01:17:37",
+    "finish_seconds": 4657
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 681,
+    "name": "Di Marzo, Salvatore Daniele",
+    "finish_time": "01:17:38",
+    "finish_seconds": 4658
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 683,
+    "name": "Bombana, Gian luca",
+    "finish_time": "01:17:39",
+    "finish_seconds": 4659
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 685,
+    "name": "Romero Hueso, Manuel Jes\u00fas",
+    "finish_time": "01:17:43",
+    "finish_seconds": 4663
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 687,
+    "name": "hession, johnny",
+    "finish_time": "01:17:46",
+    "finish_seconds": 4666
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 689,
+    "name": "Locci, Francesco",
+    "finish_time": "01:17:47",
+    "finish_seconds": 4667
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 691,
+    "name": "Manca, Mattia",
+    "finish_time": "01:17:47",
+    "finish_seconds": 4667
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 693,
+    "name": "Tabone, Johnston",
+    "finish_time": "01:17:48",
+    "finish_seconds": 4668
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 695,
+    "name": "DEMEESTERE, Pierre",
+    "finish_time": "01:17:51",
+    "finish_seconds": 4671
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 697,
+    "name": "Lambert, Thomas",
+    "finish_time": "01:17:51",
+    "finish_seconds": 4671
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 699,
+    "name": "Filippucci, Luca",
+    "finish_time": "01:17:56",
+    "finish_seconds": 4676
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 701,
+    "name": "Parmentier, Alex",
+    "finish_time": "01:17:57",
+    "finish_seconds": 4677
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 703,
+    "name": "Stanev, Mario",
+    "finish_time": "01:18:02",
+    "finish_seconds": 4682
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 705,
+    "name": "Bossi, Emanuele",
+    "finish_time": "01:18:05",
+    "finish_seconds": 4685
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 707,
+    "name": "Salvatori, Antonello",
+    "finish_time": "01:18:06",
+    "finish_seconds": 4686
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 709,
+    "name": "GIANNETTA, DENIS",
+    "finish_time": "01:18:08",
+    "finish_seconds": 4688
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 711,
+    "name": "Kettl, Tobias",
+    "finish_time": "01:18:08",
+    "finish_seconds": 4688
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 713,
+    "name": "Alpizar Hernandez, Aldo",
+    "finish_time": "01:18:09",
+    "finish_seconds": 4689
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 715,
+    "name": "GRANDE, GIANFRANCO",
+    "finish_time": "01:18:09",
+    "finish_seconds": 4689
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 717,
+    "name": "Pesci, Franco",
+    "finish_time": "01:18:12",
+    "finish_seconds": 4692
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 719,
+    "name": "Nguerret, Michel",
+    "finish_time": "01:18:14",
+    "finish_seconds": 4694
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 721,
+    "name": "Saucedo, Andrew",
+    "finish_time": "01:18:19",
+    "finish_seconds": 4699
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 723,
+    "name": "Bonifacio, Edoardo",
+    "finish_time": "01:18:25",
+    "finish_seconds": 4705
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 725,
+    "name": "Lurie, Benjamin",
+    "finish_time": "01:18:27",
+    "finish_seconds": 4707
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 727,
+    "name": "FIGUE, Maxime",
+    "finish_time": "01:18:29",
+    "finish_seconds": 4709
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 729,
+    "name": "Mayol, Camille",
+    "finish_time": "01:18:33",
+    "finish_seconds": 4713
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 731,
+    "name": "Lamant, Victor",
+    "finish_time": "01:18:36",
+    "finish_seconds": 4716
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 733,
+    "name": "Pinzuti, Gioele",
+    "finish_time": "01:18:38",
+    "finish_seconds": 4718
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 735,
+    "name": "Brunelli, Giovanni",
+    "finish_time": "01:18:38",
+    "finish_seconds": 4718
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 737,
+    "name": "Manakousios, Theo",
+    "finish_time": "01:18:38",
+    "finish_seconds": 4718
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 739,
+    "name": "Scala, Andrea",
+    "finish_time": "01:18:41",
+    "finish_seconds": 4721
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 741,
+    "name": "Le Garrec, Julien",
+    "finish_time": "01:18:42",
+    "finish_seconds": 4722
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 743,
+    "name": "Neveu, Florent",
+    "finish_time": "01:18:44",
+    "finish_seconds": 4724
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 745,
+    "name": "Gill, Emile",
+    "finish_time": "01:18:45",
+    "finish_seconds": 4725
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 747,
+    "name": "Nicolson, Bruce",
+    "finish_time": "01:18:49",
+    "finish_seconds": 4729
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 749,
+    "name": "Bono, Lorenzo",
+    "finish_time": "01:18:49",
+    "finish_seconds": 4729
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 751,
+    "name": "Macklin, Ross",
+    "finish_time": "01:18:50",
+    "finish_seconds": 4730
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 753,
+    "name": "Novoa Villoria, David",
+    "finish_time": "01:18:51",
+    "finish_seconds": 4731
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 755,
+    "name": "Pellegrino, andrea",
+    "finish_time": "01:18:53",
+    "finish_seconds": 4733
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 757,
+    "name": "Bresciani, Riccardo",
+    "finish_time": "01:18:53",
+    "finish_seconds": 4733
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 759,
+    "name": "NDOUGSA, Benoit",
+    "finish_time": "01:18:56",
+    "finish_seconds": 4736
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 761,
+    "name": "Tobaldi, Costantino",
+    "finish_time": "01:18:58",
+    "finish_seconds": 4738
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 763,
+    "name": "Wach\u00e9, Julien",
+    "finish_time": "01:19:00",
+    "finish_seconds": 4740
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 765,
+    "name": "Pesce Goffi, Matteo",
+    "finish_time": "01:19:01",
+    "finish_seconds": 4741
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 767,
+    "name": "McGrath, Oliver",
+    "finish_time": "01:19:02",
+    "finish_seconds": 4742
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 769,
+    "name": "Spaziani, Giovanni",
+    "finish_time": "01:19:03",
+    "finish_seconds": 4743
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 771,
+    "name": "Natali, Alessio",
+    "finish_time": "01:19:03",
+    "finish_seconds": 4743
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 773,
+    "name": "Ayi P\u00e9pin, Maxime",
+    "finish_time": "01:19:04",
+    "finish_seconds": 4744
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 775,
+    "name": "Zonfrilli, Luigi",
+    "finish_time": "01:19:05",
+    "finish_seconds": 4745
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 777,
+    "name": "ERRAZI, OMAR",
+    "finish_time": "01:19:08",
+    "finish_seconds": 4748
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 779,
+    "name": "zara, alberto",
+    "finish_time": "01:19:09",
+    "finish_seconds": 4749
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 781,
+    "name": "Farolfi Rana, Paolo",
+    "finish_time": "01:19:10",
+    "finish_seconds": 4750
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 783,
+    "name": "Southern, Joshua",
+    "finish_time": "01:19:12",
+    "finish_seconds": 4752
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 785,
+    "name": "Fennell, Michael",
+    "finish_time": "01:19:13",
+    "finish_seconds": 4753
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 787,
+    "name": "Pisanu, Alessio",
+    "finish_time": "01:19:14",
+    "finish_seconds": 4754
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 789,
+    "name": "Perez, Florian",
+    "finish_time": "01:19:14",
+    "finish_seconds": 4754
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 791,
+    "name": "Varga, \u00c1d\u00e1m",
+    "finish_time": "01:19:17",
+    "finish_seconds": 4757
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 793,
+    "name": "Bertrand, Maxime",
+    "finish_time": "01:19:18",
+    "finish_seconds": 4758
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 795,
+    "name": "McMahon, Eric",
+    "finish_time": "01:19:22",
+    "finish_seconds": 4762
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 797,
+    "name": "Grabham, Tom",
+    "finish_time": "01:19:24",
+    "finish_seconds": 4764
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 799,
+    "name": "Fagini, Lorenzo",
+    "finish_time": "01:19:25",
+    "finish_seconds": 4765
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 801,
+    "name": "Cullivan, Daniel",
+    "finish_time": "01:19:27",
+    "finish_seconds": 4767
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 803,
+    "name": "Gatefield, Rhys",
+    "finish_time": "01:19:30",
+    "finish_seconds": 4770
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 805,
+    "name": "Olivieri, Alessio",
+    "finish_time": "01:19:31",
+    "finish_seconds": 4771
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 807,
+    "name": "Niedermeier, Sebastian",
+    "finish_time": "01:19:33",
+    "finish_seconds": 4773
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 809,
+    "name": "Nezzaghy, Mehdi",
+    "finish_time": "01:19:34",
+    "finish_seconds": 4774
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 811,
+    "name": "Hogan, Garreth",
+    "finish_time": "01:19:35",
+    "finish_seconds": 4775
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 813,
+    "name": "Dulski, Bastien",
+    "finish_time": "01:19:38",
+    "finish_seconds": 4778
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 815,
+    "name": "Mambriani, Pietro",
+    "finish_time": "01:19:40",
+    "finish_seconds": 4780
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 817,
+    "name": "RUSSO, VINCENZO",
+    "finish_time": "01:19:41",
+    "finish_seconds": 4781
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 819,
+    "name": "Pedone, Sergio",
+    "finish_time": "01:19:43",
+    "finish_seconds": 4783
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 821,
+    "name": "Santeramo, Federico",
+    "finish_time": "01:19:49",
+    "finish_seconds": 4789
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 823,
+    "name": "Ocampo, Miguel",
+    "finish_time": "01:19:52",
+    "finish_seconds": 4792
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 825,
+    "name": "ZIMMERMANN, Alexandre",
+    "finish_time": "01:19:53",
+    "finish_seconds": 4793
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 827,
+    "name": "Lui, Ben",
+    "finish_time": "01:19:54",
+    "finish_seconds": 4794
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 829,
+    "name": "HERNANDEZ, MIGUEL",
+    "finish_time": "01:19:55",
+    "finish_seconds": 4795
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 831,
+    "name": "Hort, Simon",
+    "finish_time": "01:19:56",
+    "finish_seconds": 4796
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 833,
+    "name": "Scerri, Ranier",
+    "finish_time": "01:19:57",
+    "finish_seconds": 4797
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 835,
+    "name": "RENAUD, Rodolphe",
+    "finish_time": "01:20:02",
+    "finish_seconds": 4802
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 837,
+    "name": "Marongiu, Marco",
+    "finish_time": "01:20:04",
+    "finish_seconds": 4804
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 839,
+    "name": "Arfa, Chiheb",
+    "finish_time": "01:20:08",
+    "finish_seconds": 4808
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 841,
+    "name": "Williams, Adam",
+    "finish_time": "01:20:12",
+    "finish_seconds": 4812
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 843,
+    "name": "Castellani, Fabrizio",
+    "finish_time": "01:20:13",
+    "finish_seconds": 4813
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 845,
+    "name": "Panetti, Filippo",
+    "finish_time": "01:20:16",
+    "finish_seconds": 4816
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 847,
+    "name": "Murphy, Andy",
+    "finish_time": "01:20:19",
+    "finish_seconds": 4819
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 849,
+    "name": "Dudley, Max",
+    "finish_time": "01:20:20",
+    "finish_seconds": 4820
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 851,
+    "name": "Pompili, Dorian",
+    "finish_time": "01:20:22",
+    "finish_seconds": 4822
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 853,
+    "name": "Semeraro, Luca",
+    "finish_time": "01:20:23",
+    "finish_seconds": 4823
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 855,
+    "name": "BARD, Jonathan",
+    "finish_time": "01:20:25",
+    "finish_seconds": 4825
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 857,
+    "name": "Casamassa, Alessio",
+    "finish_time": "01:20:26",
+    "finish_seconds": 4826
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 859,
+    "name": "Martiniello, Angelo",
+    "finish_time": "01:20:32",
+    "finish_seconds": 4832
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 861,
+    "name": "Valoti, Beniamino",
+    "finish_time": "01:20:34",
+    "finish_seconds": 4834
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 863,
+    "name": "Johnson, Alex",
+    "finish_time": "01:20:35",
+    "finish_seconds": 4835
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 865,
+    "name": "Bertelli, Thibaud",
+    "finish_time": "01:20:37",
+    "finish_seconds": 4837
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 867,
+    "name": "Woods, Connor",
+    "finish_time": "01:20:39",
+    "finish_seconds": 4839
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 869,
+    "name": "Cedola, Mattia",
+    "finish_time": "01:20:44",
+    "finish_seconds": 4844
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 871,
+    "name": "Besirovic, Mensur",
+    "finish_time": "01:20:45",
+    "finish_seconds": 4845
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 873,
+    "name": "Di Nitto, Cesare",
+    "finish_time": "01:20:48",
+    "finish_seconds": 4848
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 875,
+    "name": "Di Martino, Andrea",
+    "finish_time": "01:20:51",
+    "finish_seconds": 4851
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 877,
+    "name": "Blackburn, Dax",
+    "finish_time": "01:20:55",
+    "finish_seconds": 4855
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 879,
+    "name": "Oberle, Christoph",
+    "finish_time": "01:20:55",
+    "finish_seconds": 4855
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 881,
+    "name": "Berli, Maxence",
+    "finish_time": "01:20:58",
+    "finish_seconds": 4858
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 883,
+    "name": "Gil, Demetrio",
+    "finish_time": "01:21:04",
+    "finish_seconds": 4864
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 885,
+    "name": "Vedovelli, Cristian",
+    "finish_time": "01:21:05",
+    "finish_seconds": 4865
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 887,
+    "name": "Castaner, Antony",
+    "finish_time": "01:21:07",
+    "finish_seconds": 4867
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 889,
+    "name": "Pesce, Gian Marco",
+    "finish_time": "01:21:10",
+    "finish_seconds": 4870
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 891,
+    "name": "Rendon Jim\u00e9nez, Christian Michael",
+    "finish_time": "01:21:12",
+    "finish_seconds": 4872
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 893,
+    "name": "Luis, Afonso",
+    "finish_time": "01:21:12",
+    "finish_seconds": 4872
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 895,
+    "name": "Goasduff, Axel",
+    "finish_time": "01:21:14",
+    "finish_seconds": 4874
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 897,
+    "name": "Martis, Luca",
+    "finish_time": "01:21:15",
+    "finish_seconds": 4875
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 899,
+    "name": "TONI, Valentin",
+    "finish_time": "01:21:17",
+    "finish_seconds": 4877
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 901,
+    "name": "Knox, Daniel",
+    "finish_time": "01:21:19",
+    "finish_seconds": 4879
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 903,
+    "name": "Bisetto, Massimiliano",
+    "finish_time": "01:21:21",
+    "finish_seconds": 4881
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 905,
+    "name": "Flaherty, Paul",
+    "finish_time": "01:21:24",
+    "finish_seconds": 4884
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 907,
+    "name": "Meyrick, Adam",
+    "finish_time": "01:21:25",
+    "finish_seconds": 4885
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 909,
+    "name": "Maurich, Dario",
+    "finish_time": "01:21:27",
+    "finish_seconds": 4887
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 911,
+    "name": "Parisi, Tom",
+    "finish_time": "01:21:28",
+    "finish_seconds": 4888
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 913,
+    "name": "manucci, roberto",
+    "finish_time": "01:21:33",
+    "finish_seconds": 4893
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 915,
+    "name": "Jones, Harrison",
+    "finish_time": "01:21:34",
+    "finish_seconds": 4894
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 917,
+    "name": "Paffenholz, Bastian",
+    "finish_time": "01:21:38",
+    "finish_seconds": 4898
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 919,
+    "name": "BAUVOIS, Alexis",
+    "finish_time": "01:21:39",
+    "finish_seconds": 4899
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 921,
+    "name": "CHANG, WEI-HUNG",
+    "finish_time": "01:21:40",
+    "finish_seconds": 4900
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 923,
+    "name": "Vitulano, Andrea Maria",
+    "finish_time": "01:21:43",
+    "finish_seconds": 4903
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 925,
+    "name": "Rymer, Joseph",
+    "finish_time": "01:21:45",
+    "finish_seconds": 4905
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 927,
+    "name": "De Gaetano, Mirko",
+    "finish_time": "01:21:47",
+    "finish_seconds": 4907
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 929,
+    "name": "Islam, Misba",
+    "finish_time": "01:21:49",
+    "finish_seconds": 4909
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 931,
+    "name": "Connolly, Will",
+    "finish_time": "01:21:52",
+    "finish_seconds": 4912
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 933,
+    "name": "Sabino, Domenico",
+    "finish_time": "01:21:54",
+    "finish_seconds": 4914
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 935,
+    "name": "Pistilli, Matteo",
+    "finish_time": "01:21:56",
+    "finish_seconds": 4916
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 937,
+    "name": "Wilcock, Chris",
+    "finish_time": "01:21:59",
+    "finish_seconds": 4919
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 939,
+    "name": "Robinson, Harry",
+    "finish_time": "01:22:02",
+    "finish_seconds": 4922
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 941,
+    "name": "Moda, Alex",
+    "finish_time": "01:22:04",
+    "finish_seconds": 4924
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 943,
+    "name": "Doga, Enea",
+    "finish_time": "01:22:06",
+    "finish_seconds": 4926
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 945,
+    "name": "Fucetola, Giuseppe",
+    "finish_time": "01:22:08",
+    "finish_seconds": 4928
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 947,
+    "name": "Mesa Fumero, Victor",
+    "finish_time": "01:22:12",
+    "finish_seconds": 4932
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 949,
+    "name": "Di Nardo, Gianni",
+    "finish_time": "01:22:17",
+    "finish_seconds": 4937
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 951,
+    "name": "Mudrik, Marian",
+    "finish_time": "01:22:20",
+    "finish_seconds": 4940
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 953,
+    "name": "Bonnardel, Julien",
+    "finish_time": "01:22:24",
+    "finish_seconds": 4944
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 955,
+    "name": "Skordopoulos, Dimitrios",
+    "finish_time": "01:22:25",
+    "finish_seconds": 4945
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 957,
+    "name": "di zepp, fabio",
+    "finish_time": "01:22:27",
+    "finish_seconds": 4947
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 959,
+    "name": "Savino, Valerio",
+    "finish_time": "01:22:28",
+    "finish_seconds": 4948
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 961,
+    "name": "Fallon, Kieran",
+    "finish_time": "01:22:31",
+    "finish_seconds": 4951
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 963,
+    "name": "Hua, Alexandre",
+    "finish_time": "01:22:32",
+    "finish_seconds": 4952
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 965,
+    "name": "De Felicibus, Eric",
+    "finish_time": "01:22:35",
+    "finish_seconds": 4955
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 967,
+    "name": "Figeac, J\u00e9r\u00e9my",
+    "finish_time": "01:22:37",
+    "finish_seconds": 4957
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 969,
+    "name": "Conforti, Guido",
+    "finish_time": "01:22:38",
+    "finish_seconds": 4958
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 971,
+    "name": "Silvestri, Sergio",
+    "finish_time": "01:22:39",
+    "finish_seconds": 4959
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 973,
+    "name": "De Ruyver, Alex",
+    "finish_time": "01:22:42",
+    "finish_seconds": 4962
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 975,
+    "name": "Lazcoz, Mikel",
+    "finish_time": "01:22:44",
+    "finish_seconds": 4964
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 977,
+    "name": "Rios Crisostomo, Jeremiah Giussepp",
+    "finish_time": "01:22:47",
+    "finish_seconds": 4967
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 979,
+    "name": "Cimarra, Federico",
+    "finish_time": "01:22:50",
+    "finish_seconds": 4970
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 981,
+    "name": "mora, manuel",
+    "finish_time": "01:22:52",
+    "finish_seconds": 4972
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 983,
+    "name": "Owen, Ste",
+    "finish_time": "01:22:52",
+    "finish_seconds": 4972
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 985,
+    "name": "Pirazzoli, Federico",
+    "finish_time": "01:22:52",
+    "finish_seconds": 4972
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 987,
+    "name": "Idbella, Mohamed",
+    "finish_time": "01:22:53",
+    "finish_seconds": 4973
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 989,
+    "name": "Proia, Giorgio",
+    "finish_time": "01:22:55",
+    "finish_seconds": 4975
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 991,
+    "name": "Gasparini, Matteo",
+    "finish_time": "01:22:59",
+    "finish_seconds": 4979
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 993,
+    "name": "Carr, Andy",
+    "finish_time": "01:23:02",
+    "finish_seconds": 4982
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 995,
+    "name": "D\u2019Alberti, Daniele",
+    "finish_time": "01:23:04",
+    "finish_seconds": 4984
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 997,
+    "name": "Gaias, Vittorio",
+    "finish_time": "01:23:06",
+    "finish_seconds": 4986
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 999,
+    "name": "Schaffner, Nicolas",
+    "finish_time": "01:23:07",
+    "finish_seconds": 4987
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1001,
+    "name": "McGrath, Sean",
+    "finish_time": "01:23:08",
+    "finish_seconds": 4988
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1003,
+    "name": "Davies, Leon",
+    "finish_time": "01:23:09",
+    "finish_seconds": 4989
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1005,
+    "name": "MBAMA, Melvyn",
+    "finish_time": "01:23:11",
+    "finish_seconds": 4991
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1007,
+    "name": "Savarese, Filippo",
+    "finish_time": "01:23:14",
+    "finish_seconds": 4994
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1009,
+    "name": "St\u00e4dter, Benjamin",
+    "finish_time": "01:23:15",
+    "finish_seconds": 4995
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1011,
+    "name": "Giardini, Marco",
+    "finish_time": "01:23:16",
+    "finish_seconds": 4996
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1013,
+    "name": "Moule, Harry",
+    "finish_time": "01:23:24",
+    "finish_seconds": 5004
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1015,
+    "name": "Garulli, Daniele",
+    "finish_time": "01:23:26",
+    "finish_seconds": 5006
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1017,
+    "name": "Le Meau, Gautier",
+    "finish_time": "01:23:30",
+    "finish_seconds": 5010
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1019,
+    "name": "Depalo, Benedetto",
+    "finish_time": "01:23:33",
+    "finish_seconds": 5013
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1021,
+    "name": "Garcia, Delgis",
+    "finish_time": "01:23:34",
+    "finish_seconds": 5014
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1023,
+    "name": "Teli, Dil",
+    "finish_time": "01:23:38",
+    "finish_seconds": 5018
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1025,
+    "name": "zabena, cristiano",
+    "finish_time": "01:23:41",
+    "finish_seconds": 5021
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1027,
+    "name": "Cenciarini, Nicholas",
+    "finish_time": "01:23:41",
+    "finish_seconds": 5021
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1029,
+    "name": "\u0160imek, Benjamin",
+    "finish_time": "01:23:42",
+    "finish_seconds": 5022
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1031,
+    "name": "Couderc, Alexandre",
+    "finish_time": "01:23:43",
+    "finish_seconds": 5023
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1033,
+    "name": "TSELIOS, PANAGIOTIS",
+    "finish_time": "01:23:44",
+    "finish_seconds": 5024
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1035,
+    "name": "Damiani, Giorgio",
+    "finish_time": "01:23:46",
+    "finish_seconds": 5026
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1037,
+    "name": "FLEGEAU, Cl\u00e9ment",
+    "finish_time": "01:23:47",
+    "finish_seconds": 5027
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1039,
+    "name": "Tosti, Daniele",
+    "finish_time": "01:23:48",
+    "finish_seconds": 5028
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1041,
+    "name": "Hughes, Martin",
+    "finish_time": "01:23:49",
+    "finish_seconds": 5029
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1043,
+    "name": "Berardino, Pietro",
+    "finish_time": "01:23:52",
+    "finish_seconds": 5032
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1045,
+    "name": "Prodromou, Ellis",
+    "finish_time": "01:23:53",
+    "finish_seconds": 5033
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1047,
+    "name": "Falanga, Salvatore",
+    "finish_time": "01:23:53",
+    "finish_seconds": 5033
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1049,
+    "name": "Tasi, Federico",
+    "finish_time": "01:23:57",
+    "finish_seconds": 5037
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1051,
+    "name": "Capek, Mark",
+    "finish_time": "01:23:58",
+    "finish_seconds": 5038
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1053,
+    "name": "Prinzi, Simone",
+    "finish_time": "01:23:59",
+    "finish_seconds": 5039
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1055,
+    "name": "Borsari, Francesco",
+    "finish_time": "01:24:00",
+    "finish_seconds": 5040
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1057,
+    "name": "Joly, Martin",
+    "finish_time": "01:24:02",
+    "finish_seconds": 5042
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1059,
+    "name": "BOUVIER, Hadrien",
+    "finish_time": "01:24:04",
+    "finish_seconds": 5044
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1061,
+    "name": "Martinez, DJ",
+    "finish_time": "01:24:04",
+    "finish_seconds": 5044
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1063,
+    "name": "Blessyn, Jourdan",
+    "finish_time": "01:24:04",
+    "finish_seconds": 5044
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1065,
+    "name": "Pelliccione, Francesco",
+    "finish_time": "01:24:07",
+    "finish_seconds": 5047
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1067,
+    "name": "Sventurato, Alessandro",
+    "finish_time": "01:24:08",
+    "finish_seconds": 5048
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1069,
+    "name": "Taccola, Mattia",
+    "finish_time": "01:24:10",
+    "finish_seconds": 5050
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1071,
+    "name": "simplis, karim",
+    "finish_time": "01:24:12",
+    "finish_seconds": 5052
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1073,
+    "name": "Migliori, Matteo",
+    "finish_time": "01:24:14",
+    "finish_seconds": 5054
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1075,
+    "name": "Gr\u00e9goire, No\u00e9",
+    "finish_time": "01:24:16",
+    "finish_seconds": 5056
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1077,
+    "name": "Sipos, Adri\u00e1n",
+    "finish_time": "01:24:20",
+    "finish_seconds": 5060
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1079,
+    "name": "G\u00e9nique, Yannis",
+    "finish_time": "01:24:24",
+    "finish_seconds": 5064
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1081,
+    "name": "D'ANTUONO, VITTORIO",
+    "finish_time": "01:24:26",
+    "finish_seconds": 5066
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1083,
+    "name": "Grillon, Baptiste",
+    "finish_time": "01:24:27",
+    "finish_seconds": 5067
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1085,
+    "name": "Usher, Sean",
+    "finish_time": "01:24:31",
+    "finish_seconds": 5071
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1087,
+    "name": "Giordano, Luigi",
+    "finish_time": "01:24:32",
+    "finish_seconds": 5072
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1089,
+    "name": "Lavers, Louis",
+    "finish_time": "01:24:34",
+    "finish_seconds": 5074
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1091,
+    "name": "McGeown, Olly",
+    "finish_time": "01:24:36",
+    "finish_seconds": 5076
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1093,
+    "name": "Woodfinden, Fenn",
+    "finish_time": "01:24:37",
+    "finish_seconds": 5077
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1095,
+    "name": "Chakroun, Mahmoud",
+    "finish_time": "01:24:40",
+    "finish_seconds": 5080
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1097,
+    "name": "Iuliano, Alessandro",
+    "finish_time": "01:24:44",
+    "finish_seconds": 5084
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1099,
+    "name": "Simonelli, Sebastiano",
+    "finish_time": "01:24:45",
+    "finish_seconds": 5085
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1101,
+    "name": "Smet, Nicolas",
+    "finish_time": "01:24:47",
+    "finish_seconds": 5087
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1103,
+    "name": "Galiano, Angelo",
+    "finish_time": "01:24:51",
+    "finish_seconds": 5091
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1105,
+    "name": "GRAFF, Donovan",
+    "finish_time": "01:24:53",
+    "finish_seconds": 5093
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1107,
+    "name": "Toheed, Shahan",
+    "finish_time": "01:24:54",
+    "finish_seconds": 5094
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1109,
+    "name": "Lamzoudi, Adil",
+    "finish_time": "01:24:55",
+    "finish_seconds": 5095
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1111,
+    "name": "Santos, Gauthier",
+    "finish_time": "01:24:58",
+    "finish_seconds": 5098
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1113,
+    "name": "Baudisch, Nico",
+    "finish_time": "01:25:03",
+    "finish_seconds": 5103
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1115,
+    "name": "Fadda, Manuel",
+    "finish_time": "01:25:06",
+    "finish_seconds": 5106
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1117,
+    "name": "Bourdereau, Julien",
+    "finish_time": "01:25:07",
+    "finish_seconds": 5107
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1119,
+    "name": "Dragano, Bartolomeo Berto",
+    "finish_time": "01:25:08",
+    "finish_seconds": 5108
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1121,
+    "name": "cardellini, tommaso",
+    "finish_time": "01:25:11",
+    "finish_seconds": 5111
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1123,
+    "name": "Perol, Jean Bruno",
+    "finish_time": "01:25:13",
+    "finish_seconds": 5113
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1125,
+    "name": "Davies, Greg",
+    "finish_time": "01:25:17",
+    "finish_seconds": 5117
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1127,
+    "name": "Velev, Viktor",
+    "finish_time": "01:25:21",
+    "finish_seconds": 5121
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1129,
+    "name": "Bertocchi, Michelangelo",
+    "finish_time": "01:25:23",
+    "finish_seconds": 5123
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1131,
+    "name": "Vix, Martin",
+    "finish_time": "01:25:24",
+    "finish_seconds": 5124
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1133,
+    "name": "Pianigiani, Alessio",
+    "finish_time": "01:25:25",
+    "finish_seconds": 5125
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1135,
+    "name": "Darazirar, Djilali",
+    "finish_time": "01:25:28",
+    "finish_seconds": 5128
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1137,
+    "name": "De Franca, Eduardo",
+    "finish_time": "01:25:35",
+    "finish_seconds": 5135
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1139,
+    "name": "Mezzogori, Juri",
+    "finish_time": "01:25:38",
+    "finish_seconds": 5138
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1141,
+    "name": "Hagneau, Jocelyn",
+    "finish_time": "01:25:41",
+    "finish_seconds": 5141
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1143,
+    "name": "Nolan, Conor",
+    "finish_time": "01:25:43",
+    "finish_seconds": 5143
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1145,
+    "name": "Marchese, Mattia",
+    "finish_time": "01:25:44",
+    "finish_seconds": 5144
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1147,
+    "name": "Frere, Guillaume",
+    "finish_time": "01:25:46",
+    "finish_seconds": 5146
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1149,
+    "name": "Boulgak, Eric",
+    "finish_time": "01:25:48",
+    "finish_seconds": 5148
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1151,
+    "name": "De Angelis, Alessandro",
+    "finish_time": "01:25:51",
+    "finish_seconds": 5151
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1153,
+    "name": "Redmond, Tom",
+    "finish_time": "01:25:53",
+    "finish_seconds": 5153
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1155,
+    "name": "Almeida, Noel",
+    "finish_time": "01:25:58",
+    "finish_seconds": 5158
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1157,
+    "name": "Brofferio, Alessandro",
+    "finish_time": "01:26:00",
+    "finish_seconds": 5160
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1159,
+    "name": "THEVENOT, SAMIR",
+    "finish_time": "01:26:04",
+    "finish_seconds": 5164
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1161,
+    "name": "De Almeida, Joel",
+    "finish_time": "01:26:05",
+    "finish_seconds": 5165
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1163,
+    "name": "Zvada, Jan",
+    "finish_time": "01:26:11",
+    "finish_seconds": 5171
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1165,
+    "name": "Cugusi, Alberto",
+    "finish_time": "01:26:13",
+    "finish_seconds": 5173
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1167,
+    "name": "Hirst, Ryan",
+    "finish_time": "01:26:19",
+    "finish_seconds": 5179
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1169,
+    "name": "Frisenda, Federico",
+    "finish_time": "01:26:20",
+    "finish_seconds": 5180
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1171,
+    "name": "Dale, James",
+    "finish_time": "01:26:21",
+    "finish_seconds": 5181
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1173,
+    "name": "Jean Simon, Rony",
+    "finish_time": "01:26:23",
+    "finish_seconds": 5183
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1175,
+    "name": "CASTEL, Olivier",
+    "finish_time": "01:26:27",
+    "finish_seconds": 5187
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1177,
+    "name": "Salamone, Francesco Paolo",
+    "finish_time": "01:26:29",
+    "finish_seconds": 5189
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1179,
+    "name": "Le Felic, Cyril",
+    "finish_time": "01:26:34",
+    "finish_seconds": 5194
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1181,
+    "name": "VIOT, Cedric",
+    "finish_time": "01:26:35",
+    "finish_seconds": 5195
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1183,
+    "name": "Chapman, Reece",
+    "finish_time": "01:26:41",
+    "finish_seconds": 5201
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1185,
+    "name": "Luciano, Christopher",
+    "finish_time": "01:26:43",
+    "finish_seconds": 5203
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1187,
+    "name": "DIODATO, MATTEO",
+    "finish_time": "01:26:45",
+    "finish_seconds": 5205
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1189,
+    "name": "Perricone, Giulio",
+    "finish_time": "01:26:47",
+    "finish_seconds": 5207
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1191,
+    "name": "Di Chio, Francesco",
+    "finish_time": "01:26:50",
+    "finish_seconds": 5210
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1193,
+    "name": "Silvano, Gianluca",
+    "finish_time": "01:26:54",
+    "finish_seconds": 5214
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1195,
+    "name": "Sances, Andrea",
+    "finish_time": "01:26:55",
+    "finish_seconds": 5215
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1197,
+    "name": "Fiorentino, Raphaelo",
+    "finish_time": "01:26:56",
+    "finish_seconds": 5216
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1199,
+    "name": "Bozzato, Giacomo",
+    "finish_time": "01:27:00",
+    "finish_seconds": 5220
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1201,
+    "name": "Angelozzi, Nicola",
+    "finish_time": "01:27:04",
+    "finish_seconds": 5224
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1203,
+    "name": "Corrochano, Nicolas",
+    "finish_time": "01:27:06",
+    "finish_seconds": 5226
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1205,
+    "name": "Ho, Brandon",
+    "finish_time": "01:27:09",
+    "finish_seconds": 5229
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1207,
+    "name": "Puntus, Mark",
+    "finish_time": "01:27:10",
+    "finish_seconds": 5230
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1209,
+    "name": "Merk, Flo",
+    "finish_time": "01:27:12",
+    "finish_seconds": 5232
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1211,
+    "name": "Vezzoli, Gabriele",
+    "finish_time": "01:27:14",
+    "finish_seconds": 5234
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1213,
+    "name": "Gleeson, Conor",
+    "finish_time": "01:27:21",
+    "finish_seconds": 5241
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1215,
+    "name": "Kov\u00e1cs, Roland",
+    "finish_time": "01:27:23",
+    "finish_seconds": 5243
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1217,
+    "name": "Solinas, Matteo",
+    "finish_time": "01:27:25",
+    "finish_seconds": 5245
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1219,
+    "name": "terracina, andrea",
+    "finish_time": "01:27:27",
+    "finish_seconds": 5247
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1221,
+    "name": "de Virgilio, Matteo",
+    "finish_time": "01:27:29",
+    "finish_seconds": 5249
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1223,
+    "name": "Di Marcantonio, Carlandrea",
+    "finish_time": "01:27:32",
+    "finish_seconds": 5252
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1225,
+    "name": "Marcelli, Federico",
+    "finish_time": "01:27:36",
+    "finish_seconds": 5256
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1227,
+    "name": "Pompei, Diego",
+    "finish_time": "01:27:36",
+    "finish_seconds": 5256
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1229,
+    "name": "Decaux-Letellier, Antoine",
+    "finish_time": "01:27:40",
+    "finish_seconds": 5260
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1231,
+    "name": "Buscarino, Emanuele",
+    "finish_time": "01:27:42",
+    "finish_seconds": 5262
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1233,
+    "name": "sforza, simone",
+    "finish_time": "01:27:43",
+    "finish_seconds": 5263
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1235,
+    "name": "Waugh, Michael",
+    "finish_time": "01:27:48",
+    "finish_seconds": 5268
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1237,
+    "name": "Antonini, Federico",
+    "finish_time": "01:27:50",
+    "finish_seconds": 5270
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1239,
+    "name": "Ruiz-Jarabo Lorrio, Alberto",
+    "finish_time": "01:27:51",
+    "finish_seconds": 5271
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1241,
+    "name": "Dhainin, Jimmy",
+    "finish_time": "01:27:52",
+    "finish_seconds": 5272
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1243,
+    "name": "Anselmi, Ivan",
+    "finish_time": "01:27:53",
+    "finish_seconds": 5273
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1245,
+    "name": "Virduzzo, Salvatore",
+    "finish_time": "01:27:57",
+    "finish_seconds": 5277
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1247,
+    "name": "Vindice, Antonio",
+    "finish_time": "01:27:58",
+    "finish_seconds": 5278
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1249,
+    "name": "Kinsley, Samuel",
+    "finish_time": "01:28:02",
+    "finish_seconds": 5282
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1251,
+    "name": "Casano, Rosario",
+    "finish_time": "01:28:03",
+    "finish_seconds": 5283
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1253,
+    "name": "Dunn, Stephen",
+    "finish_time": "01:28:04",
+    "finish_seconds": 5284
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1255,
+    "name": "Werder, Rolando",
+    "finish_time": "01:28:05",
+    "finish_seconds": 5285
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1257,
+    "name": "Doolan, Alan",
+    "finish_time": "01:28:07",
+    "finish_seconds": 5287
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1259,
+    "name": "Gattuso, Andrea",
+    "finish_time": "01:28:10",
+    "finish_seconds": 5290
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1261,
+    "name": "Dufour, Eric",
+    "finish_time": "01:28:11",
+    "finish_seconds": 5291
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1263,
+    "name": "Gant, Diop",
+    "finish_time": "01:28:13",
+    "finish_seconds": 5293
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1265,
+    "name": "Bonomo, Davide",
+    "finish_time": "01:28:19",
+    "finish_seconds": 5299
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1267,
+    "name": "Matteoli, Giuseppe",
+    "finish_time": "01:28:21",
+    "finish_seconds": 5301
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1269,
+    "name": "Giannotti, Filippo",
+    "finish_time": "01:28:22",
+    "finish_seconds": 5302
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1271,
+    "name": "Monacelli, Ivan",
+    "finish_time": "01:28:33",
+    "finish_seconds": 5313
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1273,
+    "name": "Yout, Cedric",
+    "finish_time": "01:28:36",
+    "finish_seconds": 5316
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1275,
+    "name": "WOTUS, QUENTIN",
+    "finish_time": "01:28:39",
+    "finish_seconds": 5319
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1277,
+    "name": "Valev, Nayden",
+    "finish_time": "01:28:43",
+    "finish_seconds": 5323
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1279,
+    "name": "Biancafior, Alvise",
+    "finish_time": "01:28:48",
+    "finish_seconds": 5328
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1281,
+    "name": "Benedetto, Mattia",
+    "finish_time": "01:28:50",
+    "finish_seconds": 5330
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1283,
+    "name": "Hassall, Jonathan",
+    "finish_time": "01:28:51",
+    "finish_seconds": 5331
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1285,
+    "name": "DI PAOLO, TOMMASO",
+    "finish_time": "01:28:58",
+    "finish_seconds": 5338
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1287,
+    "name": "Centi, Francesco",
+    "finish_time": "01:29:01",
+    "finish_seconds": 5341
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1289,
+    "name": "Bailey, Oliver",
+    "finish_time": "01:29:02",
+    "finish_seconds": 5342
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1291,
+    "name": "Colpi, Davide",
+    "finish_time": "01:29:05",
+    "finish_seconds": 5345
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1293,
+    "name": "Perricone, Andrea",
+    "finish_time": "01:29:05",
+    "finish_seconds": 5345
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1295,
+    "name": "Vespertini, Damien",
+    "finish_time": "01:29:06",
+    "finish_seconds": 5346
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1297,
+    "name": "Capuzzi, Cristiano",
+    "finish_time": "01:29:07",
+    "finish_seconds": 5347
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1299,
+    "name": "Saluci, Orazio",
+    "finish_time": "01:29:09",
+    "finish_seconds": 5349
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1301,
+    "name": "Louren\u00e7o, Gon\u00e7alo",
+    "finish_time": "01:29:11",
+    "finish_seconds": 5351
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1303,
+    "name": "Vittore, Daniele",
+    "finish_time": "01:29:11",
+    "finish_seconds": 5351
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1305,
+    "name": "Carson, Mark",
+    "finish_time": "01:29:15",
+    "finish_seconds": 5355
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1307,
+    "name": "HARDY, R\u00e9mi",
+    "finish_time": "01:29:17",
+    "finish_seconds": 5357
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1309,
+    "name": "Metters, Alan",
+    "finish_time": "01:29:19",
+    "finish_seconds": 5359
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1311,
+    "name": "Kokaya, Oleg",
+    "finish_time": "01:29:22",
+    "finish_seconds": 5362
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1313,
+    "name": "L\u00f3pez nebot, Ricardo",
+    "finish_time": "01:29:28",
+    "finish_seconds": 5368
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1315,
+    "name": "PALMA, ANDREA",
+    "finish_time": "01:29:33",
+    "finish_seconds": 5373
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1317,
+    "name": "Bocchiardo, Paolo",
+    "finish_time": "01:29:35",
+    "finish_seconds": 5375
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1319,
+    "name": "Bombardieri, Folco Angelo",
+    "finish_time": "01:29:36",
+    "finish_seconds": 5376
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1321,
+    "name": "VANEFFI, ROBERTO",
+    "finish_time": "01:29:42",
+    "finish_seconds": 5382
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1323,
+    "name": "Ninni, Pierluigi",
+    "finish_time": "01:29:42",
+    "finish_seconds": 5382
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1325,
+    "name": "Mocchetti, Giulio",
+    "finish_time": "01:29:43",
+    "finish_seconds": 5383
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1327,
+    "name": "Lotti, Francesco Maria",
+    "finish_time": "01:29:47",
+    "finish_seconds": 5387
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1329,
+    "name": "Brady, Conor",
+    "finish_time": "01:29:48",
+    "finish_seconds": 5388
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1331,
+    "name": "Biasion, Massimo",
+    "finish_time": "01:29:50",
+    "finish_seconds": 5390
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1333,
+    "name": "Tozzo, Nazzareno",
+    "finish_time": "01:29:54",
+    "finish_seconds": 5394
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1335,
+    "name": "Agueci, Lorenzo",
+    "finish_time": "01:29:55",
+    "finish_seconds": 5395
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1337,
+    "name": "Rispoli, Vittorio",
+    "finish_time": "01:29:59",
+    "finish_seconds": 5399
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1339,
+    "name": "Carrara Lichna, Vladimir",
+    "finish_time": "01:29:59",
+    "finish_seconds": 5399
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1341,
+    "name": "Rossi, Carlo",
+    "finish_time": "01:30:00",
+    "finish_seconds": 5400
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1343,
+    "name": "Fiammarelli, Davide",
+    "finish_time": "01:30:04",
+    "finish_seconds": 5404
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1345,
+    "name": "Arduini, Michele",
+    "finish_time": "01:30:09",
+    "finish_seconds": 5409
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1347,
+    "name": "Bossi, Gabriele",
+    "finish_time": "01:30:13",
+    "finish_seconds": 5413
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1349,
+    "name": "Erra, Alessio",
+    "finish_time": "01:30:16",
+    "finish_seconds": 5416
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1351,
+    "name": "Annibali, Alessio",
+    "finish_time": "01:30:20",
+    "finish_seconds": 5420
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1353,
+    "name": "GONZALEZ, DANIEL",
+    "finish_time": "01:30:23",
+    "finish_seconds": 5423
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1355,
+    "name": "Stolfi, Filippo",
+    "finish_time": "01:30:25",
+    "finish_seconds": 5425
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1357,
+    "name": "Vindevogel, Nicolas",
+    "finish_time": "01:30:26",
+    "finish_seconds": 5426
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1359,
+    "name": "Said, Jafar",
+    "finish_time": "01:30:33",
+    "finish_seconds": 5433
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1361,
+    "name": "afindouli, justin",
+    "finish_time": "01:30:35",
+    "finish_seconds": 5435
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1363,
+    "name": "ROCCABIANCA, MATTEO",
+    "finish_time": "01:30:37",
+    "finish_seconds": 5437
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1365,
+    "name": "Cove, David",
+    "finish_time": "01:30:40",
+    "finish_seconds": 5440
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1367,
+    "name": "Napolitano, Marco",
+    "finish_time": "01:30:43",
+    "finish_seconds": 5443
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1369,
+    "name": "Minghetti, Luca",
+    "finish_time": "01:30:44",
+    "finish_seconds": 5444
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1371,
+    "name": "Giancola, Alfonso",
+    "finish_time": "01:30:44",
+    "finish_seconds": 5444
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1373,
+    "name": "gregorini, enrico",
+    "finish_time": "01:30:45",
+    "finish_seconds": 5445
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1375,
+    "name": "Duhamel, St\u00e9phane",
+    "finish_time": "01:30:48",
+    "finish_seconds": 5448
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1377,
+    "name": "Urbing, David",
+    "finish_time": "01:30:49",
+    "finish_seconds": 5449
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1379,
+    "name": "Salute, Samuele",
+    "finish_time": "01:30:52",
+    "finish_seconds": 5452
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1381,
+    "name": "Gu\u00e9rin-Pissarro, Matis",
+    "finish_time": "01:30:54",
+    "finish_seconds": 5454
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1383,
+    "name": "FACCIOTTI, Fabien",
+    "finish_time": "01:30:55",
+    "finish_seconds": 5455
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1385,
+    "name": "PAIS, MARCO",
+    "finish_time": "01:30:57",
+    "finish_seconds": 5457
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1387,
+    "name": "Ricci, Nicola",
+    "finish_time": "01:30:59",
+    "finish_seconds": 5459
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1389,
+    "name": "bains, Gurubir",
+    "finish_time": "01:31:00",
+    "finish_seconds": 5460
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1391,
+    "name": "Nasti, Alessandro",
+    "finish_time": "01:31:03",
+    "finish_seconds": 5463
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1393,
+    "name": "Longhi, Alessandro Claudio",
+    "finish_time": "01:31:13",
+    "finish_seconds": 5473
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1395,
+    "name": "Cullen, Patrick",
+    "finish_time": "01:31:15",
+    "finish_seconds": 5475
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1397,
+    "name": "Carretero Garc\u00eda, David",
+    "finish_time": "01:31:20",
+    "finish_seconds": 5480
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1399,
+    "name": "Bergonzi, Nicola",
+    "finish_time": "01:31:27",
+    "finish_seconds": 5487
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1401,
+    "name": "Romano, Ettore",
+    "finish_time": "01:31:28",
+    "finish_seconds": 5488
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1403,
+    "name": "Piazza, Davide",
+    "finish_time": "01:31:30",
+    "finish_seconds": 5490
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1405,
+    "name": "Patane, Leonard",
+    "finish_time": "01:31:30",
+    "finish_seconds": 5490
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1407,
+    "name": "Paterlini, Serghei",
+    "finish_time": "01:31:34",
+    "finish_seconds": 5494
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1409,
+    "name": "paganelli, alessandro",
+    "finish_time": "01:31:37",
+    "finish_seconds": 5497
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1411,
+    "name": "damoy, hubert",
+    "finish_time": "01:31:43",
+    "finish_seconds": 5503
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1413,
+    "name": "Martino, Daniele",
+    "finish_time": "01:31:45",
+    "finish_seconds": 5505
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1415,
+    "name": "Palella, Andrea",
+    "finish_time": "01:31:45",
+    "finish_seconds": 5505
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1417,
+    "name": "Di Porzio, Daniele",
+    "finish_time": "01:31:56",
+    "finish_seconds": 5516
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1419,
+    "name": "VIVIANI, ALBERTO",
+    "finish_time": "01:31:58",
+    "finish_seconds": 5518
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1421,
+    "name": "Finamore, Francesco",
+    "finish_time": "01:32:02",
+    "finish_seconds": 5522
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1423,
+    "name": "Lane, Simon",
+    "finish_time": "01:32:04",
+    "finish_seconds": 5524
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1425,
+    "name": "Marcu, Valentin",
+    "finish_time": "01:32:05",
+    "finish_seconds": 5525
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1427,
+    "name": "Lugstein, Wolfgang",
+    "finish_time": "01:32:14",
+    "finish_seconds": 5534
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1429,
+    "name": "Jackson, Tom",
+    "finish_time": "01:32:15",
+    "finish_seconds": 5535
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1431,
+    "name": "SILVESTRE, Antonin",
+    "finish_time": "01:32:18",
+    "finish_seconds": 5538
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1433,
+    "name": "DE LA TORRE, Anthony",
+    "finish_time": "01:32:21",
+    "finish_seconds": 5541
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1435,
+    "name": "Dazas, Julien",
+    "finish_time": "01:32:24",
+    "finish_seconds": 5544
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1437,
+    "name": "Di Marco, Mattia",
+    "finish_time": "01:32:25",
+    "finish_seconds": 5545
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1439,
+    "name": "Ippolito, Giorgio",
+    "finish_time": "01:32:26",
+    "finish_seconds": 5546
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1441,
+    "name": "MODESTINO, MATTEO",
+    "finish_time": "01:32:28",
+    "finish_seconds": 5548
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1443,
+    "name": "Leal, Maxime",
+    "finish_time": "01:32:31",
+    "finish_seconds": 5551
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1445,
+    "name": "Greco, Xavier",
+    "finish_time": "01:32:37",
+    "finish_seconds": 5557
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1447,
+    "name": "Galvier, Tom",
+    "finish_time": "01:32:37",
+    "finish_seconds": 5557
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1449,
+    "name": "Nicosia, Bruno",
+    "finish_time": "01:32:40",
+    "finish_seconds": 5560
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1451,
+    "name": "Velasco, Kevin",
+    "finish_time": "01:32:41",
+    "finish_seconds": 5561
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1453,
+    "name": "Walkowiak, Stephane",
+    "finish_time": "01:32:43",
+    "finish_seconds": 5563
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1455,
+    "name": "DAMIANI, DANIELE",
+    "finish_time": "01:32:45",
+    "finish_seconds": 5565
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1457,
+    "name": "Arricale, Fabio",
+    "finish_time": "01:32:47",
+    "finish_seconds": 5567
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1459,
+    "name": "Attar, Abder",
+    "finish_time": "01:32:49",
+    "finish_seconds": 5569
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1461,
+    "name": "Raspanti, Luca",
+    "finish_time": "01:32:52",
+    "finish_seconds": 5572
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1463,
+    "name": "Picconi, Davide",
+    "finish_time": "01:32:53",
+    "finish_seconds": 5573
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1465,
+    "name": "calimera, stefano",
+    "finish_time": "01:32:58",
+    "finish_seconds": 5578
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1467,
+    "name": "Borsetti, Francesco",
+    "finish_time": "01:33:03",
+    "finish_seconds": 5583
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1469,
+    "name": "Franconeri, Alberto",
+    "finish_time": "01:33:06",
+    "finish_seconds": 5586
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1471,
+    "name": "Fiorini, Valerio",
+    "finish_time": "01:33:10",
+    "finish_seconds": 5590
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1473,
+    "name": "Bramati, Fabrizio",
+    "finish_time": "01:33:13",
+    "finish_seconds": 5593
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1475,
+    "name": "Doncel Prada, Francisco",
+    "finish_time": "01:33:14",
+    "finish_seconds": 5594
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1477,
+    "name": "Marianelli, Riccardo",
+    "finish_time": "01:33:17",
+    "finish_seconds": 5597
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1479,
+    "name": "Soulier, Nicolas",
+    "finish_time": "01:33:19",
+    "finish_seconds": 5599
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1481,
+    "name": "Tacconi, Gianluca",
+    "finish_time": "01:33:23",
+    "finish_seconds": 5603
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1483,
+    "name": "Christie, Scott",
+    "finish_time": "01:33:24",
+    "finish_seconds": 5604
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1485,
+    "name": "Boldrini, Luigi",
+    "finish_time": "01:33:25",
+    "finish_seconds": 5605
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1487,
+    "name": "Savy, Riccardo",
+    "finish_time": "01:33:29",
+    "finish_seconds": 5609
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1489,
+    "name": "Cronin, Sean",
+    "finish_time": "01:33:31",
+    "finish_seconds": 5611
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1491,
+    "name": "Bertoldo, Stefano",
+    "finish_time": "01:33:33",
+    "finish_seconds": 5613
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1493,
+    "name": "IDLAS, Florian",
+    "finish_time": "01:33:41",
+    "finish_seconds": 5621
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1495,
+    "name": "LASRY, EMMANUEL",
+    "finish_time": "01:33:42",
+    "finish_seconds": 5622
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1497,
+    "name": "Misantoni, Marco",
+    "finish_time": "01:33:44",
+    "finish_seconds": 5624
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1499,
+    "name": "Burgess, Brian",
+    "finish_time": "01:33:47",
+    "finish_seconds": 5627
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1501,
+    "name": "Pace, Giordano Maria Pio",
+    "finish_time": "01:33:53",
+    "finish_seconds": 5633
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1503,
+    "name": "Nebulosi, Danilo",
+    "finish_time": "01:33:55",
+    "finish_seconds": 5635
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1505,
+    "name": "Ianniello, Antonio",
+    "finish_time": "01:33:57",
+    "finish_seconds": 5637
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1507,
+    "name": "Montanile, Giorgio",
+    "finish_time": "01:33:59",
+    "finish_seconds": 5639
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1509,
+    "name": "Monzini, Flavio",
+    "finish_time": "01:34:03",
+    "finish_seconds": 5643
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1511,
+    "name": "Tardioli, Paolo",
+    "finish_time": "01:34:05",
+    "finish_seconds": 5645
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1513,
+    "name": "Koopmann, J\u00fcrgen",
+    "finish_time": "01:34:07",
+    "finish_seconds": 5647
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1515,
+    "name": "Olivieri, Alessandro",
+    "finish_time": "01:34:10",
+    "finish_seconds": 5650
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1517,
+    "name": "Seminara, Salvatore",
+    "finish_time": "01:34:14",
+    "finish_seconds": 5654
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1519,
+    "name": "Azulay, Ga\u00ebl",
+    "finish_time": "01:34:16",
+    "finish_seconds": 5656
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1521,
+    "name": "ADIUTORI, FRANCESCO",
+    "finish_time": "01:34:17",
+    "finish_seconds": 5657
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1523,
+    "name": "Vita, Riccardo",
+    "finish_time": "01:34:21",
+    "finish_seconds": 5661
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1525,
+    "name": "Connolly, Andrew",
+    "finish_time": "01:34:21",
+    "finish_seconds": 5661
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1527,
+    "name": "DAL MOLIN, FABIO",
+    "finish_time": "01:34:27",
+    "finish_seconds": 5667
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1529,
+    "name": "Calderini, Alessandro",
+    "finish_time": "01:34:32",
+    "finish_seconds": 5672
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1531,
+    "name": "Pinotti, Daniele",
+    "finish_time": "01:34:37",
+    "finish_seconds": 5677
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1533,
+    "name": "Pucci, Samuele",
+    "finish_time": "01:34:38",
+    "finish_seconds": 5678
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1535,
+    "name": "semeraro, paolo",
+    "finish_time": "01:34:41",
+    "finish_seconds": 5681
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1537,
+    "name": "Mora Fuentes, Juan Pedro",
+    "finish_time": "01:34:42",
+    "finish_seconds": 5682
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1539,
+    "name": "Beelen, Nicolas",
+    "finish_time": "01:34:45",
+    "finish_seconds": 5685
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1541,
+    "name": "Stone, Tom",
+    "finish_time": "01:34:48",
+    "finish_seconds": 5688
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1543,
+    "name": "Leblanc, Robin",
+    "finish_time": "01:34:51",
+    "finish_seconds": 5691
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1545,
+    "name": "Bodemann, Rene",
+    "finish_time": "01:34:54",
+    "finish_seconds": 5694
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1547,
+    "name": "Cohen, Samuel",
+    "finish_time": "01:34:55",
+    "finish_seconds": 5695
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1549,
+    "name": "Moretti, Giulio",
+    "finish_time": "01:34:57",
+    "finish_seconds": 5697
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1551,
+    "name": "dambrosio, filippo",
+    "finish_time": "01:35:01",
+    "finish_seconds": 5701
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1553,
+    "name": "STRADA, PAOLO",
+    "finish_time": "01:35:06",
+    "finish_seconds": 5706
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1555,
+    "name": "MARZOUK, HAMZA",
+    "finish_time": "01:35:07",
+    "finish_seconds": 5707
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1557,
+    "name": "OTTONELLI, LORENZO",
+    "finish_time": "01:35:08",
+    "finish_seconds": 5708
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1559,
+    "name": "Walter, Kevin",
+    "finish_time": "01:35:19",
+    "finish_seconds": 5719
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1561,
+    "name": "Campos Galindo, Gonzalo",
+    "finish_time": "01:35:22",
+    "finish_seconds": 5722
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1563,
+    "name": "Basso, Edoardo",
+    "finish_time": "01:35:23",
+    "finish_seconds": 5723
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1565,
+    "name": "Schiappadini, Lorenzo",
+    "finish_time": "01:35:30",
+    "finish_seconds": 5730
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1567,
+    "name": "Ellis, Gerard",
+    "finish_time": "01:35:38",
+    "finish_seconds": 5738
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1569,
+    "name": "van de Meulengraaf, Jeroen",
+    "finish_time": "01:35:43",
+    "finish_seconds": 5743
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1571,
+    "name": "Ronchi, Matteo",
+    "finish_time": "01:35:47",
+    "finish_seconds": 5747
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1573,
+    "name": "Petersen, Thomas",
+    "finish_time": "01:35:50",
+    "finish_seconds": 5750
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1575,
+    "name": "PEREIRA, Florian",
+    "finish_time": "01:35:56",
+    "finish_seconds": 5756
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1577,
+    "name": "Ter Horst, Xam",
+    "finish_time": "01:36:03",
+    "finish_seconds": 5763
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1579,
+    "name": "Gaughan, Eoin",
+    "finish_time": "01:36:06",
+    "finish_seconds": 5766
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1581,
+    "name": "Miller, Brenton",
+    "finish_time": "01:36:11",
+    "finish_seconds": 5771
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1583,
+    "name": "Staunton, David",
+    "finish_time": "01:36:18",
+    "finish_seconds": 5778
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1585,
+    "name": "Rizzo, Luca",
+    "finish_time": "01:36:19",
+    "finish_seconds": 5779
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1587,
+    "name": "Previato, Mattia",
+    "finish_time": "01:36:20",
+    "finish_seconds": 5780
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1589,
+    "name": "Bodein, Antony",
+    "finish_time": "01:36:20",
+    "finish_seconds": 5780
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1591,
+    "name": "Fenney, Gareth",
+    "finish_time": "01:36:28",
+    "finish_seconds": 5788
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1593,
+    "name": "Monterosso, Salvo",
+    "finish_time": "01:36:32",
+    "finish_seconds": 5792
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1595,
+    "name": "Mascia, Gianni",
+    "finish_time": "01:36:33",
+    "finish_seconds": 5793
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1597,
+    "name": "Ferrante, Stefano",
+    "finish_time": "01:36:45",
+    "finish_seconds": 5805
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "M",
+    "rank": 1599,
+    "name": "Murtagh, Conor",
+    "finish_time": "01:36:48",
+    "finish_seconds": 5808
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 1,
+    "name": "Bonnin, Anne",
+    "finish_time": "01:03:10",
+    "finish_seconds": 3790
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 3,
+    "name": "Powell, Megan",
+    "finish_time": "01:05:35",
+    "finish_seconds": 3935
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 5,
+    "name": "Farkas, Angela",
+    "finish_time": "01:08:22",
+    "finish_seconds": 4102
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 7,
+    "name": "Verrando, Alessia",
+    "finish_time": "01:09:04",
+    "finish_seconds": 4144
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 9,
+    "name": "Mantovan, Giulia",
+    "finish_time": "01:09:12",
+    "finish_seconds": 4152
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 11,
+    "name": "NATOLI, PAOLA",
+    "finish_time": "01:09:47",
+    "finish_seconds": 4187
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 13,
+    "name": "CHAMBERT, YASMINE",
+    "finish_time": "01:09:53",
+    "finish_seconds": 4193
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 15,
+    "name": "Dale, Kate",
+    "finish_time": "01:10:09",
+    "finish_seconds": 4209
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 17,
+    "name": "Cullen Cooper, Faith",
+    "finish_time": "01:10:43",
+    "finish_seconds": 4243
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 19,
+    "name": "Wasnaire, Alexane",
+    "finish_time": "01:11:12",
+    "finish_seconds": 4272
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 21,
+    "name": "Lynch, Sinead",
+    "finish_time": "01:11:15",
+    "finish_seconds": 4275
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 23,
+    "name": "Skellett, Katie",
+    "finish_time": "01:11:36",
+    "finish_seconds": 4296
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 25,
+    "name": "Irwin, Caroline",
+    "finish_time": "01:11:40",
+    "finish_seconds": 4300
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 27,
+    "name": "Gunson, Katie",
+    "finish_time": "01:12:02",
+    "finish_seconds": 4322
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 29,
+    "name": "Mcwilliams, Evelyn",
+    "finish_time": "01:12:31",
+    "finish_seconds": 4351
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 31,
+    "name": "Marriott, Kate",
+    "finish_time": "01:12:34",
+    "finish_seconds": 4354
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 33,
+    "name": "Blair, Louise",
+    "finish_time": "01:12:49",
+    "finish_seconds": 4369
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 35,
+    "name": "D'Allura, Marianna",
+    "finish_time": "01:13:00",
+    "finish_seconds": 4380
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 37,
+    "name": "Basinger, Alyssa",
+    "finish_time": "01:13:17",
+    "finish_seconds": 4397
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 39,
+    "name": "Gregor Sachs, Annelie",
+    "finish_time": "01:13:31",
+    "finish_seconds": 4411
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 41,
+    "name": "Carline, Jo",
+    "finish_time": "01:13:52",
+    "finish_seconds": 4432
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 43,
+    "name": "SYLVESTRE-GONON, Maeva",
+    "finish_time": "01:13:59",
+    "finish_seconds": 4439
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 45,
+    "name": "Rose, Katie",
+    "finish_time": "01:14:25",
+    "finish_seconds": 4465
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 47,
+    "name": "Anaya Mart\u00ednez, Mar\u00eda",
+    "finish_time": "01:14:26",
+    "finish_seconds": 4466
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 49,
+    "name": "Baschini, Barbara",
+    "finish_time": "01:14:35",
+    "finish_seconds": 4475
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 51,
+    "name": "Segatori, Laura",
+    "finish_time": "01:14:43",
+    "finish_seconds": 4483
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 53,
+    "name": "Riches, Mollie",
+    "finish_time": "01:14:48",
+    "finish_seconds": 4488
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 55,
+    "name": "Conti, Federica",
+    "finish_time": "01:15:00",
+    "finish_seconds": 4500
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 57,
+    "name": "New, Ellie",
+    "finish_time": "01:15:05",
+    "finish_seconds": 4505
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 59,
+    "name": "Babarit, Alexia",
+    "finish_time": "01:15:13",
+    "finish_seconds": 4513
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 61,
+    "name": "Pacifico, Veronica",
+    "finish_time": "01:15:22",
+    "finish_seconds": 4522
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 63,
+    "name": "Fr\u00f6hlich, Tatjana",
+    "finish_time": "01:15:29",
+    "finish_seconds": 4529
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 65,
+    "name": "Raggi, Ludovica",
+    "finish_time": "01:15:33",
+    "finish_seconds": 4533
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 67,
+    "name": "Halligan, Amy",
+    "finish_time": "01:15:33",
+    "finish_seconds": 4533
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 69,
+    "name": "VIGILANTE, VALENTINA",
+    "finish_time": "01:15:38",
+    "finish_seconds": 4538
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 71,
+    "name": "Bolmont, Laura",
+    "finish_time": "01:15:45",
+    "finish_seconds": 4545
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 73,
+    "name": "Metzner, Laura-Sophie",
+    "finish_time": "01:15:48",
+    "finish_seconds": 4548
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 75,
+    "name": "Sommain, Caroline",
+    "finish_time": "01:16:04",
+    "finish_seconds": 4564
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 77,
+    "name": "Tortorici, Alice maria",
+    "finish_time": "01:16:17",
+    "finish_seconds": 4577
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 79,
+    "name": "Thomas, Auriane",
+    "finish_time": "01:16:17",
+    "finish_seconds": 4577
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 81,
+    "name": "Brukner, Christina",
+    "finish_time": "01:16:22",
+    "finish_seconds": 4582
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 83,
+    "name": "Thomas, Abbey",
+    "finish_time": "01:16:26",
+    "finish_seconds": 4586
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 85,
+    "name": "Kubatova, Petra",
+    "finish_time": "01:16:34",
+    "finish_seconds": 4594
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 87,
+    "name": "Pekmezian, Julie",
+    "finish_time": "01:16:43",
+    "finish_seconds": 4603
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 89,
+    "name": "D\u2019addazio, Francesca",
+    "finish_time": "01:16:52",
+    "finish_seconds": 4612
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 91,
+    "name": "Wiecko, Justyna",
+    "finish_time": "01:16:56",
+    "finish_seconds": 4616
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 93,
+    "name": "Bonomo, Oriana",
+    "finish_time": "01:17:04",
+    "finish_seconds": 4624
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 95,
+    "name": "Dent, Georgia",
+    "finish_time": "01:17:05",
+    "finish_seconds": 4625
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 97,
+    "name": "Fanzini, Caterina",
+    "finish_time": "01:17:09",
+    "finish_seconds": 4629
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 99,
+    "name": "Lorenzetti, Silvia",
+    "finish_time": "01:17:16",
+    "finish_seconds": 4636
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 101,
+    "name": "Tremante, Daria",
+    "finish_time": "01:17:27",
+    "finish_seconds": 4647
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 103,
+    "name": "Gontard, Barbara",
+    "finish_time": "01:17:30",
+    "finish_seconds": 4650
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 105,
+    "name": "De Sa, Octavia",
+    "finish_time": "01:17:33",
+    "finish_seconds": 4653
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 107,
+    "name": "Derry, Rebeka",
+    "finish_time": "01:17:36",
+    "finish_seconds": 4656
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 109,
+    "name": "Leiter, Marion",
+    "finish_time": "01:17:39",
+    "finish_seconds": 4659
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 111,
+    "name": "Lisec, Franziska",
+    "finish_time": "01:17:48",
+    "finish_seconds": 4668
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 113,
+    "name": "Baroin, Anne",
+    "finish_time": "01:17:55",
+    "finish_seconds": 4675
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 115,
+    "name": "Ewart, Rachael",
+    "finish_time": "01:18:05",
+    "finish_seconds": 4685
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 117,
+    "name": "Herrero de las pozas, Soline",
+    "finish_time": "01:18:11",
+    "finish_seconds": 4691
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 119,
+    "name": "LE PAGE, Cl\u00e9mence",
+    "finish_time": "01:18:25",
+    "finish_seconds": 4705
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 121,
+    "name": "Tornabene, Silvia",
+    "finish_time": "01:18:27",
+    "finish_seconds": 4707
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 123,
+    "name": "Moore, Nicolle",
+    "finish_time": "01:18:28",
+    "finish_seconds": 4708
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 125,
+    "name": "Gallet, Lucie",
+    "finish_time": "01:18:30",
+    "finish_seconds": 4710
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 127,
+    "name": "Warren, Sarah",
+    "finish_time": "01:18:35",
+    "finish_seconds": 4715
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 129,
+    "name": "Costabile, Maria Enrica",
+    "finish_time": "01:18:39",
+    "finish_seconds": 4719
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 131,
+    "name": "Ben Mohamed Salah, Rahma",
+    "finish_time": "01:18:45",
+    "finish_seconds": 4725
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 133,
+    "name": "Kreil, Barbara",
+    "finish_time": "01:18:58",
+    "finish_seconds": 4738
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 135,
+    "name": "Hepples, Charlotte",
+    "finish_time": "01:19:16",
+    "finish_seconds": 4756
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 137,
+    "name": "Kaljonen, Jane",
+    "finish_time": "01:19:19",
+    "finish_seconds": 4759
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 139,
+    "name": "Foley, Emma",
+    "finish_time": "01:19:27",
+    "finish_seconds": 4767
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 141,
+    "name": "Lagogu\u00e9, Emilie",
+    "finish_time": "01:19:40",
+    "finish_seconds": 4780
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 143,
+    "name": "Lamperti, Gaia",
+    "finish_time": "01:19:46",
+    "finish_seconds": 4786
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 145,
+    "name": "Vella, Antonella",
+    "finish_time": "01:20:08",
+    "finish_seconds": 4808
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 147,
+    "name": "Brucchietti, Alessandra",
+    "finish_time": "01:20:14",
+    "finish_seconds": 4814
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 149,
+    "name": "Perazzolo, Michela",
+    "finish_time": "01:20:18",
+    "finish_seconds": 4818
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 151,
+    "name": "pretotto, giovanna",
+    "finish_time": "01:20:29",
+    "finish_seconds": 4829
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 153,
+    "name": "Charreton, Blanche",
+    "finish_time": "01:20:37",
+    "finish_seconds": 4837
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 155,
+    "name": "Bond, Kirsty",
+    "finish_time": "01:20:44",
+    "finish_seconds": 4844
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 157,
+    "name": "Bova, Maria Cristina",
+    "finish_time": "01:20:55",
+    "finish_seconds": 4855
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 159,
+    "name": "GASMI, ALEXANDRA",
+    "finish_time": "01:20:58",
+    "finish_seconds": 4858
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 161,
+    "name": "Kealy, Lauryn",
+    "finish_time": "01:21:12",
+    "finish_seconds": 4872
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 163,
+    "name": "Jimenez, Yuly",
+    "finish_time": "01:21:17",
+    "finish_seconds": 4877
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 165,
+    "name": "Van Rijckeghem, Marie",
+    "finish_time": "01:21:17",
+    "finish_seconds": 4877
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 167,
+    "name": "Vulphie, Julie-Anne",
+    "finish_time": "01:21:22",
+    "finish_seconds": 4882
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 169,
+    "name": "Auzet, Emmanuelle",
+    "finish_time": "01:21:25",
+    "finish_seconds": 4885
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 171,
+    "name": "Donnat, Louve",
+    "finish_time": "01:21:32",
+    "finish_seconds": 4892
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 173,
+    "name": "Jefferson, Juliann",
+    "finish_time": "01:21:34",
+    "finish_seconds": 4894
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 175,
+    "name": "ANNARATONE, PAOLA ROSSANA",
+    "finish_time": "01:21:36",
+    "finish_seconds": 4896
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 177,
+    "name": "Roche, Rebecca",
+    "finish_time": "01:21:43",
+    "finish_seconds": 4903
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 179,
+    "name": "Savin, Ana",
+    "finish_time": "01:21:48",
+    "finish_seconds": 4908
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 181,
+    "name": "Enright, Caoimhe",
+    "finish_time": "01:21:51",
+    "finish_seconds": 4911
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 183,
+    "name": "CURINA, AGNESE",
+    "finish_time": "01:21:53",
+    "finish_seconds": 4913
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 185,
+    "name": "Ponticelli, Viviana",
+    "finish_time": "01:22:01",
+    "finish_seconds": 4921
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 187,
+    "name": "GOUICH, jalila",
+    "finish_time": "01:22:17",
+    "finish_seconds": 4937
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 189,
+    "name": "Maidanov, Daria",
+    "finish_time": "01:22:22",
+    "finish_seconds": 4942
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 191,
+    "name": "Fritsch, Marion",
+    "finish_time": "01:22:28",
+    "finish_seconds": 4948
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 193,
+    "name": "Serna urnicia, Mapi",
+    "finish_time": "01:22:28",
+    "finish_seconds": 4948
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 195,
+    "name": "Menhart, Petra",
+    "finish_time": "01:22:29",
+    "finish_seconds": 4949
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 197,
+    "name": "Gagliano, Clizia",
+    "finish_time": "01:22:30",
+    "finish_seconds": 4950
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 199,
+    "name": "Carragher, Dayana",
+    "finish_time": "01:22:34",
+    "finish_seconds": 4954
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 201,
+    "name": "Ceci, Alessia",
+    "finish_time": "01:22:38",
+    "finish_seconds": 4958
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 203,
+    "name": "Grey, Georgia May Christina",
+    "finish_time": "01:22:40",
+    "finish_seconds": 4960
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 205,
+    "name": "Matta, Kathleen",
+    "finish_time": "01:22:41",
+    "finish_seconds": 4961
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 207,
+    "name": "Hadj chaib, Charlotte",
+    "finish_time": "01:22:44",
+    "finish_seconds": 4964
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 209,
+    "name": "PERAZZOLO, MARINA",
+    "finish_time": "01:22:53",
+    "finish_seconds": 4973
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 211,
+    "name": "Stiz, Gioia",
+    "finish_time": "01:22:58",
+    "finish_seconds": 4978
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 213,
+    "name": "Schmitt, Adelie",
+    "finish_time": "01:23:02",
+    "finish_seconds": 4982
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 215,
+    "name": "Piquet, Lisa",
+    "finish_time": "01:23:04",
+    "finish_seconds": 4984
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 217,
+    "name": "Mottura, Marta",
+    "finish_time": "01:23:10",
+    "finish_seconds": 4990
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 219,
+    "name": "Quinlan, Kayla",
+    "finish_time": "01:23:13",
+    "finish_seconds": 4993
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 221,
+    "name": "Ahlstr\u00f6m, Laura",
+    "finish_time": "01:23:17",
+    "finish_seconds": 4997
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 223,
+    "name": "Oletto, Giulia",
+    "finish_time": "01:23:30",
+    "finish_seconds": 5010
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 225,
+    "name": "Caldarelli, Giulia",
+    "finish_time": "01:23:39",
+    "finish_seconds": 5019
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 227,
+    "name": "Aizac, Florine",
+    "finish_time": "01:23:47",
+    "finish_seconds": 5027
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 229,
+    "name": "Kerby, Emma",
+    "finish_time": "01:23:55",
+    "finish_seconds": 5035
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 231,
+    "name": "Gancear, Eugenia",
+    "finish_time": "01:24:12",
+    "finish_seconds": 5052
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 233,
+    "name": "Maffioli, Camilla",
+    "finish_time": "01:24:13",
+    "finish_seconds": 5053
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 235,
+    "name": "Brahic, Ariane",
+    "finish_time": "01:24:14",
+    "finish_seconds": 5054
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 237,
+    "name": "Meehan, Caoimhe",
+    "finish_time": "01:24:16",
+    "finish_seconds": 5056
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 239,
+    "name": "El Miligui, Nadia Romina",
+    "finish_time": "01:24:22",
+    "finish_seconds": 5062
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 241,
+    "name": "paolucci, claudia",
+    "finish_time": "01:24:27",
+    "finish_seconds": 5067
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 243,
+    "name": "Pescione, Ylenia",
+    "finish_time": "01:24:32",
+    "finish_seconds": 5072
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 245,
+    "name": "Dick, Tamara",
+    "finish_time": "01:24:42",
+    "finish_seconds": 5082
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 247,
+    "name": "Bounsall, Abby",
+    "finish_time": "01:24:45",
+    "finish_seconds": 5085
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 249,
+    "name": "Rembert, Sandrine",
+    "finish_time": "01:24:48",
+    "finish_seconds": 5088
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 251,
+    "name": "Ilg, Annalena",
+    "finish_time": "01:24:58",
+    "finish_seconds": 5098
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 253,
+    "name": "Freide, Isabell",
+    "finish_time": "01:25:05",
+    "finish_seconds": 5105
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 255,
+    "name": "Deschanel, Laura",
+    "finish_time": "01:25:09",
+    "finish_seconds": 5109
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 257,
+    "name": "Rusila, Salla",
+    "finish_time": "01:25:13",
+    "finish_seconds": 5113
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 259,
+    "name": "Moloney, Marie",
+    "finish_time": "01:25:15",
+    "finish_seconds": 5115
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 261,
+    "name": "Polonio, Federica",
+    "finish_time": "01:25:19",
+    "finish_seconds": 5119
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 263,
+    "name": "Fabiani, Livia",
+    "finish_time": "01:25:27",
+    "finish_seconds": 5127
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 265,
+    "name": "guardiani, mariasilvia",
+    "finish_time": "01:25:31",
+    "finish_seconds": 5131
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 267,
+    "name": "Grieves, Jen",
+    "finish_time": "01:25:35",
+    "finish_seconds": 5135
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 269,
+    "name": "Castiglioni, Chiara",
+    "finish_time": "01:25:39",
+    "finish_seconds": 5139
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 271,
+    "name": "Tempesta, Michela",
+    "finish_time": "01:25:44",
+    "finish_seconds": 5144
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 273,
+    "name": "Kennedy, Roseanne",
+    "finish_time": "01:25:49",
+    "finish_seconds": 5149
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 275,
+    "name": "Capone, Nadia",
+    "finish_time": "01:26:01",
+    "finish_seconds": 5161
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 277,
+    "name": "Babay, Nadia",
+    "finish_time": "01:26:02",
+    "finish_seconds": 5162
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 279,
+    "name": "ESCALONA, Daymara",
+    "finish_time": "01:26:05",
+    "finish_seconds": 5165
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 281,
+    "name": "Sartori, Elisa",
+    "finish_time": "01:26:15",
+    "finish_seconds": 5175
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 283,
+    "name": "Hunot, Mathilde",
+    "finish_time": "01:26:22",
+    "finish_seconds": 5182
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 285,
+    "name": "winterbottom, katharine",
+    "finish_time": "01:26:22",
+    "finish_seconds": 5182
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 287,
+    "name": "Jimenez Utrera, Laura",
+    "finish_time": "01:26:32",
+    "finish_seconds": 5192
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 289,
+    "name": "Pontillo, Eleonora",
+    "finish_time": "01:26:37",
+    "finish_seconds": 5197
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 291,
+    "name": "Campione, Barbara",
+    "finish_time": "01:26:40",
+    "finish_seconds": 5200
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 293,
+    "name": "Muriel, Susana",
+    "finish_time": "01:26:41",
+    "finish_seconds": 5201
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 295,
+    "name": "Barton, Charlotte",
+    "finish_time": "01:26:45",
+    "finish_seconds": 5205
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 297,
+    "name": "Palavesin, Lisa",
+    "finish_time": "01:26:48",
+    "finish_seconds": 5208
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 299,
+    "name": "Fiorentini, Gaia",
+    "finish_time": "01:26:49",
+    "finish_seconds": 5209
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 301,
+    "name": "Cox, Elise",
+    "finish_time": "01:26:54",
+    "finish_seconds": 5214
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 303,
+    "name": "Leme, Sabrina",
+    "finish_time": "01:26:59",
+    "finish_seconds": 5219
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 305,
+    "name": "MURRET LABARTHE, Audrey",
+    "finish_time": "01:27:01",
+    "finish_seconds": 5221
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 307,
+    "name": "Capannelli, Simona",
+    "finish_time": "01:27:03",
+    "finish_seconds": 5223
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 309,
+    "name": "Silva Mendes, Ana Sofia",
+    "finish_time": "01:27:12",
+    "finish_seconds": 5232
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 311,
+    "name": "B\u00e9rard, Lucie",
+    "finish_time": "01:27:13",
+    "finish_seconds": 5233
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 313,
+    "name": "Cuttitta, Silvia",
+    "finish_time": "01:27:18",
+    "finish_seconds": 5238
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 315,
+    "name": "PALMIERI, Francesca",
+    "finish_time": "01:27:27",
+    "finish_seconds": 5247
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 317,
+    "name": "Garavini, Claudia",
+    "finish_time": "01:27:31",
+    "finish_seconds": 5251
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 319,
+    "name": "Marigliano, Rosa",
+    "finish_time": "01:27:46",
+    "finish_seconds": 5266
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 321,
+    "name": "Cammarota, Carmela",
+    "finish_time": "01:27:47",
+    "finish_seconds": 5267
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 323,
+    "name": "Tate, Amy-Lou",
+    "finish_time": "01:27:55",
+    "finish_seconds": 5275
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 325,
+    "name": "Bidon, Anne",
+    "finish_time": "01:27:56",
+    "finish_seconds": 5276
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 327,
+    "name": "Folcia, Giada",
+    "finish_time": "01:28:14",
+    "finish_seconds": 5294
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 329,
+    "name": "Silverio, In\u00eas",
+    "finish_time": "01:28:21",
+    "finish_seconds": 5301
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 331,
+    "name": "Lozzi, Veronica",
+    "finish_time": "01:28:26",
+    "finish_seconds": 5306
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 333,
+    "name": "Falconer, Jennifer",
+    "finish_time": "01:28:30",
+    "finish_seconds": 5310
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 335,
+    "name": "Minoli, Valeria",
+    "finish_time": "01:28:32",
+    "finish_seconds": 5312
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 337,
+    "name": "Bailey, Aspen",
+    "finish_time": "01:28:42",
+    "finish_seconds": 5322
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 339,
+    "name": "Ranalli, Claudia",
+    "finish_time": "01:28:44",
+    "finish_seconds": 5324
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 341,
+    "name": "Van-Ristell, Larissa",
+    "finish_time": "01:28:46",
+    "finish_seconds": 5326
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 343,
+    "name": "Gotowa\u0142a, Karolina",
+    "finish_time": "01:28:50",
+    "finish_seconds": 5330
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 345,
+    "name": "Facchinato, Giulia",
+    "finish_time": "01:28:54",
+    "finish_seconds": 5334
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 347,
+    "name": "Beamish, Sarah",
+    "finish_time": "01:28:54",
+    "finish_seconds": 5334
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 349,
+    "name": "DAMBIER, Sigrid",
+    "finish_time": "01:29:00",
+    "finish_seconds": 5340
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 351,
+    "name": "CHOUGRANI, Alexia",
+    "finish_time": "01:29:06",
+    "finish_seconds": 5346
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 353,
+    "name": "Berzieri, Chiara",
+    "finish_time": "01:29:13",
+    "finish_seconds": 5353
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 355,
+    "name": "Dossi, Elena",
+    "finish_time": "01:29:15",
+    "finish_seconds": 5355
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 357,
+    "name": "C\u00e9l\u00e8rier, Anna",
+    "finish_time": "01:29:16",
+    "finish_seconds": 5356
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 359,
+    "name": "Sagmeister, Maria",
+    "finish_time": "01:29:19",
+    "finish_seconds": 5359
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 361,
+    "name": "Dormer, Leah",
+    "finish_time": "01:29:22",
+    "finish_seconds": 5362
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 363,
+    "name": "Valente Celescuekci, Carolina",
+    "finish_time": "01:29:24",
+    "finish_seconds": 5364
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 365,
+    "name": "Tolusso, Laura",
+    "finish_time": "01:29:30",
+    "finish_seconds": 5370
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 367,
+    "name": "Cummins, Shannon",
+    "finish_time": "01:29:35",
+    "finish_seconds": 5375
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 369,
+    "name": "Cotton, Olivia",
+    "finish_time": "01:29:45",
+    "finish_seconds": 5385
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 371,
+    "name": "Kozinskaia, Iulia",
+    "finish_time": "01:29:52",
+    "finish_seconds": 5392
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 373,
+    "name": "Cannavale, Samantha",
+    "finish_time": "01:30:04",
+    "finish_seconds": 5404
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 375,
+    "name": "Lodato, Martina",
+    "finish_time": "01:30:06",
+    "finish_seconds": 5406
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 377,
+    "name": "Biel, Anja",
+    "finish_time": "01:30:11",
+    "finish_seconds": 5411
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 379,
+    "name": "Kondi, Marine",
+    "finish_time": "01:30:16",
+    "finish_seconds": 5416
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 381,
+    "name": "Mittrup, Julia",
+    "finish_time": "01:30:25",
+    "finish_seconds": 5425
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 383,
+    "name": "Crabb, Charlotte",
+    "finish_time": "01:30:27",
+    "finish_seconds": 5427
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 385,
+    "name": "Thibert, L\u00e9a",
+    "finish_time": "01:30:31",
+    "finish_seconds": 5431
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 387,
+    "name": "O'Hare, Eilis",
+    "finish_time": "01:30:32",
+    "finish_seconds": 5432
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 389,
+    "name": "Schirnhofer, Melitta",
+    "finish_time": "01:30:36",
+    "finish_seconds": 5436
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 391,
+    "name": "Pickett, Georgina",
+    "finish_time": "01:30:44",
+    "finish_seconds": 5444
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 393,
+    "name": "Patel, Hetal",
+    "finish_time": "01:30:48",
+    "finish_seconds": 5448
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 395,
+    "name": "Rossi, Linda",
+    "finish_time": "01:30:53",
+    "finish_seconds": 5453
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 397,
+    "name": "Sartori, Silvia",
+    "finish_time": "01:30:59",
+    "finish_seconds": 5459
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 399,
+    "name": "Lamine, Manel",
+    "finish_time": "01:31:00",
+    "finish_seconds": 5460
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 401,
+    "name": "Panek, Oliwia",
+    "finish_time": "01:31:00",
+    "finish_seconds": 5460
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 403,
+    "name": "Hug, Joanna",
+    "finish_time": "01:31:04",
+    "finish_seconds": 5464
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 405,
+    "name": "Hider, Ava",
+    "finish_time": "01:31:09",
+    "finish_seconds": 5469
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 407,
+    "name": "Orlando, Rosaria",
+    "finish_time": "01:31:17",
+    "finish_seconds": 5477
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 409,
+    "name": "Loraine, Amelia",
+    "finish_time": "01:31:21",
+    "finish_seconds": 5481
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 411,
+    "name": "RENGI, AMALIA",
+    "finish_time": "01:31:24",
+    "finish_seconds": 5484
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 413,
+    "name": "Schl\u00fctz, Christine",
+    "finish_time": "01:31:26",
+    "finish_seconds": 5486
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 415,
+    "name": "Torelli, Flaminia",
+    "finish_time": "01:31:28",
+    "finish_seconds": 5488
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 417,
+    "name": "VINOT, Laetitia",
+    "finish_time": "01:31:36",
+    "finish_seconds": 5496
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 419,
+    "name": "Hendriks, Lilly",
+    "finish_time": "01:31:42",
+    "finish_seconds": 5502
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 421,
+    "name": "Lavers, Becky",
+    "finish_time": "01:31:44",
+    "finish_seconds": 5504
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 423,
+    "name": "Burder, Cassie",
+    "finish_time": "01:31:46",
+    "finish_seconds": 5506
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 425,
+    "name": "Lallut, Noemie",
+    "finish_time": "01:31:53",
+    "finish_seconds": 5513
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 427,
+    "name": "BLIGNY, EMILIE",
+    "finish_time": "01:32:01",
+    "finish_seconds": 5521
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 429,
+    "name": "Lanko, Iryna",
+    "finish_time": "01:32:04",
+    "finish_seconds": 5524
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 431,
+    "name": "Delfine, Tania",
+    "finish_time": "01:32:19",
+    "finish_seconds": 5539
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 433,
+    "name": "Poprawska, Paulina",
+    "finish_time": "01:32:20",
+    "finish_seconds": 5540
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 435,
+    "name": "Cisneros, Carlota",
+    "finish_time": "01:32:28",
+    "finish_seconds": 5548
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 437,
+    "name": "Montagna, Maria",
+    "finish_time": "01:32:34",
+    "finish_seconds": 5554
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 439,
+    "name": "Bartashuk, Dariia",
+    "finish_time": "01:32:39",
+    "finish_seconds": 5559
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 441,
+    "name": "Colarossi, Matilde",
+    "finish_time": "01:32:40",
+    "finish_seconds": 5560
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 443,
+    "name": "Kilina, Anastasija",
+    "finish_time": "01:32:42",
+    "finish_seconds": 5562
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 445,
+    "name": "Goddard, Sirkku",
+    "finish_time": "01:32:47",
+    "finish_seconds": 5567
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 447,
+    "name": "Hofer, Astrid",
+    "finish_time": "01:32:51",
+    "finish_seconds": 5571
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 449,
+    "name": "molina, oph\u00e9lie",
+    "finish_time": "01:32:52",
+    "finish_seconds": 5572
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 451,
+    "name": "Curley, Catherine",
+    "finish_time": "01:32:57",
+    "finish_seconds": 5577
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 453,
+    "name": "Hussein, Leyla",
+    "finish_time": "01:33:01",
+    "finish_seconds": 5581
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 455,
+    "name": "CHAN, BEVERLEY",
+    "finish_time": "01:33:05",
+    "finish_seconds": 5585
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 457,
+    "name": "Fantin, Sara",
+    "finish_time": "01:33:07",
+    "finish_seconds": 5587
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 459,
+    "name": "garofoli, alessia",
+    "finish_time": "01:33:08",
+    "finish_seconds": 5588
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 461,
+    "name": "Fioravanti, Marzia",
+    "finish_time": "01:33:19",
+    "finish_seconds": 5599
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 463,
+    "name": "Contenta, Chiara Veronica",
+    "finish_time": "01:33:20",
+    "finish_seconds": 5600
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 465,
+    "name": "GRASSI, GRETA",
+    "finish_time": "01:33:21",
+    "finish_seconds": 5601
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 467,
+    "name": "Fiorin, Lisa",
+    "finish_time": "01:33:29",
+    "finish_seconds": 5609
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 469,
+    "name": "Secco, Francesca",
+    "finish_time": "01:33:35",
+    "finish_seconds": 5615
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 471,
+    "name": "Basile, Enrica",
+    "finish_time": "01:33:36",
+    "finish_seconds": 5616
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 473,
+    "name": "Poggioni, Francesca",
+    "finish_time": "01:33:39",
+    "finish_seconds": 5619
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 475,
+    "name": "De Bellis, Giorgia",
+    "finish_time": "01:33:49",
+    "finish_seconds": 5629
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 477,
+    "name": "Sibilio, Sara",
+    "finish_time": "01:33:52",
+    "finish_seconds": 5632
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 479,
+    "name": "Bouaziz, Wafa",
+    "finish_time": "01:33:58",
+    "finish_seconds": 5638
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 481,
+    "name": "Fazi, Georgia",
+    "finish_time": "01:34:13",
+    "finish_seconds": 5653
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 483,
+    "name": "Kealey, Orla",
+    "finish_time": "01:34:16",
+    "finish_seconds": 5656
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 485,
+    "name": "Cavallier, Am\u00e9lie",
+    "finish_time": "01:34:21",
+    "finish_seconds": 5661
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 487,
+    "name": "Sarli, Maria Ornella",
+    "finish_time": "01:34:26",
+    "finish_seconds": 5666
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 489,
+    "name": "Carcaterra, Giovan giuseppe",
+    "finish_time": "01:34:37",
+    "finish_seconds": 5677
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 491,
+    "name": "Moro-Fontanet, Serena",
+    "finish_time": "01:34:39",
+    "finish_seconds": 5679
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 493,
+    "name": "Pistone, Chiara",
+    "finish_time": "01:34:48",
+    "finish_seconds": 5688
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 495,
+    "name": "Cerrato, Sharon",
+    "finish_time": "01:34:55",
+    "finish_seconds": 5695
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 497,
+    "name": "Guitard, Caroline",
+    "finish_time": "01:35:00",
+    "finish_seconds": 5700
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 499,
+    "name": "Viola, Cinzia",
+    "finish_time": "01:35:06",
+    "finish_seconds": 5706
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 501,
+    "name": "Bajacan, Liliana",
+    "finish_time": "01:35:07",
+    "finish_seconds": 5707
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 503,
+    "name": "Zamponi, Valentina",
+    "finish_time": "01:35:14",
+    "finish_seconds": 5714
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 505,
+    "name": "Roggio, Anna Maria",
+    "finish_time": "01:35:18",
+    "finish_seconds": 5718
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 507,
+    "name": "Proietti, Valentina",
+    "finish_time": "01:35:20",
+    "finish_seconds": 5720
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 509,
+    "name": "Amoretti, Monica",
+    "finish_time": "01:35:25",
+    "finish_seconds": 5725
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 511,
+    "name": "Santini, Camilla",
+    "finish_time": "01:35:30",
+    "finish_seconds": 5730
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 513,
+    "name": "Corneli, Marialuisa",
+    "finish_time": "01:35:35",
+    "finish_seconds": 5735
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 515,
+    "name": "Wilson, Melissa",
+    "finish_time": "01:35:37",
+    "finish_seconds": 5737
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 517,
+    "name": "Casarin, Linda",
+    "finish_time": "01:35:41",
+    "finish_seconds": 5741
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 519,
+    "name": "Siller, Frida",
+    "finish_time": "01:35:49",
+    "finish_seconds": 5749
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 521,
+    "name": "Aschettino, Tanith",
+    "finish_time": "01:35:56",
+    "finish_seconds": 5756
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 523,
+    "name": "Mathieu, St\u00e9phanie",
+    "finish_time": "01:36:07",
+    "finish_seconds": 5767
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 525,
+    "name": "Seselgyte, Zaneta",
+    "finish_time": "01:36:11",
+    "finish_seconds": 5771
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 527,
+    "name": "Peyre, Camille",
+    "finish_time": "01:36:27",
+    "finish_seconds": 5787
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 529,
+    "name": "Messana, Rosanna",
+    "finish_time": "01:36:28",
+    "finish_seconds": 5788
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 531,
+    "name": "Berne, Manon",
+    "finish_time": "01:36:41",
+    "finish_seconds": 5801
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 533,
+    "name": "Balitchi, Alexandra",
+    "finish_time": "01:36:43",
+    "finish_seconds": 5803
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 535,
+    "name": "Petersen, Elsebeth Lea",
+    "finish_time": "01:36:51",
+    "finish_seconds": 5811
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 537,
+    "name": "Dintrono, Samuela",
+    "finish_time": "01:36:53",
+    "finish_seconds": 5813
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 539,
+    "name": "Vannozzi, Paola",
+    "finish_time": "01:36:58",
+    "finish_seconds": 5818
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 541,
+    "name": "Csord\u00e1s, Katalin",
+    "finish_time": "01:37:07",
+    "finish_seconds": 5827
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 543,
+    "name": "Cedic, Dragana",
+    "finish_time": "01:37:11",
+    "finish_seconds": 5831
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 545,
+    "name": "Cagnetta, Elisa",
+    "finish_time": "01:37:20",
+    "finish_seconds": 5840
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 547,
+    "name": "Guti\u00e9rrez Mu\u00f1oz, Cristina",
+    "finish_time": "01:37:30",
+    "finish_seconds": 5850
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 549,
+    "name": "Bertaia, Sara",
+    "finish_time": "01:37:42",
+    "finish_seconds": 5862
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 551,
+    "name": "Bertolotti, Elisa",
+    "finish_time": "01:37:44",
+    "finish_seconds": 5864
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 553,
+    "name": "Cancelli, Cheryl",
+    "finish_time": "01:37:54",
+    "finish_seconds": 5874
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 555,
+    "name": "De Vita, Martina",
+    "finish_time": "01:37:59",
+    "finish_seconds": 5879
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 557,
+    "name": "Bautista, Jessalyn",
+    "finish_time": "01:38:01",
+    "finish_seconds": 5881
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 559,
+    "name": "Waterworth, Charlotte",
+    "finish_time": "01:38:07",
+    "finish_seconds": 5887
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 561,
+    "name": "Fry, Abigail",
+    "finish_time": "01:38:14",
+    "finish_seconds": 5894
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 563,
+    "name": "Belcher, Haley",
+    "finish_time": "01:38:16",
+    "finish_seconds": 5896
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 565,
+    "name": "gerardi, viviana",
+    "finish_time": "01:38:34",
+    "finish_seconds": 5914
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 567,
+    "name": "POCATINO, SIMONA",
+    "finish_time": "01:38:37",
+    "finish_seconds": 5917
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 569,
+    "name": "Bacchiega, Chiara",
+    "finish_time": "01:38:42",
+    "finish_seconds": 5922
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 571,
+    "name": "Murphy, Emma",
+    "finish_time": "01:38:52",
+    "finish_seconds": 5932
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 573,
+    "name": "Filippi, Camilla",
+    "finish_time": "01:38:55",
+    "finish_seconds": 5935
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 575,
+    "name": "Espinoza, Clau",
+    "finish_time": "01:38:59",
+    "finish_seconds": 5939
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 577,
+    "name": "K\u00f6hl, Angelika",
+    "finish_time": "01:39:01",
+    "finish_seconds": 5941
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 579,
+    "name": "timpanaro, manuela",
+    "finish_time": "01:39:08",
+    "finish_seconds": 5948
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 581,
+    "name": "Grattapaglia, Giulia",
+    "finish_time": "01:39:18",
+    "finish_seconds": 5958
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 583,
+    "name": "Domahidi-Vaszi, Hajnal",
+    "finish_time": "01:39:23",
+    "finish_seconds": 5963
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 585,
+    "name": "Davis, Juliette",
+    "finish_time": "01:39:25",
+    "finish_seconds": 5965
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 587,
+    "name": "Cappadona, Ilenia",
+    "finish_time": "01:39:27",
+    "finish_seconds": 5967
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 589,
+    "name": "D'Elia, Beatrice",
+    "finish_time": "01:39:33",
+    "finish_seconds": 5973
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 591,
+    "name": "Skidmore, Felicity",
+    "finish_time": "01:39:41",
+    "finish_seconds": 5981
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 593,
+    "name": "Grabham, Megan",
+    "finish_time": "01:39:46",
+    "finish_seconds": 5986
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 595,
+    "name": "Fisher, Anna",
+    "finish_time": "01:39:59",
+    "finish_seconds": 5999
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 597,
+    "name": "Mirabella, Monica",
+    "finish_time": "01:40:11",
+    "finish_seconds": 6011
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 599,
+    "name": "Brooks, Irena",
+    "finish_time": "01:40:11",
+    "finish_seconds": 6011
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 601,
+    "name": "Colautti, Charline",
+    "finish_time": "01:40:23",
+    "finish_seconds": 6023
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 603,
+    "name": "Hakem, Yamina",
+    "finish_time": "01:40:33",
+    "finish_seconds": 6033
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 605,
+    "name": "Andras, Zsuzsanna",
+    "finish_time": "01:40:48",
+    "finish_seconds": 6048
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 607,
+    "name": "Castellano, Sofia",
+    "finish_time": "01:40:56",
+    "finish_seconds": 6056
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 609,
+    "name": "Kryuchkova, Evgeniya",
+    "finish_time": "01:41:02",
+    "finish_seconds": 6062
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 611,
+    "name": "FORTINI, SOPHIE",
+    "finish_time": "01:41:10",
+    "finish_seconds": 6070
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 613,
+    "name": "Dierickx, Anastassya",
+    "finish_time": "01:41:14",
+    "finish_seconds": 6074
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 615,
+    "name": "Hector-Jack, Nikel",
+    "finish_time": "01:41:22",
+    "finish_seconds": 6082
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 617,
+    "name": "Olsson, Alice",
+    "finish_time": "01:41:29",
+    "finish_seconds": 6089
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 619,
+    "name": "Barry, Rhiannon",
+    "finish_time": "01:41:33",
+    "finish_seconds": 6093
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 621,
+    "name": "Windred, Kaisha",
+    "finish_time": "01:41:35",
+    "finish_seconds": 6095
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 623,
+    "name": "Sharda, Shivani",
+    "finish_time": "01:41:41",
+    "finish_seconds": 6101
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 625,
+    "name": "Stawowa, Karolina",
+    "finish_time": "01:41:45",
+    "finish_seconds": 6105
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 627,
+    "name": "Highway, Rachel",
+    "finish_time": "01:42:01",
+    "finish_seconds": 6121
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 629,
+    "name": "Iannelli, Chiara",
+    "finish_time": "01:42:05",
+    "finish_seconds": 6125
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 631,
+    "name": "nuzzachi, alessia",
+    "finish_time": "01:42:23",
+    "finish_seconds": 6143
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 633,
+    "name": "Rafter, Dearbhla",
+    "finish_time": "01:42:31",
+    "finish_seconds": 6151
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 635,
+    "name": "Winkler, Katharina",
+    "finish_time": "01:42:36",
+    "finish_seconds": 6156
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 637,
+    "name": "Bennett, Shamina",
+    "finish_time": "01:42:45",
+    "finish_seconds": 6165
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 639,
+    "name": "Schwaninger, Ida",
+    "finish_time": "01:42:49",
+    "finish_seconds": 6169
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 641,
+    "name": "Alvino, Claudia",
+    "finish_time": "01:43:05",
+    "finish_seconds": 6185
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 643,
+    "name": "GAMMELLI, LAURA",
+    "finish_time": "01:43:20",
+    "finish_seconds": 6200
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 645,
+    "name": "Pierantoni, Ilaria",
+    "finish_time": "01:43:40",
+    "finish_seconds": 6220
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 647,
+    "name": "Higgins, Orla",
+    "finish_time": "01:43:57",
+    "finish_seconds": 6237
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 649,
+    "name": "Pardetti, Cassandra",
+    "finish_time": "01:44:08",
+    "finish_seconds": 6248
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 651,
+    "name": "Kelly, Monique",
+    "finish_time": "01:44:13",
+    "finish_seconds": 6253
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 653,
+    "name": "Aramini Borra, Sidonie",
+    "finish_time": "01:44:25",
+    "finish_seconds": 6265
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 655,
+    "name": "Elmalech, Lee",
+    "finish_time": "01:44:33",
+    "finish_seconds": 6273
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 657,
+    "name": "Doherty, Anneka",
+    "finish_time": "01:44:41",
+    "finish_seconds": 6281
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 659,
+    "name": "Bradshaw, Georgina",
+    "finish_time": "01:44:51",
+    "finish_seconds": 6291
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 661,
+    "name": "Agostino, Veronica",
+    "finish_time": "01:45:10",
+    "finish_seconds": 6310
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 663,
+    "name": "Todosijczuk, Jessica",
+    "finish_time": "01:45:17",
+    "finish_seconds": 6317
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 665,
+    "name": "Kup\u010d\u00edkov\u00e1, Zuzana",
+    "finish_time": "01:45:43",
+    "finish_seconds": 6343
+  },
+  {
+    "venue": "2025 Rome",
+    "gender": "W",
+    "rank": 667,
+    "name": "Smet, Caroline",
+    "finish_time": "01:45:51",
+    "finish_seconds": 6351
+  }
+]

@@ -1,0 +1,2250 @@
+[
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 1,
+    "name": "De Souza, Chris",
+    "finish_time": "00:59:33",
+    "finish_seconds": 3573
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 3,
+    "name": "Gasparin, Rodrigo",
+    "finish_time": "01:02:05",
+    "finish_seconds": 3725
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 5,
+    "name": "Troncoso, Felipe",
+    "finish_time": "01:03:45",
+    "finish_seconds": 3825
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 7,
+    "name": "Dornellas, Leandro",
+    "finish_time": "01:04:32",
+    "finish_seconds": 3872
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 9,
+    "name": "Augusto, Vinicius",
+    "finish_time": "01:06:04",
+    "finish_seconds": 3964
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 11,
+    "name": "Ferreira, Santi",
+    "finish_time": "01:07:17",
+    "finish_seconds": 4037
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 13,
+    "name": "Neto, Carlos",
+    "finish_time": "01:07:33",
+    "finish_seconds": 4053
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 15,
+    "name": "Sousa, Marlon",
+    "finish_time": "01:07:46",
+    "finish_seconds": 4066
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 17,
+    "name": "Carvalho, Tiago",
+    "finish_time": "01:08:08",
+    "finish_seconds": 4088
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 19,
+    "name": "Modesto, Henrique",
+    "finish_time": "01:09:05",
+    "finish_seconds": 4145
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 21,
+    "name": "Reyes Espinoza, Ricardo",
+    "finish_time": "01:09:31",
+    "finish_seconds": 4171
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 23,
+    "name": "Morgan, Curtis",
+    "finish_time": "01:09:56",
+    "finish_seconds": 4196
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 25,
+    "name": "Roveri, Riccardo",
+    "finish_time": "01:10:12",
+    "finish_seconds": 4212
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 27,
+    "name": "Reboulleau, Valentin",
+    "finish_time": "01:10:35",
+    "finish_seconds": 4235
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 29,
+    "name": "Aires, Andr\u00e9",
+    "finish_time": "01:10:53",
+    "finish_seconds": 4253
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 31,
+    "name": "Wilson, Cameron",
+    "finish_time": "01:11:03",
+    "finish_seconds": 4263
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 33,
+    "name": "Damiano, Gabriel",
+    "finish_time": "01:11:35",
+    "finish_seconds": 4295
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 35,
+    "name": "Zipitr\u00eda, Gonzalo",
+    "finish_time": "01:11:54",
+    "finish_seconds": 4314
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 37,
+    "name": "Urdaneta, Jesus",
+    "finish_time": "01:12:05",
+    "finish_seconds": 4325
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 39,
+    "name": "Martinez, Manuel",
+    "finish_time": "01:12:16",
+    "finish_seconds": 4336
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 41,
+    "name": "Tanaka, Fabio",
+    "finish_time": "01:12:25",
+    "finish_seconds": 4345
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 43,
+    "name": "Ad\u00e1n, Nicol\u00e1s",
+    "finish_time": "01:12:46",
+    "finish_seconds": 4366
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 45,
+    "name": "Braga Duarte, Ralph",
+    "finish_time": "01:13:01",
+    "finish_seconds": 4381
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 47,
+    "name": "Lima, Pedro Henrique",
+    "finish_time": "01:13:14",
+    "finish_seconds": 4394
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 49,
+    "name": "Koch, Norman",
+    "finish_time": "01:13:36",
+    "finish_seconds": 4416
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 51,
+    "name": "Justo, Clemerson",
+    "finish_time": "01:13:55",
+    "finish_seconds": 4435
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 53,
+    "name": "Berro, Bernardo",
+    "finish_time": "01:14:07",
+    "finish_seconds": 4447
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 55,
+    "name": "Dos Santos, Rafael Rosino",
+    "finish_time": "01:14:11",
+    "finish_seconds": 4451
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 57,
+    "name": "Pereira, Oton",
+    "finish_time": "01:14:23",
+    "finish_seconds": 4463
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 59,
+    "name": "Bonani, Vinicius",
+    "finish_time": "01:14:29",
+    "finish_seconds": 4469
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 61,
+    "name": "Calder\u00f3n, Alejandro",
+    "finish_time": "01:14:40",
+    "finish_seconds": 4480
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 63,
+    "name": "Rocha, Bruno",
+    "finish_time": "01:15:22",
+    "finish_seconds": 4522
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 65,
+    "name": "Souza, Ayslan",
+    "finish_time": "01:15:25",
+    "finish_seconds": 4525
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 67,
+    "name": "Ferreira, Leandro",
+    "finish_time": "01:15:34",
+    "finish_seconds": 4534
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 69,
+    "name": "Gilchrist, Gavin",
+    "finish_time": "01:15:38",
+    "finish_seconds": 4538
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 71,
+    "name": "Dantas, Diego",
+    "finish_time": "01:15:40",
+    "finish_seconds": 4540
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 73,
+    "name": "Furumoto, Enzo",
+    "finish_time": "01:15:48",
+    "finish_seconds": 4548
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 75,
+    "name": "Rosado, Caio",
+    "finish_time": "01:15:51",
+    "finish_seconds": 4551
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 77,
+    "name": "De Boer, Rick",
+    "finish_time": "01:15:58",
+    "finish_seconds": 4558
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 79,
+    "name": "Quintanilla, Fabian",
+    "finish_time": "01:16:07",
+    "finish_seconds": 4567
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 81,
+    "name": "Dos Anjos, Diego",
+    "finish_time": "01:16:11",
+    "finish_seconds": 4571
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 83,
+    "name": "Oliveira, Wilker",
+    "finish_time": "01:16:18",
+    "finish_seconds": 4578
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 85,
+    "name": "Vieira Rocha Junior, Andr\u00e9",
+    "finish_time": "01:16:39",
+    "finish_seconds": 4599
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 87,
+    "name": "Bulc\u00e3o, Victor",
+    "finish_time": "01:16:42",
+    "finish_seconds": 4602
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 89,
+    "name": "Barbeto, Eduardo",
+    "finish_time": "01:16:53",
+    "finish_seconds": 4613
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 91,
+    "name": "Castro, Felliphe",
+    "finish_time": "01:17:02",
+    "finish_seconds": 4622
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 93,
+    "name": "Zagallo, Tiago",
+    "finish_time": "01:17:23",
+    "finish_seconds": 4643
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 95,
+    "name": "Valencia, Edwin",
+    "finish_time": "01:17:34",
+    "finish_seconds": 4654
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 97,
+    "name": "Cukierman, Marcelo",
+    "finish_time": "01:17:50",
+    "finish_seconds": 4670
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 99,
+    "name": "Lima, Bruno Arthur",
+    "finish_time": "01:17:53",
+    "finish_seconds": 4673
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 101,
+    "name": "Prieto, Emmanuel",
+    "finish_time": "01:17:56",
+    "finish_seconds": 4676
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 103,
+    "name": "Fialho Qaqish, David",
+    "finish_time": "01:18:10",
+    "finish_seconds": 4690
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 105,
+    "name": "De Freitas, Carlos",
+    "finish_time": "01:18:14",
+    "finish_seconds": 4694
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 107,
+    "name": "Nakamura, Felipe",
+    "finish_time": "01:18:34",
+    "finish_seconds": 4714
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 109,
+    "name": "Medeiros Machado, Juliano",
+    "finish_time": "01:18:46",
+    "finish_seconds": 4726
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 111,
+    "name": "V\u00e1squez Guerrero, Christian David",
+    "finish_time": "01:18:48",
+    "finish_seconds": 4728
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 113,
+    "name": "Gomes Teixeira, Matheus",
+    "finish_time": "01:19:08",
+    "finish_seconds": 4748
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 115,
+    "name": "Hentschel, Alexander",
+    "finish_time": "01:19:11",
+    "finish_seconds": 4751
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 117,
+    "name": "Dadalto, Rafael",
+    "finish_time": "01:19:18",
+    "finish_seconds": 4758
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 119,
+    "name": "Carlos, Jean",
+    "finish_time": "01:19:23",
+    "finish_seconds": 4763
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 121,
+    "name": "Bristow, Magnus",
+    "finish_time": "01:19:27",
+    "finish_seconds": 4767
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 123,
+    "name": "Zeisset, Jonathan",
+    "finish_time": "01:19:34",
+    "finish_seconds": 4774
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 125,
+    "name": "Dos Anjos, Joao",
+    "finish_time": "01:19:42",
+    "finish_seconds": 4782
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 127,
+    "name": "Almeida, Mauro",
+    "finish_time": "01:19:55",
+    "finish_seconds": 4795
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 129,
+    "name": "Prette, Jeferson Luis",
+    "finish_time": "01:19:58",
+    "finish_seconds": 4798
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 131,
+    "name": "SILVEIRA, BRUNO",
+    "finish_time": "01:20:04",
+    "finish_seconds": 4804
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 133,
+    "name": "De Luca, Armando",
+    "finish_time": "01:20:12",
+    "finish_seconds": 4812
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 135,
+    "name": "Martins, David",
+    "finish_time": "01:20:15",
+    "finish_seconds": 4815
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 137,
+    "name": "Cohen Salles, Daniel",
+    "finish_time": "01:20:24",
+    "finish_seconds": 4824
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 139,
+    "name": "Chirico, Gabriel",
+    "finish_time": "01:20:28",
+    "finish_seconds": 4828
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 141,
+    "name": "Junior, Zenon",
+    "finish_time": "01:20:38",
+    "finish_seconds": 4838
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 143,
+    "name": "Ramos Gaspar, Ricardo",
+    "finish_time": "01:20:48",
+    "finish_seconds": 4848
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 145,
+    "name": "Cortes, Lucas",
+    "finish_time": "01:21:03",
+    "finish_seconds": 4863
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 147,
+    "name": "Boakye-Duah, Solomon",
+    "finish_time": "01:21:17",
+    "finish_seconds": 4877
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 149,
+    "name": "Roque, Leonardo",
+    "finish_time": "01:21:30",
+    "finish_seconds": 4890
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 151,
+    "name": "Spagnuolo, Adriano",
+    "finish_time": "01:21:34",
+    "finish_seconds": 4894
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 153,
+    "name": "Clemente, Tarsio",
+    "finish_time": "01:21:50",
+    "finish_seconds": 4910
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 155,
+    "name": "G\u00f3ngora, Ricardo",
+    "finish_time": "01:22:03",
+    "finish_seconds": 4923
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 157,
+    "name": "Fusillo, Raul",
+    "finish_time": "01:22:12",
+    "finish_seconds": 4932
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 159,
+    "name": "Armstrong Filho, Adonai",
+    "finish_time": "01:22:16",
+    "finish_seconds": 4936
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 161,
+    "name": "De Oliveira Da Silva, Felipe",
+    "finish_time": "01:22:16",
+    "finish_seconds": 4936
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 163,
+    "name": "De Vos, Nick",
+    "finish_time": "01:22:26",
+    "finish_seconds": 4946
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 165,
+    "name": "Guimar\u00e3es, Mayron",
+    "finish_time": "01:22:30",
+    "finish_seconds": 4950
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 167,
+    "name": "Schroeder, Brent",
+    "finish_time": "01:22:43",
+    "finish_seconds": 4963
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 169,
+    "name": "Pardal, Jean-Claude",
+    "finish_time": "01:23:01",
+    "finish_seconds": 4981
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 171,
+    "name": "Oliveira, Carlos",
+    "finish_time": "01:23:14",
+    "finish_seconds": 4994
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 173,
+    "name": "Grandviennot, S\u00e9bastien",
+    "finish_time": "01:23:21",
+    "finish_seconds": 5001
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 175,
+    "name": "Lampert, L\u00facio",
+    "finish_time": "01:23:30",
+    "finish_seconds": 5010
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 177,
+    "name": "Miranda, RODOLFO",
+    "finish_time": "01:23:32",
+    "finish_seconds": 5012
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 179,
+    "name": "Delbes, Pascal",
+    "finish_time": "01:23:44",
+    "finish_seconds": 5024
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 181,
+    "name": "Grijalba, Fernando",
+    "finish_time": "01:24:16",
+    "finish_seconds": 5056
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 183,
+    "name": "Rocca, Franck",
+    "finish_time": "01:24:20",
+    "finish_seconds": 5060
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 185,
+    "name": "Burdall, James",
+    "finish_time": "01:24:23",
+    "finish_seconds": 5063
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 187,
+    "name": "Casale, Santiago",
+    "finish_time": "01:24:38",
+    "finish_seconds": 5078
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 189,
+    "name": "Hadiyounzadeh, Parsa",
+    "finish_time": "01:24:46",
+    "finish_seconds": 5086
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 191,
+    "name": "De Azevedo Rodrigues, Sergio",
+    "finish_time": "01:24:55",
+    "finish_seconds": 5095
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 193,
+    "name": "Almeida, Pablo",
+    "finish_time": "01:25:03",
+    "finish_seconds": 5103
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 195,
+    "name": "Etzold, Bryan",
+    "finish_time": "01:25:10",
+    "finish_seconds": 5110
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 197,
+    "name": "Zielinski, Andrei",
+    "finish_time": "01:25:14",
+    "finish_seconds": 5114
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 199,
+    "name": "Lucena, Abrahan",
+    "finish_time": "01:25:25",
+    "finish_seconds": 5125
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 201,
+    "name": "Costa, Fernando",
+    "finish_time": "01:25:34",
+    "finish_seconds": 5134
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 203,
+    "name": "Villalba, Francisco",
+    "finish_time": "01:25:39",
+    "finish_seconds": 5139
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 205,
+    "name": "Cifre, Martin",
+    "finish_time": "01:25:43",
+    "finish_seconds": 5143
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 207,
+    "name": "Lourenco, Emerson",
+    "finish_time": "01:25:50",
+    "finish_seconds": 5150
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 209,
+    "name": "Machado, Vitor",
+    "finish_time": "01:25:51",
+    "finish_seconds": 5151
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 211,
+    "name": "Niemeijer, Wouter",
+    "finish_time": "01:25:53",
+    "finish_seconds": 5153
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 213,
+    "name": "Uhlich, Tom (Boss)",
+    "finish_time": "01:25:58",
+    "finish_seconds": 5158
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 215,
+    "name": "Sanchez, Steeven",
+    "finish_time": "01:26:07",
+    "finish_seconds": 5167
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 217,
+    "name": "Maciel, Leonardo",
+    "finish_time": "01:26:18",
+    "finish_seconds": 5178
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 219,
+    "name": "Leandro, Rafael",
+    "finish_time": "01:26:21",
+    "finish_seconds": 5181
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 221,
+    "name": "Zuniga, Luis",
+    "finish_time": "01:26:33",
+    "finish_seconds": 5193
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 223,
+    "name": "Faria, Dimas",
+    "finish_time": "01:26:43",
+    "finish_seconds": 5203
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 225,
+    "name": "Vieira Da Silva Junior, Francisco",
+    "finish_time": "01:26:48",
+    "finish_seconds": 5208
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 227,
+    "name": "Azevedo, Gustavo",
+    "finish_time": "01:26:54",
+    "finish_seconds": 5214
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 229,
+    "name": "Pradel, Ernesto",
+    "finish_time": "01:27:15",
+    "finish_seconds": 5235
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 231,
+    "name": "Neira, Alexander",
+    "finish_time": "01:27:18",
+    "finish_seconds": 5238
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 233,
+    "name": "Da Silva, Izael",
+    "finish_time": "01:27:22",
+    "finish_seconds": 5242
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 235,
+    "name": "Pontes, Diego",
+    "finish_time": "01:27:23",
+    "finish_seconds": 5243
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 237,
+    "name": "De Melo Salgado, Gabriel",
+    "finish_time": "01:27:38",
+    "finish_seconds": 5258
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 239,
+    "name": "Asmar, Gabriel",
+    "finish_time": "01:27:43",
+    "finish_seconds": 5263
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 241,
+    "name": "Dariva, Rodrigo",
+    "finish_time": "01:27:49",
+    "finish_seconds": 5269
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 243,
+    "name": "Gomes, Yuri",
+    "finish_time": "01:27:51",
+    "finish_seconds": 5271
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 245,
+    "name": "Costa, Leandro",
+    "finish_time": "01:28:03",
+    "finish_seconds": 5283
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 247,
+    "name": "Antunes Dos Santos, Erick",
+    "finish_time": "01:28:10",
+    "finish_seconds": 5290
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 249,
+    "name": "Bastos, Fabiano",
+    "finish_time": "01:28:20",
+    "finish_seconds": 5300
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 251,
+    "name": "Reis, Vinicius",
+    "finish_time": "01:28:29",
+    "finish_seconds": 5309
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 253,
+    "name": "Guarnieri, J\u00fanior",
+    "finish_time": "01:28:32",
+    "finish_seconds": 5312
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 255,
+    "name": "Zanandreis, Fl\u00e1vio",
+    "finish_time": "01:28:41",
+    "finish_seconds": 5321
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 257,
+    "name": "Harry, \u00cdcaro",
+    "finish_time": "01:28:42",
+    "finish_seconds": 5322
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 259,
+    "name": "Dias Maciel, Carlos Vinicius",
+    "finish_time": "01:28:47",
+    "finish_seconds": 5327
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 261,
+    "name": "Raminelli, Caue",
+    "finish_time": "01:29:00",
+    "finish_seconds": 5340
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 263,
+    "name": "Lojero Perez, Amir",
+    "finish_time": "01:29:00",
+    "finish_seconds": 5340
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 265,
+    "name": "Lavaud, Borja",
+    "finish_time": "01:29:14",
+    "finish_seconds": 5354
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 267,
+    "name": "Perez, Adrian",
+    "finish_time": "01:29:20",
+    "finish_seconds": 5360
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 269,
+    "name": "Neves, Thiago",
+    "finish_time": "01:29:23",
+    "finish_seconds": 5363
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 271,
+    "name": "Cabo, Felipe",
+    "finish_time": "01:29:29",
+    "finish_seconds": 5369
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 273,
+    "name": "Suarez Falconi, Andres",
+    "finish_time": "01:29:34",
+    "finish_seconds": 5374
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 275,
+    "name": "Gallegos, Edgar",
+    "finish_time": "01:29:43",
+    "finish_seconds": 5383
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 277,
+    "name": "Silva, Ricardo",
+    "finish_time": "01:29:53",
+    "finish_seconds": 5393
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 279,
+    "name": "Poul, Victorien",
+    "finish_time": "01:30:00",
+    "finish_seconds": 5400
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 281,
+    "name": "Henri, Saulo",
+    "finish_time": "01:30:07",
+    "finish_seconds": 5407
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 283,
+    "name": "Maciel, Roberto",
+    "finish_time": "01:30:25",
+    "finish_seconds": 5425
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 285,
+    "name": "Garcia Caballero, Jonathan",
+    "finish_time": "01:30:50",
+    "finish_seconds": 5450
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 287,
+    "name": "Taha, Fares",
+    "finish_time": "01:31:03",
+    "finish_seconds": 5463
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 289,
+    "name": "Pires, Bruno",
+    "finish_time": "01:31:07",
+    "finish_seconds": 5467
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 291,
+    "name": "Paix\u00e3o, Gabriel",
+    "finish_time": "01:31:12",
+    "finish_seconds": 5472
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 293,
+    "name": "Bastos, Marcos",
+    "finish_time": "01:31:15",
+    "finish_seconds": 5475
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 295,
+    "name": "Barbosa, Marcus",
+    "finish_time": "01:31:23",
+    "finish_seconds": 5483
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 297,
+    "name": "Fernandes, Jo\u00e3o Pedro",
+    "finish_time": "01:31:32",
+    "finish_seconds": 5492
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 299,
+    "name": "Silveira, Gustavo",
+    "finish_time": "01:31:47",
+    "finish_seconds": 5507
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 301,
+    "name": "Moreira, Michel",
+    "finish_time": "01:32:04",
+    "finish_seconds": 5524
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 303,
+    "name": "Duarte Alves, Pedro",
+    "finish_time": "01:32:07",
+    "finish_seconds": 5527
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 305,
+    "name": "CEREZO, DYLAN",
+    "finish_time": "01:32:16",
+    "finish_seconds": 5536
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 307,
+    "name": "Feng, Charlie",
+    "finish_time": "01:32:23",
+    "finish_seconds": 5543
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 309,
+    "name": "Souza, Marcelo",
+    "finish_time": "01:32:44",
+    "finish_seconds": 5564
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 311,
+    "name": "Abaghloulin, Najib",
+    "finish_time": "01:33:10",
+    "finish_seconds": 5590
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 313,
+    "name": "Borges, Guthierre",
+    "finish_time": "01:33:15",
+    "finish_seconds": 5595
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 315,
+    "name": "Sztark, Pablo",
+    "finish_time": "01:33:21",
+    "finish_seconds": 5601
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 317,
+    "name": "Franco, Fabio",
+    "finish_time": "01:33:35",
+    "finish_seconds": 5615
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 319,
+    "name": "Silva, Julio",
+    "finish_time": "01:33:46",
+    "finish_seconds": 5626
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 321,
+    "name": "Torres Recoba, Jean Pierre",
+    "finish_time": "01:33:49",
+    "finish_seconds": 5629
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 323,
+    "name": "Pereira-Pinto, Joachim",
+    "finish_time": "01:33:51",
+    "finish_seconds": 5631
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 325,
+    "name": "Echeverry, Sebasti\u00e1n",
+    "finish_time": "01:33:51",
+    "finish_seconds": 5631
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 327,
+    "name": "Blanco, Vicente",
+    "finish_time": "01:33:54",
+    "finish_seconds": 5634
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 329,
+    "name": "Towindo, Tiri",
+    "finish_time": "01:34:09",
+    "finish_seconds": 5649
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 331,
+    "name": "Marmello Bahia, Igor",
+    "finish_time": "01:34:48",
+    "finish_seconds": 5688
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 333,
+    "name": "Sequeira Guerrero, Jean Carlo",
+    "finish_time": "01:34:51",
+    "finish_seconds": 5691
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 335,
+    "name": "Medeiros, Thiago",
+    "finish_time": "01:34:52",
+    "finish_seconds": 5692
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 337,
+    "name": "Hahn, Alfredo",
+    "finish_time": "01:34:57",
+    "finish_seconds": 5697
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 339,
+    "name": "Aldrete, Roberto",
+    "finish_time": "01:35:09",
+    "finish_seconds": 5709
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 341,
+    "name": "Betancourt, Diego",
+    "finish_time": "01:35:17",
+    "finish_seconds": 5717
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 343,
+    "name": "Barros, Henrique",
+    "finish_time": "01:35:23",
+    "finish_seconds": 5723
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 345,
+    "name": "Albuquerque, Arayam",
+    "finish_time": "01:35:29",
+    "finish_seconds": 5729
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 347,
+    "name": "Gaidos, Nicolas",
+    "finish_time": "01:35:41",
+    "finish_seconds": 5741
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 349,
+    "name": "Pedroso, Orlando",
+    "finish_time": "01:35:52",
+    "finish_seconds": 5752
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 351,
+    "name": "Mariano Dos Santos, Marcelo",
+    "finish_time": "01:36:06",
+    "finish_seconds": 5766
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 353,
+    "name": "Obando, Esteban",
+    "finish_time": "01:36:18",
+    "finish_seconds": 5778
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 355,
+    "name": "Mazzei Petrella, Felipe",
+    "finish_time": "01:36:33",
+    "finish_seconds": 5793
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 357,
+    "name": "Sim\u00f5es, Marcello",
+    "finish_time": "01:36:56",
+    "finish_seconds": 5816
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 359,
+    "name": "Chac\u00f3n Anselmi, Jos\u00e9",
+    "finish_time": "01:37:09",
+    "finish_seconds": 5829
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 361,
+    "name": "Costello, Thomas",
+    "finish_time": "01:37:12",
+    "finish_seconds": 5832
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 363,
+    "name": "Robson Dos Santos Esmiol, Edgard",
+    "finish_time": "01:37:17",
+    "finish_seconds": 5837
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 365,
+    "name": "Mascena De Medeiros, Emmanuel",
+    "finish_time": "01:37:38",
+    "finish_seconds": 5858
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 367,
+    "name": "Brasil, Wallace",
+    "finish_time": "01:38:04",
+    "finish_seconds": 5884
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 369,
+    "name": "Alves, Felippe",
+    "finish_time": "01:38:10",
+    "finish_seconds": 5890
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 371,
+    "name": "Marques, Rodolfo",
+    "finish_time": "01:38:30",
+    "finish_seconds": 5910
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 373,
+    "name": "Mendes Freitas, Addner",
+    "finish_time": "01:38:48",
+    "finish_seconds": 5928
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 375,
+    "name": "Pozas, Henrique",
+    "finish_time": "01:38:56",
+    "finish_seconds": 5936
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 377,
+    "name": "Martins, Vitor",
+    "finish_time": "01:39:02",
+    "finish_seconds": 5942
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 379,
+    "name": "Maraz, Luis Carlos",
+    "finish_time": "01:39:22",
+    "finish_seconds": 5962
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 381,
+    "name": "Pereira Torres, Daniel Albert",
+    "finish_time": "01:39:32",
+    "finish_seconds": 5972
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 383,
+    "name": "Rojas, Sebastian",
+    "finish_time": "01:39:51",
+    "finish_seconds": 5991
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 385,
+    "name": "Gizaw, Milkias Taye",
+    "finish_time": "01:39:59",
+    "finish_seconds": 5999
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 387,
+    "name": "Salamano, Pablo",
+    "finish_time": "01:40:11",
+    "finish_seconds": 6011
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 389,
+    "name": "Ortega Hidalgo, Carlos",
+    "finish_time": "01:40:23",
+    "finish_seconds": 6023
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 391,
+    "name": "Hekers, Ricardo",
+    "finish_time": "01:40:39",
+    "finish_seconds": 6039
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 393,
+    "name": "Ribeiro, Leandro",
+    "finish_time": "01:41:06",
+    "finish_seconds": 6066
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 395,
+    "name": "Anajar, Yassine",
+    "finish_time": "01:41:31",
+    "finish_seconds": 6091
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 397,
+    "name": "Costa, Alexandre",
+    "finish_time": "01:41:44",
+    "finish_seconds": 6104
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 399,
+    "name": "Rodriguez, Eduardo",
+    "finish_time": "01:41:46",
+    "finish_seconds": 6106
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 401,
+    "name": "Oliveira, Leandro",
+    "finish_time": "01:42:00",
+    "finish_seconds": 6120
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 403,
+    "name": "De Souza, Hugh",
+    "finish_time": "01:42:06",
+    "finish_seconds": 6126
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 405,
+    "name": "Sehi, Jeremie",
+    "finish_time": "01:42:17",
+    "finish_seconds": 6137
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 407,
+    "name": "Polarco, Edu",
+    "finish_time": "01:42:25",
+    "finish_seconds": 6145
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 409,
+    "name": "G\u00e9hanne, Bertrand",
+    "finish_time": "01:42:41",
+    "finish_seconds": 6161
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "M",
+    "rank": 411,
+    "name": "Murta, Vinicius",
+    "finish_time": "01:42:54",
+    "finish_seconds": 6174
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 1,
+    "name": "Vieira Loiola, Mayara",
+    "finish_time": "01:11:25",
+    "finish_seconds": 4285
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 3,
+    "name": "Levandi, Anna",
+    "finish_time": "01:14:02",
+    "finish_seconds": 4442
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 5,
+    "name": "Ribeiro, Marcela",
+    "finish_time": "01:15:47",
+    "finish_seconds": 4547
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 7,
+    "name": "Verwiel, Marijn",
+    "finish_time": "01:17:35",
+    "finish_seconds": 4655
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 9,
+    "name": "Gawthorp, Katie",
+    "finish_time": "01:18:15",
+    "finish_seconds": 4695
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 11,
+    "name": "Kushnarova, Anna",
+    "finish_time": "01:18:53",
+    "finish_seconds": 4733
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 13,
+    "name": "Nunumete, Zica",
+    "finish_time": "01:19:31",
+    "finish_seconds": 4771
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 15,
+    "name": "Guelli, Amanda",
+    "finish_time": "01:20:03",
+    "finish_seconds": 4803
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 17,
+    "name": "Teixeira De Oliveira, Maria Erica",
+    "finish_time": "01:20:35",
+    "finish_seconds": 4835
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 19,
+    "name": "Basilio, Larissa",
+    "finish_time": "01:20:44",
+    "finish_seconds": 4844
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 21,
+    "name": "Salazar, Manuela",
+    "finish_time": "01:21:55",
+    "finish_seconds": 4915
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 23,
+    "name": "Pardo, Avril",
+    "finish_time": "01:22:32",
+    "finish_seconds": 4952
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 25,
+    "name": "Armas, Ximena",
+    "finish_time": "01:22:41",
+    "finish_seconds": 4961
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 27,
+    "name": "Moreno, Paula",
+    "finish_time": "01:23:20",
+    "finish_seconds": 5000
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 29,
+    "name": "Leria, Sofia",
+    "finish_time": "01:23:45",
+    "finish_seconds": 5025
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 31,
+    "name": "Andrade, Mandy",
+    "finish_time": "01:24:12",
+    "finish_seconds": 5052
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 33,
+    "name": "Caussin, Pauline",
+    "finish_time": "01:24:37",
+    "finish_seconds": 5077
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 35,
+    "name": "Freitas, Flavia",
+    "finish_time": "01:24:45",
+    "finish_seconds": 5085
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 37,
+    "name": "Sommaruga, Natalia",
+    "finish_time": "01:25:07",
+    "finish_seconds": 5107
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 39,
+    "name": "Santos, Nayara",
+    "finish_time": "01:25:23",
+    "finish_seconds": 5123
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 41,
+    "name": "Wandekolken Helmer, Aline",
+    "finish_time": "01:25:49",
+    "finish_seconds": 5149
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 43,
+    "name": "Lopes, Jeane",
+    "finish_time": "01:26:31",
+    "finish_seconds": 5191
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 45,
+    "name": "Ospina, Oriana",
+    "finish_time": "01:26:39",
+    "finish_seconds": 5199
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 47,
+    "name": "Costa, Ana",
+    "finish_time": "01:27:00",
+    "finish_seconds": 5220
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 49,
+    "name": "Pinheiro, Caroline",
+    "finish_time": "01:27:11",
+    "finish_seconds": 5231
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 51,
+    "name": "Zanini, Luana N",
+    "finish_time": "01:27:20",
+    "finish_seconds": 5240
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 53,
+    "name": "Martins Da Silva, Camila",
+    "finish_time": "01:27:34",
+    "finish_seconds": 5254
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 55,
+    "name": "Salvett, Akaren",
+    "finish_time": "01:27:42",
+    "finish_seconds": 5262
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 57,
+    "name": "Williams, Catherine",
+    "finish_time": "01:27:56",
+    "finish_seconds": 5276
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 59,
+    "name": "Alonzo, Yorley",
+    "finish_time": "01:28:12",
+    "finish_seconds": 5292
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 61,
+    "name": "Caramujo, Vanessa",
+    "finish_time": "01:28:32",
+    "finish_seconds": 5312
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 63,
+    "name": "Leijen, Sofie",
+    "finish_time": "01:28:41",
+    "finish_seconds": 5321
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 65,
+    "name": "Chavez, Fernanda",
+    "finish_time": "01:29:08",
+    "finish_seconds": 5348
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 67,
+    "name": "Jaboulay, Sophie",
+    "finish_time": "01:29:34",
+    "finish_seconds": 5374
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 69,
+    "name": "Leite, Fernanda",
+    "finish_time": "01:29:45",
+    "finish_seconds": 5385
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 71,
+    "name": "Cristina, \u00c9rica",
+    "finish_time": "01:30:49",
+    "finish_seconds": 5449
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 73,
+    "name": "Portman, Natassja",
+    "finish_time": "01:31:22",
+    "finish_seconds": 5482
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 75,
+    "name": "Fuechter, Luciane",
+    "finish_time": "01:31:49",
+    "finish_seconds": 5509
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 77,
+    "name": "Goulart, Adriele",
+    "finish_time": "01:31:56",
+    "finish_seconds": 5516
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 79,
+    "name": "Oliveira, Ana Carolina",
+    "finish_time": "01:32:11",
+    "finish_seconds": 5531
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 81,
+    "name": "Esdohr, Wiebke",
+    "finish_time": "01:32:21",
+    "finish_seconds": 5541
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 83,
+    "name": "Geraldino, Juc\u00e9li",
+    "finish_time": "01:32:40",
+    "finish_seconds": 5560
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 85,
+    "name": "Alves, Dayane",
+    "finish_time": "01:32:54",
+    "finish_seconds": 5574
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 87,
+    "name": "Oliveira, Karla",
+    "finish_time": "01:33:11",
+    "finish_seconds": 5591
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 89,
+    "name": "Augeraud, Virginie",
+    "finish_time": "01:33:59",
+    "finish_seconds": 5639
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 91,
+    "name": "Rincon, Danna",
+    "finish_time": "01:34:15",
+    "finish_seconds": 5655
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 93,
+    "name": "Missagia, Stephania",
+    "finish_time": "01:34:34",
+    "finish_seconds": 5674
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 95,
+    "name": "Santo, Lila",
+    "finish_time": "01:34:49",
+    "finish_seconds": 5689
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 97,
+    "name": "Pulido Pinzon, Nikol",
+    "finish_time": "01:35:21",
+    "finish_seconds": 5721
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 99,
+    "name": "Franco, Ana",
+    "finish_time": "01:35:41",
+    "finish_seconds": 5741
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 101,
+    "name": "Lima Cosenza De Carvalho, Beatriz",
+    "finish_time": "01:35:57",
+    "finish_seconds": 5757
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 103,
+    "name": "Portella, Elaine Cristina",
+    "finish_time": "01:36:04",
+    "finish_seconds": 5764
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 105,
+    "name": "Brierley, Lauren",
+    "finish_time": "01:36:46",
+    "finish_seconds": 5806
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 107,
+    "name": "Guimar\u00e3es, Rachel",
+    "finish_time": "01:37:19",
+    "finish_seconds": 5839
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 109,
+    "name": "Menigoz, Eva",
+    "finish_time": "01:37:50",
+    "finish_seconds": 5870
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 111,
+    "name": "Jim\u00e9nez, Andrea",
+    "finish_time": "01:38:11",
+    "finish_seconds": 5891
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 113,
+    "name": "Teotonio, Layla",
+    "finish_time": "01:38:36",
+    "finish_seconds": 5916
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 115,
+    "name": "Wieczorkiewicz, Kinga Zofia",
+    "finish_time": "01:38:47",
+    "finish_seconds": 5927
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 117,
+    "name": "Delamain Fernandez Olmos, Bruna",
+    "finish_time": "01:39:24",
+    "finish_seconds": 5964
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 119,
+    "name": "Barragan G\u00f3mez, Tania",
+    "finish_time": "01:39:39",
+    "finish_seconds": 5979
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 121,
+    "name": "Do Amaral, Juliana",
+    "finish_time": "01:40:54",
+    "finish_seconds": 6054
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 123,
+    "name": "Campolina, Monique",
+    "finish_time": "01:41:37",
+    "finish_seconds": 6097
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 125,
+    "name": "Denis, Cl\u00e9mence",
+    "finish_time": "01:41:58",
+    "finish_seconds": 6118
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 127,
+    "name": "Guerra, Janaina",
+    "finish_time": "01:42:15",
+    "finish_seconds": 6135
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 129,
+    "name": "Assen, Valentina",
+    "finish_time": "01:42:58",
+    "finish_seconds": 6178
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 131,
+    "name": "Gualhanone, Adriana",
+    "finish_time": "01:43:55",
+    "finish_seconds": 6235
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 133,
+    "name": "Alcaraz, Anninha",
+    "finish_time": "01:44:31",
+    "finish_seconds": 6271
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 135,
+    "name": "Almeida, Alana",
+    "finish_time": "01:46:26",
+    "finish_seconds": 6386
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 137,
+    "name": "Filino, Deborah",
+    "finish_time": "01:47:05",
+    "finish_seconds": 6425
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 139,
+    "name": "Lago, Carolina",
+    "finish_time": "01:47:33",
+    "finish_seconds": 6453
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 141,
+    "name": "Blaskovic, Javiera",
+    "finish_time": "01:47:49",
+    "finish_seconds": 6469
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 143,
+    "name": "Olivares, Carolina",
+    "finish_time": "01:47:55",
+    "finish_seconds": 6475
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 145,
+    "name": "Piccini, Andreia",
+    "finish_time": "01:48:47",
+    "finish_seconds": 6527
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 147,
+    "name": "Lima Barros Lichevski, Jennyfer",
+    "finish_time": "01:50:29",
+    "finish_seconds": 6629
+  },
+  {
+    "venue": "2025 Rio de Janeiro",
+    "gender": "W",
+    "rank": 149,
+    "name": "Herrera Ramirez, Wendy Katterine",
+    "finish_time": "01:51:21",
+    "finish_seconds": 6681
+  }
+]

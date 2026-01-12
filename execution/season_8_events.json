@@ -1,0 +1,252 @@
+[
+    {
+        "name": "2025 Anaheim",
+        "id": "H_LR3MS4JI11AC",
+        "event_group": "2025 Anaheim"
+    },
+    {
+        "name": "2025 Maastricht",
+        "id": "H_MAASTRICHT25_OVERALL",
+        "event_group": "2025 Maastricht"
+    },
+    {
+        "name": "2025 Stockholm",
+        "id": "H_ARN25_OVERALL",
+        "event_group": "2025 Stockholm"
+    },
+    {
+        "name": "2025 Shenzhen",
+        "id": "H_LR3MS4JI1223",
+        "event_group": "2025 Shenzhen"
+    },
+    {
+        "name": "2025 Vancouver",
+        "id": "H_LR3MS4JI120E",
+        "event_group": "2025 Vancouver"
+    },
+    {
+        "name": "2025 Frankfurt",
+        "id": "H_LR3MS4JIE8B",
+        "event_group": "2025 Frankfurt"
+    },
+    {
+        "name": "2025 Melbourne",
+        "id": "H_MEL25_OVERALL",
+        "event_group": "2025 Melbourne"
+    },
+    {
+        "name": "2025 Gent",
+        "id": "H_GNE25_OVERALL",
+        "event_group": "2025 Gent"
+    },
+    {
+        "name": "2025 Poznan",
+        "id": "H_LR3MS4JI11E7",
+        "event_group": "2025 Poznan"
+    },
+    {
+        "name": "2025 London Excel",
+        "id": "H_Excel25_OVERALL",
+        "event_group": "2025 London Excel"
+    },
+    {
+        "name": "2025 Verona",
+        "id": "H_Verona25_OVERALL",
+        "event_group": "2025 Verona"
+    },
+    {
+        "name": "2025 Johannesburg",
+        "id": "H_LR3MS4JI10BA",
+        "event_group": "2025 Johannesburg"
+    },
+    {
+        "name": "2025 Utrecht",
+        "id": "H_Utrecht2025_OVERALL",
+        "event_group": "2025 Utrecht"
+    },
+    {
+        "name": "2025 Madrid",
+        "id": "H_Madrid2025_OVERALL",
+        "event_group": "2025 Madrid",
+        "multi_day_split": {
+            "Saturday": "H_LR3MS4JI1006",
+            "Sunday": "H_LR3MS4JI101C",
+            "Friday": "H_LR3MS4JI101B",
+            "Thursday": "H_LR3MS4JI101A"
+        }
+    },
+    {
+        "name": "2025 Rio de Janeiro",
+        "id": "H_LR3MS4JI10CE",
+        "event_group": "2025 Rio de Janeiro"
+    },
+    {
+        "name": "2025 Singapore Expo",
+        "id": "H_LR3MS4JI1056",
+        "event_group": "2025 Singapore Expo"
+    },
+    {
+        "name": "2025 Bordeaux",
+        "id": "H_Bordeaux25_OVERALL",
+        "event_group": "2025 Bordeaux"
+    },
+    {
+        "name": "2025 Dallas",
+        "id": "H_LR3MS4JIF52",
+        "event_group": "2025 Dallas"
+    },
+    {
+        "name": "2025 Shanghai",
+        "id": "H_LR3MS4JIFA2",
+        "event_group": "2025 Shanghai"
+    },
+    {
+        "name": "2025 Chicago",
+        "id": "H_Chicago25_OVERALL",
+        "event_group": "2025 Chicago"
+    },
+    {
+        "name": "2025 Dublin",
+        "id": "H_Dublin25_OVERALL",
+        "event_group": "2025 Dublin"
+    },
+    {
+        "name": "2025 Mexico City",
+        "id": "H_MEX25_OVERALL",
+        "event_group": "2025 Mexico City",
+        "multi_day_split": {
+            "Friday": "H_LR3MS4JIF66",
+            "Saturday": "H_LR3MS4JIF67",
+            "Sunday": "H_LR3MS4JIF68"
+        }
+    },
+    {
+        "name": "2025 Seoul",
+        "id": "H_LR3MS4JIE3B",
+        "event_group": "2025 Seoul"
+    },
+    {
+        "name": "2025 Atlanta",
+        "id": "H_Atlanta25_OVERALL",
+        "event_group": "2025 Atlanta"
+    },
+    {
+        "name": "2025 Stuttgart",
+        "id": "H_Stuttgart25_OVERALL",
+        "event_group": "2025 Stuttgart"
+    },
+    {
+        "name": "2025 Paris",
+        "id": "H_PARIS25_OVERALL_2",
+        "event_group": "2025 Paris"
+    },
+    {
+        "name": "2025 Birmingham",
+        "id": "H_Birmingham_1025_OVERALL",
+        "event_group": "2025 Birmingham"
+    },
+    {
+        "name": "2025 Valencia",
+        "id": "H_VLC25_OVERALL",
+        "event_group": "2025 Valencia"
+    },
+    {
+        "name": "2025 Geneva",
+        "id": "H_LR3MS4JIDD6",
+        "event_group": "2025 Geneva"
+    },
+    {
+        "name": "2025 Gdansk",
+        "id": "H_LR3MS4JID4A",
+        "event_group": "2025 Gdansk"
+    },
+    {
+        "name": "2025 Hamburg",
+        "id": "H_Hamburg25_OVERALL",
+        "event_group": "2025 Hamburg"
+    },
+    {
+        "name": "2025 Toronto",
+        "id": "H_TORONTO25_OVERALL",
+        "event_group": "2025 Toronto"
+    },
+    {
+        "name": "2025 Boston",
+        "id": "H_BOSTON25_OVERALL",
+        "event_group": "2025 Boston",
+        "multi_day_split": {
+            "Saturday": "H_LR3MS4JICD4",
+            "Sunday": "H_LR3MS4JICD3"
+        }
+    },
+    {
+        "name": "2025 Oslo",
+        "id": "H_OSLO25_OVERALL",
+        "event_group": "2025 Oslo"
+    },
+    {
+        "name": "2025 Rome",
+        "id": "H_ROME25_OVERALL",
+        "event_group": "2025 Rome"
+    },
+    {
+        "name": "2025 Sao Paulo",
+        "id": "H_LR3MS4JIDAD",
+        "event_group": "2025 Sao Paulo"
+    },
+    {
+        "name": "2025 Acapulco",
+        "id": "H_LR3MS4JICFB",
+        "event_group": "2025 Acapulco"
+    },
+    {
+        "name": "2025 Mumbai",
+        "id": "H_LR3MS4JICE5",
+        "event_group": "2025 Mumbai"
+    },
+    {
+        "name": "2025 Perth",
+        "id": "H_PERTH25_OVERALL",
+        "event_group": "2025 Perth"
+    },
+    {
+        "name": "2025 Beijing",
+        "id": "H_LR3MS4JICA9",
+        "event_group": "2025 Beijing"
+    },
+    {
+        "name": "2025 Yokohama",
+        "id": "H_LR3MS4JICBD",
+        "event_group": "2025 Yokohama"
+    },
+    {
+        "name": "2025 Hong Kong",
+        "id": "H_LR3MS4JIC95",
+        "event_group": "2025 Hong Kong"
+    },
+    {
+        "name": "2025 Abu Dhabi",
+        "id": "H_LR3MS4JIC45",
+        "event_group": "2025 Abu Dhabi"
+    },
+    {
+        "name": "2025 Cape Town",
+        "id": "H_LR3MS4JIC31",
+        "event_group": "2025 Cape Town"
+    },
+    {
+        "name": "2025 Delhi",
+        "id": "H_LR3MS4JIC59",
+        "event_group": "2025 Delhi"
+    },
+    {
+        "name": "2025 Sydney",
+        "id": "H_LR3MS4JIBE2",
+        "event_group": "2025 Sydney"
+    },
+    {
+        "name": "2025 Singapore",
+        "id": "H_LR3MS4JIBB9",
+        "event_group": "2025 Singapore"
+    }
+]

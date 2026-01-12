@@ -1,0 +1,4138 @@
+[
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 1,
+    "name": "Martinez Ornelas, Mario Enrique",
+    "finish_time": "01:03:25",
+    "finish_seconds": 3805
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 2,
+    "name": "Carrillo Avila, Alan",
+    "finish_time": "01:03:46",
+    "finish_seconds": 3826
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 3,
+    "name": "Calder\u00f3n Trevi\u00f1o, Julio Cesar",
+    "finish_time": "01:04:11",
+    "finish_seconds": 3851
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 5,
+    "name": "Reyes S\u00e1nchez, Abisai",
+    "finish_time": "01:06:03",
+    "finish_seconds": 3963
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 7,
+    "name": "Bertone, Ruben Augusto",
+    "finish_time": "01:06:40",
+    "finish_seconds": 4000
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 9,
+    "name": "Roldan Campos, Fernando",
+    "finish_time": "01:07:06",
+    "finish_seconds": 4026
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 11,
+    "name": "Mata, Luis Manuel",
+    "finish_time": "01:07:24",
+    "finish_seconds": 4044
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 13,
+    "name": "Mendoza Olivares, Simon Ernesto",
+    "finish_time": "01:07:40",
+    "finish_seconds": 4060
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 15,
+    "name": "Aguilar Echevarr\u00eda, Leonardo",
+    "finish_time": "01:07:57",
+    "finish_seconds": 4077
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 17,
+    "name": "Valdez, Ivan Alejandro",
+    "finish_time": "01:08:22",
+    "finish_seconds": 4102
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 19,
+    "name": "Vega, Jose Ricardo",
+    "finish_time": "01:08:32",
+    "finish_seconds": 4112
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 21,
+    "name": "Martell Cardenas, Eugenio",
+    "finish_time": "01:08:53",
+    "finish_seconds": 4133
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 23,
+    "name": "Maldonado Barajas, Francisco",
+    "finish_time": "01:09:31",
+    "finish_seconds": 4171
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 25,
+    "name": "Gonzalez Gasca, Rogelio",
+    "finish_time": "01:09:58",
+    "finish_seconds": 4198
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 27,
+    "name": "Ledezma Escalante, Angel Jesus",
+    "finish_time": "01:10:49",
+    "finish_seconds": 4249
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 29,
+    "name": "Tellez, Tracopk",
+    "finish_time": "01:11:08",
+    "finish_seconds": 4268
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 31,
+    "name": "Medrano Novoa, Maximiliano",
+    "finish_time": "01:11:21",
+    "finish_seconds": 4281
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 33,
+    "name": "Maravilla, Jonathan",
+    "finish_time": "01:11:39",
+    "finish_seconds": 4299
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 35,
+    "name": "Olea L\u00f3pez, Jos\u00e9 Ren\u00e9",
+    "finish_time": "01:11:44",
+    "finish_seconds": 4304
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 37,
+    "name": "Ramirez, Felipe",
+    "finish_time": "01:11:49",
+    "finish_seconds": 4309
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 39,
+    "name": "Dorantes Ordaz, Marco Antonio",
+    "finish_time": "01:12:06",
+    "finish_seconds": 4326
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 41,
+    "name": "Belmessaoud, Smail",
+    "finish_time": "01:12:10",
+    "finish_seconds": 4330
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 43,
+    "name": "Pineda, Uriel",
+    "finish_time": "01:12:15",
+    "finish_seconds": 4335
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 45,
+    "name": "Vazquez, Adrian",
+    "finish_time": "01:12:50",
+    "finish_seconds": 4370
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 47,
+    "name": "Ortiz, Omar",
+    "finish_time": "01:13:07",
+    "finish_seconds": 4387
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 49,
+    "name": "Jimenez Cebrian, Hector Enrique",
+    "finish_time": "01:13:32",
+    "finish_seconds": 4412
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 51,
+    "name": "Molina Torralba, Luis Eduardo",
+    "finish_time": "01:13:35",
+    "finish_seconds": 4415
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 53,
+    "name": "Burguete Miranda, Jos\u00e9 Antonio",
+    "finish_time": "01:13:50",
+    "finish_seconds": 4430
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 55,
+    "name": "Campuzano Martinez, Diego Alexis",
+    "finish_time": "01:14:01",
+    "finish_seconds": 4441
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 57,
+    "name": "Diaz, Coach Crys",
+    "finish_time": "01:14:09",
+    "finish_seconds": 4449
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 59,
+    "name": "Cardenas Moreno, Julio Cesar",
+    "finish_time": "01:14:18",
+    "finish_seconds": 4458
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 61,
+    "name": "Escalera, Emmanuel",
+    "finish_time": "01:14:21",
+    "finish_seconds": 4461
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 63,
+    "name": "Luis Z\u00e1rate, V\u00edctor Hugo",
+    "finish_time": "01:14:30",
+    "finish_seconds": 4470
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 65,
+    "name": "Ayala, Alexis",
+    "finish_time": "01:14:32",
+    "finish_seconds": 4472
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 67,
+    "name": "Gonzalez, Jorge Irving",
+    "finish_time": "01:14:38",
+    "finish_seconds": 4478
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 69,
+    "name": "Cabada Flores, Miguel",
+    "finish_time": "01:14:51",
+    "finish_seconds": 4491
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 71,
+    "name": "Martinez Terrazas, Edwin",
+    "finish_time": "01:15:04",
+    "finish_seconds": 4504
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 73,
+    "name": "Aguilera Davila, Christian Eduardo",
+    "finish_time": "01:15:11",
+    "finish_seconds": 4511
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 75,
+    "name": "Villarreal, Shafic",
+    "finish_time": "01:15:30",
+    "finish_seconds": 4530
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 77,
+    "name": "Sanchez Ibanez, Abelardo",
+    "finish_time": "01:15:36",
+    "finish_seconds": 4536
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 79,
+    "name": "Mir\u00f3n, Francisco",
+    "finish_time": "01:15:48",
+    "finish_seconds": 4548
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 81,
+    "name": "Sanocki, Bartlomiej",
+    "finish_time": "01:15:49",
+    "finish_seconds": 4549
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 83,
+    "name": "Uribe B, Adrian",
+    "finish_time": "01:16:07",
+    "finish_seconds": 4567
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 85,
+    "name": "Gonzalez, Mauricio",
+    "finish_time": "01:16:08",
+    "finish_seconds": 4568
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 87,
+    "name": "G\u00f3mez Zuluaga, Fernando Alonso",
+    "finish_time": "01:16:13",
+    "finish_seconds": 4573
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 89,
+    "name": "Colin, Allan",
+    "finish_time": "01:16:21",
+    "finish_seconds": 4581
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 91,
+    "name": "Coy, Eric",
+    "finish_time": "01:16:26",
+    "finish_seconds": 4586
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 93,
+    "name": "Maldonado Aguilar, Raul German",
+    "finish_time": "01:16:42",
+    "finish_seconds": 4602
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 95,
+    "name": "Sanchez, Enrique",
+    "finish_time": "01:16:52",
+    "finish_seconds": 4612
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 97,
+    "name": "Poblacion Alarcon, Sebastian",
+    "finish_time": "01:16:57",
+    "finish_seconds": 4617
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 99,
+    "name": "Carreon Gutierrez, Ricardo Diego",
+    "finish_time": "01:16:58",
+    "finish_seconds": 4618
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 101,
+    "name": "P\u00e9rez Estrada, Jos\u00e9 Luis",
+    "finish_time": "01:17:03",
+    "finish_seconds": 4623
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 103,
+    "name": "Diaz Cruz, Jose Manuel",
+    "finish_time": "01:17:03",
+    "finish_seconds": 4623
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 105,
+    "name": "Torres M\u00e1rquez, H\u00e9ctor Jaasiel",
+    "finish_time": "01:17:13",
+    "finish_seconds": 4633
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 107,
+    "name": "Orozco Maldonado, Gonzalo Javier",
+    "finish_time": "01:17:16",
+    "finish_seconds": 4636
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 109,
+    "name": "Leon, Alfonso",
+    "finish_time": "01:17:24",
+    "finish_seconds": 4644
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 111,
+    "name": "Gallardo Torres, Mauricio",
+    "finish_time": "01:17:31",
+    "finish_seconds": 4651
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 113,
+    "name": "Alvarado Ca\u00f1izares, Arturo",
+    "finish_time": "01:17:37",
+    "finish_seconds": 4657
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 115,
+    "name": "Karam Rodriguez, Luis Angel Fernando",
+    "finish_time": "01:17:41",
+    "finish_seconds": 4661
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 117,
+    "name": "Cuautle Coyotl, Alexis",
+    "finish_time": "01:17:46",
+    "finish_seconds": 4666
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 119,
+    "name": "Qui\u00f1onez Castro, Jose Pablo",
+    "finish_time": "01:18:01",
+    "finish_seconds": 4681
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 121,
+    "name": "Rodriguez, Sebastian",
+    "finish_time": "01:18:07",
+    "finish_seconds": 4687
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 123,
+    "name": "Guzman, Javier Andre",
+    "finish_time": "01:18:21",
+    "finish_seconds": 4701
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 125,
+    "name": "Gutierrez Hernandez, Alejandro",
+    "finish_time": "01:18:33",
+    "finish_seconds": 4713
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 127,
+    "name": "Madrigal Romero, Carlos Sebastian",
+    "finish_time": "01:18:34",
+    "finish_seconds": 4714
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 129,
+    "name": "Pe\u00f1a, Miguel",
+    "finish_time": "01:18:37",
+    "finish_seconds": 4717
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 131,
+    "name": "Mendez, Daniel",
+    "finish_time": "01:18:39",
+    "finish_seconds": 4719
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 133,
+    "name": "Guti\u00e9rrez Sola, Manuel",
+    "finish_time": "01:18:53",
+    "finish_seconds": 4733
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 135,
+    "name": "Lopez Aguilera, Emmanuel",
+    "finish_time": "01:18:59",
+    "finish_seconds": 4739
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 137,
+    "name": "S\u00e1mano Vald\u00e9s, Luis Carlos",
+    "finish_time": "01:19:04",
+    "finish_seconds": 4744
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 139,
+    "name": "M\u00e9ndez, Eyder",
+    "finish_time": "01:19:07",
+    "finish_seconds": 4747
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 141,
+    "name": "Davila Marquez, Arturo",
+    "finish_time": "01:19:25",
+    "finish_seconds": 4765
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 143,
+    "name": "Castro Fragoso, Roberto",
+    "finish_time": "01:19:38",
+    "finish_seconds": 4778
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 145,
+    "name": "Portilla, C\u00e9sar",
+    "finish_time": "01:19:38",
+    "finish_seconds": 4778
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 147,
+    "name": "De La Rosa, Rafael",
+    "finish_time": "01:19:42",
+    "finish_seconds": 4782
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 149,
+    "name": "Saenz, Diego",
+    "finish_time": "01:19:46",
+    "finish_seconds": 4786
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 151,
+    "name": "Leyva, Alberto",
+    "finish_time": "01:20:17",
+    "finish_seconds": 4817
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 153,
+    "name": "Ayala Mondrag\u00f3n, Erick Daniel",
+    "finish_time": "01:20:21",
+    "finish_seconds": 4821
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 155,
+    "name": "Estrada Vega, Eduardo",
+    "finish_time": "01:20:27",
+    "finish_seconds": 4827
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 157,
+    "name": "Rodriguez Ramirez, Javier Eduardo",
+    "finish_time": "01:20:41",
+    "finish_seconds": 4841
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 159,
+    "name": "Mendoza Brise\u00f1o, Juan Carlos",
+    "finish_time": "01:20:49",
+    "finish_seconds": 4849
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 161,
+    "name": "Ch\u00e1vez, Carlos E.",
+    "finish_time": "01:20:56",
+    "finish_seconds": 4856
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 163,
+    "name": "Aragon, Oscar",
+    "finish_time": "01:21:05",
+    "finish_seconds": 4865
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 165,
+    "name": "Jimenez Jaramillo, Luis Felipe",
+    "finish_time": "01:21:14",
+    "finish_seconds": 4874
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 167,
+    "name": "Chavez Rivera, Francisco Javier",
+    "finish_time": "01:21:29",
+    "finish_seconds": 4889
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 169,
+    "name": "Vazquez Scala, Agustin",
+    "finish_time": "01:21:36",
+    "finish_seconds": 4896
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 171,
+    "name": "Gallardo Lobato, Rub\u00e9n",
+    "finish_time": "01:21:49",
+    "finish_seconds": 4909
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 173,
+    "name": "De La Cruz, Alberto",
+    "finish_time": "01:22:01",
+    "finish_seconds": 4921
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 175,
+    "name": "Ancona Arriola, Bryan Alexis",
+    "finish_time": "01:22:05",
+    "finish_seconds": 4925
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 177,
+    "name": "Garcia, Jesus",
+    "finish_time": "01:22:06",
+    "finish_seconds": 4926
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 179,
+    "name": "Medina, H\u00e9ctor",
+    "finish_time": "01:22:16",
+    "finish_seconds": 4936
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 181,
+    "name": "Gonzalez Velasco, Moises Jonathan",
+    "finish_time": "01:22:25",
+    "finish_seconds": 4945
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 183,
+    "name": "Cerda, Pablo",
+    "finish_time": "01:22:28",
+    "finish_seconds": 4948
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 185,
+    "name": "Ortiz, Arturo",
+    "finish_time": "01:22:32",
+    "finish_seconds": 4952
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 187,
+    "name": "Medrano Mej\u00eda, Aldo Fernando",
+    "finish_time": "01:22:34",
+    "finish_seconds": 4954
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 189,
+    "name": "Morales, Gerardo",
+    "finish_time": "01:22:43",
+    "finish_seconds": 4963
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 191,
+    "name": "Ramo Alarcon, Franco",
+    "finish_time": "01:22:52",
+    "finish_seconds": 4972
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 193,
+    "name": "G\u00f3mez, Alfonso",
+    "finish_time": "01:23:07",
+    "finish_seconds": 4987
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 195,
+    "name": "Bernal Moreno, Jos\u00e9 Carlos",
+    "finish_time": "01:23:22",
+    "finish_seconds": 5002
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 197,
+    "name": "Toro, Chava",
+    "finish_time": "01:23:22",
+    "finish_seconds": 5002
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 199,
+    "name": "Leon Palomino, Victor",
+    "finish_time": "01:23:30",
+    "finish_seconds": 5010
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 201,
+    "name": "S\u00e1nchez Miguel, Enrique",
+    "finish_time": "01:23:34",
+    "finish_seconds": 5014
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 203,
+    "name": "Chepe Campuzano, Jos\u00e9 Angel",
+    "finish_time": "01:23:42",
+    "finish_seconds": 5022
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 205,
+    "name": "Santos Balderas, Luis",
+    "finish_time": "01:23:47",
+    "finish_seconds": 5027
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 207,
+    "name": "Gallardo Torres, Erick",
+    "finish_time": "01:23:51",
+    "finish_seconds": 5031
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 209,
+    "name": "Morin, David Mathieu Michel",
+    "finish_time": "01:24:01",
+    "finish_seconds": 5041
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 211,
+    "name": "Ruzansky, Benjamin",
+    "finish_time": "01:24:02",
+    "finish_seconds": 5042
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 213,
+    "name": "Alvarado Casarreal, Alejandro",
+    "finish_time": "01:24:17",
+    "finish_seconds": 5057
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 215,
+    "name": "Torres Rendon, Daniel",
+    "finish_time": "01:24:21",
+    "finish_seconds": 5061
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 217,
+    "name": "Moran, Hector",
+    "finish_time": "01:24:37",
+    "finish_seconds": 5077
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 219,
+    "name": "Ricardez Flota, Jos\u00e9 Roberto",
+    "finish_time": "01:24:38",
+    "finish_seconds": 5078
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 221,
+    "name": "Ram\u00edrez Reynoso, Antonio",
+    "finish_time": "01:24:40",
+    "finish_seconds": 5080
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 223,
+    "name": "Mendoza Elizalde, Marco Antonio",
+    "finish_time": "01:24:44",
+    "finish_seconds": 5084
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 225,
+    "name": "Moran Castanedo, Manuel",
+    "finish_time": "01:24:51",
+    "finish_seconds": 5091
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 227,
+    "name": "Huerta Merino, Jose Juan",
+    "finish_time": "01:25:04",
+    "finish_seconds": 5104
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 229,
+    "name": "Dur\u00e1n Pe\u00f1a, Orlando",
+    "finish_time": "01:25:05",
+    "finish_seconds": 5105
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 231,
+    "name": "L\u00f3pez Chavira, Jos\u00e9 Alonso",
+    "finish_time": "01:25:15",
+    "finish_seconds": 5115
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 233,
+    "name": "Ch\u00e1vez Becerril, Alejandro",
+    "finish_time": "01:25:19",
+    "finish_seconds": 5119
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 235,
+    "name": "Garrido, C\u00e9sar",
+    "finish_time": "01:25:20",
+    "finish_seconds": 5120
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 237,
+    "name": "Garcia Arias, Luis Alberto",
+    "finish_time": "01:25:37",
+    "finish_seconds": 5137
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 239,
+    "name": "Carrillo V\u00e1zquez, Rodrigo",
+    "finish_time": "01:25:43",
+    "finish_seconds": 5143
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 241,
+    "name": "Mengual, Daniel",
+    "finish_time": "01:25:58",
+    "finish_seconds": 5158
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 243,
+    "name": "Ortiz Abrego, Juan Carlos",
+    "finish_time": "01:26:06",
+    "finish_seconds": 5166
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 245,
+    "name": "Cabello Lima, Alfonso",
+    "finish_time": "01:26:08",
+    "finish_seconds": 5168
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 247,
+    "name": "Maldonado, Jorge",
+    "finish_time": "01:26:23",
+    "finish_seconds": 5183
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 249,
+    "name": "Franco Munguia, Manuel",
+    "finish_time": "01:26:30",
+    "finish_seconds": 5190
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 251,
+    "name": "Ordu\u00f1a S\u00e1nchez Henkel, Luis",
+    "finish_time": "01:26:33",
+    "finish_seconds": 5193
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 253,
+    "name": "Betancourt, Asdruval",
+    "finish_time": "01:26:38",
+    "finish_seconds": 5198
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 255,
+    "name": "Torres P\u00e9rez, Pablo",
+    "finish_time": "01:26:48",
+    "finish_seconds": 5208
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 257,
+    "name": "Morales Moreno, Gustavo Daniel",
+    "finish_time": "01:26:51",
+    "finish_seconds": 5211
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 259,
+    "name": "Garc\u00eda Haghenbeck, Pedro Pascual",
+    "finish_time": "01:26:59",
+    "finish_seconds": 5219
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 261,
+    "name": "Ayala, Manuel",
+    "finish_time": "01:27:02",
+    "finish_seconds": 5222
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 263,
+    "name": "Rodriguez, Ricardo",
+    "finish_time": "01:27:08",
+    "finish_seconds": 5228
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 265,
+    "name": "Perez, Ricardo",
+    "finish_time": "01:27:25",
+    "finish_seconds": 5245
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 267,
+    "name": "Ruiz Zavala, Javier Maximiliano",
+    "finish_time": "01:27:28",
+    "finish_seconds": 5248
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 269,
+    "name": "Guerrero, Omar",
+    "finish_time": "01:27:43",
+    "finish_seconds": 5263
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 271,
+    "name": "Andrade, Ernesto",
+    "finish_time": "01:27:44",
+    "finish_seconds": 5264
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 273,
+    "name": "Kuri, Jorge",
+    "finish_time": "01:27:47",
+    "finish_seconds": 5267
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 275,
+    "name": "Hernandez Valdes, Samuel",
+    "finish_time": "01:27:59",
+    "finish_seconds": 5279
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 277,
+    "name": "Martinez, Dj",
+    "finish_time": "01:28:01",
+    "finish_seconds": 5281
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 279,
+    "name": "Carpio Guzman, Jose Alejandro",
+    "finish_time": "01:28:17",
+    "finish_seconds": 5297
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 281,
+    "name": "Ram\u00edrez Romero, Gabriel",
+    "finish_time": "01:28:24",
+    "finish_seconds": 5304
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 283,
+    "name": "Gonz\u00e1lez Gonz\u00e1lez, Alfredo",
+    "finish_time": "01:28:28",
+    "finish_seconds": 5308
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 285,
+    "name": "Vazquez, Jahir",
+    "finish_time": "01:28:32",
+    "finish_seconds": 5312
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 287,
+    "name": "Diaz Elizarraras, Alan Alberto",
+    "finish_time": "01:28:35",
+    "finish_seconds": 5315
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 289,
+    "name": "Marron Guerrero, Geovanni",
+    "finish_time": "01:28:39",
+    "finish_seconds": 5319
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 291,
+    "name": "Palacios Perez, Kevin",
+    "finish_time": "01:28:44",
+    "finish_seconds": 5324
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 293,
+    "name": "Gurrutia Orozco, Marco Jesus",
+    "finish_time": "01:28:49",
+    "finish_seconds": 5329
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 295,
+    "name": "Aguilar, Daniel",
+    "finish_time": "01:29:10",
+    "finish_seconds": 5350
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 297,
+    "name": "Le\u00f3n Moreno, Adri\u00e1n",
+    "finish_time": "01:29:13",
+    "finish_seconds": 5353
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 299,
+    "name": "Vennard, Aaron",
+    "finish_time": "01:29:16",
+    "finish_seconds": 5356
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 301,
+    "name": "Arizmendi P\u00e9rez, Alejandro",
+    "finish_time": "01:29:22",
+    "finish_seconds": 5362
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 303,
+    "name": "Pedraza Cardona, Juan Jos\u00e9",
+    "finish_time": "01:29:29",
+    "finish_seconds": 5369
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 305,
+    "name": "Cisneroos, Pepe",
+    "finish_time": "01:29:42",
+    "finish_seconds": 5382
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 307,
+    "name": "Ch\u00e1vez Nava, Edgar Eduardo",
+    "finish_time": "01:30:01",
+    "finish_seconds": 5401
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 309,
+    "name": "Mendez, Luis Miguel",
+    "finish_time": "01:30:05",
+    "finish_seconds": 5405
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 311,
+    "name": "Quintero, Ivan",
+    "finish_time": "01:30:06",
+    "finish_seconds": 5406
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 313,
+    "name": "Rojas Jim\u00e9nez, Sergio",
+    "finish_time": "01:30:10",
+    "finish_seconds": 5410
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 315,
+    "name": "Losereit, Dennis",
+    "finish_time": "01:30:14",
+    "finish_seconds": 5414
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 317,
+    "name": "Alvar Cruz, Javier David",
+    "finish_time": "01:30:28",
+    "finish_seconds": 5428
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 319,
+    "name": "Madariaga, Ram\u00f3n",
+    "finish_time": "01:30:34",
+    "finish_seconds": 5434
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 321,
+    "name": "Figueroa, Fred",
+    "finish_time": "01:30:37",
+    "finish_seconds": 5437
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 323,
+    "name": "Garcia Santillan, Jorge",
+    "finish_time": "01:30:46",
+    "finish_seconds": 5446
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 325,
+    "name": "P\u00e9rez Estrada, Fernando",
+    "finish_time": "01:30:47",
+    "finish_seconds": 5447
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 327,
+    "name": "Benitez Montenegro, Luis Eduardo",
+    "finish_time": "01:30:50",
+    "finish_seconds": 5450
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 329,
+    "name": "Ruano, Ruben",
+    "finish_time": "01:30:54",
+    "finish_seconds": 5454
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 331,
+    "name": "Borja Osnaya, Eduardo",
+    "finish_time": "01:30:56",
+    "finish_seconds": 5456
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 333,
+    "name": "Vazquez, Jaime",
+    "finish_time": "01:31:00",
+    "finish_seconds": 5460
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 335,
+    "name": "Manautou, Rafael",
+    "finish_time": "01:31:05",
+    "finish_seconds": 5465
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 337,
+    "name": "Bryanton, Matt",
+    "finish_time": "01:31:08",
+    "finish_seconds": 5468
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 339,
+    "name": "Gomez, Obed",
+    "finish_time": "01:31:15",
+    "finish_seconds": 5475
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 341,
+    "name": "Molina, Christopher",
+    "finish_time": "01:31:16",
+    "finish_seconds": 5476
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 343,
+    "name": "Mendoza Dawe, Allan",
+    "finish_time": "01:31:25",
+    "finish_seconds": 5485
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 345,
+    "name": "Salgado, Rene",
+    "finish_time": "01:31:33",
+    "finish_seconds": 5493
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 347,
+    "name": "Patlan Kawakami, Alejandro Kohji",
+    "finish_time": "01:31:34",
+    "finish_seconds": 5494
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 349,
+    "name": "Cesar, Juan Carlos",
+    "finish_time": "01:31:39",
+    "finish_seconds": 5499
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 351,
+    "name": "Rosales Mejia, Francisco Ivan",
+    "finish_time": "01:31:40",
+    "finish_seconds": 5500
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 353,
+    "name": "Mar\u00edn De La Rosa, Diego Ren\u00e9",
+    "finish_time": "01:31:51",
+    "finish_seconds": 5511
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 355,
+    "name": "Palacios Garcia, Alejandro",
+    "finish_time": "01:31:55",
+    "finish_seconds": 5515
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 357,
+    "name": "Talamantes Ollivier, Carlos",
+    "finish_time": "01:32:01",
+    "finish_seconds": 5521
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 359,
+    "name": "Maldonado Gonz\u00e1lez, Fernando",
+    "finish_time": "01:32:11",
+    "finish_seconds": 5531
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 361,
+    "name": "Gallegos Vel\u00e1zquez, Luis Ernesto",
+    "finish_time": "01:32:17",
+    "finish_seconds": 5537
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 363,
+    "name": "Ontiveros Rodr\u00edguez, Pedro",
+    "finish_time": "01:32:24",
+    "finish_seconds": 5544
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 365,
+    "name": "Zu\u00f1iga Jim\u00e9nez, Marco Josai",
+    "finish_time": "01:32:31",
+    "finish_seconds": 5551
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 367,
+    "name": "Camacho Amaro, Brayan Eduardo",
+    "finish_time": "01:32:37",
+    "finish_seconds": 5557
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 369,
+    "name": "Gonzalez, Rodrigo",
+    "finish_time": "01:32:50",
+    "finish_seconds": 5570
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 371,
+    "name": "Diaz Patena, Miguel Angel",
+    "finish_time": "01:32:59",
+    "finish_seconds": 5579
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 373,
+    "name": "Vera, Paco",
+    "finish_time": "01:33:07",
+    "finish_seconds": 5587
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 375,
+    "name": "Sacal, Zeev",
+    "finish_time": "01:33:11",
+    "finish_seconds": 5591
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 377,
+    "name": "Ayala Gomez, Carlos Eduardo",
+    "finish_time": "01:33:14",
+    "finish_seconds": 5594
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 379,
+    "name": "Banda Colin, Leonardo Rodrigo",
+    "finish_time": "01:33:18",
+    "finish_seconds": 5598
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 381,
+    "name": "Navarro Tapia, Armando",
+    "finish_time": "01:33:23",
+    "finish_seconds": 5603
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 383,
+    "name": "Lobaton, Charles",
+    "finish_time": "01:33:31",
+    "finish_seconds": 5611
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 385,
+    "name": "Esparza Leos, Luis Enrique",
+    "finish_time": "01:33:39",
+    "finish_seconds": 5619
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 387,
+    "name": "Jonas, David",
+    "finish_time": "01:33:43",
+    "finish_seconds": 5623
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 389,
+    "name": "Salomon Bermudez, Miguel Angel",
+    "finish_time": "01:33:44",
+    "finish_seconds": 5624
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 391,
+    "name": "Flores S\u00e1nchez, Sergio Luis",
+    "finish_time": "01:33:58",
+    "finish_seconds": 5638
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 393,
+    "name": "Smith Garcia De Leon, Alan",
+    "finish_time": "01:34:01",
+    "finish_seconds": 5641
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 395,
+    "name": "Mel\u00e9ndez L\u00f3pez, H\u00e9ctor Iv\u00e1n",
+    "finish_time": "01:34:08",
+    "finish_seconds": 5648
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 397,
+    "name": "Calder\u00f3n D\u00edaz, Edgar Lazaro",
+    "finish_time": "01:34:19",
+    "finish_seconds": 5659
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 399,
+    "name": "Aguirre Espinoza, Gerardo Javier",
+    "finish_time": "01:34:23",
+    "finish_seconds": 5663
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 401,
+    "name": "Polanco Pedraza, Ricardo",
+    "finish_time": "01:34:26",
+    "finish_seconds": 5666
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 403,
+    "name": "Delgado Pardo, Juan Santiago",
+    "finish_time": "01:34:26",
+    "finish_seconds": 5666
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 405,
+    "name": "Medina Matos, Oscar",
+    "finish_time": "01:34:30",
+    "finish_seconds": 5670
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 407,
+    "name": "Esquivel, Jesus",
+    "finish_time": "01:34:35",
+    "finish_seconds": 5675
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 409,
+    "name": "Gaminde, Ricardo",
+    "finish_time": "01:34:38",
+    "finish_seconds": 5678
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 411,
+    "name": "Garc\u00eda Hern\u00e1ndez, Alfonso",
+    "finish_time": "01:34:57",
+    "finish_seconds": 5697
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 413,
+    "name": "Vera Castillo, Victor",
+    "finish_time": "01:35:03",
+    "finish_seconds": 5703
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 415,
+    "name": "Marin Camilo, Erick",
+    "finish_time": "01:35:03",
+    "finish_seconds": 5703
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 417,
+    "name": "Vega P\u00e9rez, Heriberto",
+    "finish_time": "01:35:10",
+    "finish_seconds": 5710
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 419,
+    "name": "San Martin, Matias",
+    "finish_time": "01:35:17",
+    "finish_seconds": 5717
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 421,
+    "name": "Pacheco, Sergio",
+    "finish_time": "01:35:20",
+    "finish_seconds": 5720
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 423,
+    "name": "Aparicio, Jalil",
+    "finish_time": "01:35:33",
+    "finish_seconds": 5733
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 425,
+    "name": "Islas, Juan Carlos",
+    "finish_time": "01:35:40",
+    "finish_seconds": 5740
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 427,
+    "name": "Torres Ortega, Oscar Alfredo",
+    "finish_time": "01:35:51",
+    "finish_seconds": 5751
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 429,
+    "name": "Villa, Daniel",
+    "finish_time": "01:35:55",
+    "finish_seconds": 5755
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 431,
+    "name": "Alcocer Alvarado, Enrique",
+    "finish_time": "01:36:02",
+    "finish_seconds": 5762
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 433,
+    "name": "Ram\u00edrez Vergara, Homero Alan",
+    "finish_time": "01:36:11",
+    "finish_seconds": 5771
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 435,
+    "name": "Zamora Narv\u00e1ez, Rodrigo Guadalupe",
+    "finish_time": "01:36:15",
+    "finish_seconds": 5775
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 437,
+    "name": "Santander Garc\u00eda, Sergio Daniel",
+    "finish_time": "01:36:25",
+    "finish_seconds": 5785
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 439,
+    "name": "Septien Stute, Luis Albrecht",
+    "finish_time": "01:36:33",
+    "finish_seconds": 5793
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 441,
+    "name": "Medina Rangel, Jorge",
+    "finish_time": "01:36:36",
+    "finish_seconds": 5796
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 443,
+    "name": "Carrillo, Oscar",
+    "finish_time": "01:36:52",
+    "finish_seconds": 5812
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 445,
+    "name": "Garc\u00eda Diosdado, Alexis",
+    "finish_time": "01:36:54",
+    "finish_seconds": 5814
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 447,
+    "name": "Vera Vega, Carlos Sebastian",
+    "finish_time": "01:37:04",
+    "finish_seconds": 5824
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 449,
+    "name": "Barrera, Luis",
+    "finish_time": "01:37:09",
+    "finish_seconds": 5829
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 451,
+    "name": "Bernal, Erik",
+    "finish_time": "01:37:14",
+    "finish_seconds": 5834
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 453,
+    "name": "Vega, Sergio",
+    "finish_time": "01:37:17",
+    "finish_seconds": 5837
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 455,
+    "name": "Terrones Ocampo, David Uriel",
+    "finish_time": "01:37:20",
+    "finish_seconds": 5840
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 457,
+    "name": "Reyes, Rodrigo",
+    "finish_time": "01:37:26",
+    "finish_seconds": 5846
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 459,
+    "name": "Gonzalez, Penwin",
+    "finish_time": "01:37:29",
+    "finish_seconds": 5849
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 461,
+    "name": "Flores Gonzalez, Leonard",
+    "finish_time": "01:37:29",
+    "finish_seconds": 5849
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 463,
+    "name": "Carmona, Martin",
+    "finish_time": "01:37:44",
+    "finish_seconds": 5864
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 465,
+    "name": "Lorenzo Ortiz, Carlos Javier",
+    "finish_time": "01:37:52",
+    "finish_seconds": 5872
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 467,
+    "name": "Aguilar Hern\u00e1ndez, Josu\u00e9 Saul",
+    "finish_time": "01:37:54",
+    "finish_seconds": 5874
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 469,
+    "name": "Odriozola, Mauricio",
+    "finish_time": "01:37:57",
+    "finish_seconds": 5877
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 471,
+    "name": "Paredes, Eduardo",
+    "finish_time": "01:38:03",
+    "finish_seconds": 5883
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 473,
+    "name": "Gaspar Valenzuela, Felipe",
+    "finish_time": "01:38:07",
+    "finish_seconds": 5887
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 475,
+    "name": "Moreno Millan, Eduardo Samir",
+    "finish_time": "01:38:09",
+    "finish_seconds": 5889
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 477,
+    "name": "Carbajal, Raul",
+    "finish_time": "01:38:21",
+    "finish_seconds": 5901
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 479,
+    "name": "Camero, Luis",
+    "finish_time": "01:38:28",
+    "finish_seconds": 5908
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 481,
+    "name": "Bandala, Joaquin",
+    "finish_time": "01:38:35",
+    "finish_seconds": 5915
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 483,
+    "name": "Peniche Iba\u00f1ez, Alejandro",
+    "finish_time": "01:38:39",
+    "finish_seconds": 5919
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 485,
+    "name": "Chavarria, Hugo",
+    "finish_time": "01:38:45",
+    "finish_seconds": 5925
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 487,
+    "name": "D\u00edaz Infante Velasco, Saul",
+    "finish_time": "01:38:57",
+    "finish_seconds": 5937
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 489,
+    "name": "Lima, Sebastian",
+    "finish_time": "01:39:06",
+    "finish_seconds": 5946
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 491,
+    "name": "Nevarez, Juan",
+    "finish_time": "01:39:10",
+    "finish_seconds": 5950
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 493,
+    "name": "Torres, Luis",
+    "finish_time": "01:39:21",
+    "finish_seconds": 5961
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 495,
+    "name": "Pi\u00f1a, Rub\u00e9n",
+    "finish_time": "01:39:30",
+    "finish_seconds": 5970
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 497,
+    "name": "Razo Urbina, Osvaldo",
+    "finish_time": "01:39:43",
+    "finish_seconds": 5983
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 499,
+    "name": "Sotelo Paredes, Carlos",
+    "finish_time": "01:39:53",
+    "finish_seconds": 5993
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 501,
+    "name": "Diaz Franco, Ulises Emmanuel",
+    "finish_time": "01:39:56",
+    "finish_seconds": 5996
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 503,
+    "name": "Hern\u00e1ndez Dominguez, Juan Manuel",
+    "finish_time": "01:39:58",
+    "finish_seconds": 5998
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 505,
+    "name": "Vel\u00e1zquez Guzm\u00e1n, Jos\u00e9 Antonio",
+    "finish_time": "01:40:06",
+    "finish_seconds": 6006
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 507,
+    "name": "Duarte, Jorge",
+    "finish_time": "01:40:12",
+    "finish_seconds": 6012
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 509,
+    "name": "Fern\u00e1ndez, Martin",
+    "finish_time": "01:40:24",
+    "finish_seconds": 6024
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 511,
+    "name": "Cuervo Jim\u00e9nez, Ra\u00fal Iv\u00e1n",
+    "finish_time": "01:40:29",
+    "finish_seconds": 6029
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 513,
+    "name": "Montero Paredes, Rodrigo",
+    "finish_time": "01:40:34",
+    "finish_seconds": 6034
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 515,
+    "name": "Rodriguez Paredes, Omar Arturo",
+    "finish_time": "01:40:36",
+    "finish_seconds": 6036
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 517,
+    "name": "S\u00e1nchez Figueroa, Oswaldo Israel",
+    "finish_time": "01:40:42",
+    "finish_seconds": 6042
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 519,
+    "name": "Bastida, Emiliano",
+    "finish_time": "01:40:47",
+    "finish_seconds": 6047
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 521,
+    "name": "Corral, Ivan",
+    "finish_time": "01:41:01",
+    "finish_seconds": 6061
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 523,
+    "name": "Ch\u00e1vez Estrada, Ra\u00fal",
+    "finish_time": "01:41:16",
+    "finish_seconds": 6076
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 525,
+    "name": "Hoil, Miguel",
+    "finish_time": "01:41:26",
+    "finish_seconds": 6086
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 527,
+    "name": "P\u00e9rez, Emilio",
+    "finish_time": "01:41:30",
+    "finish_seconds": 6090
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 529,
+    "name": "Rodarte, Jorge Arturo",
+    "finish_time": "01:41:34",
+    "finish_seconds": 6094
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 531,
+    "name": "Ibarra Flores, Rigoberto",
+    "finish_time": "01:41:41",
+    "finish_seconds": 6101
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 533,
+    "name": "Gutierrez Maga\u00f1a, Arturo",
+    "finish_time": "01:41:46",
+    "finish_seconds": 6106
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 535,
+    "name": "Catalan Flores, Rodrigo",
+    "finish_time": "01:42:08",
+    "finish_seconds": 6128
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 537,
+    "name": "Garc\u00eda Garcia, Antonio Israel",
+    "finish_time": "01:42:25",
+    "finish_seconds": 6145
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 539,
+    "name": "Hernandez, Yubai",
+    "finish_time": "01:42:36",
+    "finish_seconds": 6156
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 541,
+    "name": "Ortiz Saldivar, Imanol Alejandro",
+    "finish_time": "01:42:44",
+    "finish_seconds": 6164
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 543,
+    "name": "Escalera, Miguel \u00c1ngel",
+    "finish_time": "01:42:55",
+    "finish_seconds": 6175
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 545,
+    "name": "Pacheco Infante, Alejandro",
+    "finish_time": "01:42:58",
+    "finish_seconds": 6178
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 547,
+    "name": "Turquie Arredondo, Raul",
+    "finish_time": "01:43:05",
+    "finish_seconds": 6185
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 549,
+    "name": "Cruz, Esteban",
+    "finish_time": "01:43:07",
+    "finish_seconds": 6187
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 551,
+    "name": "Lopez Rivas, Mauricio Maximiliano",
+    "finish_time": "01:43:55",
+    "finish_seconds": 6235
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 553,
+    "name": "Espejo Torres, Luis Fernando",
+    "finish_time": "01:43:59",
+    "finish_seconds": 6239
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 555,
+    "name": "Ram\u00edrez Merino, Jorge Uriel",
+    "finish_time": "01:43:59",
+    "finish_seconds": 6239
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 557,
+    "name": "Barrag\u00e1n Loera, Luis Diego",
+    "finish_time": "01:44:03",
+    "finish_seconds": 6243
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 559,
+    "name": "Renteria Guzm\u00e1n, Julio C\u00e9sar",
+    "finish_time": "01:44:09",
+    "finish_seconds": 6249
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 561,
+    "name": "Solorzano Mendoza, Alfredo Adrian",
+    "finish_time": "01:44:25",
+    "finish_seconds": 6265
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 563,
+    "name": "Hern\u00e1ndez Dom\u00ednguez, Daniel",
+    "finish_time": "01:44:33",
+    "finish_seconds": 6273
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 565,
+    "name": "Montalvo, Mauro",
+    "finish_time": "01:44:36",
+    "finish_seconds": 6276
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 567,
+    "name": "Mendoza Herrera, Carlos Enrique",
+    "finish_time": "01:44:47",
+    "finish_seconds": 6287
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 569,
+    "name": "Mu\u00f1oz, Diego",
+    "finish_time": "01:44:50",
+    "finish_seconds": 6290
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 571,
+    "name": "Cruz Galicia, Luis",
+    "finish_time": "01:44:56",
+    "finish_seconds": 6296
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 573,
+    "name": "Alaman, Sebastian",
+    "finish_time": "01:45:00",
+    "finish_seconds": 6300
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 575,
+    "name": "Mu\u00f1iz, Fernando",
+    "finish_time": "01:45:24",
+    "finish_seconds": 6324
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 577,
+    "name": "Velasquez Borbolla, Carlos Mateo",
+    "finish_time": "01:45:28",
+    "finish_seconds": 6328
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 579,
+    "name": "Ortiz Rosey\u00f3n, Antonio",
+    "finish_time": "01:45:37",
+    "finish_seconds": 6337
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 581,
+    "name": "Gomez, Valdemar",
+    "finish_time": "01:45:48",
+    "finish_seconds": 6348
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 583,
+    "name": "Pe\u00f1a Alonso, Jos\u00e9 Leonardo",
+    "finish_time": "01:45:49",
+    "finish_seconds": 6349
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 585,
+    "name": "Lozano Velasco, Ricardo",
+    "finish_time": "01:45:51",
+    "finish_seconds": 6351
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 587,
+    "name": "Hern\u00e1ndez Soto, Omar",
+    "finish_time": "01:45:55",
+    "finish_seconds": 6355
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 589,
+    "name": "Salinas, Diego Omar",
+    "finish_time": "01:45:58",
+    "finish_seconds": 6358
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 591,
+    "name": "Castillo Guti\u00e9rrez, Jos\u00e9 Rub\u00e9n",
+    "finish_time": "01:46:02",
+    "finish_seconds": 6362
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 593,
+    "name": "L\u00f3pez Aguilar, Erick Xavier",
+    "finish_time": "01:46:06",
+    "finish_seconds": 6366
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 595,
+    "name": "De La Cruz Tovar, Victor Hugo",
+    "finish_time": "01:46:08",
+    "finish_seconds": 6368
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 597,
+    "name": "Lozano Trevi\u00f1o, Ra\u00fal Francisco",
+    "finish_time": "01:46:33",
+    "finish_seconds": 6393
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 599,
+    "name": "Bastida Aguilar, Valentin",
+    "finish_time": "01:46:44",
+    "finish_seconds": 6404
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 601,
+    "name": "Jaime Lavalle, Jose Manuel",
+    "finish_time": "01:47:02",
+    "finish_seconds": 6422
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 603,
+    "name": "Bonifaz, Carlos",
+    "finish_time": "01:47:06",
+    "finish_seconds": 6426
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 605,
+    "name": "Rebolledo Palestina, Jes\u00fas Alberto",
+    "finish_time": "01:47:13",
+    "finish_seconds": 6433
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 607,
+    "name": "Ocampo, Mario",
+    "finish_time": "01:47:17",
+    "finish_seconds": 6437
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 609,
+    "name": "Trejo Cort\u00e9s, Eric Daniel",
+    "finish_time": "01:47:18",
+    "finish_seconds": 6438
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 611,
+    "name": "Escobedo, Wolfgang",
+    "finish_time": "01:47:22",
+    "finish_seconds": 6442
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 613,
+    "name": "Anizar, Cesar",
+    "finish_time": "01:47:29",
+    "finish_seconds": 6449
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 615,
+    "name": "Fernandez, Mauro",
+    "finish_time": "01:47:39",
+    "finish_seconds": 6459
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 617,
+    "name": "Fuentes, Armando",
+    "finish_time": "01:47:44",
+    "finish_seconds": 6464
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 619,
+    "name": "V\u00e9jar Oviedo, Jersson P\u00e1ris",
+    "finish_time": "01:47:51",
+    "finish_seconds": 6471
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 621,
+    "name": "Molina Bojalil, Emiliano",
+    "finish_time": "01:48:05",
+    "finish_seconds": 6485
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 623,
+    "name": "Naime Gil, H\u00e9ctor Yamil",
+    "finish_time": "01:48:13",
+    "finish_seconds": 6493
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 625,
+    "name": "G\u00f3mez Olan, Jonas",
+    "finish_time": "01:48:20",
+    "finish_seconds": 6500
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 627,
+    "name": "Reyes Figueroa, Roberto Carlos",
+    "finish_time": "01:48:33",
+    "finish_seconds": 6513
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 629,
+    "name": "Mendoza Pineda, Gabriel Alejandro",
+    "finish_time": "01:48:42",
+    "finish_seconds": 6522
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 631,
+    "name": "Valle Diaz, Alejandro",
+    "finish_time": "01:48:46",
+    "finish_seconds": 6526
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 633,
+    "name": "Navarro Tirado, Marco Gael",
+    "finish_time": "01:48:52",
+    "finish_seconds": 6532
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 635,
+    "name": "Mart\u00ednez Rivera, Edwin Eder",
+    "finish_time": "01:48:57",
+    "finish_seconds": 6537
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 637,
+    "name": "Esquivel, Gabriel",
+    "finish_time": "01:49:06",
+    "finish_seconds": 6546
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 639,
+    "name": "Vega Carmona, Jos\u00e9 Mario",
+    "finish_time": "01:49:18",
+    "finish_seconds": 6558
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 641,
+    "name": "Kladiano, Dionisio",
+    "finish_time": "01:49:23",
+    "finish_seconds": 6563
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 643,
+    "name": "Vel\u00e1zquez, Javier",
+    "finish_time": "01:49:28",
+    "finish_seconds": 6568
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 645,
+    "name": "Campilllo Barranco, Leonardo",
+    "finish_time": "01:49:34",
+    "finish_seconds": 6574
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 647,
+    "name": "Nuncio, Raul",
+    "finish_time": "01:49:45",
+    "finish_seconds": 6585
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 649,
+    "name": "Fuentes, Abraham",
+    "finish_time": "01:50:02",
+    "finish_seconds": 6602
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 651,
+    "name": "Torres Hinojosa, Jorge Juan",
+    "finish_time": "01:50:16",
+    "finish_seconds": 6616
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 653,
+    "name": "Haro Rodriguez, Armando",
+    "finish_time": "01:50:44",
+    "finish_seconds": 6644
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 655,
+    "name": "Mac Salvatierra, Migue Alejandro",
+    "finish_time": "01:51:02",
+    "finish_seconds": 6662
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 657,
+    "name": "Castillo Bola\u00f1os, Francisco Roberto",
+    "finish_time": "01:51:09",
+    "finish_seconds": 6669
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 659,
+    "name": "Flores Leyva, Salvador",
+    "finish_time": "01:51:18",
+    "finish_seconds": 6678
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 661,
+    "name": "Nunez Reyes, Guillermo",
+    "finish_time": "01:51:24",
+    "finish_seconds": 6684
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 663,
+    "name": "Estrada Esquivel, Jhonatan",
+    "finish_time": "01:51:33",
+    "finish_seconds": 6693
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 665,
+    "name": "Vinalay, Jardel",
+    "finish_time": "01:51:40",
+    "finish_seconds": 6700
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 667,
+    "name": "L\u00f3pez Escamilla, Luis Alberto",
+    "finish_time": "01:51:46",
+    "finish_seconds": 6706
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 669,
+    "name": "Zarco, Alejandro",
+    "finish_time": "01:51:57",
+    "finish_seconds": 6717
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 671,
+    "name": "GARCIA ROSELLO, FEDERICO",
+    "finish_time": "01:52:12",
+    "finish_seconds": 6732
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 673,
+    "name": "Reyna Nava, Leopoldo",
+    "finish_time": "01:52:14",
+    "finish_seconds": 6734
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 675,
+    "name": "Rodriguez Herrera, Josue",
+    "finish_time": "01:52:21",
+    "finish_seconds": 6741
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 677,
+    "name": "Soriano Salgado, Raymundo",
+    "finish_time": "01:52:28",
+    "finish_seconds": 6748
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 679,
+    "name": "Mcelvanna, Damien",
+    "finish_time": "01:52:36",
+    "finish_seconds": 6756
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 681,
+    "name": "Garc\u00eda Huerta, Josep",
+    "finish_time": "01:52:57",
+    "finish_seconds": 6777
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 683,
+    "name": "Valdez Moreno, Ramiro",
+    "finish_time": "01:53:05",
+    "finish_seconds": 6785
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 685,
+    "name": "Maya, Kevin",
+    "finish_time": "01:53:17",
+    "finish_seconds": 6797
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 687,
+    "name": "Rodriguez Degante, Daniel",
+    "finish_time": "01:53:32",
+    "finish_seconds": 6812
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 689,
+    "name": "Ortiz Olvera, Pedro",
+    "finish_time": "01:53:42",
+    "finish_seconds": 6822
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 691,
+    "name": "Araiza Alvarez, Mario",
+    "finish_time": "01:53:51",
+    "finish_seconds": 6831
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 693,
+    "name": "Espinosa, Eduardo",
+    "finish_time": "01:53:57",
+    "finish_seconds": 6837
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 695,
+    "name": "Del Angel Butron, Erick",
+    "finish_time": "01:54:15",
+    "finish_seconds": 6855
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 697,
+    "name": "De La O Hern\u00e1ndez, Adri\u00e1n Ricardo",
+    "finish_time": "01:54:18",
+    "finish_seconds": 6858
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 699,
+    "name": "Robredo Galindo, Alfonso",
+    "finish_time": "01:54:27",
+    "finish_seconds": 6867
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 701,
+    "name": "Gonzalez Santos, Juan Jose",
+    "finish_time": "01:54:29",
+    "finish_seconds": 6869
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 703,
+    "name": "L\u00f3pez Cruz, Diego",
+    "finish_time": "01:54:53",
+    "finish_seconds": 6893
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 705,
+    "name": "Perez Diaz, Edgar",
+    "finish_time": "01:55:03",
+    "finish_seconds": 6903
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 707,
+    "name": "Morones, Diego",
+    "finish_time": "01:55:11",
+    "finish_seconds": 6911
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 709,
+    "name": "Veladiz Guzm\u00e1n, Fausto Heriberto",
+    "finish_time": "01:55:25",
+    "finish_seconds": 6925
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 711,
+    "name": "L\u00f3pez Cortez, Aar\u00f3n Antonio",
+    "finish_time": "01:55:42",
+    "finish_seconds": 6942
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "M",
+    "rank": 713,
+    "name": "Delgado Castillo, Jose Luis",
+    "finish_time": "01:55:53",
+    "finish_seconds": 6953
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 1,
+    "name": "Medina, Maria",
+    "finish_time": "01:06:32",
+    "finish_seconds": 3992
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 3,
+    "name": "Barajas Perez, Fatima Mariana",
+    "finish_time": "01:08:58",
+    "finish_seconds": 4138
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 5,
+    "name": "Sendra, Paloma",
+    "finish_time": "01:11:57",
+    "finish_seconds": 4317
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 7,
+    "name": "Rodriguez, Katelyn",
+    "finish_time": "01:12:34",
+    "finish_seconds": 4354
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 9,
+    "name": "Corral, Renata",
+    "finish_time": "01:13:04",
+    "finish_seconds": 4384
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 11,
+    "name": "Mussali, Daniela",
+    "finish_time": "01:13:47",
+    "finish_seconds": 4427
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 13,
+    "name": "Meza, Regina",
+    "finish_time": "01:13:51",
+    "finish_seconds": 4431
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 15,
+    "name": "Esquivel, Alma",
+    "finish_time": "01:15:58",
+    "finish_seconds": 4558
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 17,
+    "name": "Go Rom\u00e1n, Karen",
+    "finish_time": "01:16:21",
+    "finish_seconds": 4581
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 19,
+    "name": "Diaz, Regina",
+    "finish_time": "01:17:20",
+    "finish_seconds": 4640
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 21,
+    "name": "Castillo, Rosa",
+    "finish_time": "01:17:44",
+    "finish_seconds": 4664
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 23,
+    "name": "Aguirre, Daniela",
+    "finish_time": "01:18:26",
+    "finish_seconds": 4706
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 25,
+    "name": "Sierra Garza, Sara Gabriela",
+    "finish_time": "01:18:34",
+    "finish_seconds": 4714
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 27,
+    "name": "Robles Paez, Loren Marian",
+    "finish_time": "01:19:13",
+    "finish_seconds": 4753
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 29,
+    "name": "Mena G\u00f3ngora, Mariana Andrea",
+    "finish_time": "01:19:36",
+    "finish_seconds": 4776
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 31,
+    "name": "Hern\u00e1ndez Avila, Xcaret",
+    "finish_time": "01:19:58",
+    "finish_seconds": 4798
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 33,
+    "name": "Maro\u00f1o L\u00f3pez, Claudia",
+    "finish_time": "01:20:15",
+    "finish_seconds": 4815
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 35,
+    "name": "S\u00e1nchez Sandoval, Montserrat Guadalupe",
+    "finish_time": "01:20:26",
+    "finish_seconds": 4826
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 37,
+    "name": "Blankenship Vera, Cindy Angelica",
+    "finish_time": "01:21:06",
+    "finish_seconds": 4866
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 39,
+    "name": "Cer\u00f3n, Sandra",
+    "finish_time": "01:21:19",
+    "finish_seconds": 4879
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 41,
+    "name": "Montalvo, Rosa",
+    "finish_time": "01:21:41",
+    "finish_seconds": 4901
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 43,
+    "name": "M\u00e9ndez De Alba, Alma Andrea",
+    "finish_time": "01:22:05",
+    "finish_seconds": 4925
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 45,
+    "name": "Echeverria Ascencio, Emilia",
+    "finish_time": "01:22:20",
+    "finish_seconds": 4940
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 47,
+    "name": "Gamboa, Mar\u00eda Alejandra",
+    "finish_time": "01:22:49",
+    "finish_seconds": 4969
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 49,
+    "name": "Jacinto, Dafne",
+    "finish_time": "01:23:44",
+    "finish_seconds": 5024
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 51,
+    "name": "Flores, Shai Patricia",
+    "finish_time": "01:24:01",
+    "finish_seconds": 5041
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 53,
+    "name": "Mendoza P\u00e9rez, Paulina",
+    "finish_time": "01:24:08",
+    "finish_seconds": 5048
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 55,
+    "name": "L\u00f3pez Diazianfante, Mariajose",
+    "finish_time": "01:24:36",
+    "finish_seconds": 5076
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 57,
+    "name": "Carmona, Kenya",
+    "finish_time": "01:24:47",
+    "finish_seconds": 5087
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 59,
+    "name": "Solis, Ana Cristina",
+    "finish_time": "01:25:03",
+    "finish_seconds": 5103
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 61,
+    "name": "Valenciano Gardu\u00f1o, Paola",
+    "finish_time": "01:25:11",
+    "finish_seconds": 5111
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 63,
+    "name": "Garcia Valverde, Sofia",
+    "finish_time": "01:25:21",
+    "finish_seconds": 5121
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 65,
+    "name": "Bastida Ramirez, Priscila Aimme",
+    "finish_time": "01:25:25",
+    "finish_seconds": 5125
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 67,
+    "name": "Mancilla, Laura",
+    "finish_time": "01:25:37",
+    "finish_seconds": 5137
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 69,
+    "name": "Marquez, Diana",
+    "finish_time": "01:25:41",
+    "finish_seconds": 5141
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 71,
+    "name": "Benabib, Karen",
+    "finish_time": "01:25:51",
+    "finish_seconds": 5151
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 73,
+    "name": "Fibela, Ximena",
+    "finish_time": "01:25:58",
+    "finish_seconds": 5158
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 75,
+    "name": "Rodriguez Garza, Mariana",
+    "finish_time": "01:26:12",
+    "finish_seconds": 5172
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 77,
+    "name": "Alc\u00e1zar Moragrega, Paloma",
+    "finish_time": "01:26:19",
+    "finish_seconds": 5179
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 79,
+    "name": "Meneses Diaz, Julieta Ximena",
+    "finish_time": "01:26:25",
+    "finish_seconds": 5185
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 81,
+    "name": "Galicia, Laura",
+    "finish_time": "01:26:44",
+    "finish_seconds": 5204
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 83,
+    "name": "Rosales, Jazmin",
+    "finish_time": "01:26:45",
+    "finish_seconds": 5205
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 85,
+    "name": "Hinojosa Del Rio, Perla Jazmin",
+    "finish_time": "01:26:52",
+    "finish_seconds": 5212
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 87,
+    "name": "Victoria Velazquez, Diana",
+    "finish_time": "01:27:10",
+    "finish_seconds": 5230
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 89,
+    "name": "Olivares, Anaid",
+    "finish_time": "01:27:25",
+    "finish_seconds": 5245
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 91,
+    "name": "Rodriguez Pineda, Miriam Itzel",
+    "finish_time": "01:27:37",
+    "finish_seconds": 5257
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 93,
+    "name": "Negron, Michelle",
+    "finish_time": "01:27:57",
+    "finish_seconds": 5277
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 95,
+    "name": "Duarte Tapia, Miriam",
+    "finish_time": "01:28:13",
+    "finish_seconds": 5293
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 97,
+    "name": "Trinidad Cortez, Gisela",
+    "finish_time": "01:28:22",
+    "finish_seconds": 5302
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 99,
+    "name": "\u00c1lvarez Fernandez, Beatriz",
+    "finish_time": "01:28:27",
+    "finish_seconds": 5307
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 101,
+    "name": "Gonzalez, Araceli Guadalupe",
+    "finish_time": "01:28:30",
+    "finish_seconds": 5310
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 103,
+    "name": "Galeana, Dorothy",
+    "finish_time": "01:28:57",
+    "finish_seconds": 5337
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 105,
+    "name": "Bernal Sanchez, Rocio",
+    "finish_time": "01:29:10",
+    "finish_seconds": 5350
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 107,
+    "name": "Brito, Yanely",
+    "finish_time": "01:29:21",
+    "finish_seconds": 5361
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 109,
+    "name": "Barrientos Alfaro, Eunice",
+    "finish_time": "01:29:28",
+    "finish_seconds": 5368
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 111,
+    "name": "Soto S\u00e1nchez, Diana Camila",
+    "finish_time": "01:29:43",
+    "finish_seconds": 5383
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 113,
+    "name": "Galvan Talamantes, Yazmin",
+    "finish_time": "01:30:17",
+    "finish_seconds": 5417
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 115,
+    "name": "Medina Cisneros, Doryan Ailen",
+    "finish_time": "01:30:21",
+    "finish_seconds": 5421
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 117,
+    "name": "Cruz Ortiz, Mar\u00eda Susana",
+    "finish_time": "01:30:24",
+    "finish_seconds": 5424
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 119,
+    "name": "Garc\u00eda Galeana, Zuleyma De Jes\u00fas",
+    "finish_time": "01:30:32",
+    "finish_seconds": 5432
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 121,
+    "name": "Guzman, Estephanie",
+    "finish_time": "01:30:39",
+    "finish_seconds": 5439
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 123,
+    "name": "Salones Morales, Sara",
+    "finish_time": "01:30:41",
+    "finish_seconds": 5441
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 125,
+    "name": "Diez, Maria",
+    "finish_time": "01:30:46",
+    "finish_seconds": 5446
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 127,
+    "name": "G\u00f3mez Gonz\u00e1lez, Cecilia",
+    "finish_time": "01:31:01",
+    "finish_seconds": 5461
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 129,
+    "name": "Frias, Martha",
+    "finish_time": "01:31:21",
+    "finish_seconds": 5481
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 131,
+    "name": "Ochoa, Camila",
+    "finish_time": "01:31:28",
+    "finish_seconds": 5488
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 133,
+    "name": "Sanchez Cabrera, Karina",
+    "finish_time": "01:31:44",
+    "finish_seconds": 5504
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 135,
+    "name": "Cabrera Galar, Melissa",
+    "finish_time": "01:31:45",
+    "finish_seconds": 5505
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 137,
+    "name": "Campos Grzybowski, Florencia Simone",
+    "finish_time": "01:31:50",
+    "finish_seconds": 5510
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 139,
+    "name": "Lechuga, Fernanda",
+    "finish_time": "01:31:57",
+    "finish_seconds": 5517
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 141,
+    "name": "Santos Martinez, Natalia",
+    "finish_time": "01:32:13",
+    "finish_seconds": 5533
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 143,
+    "name": "S\u00e1nchez Chong, Diana Laura",
+    "finish_time": "01:32:18",
+    "finish_seconds": 5538
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 145,
+    "name": "Montes Mart\u00ednez, Gisela",
+    "finish_time": "01:32:25",
+    "finish_seconds": 5545
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 147,
+    "name": "Acevedo, Monserrat",
+    "finish_time": "01:32:38",
+    "finish_seconds": 5558
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 149,
+    "name": "Jimenez, Rubi",
+    "finish_time": "01:32:53",
+    "finish_seconds": 5573
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 150,
+    "name": "Minjares Cota, Elsa Maria",
+    "finish_time": "01:32:55",
+    "finish_seconds": 5575
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 153,
+    "name": "Gonz\u00e1lez Villanueva, Paola",
+    "finish_time": "01:33:00",
+    "finish_seconds": 5580
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 155,
+    "name": "Perez Diaz, Claudia Gabriela",
+    "finish_time": "01:33:07",
+    "finish_seconds": 5587
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 157,
+    "name": "Abarca Godinez, Diana Maria",
+    "finish_time": "01:33:35",
+    "finish_seconds": 5615
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 159,
+    "name": "Lahogue, Solen",
+    "finish_time": "01:33:42",
+    "finish_seconds": 5622
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 161,
+    "name": "Duran Martinez, Pastora Sol",
+    "finish_time": "01:34:07",
+    "finish_seconds": 5647
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 163,
+    "name": "Garcia Verduzco, Yahaira",
+    "finish_time": "01:34:19",
+    "finish_seconds": 5659
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 165,
+    "name": "Salas Olvera, Maria Fernanda",
+    "finish_time": "01:34:28",
+    "finish_seconds": 5668
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 167,
+    "name": "L\u00f3pez Perales, Laura Patricia",
+    "finish_time": "01:34:34",
+    "finish_seconds": 5674
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 169,
+    "name": "Duran, Jazmin",
+    "finish_time": "01:35:05",
+    "finish_seconds": 5705
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 171,
+    "name": "Montiel Rodriguez, Melanie",
+    "finish_time": "01:35:17",
+    "finish_seconds": 5717
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 173,
+    "name": "Macip, Rosse Scarlette",
+    "finish_time": "01:35:30",
+    "finish_seconds": 5730
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 175,
+    "name": "Fabian Rodriguez, Daniela",
+    "finish_time": "01:35:46",
+    "finish_seconds": 5746
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 177,
+    "name": "Mu\u00f1oz Fernandez, Aurora",
+    "finish_time": "01:35:52",
+    "finish_seconds": 5752
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 179,
+    "name": "Ayup, Ana Cristina",
+    "finish_time": "01:35:56",
+    "finish_seconds": 5756
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 181,
+    "name": "Reyes, Karla",
+    "finish_time": "01:36:03",
+    "finish_seconds": 5763
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 183,
+    "name": "Medina, Sahory",
+    "finish_time": "01:36:10",
+    "finish_seconds": 5770
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 185,
+    "name": "Castillo Delgado, Luz Elizabeth",
+    "finish_time": "01:36:25",
+    "finish_seconds": 5785
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 187,
+    "name": "Miranda Favela, Mariana",
+    "finish_time": "01:36:32",
+    "finish_seconds": 5792
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 189,
+    "name": "Garc\u00eda Mendoza, Montserrat",
+    "finish_time": "01:36:36",
+    "finish_seconds": 5796
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 191,
+    "name": "Bastida Esquivel, Lorena",
+    "finish_time": "01:36:41",
+    "finish_seconds": 5801
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 193,
+    "name": "Paredes, Sof\u00eda",
+    "finish_time": "01:37:06",
+    "finish_seconds": 5826
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 195,
+    "name": "Amaya, Lucia",
+    "finish_time": "01:37:21",
+    "finish_seconds": 5841
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 197,
+    "name": "Gonzalez Alavez, Ivette Tibizay",
+    "finish_time": "01:37:36",
+    "finish_seconds": 5856
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 199,
+    "name": "Garc\u00eda, Carmen",
+    "finish_time": "01:37:40",
+    "finish_seconds": 5860
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 201,
+    "name": "Rivera Colin, Shirley",
+    "finish_time": "01:37:49",
+    "finish_seconds": 5869
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 203,
+    "name": "Hern\u00e1ndez Tapia, Aranza",
+    "finish_time": "01:37:56",
+    "finish_seconds": 5876
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 205,
+    "name": "Santiago Salas, Viridiana",
+    "finish_time": "01:38:22",
+    "finish_seconds": 5902
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 207,
+    "name": "Olguin Jim\u00e9nez, Daniela",
+    "finish_time": "01:38:25",
+    "finish_seconds": 5905
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 209,
+    "name": "Mandujano S\u00e1nchez, Miriam",
+    "finish_time": "01:38:29",
+    "finish_seconds": 5909
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 211,
+    "name": "Torres Leal, Marcela",
+    "finish_time": "01:38:40",
+    "finish_seconds": 5920
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 213,
+    "name": "Ju\u00e1rez V\u00e1squez, Maria De Lourdes",
+    "finish_time": "01:38:50",
+    "finish_seconds": 5930
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 215,
+    "name": "Benzon Alejandri, Karla Romyna",
+    "finish_time": "01:39:01",
+    "finish_seconds": 5941
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 217,
+    "name": "Del Pozo Aguilar, Mariana",
+    "finish_time": "01:39:12",
+    "finish_seconds": 5952
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 219,
+    "name": "Brindiz, Itzel",
+    "finish_time": "01:39:16",
+    "finish_seconds": 5956
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 221,
+    "name": "Maciel Valencia, Lucila Fernanda",
+    "finish_time": "01:39:27",
+    "finish_seconds": 5967
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 223,
+    "name": "Gonz\u00e1lez Reyna, Rosa Ivette",
+    "finish_time": "01:39:52",
+    "finish_seconds": 5992
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 225,
+    "name": "Espinosa Hernandez, Itzel Mercedes",
+    "finish_time": "01:39:59",
+    "finish_seconds": 5999
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 227,
+    "name": "Campos Bahena, Hannah Gabriela",
+    "finish_time": "01:40:11",
+    "finish_seconds": 6011
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 229,
+    "name": "Maga\u00f1a Zaragoza, Nayeli Jacqueline",
+    "finish_time": "01:40:12",
+    "finish_seconds": 6012
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 231,
+    "name": "Maga\u00f1a D\u00edaz, Miroslava",
+    "finish_time": "01:40:23",
+    "finish_seconds": 6023
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 233,
+    "name": "Sanchez Gonzalez, Karina",
+    "finish_time": "01:41:02",
+    "finish_seconds": 6062
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 235,
+    "name": "Acosta Dajui, Luz Mar\u00eda",
+    "finish_time": "01:41:18",
+    "finish_seconds": 6078
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 237,
+    "name": "Aparicio Alvarado, Mariel",
+    "finish_time": "01:41:27",
+    "finish_seconds": 6087
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 239,
+    "name": "Gonz\u00e1lez Perez, Yoshelin",
+    "finish_time": "01:41:47",
+    "finish_seconds": 6107
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 241,
+    "name": "Del Valle Martinez, Marian",
+    "finish_time": "01:42:12",
+    "finish_seconds": 6132
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 243,
+    "name": "Lutzow Lopez, Aimee",
+    "finish_time": "01:42:17",
+    "finish_seconds": 6137
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 245,
+    "name": "Rosas Garcia, Ana",
+    "finish_time": "01:42:24",
+    "finish_seconds": 6144
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 247,
+    "name": "Asencion Ramirez, Neftali",
+    "finish_time": "01:42:32",
+    "finish_seconds": 6152
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 249,
+    "name": "Carrillo Hernandez, Norma Berenice",
+    "finish_time": "01:42:40",
+    "finish_seconds": 6160
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 251,
+    "name": "Garc\u00eda Rangel, Isis Yael",
+    "finish_time": "01:42:52",
+    "finish_seconds": 6172
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 253,
+    "name": "Carrasco Melendez, Martha Patricia",
+    "finish_time": "01:43:08",
+    "finish_seconds": 6188
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 256,
+    "name": "Anaya, Alin",
+    "finish_time": "01:43:25",
+    "finish_seconds": 6205
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 258,
+    "name": "Cardenas, Valeria",
+    "finish_time": "01:43:40",
+    "finish_seconds": 6220
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 260,
+    "name": "Marquez Gonzalez, Monica Priscilla",
+    "finish_time": "01:43:48",
+    "finish_seconds": 6228
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 262,
+    "name": "Escobedo Barroso, Ericka Mariana",
+    "finish_time": "01:44:15",
+    "finish_seconds": 6255
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 264,
+    "name": "Mendoza, Rosa",
+    "finish_time": "01:44:29",
+    "finish_seconds": 6269
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 266,
+    "name": "Trejo Zu\u00f1iga, Isidra Ver\u00f3nica",
+    "finish_time": "01:44:51",
+    "finish_seconds": 6291
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 268,
+    "name": "Rivera Romo, Ana Laura",
+    "finish_time": "01:44:55",
+    "finish_seconds": 6295
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 270,
+    "name": "Castillo, Karyme",
+    "finish_time": "01:45:33",
+    "finish_seconds": 6333
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 272,
+    "name": "Guti\u00e9rrez Acevedo, Naxhielli",
+    "finish_time": "01:45:50",
+    "finish_seconds": 6350
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 274,
+    "name": "Mendoza, Elizabeth",
+    "finish_time": "01:45:55",
+    "finish_seconds": 6355
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 276,
+    "name": "Fern\u00e1ndez D\u00edaz, Gabriela A",
+    "finish_time": "01:46:01",
+    "finish_seconds": 6361
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 278,
+    "name": "Rivero Campos, Ma. Del Jes\u00fas Jasmin",
+    "finish_time": "01:46:31",
+    "finish_seconds": 6391
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 280,
+    "name": "Miranda Gonzalez, Dulce Azucena",
+    "finish_time": "01:46:35",
+    "finish_seconds": 6395
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 282,
+    "name": "Lozano Soriano, Claudia Ivonne",
+    "finish_time": "01:47:15",
+    "finish_seconds": 6435
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 284,
+    "name": "Andrade, Lendaly",
+    "finish_time": "01:47:29",
+    "finish_seconds": 6449
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 286,
+    "name": "Martinez, Elizabeth",
+    "finish_time": "01:47:39",
+    "finish_seconds": 6459
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 288,
+    "name": "Moran Diaz, Angelica",
+    "finish_time": "01:48:12",
+    "finish_seconds": 6492
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 290,
+    "name": "Ram\u00edrez, Amsi",
+    "finish_time": "01:48:26",
+    "finish_seconds": 6506
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 292,
+    "name": "Dami\u00e1n Garc\u00eda, Karen",
+    "finish_time": "01:48:52",
+    "finish_seconds": 6532
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 294,
+    "name": "Luna Hern\u00e1ndez, Gris",
+    "finish_time": "01:49:01",
+    "finish_seconds": 6541
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 296,
+    "name": "Castillo Flores, Elizabeth",
+    "finish_time": "01:49:13",
+    "finish_seconds": 6553
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 298,
+    "name": "Pineda Perez, Laura",
+    "finish_time": "01:49:30",
+    "finish_seconds": 6570
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 300,
+    "name": "Vargas, Arantza",
+    "finish_time": "01:49:46",
+    "finish_seconds": 6586
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 302,
+    "name": "Valadez Rivera, Alejandra",
+    "finish_time": "01:50:43",
+    "finish_seconds": 6643
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 304,
+    "name": "Gonzalez Del Valle, Nicole",
+    "finish_time": "01:51:17",
+    "finish_seconds": 6677
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 306,
+    "name": "Gascon Martinez, Alejandra",
+    "finish_time": "01:51:30",
+    "finish_seconds": 6690
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 308,
+    "name": "Romero Hinojosa, Diana Lizeth",
+    "finish_time": "01:52:01",
+    "finish_seconds": 6721
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 310,
+    "name": "S\u00e1nchez, Gabriela",
+    "finish_time": "01:52:24",
+    "finish_seconds": 6744
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 312,
+    "name": "Ibarra, Jeniffer",
+    "finish_time": "01:52:45",
+    "finish_seconds": 6765
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 314,
+    "name": "Huppenkothen, Vanessa",
+    "finish_time": "01:53:04",
+    "finish_seconds": 6784
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 316,
+    "name": "Brambilla Santiago, Valeria",
+    "finish_time": "01:53:22",
+    "finish_seconds": 6802
+  },
+  {
+    "venue": "2025 Acapulco",
+    "gender": "W",
+    "rank": 318,
+    "name": "Losoya, Carolina",
+    "finish_time": "01:53:30",
+    "finish_seconds": 6810
+  }
+]

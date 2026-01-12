@@ -1,0 +1,3858 @@
+[
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 1,
+    "name": "Schoonbee, Kyle",
+    "finish_time": "01:00:22",
+    "finish_seconds": 3622
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 2,
+    "name": "Riviere, Maryan",
+    "finish_time": "01:06:01",
+    "finish_seconds": 3961
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 4,
+    "name": "Swanepoel, Liam",
+    "finish_time": "01:09:13",
+    "finish_seconds": 4153
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 6,
+    "name": "Juma, Wilfred",
+    "finish_time": "01:11:45",
+    "finish_seconds": 4305
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 8,
+    "name": "Herbst, Dirk",
+    "finish_time": "01:11:59",
+    "finish_seconds": 4319
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 10,
+    "name": "Kalinin, Andrey",
+    "finish_time": "01:12:13",
+    "finish_seconds": 4333
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 12,
+    "name": "Silver, Aston",
+    "finish_time": "01:12:47",
+    "finish_seconds": 4367
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 14,
+    "name": "Arries, Hillary",
+    "finish_time": "01:13:06",
+    "finish_seconds": 4386
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 16,
+    "name": "Mkhwanazi, Bongani",
+    "finish_time": "01:13:31",
+    "finish_seconds": 4411
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 18,
+    "name": "Bunce, Dean",
+    "finish_time": "01:14:10",
+    "finish_seconds": 4450
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 20,
+    "name": "Mathiane, Katlego",
+    "finish_time": "01:14:12",
+    "finish_seconds": 4452
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 22,
+    "name": "Usher, Myles",
+    "finish_time": "01:14:32",
+    "finish_seconds": 4472
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 24,
+    "name": "Van Der Westhuizen, Ruan",
+    "finish_time": "01:15:16",
+    "finish_seconds": 4516
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 26,
+    "name": "Mchunu, Cebolenkosi",
+    "finish_time": "01:15:31",
+    "finish_seconds": 4531
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 28,
+    "name": "Young, Robert",
+    "finish_time": "01:16:02",
+    "finish_seconds": 4562
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 30,
+    "name": "Pinheiro, Marcio",
+    "finish_time": "01:16:13",
+    "finish_seconds": 4573
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 32,
+    "name": "human-reto, Llewellyn",
+    "finish_time": "01:16:42",
+    "finish_seconds": 4602
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 34,
+    "name": "Hickling, Ewan",
+    "finish_time": "01:16:55",
+    "finish_seconds": 4615
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 36,
+    "name": "Swart, Matt",
+    "finish_time": "01:17:13",
+    "finish_seconds": 4633
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 38,
+    "name": "Love, Bradley",
+    "finish_time": "01:17:27",
+    "finish_seconds": 4647
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 40,
+    "name": "Smythe, Patrick",
+    "finish_time": "01:17:46",
+    "finish_seconds": 4666
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 42,
+    "name": "Fernandes, Jean-Claude",
+    "finish_time": "01:17:53",
+    "finish_seconds": 4673
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 44,
+    "name": "Stapelberg, Daniel",
+    "finish_time": "01:18:08",
+    "finish_seconds": 4688
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 46,
+    "name": "Herbert, Kane",
+    "finish_time": "01:18:13",
+    "finish_seconds": 4693
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 48,
+    "name": "Cramond, Bradley",
+    "finish_time": "01:18:34",
+    "finish_seconds": 4714
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 50,
+    "name": "Mar\u00e9, Herman",
+    "finish_time": "01:18:41",
+    "finish_seconds": 4721
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 52,
+    "name": "Brudvig, Byron",
+    "finish_time": "01:19:18",
+    "finish_seconds": 4758
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 54,
+    "name": "Vermaak, Christopher",
+    "finish_time": "01:19:22",
+    "finish_seconds": 4762
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 56,
+    "name": "de Jager, Jarryd",
+    "finish_time": "01:19:33",
+    "finish_seconds": 4773
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 58,
+    "name": "Smit, Bernard",
+    "finish_time": "01:19:46",
+    "finish_seconds": 4786
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 60,
+    "name": "Lunga, Sipho",
+    "finish_time": "01:20:02",
+    "finish_seconds": 4802
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 62,
+    "name": "Schultz, Martin",
+    "finish_time": "01:20:13",
+    "finish_seconds": 4813
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 64,
+    "name": "Hugo, Colin",
+    "finish_time": "01:20:30",
+    "finish_seconds": 4830
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 66,
+    "name": "Hewlett, Tristan Evan",
+    "finish_time": "01:20:32",
+    "finish_seconds": 4832
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 68,
+    "name": "Benham, Ollie",
+    "finish_time": "01:21:01",
+    "finish_seconds": 4861
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 70,
+    "name": "Scalco, Alessandro",
+    "finish_time": "01:21:07",
+    "finish_seconds": 4867
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 72,
+    "name": "Bouwer, Benjamin",
+    "finish_time": "01:21:19",
+    "finish_seconds": 4879
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 74,
+    "name": "Oelofsen, Francois",
+    "finish_time": "01:21:41",
+    "finish_seconds": 4901
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 76,
+    "name": "Shires, Michael",
+    "finish_time": "01:21:47",
+    "finish_seconds": 4907
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 78,
+    "name": "Orpen, Tate",
+    "finish_time": "01:21:57",
+    "finish_seconds": 4917
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 80,
+    "name": "van der Westhuizen, Christiaan",
+    "finish_time": "01:22:20",
+    "finish_seconds": 4940
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 82,
+    "name": "Andrews, Dax",
+    "finish_time": "01:22:36",
+    "finish_seconds": 4956
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 84,
+    "name": "Hofmeyr, Stuart",
+    "finish_time": "01:22:48",
+    "finish_seconds": 4968
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 86,
+    "name": "Kwasha, Shadreck",
+    "finish_time": "01:23:02",
+    "finish_seconds": 4982
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 88,
+    "name": "Madlala, Awanda",
+    "finish_time": "01:23:13",
+    "finish_seconds": 4993
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 90,
+    "name": "Terblanche, Dylan",
+    "finish_time": "01:23:25",
+    "finish_seconds": 5005
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 92,
+    "name": "Breedveld, Marc",
+    "finish_time": "01:23:33",
+    "finish_seconds": 5013
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 94,
+    "name": "Carr, Dustin",
+    "finish_time": "01:23:37",
+    "finish_seconds": 5017
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 96,
+    "name": "TATAR, WOJCIECH",
+    "finish_time": "01:23:48",
+    "finish_seconds": 5028
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 98,
+    "name": "Mia, Imraan",
+    "finish_time": "01:23:58",
+    "finish_seconds": 5038
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 100,
+    "name": "Van Heerden, JJ",
+    "finish_time": "01:24:00",
+    "finish_seconds": 5040
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 102,
+    "name": "Edwards, Jono @ Hybrid Factory",
+    "finish_time": "01:24:07",
+    "finish_seconds": 5047
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 104,
+    "name": "Bradfield, Aiden",
+    "finish_time": "01:24:14",
+    "finish_seconds": 5054
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 106,
+    "name": "Sibda, Naushaad",
+    "finish_time": "01:24:17",
+    "finish_seconds": 5057
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 108,
+    "name": "Schovell, Darryn",
+    "finish_time": "01:24:27",
+    "finish_seconds": 5067
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 110,
+    "name": "Nel, Callaghn",
+    "finish_time": "01:24:40",
+    "finish_seconds": 5080
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 112,
+    "name": "Sebego, Tebogo",
+    "finish_time": "01:24:45",
+    "finish_seconds": 5085
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 114,
+    "name": "Heydenrych, Conrad",
+    "finish_time": "01:25:01",
+    "finish_seconds": 5101
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 116,
+    "name": "Scotland, Keegan",
+    "finish_time": "01:25:05",
+    "finish_seconds": 5105
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 118,
+    "name": "Khanyile, Michael",
+    "finish_time": "01:25:44",
+    "finish_seconds": 5144
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 120,
+    "name": "Mkhize, Unathi",
+    "finish_time": "01:25:55",
+    "finish_seconds": 5155
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 122,
+    "name": "Marx, Gerdus",
+    "finish_time": "01:26:03",
+    "finish_seconds": 5163
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 124,
+    "name": "Kotze, Janko",
+    "finish_time": "01:26:06",
+    "finish_seconds": 5166
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 126,
+    "name": "Hutchinson, Chase",
+    "finish_time": "01:26:20",
+    "finish_seconds": 5180
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 128,
+    "name": "Burgin, Shaun",
+    "finish_time": "01:26:29",
+    "finish_seconds": 5189
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 130,
+    "name": "de Araujo, Alirio",
+    "finish_time": "01:26:41",
+    "finish_seconds": 5201
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 132,
+    "name": "Holt, Andrew",
+    "finish_time": "01:27:03",
+    "finish_seconds": 5223
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 134,
+    "name": "Cronje, Charl",
+    "finish_time": "01:27:09",
+    "finish_seconds": 5229
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 136,
+    "name": "Appalsamy, Aidan",
+    "finish_time": "01:27:16",
+    "finish_seconds": 5236
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 138,
+    "name": "Cook, Owen",
+    "finish_time": "01:27:20",
+    "finish_seconds": 5240
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 140,
+    "name": "Adam, Umar",
+    "finish_time": "01:27:43",
+    "finish_seconds": 5263
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 142,
+    "name": "Makama, Sibonelo",
+    "finish_time": "01:28:10",
+    "finish_seconds": 5290
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 144,
+    "name": "Dos Santos, Ricky",
+    "finish_time": "01:28:37",
+    "finish_seconds": 5317
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 146,
+    "name": "van der Walt, Wian",
+    "finish_time": "01:28:48",
+    "finish_seconds": 5328
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 148,
+    "name": "Edwardes, Gareth",
+    "finish_time": "01:29:01",
+    "finish_seconds": 5341
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 150,
+    "name": "Winklmayr, Christopher",
+    "finish_time": "01:29:06",
+    "finish_seconds": 5346
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 152,
+    "name": "Mulder, Herman",
+    "finish_time": "01:29:34",
+    "finish_seconds": 5374
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 154,
+    "name": "Ngema, Sizwe",
+    "finish_time": "01:29:38",
+    "finish_seconds": 5378
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 156,
+    "name": "Botha, Damien",
+    "finish_time": "01:30:13",
+    "finish_seconds": 5413
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 158,
+    "name": "Kriel, Keagan",
+    "finish_time": "01:30:27",
+    "finish_seconds": 5427
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 160,
+    "name": "van Wyk, Louis",
+    "finish_time": "01:30:32",
+    "finish_seconds": 5432
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 162,
+    "name": "Nkandela, Paul",
+    "finish_time": "01:30:40",
+    "finish_seconds": 5440
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 164,
+    "name": "Makina, Duke",
+    "finish_time": "01:30:54",
+    "finish_seconds": 5454
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 166,
+    "name": "Pike, Andrew",
+    "finish_time": "01:31:06",
+    "finish_seconds": 5466
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 168,
+    "name": "Shortt, Zaundr\u00c3\u0192\u00c2\u00a9",
+    "finish_time": "01:31:27",
+    "finish_seconds": 5487
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 170,
+    "name": "Marima, Sipho",
+    "finish_time": "01:31:47",
+    "finish_seconds": 5507
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 172,
+    "name": "Nthuba, Jackson",
+    "finish_time": "01:31:53",
+    "finish_seconds": 5513
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 174,
+    "name": "Smit, Jacques",
+    "finish_time": "01:32:08",
+    "finish_seconds": 5528
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 176,
+    "name": "Sithebe, Sabelo",
+    "finish_time": "01:32:23",
+    "finish_seconds": 5543
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 178,
+    "name": "du Plessis, Branden",
+    "finish_time": "01:32:32",
+    "finish_seconds": 5552
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 180,
+    "name": "Koll, Emmanuel",
+    "finish_time": "01:32:42",
+    "finish_seconds": 5562
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 182,
+    "name": "Van Wyk, Jaco",
+    "finish_time": "01:32:52",
+    "finish_seconds": 5572
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 184,
+    "name": "BARNARD, GREG",
+    "finish_time": "01:32:55",
+    "finish_seconds": 5575
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 186,
+    "name": "Brown, Tyler",
+    "finish_time": "01:32:59",
+    "finish_seconds": 5579
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 188,
+    "name": "Nthebolan, Lesokola",
+    "finish_time": "01:33:15",
+    "finish_seconds": 5595
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 190,
+    "name": "Nepgen, Andre",
+    "finish_time": "01:33:48",
+    "finish_seconds": 5628
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 192,
+    "name": "Webbe, Barrington",
+    "finish_time": "01:33:53",
+    "finish_seconds": 5633
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 194,
+    "name": "Eleftheriou, Greg",
+    "finish_time": "01:34:00",
+    "finish_seconds": 5640
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 196,
+    "name": "Goosen, Marius",
+    "finish_time": "01:34:23",
+    "finish_seconds": 5663
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 198,
+    "name": "Chimusoro, Pablo Tinashe",
+    "finish_time": "01:34:35",
+    "finish_seconds": 5675
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 200,
+    "name": "Hartman, Stephan",
+    "finish_time": "01:34:44",
+    "finish_seconds": 5684
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 202,
+    "name": "Crous, Francois",
+    "finish_time": "01:34:53",
+    "finish_seconds": 5693
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 204,
+    "name": "Masete, Olebogeng",
+    "finish_time": "01:35:06",
+    "finish_seconds": 5706
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 206,
+    "name": "Steyl, JP",
+    "finish_time": "01:35:11",
+    "finish_seconds": 5711
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 208,
+    "name": "Omar, Yusuf",
+    "finish_time": "01:35:17",
+    "finish_seconds": 5717
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 210,
+    "name": "Soemmer, Artem",
+    "finish_time": "01:35:35",
+    "finish_seconds": 5735
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 212,
+    "name": "Gumede, Gcina",
+    "finish_time": "01:35:36",
+    "finish_seconds": 5736
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 214,
+    "name": "Bloem, Dirk",
+    "finish_time": "01:35:46",
+    "finish_seconds": 5746
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 216,
+    "name": "SUN, RYAN",
+    "finish_time": "01:35:47",
+    "finish_seconds": 5747
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 218,
+    "name": "Normund-van Wyk, Ludwig",
+    "finish_time": "01:36:13",
+    "finish_seconds": 5773
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 220,
+    "name": "St Quintin, Paul",
+    "finish_time": "01:36:17",
+    "finish_seconds": 5777
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 222,
+    "name": "Matabane, Donald",
+    "finish_time": "01:36:34",
+    "finish_seconds": 5794
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 224,
+    "name": "Jooste, Maritz",
+    "finish_time": "01:36:40",
+    "finish_seconds": 5800
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 226,
+    "name": "Ball, Robert",
+    "finish_time": "01:36:54",
+    "finish_seconds": 5814
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 228,
+    "name": "Motjuwadi, Keketso",
+    "finish_time": "01:36:57",
+    "finish_seconds": 5817
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 230,
+    "name": "VALLY, Damien",
+    "finish_time": "01:37:04",
+    "finish_seconds": 5824
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 232,
+    "name": "Beukman, Bernhard",
+    "finish_time": "01:37:34",
+    "finish_seconds": 5854
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 234,
+    "name": "Kennedy, Grant",
+    "finish_time": "01:37:41",
+    "finish_seconds": 5861
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 236,
+    "name": "Hunter, Matthew",
+    "finish_time": "01:37:45",
+    "finish_seconds": 5865
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 238,
+    "name": "Shoba, Ofentse",
+    "finish_time": "01:38:06",
+    "finish_seconds": 5886
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 240,
+    "name": "Muller, Ryan",
+    "finish_time": "01:38:18",
+    "finish_seconds": 5898
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 242,
+    "name": "Parsons, Rhys",
+    "finish_time": "01:38:20",
+    "finish_seconds": 5900
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 244,
+    "name": "Matanmi, Afolabi",
+    "finish_time": "01:38:28",
+    "finish_seconds": 5908
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 246,
+    "name": "Moipolai, Lebogang",
+    "finish_time": "01:38:49",
+    "finish_seconds": 5929
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 248,
+    "name": "Coetzee, Julian",
+    "finish_time": "01:38:59",
+    "finish_seconds": 5939
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 250,
+    "name": "Meyer, Phillip",
+    "finish_time": "01:39:14",
+    "finish_seconds": 5954
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 252,
+    "name": "Radebe, Zanokuhle",
+    "finish_time": "01:39:25",
+    "finish_seconds": 5965
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 254,
+    "name": "Van Kraayenburg, Giovanni",
+    "finish_time": "01:39:46",
+    "finish_seconds": 5986
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 256,
+    "name": "Combrinck, Francois",
+    "finish_time": "01:40:01",
+    "finish_seconds": 6001
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 258,
+    "name": "Fredericks, Shaun",
+    "finish_time": "01:40:01",
+    "finish_seconds": 6001
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 260,
+    "name": "Bates, Ambrose",
+    "finish_time": "01:40:11",
+    "finish_seconds": 6011
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 262,
+    "name": "Mcardle, Fresh",
+    "finish_time": "01:40:21",
+    "finish_seconds": 6021
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 264,
+    "name": "Moloi, Refilwe Thabo Letlotlo",
+    "finish_time": "01:40:25",
+    "finish_seconds": 6025
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 266,
+    "name": "Harris, Grant",
+    "finish_time": "01:40:40",
+    "finish_seconds": 6040
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 268,
+    "name": "Glass, Andrew",
+    "finish_time": "01:40:50",
+    "finish_seconds": 6050
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 270,
+    "name": "Carter, Tim",
+    "finish_time": "01:40:57",
+    "finish_seconds": 6057
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 272,
+    "name": "Limper, Leon",
+    "finish_time": "01:41:00",
+    "finish_seconds": 6060
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 274,
+    "name": "Mouton, Wynand",
+    "finish_time": "01:41:33",
+    "finish_seconds": 6093
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 276,
+    "name": "Fanning, Jerome",
+    "finish_time": "01:41:35",
+    "finish_seconds": 6095
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 278,
+    "name": "De Swardt, Divan",
+    "finish_time": "01:41:38",
+    "finish_seconds": 6098
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 280,
+    "name": "ZA_BRU, JB",
+    "finish_time": "01:41:40",
+    "finish_seconds": 6100
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 282,
+    "name": "O\u2019Kennedy, Rynhardt",
+    "finish_time": "01:41:49",
+    "finish_seconds": 6109
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 284,
+    "name": "Cross, Kash",
+    "finish_time": "01:42:04",
+    "finish_seconds": 6124
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 286,
+    "name": "Khala, Sibongile",
+    "finish_time": "01:42:14",
+    "finish_seconds": 6134
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 288,
+    "name": "Madikong, Lesego",
+    "finish_time": "01:42:17",
+    "finish_seconds": 6137
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 290,
+    "name": "Erasmus, Liam",
+    "finish_time": "01:42:46",
+    "finish_seconds": 6166
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 292,
+    "name": "Da Costa, Roger",
+    "finish_time": "01:42:48",
+    "finish_seconds": 6168
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 294,
+    "name": "Snyders, Bradey",
+    "finish_time": "01:42:55",
+    "finish_seconds": 6175
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 296,
+    "name": "Langeveld, Garth",
+    "finish_time": "01:43:10",
+    "finish_seconds": 6190
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 298,
+    "name": "Hellyer, Tilden",
+    "finish_time": "01:43:22",
+    "finish_seconds": 6202
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 300,
+    "name": "Buza, Asanda",
+    "finish_time": "01:43:25",
+    "finish_seconds": 6205
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 302,
+    "name": "Nodunyelwa, Thabiso",
+    "finish_time": "01:43:33",
+    "finish_seconds": 6213
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 304,
+    "name": "Mashita, Sammy",
+    "finish_time": "01:43:40",
+    "finish_seconds": 6220
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 306,
+    "name": "Selepe, Ditiro",
+    "finish_time": "01:43:46",
+    "finish_seconds": 6226
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 308,
+    "name": "Baudinet, Jason",
+    "finish_time": "01:43:54",
+    "finish_seconds": 6234
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 310,
+    "name": "Munshi, Ubaid Feroz",
+    "finish_time": "01:44:03",
+    "finish_seconds": 6243
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 312,
+    "name": "NAIDOO, JARED",
+    "finish_time": "01:44:11",
+    "finish_seconds": 6251
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 314,
+    "name": "OHagan, Brendan",
+    "finish_time": "01:44:20",
+    "finish_seconds": 6260
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 316,
+    "name": "Potgieter, Victor",
+    "finish_time": "01:44:36",
+    "finish_seconds": 6276
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 318,
+    "name": "Pierre, David",
+    "finish_time": "01:44:40",
+    "finish_seconds": 6280
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 320,
+    "name": "Kariem, Mika-iel",
+    "finish_time": "01:45:08",
+    "finish_seconds": 6308
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 322,
+    "name": "Ndadza, Arthur",
+    "finish_time": "01:45:18",
+    "finish_seconds": 6318
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 324,
+    "name": "Maloma, Gilbert",
+    "finish_time": "01:45:24",
+    "finish_seconds": 6324
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 326,
+    "name": "Mishan, Avraham",
+    "finish_time": "01:45:29",
+    "finish_seconds": 6329
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 328,
+    "name": "Pfister, Eugene",
+    "finish_time": "01:45:43",
+    "finish_seconds": 6343
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 330,
+    "name": "Dzama, Baleka",
+    "finish_time": "01:45:54",
+    "finish_seconds": 6354
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 332,
+    "name": "Du Toit, Jacques",
+    "finish_time": "01:45:57",
+    "finish_seconds": 6357
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 334,
+    "name": "Kildaire, Kyle",
+    "finish_time": "01:46:01",
+    "finish_seconds": 6361
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 336,
+    "name": "Saklawi, Nadim",
+    "finish_time": "01:46:12",
+    "finish_seconds": 6372
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 338,
+    "name": "Langa, Malose",
+    "finish_time": "01:46:21",
+    "finish_seconds": 6381
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 340,
+    "name": "Rantoa, Majara",
+    "finish_time": "01:46:39",
+    "finish_seconds": 6399
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 342,
+    "name": "Cave, Rich",
+    "finish_time": "01:46:53",
+    "finish_seconds": 6413
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 344,
+    "name": "Khulu, Thulane",
+    "finish_time": "01:47:11",
+    "finish_seconds": 6431
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 346,
+    "name": "Mabubula, Thabani",
+    "finish_time": "01:47:17",
+    "finish_seconds": 6437
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 348,
+    "name": "Mmahlatji, Tshegofatso",
+    "finish_time": "01:47:23",
+    "finish_seconds": 6443
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 350,
+    "name": "Ngomane, Yollus Sonto",
+    "finish_time": "01:47:36",
+    "finish_seconds": 6456
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 352,
+    "name": "Tjiueza, Munee",
+    "finish_time": "01:47:47",
+    "finish_seconds": 6467
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 354,
+    "name": "Xoyana, Luthando",
+    "finish_time": "01:47:54",
+    "finish_seconds": 6474
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 356,
+    "name": "Andrews, Chad",
+    "finish_time": "01:48:03",
+    "finish_seconds": 6483
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 358,
+    "name": "Henr\u00edquez, Cristian",
+    "finish_time": "01:48:11",
+    "finish_seconds": 6491
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 360,
+    "name": "Rarane, Lonwabo",
+    "finish_time": "01:48:20",
+    "finish_seconds": 6500
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 362,
+    "name": "Ngwenya, Nhlanhla",
+    "finish_time": "01:48:23",
+    "finish_seconds": 6503
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 364,
+    "name": "Meulenberg, Alef",
+    "finish_time": "01:48:42",
+    "finish_seconds": 6522
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 366,
+    "name": "du Randt, Zeanu",
+    "finish_time": "01:48:47",
+    "finish_seconds": 6527
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 368,
+    "name": "Perry, Cameron",
+    "finish_time": "01:48:52",
+    "finish_seconds": 6532
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 370,
+    "name": "Mojalefa, Madisha",
+    "finish_time": "01:49:05",
+    "finish_seconds": 6545
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 372,
+    "name": "Fouch\u00e9, Jan-Hendrik",
+    "finish_time": "01:49:08",
+    "finish_seconds": 6548
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 374,
+    "name": "Phalane, Tebogo",
+    "finish_time": "01:49:25",
+    "finish_seconds": 6565
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 376,
+    "name": "Mkubukeli, Wandisile",
+    "finish_time": "01:49:27",
+    "finish_seconds": 6567
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 378,
+    "name": "Gossmann, Adolph",
+    "finish_time": "01:49:49",
+    "finish_seconds": 6589
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 380,
+    "name": "Taylor, Justin",
+    "finish_time": "01:49:53",
+    "finish_seconds": 6593
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 382,
+    "name": "Potgieter, Adolf",
+    "finish_time": "01:50:02",
+    "finish_seconds": 6602
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 384,
+    "name": "Harvey, Derek",
+    "finish_time": "01:50:13",
+    "finish_seconds": 6613
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 386,
+    "name": "Beylefeld, Bevean",
+    "finish_time": "01:50:18",
+    "finish_seconds": 6618
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 388,
+    "name": "Murrell, Craig",
+    "finish_time": "01:50:22",
+    "finish_seconds": 6622
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 390,
+    "name": "Botha, Greg",
+    "finish_time": "01:50:30",
+    "finish_seconds": 6630
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 392,
+    "name": "Dennehy, Brian",
+    "finish_time": "01:50:39",
+    "finish_seconds": 6639
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 394,
+    "name": "Mar\u00e9, Tiaan",
+    "finish_time": "01:50:49",
+    "finish_seconds": 6649
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 396,
+    "name": "Motaung, Nthethe",
+    "finish_time": "01:51:00",
+    "finish_seconds": 6660
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 398,
+    "name": "Mahlangu, Buhle",
+    "finish_time": "01:51:18",
+    "finish_seconds": 6678
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 400,
+    "name": "Matjebe, Tshepo",
+    "finish_time": "01:51:28",
+    "finish_seconds": 6688
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 402,
+    "name": "Bernardo, Gerrie",
+    "finish_time": "01:51:36",
+    "finish_seconds": 6696
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 404,
+    "name": "Villiers, John",
+    "finish_time": "01:51:48",
+    "finish_seconds": 6708
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 406,
+    "name": "Kruger, Marius",
+    "finish_time": "01:51:52",
+    "finish_seconds": 6712
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 408,
+    "name": "matshotyana, kidwell",
+    "finish_time": "01:52:02",
+    "finish_seconds": 6722
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 410,
+    "name": "Mortassagne, Craig",
+    "finish_time": "01:52:18",
+    "finish_seconds": 6738
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 412,
+    "name": "Valentino, Calmin",
+    "finish_time": "01:52:22",
+    "finish_seconds": 6742
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 414,
+    "name": "Msibi, Maqhawe",
+    "finish_time": "01:52:40",
+    "finish_seconds": 6760
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 416,
+    "name": "Fletcher, Nathan",
+    "finish_time": "01:52:47",
+    "finish_seconds": 6767
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 418,
+    "name": "Moroane, Motheo",
+    "finish_time": "01:53:13",
+    "finish_seconds": 6793
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 420,
+    "name": "Dube, Sabelo",
+    "finish_time": "01:53:19",
+    "finish_seconds": 6799
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 422,
+    "name": "Du plessis, Steyn",
+    "finish_time": "01:53:51",
+    "finish_seconds": 6831
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 424,
+    "name": "Comninos, Alex",
+    "finish_time": "01:54:02",
+    "finish_seconds": 6842
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 426,
+    "name": "van Rooyen, Mecheal",
+    "finish_time": "01:54:08",
+    "finish_seconds": 6848
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 428,
+    "name": "Haasbroek, JB",
+    "finish_time": "01:54:27",
+    "finish_seconds": 6867
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 430,
+    "name": "Zinzombe, DANIEL",
+    "finish_time": "01:54:31",
+    "finish_seconds": 6871
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 432,
+    "name": "Mchiza, Gift",
+    "finish_time": "01:54:43",
+    "finish_seconds": 6883
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 434,
+    "name": "Nyawose, Menzi",
+    "finish_time": "01:54:49",
+    "finish_seconds": 6889
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 436,
+    "name": "McMillan, Owen",
+    "finish_time": "01:55:02",
+    "finish_seconds": 6902
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 438,
+    "name": "Paul, Lebohang",
+    "finish_time": "01:55:16",
+    "finish_seconds": 6916
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 440,
+    "name": "Makwakwa, Mayileni",
+    "finish_time": "01:55:31",
+    "finish_seconds": 6931
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 442,
+    "name": "Thomas, Jarryd",
+    "finish_time": "01:55:46",
+    "finish_seconds": 6946
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 444,
+    "name": "Ditlhokwe, Katlego",
+    "finish_time": "01:56:03",
+    "finish_seconds": 6963
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 446,
+    "name": "Ramos, Derek",
+    "finish_time": "01:56:10",
+    "finish_seconds": 6970
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 448,
+    "name": "Bornman, Jaco",
+    "finish_time": "01:56:36",
+    "finish_seconds": 6996
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 450,
+    "name": "Ribane, Mondy",
+    "finish_time": "01:56:44",
+    "finish_seconds": 7004
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 452,
+    "name": "Dlamini, Lancerold",
+    "finish_time": "01:57:03",
+    "finish_seconds": 7023
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 454,
+    "name": "Twala, Bandile",
+    "finish_time": "01:57:13",
+    "finish_seconds": 7033
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 456,
+    "name": "Matiwane, Daniel",
+    "finish_time": "01:57:22",
+    "finish_seconds": 7042
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 458,
+    "name": "Pillay, Floyd",
+    "finish_time": "01:57:35",
+    "finish_seconds": 7055
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 460,
+    "name": "Hlalele, Arnold",
+    "finish_time": "01:58:05",
+    "finish_seconds": 7085
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 462,
+    "name": "Fullagar, Neill",
+    "finish_time": "01:58:12",
+    "finish_seconds": 7092
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 464,
+    "name": "Venter, Dennis",
+    "finish_time": "01:58:12",
+    "finish_seconds": 7092
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 466,
+    "name": "Mnisi, Thulani",
+    "finish_time": "01:58:15",
+    "finish_seconds": 7095
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 468,
+    "name": "Badenhorst, Johan",
+    "finish_time": "01:58:20",
+    "finish_seconds": 7100
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 470,
+    "name": "Ganz, Andreas",
+    "finish_time": "01:59:01",
+    "finish_seconds": 7141
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 472,
+    "name": "Mathobela, Thabiso",
+    "finish_time": "01:59:20",
+    "finish_seconds": 7160
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 474,
+    "name": "Kachelhoffer, Jaco",
+    "finish_time": "01:59:49",
+    "finish_seconds": 7189
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 476,
+    "name": "Patel, Mitesh",
+    "finish_time": "02:00:13",
+    "finish_seconds": 7213
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 478,
+    "name": "Jacobsohn, Marius",
+    "finish_time": "02:00:36",
+    "finish_seconds": 7236
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 480,
+    "name": "Theron, Pieter",
+    "finish_time": "02:00:43",
+    "finish_seconds": 7243
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 482,
+    "name": "Mpetshwa, Madodonke",
+    "finish_time": "02:00:55",
+    "finish_seconds": 7255
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 484,
+    "name": "Linnell, Christopher",
+    "finish_time": "02:00:57",
+    "finish_seconds": 7257
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 486,
+    "name": "Senye, Percy",
+    "finish_time": "02:01:05",
+    "finish_seconds": 7265
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 488,
+    "name": "Mashona, Alfred",
+    "finish_time": "02:01:11",
+    "finish_seconds": 7271
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 490,
+    "name": "Khoza, Ntokozo",
+    "finish_time": "02:01:20",
+    "finish_seconds": 7280
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 492,
+    "name": "Dennison, Daniel",
+    "finish_time": "02:01:37",
+    "finish_seconds": 7297
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 494,
+    "name": "Goondiwalla, Imtiaz",
+    "finish_time": "02:01:52",
+    "finish_seconds": 7312
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 496,
+    "name": "Tinta, Ntando",
+    "finish_time": "02:01:57",
+    "finish_seconds": 7317
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 498,
+    "name": "zono, abulele",
+    "finish_time": "02:02:14",
+    "finish_seconds": 7334
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 500,
+    "name": "Ncamane, Akhona",
+    "finish_time": "02:02:58",
+    "finish_seconds": 7378
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 502,
+    "name": "Mbeje, Andile",
+    "finish_time": "02:03:28",
+    "finish_seconds": 7408
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 504,
+    "name": "McIntyre, Owen",
+    "finish_time": "02:03:41",
+    "finish_seconds": 7421
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 506,
+    "name": "Maxambele, Vuyani",
+    "finish_time": "02:03:44",
+    "finish_seconds": 7424
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 508,
+    "name": "Mokwala, Solomon N.",
+    "finish_time": "02:03:48",
+    "finish_seconds": 7428
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 510,
+    "name": "Batt, Tristan",
+    "finish_time": "02:04:32",
+    "finish_seconds": 7472
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 512,
+    "name": "Warner, Nick",
+    "finish_time": "02:04:42",
+    "finish_seconds": 7482
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 514,
+    "name": "Nkosi, Zanokuhle",
+    "finish_time": "02:04:43",
+    "finish_seconds": 7483
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 516,
+    "name": "Ngcobo, Lebo",
+    "finish_time": "02:05:17",
+    "finish_seconds": 7517
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 518,
+    "name": "Tuohy, Jonathon",
+    "finish_time": "02:05:33",
+    "finish_seconds": 7533
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "M",
+    "rank": 520,
+    "name": "Buthelezi, Siyabonga",
+    "finish_time": "02:05:37",
+    "finish_seconds": 7537
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 1,
+    "name": "Wilde, Stephanie",
+    "finish_time": "01:13:20",
+    "finish_seconds": 4400
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 2,
+    "name": "Maguire, Inacia",
+    "finish_time": "01:13:40",
+    "finish_seconds": 4420
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 3,
+    "name": "De Bruyn, Marchanne",
+    "finish_time": "01:14:59",
+    "finish_seconds": 4499
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 5,
+    "name": "Starke, Lynn",
+    "finish_time": "01:16:14",
+    "finish_seconds": 4574
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 7,
+    "name": "Gordon, Bronwyn",
+    "finish_time": "01:17:49",
+    "finish_seconds": 4669
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 9,
+    "name": "Barrett-Theron, Zaan",
+    "finish_time": "01:19:42",
+    "finish_seconds": 4782
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 11,
+    "name": "Roberts, Chrizell",
+    "finish_time": "01:20:17",
+    "finish_seconds": 4817
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 13,
+    "name": "Osborne, Danyelle",
+    "finish_time": "01:20:56",
+    "finish_seconds": 4856
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 15,
+    "name": "Turner, Hannah",
+    "finish_time": "01:22:09",
+    "finish_seconds": 4929
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 17,
+    "name": "Ward, Robyn",
+    "finish_time": "01:22:28",
+    "finish_seconds": 4948
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 19,
+    "name": "Boshoff, Chantelle",
+    "finish_time": "01:22:50",
+    "finish_seconds": 4970
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 21,
+    "name": "Thomson, Caitlyn",
+    "finish_time": "01:23:18",
+    "finish_seconds": 4998
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 23,
+    "name": "Loots, Charne",
+    "finish_time": "01:23:39",
+    "finish_seconds": 5019
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 25,
+    "name": "Caro, St\u00e9phanie",
+    "finish_time": "01:23:53",
+    "finish_seconds": 5033
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 27,
+    "name": "Bottyan, Sabrina",
+    "finish_time": "01:24:11",
+    "finish_seconds": 5051
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 29,
+    "name": "Zeeman, Stefanie",
+    "finish_time": "01:24:15",
+    "finish_seconds": 5055
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 31,
+    "name": "Birch, Kaylee",
+    "finish_time": "01:25:02",
+    "finish_seconds": 5102
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 33,
+    "name": "Anderson, Lara",
+    "finish_time": "01:25:30",
+    "finish_seconds": 5130
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 35,
+    "name": "Viviers, Taytum",
+    "finish_time": "01:26:00",
+    "finish_seconds": 5160
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 37,
+    "name": "Gouws, Bea",
+    "finish_time": "01:26:34",
+    "finish_seconds": 5194
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 39,
+    "name": "Hazelwood, Claudia",
+    "finish_time": "01:27:14",
+    "finish_seconds": 5234
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 41,
+    "name": "Hlambelo, Abigail",
+    "finish_time": "01:27:38",
+    "finish_seconds": 5258
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 43,
+    "name": "Poo, Tabea",
+    "finish_time": "01:27:55",
+    "finish_seconds": 5275
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 45,
+    "name": "Erasmus, Yolande",
+    "finish_time": "01:28:03",
+    "finish_seconds": 5283
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 47,
+    "name": "Dingle, Kaylin",
+    "finish_time": "01:28:34",
+    "finish_seconds": 5314
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 49,
+    "name": "Du Preez, Ren\u00e9",
+    "finish_time": "01:28:50",
+    "finish_seconds": 5330
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 51,
+    "name": "Venter, Carlie",
+    "finish_time": "01:29:00",
+    "finish_seconds": 5340
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 53,
+    "name": "Basson, Susan",
+    "finish_time": "01:29:44",
+    "finish_seconds": 5384
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 55,
+    "name": "Anderson, Robyn",
+    "finish_time": "01:30:04",
+    "finish_seconds": 5404
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 57,
+    "name": "Scott, Jodie",
+    "finish_time": "01:30:14",
+    "finish_seconds": 5414
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 59,
+    "name": "PALMER, BELINDA",
+    "finish_time": "01:30:34",
+    "finish_seconds": 5434
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 61,
+    "name": "Bester, Ninon",
+    "finish_time": "01:30:39",
+    "finish_seconds": 5439
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 63,
+    "name": "Viljoen, Micha",
+    "finish_time": "01:30:57",
+    "finish_seconds": 5457
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 65,
+    "name": "Bulmer, Lauren",
+    "finish_time": "01:31:01",
+    "finish_seconds": 5461
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 67,
+    "name": "Poonan, Caroline",
+    "finish_time": "01:31:08",
+    "finish_seconds": 5468
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 69,
+    "name": "van Wyk, Jolet",
+    "finish_time": "01:31:16",
+    "finish_seconds": 5476
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 71,
+    "name": "Nel, Natassja",
+    "finish_time": "01:31:47",
+    "finish_seconds": 5507
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 73,
+    "name": "Lebakeng, Linda",
+    "finish_time": "01:31:54",
+    "finish_seconds": 5514
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 75,
+    "name": "Kaka, Laikin",
+    "finish_time": "01:32:04",
+    "finish_seconds": 5524
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 77,
+    "name": "Calisa, Dimakatso",
+    "finish_time": "01:32:09",
+    "finish_seconds": 5529
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 79,
+    "name": "Van Zyl, Lindi",
+    "finish_time": "01:32:37",
+    "finish_seconds": 5557
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 81,
+    "name": "Struwig, Chantel",
+    "finish_time": "01:32:49",
+    "finish_seconds": 5569
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 83,
+    "name": "Pieterse, Kerry",
+    "finish_time": "01:33:34",
+    "finish_seconds": 5614
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 85,
+    "name": "Millar, Bianca",
+    "finish_time": "01:34:16",
+    "finish_seconds": 5656
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 87,
+    "name": "Wolvaardt, Megan",
+    "finish_time": "01:34:23",
+    "finish_seconds": 5663
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 89,
+    "name": "Hight Coventry, Jenna",
+    "finish_time": "01:34:50",
+    "finish_seconds": 5690
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 91,
+    "name": "Albertyn, Maritha",
+    "finish_time": "01:35:07",
+    "finish_seconds": 5707
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 93,
+    "name": "Wiggett, Estelle",
+    "finish_time": "01:35:15",
+    "finish_seconds": 5715
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 95,
+    "name": "Khali, S'phelele",
+    "finish_time": "01:35:28",
+    "finish_seconds": 5728
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 97,
+    "name": "Bosch, Mache",
+    "finish_time": "01:35:41",
+    "finish_seconds": 5741
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 99,
+    "name": "Miller, Erin-Jane",
+    "finish_time": "01:35:54",
+    "finish_seconds": 5754
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 101,
+    "name": "Shaik, Kausar",
+    "finish_time": "01:36:00",
+    "finish_seconds": 5760
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 103,
+    "name": "Theron, Lucy",
+    "finish_time": "01:36:24",
+    "finish_seconds": 5784
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 105,
+    "name": "Schaberg, Claudia",
+    "finish_time": "01:36:32",
+    "finish_seconds": 5792
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 107,
+    "name": "Chewe, Patience",
+    "finish_time": "01:36:47",
+    "finish_seconds": 5807
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 109,
+    "name": "Ghemo, Angela",
+    "finish_time": "01:36:54",
+    "finish_seconds": 5814
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 111,
+    "name": "Maritz, Alex",
+    "finish_time": "01:37:10",
+    "finish_seconds": 5830
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 113,
+    "name": "Josset, Amy Jessica",
+    "finish_time": "01:37:53",
+    "finish_seconds": 5873
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 115,
+    "name": "Randt, Michelle Du",
+    "finish_time": "01:37:55",
+    "finish_seconds": 5875
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 117,
+    "name": "Porter, Leora",
+    "finish_time": "01:38:33",
+    "finish_seconds": 5913
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 119,
+    "name": "Trollip, Mar\u00e9zane",
+    "finish_time": "01:38:46",
+    "finish_seconds": 5926
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 121,
+    "name": "Lazarus, Bianca",
+    "finish_time": "01:38:48",
+    "finish_seconds": 5928
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 123,
+    "name": "Schnetler, Petrie",
+    "finish_time": "01:38:54",
+    "finish_seconds": 5934
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 125,
+    "name": "Naude, Alicia",
+    "finish_time": "01:39:13",
+    "finish_seconds": 5953
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 127,
+    "name": "Oosthuizen, Don\u00e9",
+    "finish_time": "01:39:49",
+    "finish_seconds": 5989
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 129,
+    "name": "Mostert, Chandr\u00e9",
+    "finish_time": "01:40:00",
+    "finish_seconds": 6000
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 131,
+    "name": "Hattingh, Janca",
+    "finish_time": "01:40:52",
+    "finish_seconds": 6052
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 133,
+    "name": "Koen, Sandy",
+    "finish_time": "01:41:04",
+    "finish_seconds": 6064
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 135,
+    "name": "Scott, Tana Leigh",
+    "finish_time": "01:41:14",
+    "finish_seconds": 6074
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 137,
+    "name": "du Randt, Kirsty",
+    "finish_time": "01:41:21",
+    "finish_seconds": 6081
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 139,
+    "name": "Vosloo, Lara",
+    "finish_time": "01:41:29",
+    "finish_seconds": 6089
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 141,
+    "name": "van der Westhuizen, Shari",
+    "finish_time": "01:41:31",
+    "finish_seconds": 6091
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 143,
+    "name": "Dennison, Paige",
+    "finish_time": "01:41:36",
+    "finish_seconds": 6096
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 145,
+    "name": "Masekoameng, Machemo",
+    "finish_time": "01:41:49",
+    "finish_seconds": 6109
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 147,
+    "name": "Goitsemodimo, Kgatlhiso",
+    "finish_time": "01:41:56",
+    "finish_seconds": 6116
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 149,
+    "name": "Kostritza, Clementine",
+    "finish_time": "01:42:14",
+    "finish_seconds": 6134
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 151,
+    "name": "Dabula, Awodwa",
+    "finish_time": "01:42:26",
+    "finish_seconds": 6146
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 153,
+    "name": "Kekana, Mphatli",
+    "finish_time": "01:42:40",
+    "finish_seconds": 6160
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 155,
+    "name": "Mdhlovu, Ntiyiso",
+    "finish_time": "01:42:51",
+    "finish_seconds": 6171
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 157,
+    "name": "Bronn, Lenka",
+    "finish_time": "01:43:05",
+    "finish_seconds": 6185
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 159,
+    "name": "Patel, Aalia",
+    "finish_time": "01:43:12",
+    "finish_seconds": 6192
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 161,
+    "name": "Taunyane, Lesego",
+    "finish_time": "01:43:31",
+    "finish_seconds": 6211
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 163,
+    "name": "van Hemert, Linda",
+    "finish_time": "01:44:00",
+    "finish_seconds": 6240
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 165,
+    "name": "Olivier, Lika",
+    "finish_time": "01:44:11",
+    "finish_seconds": 6251
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 167,
+    "name": "Fourie, Marianka",
+    "finish_time": "01:44:17",
+    "finish_seconds": 6257
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 169,
+    "name": "Olivier, Dun\u00e9",
+    "finish_time": "01:44:39",
+    "finish_seconds": 6279
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 171,
+    "name": "Ignjatov, Vesna",
+    "finish_time": "01:44:52",
+    "finish_seconds": 6292
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 173,
+    "name": "Gibbon, Sone",
+    "finish_time": "01:45:16",
+    "finish_seconds": 6316
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 175,
+    "name": "Kealotswe, Onneile",
+    "finish_time": "01:45:34",
+    "finish_seconds": 6334
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 177,
+    "name": "Sihele, Nikie",
+    "finish_time": "01:45:49",
+    "finish_seconds": 6349
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 179,
+    "name": "Arnott, Liesl",
+    "finish_time": "01:46:15",
+    "finish_seconds": 6375
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 181,
+    "name": "Dada, Buyiswa",
+    "finish_time": "01:46:17",
+    "finish_seconds": 6377
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 183,
+    "name": "Bunce, Amy",
+    "finish_time": "01:46:21",
+    "finish_seconds": 6381
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 185,
+    "name": "Dlamini, Sineziwe",
+    "finish_time": "01:46:30",
+    "finish_seconds": 6390
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 187,
+    "name": "Kirkham, Jordyn",
+    "finish_time": "01:47:16",
+    "finish_seconds": 6436
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 189,
+    "name": "Msi, Sibu",
+    "finish_time": "01:47:26",
+    "finish_seconds": 6446
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 191,
+    "name": "Lauwrens, Anneke",
+    "finish_time": "01:47:47",
+    "finish_seconds": 6467
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 193,
+    "name": "Madavha, Nyawa",
+    "finish_time": "01:47:51",
+    "finish_seconds": 6471
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 195,
+    "name": "Powell Stock, Chantal",
+    "finish_time": "01:47:55",
+    "finish_seconds": 6475
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 197,
+    "name": "Van Rooyen, Nicole",
+    "finish_time": "01:48:19",
+    "finish_seconds": 6499
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 199,
+    "name": "Funeka, Sinegugu",
+    "finish_time": "01:48:59",
+    "finish_seconds": 6539
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 201,
+    "name": "Mzamo, Asanda",
+    "finish_time": "01:49:09",
+    "finish_seconds": 6549
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 203,
+    "name": "De Jager, Chane",
+    "finish_time": "01:49:15",
+    "finish_seconds": 6555
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 205,
+    "name": "Twiggs, Jacqui",
+    "finish_time": "01:49:26",
+    "finish_seconds": 6566
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 207,
+    "name": "Hurvitz, Leigh-Ann",
+    "finish_time": "01:49:35",
+    "finish_seconds": 6575
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 209,
+    "name": "Bizana, Entle",
+    "finish_time": "01:49:45",
+    "finish_seconds": 6585
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 211,
+    "name": "Beaumont, Mia",
+    "finish_time": "01:50:11",
+    "finish_seconds": 6611
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 213,
+    "name": "Jacobs, Sally",
+    "finish_time": "01:50:13",
+    "finish_seconds": 6613
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 215,
+    "name": "Sithole, Busi",
+    "finish_time": "01:50:20",
+    "finish_seconds": 6620
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 217,
+    "name": "Mayet, Ynez",
+    "finish_time": "01:50:25",
+    "finish_seconds": 6625
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 219,
+    "name": "Manganye, Salome",
+    "finish_time": "01:50:38",
+    "finish_seconds": 6638
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 221,
+    "name": "Alex, Anna lena",
+    "finish_time": "01:50:51",
+    "finish_seconds": 6651
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 223,
+    "name": "Peters, Renate",
+    "finish_time": "01:51:03",
+    "finish_seconds": 6663
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 225,
+    "name": "Clark, Amy",
+    "finish_time": "01:51:13",
+    "finish_seconds": 6673
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 227,
+    "name": "Mngceke, Zimasa",
+    "finish_time": "01:51:36",
+    "finish_seconds": 6696
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 229,
+    "name": "Sibeko, Nomcebo",
+    "finish_time": "01:51:43",
+    "finish_seconds": 6703
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 231,
+    "name": "Monaheng, Mamello",
+    "finish_time": "01:51:57",
+    "finish_seconds": 6717
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 233,
+    "name": "Sehlodimela, YeYe",
+    "finish_time": "01:52:11",
+    "finish_seconds": 6731
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 235,
+    "name": "Omakwu, Blessing",
+    "finish_time": "01:52:22",
+    "finish_seconds": 6742
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 237,
+    "name": "van Staden, Teresa",
+    "finish_time": "01:52:29",
+    "finish_seconds": 6749
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 239,
+    "name": "Albrecht, Alexandra",
+    "finish_time": "01:52:40",
+    "finish_seconds": 6760
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 241,
+    "name": "Mkhundlu, Masibulele",
+    "finish_time": "01:53:01",
+    "finish_seconds": 6781
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 243,
+    "name": "Jaloustre, Severine",
+    "finish_time": "01:53:20",
+    "finish_seconds": 6800
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 245,
+    "name": "Van Aardt, Anje",
+    "finish_time": "01:53:44",
+    "finish_seconds": 6824
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 247,
+    "name": "Erasmus, Lauren",
+    "finish_time": "01:53:56",
+    "finish_seconds": 6836
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 249,
+    "name": "Dlamini, Minenhle",
+    "finish_time": "01:53:59",
+    "finish_seconds": 6839
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 251,
+    "name": "Machisa, Michelle",
+    "finish_time": "01:54:11",
+    "finish_seconds": 6851
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 253,
+    "name": "Kanellopoulos, Tani",
+    "finish_time": "01:54:28",
+    "finish_seconds": 6868
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 255,
+    "name": "madondo, Zandile",
+    "finish_time": "01:54:32",
+    "finish_seconds": 6872
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 257,
+    "name": "Combrinck, Anri",
+    "finish_time": "01:54:43",
+    "finish_seconds": 6883
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 259,
+    "name": "Beckett, Caitlin",
+    "finish_time": "01:55:06",
+    "finish_seconds": 6906
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 261,
+    "name": "Luckay, Michelle",
+    "finish_time": "01:55:18",
+    "finish_seconds": 6918
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 263,
+    "name": "Mahlangu, Londiwe",
+    "finish_time": "01:55:28",
+    "finish_seconds": 6928
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 265,
+    "name": "Moodley, Keshnee",
+    "finish_time": "01:55:36",
+    "finish_seconds": 6936
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 267,
+    "name": "Vermeulen, Amanda",
+    "finish_time": "01:55:41",
+    "finish_seconds": 6941
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 269,
+    "name": "Sithole, Maria",
+    "finish_time": "01:55:50",
+    "finish_seconds": 6950
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 271,
+    "name": "Mhlauli, Ophela",
+    "finish_time": "01:56:14",
+    "finish_seconds": 6974
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 273,
+    "name": "Swanepoel, Natalie",
+    "finish_time": "01:56:26",
+    "finish_seconds": 6986
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 275,
+    "name": "Tlhone, Nniny",
+    "finish_time": "01:56:30",
+    "finish_seconds": 6990
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 277,
+    "name": "Reece, Enya",
+    "finish_time": "01:56:42",
+    "finish_seconds": 7002
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 279,
+    "name": "Maphakwane, Pidio",
+    "finish_time": "01:56:47",
+    "finish_seconds": 7007
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 281,
+    "name": "Bruce, Shelby",
+    "finish_time": "01:56:51",
+    "finish_seconds": 7011
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 283,
+    "name": "Burumu, Joan",
+    "finish_time": "01:57:00",
+    "finish_seconds": 7020
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 285,
+    "name": "Hondo, Claire",
+    "finish_time": "01:57:23",
+    "finish_seconds": 7043
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 287,
+    "name": "Lo, Fatouma",
+    "finish_time": "01:57:24",
+    "finish_seconds": 7044
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 289,
+    "name": "Mitchell, Monique",
+    "finish_time": "01:57:47",
+    "finish_seconds": 7067
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 291,
+    "name": "Mdletshe, Thule",
+    "finish_time": "01:58:10",
+    "finish_seconds": 7090
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 293,
+    "name": "Bangie, Shaaista Moosa",
+    "finish_time": "01:58:14",
+    "finish_seconds": 7094
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 295,
+    "name": "Myburgh, Carla",
+    "finish_time": "01:58:29",
+    "finish_seconds": 7109
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 297,
+    "name": "Mogashoa, Zolelwa",
+    "finish_time": "01:58:33",
+    "finish_seconds": 7113
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 299,
+    "name": "Mtasa, Krystal",
+    "finish_time": "01:58:45",
+    "finish_seconds": 7125
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 301,
+    "name": "Mazibuko, Beauty",
+    "finish_time": "01:59:14",
+    "finish_seconds": 7154
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 303,
+    "name": "van Zuydam, Edca",
+    "finish_time": "01:59:27",
+    "finish_seconds": 7167
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 305,
+    "name": "Smith, Jade",
+    "finish_time": "01:59:49",
+    "finish_seconds": 7189
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 307,
+    "name": "Riley, Megan",
+    "finish_time": "02:00:12",
+    "finish_seconds": 7212
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 309,
+    "name": "Beaurain, Karlien",
+    "finish_time": "02:00:28",
+    "finish_seconds": 7228
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 311,
+    "name": "Shabs, Penny",
+    "finish_time": "02:00:48",
+    "finish_seconds": 7248
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 313,
+    "name": "Saidi, Barbara",
+    "finish_time": "02:00:59",
+    "finish_seconds": 7259
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 315,
+    "name": "Zulu, Bandile",
+    "finish_time": "02:01:07",
+    "finish_seconds": 7267
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 317,
+    "name": "Cato, Francelle",
+    "finish_time": "02:01:24",
+    "finish_seconds": 7284
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 319,
+    "name": "Ngcwangu, Milani",
+    "finish_time": "02:01:53",
+    "finish_seconds": 7313
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 321,
+    "name": "Melk, Dineo",
+    "finish_time": "02:02:16",
+    "finish_seconds": 7336
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 323,
+    "name": "Makhaye, Thembeka",
+    "finish_time": "02:02:49",
+    "finish_seconds": 7369
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 325,
+    "name": "Maboe, Neo",
+    "finish_time": "02:03:06",
+    "finish_seconds": 7386
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 327,
+    "name": "Mosikili, Thato",
+    "finish_time": "02:03:09",
+    "finish_seconds": 7389
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 329,
+    "name": "Venter, Suzette",
+    "finish_time": "02:03:28",
+    "finish_seconds": 7408
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 331,
+    "name": "Themba, Mumsy",
+    "finish_time": "02:03:31",
+    "finish_seconds": 7411
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 333,
+    "name": "Kibido, Eustacia",
+    "finish_time": "02:03:38",
+    "finish_seconds": 7418
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 335,
+    "name": "Molekane, Mampho",
+    "finish_time": "02:03:55",
+    "finish_seconds": 7435
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 337,
+    "name": "Selepe, Noran",
+    "finish_time": "02:04:31",
+    "finish_seconds": 7471
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 339,
+    "name": "Ndungane, Linda",
+    "finish_time": "02:04:42",
+    "finish_seconds": 7482
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 341,
+    "name": "Colyn, Anel",
+    "finish_time": "02:05:06",
+    "finish_seconds": 7506
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 343,
+    "name": "Munaka, Edzisani",
+    "finish_time": "02:05:27",
+    "finish_seconds": 7527
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 345,
+    "name": "Maluleke, Zamokuhle Theressa",
+    "finish_time": "02:05:37",
+    "finish_seconds": 7537
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 347,
+    "name": "Mokwana, Tsholo",
+    "finish_time": "02:05:44",
+    "finish_seconds": 7544
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 349,
+    "name": "Dreyer, Sonandr\u00e9",
+    "finish_time": "02:05:55",
+    "finish_seconds": 7555
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 351,
+    "name": "Sekwadi, Bontle",
+    "finish_time": "02:06:06",
+    "finish_seconds": 7566
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 353,
+    "name": "Sikhakhane, Slie",
+    "finish_time": "02:06:18",
+    "finish_seconds": 7578
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 355,
+    "name": "Govender, Ivone",
+    "finish_time": "02:06:25",
+    "finish_seconds": 7585
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 357,
+    "name": "Leshomo, Gorata",
+    "finish_time": "02:07:36",
+    "finish_seconds": 7656
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 359,
+    "name": "Mohai, Tsepy",
+    "finish_time": "02:07:44",
+    "finish_seconds": 7664
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 361,
+    "name": "Bezuidenhout, Kokeletso",
+    "finish_time": "02:08:07",
+    "finish_seconds": 7687
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 363,
+    "name": "Mzinzili-Tshaka, Nomasibulele",
+    "finish_time": "02:08:27",
+    "finish_seconds": 7707
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 365,
+    "name": "Segodi, Mmakgabo",
+    "finish_time": "02:09:08",
+    "finish_seconds": 7748
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 367,
+    "name": "Khumalo, Cebile",
+    "finish_time": "02:09:12",
+    "finish_seconds": 7752
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 369,
+    "name": "Tolo, Rachel",
+    "finish_time": "02:09:34",
+    "finish_seconds": 7774
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 371,
+    "name": "Dlamini, Ngeti",
+    "finish_time": "02:09:57",
+    "finish_seconds": 7797
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 373,
+    "name": "Ntliziywana, Noxolo",
+    "finish_time": "02:10:08",
+    "finish_seconds": 7808
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 375,
+    "name": "Gumede, Lisbeth",
+    "finish_time": "02:10:22",
+    "finish_seconds": 7822
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 377,
+    "name": "Koning, Monique",
+    "finish_time": "02:10:43",
+    "finish_seconds": 7843
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 379,
+    "name": "Pretorius, Lizel",
+    "finish_time": "02:11:46",
+    "finish_seconds": 7906
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 381,
+    "name": "Mpazi, Tully",
+    "finish_time": "02:12:12",
+    "finish_seconds": 7932
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 383,
+    "name": "Ismail, Kathija",
+    "finish_time": "02:12:28",
+    "finish_seconds": 7948
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 385,
+    "name": "Phakathi, Siphosakhe",
+    "finish_time": "02:12:51",
+    "finish_seconds": 7971
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 387,
+    "name": "Terblanche, Kayla",
+    "finish_time": "02:13:16",
+    "finish_seconds": 7996
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 389,
+    "name": "Smyshliaeva, Lada",
+    "finish_time": "02:13:23",
+    "finish_seconds": 8003
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 391,
+    "name": "Dube, Dudu",
+    "finish_time": "02:13:48",
+    "finish_seconds": 8028
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 393,
+    "name": "Mbobo, Inga",
+    "finish_time": "02:14:17",
+    "finish_seconds": 8057
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 395,
+    "name": "Mabandla, Amanda",
+    "finish_time": "02:14:19",
+    "finish_seconds": 8059
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 397,
+    "name": "Bunn, Hlela",
+    "finish_time": "02:14:33",
+    "finish_seconds": 8073
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 399,
+    "name": "Mtshweni, Nelisiwe",
+    "finish_time": "02:15:16",
+    "finish_seconds": 8116
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 401,
+    "name": "Kandier, Vanitha",
+    "finish_time": "02:15:21",
+    "finish_seconds": 8121
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 403,
+    "name": "Kings, Spider",
+    "finish_time": "02:16:33",
+    "finish_seconds": 8193
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 405,
+    "name": "Omar, Aadilah",
+    "finish_time": "02:16:42",
+    "finish_seconds": 8202
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 407,
+    "name": "Zwide, Samke",
+    "finish_time": "02:17:11",
+    "finish_seconds": 8231
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 409,
+    "name": "Muzuva, Daphne",
+    "finish_time": "02:18:28",
+    "finish_seconds": 8308
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 411,
+    "name": "Mojapelo, Lebohang",
+    "finish_time": "02:18:44",
+    "finish_seconds": 8324
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 413,
+    "name": "Matsetela, Nthabiseng",
+    "finish_time": "02:18:52",
+    "finish_seconds": 8332
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 415,
+    "name": "Ramaili, Tania",
+    "finish_time": "02:19:04",
+    "finish_seconds": 8344
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 417,
+    "name": "Mgxabhayi, Nwabisa",
+    "finish_time": "02:19:27",
+    "finish_seconds": 8367
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 419,
+    "name": "Annalize, Smit",
+    "finish_time": "02:19:56",
+    "finish_seconds": 8396
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 421,
+    "name": "Mabuye, Palesa",
+    "finish_time": "02:20:08",
+    "finish_seconds": 8408
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 423,
+    "name": "Tenyane, Mpho",
+    "finish_time": "02:20:21",
+    "finish_seconds": 8421
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 425,
+    "name": "Mofokeng, Seromo",
+    "finish_time": "02:20:26",
+    "finish_seconds": 8426
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 427,
+    "name": "Morgan, Megan",
+    "finish_time": "02:20:30",
+    "finish_seconds": 8430
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 429,
+    "name": "Mdletshe, Towanda",
+    "finish_time": "02:20:45",
+    "finish_seconds": 8445
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 431,
+    "name": "Bondayi, Rumbidzai",
+    "finish_time": "02:21:52",
+    "finish_seconds": 8512
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 433,
+    "name": "Mabotja, Tumisho",
+    "finish_time": "02:22:24",
+    "finish_seconds": 8544
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 435,
+    "name": "Legoete, Lesego",
+    "finish_time": "02:22:33",
+    "finish_seconds": 8553
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 437,
+    "name": "Moodley, Kamini",
+    "finish_time": "02:22:48",
+    "finish_seconds": 8568
+  },
+  {
+    "venue": "2025 Johannesburg",
+    "gender": "W",
+    "rank": 439,
+    "name": "Hansrod, Zakkiya",
+    "finish_time": "02:23:43",
+    "finish_seconds": 8623
+  }
+]

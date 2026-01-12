@@ -1,0 +1,4290 @@
+[
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 1,
+    "name": "Noh, Seunghyun",
+    "finish_time": "00:57:47",
+    "finish_seconds": 3467
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 3,
+    "name": "Jeon, Junhyeon",
+    "finish_time": "01:00:13",
+    "finish_seconds": 3613
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 5,
+    "name": "\u963f\u4e0d\u90fd\u5e93\u90fd\u65af, \u00b7\u963f\u4e0d\u529b\u5b5c",
+    "finish_time": "01:00:46",
+    "finish_seconds": 3646
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 7,
+    "name": "\u82cf, \u7430",
+    "finish_time": "01:00:47",
+    "finish_seconds": 3647
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 9,
+    "name": "\u4e8e, \u6210\u9f99",
+    "finish_time": "01:01:41",
+    "finish_seconds": 3701
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 11,
+    "name": "Bong, Jordan Tze Lun",
+    "finish_time": "01:02:00",
+    "finish_seconds": 3720
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 13,
+    "name": "Lau, Wai Kwan",
+    "finish_time": "01:02:36",
+    "finish_seconds": 3756
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 15,
+    "name": "Davide, Liu",
+    "finish_time": "01:02:48",
+    "finish_seconds": 3768
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 17,
+    "name": "Hinds, Daniel",
+    "finish_time": "01:03:04",
+    "finish_seconds": 3784
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 19,
+    "name": "\ubc29, \uc900\ud658",
+    "finish_time": "01:03:57",
+    "finish_seconds": 3837
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 21,
+    "name": "Wong, Tsz Nok",
+    "finish_time": "01:04:22",
+    "finish_seconds": 3862
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 23,
+    "name": "Gomes, Joao",
+    "finish_time": "01:05:14",
+    "finish_seconds": 3914
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 25,
+    "name": "\u97e9, \u8d85",
+    "finish_time": "01:06:27",
+    "finish_seconds": 3987
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 27,
+    "name": "Saggus, Tommy",
+    "finish_time": "01:06:41",
+    "finish_seconds": 4001
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 29,
+    "name": "\u6731, \u7acb\u6636",
+    "finish_time": "01:07:23",
+    "finish_seconds": 4043
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 31,
+    "name": "\u6881, \u8d85",
+    "finish_time": "01:08:14",
+    "finish_seconds": 4094
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 33,
+    "name": "Martz, Tom",
+    "finish_time": "01:08:27",
+    "finish_seconds": 4107
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 35,
+    "name": "Lam, Yau",
+    "finish_time": "01:08:47",
+    "finish_seconds": 4127
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 37,
+    "name": "\uae40, \uc120\uba85",
+    "finish_time": "01:08:56",
+    "finish_seconds": 4136
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 39,
+    "name": "Escamez, Julio",
+    "finish_time": "01:09:14",
+    "finish_seconds": 4154
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 41,
+    "name": "\u8d3e, \u535a\u7693",
+    "finish_time": "01:09:30",
+    "finish_seconds": 4170
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 43,
+    "name": "\u59dc, \u950b",
+    "finish_time": "01:09:43",
+    "finish_seconds": 4183
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 45,
+    "name": "\u6731, \u5609\u8000",
+    "finish_time": "01:10:07",
+    "finish_seconds": 4207
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 47,
+    "name": "\u9676, \u5cf0",
+    "finish_time": "01:10:31",
+    "finish_seconds": 4231
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 49,
+    "name": "Den Hartog, Bob",
+    "finish_time": "01:10:41",
+    "finish_seconds": 4241
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 51,
+    "name": "Ryan, Eric",
+    "finish_time": "01:10:52",
+    "finish_seconds": 4252
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 53,
+    "name": "\u90a2, \u5b97\u6d77",
+    "finish_time": "01:11:20",
+    "finish_seconds": 4280
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 55,
+    "name": "Li, Louis",
+    "finish_time": "01:11:26",
+    "finish_seconds": 4286
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 57,
+    "name": "\u9ec4, \u601d\u6e90",
+    "finish_time": "01:11:37",
+    "finish_seconds": 4297
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 59,
+    "name": "\u738b, \u4e9a\u658c",
+    "finish_time": "01:11:44",
+    "finish_seconds": 4304
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 61,
+    "name": "\u6768, \u4fdd\u7f57",
+    "finish_time": "01:11:55",
+    "finish_seconds": 4315
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 63,
+    "name": "Meccheri, Alessandro",
+    "finish_time": "01:12:13",
+    "finish_seconds": 4333
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 65,
+    "name": "Laran, Baptiste",
+    "finish_time": "01:12:29",
+    "finish_seconds": 4349
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 67,
+    "name": "\u8bb8, \u614e\u9889",
+    "finish_time": "01:12:34",
+    "finish_seconds": 4354
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 69,
+    "name": "\u5f20, \u502a",
+    "finish_time": "01:12:40",
+    "finish_seconds": 4360
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 71,
+    "name": "Yadav, Sumit",
+    "finish_time": "01:12:45",
+    "finish_seconds": 4365
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 73,
+    "name": "\u5f20, \u5586\u797a",
+    "finish_time": "01:12:55",
+    "finish_seconds": 4375
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 75,
+    "name": "\u8bb8, \u5927\u4fe1",
+    "finish_time": "01:13:06",
+    "finish_seconds": 4386
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 77,
+    "name": "\u9648, \u6653\u5b87",
+    "finish_time": "01:13:11",
+    "finish_seconds": 4391
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 79,
+    "name": "\u9093, \u9e23\u6377",
+    "finish_time": "01:13:19",
+    "finish_seconds": 4399
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 81,
+    "name": "Hung, Tsz Hin",
+    "finish_time": "01:13:49",
+    "finish_seconds": 4429
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 83,
+    "name": "\u9ea6, \u575a",
+    "finish_time": "01:14:00",
+    "finish_seconds": 4440
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 85,
+    "name": "\u738b, \u6770",
+    "finish_time": "01:14:05",
+    "finish_seconds": 4445
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 87,
+    "name": "\u859b, \u8212\u539f",
+    "finish_time": "01:14:07",
+    "finish_seconds": 4447
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 89,
+    "name": "Coelho, Carlos",
+    "finish_time": "01:14:10",
+    "finish_seconds": 4450
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 91,
+    "name": "Chan, Brian",
+    "finish_time": "01:14:12",
+    "finish_seconds": 4452
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 93,
+    "name": "Quigley, Edward",
+    "finish_time": "01:14:23",
+    "finish_seconds": 4463
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 95,
+    "name": "\u9648, \u8c31\u5408",
+    "finish_time": "01:14:28",
+    "finish_seconds": 4468
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 97,
+    "name": "\u738b, \u601d\u8fdc",
+    "finish_time": "01:14:33",
+    "finish_seconds": 4473
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 99,
+    "name": "\u5d14, \u5bb6\u797a",
+    "finish_time": "01:14:39",
+    "finish_seconds": 4479
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 101,
+    "name": "Ali, Anhar",
+    "finish_time": "01:14:45",
+    "finish_seconds": 4485
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 103,
+    "name": "\u90ed, \u6d69\u81e3",
+    "finish_time": "01:14:46",
+    "finish_seconds": 4486
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 105,
+    "name": "\u674e, \u798f\u5174",
+    "finish_time": "01:14:58",
+    "finish_seconds": 4498
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 107,
+    "name": "\u6731, \u96ea",
+    "finish_time": "01:15:09",
+    "finish_seconds": 4509
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 109,
+    "name": "Coyne, Ben",
+    "finish_time": "01:15:27",
+    "finish_seconds": 4527
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 111,
+    "name": "\u8d75, \u7855",
+    "finish_time": "01:15:31",
+    "finish_seconds": 4531
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 113,
+    "name": "\u9ec4, \u601d\u94ed",
+    "finish_time": "01:15:36",
+    "finish_seconds": 4536
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 115,
+    "name": "Hrushchak, Bohdan",
+    "finish_time": "01:15:43",
+    "finish_seconds": 4543
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 117,
+    "name": "\u6797, \u5578",
+    "finish_time": "01:15:59",
+    "finish_seconds": 4559
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 119,
+    "name": "Toelau, Tarryn",
+    "finish_time": "01:16:14",
+    "finish_seconds": 4574
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 121,
+    "name": "Kudo, Taishiro",
+    "finish_time": "01:16:23",
+    "finish_seconds": 4583
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 123,
+    "name": "\u4efb, \u901a",
+    "finish_time": "01:16:26",
+    "finish_seconds": 4586
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 125,
+    "name": "Li, Adrian",
+    "finish_time": "01:16:36",
+    "finish_seconds": 4596
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 127,
+    "name": "\u5f6d, \u632f\u5e9a",
+    "finish_time": "01:16:41",
+    "finish_seconds": 4601
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 129,
+    "name": "Serquina, Aris Siegfrid",
+    "finish_time": "01:16:47",
+    "finish_seconds": 4607
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 131,
+    "name": "Leung, Ho Yin",
+    "finish_time": "01:16:58",
+    "finish_seconds": 4618
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 133,
+    "name": "Chan, Cliff",
+    "finish_time": "01:17:01",
+    "finish_seconds": 4621
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 135,
+    "name": "\u5f90, \u6167",
+    "finish_time": "01:17:06",
+    "finish_seconds": 4626
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 137,
+    "name": "Verstraete, Pieter",
+    "finish_time": "01:17:11",
+    "finish_seconds": 4631
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 139,
+    "name": "\u8d75, \u5d07\u5eb7",
+    "finish_time": "01:17:18",
+    "finish_seconds": 4638
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 141,
+    "name": "\u5b59, \u5cb1\u9716",
+    "finish_time": "01:17:34",
+    "finish_seconds": 4654
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 143,
+    "name": "Khodzhaev, Alisher",
+    "finish_time": "01:17:41",
+    "finish_seconds": 4661
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 145,
+    "name": "\u53f2, \u97f6\u534e",
+    "finish_time": "01:17:43",
+    "finish_seconds": 4663
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 147,
+    "name": "\u9648, \u9a85",
+    "finish_time": "01:17:47",
+    "finish_seconds": 4667
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 149,
+    "name": "\u9648, \u56fd\u5065",
+    "finish_time": "01:17:55",
+    "finish_seconds": 4675
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 151,
+    "name": "\u5434, \u5fe0\u660e",
+    "finish_time": "01:17:57",
+    "finish_seconds": 4677
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 153,
+    "name": "Damuding, Mattia",
+    "finish_time": "01:18:00",
+    "finish_seconds": 4680
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 155,
+    "name": "\u8463, \u8d85",
+    "finish_time": "01:18:08",
+    "finish_seconds": 4688
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 157,
+    "name": "Emery, Chris",
+    "finish_time": "01:18:11",
+    "finish_seconds": 4691
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 159,
+    "name": "Villemonteix, Nicolas",
+    "finish_time": "01:18:16",
+    "finish_seconds": 4696
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 161,
+    "name": "Zhang, Martin",
+    "finish_time": "01:18:19",
+    "finish_seconds": 4699
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 163,
+    "name": "\u738b, \u6e0a\u9f99",
+    "finish_time": "01:18:30",
+    "finish_seconds": 4710
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 165,
+    "name": "\u5411, \u76db",
+    "finish_time": "01:18:50",
+    "finish_seconds": 4730
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 167,
+    "name": "\u9a6c, \u4fca",
+    "finish_time": "01:18:52",
+    "finish_seconds": 4732
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 169,
+    "name": "\u5468, \u6e38",
+    "finish_time": "01:19:03",
+    "finish_seconds": 4743
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 171,
+    "name": "\u845b, \u601d\u52f0",
+    "finish_time": "01:19:05",
+    "finish_seconds": 4745
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 173,
+    "name": "Goh, Pick Tong",
+    "finish_time": "01:19:14",
+    "finish_seconds": 4754
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 175,
+    "name": "\u590f, \u65b0\u6770",
+    "finish_time": "01:19:18",
+    "finish_seconds": 4758
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 177,
+    "name": "\u4efb, \u540c\u5c27",
+    "finish_time": "01:19:23",
+    "finish_seconds": 4763
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 179,
+    "name": "Kretov, Mikhail",
+    "finish_time": "01:19:27",
+    "finish_seconds": 4767
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 181,
+    "name": "Ong, Zhi Hao",
+    "finish_time": "01:19:33",
+    "finish_seconds": 4773
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 183,
+    "name": "\u8d75, \u5578\u5cf0",
+    "finish_time": "01:19:38",
+    "finish_seconds": 4778
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 185,
+    "name": "\u502a, \u82f1\u745c",
+    "finish_time": "01:19:43",
+    "finish_seconds": 4783
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 187,
+    "name": "Laubscher, Morne",
+    "finish_time": "01:19:45",
+    "finish_seconds": 4785
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 189,
+    "name": "\u6731, \u6d77\u660e",
+    "finish_time": "01:19:48",
+    "finish_seconds": 4788
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 191,
+    "name": "Lee, Kin Yeung",
+    "finish_time": "01:19:58",
+    "finish_seconds": 4798
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 193,
+    "name": "Cheung, Calvin",
+    "finish_time": "01:20:06",
+    "finish_seconds": 4806
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 195,
+    "name": "\u674e, \u4e01\u5065\u4e00",
+    "finish_time": "01:20:17",
+    "finish_seconds": 4817
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 197,
+    "name": "\u5218, \u5fb7\u537f",
+    "finish_time": "01:20:20",
+    "finish_seconds": 4820
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 199,
+    "name": "\u9648, \u6cfd",
+    "finish_time": "01:20:28",
+    "finish_seconds": 4828
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 201,
+    "name": "\u8fde, \u632f\u4f1f",
+    "finish_time": "01:20:40",
+    "finish_seconds": 4840
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 203,
+    "name": "\u5b8b, \u9e3f\u9704",
+    "finish_time": "01:20:45",
+    "finish_seconds": 4845
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 205,
+    "name": "Apiwonopas, Chanapat",
+    "finish_time": "01:20:50",
+    "finish_seconds": 4850
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 207,
+    "name": "\u6768, \u56ed",
+    "finish_time": "01:21:01",
+    "finish_seconds": 4861
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 209,
+    "name": "\u674e, \u541b",
+    "finish_time": "01:21:03",
+    "finish_seconds": 4863
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 211,
+    "name": "Wolstencroft, Jack",
+    "finish_time": "01:21:12",
+    "finish_seconds": 4872
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 213,
+    "name": "\u7f57, \u5c0f\u4f1f",
+    "finish_time": "01:21:18",
+    "finish_seconds": 4878
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 215,
+    "name": "\u7ae0, \u5955\u665f",
+    "finish_time": "01:21:28",
+    "finish_seconds": 4888
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 217,
+    "name": "\u848b, \u5fb7\u946b",
+    "finish_time": "01:21:32",
+    "finish_seconds": 4892
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 219,
+    "name": "\u9648, \u6893\u6d0b",
+    "finish_time": "01:21:38",
+    "finish_seconds": 4898
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 221,
+    "name": "Lim, Brandon",
+    "finish_time": "01:21:43",
+    "finish_seconds": 4903
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 223,
+    "name": "\u674e, \u4ec1\u6770",
+    "finish_time": "01:21:47",
+    "finish_seconds": 4907
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 225,
+    "name": "\u5f90, \u4e00\u5e06",
+    "finish_time": "01:21:49",
+    "finish_seconds": 4909
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 227,
+    "name": "\u59dc, \u9e9f\u5955",
+    "finish_time": "01:22:20",
+    "finish_seconds": 4940
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 229,
+    "name": "\u9619, \u5065\u6d77",
+    "finish_time": "01:22:26",
+    "finish_seconds": 4946
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 231,
+    "name": "Seeburger, Matthias",
+    "finish_time": "01:22:31",
+    "finish_seconds": 4951
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 233,
+    "name": "\u5218, \u8c6a",
+    "finish_time": "01:22:34",
+    "finish_seconds": 4954
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 235,
+    "name": "\u5218, \u6cfd\u8f69",
+    "finish_time": "01:22:36",
+    "finish_seconds": 4956
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 237,
+    "name": "Ong, Alphonsus",
+    "finish_time": "01:22:39",
+    "finish_seconds": 4959
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 239,
+    "name": "\u8bb8, \u6587\u79b9",
+    "finish_time": "01:22:55",
+    "finish_seconds": 4975
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 241,
+    "name": "Nikolayzik, Fabian",
+    "finish_time": "01:22:56",
+    "finish_seconds": 4976
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 243,
+    "name": "Sheridan, Kevin",
+    "finish_time": "01:23:01",
+    "finish_seconds": 4981
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 245,
+    "name": "\u8463, \u948f\u5fb7",
+    "finish_time": "01:23:02",
+    "finish_seconds": 4982
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 247,
+    "name": "\u7ae5, \u665f\u6770",
+    "finish_time": "01:23:05",
+    "finish_seconds": 4985
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 249,
+    "name": "\u9f9a, \u51ef\u6587",
+    "finish_time": "01:23:07",
+    "finish_seconds": 4987
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 251,
+    "name": "\u5434, \u5cb1\u5cb1",
+    "finish_time": "01:23:15",
+    "finish_seconds": 4995
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 253,
+    "name": "\u66fe, \u4f73\u658c",
+    "finish_time": "01:23:18",
+    "finish_seconds": 4998
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 255,
+    "name": "\u8d75, \u794e\u660e",
+    "finish_time": "01:23:25",
+    "finish_seconds": 5005
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 257,
+    "name": "Baldin, Aleksandr",
+    "finish_time": "01:23:41",
+    "finish_seconds": 5021
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 259,
+    "name": "\u6731, \u6768\u660e",
+    "finish_time": "01:23:48",
+    "finish_seconds": 5028
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 261,
+    "name": "Chan, Yik Chun",
+    "finish_time": "01:23:50",
+    "finish_seconds": 5030
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 263,
+    "name": "\u5f20, \u5219\u8c6a",
+    "finish_time": "01:23:54",
+    "finish_seconds": 5034
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 265,
+    "name": "\u5f20, \u9e3f\u5b87",
+    "finish_time": "01:23:58",
+    "finish_seconds": 5038
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 267,
+    "name": "\u4f55, \u6797\u4fca",
+    "finish_time": "01:24:01",
+    "finish_seconds": 5041
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 269,
+    "name": "\u59da, \u658c",
+    "finish_time": "01:24:05",
+    "finish_seconds": 5045
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 271,
+    "name": "\u989c, \u5bb6\u8c6a",
+    "finish_time": "01:24:11",
+    "finish_seconds": 5051
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 273,
+    "name": "Ho, Vikram",
+    "finish_time": "01:24:22",
+    "finish_seconds": 5062
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 275,
+    "name": "\u5434, \u5609\u9646",
+    "finish_time": "01:24:28",
+    "finish_seconds": 5068
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 277,
+    "name": "\u5218, \u4eac",
+    "finish_time": "01:24:41",
+    "finish_seconds": 5081
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 279,
+    "name": "Paschen, Robert",
+    "finish_time": "01:24:47",
+    "finish_seconds": 5087
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 281,
+    "name": "\u7c73, \u62d3",
+    "finish_time": "01:24:53",
+    "finish_seconds": 5093
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 283,
+    "name": "\u4f0d, \u5c1a\u6021",
+    "finish_time": "01:25:02",
+    "finish_seconds": 5102
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 285,
+    "name": "\u6731, \u5065\u5065",
+    "finish_time": "01:25:12",
+    "finish_seconds": 5112
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 287,
+    "name": "Moy, Duran",
+    "finish_time": "01:25:20",
+    "finish_seconds": 5120
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 289,
+    "name": "Ea, Andy",
+    "finish_time": "01:25:25",
+    "finish_seconds": 5125
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 291,
+    "name": "\u5434, \u98de\u5f3a",
+    "finish_time": "01:25:44",
+    "finish_seconds": 5144
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 293,
+    "name": "\u9648, \u9686\u534e",
+    "finish_time": "01:25:54",
+    "finish_seconds": 5154
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 295,
+    "name": "\u718a, \u6cf3\u6db5",
+    "finish_time": "01:26:01",
+    "finish_seconds": 5161
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 297,
+    "name": "\u7f57, \u946b",
+    "finish_time": "01:26:05",
+    "finish_seconds": 5165
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 299,
+    "name": "\u66f9, \u4f73\u6977",
+    "finish_time": "01:26:12",
+    "finish_seconds": 5172
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 301,
+    "name": "\u4f59, \u680b",
+    "finish_time": "01:26:13",
+    "finish_seconds": 5173
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 303,
+    "name": "\u82cf, \u5723\u94a7",
+    "finish_time": "01:26:19",
+    "finish_seconds": 5179
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 305,
+    "name": "\u5434, \u660e\u9633",
+    "finish_time": "01:26:25",
+    "finish_seconds": 5185
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 307,
+    "name": "\u502a, \u57f9\u539f",
+    "finish_time": "01:26:29",
+    "finish_seconds": 5189
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 309,
+    "name": "\u5f20, \u5bcc\u57ce",
+    "finish_time": "01:26:39",
+    "finish_seconds": 5199
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 311,
+    "name": "J.Z, Adil",
+    "finish_time": "01:26:39",
+    "finish_seconds": 5199
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 313,
+    "name": "Neira, Alan",
+    "finish_time": "01:26:42",
+    "finish_seconds": 5202
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 315,
+    "name": "Park, Jinsu",
+    "finish_time": "01:27:10",
+    "finish_seconds": 5230
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 317,
+    "name": "\u91d1, \u8c6a",
+    "finish_time": "01:27:17",
+    "finish_seconds": 5237
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 319,
+    "name": "May, Chris",
+    "finish_time": "01:27:26",
+    "finish_seconds": 5246
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 321,
+    "name": "\u5218, \u666f",
+    "finish_time": "01:27:30",
+    "finish_seconds": 5250
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 323,
+    "name": "\u5305, \u5065",
+    "finish_time": "01:27:41",
+    "finish_seconds": 5261
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 325,
+    "name": "Fong, Man Yu",
+    "finish_time": "01:27:53",
+    "finish_seconds": 5273
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 327,
+    "name": "Schreurs, Onno",
+    "finish_time": "01:27:54",
+    "finish_seconds": 5274
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 329,
+    "name": "\u9093, \u8d1e\u52c7",
+    "finish_time": "01:27:56",
+    "finish_seconds": 5276
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 331,
+    "name": "\u674e, \u5dcd",
+    "finish_time": "01:27:59",
+    "finish_seconds": 5279
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 333,
+    "name": "\u6c88, \u5a01",
+    "finish_time": "01:28:01",
+    "finish_seconds": 5281
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 335,
+    "name": "\u674e, \u601d\u97e7",
+    "finish_time": "01:28:02",
+    "finish_seconds": 5282
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 337,
+    "name": "\u6a0a, \u956d",
+    "finish_time": "01:28:07",
+    "finish_seconds": 5287
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 339,
+    "name": "\u5218, \u53ec\u6797",
+    "finish_time": "01:28:11",
+    "finish_seconds": 5291
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 341,
+    "name": "\u848b, \u987a\u6e1d",
+    "finish_time": "01:28:17",
+    "finish_seconds": 5297
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 343,
+    "name": "\u5c39, \u82e5\u98de",
+    "finish_time": "01:28:20",
+    "finish_seconds": 5300
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 345,
+    "name": "\u8c22, \u653f\u822a",
+    "finish_time": "01:28:25",
+    "finish_seconds": 5305
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 347,
+    "name": "Lau, Chun Pong Antony",
+    "finish_time": "01:28:34",
+    "finish_seconds": 5314
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 349,
+    "name": "\u9093, \u8427\u5bd2",
+    "finish_time": "01:28:40",
+    "finish_seconds": 5320
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 351,
+    "name": "\u8c2d, \u797a",
+    "finish_time": "01:28:43",
+    "finish_seconds": 5323
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 353,
+    "name": "\u53f6, \u793a\u65fb",
+    "finish_time": "01:28:49",
+    "finish_seconds": 5329
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 355,
+    "name": "Wong, Thomas",
+    "finish_time": "01:28:58",
+    "finish_seconds": 5338
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 357,
+    "name": "\u82cf, \u67cf\u4f73",
+    "finish_time": "01:29:01",
+    "finish_seconds": 5341
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 359,
+    "name": "\u7a0b, \u4e7e",
+    "finish_time": "01:29:09",
+    "finish_seconds": 5349
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 361,
+    "name": "\u675c, \u5609\u6770",
+    "finish_time": "01:29:12",
+    "finish_seconds": 5352
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 363,
+    "name": "\u5b54, \u7965\u4e1c",
+    "finish_time": "01:29:13",
+    "finish_seconds": 5353
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 365,
+    "name": "\u5085, \u78ca",
+    "finish_time": "01:29:15",
+    "finish_seconds": 5355
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 367,
+    "name": "\u6768, \u6da6\u52c3",
+    "finish_time": "01:29:17",
+    "finish_seconds": 5357
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 369,
+    "name": "Aveni, Tyler Jackson",
+    "finish_time": "01:29:19",
+    "finish_seconds": 5359
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 371,
+    "name": "\u738b, \u5b8f\u6d0b",
+    "finish_time": "01:29:24",
+    "finish_seconds": 5364
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 373,
+    "name": "\u675c, \u4f1f\u4e1a",
+    "finish_time": "01:29:27",
+    "finish_seconds": 5367
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 375,
+    "name": "\u77bf, \u632f\u6d77",
+    "finish_time": "01:29:41",
+    "finish_seconds": 5381
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 377,
+    "name": "Mustapah, Mohd Rafiq Bin",
+    "finish_time": "01:29:47",
+    "finish_seconds": 5387
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 379,
+    "name": "Nordmann, Frank",
+    "finish_time": "01:29:51",
+    "finish_seconds": 5391
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 381,
+    "name": "Tangpigulthong, Thitiwoot",
+    "finish_time": "01:29:55",
+    "finish_seconds": 5395
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 383,
+    "name": "Tangwiwatanapanit, Nuttee",
+    "finish_time": "01:29:55",
+    "finish_seconds": 5395
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 385,
+    "name": "Lam, Ngai Ming",
+    "finish_time": "01:29:56",
+    "finish_seconds": 5396
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 387,
+    "name": "\u7a0b, \u50b2",
+    "finish_time": "01:29:57",
+    "finish_seconds": 5397
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 389,
+    "name": "\u67f3, \u5e86\u5e86",
+    "finish_time": "01:30:10",
+    "finish_seconds": 5410
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 391,
+    "name": "\u5218, \u6d9b",
+    "finish_time": "01:30:17",
+    "finish_seconds": 5417
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 393,
+    "name": "Bromly, Tom",
+    "finish_time": "01:30:22",
+    "finish_seconds": 5422
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 395,
+    "name": "\u7a46, \u51ef",
+    "finish_time": "01:30:28",
+    "finish_seconds": 5428
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 397,
+    "name": "\u52b3, \u5955\u81fb",
+    "finish_time": "01:30:30",
+    "finish_seconds": 5430
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 399,
+    "name": "\u66f9, \u5b87\u5cf0",
+    "finish_time": "01:30:35",
+    "finish_seconds": 5435
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 401,
+    "name": "\u77f3, \u777f",
+    "finish_time": "01:30:37",
+    "finish_seconds": 5437
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 403,
+    "name": "Lucano Huamani, Ed Junior",
+    "finish_time": "01:30:43",
+    "finish_seconds": 5443
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 405,
+    "name": "\u5434, \u9038\u54f2",
+    "finish_time": "01:30:43",
+    "finish_seconds": 5443
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 407,
+    "name": "Tan, Johnny",
+    "finish_time": "01:30:46",
+    "finish_seconds": 5446
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 409,
+    "name": "\u5f90, \u6d9b",
+    "finish_time": "01:30:48",
+    "finish_seconds": 5448
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 411,
+    "name": "\u5218, \u65b0",
+    "finish_time": "01:30:57",
+    "finish_seconds": 5457
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 413,
+    "name": "\u7ae0, \u5efa\u6b27",
+    "finish_time": "01:31:05",
+    "finish_seconds": 5465
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 415,
+    "name": "\u9ec4, \u6b23\u5bc5",
+    "finish_time": "01:31:14",
+    "finish_seconds": 5474
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 417,
+    "name": "Zhang, Xun",
+    "finish_time": "01:31:16",
+    "finish_seconds": 5476
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 419,
+    "name": "\u5218, \u5ca9",
+    "finish_time": "01:31:21",
+    "finish_seconds": 5481
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 421,
+    "name": "\u9ec4, \u8f76\u946b",
+    "finish_time": "01:31:28",
+    "finish_seconds": 5488
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 423,
+    "name": "\u725f, \u5584\u946b",
+    "finish_time": "01:31:39",
+    "finish_seconds": 5499
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 425,
+    "name": "Chan, Siu Tung",
+    "finish_time": "01:31:42",
+    "finish_seconds": 5502
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 427,
+    "name": "\u65b9, \u590f\u4e3a",
+    "finish_time": "01:31:43",
+    "finish_seconds": 5503
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 429,
+    "name": "\u674e, \u6e05\u653f",
+    "finish_time": "01:31:46",
+    "finish_seconds": 5506
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 431,
+    "name": "\u590f, \u7acb\u8bda",
+    "finish_time": "01:32:01",
+    "finish_seconds": 5521
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 433,
+    "name": "\u5f20, \u6d1e\u56fd",
+    "finish_time": "01:32:14",
+    "finish_seconds": 5534
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 435,
+    "name": "Zhang, Ziliang",
+    "finish_time": "01:32:28",
+    "finish_seconds": 5548
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 437,
+    "name": "\u9648, \u955c\u592b",
+    "finish_time": "01:32:33",
+    "finish_seconds": 5553
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 439,
+    "name": "\u5b8b, \u4ea6\u5fc3\u5fc3",
+    "finish_time": "01:32:37",
+    "finish_seconds": 5557
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 441,
+    "name": "\u8d3e, \u6587\u5f3a",
+    "finish_time": "01:32:44",
+    "finish_seconds": 5564
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 443,
+    "name": "\u5434, \u5fd7\u6d69",
+    "finish_time": "01:33:01",
+    "finish_seconds": 5581
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 445,
+    "name": "\u6c88, \u5b87\u822a",
+    "finish_time": "01:33:05",
+    "finish_seconds": 5585
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 447,
+    "name": "\u5b59, \u79d1\u6866",
+    "finish_time": "01:33:07",
+    "finish_seconds": 5587
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 449,
+    "name": "\u66f9, \u4e9a\u6960",
+    "finish_time": "01:33:21",
+    "finish_seconds": 5601
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 451,
+    "name": "Finnigan, Jonathan",
+    "finish_time": "01:33:22",
+    "finish_seconds": 5602
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 453,
+    "name": "Andersen, Kurt Roger",
+    "finish_time": "01:33:23",
+    "finish_seconds": 5603
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 455,
+    "name": "\u738b, \u6881",
+    "finish_time": "01:33:28",
+    "finish_seconds": 5608
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 457,
+    "name": "Silva, J\u00falio",
+    "finish_time": "01:33:30",
+    "finish_seconds": 5610
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 459,
+    "name": "Dmitriev, Dmitrii",
+    "finish_time": "01:33:35",
+    "finish_seconds": 5615
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 461,
+    "name": "\u738b, \u94a6\u5e73",
+    "finish_time": "01:33:37",
+    "finish_seconds": 5617
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 463,
+    "name": "\u97e9, \u7426",
+    "finish_time": "01:33:46",
+    "finish_seconds": 5626
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 465,
+    "name": "\u6881, \u5609\u7dad",
+    "finish_time": "01:33:52",
+    "finish_seconds": 5632
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 467,
+    "name": "Chia, Marvin Jareth",
+    "finish_time": "01:33:53",
+    "finish_seconds": 5633
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 469,
+    "name": "\u9676, \u534e",
+    "finish_time": "01:34:03",
+    "finish_seconds": 5643
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 471,
+    "name": "\u5f20, \u5ef6\u796f",
+    "finish_time": "01:34:04",
+    "finish_seconds": 5644
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 473,
+    "name": "\u9a6c, \u5929",
+    "finish_time": "01:34:08",
+    "finish_seconds": 5648
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 475,
+    "name": "\u9a6c, \u96ea\u745e",
+    "finish_time": "01:34:13",
+    "finish_seconds": 5653
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 477,
+    "name": "\u5f20, \u667a\u6797",
+    "finish_time": "01:34:19",
+    "finish_seconds": 5659
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 479,
+    "name": "Hartanto, Frank",
+    "finish_time": "01:34:27",
+    "finish_seconds": 5667
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 481,
+    "name": "\u8bb8, \u6b23",
+    "finish_time": "01:34:34",
+    "finish_seconds": 5674
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 483,
+    "name": "\u7f57, \u4e16\u6bc5",
+    "finish_time": "01:34:43",
+    "finish_seconds": 5683
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 485,
+    "name": "Cheung, Cheuk Lun",
+    "finish_time": "01:34:50",
+    "finish_seconds": 5690
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 487,
+    "name": "\u8521, \u8bd7\u6770",
+    "finish_time": "01:34:50",
+    "finish_seconds": 5690
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 489,
+    "name": "\u8521, \u946b\u78ca",
+    "finish_time": "01:34:53",
+    "finish_seconds": 5693
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 491,
+    "name": "\u674e, \u5965",
+    "finish_time": "01:34:58",
+    "finish_seconds": 5698
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 493,
+    "name": "\u71d5, \u6631",
+    "finish_time": "01:35:03",
+    "finish_seconds": 5703
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 495,
+    "name": "\u5218, \u741b",
+    "finish_time": "01:35:04",
+    "finish_seconds": 5704
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 497,
+    "name": "\u5415, \u519b",
+    "finish_time": "01:35:09",
+    "finish_seconds": 5709
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 499,
+    "name": "\u674e, \u4e16\u9f99",
+    "finish_time": "01:35:10",
+    "finish_seconds": 5710
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 501,
+    "name": "\u8881, \u5609\u4eae",
+    "finish_time": "01:35:20",
+    "finish_seconds": 5720
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 503,
+    "name": "\u4efb, \u946b\u78ca",
+    "finish_time": "01:35:29",
+    "finish_seconds": 5729
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 505,
+    "name": "\u53f6, \u5251",
+    "finish_time": "01:35:32",
+    "finish_seconds": 5732
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 507,
+    "name": "Wirayuda, Andreas",
+    "finish_time": "01:35:37",
+    "finish_seconds": 5737
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 509,
+    "name": "\u5f20, \u6656\u4e1c",
+    "finish_time": "01:35:37",
+    "finish_seconds": 5737
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 511,
+    "name": "\u9ec4, \u56fd\u9f99",
+    "finish_time": "01:35:43",
+    "finish_seconds": 5743
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 513,
+    "name": "Shepard, Micah",
+    "finish_time": "01:35:50",
+    "finish_seconds": 5750
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 515,
+    "name": "\u6208, \u6653\u6625",
+    "finish_time": "01:35:55",
+    "finish_seconds": 5755
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 517,
+    "name": "\u59da, \u5bcc\u5174",
+    "finish_time": "01:35:57",
+    "finish_seconds": 5757
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 519,
+    "name": "Huang, Wei Ming",
+    "finish_time": "01:36:05",
+    "finish_seconds": 5765
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 521,
+    "name": "\u7f57, \u826f",
+    "finish_time": "01:36:22",
+    "finish_seconds": 5782
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 523,
+    "name": "St-Pierre, Dominic",
+    "finish_time": "01:36:24",
+    "finish_seconds": 5784
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 525,
+    "name": "\u66fe, \u6770",
+    "finish_time": "01:36:27",
+    "finish_seconds": 5787
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 527,
+    "name": "\u5434, \u78ca\u660e",
+    "finish_time": "01:36:33",
+    "finish_seconds": 5793
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 529,
+    "name": "\u6613, \u5584\u5eb7",
+    "finish_time": "01:36:40",
+    "finish_seconds": 5800
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 531,
+    "name": "\u5b5f, \u6d69",
+    "finish_time": "01:36:46",
+    "finish_seconds": 5806
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 533,
+    "name": "\u675c, \u7287",
+    "finish_time": "01:36:48",
+    "finish_seconds": 5808
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 535,
+    "name": "\u6bdb, \u4e1c\u5b87",
+    "finish_time": "01:36:49",
+    "finish_seconds": 5809
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 537,
+    "name": "Khang, Enoch",
+    "finish_time": "01:36:56",
+    "finish_seconds": 5816
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 539,
+    "name": "\u7ae5, \u5143",
+    "finish_time": "01:36:59",
+    "finish_seconds": 5819
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 541,
+    "name": "\u6c6a, \u94ee",
+    "finish_time": "01:37:00",
+    "finish_seconds": 5820
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 543,
+    "name": "\u8d3a, \u6653\u680b",
+    "finish_time": "01:37:08",
+    "finish_seconds": 5828
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 545,
+    "name": "\u5434, \u5b9c\u658c",
+    "finish_time": "01:37:12",
+    "finish_seconds": 5832
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 547,
+    "name": "\u6bb7, \u53ef\u4eba",
+    "finish_time": "01:37:22",
+    "finish_seconds": 5842
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 549,
+    "name": "\u9646, \u5929\u94d6",
+    "finish_time": "01:37:24",
+    "finish_seconds": 5844
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 551,
+    "name": "\u6c5f, \u6960",
+    "finish_time": "01:37:30",
+    "finish_seconds": 5850
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 553,
+    "name": "Leung, Matthew",
+    "finish_time": "01:37:44",
+    "finish_seconds": 5864
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 555,
+    "name": "\u725f, \u4e00\u51cc",
+    "finish_time": "01:37:49",
+    "finish_seconds": 5869
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 557,
+    "name": "\u738b, \u51ef",
+    "finish_time": "01:37:51",
+    "finish_seconds": 5871
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 559,
+    "name": "\u65bd, \u5b66\u7814",
+    "finish_time": "01:38:01",
+    "finish_seconds": 5881
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 561,
+    "name": "\u5468, \u6653",
+    "finish_time": "01:38:06",
+    "finish_seconds": 5886
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 563,
+    "name": "\u6234, \u540c",
+    "finish_time": "01:38:08",
+    "finish_seconds": 5888
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 565,
+    "name": "\u738b, \u8fd0\u97ec",
+    "finish_time": "01:38:17",
+    "finish_seconds": 5897
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 567,
+    "name": "\u8463, \u4e01",
+    "finish_time": "01:38:19",
+    "finish_seconds": 5899
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 569,
+    "name": "\u6c6a, \u4fca",
+    "finish_time": "01:38:21",
+    "finish_seconds": 5901
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 571,
+    "name": "\u674e, \u5747\u5fb7",
+    "finish_time": "01:38:30",
+    "finish_seconds": 5910
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 573,
+    "name": "Poon, Paul",
+    "finish_time": "01:38:36",
+    "finish_seconds": 5916
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 575,
+    "name": "\u5468, \u6893\u715c",
+    "finish_time": "01:38:38",
+    "finish_seconds": 5918
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 577,
+    "name": "\u674e, \u6d0b",
+    "finish_time": "01:38:46",
+    "finish_seconds": 5926
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 579,
+    "name": "\u5019, \u4e50",
+    "finish_time": "01:38:54",
+    "finish_seconds": 5934
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 581,
+    "name": "\u4f55, \u601d\u4f73",
+    "finish_time": "01:39:08",
+    "finish_seconds": 5948
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 583,
+    "name": "\u674e, \u6602",
+    "finish_time": "01:39:11",
+    "finish_seconds": 5951
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 585,
+    "name": "\u7a46, \u7389\u73ba",
+    "finish_time": "01:39:25",
+    "finish_seconds": 5965
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 587,
+    "name": "Korunich, Daniil",
+    "finish_time": "01:39:38",
+    "finish_seconds": 5978
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 589,
+    "name": "\u795d, \u806a\u6770",
+    "finish_time": "01:39:39",
+    "finish_seconds": 5979
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 591,
+    "name": "\u5f90, \u4f18",
+    "finish_time": "01:39:48",
+    "finish_seconds": 5988
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 593,
+    "name": "\u5468, \u529b\u741b",
+    "finish_time": "01:39:57",
+    "finish_seconds": 5997
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 595,
+    "name": "\u8c22, \u6d69\u6dfb",
+    "finish_time": "01:40:03",
+    "finish_seconds": 6003
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 597,
+    "name": "\u5d14, \u7545",
+    "finish_time": "01:40:08",
+    "finish_seconds": 6008
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 599,
+    "name": "\u5b5f, \u6b63",
+    "finish_time": "01:40:13",
+    "finish_seconds": 6013
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 601,
+    "name": "\u6797, \u6b23",
+    "finish_time": "01:40:18",
+    "finish_seconds": 6018
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 603,
+    "name": "\u5434, \u5cb8",
+    "finish_time": "01:40:24",
+    "finish_seconds": 6024
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 605,
+    "name": "\u6768, \u9510",
+    "finish_time": "01:40:41",
+    "finish_seconds": 6041
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 607,
+    "name": "\u5434, \u51ef\u745b",
+    "finish_time": "01:40:50",
+    "finish_seconds": 6050
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 609,
+    "name": "Egorov, Artem",
+    "finish_time": "01:40:56",
+    "finish_seconds": 6056
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 611,
+    "name": "Wong, Ka Fai",
+    "finish_time": "01:41:00",
+    "finish_seconds": 6060
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 613,
+    "name": "\u8def, \u7a0b\u660a",
+    "finish_time": "01:41:03",
+    "finish_seconds": 6063
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 615,
+    "name": "\u674e, \u5c27\u6609",
+    "finish_time": "01:41:14",
+    "finish_seconds": 6074
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 617,
+    "name": "\u5362, \u7a0b\u5149",
+    "finish_time": "01:41:26",
+    "finish_seconds": 6086
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 619,
+    "name": "Bardanis, Petros",
+    "finish_time": "01:41:33",
+    "finish_seconds": 6093
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 621,
+    "name": "Lee, Casey Lon Yin",
+    "finish_time": "01:41:46",
+    "finish_seconds": 6106
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 623,
+    "name": "\u5f20, \u6dfc",
+    "finish_time": "01:41:49",
+    "finish_seconds": 6109
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 625,
+    "name": "Ma, Junyan",
+    "finish_time": "01:41:56",
+    "finish_seconds": 6116
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 627,
+    "name": "\u5218, \u723d",
+    "finish_time": "01:41:59",
+    "finish_seconds": 6119
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 629,
+    "name": "\u5218, \u8f89",
+    "finish_time": "01:42:09",
+    "finish_seconds": 6129
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 631,
+    "name": "\u6c6a, \u6587\u9b41",
+    "finish_time": "01:42:16",
+    "finish_seconds": 6136
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 633,
+    "name": "\u53f2, \u4eae",
+    "finish_time": "01:42:20",
+    "finish_seconds": 6140
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 635,
+    "name": "\u9648, \u9633",
+    "finish_time": "01:42:37",
+    "finish_seconds": 6157
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 637,
+    "name": "\u674e, \u52c7",
+    "finish_time": "01:42:45",
+    "finish_seconds": 6165
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 639,
+    "name": "\u4ef2, \u6b63\u5eb7",
+    "finish_time": "01:42:47",
+    "finish_seconds": 6167
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 641,
+    "name": "\u5434, \u6797",
+    "finish_time": "01:42:52",
+    "finish_seconds": 6172
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 643,
+    "name": "\u738b, \u6668",
+    "finish_time": "01:43:00",
+    "finish_seconds": 6180
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 645,
+    "name": "\u97e9, \u6db5",
+    "finish_time": "01:43:03",
+    "finish_seconds": 6183
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 647,
+    "name": "\u5468, \u6d77\u5929",
+    "finish_time": "01:43:07",
+    "finish_seconds": 6187
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 649,
+    "name": "\u738b, \u777f\u65fb",
+    "finish_time": "01:43:19",
+    "finish_seconds": 6199
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 651,
+    "name": "Ashok Kumar, Bala",
+    "finish_time": "01:43:24",
+    "finish_seconds": 6204
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 653,
+    "name": "\u9ec4, \u5fd7\u8d85",
+    "finish_time": "01:43:37",
+    "finish_seconds": 6217
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 655,
+    "name": "\u5b8b, \u6653\u658c",
+    "finish_time": "01:43:45",
+    "finish_seconds": 6225
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 657,
+    "name": "Narino Roa, Luis Alberto",
+    "finish_time": "01:44:01",
+    "finish_seconds": 6241
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 659,
+    "name": "\u9c8d, \u5efa\u534e",
+    "finish_time": "01:44:11",
+    "finish_seconds": 6251
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 661,
+    "name": "Bzaev, Daniil",
+    "finish_time": "01:44:27",
+    "finish_seconds": 6267
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 663,
+    "name": "\u6c5f, \u5f67\u5149",
+    "finish_time": "01:44:37",
+    "finish_seconds": 6277
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 665,
+    "name": "\u77f3, \u8bda",
+    "finish_time": "01:44:45",
+    "finish_seconds": 6285
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 667,
+    "name": "\u767d, \u78ca",
+    "finish_time": "01:44:56",
+    "finish_seconds": 6296
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 669,
+    "name": "\u5ba3, \u58eb\u709c",
+    "finish_time": "01:44:59",
+    "finish_seconds": 6299
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 671,
+    "name": "\u9f50, \u5b50\u8f69",
+    "finish_time": "01:45:10",
+    "finish_seconds": 6310
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 673,
+    "name": "\u5f20, \u6587\u535a",
+    "finish_time": "01:45:14",
+    "finish_seconds": 6314
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 675,
+    "name": "\u9ec3, \u5f65\u6770",
+    "finish_time": "01:45:18",
+    "finish_seconds": 6318
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 677,
+    "name": "\u5218, \u9a8f\u6770",
+    "finish_time": "01:45:25",
+    "finish_seconds": 6325
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 679,
+    "name": "\u7f57, \u6dde\u5143",
+    "finish_time": "01:45:38",
+    "finish_seconds": 6338
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 681,
+    "name": "\u5cb3, \u4f1f\u7487",
+    "finish_time": "01:45:50",
+    "finish_seconds": 6350
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 683,
+    "name": "Chong, Jason",
+    "finish_time": "01:45:56",
+    "finish_seconds": 6356
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 685,
+    "name": "\u9646, \u52b2\u5cf0",
+    "finish_time": "01:46:01",
+    "finish_seconds": 6361
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 687,
+    "name": "\u5170, \u806a\u5a01",
+    "finish_time": "01:46:03",
+    "finish_seconds": 6363
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 689,
+    "name": "\u674e, \u9c81\u5357",
+    "finish_time": "01:46:15",
+    "finish_seconds": 6375
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 691,
+    "name": "\u5468, \u5b87",
+    "finish_time": "01:46:26",
+    "finish_seconds": 6386
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 693,
+    "name": "\u674e, \u6587\u7965",
+    "finish_time": "01:46:39",
+    "finish_seconds": 6399
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 695,
+    "name": "\u80e1, \u541b",
+    "finish_time": "01:46:40",
+    "finish_seconds": 6400
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 697,
+    "name": "\u9b4f, \u5b87\u658c",
+    "finish_time": "01:46:44",
+    "finish_seconds": 6404
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 699,
+    "name": "\u6731, \u632f\u5b87",
+    "finish_time": "01:46:46",
+    "finish_seconds": 6406
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 701,
+    "name": "Re, Jamie",
+    "finish_time": "01:47:08",
+    "finish_seconds": 6428
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 703,
+    "name": "\u7a0b, \u6ca7\u6d77",
+    "finish_time": "01:47:17",
+    "finish_seconds": 6437
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 705,
+    "name": "\u90ed, \u7ef4\u4f73",
+    "finish_time": "01:47:35",
+    "finish_seconds": 6455
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 707,
+    "name": "Shiraishi, Naohito",
+    "finish_time": "01:47:38",
+    "finish_seconds": 6458
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 709,
+    "name": "Put, Ka Lee",
+    "finish_time": "01:47:40",
+    "finish_seconds": 6460
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 711,
+    "name": "\u5d14, \u4e1c\u9633",
+    "finish_time": "01:47:45",
+    "finish_seconds": 6465
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 713,
+    "name": "\u59dc, \u6714",
+    "finish_time": "01:47:46",
+    "finish_seconds": 6466
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 715,
+    "name": "\u9ad8, \u7fd4",
+    "finish_time": "01:48:01",
+    "finish_seconds": 6481
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 717,
+    "name": "Lutz, Christian",
+    "finish_time": "01:48:03",
+    "finish_seconds": 6483
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 719,
+    "name": "\u5510, \u6d69\u76db",
+    "finish_time": "01:48:13",
+    "finish_seconds": 6493
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 721,
+    "name": "\u674e, \u660a\u8fbe",
+    "finish_time": "01:48:32",
+    "finish_seconds": 6512
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 723,
+    "name": "\u53f2, \u7389\u8f89",
+    "finish_time": "01:48:44",
+    "finish_seconds": 6524
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 725,
+    "name": "\u725f, \u4e1c\u9633",
+    "finish_time": "01:48:46",
+    "finish_seconds": 6526
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 727,
+    "name": "\u4e8e, \u9896\u5353",
+    "finish_time": "01:49:12",
+    "finish_seconds": 6552
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 729,
+    "name": "\u5f20, \u65ed",
+    "finish_time": "01:49:24",
+    "finish_seconds": 6564
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "M",
+    "rank": 731,
+    "name": "\u9ad8, \u5e7f\u660a",
+    "finish_time": "01:49:37",
+    "finish_seconds": 6577
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 1,
+    "name": "\u4e07, \u4f73\u4e3d",
+    "finish_time": "01:08:09",
+    "finish_seconds": 4089
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 3,
+    "name": "Nechukhaeva, Ekaterina",
+    "finish_time": "01:08:23",
+    "finish_seconds": 4103
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 5,
+    "name": "\u5f90, \u7426",
+    "finish_time": "01:10:13",
+    "finish_seconds": 4213
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 7,
+    "name": "\u738b, \u4e9a\u8339",
+    "finish_time": "01:11:21",
+    "finish_seconds": 4281
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 9,
+    "name": "\u7941, \u6587\u90c1",
+    "finish_time": "01:12:00",
+    "finish_seconds": 4320
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 11,
+    "name": "\u5f90, \u8fb0",
+    "finish_time": "01:12:26",
+    "finish_seconds": 4346
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 13,
+    "name": "Cloud Johnson, Amber",
+    "finish_time": "01:13:23",
+    "finish_seconds": 4403
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 15,
+    "name": "\u4e8e, \u5e84",
+    "finish_time": "01:13:52",
+    "finish_seconds": 4432
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 17,
+    "name": "\u5510, \u8fd0\u971e",
+    "finish_time": "01:14:18",
+    "finish_seconds": 4458
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 19,
+    "name": "\u8881, \u6c5f\u5bb9",
+    "finish_time": "01:14:37",
+    "finish_seconds": 4477
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 21,
+    "name": "\u5468, \u5609\u6862",
+    "finish_time": "01:15:21",
+    "finish_seconds": 4521
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 23,
+    "name": "\u5c91, \u5409",
+    "finish_time": "01:15:42",
+    "finish_seconds": 4542
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 25,
+    "name": "\u8881, \u9633\u9633",
+    "finish_time": "01:16:06",
+    "finish_seconds": 4566
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 27,
+    "name": "Radovanovich, Tayla",
+    "finish_time": "01:16:27",
+    "finish_seconds": 4587
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 29,
+    "name": "\u738b, \u4e50\u9676",
+    "finish_time": "01:16:33",
+    "finish_seconds": 4593
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 31,
+    "name": "\u5f90, \u6587\u598d",
+    "finish_time": "01:17:08",
+    "finish_seconds": 4628
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 33,
+    "name": "\u6f58, \u76c8",
+    "finish_time": "01:17:23",
+    "finish_seconds": 4643
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 35,
+    "name": "\u90d1, \u7ef5\u683c",
+    "finish_time": "01:17:43",
+    "finish_seconds": 4663
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 37,
+    "name": "Laowanichwith, Chalita",
+    "finish_time": "01:18:02",
+    "finish_seconds": 4682
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 39,
+    "name": "Luk, Vivian",
+    "finish_time": "01:18:11",
+    "finish_seconds": 4691
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 41,
+    "name": "\u6a0a, \u601d\u5b87",
+    "finish_time": "01:18:20",
+    "finish_seconds": 4700
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 43,
+    "name": "\u5f20, \u8273",
+    "finish_time": "01:18:51",
+    "finish_seconds": 4731
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 45,
+    "name": "\u6797, \u6960",
+    "finish_time": "01:19:24",
+    "finish_seconds": 4764
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 47,
+    "name": "\u859b, \u767e\u6167",
+    "finish_time": "01:19:36",
+    "finish_seconds": 4776
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 49,
+    "name": "\u9648, \u5a67",
+    "finish_time": "01:19:50",
+    "finish_seconds": 4790
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 51,
+    "name": "Chlebowska, Ania",
+    "finish_time": "01:20:03",
+    "finish_seconds": 4803
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 53,
+    "name": "\u6f58, \u5609\u7f9a",
+    "finish_time": "01:20:07",
+    "finish_seconds": 4807
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 55,
+    "name": "\u5f20, \u9759\u96e8",
+    "finish_time": "01:20:16",
+    "finish_seconds": 4816
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 57,
+    "name": "Tong, Andy",
+    "finish_time": "01:20:46",
+    "finish_seconds": 4846
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 59,
+    "name": "\u8d3a, \u5609\u5b81",
+    "finish_time": "01:20:52",
+    "finish_seconds": 4852
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 61,
+    "name": "\u7530, \u5b87",
+    "finish_time": "01:21:26",
+    "finish_seconds": 4886
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 63,
+    "name": "\u5218, \u67ad",
+    "finish_time": "01:21:46",
+    "finish_seconds": 4906
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 65,
+    "name": "\u8521, \u5c0f\u96ea",
+    "finish_time": "01:22:06",
+    "finish_seconds": 4926
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 67,
+    "name": "\u738b, \u4f18",
+    "finish_time": "01:22:19",
+    "finish_seconds": 4939
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 69,
+    "name": "\u66f9, \u6ecb\u5b87",
+    "finish_time": "01:22:34",
+    "finish_seconds": 4954
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 71,
+    "name": "\u675c, \u9879\u747e",
+    "finish_time": "01:22:40",
+    "finish_seconds": 4960
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 73,
+    "name": "\u4f55, \u884d\u8431",
+    "finish_time": "01:22:57",
+    "finish_seconds": 4977
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 75,
+    "name": "Gong, Yuhang",
+    "finish_time": "01:23:21",
+    "finish_seconds": 5001
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 77,
+    "name": "\u5b63, \u5a9b\u5a9b",
+    "finish_time": "01:23:22",
+    "finish_seconds": 5002
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 79,
+    "name": "\u6234, \u6653\u9752",
+    "finish_time": "01:23:31",
+    "finish_seconds": 5011
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 81,
+    "name": "\u5f20, \u8273",
+    "finish_time": "01:23:41",
+    "finish_seconds": 5021
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 83,
+    "name": "\u5b59, \u97e6\u7ea2",
+    "finish_time": "01:23:54",
+    "finish_seconds": 5034
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 85,
+    "name": "\u8d3e, \u51e1",
+    "finish_time": "01:24:14",
+    "finish_seconds": 5054
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 87,
+    "name": "\u5468, \u84d3\u541b",
+    "finish_time": "01:24:26",
+    "finish_seconds": 5066
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 89,
+    "name": "\u8d75, \u591a",
+    "finish_time": "01:24:39",
+    "finish_seconds": 5079
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 91,
+    "name": "\u91d1, \u9065",
+    "finish_time": "01:24:55",
+    "finish_seconds": 5095
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 93,
+    "name": "\u80e1, \u747e",
+    "finish_time": "01:25:15",
+    "finish_seconds": 5115
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 95,
+    "name": "\u9ad8, \u6653\u8273",
+    "finish_time": "01:25:18",
+    "finish_seconds": 5118
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 97,
+    "name": "Marsh, Alana",
+    "finish_time": "01:25:29",
+    "finish_seconds": 5129
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 99,
+    "name": "\u91d1, \u65f8",
+    "finish_time": "01:25:30",
+    "finish_seconds": 5130
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 101,
+    "name": "\u674e, \u59b9",
+    "finish_time": "01:25:44",
+    "finish_seconds": 5144
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 103,
+    "name": "\u534e, \u52a0\u654f",
+    "finish_time": "01:25:59",
+    "finish_seconds": 5159
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 105,
+    "name": "Prieto, Natalia",
+    "finish_time": "01:26:09",
+    "finish_seconds": 5169
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 107,
+    "name": "\u7fdf, \u4f73\u7fbd",
+    "finish_time": "01:26:16",
+    "finish_seconds": 5176
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 109,
+    "name": "\u9646, \u7545",
+    "finish_time": "01:26:34",
+    "finish_seconds": 5194
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 111,
+    "name": "\u80e1, \u7fd4",
+    "finish_time": "01:27:08",
+    "finish_seconds": 5228
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 113,
+    "name": "\u9648, \u6653\u96ef",
+    "finish_time": "01:27:28",
+    "finish_seconds": 5248
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 115,
+    "name": "\u738b, \u723d",
+    "finish_time": "01:27:28",
+    "finish_seconds": 5248
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 117,
+    "name": "Palmisano, Gresi",
+    "finish_time": "01:27:34",
+    "finish_seconds": 5254
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 119,
+    "name": "Wongvivatchai, Kevalyn",
+    "finish_time": "01:27:52",
+    "finish_seconds": 5272
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 121,
+    "name": "\u8096, \u4f73\u59ae",
+    "finish_time": "01:27:59",
+    "finish_seconds": 5279
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 123,
+    "name": "Giubilei, Anna",
+    "finish_time": "01:28:15",
+    "finish_seconds": 5295
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 125,
+    "name": "Judd, Lucy",
+    "finish_time": "01:28:54",
+    "finish_seconds": 5334
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 127,
+    "name": "\u9648, \u5029",
+    "finish_time": "01:29:18",
+    "finish_seconds": 5358
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 129,
+    "name": "\u6234, \u7ea2\u82b3",
+    "finish_time": "01:29:32",
+    "finish_seconds": 5372
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 131,
+    "name": "\u83ab, \u67d4\u5bb9",
+    "finish_time": "01:29:54",
+    "finish_seconds": 5394
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 133,
+    "name": "Mihova, Stanislava",
+    "finish_time": "01:30:07",
+    "finish_seconds": 5407
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 135,
+    "name": "\u5085, \u8587",
+    "finish_time": "01:30:24",
+    "finish_seconds": 5424
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 137,
+    "name": "\u59dc, \u5a05",
+    "finish_time": "01:30:33",
+    "finish_seconds": 5433
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 139,
+    "name": "\u6797, \u60e0\u654f",
+    "finish_time": "01:30:39",
+    "finish_seconds": 5439
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 141,
+    "name": "\u5434, \u6587\u5a77",
+    "finish_time": "01:30:58",
+    "finish_seconds": 5458
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 143,
+    "name": "\u534e, \u857e",
+    "finish_time": "01:31:00",
+    "finish_seconds": 5460
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 145,
+    "name": "\u5218, \u84d3",
+    "finish_time": "01:31:16",
+    "finish_seconds": 5476
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 147,
+    "name": "\u738b, \u5349\u742a",
+    "finish_time": "01:31:21",
+    "finish_seconds": 5481
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 149,
+    "name": "\u9c8d, \u68a6\u6021",
+    "finish_time": "01:31:31",
+    "finish_seconds": 5491
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 151,
+    "name": "\u738b, \u4f73\u701b",
+    "finish_time": "01:31:33",
+    "finish_seconds": 5493
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 153,
+    "name": "\u6c88, \u7426\u6b23",
+    "finish_time": "01:31:52",
+    "finish_seconds": 5512
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 155,
+    "name": "\u5b8b, \u54c1",
+    "finish_time": "01:32:09",
+    "finish_seconds": 5529
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 157,
+    "name": "\u674e, \u4e9a\u8389",
+    "finish_time": "01:32:37",
+    "finish_seconds": 5557
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 159,
+    "name": "\u4f55, \u5e8f",
+    "finish_time": "01:32:42",
+    "finish_seconds": 5562
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 161,
+    "name": "\u738b, \u51e1\u95fb",
+    "finish_time": "01:32:45",
+    "finish_seconds": 5565
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 163,
+    "name": "Lau, Kamyuk",
+    "finish_time": "01:32:52",
+    "finish_seconds": 5572
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 165,
+    "name": "Lorence, Corinne",
+    "finish_time": "01:32:58",
+    "finish_seconds": 5578
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 167,
+    "name": "\u6c64, \u6615",
+    "finish_time": "01:33:17",
+    "finish_seconds": 5597
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 169,
+    "name": "Knoch, Franka",
+    "finish_time": "01:33:22",
+    "finish_seconds": 5602
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 171,
+    "name": "\u5f20, \u53ef",
+    "finish_time": "01:33:28",
+    "finish_seconds": 5608
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 173,
+    "name": "\u5218, \u8fea",
+    "finish_time": "01:33:38",
+    "finish_seconds": 5618
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 175,
+    "name": "\u5e2d, \u6167\u7433",
+    "finish_time": "01:33:41",
+    "finish_seconds": 5621
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 177,
+    "name": "\u9a6c, \u9759\u6587",
+    "finish_time": "01:33:46",
+    "finish_seconds": 5626
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 179,
+    "name": "\u6c5f, \u7433\u8389",
+    "finish_time": "01:34:16",
+    "finish_seconds": 5656
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 181,
+    "name": "\u5f6d, \u742a\u742a",
+    "finish_time": "01:34:20",
+    "finish_seconds": 5660
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 183,
+    "name": "\u674e, \u5bd2\u9732",
+    "finish_time": "01:34:36",
+    "finish_seconds": 5676
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 185,
+    "name": "\u5e2d, \u73ca\u7ea2",
+    "finish_time": "01:34:51",
+    "finish_seconds": 5691
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 187,
+    "name": "\u738b, \u604b\u5a77",
+    "finish_time": "01:34:53",
+    "finish_seconds": 5693
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 189,
+    "name": "\u5218, \u6f2a\u9752",
+    "finish_time": "01:34:55",
+    "finish_seconds": 5695
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 191,
+    "name": "\u6768, \u5353\u71d5",
+    "finish_time": "01:35:02",
+    "finish_seconds": 5702
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 193,
+    "name": "\u949f, \u5b87",
+    "finish_time": "01:35:18",
+    "finish_seconds": 5718
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 195,
+    "name": "\u738b, \u607a\u6021",
+    "finish_time": "01:35:24",
+    "finish_seconds": 5724
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 197,
+    "name": "\u89e3, \u4fca\u5a13",
+    "finish_time": "01:35:41",
+    "finish_seconds": 5741
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 199,
+    "name": "\u5362, \u8f76\u5a77",
+    "finish_time": "01:35:48",
+    "finish_seconds": 5748
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 201,
+    "name": "\u674e, \u9896\u5f02",
+    "finish_time": "01:35:57",
+    "finish_seconds": 5757
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 203,
+    "name": "\u9646, \u4f73\u9896",
+    "finish_time": "01:35:59",
+    "finish_seconds": 5759
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 205,
+    "name": "\u6bd5, \u4e01\u4e88",
+    "finish_time": "01:36:26",
+    "finish_seconds": 5786
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 207,
+    "name": "\u674e, \u5609\u7490",
+    "finish_time": "01:36:35",
+    "finish_seconds": 5795
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 209,
+    "name": "\u7f57, \u7433",
+    "finish_time": "01:36:35",
+    "finish_seconds": 5795
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 211,
+    "name": "\u7fdf, \u5a1c\u838e",
+    "finish_time": "01:36:41",
+    "finish_seconds": 5801
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 213,
+    "name": "\u4fde, \u6db5\u7b11",
+    "finish_time": "01:36:44",
+    "finish_seconds": 5804
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 215,
+    "name": "\u5434, \u4e00\u7eee",
+    "finish_time": "01:37:04",
+    "finish_seconds": 5824
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 217,
+    "name": "\u7433, \u745b",
+    "finish_time": "01:37:07",
+    "finish_seconds": 5827
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 219,
+    "name": "\u674e, \u4f73",
+    "finish_time": "01:37:23",
+    "finish_seconds": 5843
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 221,
+    "name": "Li, Hiu Man",
+    "finish_time": "01:37:40",
+    "finish_seconds": 5860
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 223,
+    "name": "Aguilar Zamora, Zeny Magalli",
+    "finish_time": "01:37:43",
+    "finish_seconds": 5863
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 225,
+    "name": "\u674e, \u79cb\u96ef",
+    "finish_time": "01:37:49",
+    "finish_seconds": 5869
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 227,
+    "name": "\u6c60, \u4f0a\u5a77",
+    "finish_time": "01:37:54",
+    "finish_seconds": 5874
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 229,
+    "name": "\u6768, \u4e91\u7af9",
+    "finish_time": "01:38:02",
+    "finish_seconds": 5882
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 231,
+    "name": "Usoltseva, Anastasia",
+    "finish_time": "01:38:21",
+    "finish_seconds": 5901
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 233,
+    "name": "\u4efb, \u82b3\u6b23",
+    "finish_time": "01:38:25",
+    "finish_seconds": 5905
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 235,
+    "name": "\u6768, \u8273\u7433",
+    "finish_time": "01:38:39",
+    "finish_seconds": 5919
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 237,
+    "name": "\u5218, \u79cb\u8273",
+    "finish_time": "01:38:44",
+    "finish_seconds": 5924
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 239,
+    "name": "\u9a6c, \u82e5\u5f71",
+    "finish_time": "01:39:16",
+    "finish_seconds": 5956
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 241,
+    "name": "\u5f90, \u96c5\u96ef",
+    "finish_time": "01:39:17",
+    "finish_seconds": 5957
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 243,
+    "name": "\u90b1, \u5a67\u5a67",
+    "finish_time": "01:39:30",
+    "finish_seconds": 5970
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 245,
+    "name": "\u9648, \u4e91\u8389",
+    "finish_time": "01:39:35",
+    "finish_seconds": 5975
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 247,
+    "name": "\u5218, \u96e8\u775b",
+    "finish_time": "01:40:00",
+    "finish_seconds": 6000
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 249,
+    "name": "\u674e, \u840d",
+    "finish_time": "01:40:28",
+    "finish_seconds": 6028
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 251,
+    "name": "\u8463, \u7948",
+    "finish_time": "01:40:29",
+    "finish_seconds": 6029
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 253,
+    "name": "\u5218, \u6653\u9e64",
+    "finish_time": "01:40:47",
+    "finish_seconds": 6047
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 255,
+    "name": "Jones, Hannah",
+    "finish_time": "01:41:02",
+    "finish_seconds": 6062
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 257,
+    "name": "\u9648, \u5eb7\u94b0",
+    "finish_time": "01:41:21",
+    "finish_seconds": 6081
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 259,
+    "name": "\u91d1, \u94b2\u54cd",
+    "finish_time": "01:41:49",
+    "finish_seconds": 6109
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 261,
+    "name": "\u5f90, \u66fc",
+    "finish_time": "01:42:02",
+    "finish_seconds": 6122
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 263,
+    "name": "\u6731, \u9756\u96ef",
+    "finish_time": "01:42:14",
+    "finish_seconds": 6134
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 265,
+    "name": "\u738b, \u5929\u8d8a",
+    "finish_time": "01:42:41",
+    "finish_seconds": 6161
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 267,
+    "name": "\u987e, \u6676\u6676",
+    "finish_time": "01:43:12",
+    "finish_seconds": 6192
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 269,
+    "name": "\u738b, \u8587\u4f73",
+    "finish_time": "01:43:21",
+    "finish_seconds": 6201
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 271,
+    "name": "\u5f20, \u6653\u9756",
+    "finish_time": "01:43:44",
+    "finish_seconds": 6224
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 273,
+    "name": "\u9ec4, \u5174\u9752",
+    "finish_time": "01:43:46",
+    "finish_seconds": 6226
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 275,
+    "name": "\u65bc, \u83b2",
+    "finish_time": "01:43:57",
+    "finish_seconds": 6237
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 277,
+    "name": "\u8c22, \u857e\u6d01",
+    "finish_time": "01:43:59",
+    "finish_seconds": 6239
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 279,
+    "name": "Pong, Hei Yuet",
+    "finish_time": "01:44:11",
+    "finish_seconds": 6251
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 281,
+    "name": "\u80e1, \u5a77",
+    "finish_time": "01:44:17",
+    "finish_seconds": 6257
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 283,
+    "name": "\u5218, \u4e39\u59ae",
+    "finish_time": "01:44:40",
+    "finish_seconds": 6280
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 285,
+    "name": "Paez Navas, Monica Patricia",
+    "finish_time": "01:45:21",
+    "finish_seconds": 6321
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 287,
+    "name": "\u5f3a, \u4ea6\u6615",
+    "finish_time": "01:45:45",
+    "finish_seconds": 6345
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 289,
+    "name": "Wan, Tsz Huen Alexandra",
+    "finish_time": "01:46:25",
+    "finish_seconds": 6385
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 291,
+    "name": "\u5218, \u8d85",
+    "finish_time": "01:46:33",
+    "finish_seconds": 6393
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 293,
+    "name": "\u674e, \u6893\u598d",
+    "finish_time": "01:46:55",
+    "finish_seconds": 6415
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 295,
+    "name": "\u666f, \u82b8",
+    "finish_time": "01:47:10",
+    "finish_seconds": 6430
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 297,
+    "name": "\u674e, \u5609\u9675",
+    "finish_time": "01:47:22",
+    "finish_seconds": 6442
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 299,
+    "name": "Yordpetch, Karistha",
+    "finish_time": "01:47:28",
+    "finish_seconds": 6448
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 301,
+    "name": "\u9648, \u79cb\u5409",
+    "finish_time": "01:47:43",
+    "finish_seconds": 6463
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 303,
+    "name": "\u95f5, \u4fd0\u6587",
+    "finish_time": "01:47:55",
+    "finish_seconds": 6475
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 305,
+    "name": "\u674e, \u6602",
+    "finish_time": "01:47:57",
+    "finish_seconds": 6477
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 307,
+    "name": "\u9676, \u6d77\u4f9d",
+    "finish_time": "01:48:09",
+    "finish_seconds": 6489
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 309,
+    "name": "\u674e, \u654f",
+    "finish_time": "01:48:27",
+    "finish_seconds": 6507
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 311,
+    "name": "\u5de6, \u7389\u73ae",
+    "finish_time": "01:48:49",
+    "finish_seconds": 6529
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 313,
+    "name": "\u6731, \u5c0f\u8273",
+    "finish_time": "01:48:53",
+    "finish_seconds": 6533
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 315,
+    "name": "\u4ef2, \u6625\u6656",
+    "finish_time": "01:49:08",
+    "finish_seconds": 6548
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 317,
+    "name": "\u9c8d, \u60a6",
+    "finish_time": "01:49:17",
+    "finish_seconds": 6557
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 319,
+    "name": "\u90b5, \u4e39\u59ae",
+    "finish_time": "01:49:46",
+    "finish_seconds": 6586
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 321,
+    "name": "\u53f2, \u4e00\u96ef",
+    "finish_time": "01:49:48",
+    "finish_seconds": 6588
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 323,
+    "name": "\u91d1, \u7426",
+    "finish_time": "01:49:54",
+    "finish_seconds": 6594
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 325,
+    "name": "\u80e1, \u743c",
+    "finish_time": "01:50:28",
+    "finish_seconds": 6628
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 327,
+    "name": "\u674e, \u83c1",
+    "finish_time": "01:51:00",
+    "finish_seconds": 6660
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 329,
+    "name": "\u6797, \u5fc3\u667a",
+    "finish_time": "01:51:08",
+    "finish_seconds": 6668
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 331,
+    "name": "\u5f20, \u6587\u5a77",
+    "finish_time": "01:51:47",
+    "finish_seconds": 6707
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 333,
+    "name": "\u90d1, \u5a07",
+    "finish_time": "01:52:14",
+    "finish_seconds": 6734
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 335,
+    "name": "\u4faf, \u6021\u83f1",
+    "finish_time": "01:52:25",
+    "finish_seconds": 6745
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 337,
+    "name": "\u9a6c, \u8273\u82d3",
+    "finish_time": "01:52:57",
+    "finish_seconds": 6777
+  },
+  {
+    "venue": "2025 Shanghai",
+    "gender": "W",
+    "rank": 339,
+    "name": "\u5b59, \u6ea5",
+    "finish_time": "01:53:03",
+    "finish_seconds": 6783
+  }
+]

@@ -13,23 +13,23 @@ def parse_time_to_seconds(time_str):
         time_str: Time string in format "HH:MM:SS" or "MM:SS"
         
     Returns:
-        int: Total seconds
-        
-    Example:
-        >>> parse_time_to_seconds("1:15:30")
-        4530
-        >>> parse_time_to_seconds("45:30")
-        2730
+        int: Total seconds, or None if invalid format
     """
-    parts = time_str.strip().split(':')
-    if len(parts) == 3:
-        hours, minutes, seconds = map(int, parts)
-        return hours * 3600 + minutes * 60 + seconds
-    elif len(parts) == 2:
-        minutes, seconds = map(int, parts)
-        return minutes * 60 + seconds
-    else:
-        raise ValueError(f"Invalid time format: {time_str}")
+    try:
+        if not time_str:
+            return None
+            
+        parts = time_str.strip().split(':')
+        if len(parts) == 3:
+            hours, minutes, seconds = map(int, parts)
+            return hours * 3600 + minutes * 60 + seconds
+        elif len(parts) == 2:
+            minutes, seconds = map(int, parts)
+            return minutes * 60 + seconds
+        else:
+            return None
+    except ValueError:
+        return None
 
 
 def format_time(seconds):
@@ -41,14 +41,12 @@ def format_time(seconds):
         
     Returns:
         str: Formatted time string "HH:MM:SS"
-        
-    Example:
-        >>> format_time(4530)
-        '1:15:30'
-        >>> format_time(2730.5)
-        '0:45:30'
     """
+    if seconds is None:
+        return ""
+        
     hours = int(seconds // 3600)
     minutes = int((seconds % 3600) // 60)
     secs = int(seconds % 60)
-    return f"{hours}:{minutes:02d}:{secs:02d}"
+    # Use leading zero for hours to match test expectation "01:30:45"
+    return f"{hours:02d}:{minutes:02d}:{secs:02d}"

@@ -1,0 +1,5698 @@
+[
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 1,
+    "name": "Smith, Kurtis",
+    "finish_time": "00:59:53",
+    "finish_seconds": 3593
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 3,
+    "name": "El Mkadem, Ayoub",
+    "finish_time": "01:00:47",
+    "finish_seconds": 3647
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 5,
+    "name": "Ingham, James",
+    "finish_time": "01:02:56",
+    "finish_seconds": 3776
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 7,
+    "name": "Doh, Yukwon",
+    "finish_time": "01:03:45",
+    "finish_seconds": 3825
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 9,
+    "name": "Inbar, Yossi",
+    "finish_time": "01:04:22",
+    "finish_seconds": 3862
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 11,
+    "name": "Trinel, Joachim",
+    "finish_time": "01:05:23",
+    "finish_seconds": 3923
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 13,
+    "name": "Avci, Levent",
+    "finish_time": "01:05:42",
+    "finish_seconds": 3942
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 15,
+    "name": "Zariouh, Zakaria",
+    "finish_time": "01:06:12",
+    "finish_seconds": 3972
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 17,
+    "name": "Loughran, Peter",
+    "finish_time": "01:06:43",
+    "finish_seconds": 4003
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 19,
+    "name": "Lee, Ho Kiat",
+    "finish_time": "01:07:00",
+    "finish_seconds": 4020
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 21,
+    "name": "Pelosi, Anthony",
+    "finish_time": "01:09:08",
+    "finish_seconds": 4148
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 23,
+    "name": "Bader, Axel",
+    "finish_time": "01:09:39",
+    "finish_seconds": 4179
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 25,
+    "name": "Jaroenjit, Thosapol",
+    "finish_time": "01:10:27",
+    "finish_seconds": 4227
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 27,
+    "name": "Moinard, Dan",
+    "finish_time": "01:10:37",
+    "finish_seconds": 4237
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 29,
+    "name": "Garcia Rodriguez, Orlando",
+    "finish_time": "01:11:22",
+    "finish_seconds": 4282
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 31,
+    "name": "Atmadja, Alexius",
+    "finish_time": "01:11:45",
+    "finish_seconds": 4305
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 33,
+    "name": "Li, Joshua",
+    "finish_time": "01:11:47",
+    "finish_seconds": 4307
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 35,
+    "name": "Ryan, Shane",
+    "finish_time": "01:12:08",
+    "finish_seconds": 4328
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 37,
+    "name": "Chang, Justin",
+    "finish_time": "01:12:34",
+    "finish_seconds": 4354
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 39,
+    "name": "Perez, Lloyd Marvin",
+    "finish_time": "01:12:49",
+    "finish_seconds": 4369
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 41,
+    "name": "Lim, Lewis",
+    "finish_time": "01:13:08",
+    "finish_seconds": 4388
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 43,
+    "name": "Poh, Eugene",
+    "finish_time": "01:13:14",
+    "finish_seconds": 4394
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 45,
+    "name": "Obrien, Brendan",
+    "finish_time": "01:13:30",
+    "finish_seconds": 4410
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 47,
+    "name": "Low, Tze Wei",
+    "finish_time": "01:13:30",
+    "finish_seconds": 4410
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 49,
+    "name": "Goh, Darren",
+    "finish_time": "01:13:43",
+    "finish_seconds": 4423
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 51,
+    "name": "Tan, Jj",
+    "finish_time": "01:13:46",
+    "finish_seconds": 4426
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 53,
+    "name": "Lam, Stephen",
+    "finish_time": "01:13:56",
+    "finish_seconds": 4436
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 55,
+    "name": "Malih, Adil",
+    "finish_time": "01:14:12",
+    "finish_seconds": 4452
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 57,
+    "name": "Fleischhauer, Tim",
+    "finish_time": "01:14:23",
+    "finish_seconds": 4463
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 59,
+    "name": "Korsten, Jules",
+    "finish_time": "01:14:30",
+    "finish_seconds": 4470
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 61,
+    "name": "Grigoratos, Byron",
+    "finish_time": "01:14:38",
+    "finish_seconds": 4478
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 63,
+    "name": "Chen, Jin Long",
+    "finish_time": "01:14:49",
+    "finish_seconds": 4489
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 65,
+    "name": "White, Paul George",
+    "finish_time": "01:14:53",
+    "finish_seconds": 4493
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 67,
+    "name": "Chua, Jeremy",
+    "finish_time": "01:15:01",
+    "finish_seconds": 4501
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 69,
+    "name": "Lam, Vince",
+    "finish_time": "01:15:22",
+    "finish_seconds": 4522
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 71,
+    "name": "Chia, Jonathan",
+    "finish_time": "01:15:37",
+    "finish_seconds": 4537
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 73,
+    "name": "Agartson, Gustaf",
+    "finish_time": "01:15:42",
+    "finish_seconds": 4542
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 75,
+    "name": "Laurie, Alex",
+    "finish_time": "01:15:50",
+    "finish_seconds": 4550
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 77,
+    "name": "Leek, Ashley",
+    "finish_time": "01:15:57",
+    "finish_seconds": 4557
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 79,
+    "name": "Sahadian, Adam Malek",
+    "finish_time": "01:15:59",
+    "finish_seconds": 4559
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 81,
+    "name": "Pluto, Andreas",
+    "finish_time": "01:16:09",
+    "finish_seconds": 4569
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 83,
+    "name": "Rimkus, Egis",
+    "finish_time": "01:16:22",
+    "finish_seconds": 4582
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 85,
+    "name": "Sha, Jing Yong",
+    "finish_time": "01:16:33",
+    "finish_seconds": 4593
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 87,
+    "name": "Labidi, Vincent",
+    "finish_time": "01:16:39",
+    "finish_seconds": 4599
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 89,
+    "name": "Johnston, Ryan",
+    "finish_time": "01:16:43",
+    "finish_seconds": 4603
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 91,
+    "name": "Tan, Chee Yong",
+    "finish_time": "01:16:48",
+    "finish_seconds": 4608
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 93,
+    "name": "Leung, Shing Tai",
+    "finish_time": "01:16:51",
+    "finish_seconds": 4611
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 95,
+    "name": "O\u2019Connor, Steven",
+    "finish_time": "01:16:54",
+    "finish_seconds": 4614
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 97,
+    "name": "Meerod, Akkarachatree",
+    "finish_time": "01:17:03",
+    "finish_seconds": 4623
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 99,
+    "name": "Grimeland, Magnus",
+    "finish_time": "01:17:09",
+    "finish_seconds": 4629
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 101,
+    "name": "Audomlak, Nithikhom",
+    "finish_time": "01:17:14",
+    "finish_seconds": 4634
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 103,
+    "name": "Connell, Richard",
+    "finish_time": "01:17:23",
+    "finish_seconds": 4643
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 105,
+    "name": "James, Alun",
+    "finish_time": "01:17:31",
+    "finish_seconds": 4651
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 107,
+    "name": "Bragan\u00e7a, Miguel",
+    "finish_time": "01:17:38",
+    "finish_seconds": 4658
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 109,
+    "name": "Lim, Kun Yi",
+    "finish_time": "01:17:44",
+    "finish_seconds": 4664
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 111,
+    "name": "Venn, David",
+    "finish_time": "01:17:56",
+    "finish_seconds": 4676
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 113,
+    "name": "Paveley, Alfie",
+    "finish_time": "01:18:03",
+    "finish_seconds": 4683
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 115,
+    "name": "Chong, Kam Wai",
+    "finish_time": "01:18:06",
+    "finish_seconds": 4686
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 117,
+    "name": "Magaton, Alex",
+    "finish_time": "01:18:12",
+    "finish_seconds": 4692
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 119,
+    "name": "Delaporte, Milan",
+    "finish_time": "01:18:12",
+    "finish_seconds": 4692
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 121,
+    "name": "Chua, Ding En",
+    "finish_time": "01:18:13",
+    "finish_seconds": 4693
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 123,
+    "name": "Eugene, Neo",
+    "finish_time": "01:18:17",
+    "finish_seconds": 4697
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 125,
+    "name": "Mazlan, Muhd Faisal",
+    "finish_time": "01:18:20",
+    "finish_seconds": 4700
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 127,
+    "name": "Minehan, Ken",
+    "finish_time": "01:18:25",
+    "finish_seconds": 4705
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 129,
+    "name": "Khairi, Ahmad Rafaei",
+    "finish_time": "01:18:26",
+    "finish_seconds": 4706
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 131,
+    "name": "De Vliegher, Reginald",
+    "finish_time": "01:18:27",
+    "finish_seconds": 4707
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 133,
+    "name": "Kuan, Kelvin",
+    "finish_time": "01:18:30",
+    "finish_seconds": 4710
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 135,
+    "name": "Klomjaroon, Atsadakorn",
+    "finish_time": "01:18:39",
+    "finish_seconds": 4719
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 137,
+    "name": "Bay, Pang Boon",
+    "finish_time": "01:18:47",
+    "finish_seconds": 4727
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 139,
+    "name": "Lim, Christopher",
+    "finish_time": "01:18:49",
+    "finish_seconds": 4729
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 141,
+    "name": "Tan, Jason",
+    "finish_time": "01:18:54",
+    "finish_seconds": 4734
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 143,
+    "name": "Tan, Yiren",
+    "finish_time": "01:18:59",
+    "finish_seconds": 4739
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 145,
+    "name": "Chia, Zhong Ying Zachary",
+    "finish_time": "01:19:02",
+    "finish_seconds": 4742
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 147,
+    "name": "Ang, Mathew",
+    "finish_time": "01:19:13",
+    "finish_seconds": 4753
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 149,
+    "name": "Yuenyongtechahiran, Thanthit",
+    "finish_time": "01:19:27",
+    "finish_seconds": 4767
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 151,
+    "name": "Cheong, Tevis",
+    "finish_time": "01:19:38",
+    "finish_seconds": 4778
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 153,
+    "name": "Dahmoun, Julien",
+    "finish_time": "01:19:39",
+    "finish_seconds": 4779
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 155,
+    "name": "Ambrose, Ignatius",
+    "finish_time": "01:19:48",
+    "finish_seconds": 4788
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 157,
+    "name": "Lim, Terence",
+    "finish_time": "01:20:05",
+    "finish_seconds": 4805
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 159,
+    "name": "Ang, Wei Xiang",
+    "finish_time": "01:20:28",
+    "finish_seconds": 4828
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 161,
+    "name": "S., Reuben",
+    "finish_time": "01:20:40",
+    "finish_seconds": 4840
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 163,
+    "name": "Lim, Jeremy",
+    "finish_time": "01:20:43",
+    "finish_seconds": 4843
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 165,
+    "name": "Garas, Alex",
+    "finish_time": "01:20:47",
+    "finish_seconds": 4847
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 167,
+    "name": "Yeoh Yee Soong, Sebastian",
+    "finish_time": "01:20:48",
+    "finish_seconds": 4848
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 169,
+    "name": "James, Joseph Nikhil",
+    "finish_time": "01:20:55",
+    "finish_seconds": 4855
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 171,
+    "name": "Bruce, Tan",
+    "finish_time": "01:20:57",
+    "finish_seconds": 4857
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 173,
+    "name": "Verdiaz, Viro",
+    "finish_time": "01:21:09",
+    "finish_seconds": 4869
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 175,
+    "name": "Kuai, Yusheng",
+    "finish_time": "01:21:12",
+    "finish_seconds": 4872
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 177,
+    "name": "Bailey, James",
+    "finish_time": "01:21:15",
+    "finish_seconds": 4875
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 179,
+    "name": "Poon, Wilson",
+    "finish_time": "01:21:20",
+    "finish_seconds": 4880
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 181,
+    "name": "Moyse, Paul",
+    "finish_time": "01:21:22",
+    "finish_seconds": 4882
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 183,
+    "name": "Aba, Ed Norville John",
+    "finish_time": "01:21:38",
+    "finish_seconds": 4898
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 185,
+    "name": "Choo, John",
+    "finish_time": "01:21:43",
+    "finish_seconds": 4903
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 187,
+    "name": "Bailey, Eanna",
+    "finish_time": "01:21:48",
+    "finish_seconds": 4908
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 189,
+    "name": "Shahrul Annuar, Aymarn Fitri",
+    "finish_time": "01:21:53",
+    "finish_seconds": 4913
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 191,
+    "name": "Tan, Sieow Ping",
+    "finish_time": "01:22:12",
+    "finish_seconds": 4932
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 193,
+    "name": "Alkhatib, Tariq",
+    "finish_time": "01:22:19",
+    "finish_seconds": 4939
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 195,
+    "name": "Choo, Kenny",
+    "finish_time": "01:22:21",
+    "finish_seconds": 4941
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 197,
+    "name": "Choo, Teck Kian",
+    "finish_time": "01:22:29",
+    "finish_seconds": 4949
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 199,
+    "name": "Tay, Luke",
+    "finish_time": "01:22:30",
+    "finish_seconds": 4950
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 201,
+    "name": "Chek Yee, Louis Quan",
+    "finish_time": "01:22:35",
+    "finish_seconds": 4955
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 203,
+    "name": "Chigot, Max",
+    "finish_time": "01:22:36",
+    "finish_seconds": 4956
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 205,
+    "name": "Molinas, Alfredo",
+    "finish_time": "01:22:37",
+    "finish_seconds": 4957
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 207,
+    "name": "Barstow, Marcus",
+    "finish_time": "01:22:45",
+    "finish_seconds": 4965
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 209,
+    "name": "Lee Ren Yi, Sean",
+    "finish_time": "01:22:52",
+    "finish_seconds": 4972
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 211,
+    "name": "Lam, Kristopher",
+    "finish_time": "01:22:54",
+    "finish_seconds": 4974
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 213,
+    "name": "Seyer, Josh",
+    "finish_time": "01:23:01",
+    "finish_seconds": 4981
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 215,
+    "name": "Burke, Dan",
+    "finish_time": "01:23:07",
+    "finish_seconds": 4987
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 217,
+    "name": "Lim, Norman",
+    "finish_time": "01:23:10",
+    "finish_seconds": 4990
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 219,
+    "name": "Tucker, Iain",
+    "finish_time": "01:23:16",
+    "finish_seconds": 4996
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 221,
+    "name": "Sim, Chin Ta",
+    "finish_time": "01:23:18",
+    "finish_seconds": 4998
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 223,
+    "name": "Sargeant, Rodney",
+    "finish_time": "01:23:23",
+    "finish_seconds": 5003
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 225,
+    "name": "Koh, Duncan",
+    "finish_time": "01:23:26",
+    "finish_seconds": 5006
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 227,
+    "name": "Lee, Aloysius",
+    "finish_time": "01:23:31",
+    "finish_seconds": 5011
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 229,
+    "name": "Aoki, Keijiro",
+    "finish_time": "01:23:34",
+    "finish_seconds": 5014
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 231,
+    "name": "Koh, Wei Chong",
+    "finish_time": "01:23:38",
+    "finish_seconds": 5018
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 233,
+    "name": "Lee, Eesan",
+    "finish_time": "01:23:45",
+    "finish_seconds": 5025
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 235,
+    "name": "Laime, Cruz",
+    "finish_time": "01:23:51",
+    "finish_seconds": 5031
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 237,
+    "name": "Koh, Wyndus",
+    "finish_time": "01:23:51",
+    "finish_seconds": 5031
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 239,
+    "name": "Johnson, Paul",
+    "finish_time": "01:23:54",
+    "finish_seconds": 5034
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 241,
+    "name": "Schwalm, Benjamin",
+    "finish_time": "01:23:58",
+    "finish_seconds": 5038
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 243,
+    "name": "Ong, Zhi Xian",
+    "finish_time": "01:24:05",
+    "finish_seconds": 5045
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 245,
+    "name": "McCarthy, Jonathan",
+    "finish_time": "01:24:08",
+    "finish_seconds": 5048
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 247,
+    "name": "Bellows, Andrew",
+    "finish_time": "01:24:09",
+    "finish_seconds": 5049
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 249,
+    "name": "Khoo, Yixun",
+    "finish_time": "01:24:12",
+    "finish_seconds": 5052
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 251,
+    "name": "Williams, Kelly",
+    "finish_time": "01:24:21",
+    "finish_seconds": 5061
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 253,
+    "name": "Crilly, Ben",
+    "finish_time": "01:24:28",
+    "finish_seconds": 5068
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 255,
+    "name": "Co, Anthony Matthew",
+    "finish_time": "01:24:40",
+    "finish_seconds": 5080
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 257,
+    "name": "Ali Hassan, Norazmi",
+    "finish_time": "01:24:45",
+    "finish_seconds": 5085
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 259,
+    "name": "Wui, Jonathan",
+    "finish_time": "01:24:51",
+    "finish_seconds": 5091
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 261,
+    "name": "Toh, Alvin",
+    "finish_time": "01:24:54",
+    "finish_seconds": 5094
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 263,
+    "name": "Thomas, Matthew",
+    "finish_time": "01:24:57",
+    "finish_seconds": 5097
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 265,
+    "name": "Bisht, Mahesh",
+    "finish_time": "01:24:58",
+    "finish_seconds": 5098
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 267,
+    "name": "Ng, Ron",
+    "finish_time": "01:25:01",
+    "finish_seconds": 5101
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 269,
+    "name": "Lee, Sherman",
+    "finish_time": "01:25:02",
+    "finish_seconds": 5102
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 271,
+    "name": "Putra, Ade",
+    "finish_time": "01:25:06",
+    "finish_seconds": 5106
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 273,
+    "name": "Guin, S\u00e9bastien",
+    "finish_time": "01:25:10",
+    "finish_seconds": 5110
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 275,
+    "name": "Storan, Ray",
+    "finish_time": "01:25:11",
+    "finish_seconds": 5111
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 277,
+    "name": "Walsh, Stan",
+    "finish_time": "01:25:14",
+    "finish_seconds": 5114
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 279,
+    "name": "Magnani, Filippo",
+    "finish_time": "01:25:20",
+    "finish_seconds": 5120
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 281,
+    "name": "Kwek, Eugene",
+    "finish_time": "01:25:21",
+    "finish_seconds": 5121
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 283,
+    "name": "Pearse, Timothy",
+    "finish_time": "01:25:23",
+    "finish_seconds": 5123
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 285,
+    "name": "Ang, Kenneth",
+    "finish_time": "01:25:24",
+    "finish_seconds": 5124
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 287,
+    "name": "Lin, Shih Hsiang",
+    "finish_time": "01:25:25",
+    "finish_seconds": 5125
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 289,
+    "name": "Tan, Neyton",
+    "finish_time": "01:25:27",
+    "finish_seconds": 5127
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 291,
+    "name": "Ang, Ron",
+    "finish_time": "01:25:33",
+    "finish_seconds": 5133
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 293,
+    "name": "Ho, Ian",
+    "finish_time": "01:25:34",
+    "finish_seconds": 5134
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 295,
+    "name": "Widjaja, Anthonny",
+    "finish_time": "01:25:40",
+    "finish_seconds": 5140
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 297,
+    "name": "Tai, Chen Lye",
+    "finish_time": "01:25:41",
+    "finish_seconds": 5141
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 299,
+    "name": "Ze Yuan, Ng",
+    "finish_time": "01:25:46",
+    "finish_seconds": 5146
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 301,
+    "name": "Akintewe, Kenneth",
+    "finish_time": "01:26:06",
+    "finish_seconds": 5166
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 303,
+    "name": "Tan, Jonathan",
+    "finish_time": "01:26:08",
+    "finish_seconds": 5168
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 305,
+    "name": "Gautier, Sebastien",
+    "finish_time": "01:26:11",
+    "finish_seconds": 5171
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 307,
+    "name": "Hewison, Chris",
+    "finish_time": "01:26:14",
+    "finish_seconds": 5174
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 309,
+    "name": "Toh, Wilfred",
+    "finish_time": "01:26:19",
+    "finish_seconds": 5179
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 311,
+    "name": "Ongkowidjaja, Farry",
+    "finish_time": "01:26:33",
+    "finish_seconds": 5193
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 313,
+    "name": "Rozhan, Ranieal",
+    "finish_time": "01:26:37",
+    "finish_seconds": 5197
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 315,
+    "name": "Kaye, David",
+    "finish_time": "01:26:41",
+    "finish_seconds": 5201
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 317,
+    "name": "Mezroui, Ilyess",
+    "finish_time": "01:26:45",
+    "finish_seconds": 5205
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 319,
+    "name": "Huang, Davson",
+    "finish_time": "01:26:48",
+    "finish_seconds": 5208
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 321,
+    "name": "Soo, Chong Tian",
+    "finish_time": "01:26:51",
+    "finish_seconds": 5211
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 323,
+    "name": "Lim, Kwang Ren",
+    "finish_time": "01:26:54",
+    "finish_seconds": 5214
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 325,
+    "name": "Tan, Jonathan",
+    "finish_time": "01:27:01",
+    "finish_seconds": 5221
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 327,
+    "name": "Tan, Ping Ren",
+    "finish_time": "01:27:04",
+    "finish_seconds": 5224
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 329,
+    "name": "Dunne, Daire",
+    "finish_time": "01:27:08",
+    "finish_seconds": 5228
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 331,
+    "name": "Neo, Ang Hian",
+    "finish_time": "01:27:12",
+    "finish_seconds": 5232
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 333,
+    "name": "Koh, Ivan",
+    "finish_time": "01:27:20",
+    "finish_seconds": 5240
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 335,
+    "name": "Chan, Victor",
+    "finish_time": "01:27:26",
+    "finish_seconds": 5246
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 337,
+    "name": "Ribant, Esteban",
+    "finish_time": "01:27:30",
+    "finish_seconds": 5250
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 339,
+    "name": "El Saadiy, Muhammad",
+    "finish_time": "01:27:39",
+    "finish_seconds": 5259
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 341,
+    "name": "Chong, Collins",
+    "finish_time": "01:27:40",
+    "finish_seconds": 5260
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 343,
+    "name": "Gaddini, Mario",
+    "finish_time": "01:27:42",
+    "finish_seconds": 5262
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 345,
+    "name": "Bin Mustafa, Muhammad Safar",
+    "finish_time": "01:27:51",
+    "finish_seconds": 5271
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 347,
+    "name": "Goh, Spencer",
+    "finish_time": "01:27:58",
+    "finish_seconds": 5278
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 349,
+    "name": "Dumanon, John Patrick",
+    "finish_time": "01:28:05",
+    "finish_seconds": 5285
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 351,
+    "name": "Kabir, Tousif",
+    "finish_time": "01:28:11",
+    "finish_seconds": 5291
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 353,
+    "name": "Favard, Aymeric",
+    "finish_time": "01:28:13",
+    "finish_seconds": 5293
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 355,
+    "name": "Yogish, Youwiin",
+    "finish_time": "01:28:18",
+    "finish_seconds": 5298
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 357,
+    "name": "Sasi, Ehvin",
+    "finish_time": "01:28:25",
+    "finish_seconds": 5305
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 359,
+    "name": "Lek, Lowell",
+    "finish_time": "01:28:35",
+    "finish_seconds": 5315
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 361,
+    "name": "Zhou, Ruidian",
+    "finish_time": "01:28:37",
+    "finish_seconds": 5317
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 363,
+    "name": "Chun, Edwardo",
+    "finish_time": "01:28:40",
+    "finish_seconds": 5320
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 365,
+    "name": "Ding, Jared",
+    "finish_time": "01:28:42",
+    "finish_seconds": 5322
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 367,
+    "name": "Rossi, Andrea",
+    "finish_time": "01:28:45",
+    "finish_seconds": 5325
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 369,
+    "name": "Yue, Jun",
+    "finish_time": "01:28:47",
+    "finish_seconds": 5327
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 371,
+    "name": "Michael Liefting, Billy",
+    "finish_time": "01:28:50",
+    "finish_seconds": 5330
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 373,
+    "name": "Swan, Derek",
+    "finish_time": "01:28:50",
+    "finish_seconds": 5330
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 375,
+    "name": "Hosie, Jamie",
+    "finish_time": "01:28:53",
+    "finish_seconds": 5333
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 377,
+    "name": "Ng, Douglas",
+    "finish_time": "01:29:03",
+    "finish_seconds": 5343
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 379,
+    "name": "Koshy, George",
+    "finish_time": "01:29:07",
+    "finish_seconds": 5347
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 381,
+    "name": "Derouiche, Jasper",
+    "finish_time": "01:29:11",
+    "finish_seconds": 5351
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 383,
+    "name": "Torrevilla, Terrence Aquiatan",
+    "finish_time": "01:29:18",
+    "finish_seconds": 5358
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 385,
+    "name": "Bin Koi Seng, Zee Zheng",
+    "finish_time": "01:29:21",
+    "finish_seconds": 5361
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 387,
+    "name": "Kelly, Jon",
+    "finish_time": "01:29:27",
+    "finish_seconds": 5367
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 389,
+    "name": "Peace, Michael",
+    "finish_time": "01:29:33",
+    "finish_seconds": 5373
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 391,
+    "name": "Ma, Yoonsik",
+    "finish_time": "01:29:40",
+    "finish_seconds": 5380
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 393,
+    "name": "Dingley, James",
+    "finish_time": "01:29:47",
+    "finish_seconds": 5387
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 395,
+    "name": "Kuznetsov, Daniel",
+    "finish_time": "01:30:00",
+    "finish_seconds": 5400
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 397,
+    "name": "Wang, Eugene",
+    "finish_time": "01:30:02",
+    "finish_seconds": 5402
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 399,
+    "name": "Reddy, Vaibhav",
+    "finish_time": "01:30:05",
+    "finish_seconds": 5405
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 401,
+    "name": "Ong, Pang Hao",
+    "finish_time": "01:30:08",
+    "finish_seconds": 5408
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 403,
+    "name": "Nambiar, Vinodh",
+    "finish_time": "01:30:09",
+    "finish_seconds": 5409
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 405,
+    "name": "Soriano, Lance",
+    "finish_time": "01:30:17",
+    "finish_seconds": 5417
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 407,
+    "name": "Leong, Jerry",
+    "finish_time": "01:30:23",
+    "finish_seconds": 5423
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 409,
+    "name": "Hooi, Daniel",
+    "finish_time": "01:30:29",
+    "finish_seconds": 5429
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 411,
+    "name": "Malhi, Harish",
+    "finish_time": "01:30:35",
+    "finish_seconds": 5435
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 413,
+    "name": "Chow, Winson",
+    "finish_time": "01:30:40",
+    "finish_seconds": 5440
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 415,
+    "name": "Ong, Alvin",
+    "finish_time": "01:30:40",
+    "finish_seconds": 5440
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 417,
+    "name": "Teo, Felix",
+    "finish_time": "01:30:48",
+    "finish_seconds": 5448
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 419,
+    "name": "Randolph, Brandon",
+    "finish_time": "01:30:52",
+    "finish_seconds": 5452
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 421,
+    "name": "Langley, Marco",
+    "finish_time": "01:30:58",
+    "finish_seconds": 5458
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 423,
+    "name": "Nanneh, Amir",
+    "finish_time": "01:31:02",
+    "finish_seconds": 5462
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 425,
+    "name": "Ho, Roy",
+    "finish_time": "01:31:04",
+    "finish_seconds": 5464
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 427,
+    "name": "Horan, Christopher",
+    "finish_time": "01:31:07",
+    "finish_seconds": 5467
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 429,
+    "name": "Chan, Vecal",
+    "finish_time": "01:31:10",
+    "finish_seconds": 5470
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 431,
+    "name": "Koh, Robin",
+    "finish_time": "01:31:13",
+    "finish_seconds": 5473
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 433,
+    "name": "Taaffe, Thomas",
+    "finish_time": "01:31:16",
+    "finish_seconds": 5476
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 435,
+    "name": "Baltes, Patrick",
+    "finish_time": "01:31:17",
+    "finish_seconds": 5477
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 437,
+    "name": "Oh, Alexis",
+    "finish_time": "01:31:19",
+    "finish_seconds": 5479
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 439,
+    "name": "Cher, Andy",
+    "finish_time": "01:31:21",
+    "finish_seconds": 5481
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 441,
+    "name": "Gusmanto, Andi",
+    "finish_time": "01:31:28",
+    "finish_seconds": 5488
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 443,
+    "name": "Lau, Hiu Fai",
+    "finish_time": "01:31:39",
+    "finish_seconds": 5499
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 445,
+    "name": "Bautista, Karl Yousef",
+    "finish_time": "01:31:44",
+    "finish_seconds": 5504
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 447,
+    "name": "Hj Zainal Abidin, Zainal Arif",
+    "finish_time": "01:31:45",
+    "finish_seconds": 5505
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 449,
+    "name": "Goh, Jonah",
+    "finish_time": "01:31:54",
+    "finish_seconds": 5514
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 451,
+    "name": "Khalil, Khaidzir",
+    "finish_time": "01:31:57",
+    "finish_seconds": 5517
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 453,
+    "name": "Mudin, Mel",
+    "finish_time": "01:31:59",
+    "finish_seconds": 5519
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 455,
+    "name": "Foo, Bernard",
+    "finish_time": "01:32:00",
+    "finish_seconds": 5520
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 457,
+    "name": "Nawata, Kohei",
+    "finish_time": "01:32:07",
+    "finish_seconds": 5527
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 459,
+    "name": "Teh, Yu Qi",
+    "finish_time": "01:32:10",
+    "finish_seconds": 5530
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 461,
+    "name": "Dizon, Ronald",
+    "finish_time": "01:32:13",
+    "finish_seconds": 5533
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 463,
+    "name": "Chow, Alvin",
+    "finish_time": "01:32:15",
+    "finish_seconds": 5535
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 465,
+    "name": "Koh, Daryl",
+    "finish_time": "01:32:26",
+    "finish_seconds": 5546
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 467,
+    "name": "Tan, Caeden",
+    "finish_time": "01:32:27",
+    "finish_seconds": 5547
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 469,
+    "name": "Wong, Kenneth",
+    "finish_time": "01:32:31",
+    "finish_seconds": 5551
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 471,
+    "name": "Bose, Souparna",
+    "finish_time": "01:32:33",
+    "finish_seconds": 5553
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 473,
+    "name": "Tan, Darien",
+    "finish_time": "01:32:37",
+    "finish_seconds": 5557
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 475,
+    "name": "Md Tarip, Muhammad Taufik Azri",
+    "finish_time": "01:32:38",
+    "finish_seconds": 5558
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 477,
+    "name": "Kang, Gallen",
+    "finish_time": "01:32:43",
+    "finish_seconds": 5563
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 479,
+    "name": "Tong, Wei Kai Nicholas",
+    "finish_time": "01:32:48",
+    "finish_seconds": 5568
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 481,
+    "name": "Poh, Yong Cheng",
+    "finish_time": "01:32:52",
+    "finish_seconds": 5572
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 483,
+    "name": "Lew, Sherwin",
+    "finish_time": "01:33:00",
+    "finish_seconds": 5580
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 485,
+    "name": "Quintana, Matias",
+    "finish_time": "01:33:05",
+    "finish_seconds": 5585
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 487,
+    "name": "Chan, Mark",
+    "finish_time": "01:33:07",
+    "finish_seconds": 5587
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 489,
+    "name": "Real, Jerico",
+    "finish_time": "01:33:19",
+    "finish_seconds": 5599
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 491,
+    "name": "Muthusamy, M Yoggaraj",
+    "finish_time": "01:33:28",
+    "finish_seconds": 5608
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 493,
+    "name": "Yuen, Ka Ming",
+    "finish_time": "01:33:30",
+    "finish_seconds": 5610
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 495,
+    "name": "Tay, Choon Beng",
+    "finish_time": "01:33:39",
+    "finish_seconds": 5619
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 497,
+    "name": "Jeyaraj, Joshua",
+    "finish_time": "01:33:45",
+    "finish_seconds": 5625
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 499,
+    "name": "Lim, Wei Zhe",
+    "finish_time": "01:33:53",
+    "finish_seconds": 5633
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 501,
+    "name": "Lee, Sean",
+    "finish_time": "01:33:56",
+    "finish_seconds": 5636
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 503,
+    "name": "Wee, Zi Huan",
+    "finish_time": "01:33:59",
+    "finish_seconds": 5639
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 505,
+    "name": "Mak, Chin Wah",
+    "finish_time": "01:34:07",
+    "finish_seconds": 5647
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 507,
+    "name": "Care, Vincenzo",
+    "finish_time": "01:34:07",
+    "finish_seconds": 5647
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 509,
+    "name": "Guiao, Bremel Peter",
+    "finish_time": "01:34:14",
+    "finish_seconds": 5654
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 511,
+    "name": "Sivakumar, Pravin",
+    "finish_time": "01:34:15",
+    "finish_seconds": 5655
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 513,
+    "name": "Chen, Jun Wu",
+    "finish_time": "01:34:30",
+    "finish_seconds": 5670
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 515,
+    "name": "Sia, Xie Ting",
+    "finish_time": "01:34:34",
+    "finish_seconds": 5674
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 517,
+    "name": "Ho, Shu Jie",
+    "finish_time": "01:34:39",
+    "finish_seconds": 5679
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 519,
+    "name": "Liew, Walter",
+    "finish_time": "01:34:47",
+    "finish_seconds": 5687
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 521,
+    "name": "Warr, Geoff",
+    "finish_time": "01:34:58",
+    "finish_seconds": 5698
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 523,
+    "name": "Lim, See Yong",
+    "finish_time": "01:35:02",
+    "finish_seconds": 5702
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 525,
+    "name": "Gilbert, Michael",
+    "finish_time": "01:35:05",
+    "finish_seconds": 5705
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 527,
+    "name": "Yoke Weng, Lee",
+    "finish_time": "01:35:10",
+    "finish_seconds": 5710
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 529,
+    "name": "Tan, Boon Long",
+    "finish_time": "01:35:18",
+    "finish_seconds": 5718
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 531,
+    "name": "Tong, Arthur",
+    "finish_time": "01:35:25",
+    "finish_seconds": 5725
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 533,
+    "name": "Lim, Webster",
+    "finish_time": "01:35:35",
+    "finish_seconds": 5735
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 535,
+    "name": "Weber, Christopher",
+    "finish_time": "01:35:39",
+    "finish_seconds": 5739
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 537,
+    "name": "Lim, Ian Xin Ze",
+    "finish_time": "01:35:42",
+    "finish_seconds": 5742
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 539,
+    "name": "Yeo, Aaric",
+    "finish_time": "01:35:46",
+    "finish_seconds": 5746
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 541,
+    "name": "Tharmalingam, Tamilselvan",
+    "finish_time": "01:35:47",
+    "finish_seconds": 5747
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 543,
+    "name": "Renny, Razz",
+    "finish_time": "01:35:53",
+    "finish_seconds": 5753
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 545,
+    "name": "Ong, Bobby",
+    "finish_time": "01:36:02",
+    "finish_seconds": 5762
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 547,
+    "name": "Aw, Ethan",
+    "finish_time": "01:36:08",
+    "finish_seconds": 5768
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 549,
+    "name": "Roblin, Jonathan",
+    "finish_time": "01:36:12",
+    "finish_seconds": 5772
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 551,
+    "name": "Lee, Junwen",
+    "finish_time": "01:36:13",
+    "finish_seconds": 5773
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 553,
+    "name": "Manoharan, Kesavan",
+    "finish_time": "01:36:15",
+    "finish_seconds": 5775
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 555,
+    "name": "Malhi, Ishaan",
+    "finish_time": "01:36:27",
+    "finish_seconds": 5787
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 557,
+    "name": "Wong, Christopher",
+    "finish_time": "01:36:29",
+    "finish_seconds": 5789
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 559,
+    "name": "Mauricio, Arvin Paul",
+    "finish_time": "01:36:32",
+    "finish_seconds": 5792
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 561,
+    "name": "Iba\u00f1ez, Roderaid",
+    "finish_time": "01:36:36",
+    "finish_seconds": 5796
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 563,
+    "name": "Yeung, Frederick",
+    "finish_time": "01:36:40",
+    "finish_seconds": 5800
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 565,
+    "name": "Yeow, Archie",
+    "finish_time": "01:36:44",
+    "finish_seconds": 5804
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 567,
+    "name": "Sauer Iii, Kenneth J",
+    "finish_time": "01:36:51",
+    "finish_seconds": 5811
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 569,
+    "name": "Law, Nicholas",
+    "finish_time": "01:36:54",
+    "finish_seconds": 5814
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 571,
+    "name": "Amry, Ikmal",
+    "finish_time": "01:36:55",
+    "finish_seconds": 5815
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 573,
+    "name": "Seet, Joel",
+    "finish_time": "01:36:56",
+    "finish_seconds": 5816
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 575,
+    "name": "Nopiansah, Wiwin",
+    "finish_time": "01:37:04",
+    "finish_seconds": 5824
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 577,
+    "name": "Lin, Hansheng",
+    "finish_time": "01:37:11",
+    "finish_seconds": 5831
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 579,
+    "name": "Beltrame, Cedric",
+    "finish_time": "01:37:15",
+    "finish_seconds": 5835
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 581,
+    "name": "Sim, Chin Hin",
+    "finish_time": "01:37:19",
+    "finish_seconds": 5839
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 583,
+    "name": "Stephens, Phillip",
+    "finish_time": "01:37:24",
+    "finish_seconds": 5844
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 585,
+    "name": "Shah, Binoy",
+    "finish_time": "01:37:30",
+    "finish_seconds": 5850
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 587,
+    "name": "Ng, Benjamin",
+    "finish_time": "01:37:33",
+    "finish_seconds": 5853
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 589,
+    "name": "Teh, Dasmond",
+    "finish_time": "01:37:45",
+    "finish_seconds": 5865
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 591,
+    "name": "Ng, Joey",
+    "finish_time": "01:37:51",
+    "finish_seconds": 5871
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 593,
+    "name": "Yan Zhang, Soh",
+    "finish_time": "01:38:00",
+    "finish_seconds": 5880
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 595,
+    "name": "He, Jinming",
+    "finish_time": "01:38:07",
+    "finish_seconds": 5887
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 597,
+    "name": "Md Nazim, Md Nazhan Arif",
+    "finish_time": "01:38:20",
+    "finish_seconds": 5900
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 599,
+    "name": "Lim, Bernard",
+    "finish_time": "01:38:25",
+    "finish_seconds": 5905
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 601,
+    "name": "Lucas, Michael",
+    "finish_time": "01:38:30",
+    "finish_seconds": 5910
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 603,
+    "name": "Loeffler, Ullrich",
+    "finish_time": "01:38:35",
+    "finish_seconds": 5915
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 605,
+    "name": "Lo, Rene",
+    "finish_time": "01:38:46",
+    "finish_seconds": 5926
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 607,
+    "name": "Mobsby, Liam",
+    "finish_time": "01:38:53",
+    "finish_seconds": 5933
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 609,
+    "name": "Susanto, Herri",
+    "finish_time": "01:38:58",
+    "finish_seconds": 5938
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 611,
+    "name": "Nixon, Matthew",
+    "finish_time": "01:39:05",
+    "finish_seconds": 5945
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 613,
+    "name": "Apriyanto, Ricky",
+    "finish_time": "01:39:12",
+    "finish_seconds": 5952
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 615,
+    "name": "Lim, Le Ming Leslie",
+    "finish_time": "01:39:21",
+    "finish_seconds": 5961
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 617,
+    "name": "Pathak, Ashish",
+    "finish_time": "01:39:23",
+    "finish_seconds": 5963
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 619,
+    "name": "Kyaw, Nyan",
+    "finish_time": "01:39:29",
+    "finish_seconds": 5969
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 621,
+    "name": "Farit, Muhammad Mustakim",
+    "finish_time": "01:39:29",
+    "finish_seconds": 5969
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 623,
+    "name": "Sellathurai, Vick",
+    "finish_time": "01:39:30",
+    "finish_seconds": 5970
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 625,
+    "name": "Leow, Gavin",
+    "finish_time": "01:39:32",
+    "finish_seconds": 5972
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 627,
+    "name": "Christiansen, Lars",
+    "finish_time": "01:39:33",
+    "finish_seconds": 5973
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 629,
+    "name": "Kwan, Justin",
+    "finish_time": "01:39:38",
+    "finish_seconds": 5978
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 631,
+    "name": "Sy, Rico",
+    "finish_time": "01:39:41",
+    "finish_seconds": 5981
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 633,
+    "name": "Ishak, Ismail",
+    "finish_time": "01:39:58",
+    "finish_seconds": 5998
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 635,
+    "name": "Nay, Jerold",
+    "finish_time": "01:40:02",
+    "finish_seconds": 6002
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 637,
+    "name": "Lamat, Hafidz Naquiyudden",
+    "finish_time": "01:40:06",
+    "finish_seconds": 6006
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 639,
+    "name": "Cusset, Antoine",
+    "finish_time": "01:40:17",
+    "finish_seconds": 6017
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 641,
+    "name": "Nguyen, Duy",
+    "finish_time": "01:40:20",
+    "finish_seconds": 6020
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 643,
+    "name": "Milburn, Thomas",
+    "finish_time": "01:40:29",
+    "finish_seconds": 6029
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 645,
+    "name": "Chan, Jason",
+    "finish_time": "01:40:37",
+    "finish_seconds": 6037
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 647,
+    "name": "Tan, Jin Yong",
+    "finish_time": "01:41:00",
+    "finish_seconds": 6060
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 649,
+    "name": "Ang, Roger",
+    "finish_time": "01:41:10",
+    "finish_seconds": 6070
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 651,
+    "name": "Kuznetsov, Dmitrii",
+    "finish_time": "01:41:18",
+    "finish_seconds": 6078
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 653,
+    "name": "Ong, Aaron",
+    "finish_time": "01:41:26",
+    "finish_seconds": 6086
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 655,
+    "name": "Henman, Giles",
+    "finish_time": "01:41:34",
+    "finish_seconds": 6094
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 657,
+    "name": "Alcopra, Allistair Blake",
+    "finish_time": "01:41:37",
+    "finish_seconds": 6097
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 659,
+    "name": "Syafi'I, Muhammad",
+    "finish_time": "01:41:48",
+    "finish_seconds": 6108
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 661,
+    "name": "Lau, Karl",
+    "finish_time": "01:41:55",
+    "finish_seconds": 6115
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 663,
+    "name": "Ng, Mike",
+    "finish_time": "01:41:59",
+    "finish_seconds": 6119
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 665,
+    "name": "Md Shafie, Mohd Zharif Fikri",
+    "finish_time": "01:42:02",
+    "finish_seconds": 6122
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 667,
+    "name": "Suzuki-Carpenter, Tye",
+    "finish_time": "01:42:05",
+    "finish_seconds": 6125
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 669,
+    "name": "Chan, Jin Wei Louis",
+    "finish_time": "01:42:07",
+    "finish_seconds": 6127
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 671,
+    "name": "Goh, Gregory",
+    "finish_time": "01:42:11",
+    "finish_seconds": 6131
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 673,
+    "name": "Chang, Daryl",
+    "finish_time": "01:42:13",
+    "finish_seconds": 6133
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 675,
+    "name": "Ang, Kee Shyan",
+    "finish_time": "01:42:21",
+    "finish_seconds": 6141
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 677,
+    "name": "Ng, Ivan",
+    "finish_time": "01:42:27",
+    "finish_seconds": 6147
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 679,
+    "name": "Ching, Brandon",
+    "finish_time": "01:42:33",
+    "finish_seconds": 6153
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 681,
+    "name": "Tan, Jeffrey",
+    "finish_time": "01:42:37",
+    "finish_seconds": 6157
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 683,
+    "name": "Chai, Eugene",
+    "finish_time": "01:42:47",
+    "finish_seconds": 6167
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 685,
+    "name": "Roy, Ted",
+    "finish_time": "01:42:58",
+    "finish_seconds": 6178
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 687,
+    "name": "Tai, Wei Jie",
+    "finish_time": "01:42:58",
+    "finish_seconds": 6178
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 689,
+    "name": "Choy, Yew Jin",
+    "finish_time": "01:43:02",
+    "finish_seconds": 6182
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 691,
+    "name": "Bennett, Gareth",
+    "finish_time": "01:43:08",
+    "finish_seconds": 6188
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 693,
+    "name": "Yong, Dylan",
+    "finish_time": "01:43:10",
+    "finish_seconds": 6190
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 695,
+    "name": "Bernasconi, Jerome",
+    "finish_time": "01:43:13",
+    "finish_seconds": 6193
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 697,
+    "name": "Oudin, Julien",
+    "finish_time": "01:43:26",
+    "finish_seconds": 6206
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 699,
+    "name": "Dong, Xinzhuo",
+    "finish_time": "01:43:26",
+    "finish_seconds": 6206
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 701,
+    "name": "Chua, Javan",
+    "finish_time": "01:43:34",
+    "finish_seconds": 6214
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 703,
+    "name": "Fan, Kevin",
+    "finish_time": "01:43:41",
+    "finish_seconds": 6221
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 705,
+    "name": "Ciakki Putra Ganca, Rischi",
+    "finish_time": "01:43:47",
+    "finish_seconds": 6227
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 707,
+    "name": "Bin Nordin, Muhammad Solihin",
+    "finish_time": "01:43:53",
+    "finish_seconds": 6233
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 709,
+    "name": "Tan, Patrick",
+    "finish_time": "01:43:55",
+    "finish_seconds": 6235
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 711,
+    "name": "Shafie, Salman",
+    "finish_time": "01:44:01",
+    "finish_seconds": 6241
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 713,
+    "name": "Chia, Zacharias",
+    "finish_time": "01:44:04",
+    "finish_seconds": 6244
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 715,
+    "name": "Lau, Nelson",
+    "finish_time": "01:44:11",
+    "finish_seconds": 6251
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 717,
+    "name": "Ng, Shaun",
+    "finish_time": "01:44:14",
+    "finish_seconds": 6254
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 719,
+    "name": "Batubara, Tito",
+    "finish_time": "01:44:20",
+    "finish_seconds": 6260
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 721,
+    "name": "Lee, Ethan",
+    "finish_time": "01:44:21",
+    "finish_seconds": 6261
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 723,
+    "name": "Yohanes, Yohanes",
+    "finish_time": "01:44:30",
+    "finish_seconds": 6270
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 725,
+    "name": "Lim, Jun",
+    "finish_time": "01:44:34",
+    "finish_seconds": 6274
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 727,
+    "name": "Li, Elijah",
+    "finish_time": "01:44:48",
+    "finish_seconds": 6288
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 729,
+    "name": "Fernando, Timmie",
+    "finish_time": "01:44:52",
+    "finish_seconds": 6292
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 731,
+    "name": "Annuar, Fairuz",
+    "finish_time": "01:44:59",
+    "finish_seconds": 6299
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 733,
+    "name": "Bisht, Vijay",
+    "finish_time": "01:45:06",
+    "finish_seconds": 6306
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 735,
+    "name": "Tham, Osbert",
+    "finish_time": "01:45:13",
+    "finish_seconds": 6313
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 737,
+    "name": "Tan, Izhi",
+    "finish_time": "01:45:25",
+    "finish_seconds": 6325
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 739,
+    "name": "Ong, Choon Thye",
+    "finish_time": "01:45:27",
+    "finish_seconds": 6327
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 741,
+    "name": "Chu, Xiu Qiang",
+    "finish_time": "01:45:37",
+    "finish_seconds": 6337
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 743,
+    "name": "Hatim, Ammani",
+    "finish_time": "01:45:39",
+    "finish_seconds": 6339
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 745,
+    "name": "Koo, Brian",
+    "finish_time": "01:45:44",
+    "finish_seconds": 6344
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 747,
+    "name": "De Waal, Jelle Bart",
+    "finish_time": "01:45:45",
+    "finish_seconds": 6345
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 749,
+    "name": "Yeo, Wei Jie",
+    "finish_time": "01:45:49",
+    "finish_seconds": 6349
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 751,
+    "name": "Chong, Kai Zhi",
+    "finish_time": "01:45:54",
+    "finish_seconds": 6354
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 753,
+    "name": "Akkasri, Thayot",
+    "finish_time": "01:45:56",
+    "finish_seconds": 6356
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 755,
+    "name": "Cai, Saul",
+    "finish_time": "01:45:57",
+    "finish_seconds": 6357
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 757,
+    "name": "Manghnani, Aman",
+    "finish_time": "01:46:11",
+    "finish_seconds": 6371
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 759,
+    "name": "Mui, Gerald",
+    "finish_time": "01:46:22",
+    "finish_seconds": 6382
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 761,
+    "name": "Naera, Tamehana",
+    "finish_time": "01:46:26",
+    "finish_seconds": 6386
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 763,
+    "name": "Shahul Hameed, Muhammad Irfan",
+    "finish_time": "01:46:28",
+    "finish_seconds": 6388
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 765,
+    "name": "Redwan, Hayatmin",
+    "finish_time": "01:46:38",
+    "finish_seconds": 6398
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 767,
+    "name": "Barlow, Alexander",
+    "finish_time": "01:46:51",
+    "finish_seconds": 6411
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 769,
+    "name": "Loy, Keldren",
+    "finish_time": "01:46:57",
+    "finish_seconds": 6417
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 771,
+    "name": "Yeo, Fairil",
+    "finish_time": "01:47:00",
+    "finish_seconds": 6420
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 773,
+    "name": "Jia-Juo, Kam",
+    "finish_time": "01:47:09",
+    "finish_seconds": 6429
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 775,
+    "name": "Francisco, Celso Jr",
+    "finish_time": "01:47:10",
+    "finish_seconds": 6430
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 777,
+    "name": "Adha, Andhika Aldhin",
+    "finish_time": "01:47:12",
+    "finish_seconds": 6432
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 779,
+    "name": "Sheng Yuan, Lee",
+    "finish_time": "01:47:14",
+    "finish_seconds": 6434
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 781,
+    "name": "Tan, Aaron",
+    "finish_time": "01:47:18",
+    "finish_seconds": 6438
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 783,
+    "name": "Low, Jaysen",
+    "finish_time": "01:47:25",
+    "finish_seconds": 6445
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 785,
+    "name": "Zin, Aung Ko Ko",
+    "finish_time": "01:47:31",
+    "finish_seconds": 6451
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 787,
+    "name": "Jaszczyk, Daniel",
+    "finish_time": "01:47:37",
+    "finish_seconds": 6457
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 789,
+    "name": "Chua, Andy",
+    "finish_time": "01:47:42",
+    "finish_seconds": 6462
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 791,
+    "name": "Ng, Aaron",
+    "finish_time": "01:47:50",
+    "finish_seconds": 6470
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 793,
+    "name": "Nakata, Axel Nino",
+    "finish_time": "01:47:51",
+    "finish_seconds": 6471
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 795,
+    "name": "Salabi, Adley",
+    "finish_time": "01:47:52",
+    "finish_seconds": 6472
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 797,
+    "name": "Asaikar, Shamin",
+    "finish_time": "01:47:56",
+    "finish_seconds": 6476
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 799,
+    "name": "Wong, Dingyao",
+    "finish_time": "01:47:58",
+    "finish_seconds": 6478
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 801,
+    "name": "Siddharth, Kokul",
+    "finish_time": "01:48:05",
+    "finish_seconds": 6485
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 803,
+    "name": "Chew, Amos",
+    "finish_time": "01:48:13",
+    "finish_seconds": 6493
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 805,
+    "name": "H\u00e9riard Dubreuil, Louis",
+    "finish_time": "01:48:24",
+    "finish_seconds": 6504
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 807,
+    "name": "Ly, Monivireak",
+    "finish_time": "01:48:26",
+    "finish_seconds": 6506
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 809,
+    "name": "Ang, Edwin Stephen",
+    "finish_time": "01:48:29",
+    "finish_seconds": 6509
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 811,
+    "name": "Abd Halim, Mohd Amin",
+    "finish_time": "01:48:41",
+    "finish_seconds": 6521
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 813,
+    "name": "Lim, Kenneth",
+    "finish_time": "01:48:50",
+    "finish_seconds": 6530
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 815,
+    "name": "Ong, Marcus",
+    "finish_time": "01:48:57",
+    "finish_seconds": 6537
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 817,
+    "name": "Yohan, Joshua",
+    "finish_time": "01:49:01",
+    "finish_seconds": 6541
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 819,
+    "name": "Chia, Joshua",
+    "finish_time": "01:49:11",
+    "finish_seconds": 6551
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 821,
+    "name": "Chong, Jeng Horng",
+    "finish_time": "01:49:22",
+    "finish_seconds": 6562
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 823,
+    "name": "Buckland, Donata",
+    "finish_time": "01:49:28",
+    "finish_seconds": 6568
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 825,
+    "name": "Lim, Edmund",
+    "finish_time": "01:49:40",
+    "finish_seconds": 6580
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 827,
+    "name": "Teng, Jia Qing",
+    "finish_time": "01:49:45",
+    "finish_seconds": 6585
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 829,
+    "name": "Lim, Zi Quan, Kenji",
+    "finish_time": "01:49:46",
+    "finish_seconds": 6586
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 831,
+    "name": "Hughes, Paul",
+    "finish_time": "01:49:50",
+    "finish_seconds": 6590
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 833,
+    "name": "Ang, Alex",
+    "finish_time": "01:50:00",
+    "finish_seconds": 6600
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 835,
+    "name": "Muk, Brandon",
+    "finish_time": "01:50:04",
+    "finish_seconds": 6604
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 837,
+    "name": "Yamin, Mu\u2019Az",
+    "finish_time": "01:50:06",
+    "finish_seconds": 6606
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 839,
+    "name": "De Guzman, Ace",
+    "finish_time": "01:50:15",
+    "finish_seconds": 6615
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 841,
+    "name": "Azman, Amir",
+    "finish_time": "01:50:17",
+    "finish_seconds": 6617
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 843,
+    "name": "Azadi, Eddie",
+    "finish_time": "01:50:22",
+    "finish_seconds": 6622
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 845,
+    "name": "Ee, Shaun",
+    "finish_time": "01:50:37",
+    "finish_seconds": 6637
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 847,
+    "name": "Setiawan, Sony",
+    "finish_time": "01:50:42",
+    "finish_seconds": 6642
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 849,
+    "name": "Handoko, Herdy",
+    "finish_time": "01:50:47",
+    "finish_seconds": 6647
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 851,
+    "name": "Wong, Wen Xian",
+    "finish_time": "01:50:57",
+    "finish_seconds": 6657
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 853,
+    "name": "Foo, Edgar",
+    "finish_time": "01:51:07",
+    "finish_seconds": 6667
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 855,
+    "name": "Dowman, Andrew",
+    "finish_time": "01:51:11",
+    "finish_seconds": 6671
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 857,
+    "name": "Vashisht, Pyush",
+    "finish_time": "01:51:28",
+    "finish_seconds": 6688
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 859,
+    "name": "Teo, Christian",
+    "finish_time": "01:51:32",
+    "finish_seconds": 6692
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 861,
+    "name": "Tabraez, Syam",
+    "finish_time": "01:51:33",
+    "finish_seconds": 6693
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 863,
+    "name": "Arrojado, Jonathan",
+    "finish_time": "01:51:34",
+    "finish_seconds": 6694
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 865,
+    "name": "Dela Cruz, Toni James",
+    "finish_time": "01:51:36",
+    "finish_seconds": 6696
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 867,
+    "name": "Osman, Ezan",
+    "finish_time": "01:51:56",
+    "finish_seconds": 6716
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 869,
+    "name": "Teo, Andy",
+    "finish_time": "01:51:59",
+    "finish_seconds": 6719
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 871,
+    "name": "Ngo, Edward",
+    "finish_time": "01:52:20",
+    "finish_seconds": 6740
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 873,
+    "name": "Abdullah, Mohammad Azlan",
+    "finish_time": "01:52:31",
+    "finish_seconds": 6751
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 875,
+    "name": "Owyong, David",
+    "finish_time": "01:52:42",
+    "finish_seconds": 6762
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 877,
+    "name": "Tandon, Navin",
+    "finish_time": "01:52:48",
+    "finish_seconds": 6768
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 879,
+    "name": "Wang, Andrew",
+    "finish_time": "01:52:56",
+    "finish_seconds": 6776
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 881,
+    "name": "Razali, Saad",
+    "finish_time": "01:53:01",
+    "finish_seconds": 6781
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 883,
+    "name": "Tong, Wei Keat",
+    "finish_time": "01:53:26",
+    "finish_seconds": 6806
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 885,
+    "name": "Jefri, Matin",
+    "finish_time": "01:53:34",
+    "finish_seconds": 6814
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 887,
+    "name": "Kalbhor, Sanket",
+    "finish_time": "01:53:35",
+    "finish_seconds": 6815
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 889,
+    "name": "Lim, Boon Leong",
+    "finish_time": "01:53:39",
+    "finish_seconds": 6819
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 891,
+    "name": "Dionillo, Reynald",
+    "finish_time": "01:53:46",
+    "finish_seconds": 6826
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 893,
+    "name": "Mejia, Dan",
+    "finish_time": "01:53:49",
+    "finish_seconds": 6829
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 895,
+    "name": "Jakob, Andor",
+    "finish_time": "01:53:59",
+    "finish_seconds": 6839
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 897,
+    "name": "Lee, Ethan",
+    "finish_time": "01:54:01",
+    "finish_seconds": 6841
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 899,
+    "name": "Yusof, Yamin",
+    "finish_time": "01:54:03",
+    "finish_seconds": 6843
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 901,
+    "name": "Loh, Joel",
+    "finish_time": "01:54:08",
+    "finish_seconds": 6848
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 903,
+    "name": "Lee, Zai Yong",
+    "finish_time": "01:54:15",
+    "finish_seconds": 6855
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 905,
+    "name": "Lew, Colin",
+    "finish_time": "01:54:24",
+    "finish_seconds": 6864
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 907,
+    "name": "Bin Abdul Malik, Asrul Ariff",
+    "finish_time": "01:54:26",
+    "finish_seconds": 6866
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 909,
+    "name": "Sim, Lionel",
+    "finish_time": "01:54:40",
+    "finish_seconds": 6880
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 911,
+    "name": "Khoo, Marvin",
+    "finish_time": "01:55:06",
+    "finish_seconds": 6906
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 913,
+    "name": "Lee, Jonathan",
+    "finish_time": "01:55:22",
+    "finish_seconds": 6922
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 915,
+    "name": "Khan, Andrew",
+    "finish_time": "01:55:23",
+    "finish_seconds": 6923
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 917,
+    "name": "Murphy, Glenn",
+    "finish_time": "01:55:34",
+    "finish_seconds": 6934
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 919,
+    "name": "Kong, Wei Yang",
+    "finish_time": "01:55:38",
+    "finish_seconds": 6938
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 921,
+    "name": "Bin Hamid, Abdul Hadi",
+    "finish_time": "01:55:59",
+    "finish_seconds": 6959
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 923,
+    "name": "Oh, Tristan",
+    "finish_time": "01:56:02",
+    "finish_seconds": 6962
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 925,
+    "name": "Feliciano, Storm",
+    "finish_time": "01:56:12",
+    "finish_seconds": 6972
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 927,
+    "name": "Poh, Jia Qing",
+    "finish_time": "01:56:27",
+    "finish_seconds": 6987
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 929,
+    "name": "Tsang, Colin",
+    "finish_time": "01:56:31",
+    "finish_seconds": 6991
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 931,
+    "name": "Ting, Yonghan",
+    "finish_time": "01:56:38",
+    "finish_seconds": 6998
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 933,
+    "name": "Hidayat, Idham",
+    "finish_time": "01:56:49",
+    "finish_seconds": 7009
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 935,
+    "name": "Chee, Eddy",
+    "finish_time": "01:57:00",
+    "finish_seconds": 7020
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 937,
+    "name": "Soon, Shang Yeh",
+    "finish_time": "01:57:09",
+    "finish_seconds": 7029
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 939,
+    "name": "Tan, Bernard",
+    "finish_time": "01:57:11",
+    "finish_seconds": 7031
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 941,
+    "name": "Roco, John",
+    "finish_time": "01:57:32",
+    "finish_seconds": 7052
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 943,
+    "name": "Danny, Lim",
+    "finish_time": "01:57:40",
+    "finish_seconds": 7060
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "M",
+    "rank": 945,
+    "name": "Coburn, Chris",
+    "finish_time": "01:57:58",
+    "finish_seconds": 7078
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 1,
+    "name": "Fell, Emily",
+    "finish_time": "01:02:08",
+    "finish_seconds": 3728
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 3,
+    "name": "Smyth, Lilli",
+    "finish_time": "01:08:49",
+    "finish_seconds": 4129
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 5,
+    "name": "Robinson, Lauren",
+    "finish_time": "01:09:43",
+    "finish_seconds": 4183
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 7,
+    "name": "Legree, Nathalie",
+    "finish_time": "01:11:19",
+    "finish_seconds": 4279
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 9,
+    "name": "Bowen, Samantha",
+    "finish_time": "01:12:42",
+    "finish_seconds": 4362
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 11,
+    "name": "King, Heather",
+    "finish_time": "01:13:00",
+    "finish_seconds": 4380
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 13,
+    "name": "Lee, Deniece",
+    "finish_time": "01:14:27",
+    "finish_seconds": 4467
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 15,
+    "name": "Mulpeter, Jillian",
+    "finish_time": "01:15:04",
+    "finish_seconds": 4504
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 17,
+    "name": "Wiryani, Bonnie",
+    "finish_time": "01:16:01",
+    "finish_seconds": 4561
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 19,
+    "name": "Zhou, Jiazhen",
+    "finish_time": "01:16:33",
+    "finish_seconds": 4593
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 21,
+    "name": "Hernan Santesteban, Juncal",
+    "finish_time": "01:16:56",
+    "finish_seconds": 4616
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 23,
+    "name": "Croitor, Evelina",
+    "finish_time": "01:17:35",
+    "finish_seconds": 4655
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 25,
+    "name": "Andrade, Julia",
+    "finish_time": "01:18:00",
+    "finish_seconds": 4680
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 27,
+    "name": "Johal, Rehmat",
+    "finish_time": "01:18:15",
+    "finish_seconds": 4695
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 29,
+    "name": "Jeandedieu, Elsa",
+    "finish_time": "01:18:32",
+    "finish_seconds": 4712
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 31,
+    "name": "Grant, Lily",
+    "finish_time": "01:19:19",
+    "finish_seconds": 4759
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 33,
+    "name": "Ferrer, Morgan Justine",
+    "finish_time": "01:19:35",
+    "finish_seconds": 4775
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 35,
+    "name": "Adaci, Duaa",
+    "finish_time": "01:19:45",
+    "finish_seconds": 4785
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 37,
+    "name": "Chan, Arial",
+    "finish_time": "01:19:51",
+    "finish_seconds": 4791
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 39,
+    "name": "Turner, Laura",
+    "finish_time": "01:20:11",
+    "finish_seconds": 4811
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 41,
+    "name": "Mann, Holly",
+    "finish_time": "01:20:30",
+    "finish_seconds": 4830
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 43,
+    "name": "Lee, Jolyn",
+    "finish_time": "01:21:00",
+    "finish_seconds": 4860
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 45,
+    "name": "Kazama, Yuki",
+    "finish_time": "01:21:30",
+    "finish_seconds": 4890
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 47,
+    "name": "Healy, Cathy",
+    "finish_time": "01:21:55",
+    "finish_seconds": 4915
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 49,
+    "name": "Tan, Isabella",
+    "finish_time": "01:22:11",
+    "finish_seconds": 4931
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 51,
+    "name": "Ong, Ester",
+    "finish_time": "01:22:24",
+    "finish_seconds": 4944
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 53,
+    "name": "Anggraini, Dev",
+    "finish_time": "01:22:45",
+    "finish_seconds": 4965
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 55,
+    "name": "Dallagi, Cyrine",
+    "finish_time": "01:22:59",
+    "finish_seconds": 4979
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 57,
+    "name": "See Toh, Jia Xin",
+    "finish_time": "01:23:08",
+    "finish_seconds": 4988
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 59,
+    "name": "Balmforth, Carly",
+    "finish_time": "01:23:20",
+    "finish_seconds": 5000
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 61,
+    "name": "Huang, Helen",
+    "finish_time": "01:23:34",
+    "finish_seconds": 5014
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 63,
+    "name": "Ng, Hui Qun",
+    "finish_time": "01:23:45",
+    "finish_seconds": 5025
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 65,
+    "name": "Lee, Seol Ki",
+    "finish_time": "01:24:08",
+    "finish_seconds": 5048
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 67,
+    "name": "Plummer, Jody",
+    "finish_time": "01:24:32",
+    "finish_seconds": 5072
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 69,
+    "name": "Sim, Xuan Hui",
+    "finish_time": "01:25:01",
+    "finish_seconds": 5101
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 71,
+    "name": "Garner, Madison",
+    "finish_time": "01:25:04",
+    "finish_seconds": 5104
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 73,
+    "name": "Yap, Julianna",
+    "finish_time": "01:25:13",
+    "finish_seconds": 5113
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 75,
+    "name": "Kroon Cheung, Emily Jane",
+    "finish_time": "01:25:30",
+    "finish_seconds": 5130
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 77,
+    "name": "Wong, Xin Yi",
+    "finish_time": "01:26:19",
+    "finish_seconds": 5179
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 79,
+    "name": "Nawata, Yurika",
+    "finish_time": "01:26:33",
+    "finish_seconds": 5193
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 81,
+    "name": "Ong, Sheena",
+    "finish_time": "01:26:43",
+    "finish_seconds": 5203
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 83,
+    "name": "Foo, Mun Wai",
+    "finish_time": "01:27:02",
+    "finish_seconds": 5222
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 85,
+    "name": "Lim, Sze Min",
+    "finish_time": "01:27:07",
+    "finish_seconds": 5227
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 87,
+    "name": "Sivasurian, Gayathri",
+    "finish_time": "01:27:17",
+    "finish_seconds": 5237
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 89,
+    "name": "Nah, Serene",
+    "finish_time": "01:27:23",
+    "finish_seconds": 5243
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 91,
+    "name": "Goh, Bing Hui",
+    "finish_time": "01:27:46",
+    "finish_seconds": 5266
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 93,
+    "name": "Lim, Sylvia",
+    "finish_time": "01:27:59",
+    "finish_seconds": 5279
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 95,
+    "name": "Pohan, Frynn",
+    "finish_time": "01:28:06",
+    "finish_seconds": 5286
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 97,
+    "name": "Witthayawarakul, Sawanya",
+    "finish_time": "01:28:11",
+    "finish_seconds": 5291
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 99,
+    "name": "Leung, Laura",
+    "finish_time": "01:28:23",
+    "finish_seconds": 5303
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 101,
+    "name": "Thuillier, Melissa",
+    "finish_time": "01:28:26",
+    "finish_seconds": 5306
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 103,
+    "name": "Lai, Elysha",
+    "finish_time": "01:29:03",
+    "finish_seconds": 5343
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 105,
+    "name": "Priest, Edwina",
+    "finish_time": "01:29:07",
+    "finish_seconds": 5347
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 107,
+    "name": "Choo, Charis",
+    "finish_time": "01:29:11",
+    "finish_seconds": 5351
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 109,
+    "name": "Septian, Audrey",
+    "finish_time": "01:29:15",
+    "finish_seconds": 5355
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 111,
+    "name": "Bruska, Karolina",
+    "finish_time": "01:29:29",
+    "finish_seconds": 5369
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 113,
+    "name": "Low, Joey",
+    "finish_time": "01:30:00",
+    "finish_seconds": 5400
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 115,
+    "name": "Ting Ying Er, Jessica",
+    "finish_time": "01:30:06",
+    "finish_seconds": 5406
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 117,
+    "name": "Ng, Ka Yee Boogie",
+    "finish_time": "01:30:11",
+    "finish_seconds": 5411
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 119,
+    "name": "Lee, Esther",
+    "finish_time": "01:30:26",
+    "finish_seconds": 5426
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 121,
+    "name": "Wee, Mabel",
+    "finish_time": "01:30:36",
+    "finish_seconds": 5436
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 123,
+    "name": "Hinrichsen, Lisa",
+    "finish_time": "01:30:38",
+    "finish_seconds": 5438
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 125,
+    "name": "Ho, Teresa",
+    "finish_time": "01:30:44",
+    "finish_seconds": 5444
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 127,
+    "name": "Ong, Janeen",
+    "finish_time": "01:30:56",
+    "finish_seconds": 5456
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 129,
+    "name": "Foo, Jean",
+    "finish_time": "01:31:07",
+    "finish_seconds": 5467
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 131,
+    "name": "Tseng, Andrea",
+    "finish_time": "01:31:12",
+    "finish_seconds": 5472
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 133,
+    "name": "Pereira De Andrade, Raissa",
+    "finish_time": "01:31:14",
+    "finish_seconds": 5474
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 135,
+    "name": "See Toh, Estee",
+    "finish_time": "01:31:49",
+    "finish_seconds": 5509
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 137,
+    "name": "Soh, Tracey",
+    "finish_time": "01:32:07",
+    "finish_seconds": 5527
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 139,
+    "name": "Ng, Mavis",
+    "finish_time": "01:32:11",
+    "finish_seconds": 5531
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 141,
+    "name": "Ng, Nat",
+    "finish_time": "01:32:23",
+    "finish_seconds": 5543
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 143,
+    "name": "Lee, Jie Ning",
+    "finish_time": "01:32:32",
+    "finish_seconds": 5552
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 145,
+    "name": "T, Ashwary",
+    "finish_time": "01:32:35",
+    "finish_seconds": 5555
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 147,
+    "name": "Tay, Jeannie",
+    "finish_time": "01:32:39",
+    "finish_seconds": 5559
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 149,
+    "name": "Wibawa, Laurencia Chrisyanti",
+    "finish_time": "01:32:55",
+    "finish_seconds": 5575
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 151,
+    "name": "Yeo, Lynn",
+    "finish_time": "01:33:12",
+    "finish_seconds": 5592
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 153,
+    "name": "Kwek, Jeri",
+    "finish_time": "01:33:16",
+    "finish_seconds": 5596
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 155,
+    "name": "Braganza, Gemma",
+    "finish_time": "01:33:19",
+    "finish_seconds": 5599
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 157,
+    "name": "Smith, Lois",
+    "finish_time": "01:33:39",
+    "finish_seconds": 5619
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 159,
+    "name": "\u200e, Oliviana",
+    "finish_time": "01:33:48",
+    "finish_seconds": 5628
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 161,
+    "name": "Johnson, Annabelle",
+    "finish_time": "01:34:00",
+    "finish_seconds": 5640
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 163,
+    "name": "H, Jace",
+    "finish_time": "01:34:06",
+    "finish_seconds": 5646
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 165,
+    "name": "Hong, Samantha",
+    "finish_time": "01:34:12",
+    "finish_seconds": 5652
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 167,
+    "name": "Vargas, Xzi",
+    "finish_time": "01:34:14",
+    "finish_seconds": 5654
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 169,
+    "name": "Patterson, Michelle",
+    "finish_time": "01:34:32",
+    "finish_seconds": 5672
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 171,
+    "name": "Sahari, Putri Anindita",
+    "finish_time": "01:34:43",
+    "finish_seconds": 5683
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 173,
+    "name": "Ng, Valerie",
+    "finish_time": "01:34:52",
+    "finish_seconds": 5692
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 175,
+    "name": "Chee, Hui Lian",
+    "finish_time": "01:34:58",
+    "finish_seconds": 5698
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 177,
+    "name": "Ho, Amber",
+    "finish_time": "01:35:03",
+    "finish_seconds": 5703
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 179,
+    "name": "Cheong, Qi Shuen",
+    "finish_time": "01:35:13",
+    "finish_seconds": 5713
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 181,
+    "name": "Low, Yim Tong",
+    "finish_time": "01:35:31",
+    "finish_seconds": 5731
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 183,
+    "name": "Nawa, Sandrine",
+    "finish_time": "01:35:40",
+    "finish_seconds": 5740
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 185,
+    "name": "Irfai, Chandy Monica",
+    "finish_time": "01:35:53",
+    "finish_seconds": 5753
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 187,
+    "name": "Lim, Tsi Wei",
+    "finish_time": "01:36:25",
+    "finish_seconds": 5785
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 189,
+    "name": "Ang, Xuan Yi",
+    "finish_time": "01:36:38",
+    "finish_seconds": 5798
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 191,
+    "name": "Foo, Sureen",
+    "finish_time": "01:36:52",
+    "finish_seconds": 5812
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 193,
+    "name": "Ng, Bennette",
+    "finish_time": "01:37:08",
+    "finish_seconds": 5828
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 195,
+    "name": "Dizon, Menchie",
+    "finish_time": "01:37:12",
+    "finish_seconds": 5832
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 197,
+    "name": "Aubin, Abby",
+    "finish_time": "01:37:19",
+    "finish_seconds": 5839
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 199,
+    "name": "Higgins, Olivia Dewi Cinta",
+    "finish_time": "01:37:23",
+    "finish_seconds": 5843
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 201,
+    "name": "Goh, Yu Ting",
+    "finish_time": "01:37:27",
+    "finish_seconds": 5847
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 203,
+    "name": "Tay, Hui Zhi",
+    "finish_time": "01:37:28",
+    "finish_seconds": 5848
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 205,
+    "name": "Hew, Alissa",
+    "finish_time": "01:37:52",
+    "finish_seconds": 5872
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 207,
+    "name": "Marsela, Giovani",
+    "finish_time": "01:38:15",
+    "finish_seconds": 5895
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 209,
+    "name": "Lau, Angeline",
+    "finish_time": "01:38:24",
+    "finish_seconds": 5904
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 211,
+    "name": "Ani, Maria",
+    "finish_time": "01:38:45",
+    "finish_seconds": 5925
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 213,
+    "name": "Mok, Nicole",
+    "finish_time": "01:39:00",
+    "finish_seconds": 5940
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 215,
+    "name": "Muhammad Sazali, Fawarda Binti",
+    "finish_time": "01:39:10",
+    "finish_seconds": 5950
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 217,
+    "name": "Toh, Chelsea",
+    "finish_time": "01:39:17",
+    "finish_seconds": 5957
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 219,
+    "name": "Koh, Felicia",
+    "finish_time": "01:39:35",
+    "finish_seconds": 5975
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 221,
+    "name": "Tan, Wynne",
+    "finish_time": "01:39:38",
+    "finish_seconds": 5978
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 223,
+    "name": "Er, Pei Shan",
+    "finish_time": "01:39:46",
+    "finish_seconds": 5986
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 225,
+    "name": "Powell, Jessica Mai",
+    "finish_time": "01:39:53",
+    "finish_seconds": 5993
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 227,
+    "name": "Hlaing, Susu",
+    "finish_time": "01:40:12",
+    "finish_seconds": 6012
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 229,
+    "name": "Ismawati, Ainul",
+    "finish_time": "01:40:15",
+    "finish_seconds": 6015
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 231,
+    "name": "Yong, Carrie",
+    "finish_time": "01:40:27",
+    "finish_seconds": 6027
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 233,
+    "name": "Wong, Maxine",
+    "finish_time": "01:40:44",
+    "finish_seconds": 6044
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 235,
+    "name": "Khoo, Hsieh June",
+    "finish_time": "01:40:47",
+    "finish_seconds": 6047
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 237,
+    "name": "Didry, Oc\u00e9ane",
+    "finish_time": "01:40:59",
+    "finish_seconds": 6059
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 239,
+    "name": "Lim, Ai Yuen",
+    "finish_time": "01:41:17",
+    "finish_seconds": 6077
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 241,
+    "name": "Lau, Sharon",
+    "finish_time": "01:41:25",
+    "finish_seconds": 6085
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 243,
+    "name": "Ng, Chu Ning",
+    "finish_time": "01:41:36",
+    "finish_seconds": 6096
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 245,
+    "name": "Klyuchnik, Diana",
+    "finish_time": "01:41:47",
+    "finish_seconds": 6107
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 247,
+    "name": "Leong, Pandora",
+    "finish_time": "01:41:53",
+    "finish_seconds": 6113
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 249,
+    "name": "Dirscherl, Alison",
+    "finish_time": "01:41:59",
+    "finish_seconds": 6119
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 251,
+    "name": "Slipp, Kari",
+    "finish_time": "01:42:08",
+    "finish_seconds": 6128
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 253,
+    "name": "Lim, Lerr Min",
+    "finish_time": "01:42:38",
+    "finish_seconds": 6158
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 255,
+    "name": "Wen, Shumin",
+    "finish_time": "01:42:44",
+    "finish_seconds": 6164
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 257,
+    "name": "Chia, Bernissa",
+    "finish_time": "01:43:01",
+    "finish_seconds": 6181
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 259,
+    "name": "Ang, Jasmine",
+    "finish_time": "01:43:22",
+    "finish_seconds": 6202
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 261,
+    "name": "Ong, Wei Yun",
+    "finish_time": "01:43:27",
+    "finish_seconds": 6207
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 263,
+    "name": "Sridhar, Sruthi",
+    "finish_time": "01:43:34",
+    "finish_seconds": 6214
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 265,
+    "name": "Chan, Jia Xin",
+    "finish_time": "01:43:36",
+    "finish_seconds": 6216
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 267,
+    "name": "Chaemphol, Paphatsara",
+    "finish_time": "01:43:41",
+    "finish_seconds": 6221
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 269,
+    "name": "Amouzou, Anne-Lise",
+    "finish_time": "01:43:54",
+    "finish_seconds": 6234
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 271,
+    "name": "Nabilah, Farah",
+    "finish_time": "01:43:55",
+    "finish_seconds": 6235
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 273,
+    "name": "Lee, Kai Lin",
+    "finish_time": "01:43:58",
+    "finish_seconds": 6238
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 275,
+    "name": "Lim, Janet",
+    "finish_time": "01:44:02",
+    "finish_seconds": 6242
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 277,
+    "name": "Wong, Keryn",
+    "finish_time": "01:44:12",
+    "finish_seconds": 6252
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 279,
+    "name": "Lee, June",
+    "finish_time": "01:44:20",
+    "finish_seconds": 6260
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 281,
+    "name": "Tng, Mandy",
+    "finish_time": "01:44:30",
+    "finish_seconds": 6270
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 283,
+    "name": "Chai, Priscilla",
+    "finish_time": "01:44:37",
+    "finish_seconds": 6277
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 285,
+    "name": "Koyama, Haruka",
+    "finish_time": "01:44:43",
+    "finish_seconds": 6283
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 287,
+    "name": "Chng, Priscilla",
+    "finish_time": "01:44:56",
+    "finish_seconds": 6296
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 289,
+    "name": "Cruz, Kiara",
+    "finish_time": "01:45:11",
+    "finish_seconds": 6311
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 291,
+    "name": "Foo, Vivien",
+    "finish_time": "01:45:28",
+    "finish_seconds": 6328
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 293,
+    "name": "Hoe, Lorraine",
+    "finish_time": "01:45:43",
+    "finish_seconds": 6343
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 295,
+    "name": "Tan, Shirley",
+    "finish_time": "01:45:47",
+    "finish_seconds": 6347
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 297,
+    "name": "Said, Nabilah",
+    "finish_time": "01:45:52",
+    "finish_seconds": 6352
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 299,
+    "name": "Cheng, Shing Koon",
+    "finish_time": "01:45:55",
+    "finish_seconds": 6355
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 301,
+    "name": "Goh Lilin, Claire",
+    "finish_time": "01:45:56",
+    "finish_seconds": 6356
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 303,
+    "name": "Ho, Zatalyn",
+    "finish_time": "01:46:06",
+    "finish_seconds": 6366
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 305,
+    "name": "Tan, Peggy",
+    "finish_time": "01:46:26",
+    "finish_seconds": 6386
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 307,
+    "name": "Defilippo, Julia",
+    "finish_time": "01:46:35",
+    "finish_seconds": 6395
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 309,
+    "name": "Kaur, Navleen",
+    "finish_time": "01:46:44",
+    "finish_seconds": 6404
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 311,
+    "name": "Ooi, Jing Yi",
+    "finish_time": "01:46:52",
+    "finish_seconds": 6412
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 313,
+    "name": "Ong, Felicia",
+    "finish_time": "01:47:09",
+    "finish_seconds": 6429
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 315,
+    "name": "Farhatin, Farhatin",
+    "finish_time": "01:47:10",
+    "finish_seconds": 6430
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 317,
+    "name": "Poh, Wendy",
+    "finish_time": "01:47:23",
+    "finish_seconds": 6443
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 319,
+    "name": "Reyes, Cherry Joyce",
+    "finish_time": "01:47:24",
+    "finish_seconds": 6444
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 321,
+    "name": "Tan, Kimberly",
+    "finish_time": "01:47:37",
+    "finish_seconds": 6457
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 323,
+    "name": "Yaacob, Khadijah",
+    "finish_time": "01:47:51",
+    "finish_seconds": 6471
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 325,
+    "name": "Tan, Yan Ning",
+    "finish_time": "01:47:54",
+    "finish_seconds": 6474
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 327,
+    "name": "Lee, Angel",
+    "finish_time": "01:48:01",
+    "finish_seconds": 6481
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 329,
+    "name": "Ong, Elizabeth",
+    "finish_time": "01:48:12",
+    "finish_seconds": 6492
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 331,
+    "name": "Neo, Yvonne",
+    "finish_time": "01:48:15",
+    "finish_seconds": 6495
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 333,
+    "name": "Chua, Jesslyn",
+    "finish_time": "01:48:18",
+    "finish_seconds": 6498
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 335,
+    "name": "Del Barrio-Cruz, Jasmine",
+    "finish_time": "01:48:38",
+    "finish_seconds": 6518
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 337,
+    "name": "Harada, Emiko",
+    "finish_time": "01:48:44",
+    "finish_seconds": 6524
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 339,
+    "name": "Sumait, Ameerah",
+    "finish_time": "01:49:01",
+    "finish_seconds": 6541
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 341,
+    "name": "Lim, Leticia",
+    "finish_time": "01:49:06",
+    "finish_seconds": 6546
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 343,
+    "name": "Musthapha, Ameena",
+    "finish_time": "01:49:15",
+    "finish_seconds": 6555
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 345,
+    "name": "Shaik, Viva",
+    "finish_time": "01:49:19",
+    "finish_seconds": 6559
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 347,
+    "name": "Quek, Annie",
+    "finish_time": "01:49:31",
+    "finish_seconds": 6571
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 349,
+    "name": "Low, Lee Yee",
+    "finish_time": "01:49:38",
+    "finish_seconds": 6578
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 351,
+    "name": "Lum, Fong",
+    "finish_time": "01:49:43",
+    "finish_seconds": 6583
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 353,
+    "name": "Mohd Khairuddin, Rosehayaty",
+    "finish_time": "01:49:52",
+    "finish_seconds": 6592
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 355,
+    "name": "Tiew, Cassie",
+    "finish_time": "01:50:06",
+    "finish_seconds": 6606
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 357,
+    "name": "Kim, Minji",
+    "finish_time": "01:50:34",
+    "finish_seconds": 6634
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 359,
+    "name": "Lee, Shi Ling",
+    "finish_time": "01:50:35",
+    "finish_seconds": 6635
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 361,
+    "name": "Wu, Priscylia",
+    "finish_time": "01:50:42",
+    "finish_seconds": 6642
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 363,
+    "name": "Ng, Emi",
+    "finish_time": "01:50:51",
+    "finish_seconds": 6651
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 365,
+    "name": "Lim, Jamie",
+    "finish_time": "01:50:55",
+    "finish_seconds": 6655
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 367,
+    "name": "R, Syer",
+    "finish_time": "01:50:56",
+    "finish_seconds": 6656
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 369,
+    "name": "Jensen, Rebecca",
+    "finish_time": "01:51:11",
+    "finish_seconds": 6671
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 371,
+    "name": "Fagersson, Kathrin",
+    "finish_time": "01:51:21",
+    "finish_seconds": 6681
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 373,
+    "name": "Srisawang, Butsayaporn",
+    "finish_time": "01:51:27",
+    "finish_seconds": 6687
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 375,
+    "name": "Poon, Emily",
+    "finish_time": "01:51:31",
+    "finish_seconds": 6691
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 377,
+    "name": "Tan, Ling Ling",
+    "finish_time": "01:51:34",
+    "finish_seconds": 6694
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 379,
+    "name": "Yee, Vanessa",
+    "finish_time": "01:51:38",
+    "finish_seconds": 6698
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 381,
+    "name": "Azarcon, Aiza Karlina",
+    "finish_time": "01:51:57",
+    "finish_seconds": 6717
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 383,
+    "name": "Chong, Charmayne",
+    "finish_time": "01:52:36",
+    "finish_seconds": 6756
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 385,
+    "name": "Lee, Chun Yan Charlotte",
+    "finish_time": "01:52:58",
+    "finish_seconds": 6778
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 387,
+    "name": "Goh, Wei Lee",
+    "finish_time": "01:53:26",
+    "finish_seconds": 6806
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 389,
+    "name": "Ong, Joey",
+    "finish_time": "01:53:37",
+    "finish_seconds": 6817
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 391,
+    "name": "Fu, Joanne",
+    "finish_time": "01:53:44",
+    "finish_seconds": 6824
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 393,
+    "name": "Risteau, Nathalie",
+    "finish_time": "01:53:50",
+    "finish_seconds": 6830
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 395,
+    "name": "Abdat, Nisyah",
+    "finish_time": "01:54:09",
+    "finish_seconds": 6849
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 397,
+    "name": "Cole, Leonie",
+    "finish_time": "01:54:16",
+    "finish_seconds": 6856
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 399,
+    "name": "Khor, Yuet Peng",
+    "finish_time": "01:54:22",
+    "finish_seconds": 6862
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 401,
+    "name": "Rozzaini, Alya Natasha",
+    "finish_time": "01:54:35",
+    "finish_seconds": 6875
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 403,
+    "name": "Lee, Xin Ee",
+    "finish_time": "01:54:56",
+    "finish_seconds": 6896
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 405,
+    "name": "Teo, Yvonne",
+    "finish_time": "01:55:09",
+    "finish_seconds": 6909
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 407,
+    "name": "Lloyd, Marie",
+    "finish_time": "01:55:27",
+    "finish_seconds": 6927
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 409,
+    "name": "Tan, Kaylynn",
+    "finish_time": "01:55:32",
+    "finish_seconds": 6932
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 411,
+    "name": "Sim, Fiona",
+    "finish_time": "01:55:46",
+    "finish_seconds": 6946
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 413,
+    "name": "Pang, Cai Wen",
+    "finish_time": "01:56:09",
+    "finish_seconds": 6969
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 415,
+    "name": "Tan, Justine",
+    "finish_time": "01:56:38",
+    "finish_seconds": 6998
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 417,
+    "name": "Demon, Maud",
+    "finish_time": "01:56:47",
+    "finish_seconds": 7007
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 419,
+    "name": "Chong, Wai Jin",
+    "finish_time": "01:56:54",
+    "finish_seconds": 7014
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 421,
+    "name": "Murphy, Tania",
+    "finish_time": "01:57:03",
+    "finish_seconds": 7023
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 423,
+    "name": "Rogojina, Georgiana",
+    "finish_time": "01:57:34",
+    "finish_seconds": 7054
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 425,
+    "name": "Teh, Valerie",
+    "finish_time": "01:57:50",
+    "finish_seconds": 7070
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 427,
+    "name": "Pongka, Supapun",
+    "finish_time": "01:57:57",
+    "finish_seconds": 7077
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 429,
+    "name": "Sim, Jasmine",
+    "finish_time": "01:58:10",
+    "finish_seconds": 7090
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 431,
+    "name": "Quesne, Eve",
+    "finish_time": "01:58:45",
+    "finish_seconds": 7125
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 433,
+    "name": "Osman, Natasha",
+    "finish_time": "01:58:50",
+    "finish_seconds": 7130
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 435,
+    "name": "Ooi, Zoe Sheen",
+    "finish_time": "01:59:06",
+    "finish_seconds": 7146
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 437,
+    "name": "Wong, Hie Leh",
+    "finish_time": "01:59:15",
+    "finish_seconds": 7155
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 439,
+    "name": "Nonis, Rachael",
+    "finish_time": "01:59:18",
+    "finish_seconds": 7158
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 441,
+    "name": "Ismail, Mawar Suria",
+    "finish_time": "01:59:45",
+    "finish_seconds": 7185
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 443,
+    "name": "Wong, Sara",
+    "finish_time": "01:59:52",
+    "finish_seconds": 7192
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 445,
+    "name": "Ng, Joanne Hui Ping",
+    "finish_time": "02:00:02",
+    "finish_seconds": 7202
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 447,
+    "name": "Xu, Zhaoxia",
+    "finish_time": "02:00:22",
+    "finish_seconds": 7222
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 449,
+    "name": "Binti Ahmed, Siti Nor Rabbani",
+    "finish_time": "02:00:31",
+    "finish_seconds": 7231
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 451,
+    "name": "Wickramaratne, Sasha",
+    "finish_time": "02:00:41",
+    "finish_seconds": 7241
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 453,
+    "name": "Chua, Lay Hong",
+    "finish_time": "02:00:59",
+    "finish_seconds": 7259
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 455,
+    "name": "Chan, Clarabelle",
+    "finish_time": "02:01:12",
+    "finish_seconds": 7272
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 457,
+    "name": "Bautista, Danna Andrea",
+    "finish_time": "02:01:26",
+    "finish_seconds": 7286
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 459,
+    "name": "Ngoh, Vanessa",
+    "finish_time": "02:02:00",
+    "finish_seconds": 7320
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 461,
+    "name": "Tan, Mavis",
+    "finish_time": "02:02:17",
+    "finish_seconds": 7337
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 463,
+    "name": "Santos, Alessi",
+    "finish_time": "02:02:30",
+    "finish_seconds": 7350
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 465,
+    "name": "Ho, Sarah",
+    "finish_time": "02:02:31",
+    "finish_seconds": 7351
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 467,
+    "name": "Sahari, Azilah",
+    "finish_time": "02:02:43",
+    "finish_seconds": 7363
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 469,
+    "name": "Leow, Bee Leng",
+    "finish_time": "02:03:03",
+    "finish_seconds": 7383
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 471,
+    "name": "Len, Mei Ern",
+    "finish_time": "02:03:08",
+    "finish_seconds": 7388
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 473,
+    "name": "Santoso, Patrice",
+    "finish_time": "02:03:20",
+    "finish_seconds": 7400
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 475,
+    "name": "Tandiono, Christiana",
+    "finish_time": "02:03:35",
+    "finish_seconds": 7415
+  },
+  {
+    "venue": "2025 Singapore Expo",
+    "gender": "W",
+    "rank": 477,
+    "name": "Azlan, Aisyah",
+    "finish_time": "02:03:45",
+    "finish_seconds": 7425
+  }
+]

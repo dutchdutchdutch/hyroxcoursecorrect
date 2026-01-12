@@ -1,0 +1,7082 @@
+[
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1,
+    "name": "Parker, Callum",
+    "finish_time": "00:58:53",
+    "finish_seconds": 3533
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 3,
+    "name": "Palmer, Jackson",
+    "finish_time": "01:01:17",
+    "finish_seconds": 3677
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 5,
+    "name": "Sangha, Brayden",
+    "finish_time": "01:02:25",
+    "finish_seconds": 3745
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 7,
+    "name": "Harpaz, Aaron",
+    "finish_time": "01:02:57",
+    "finish_seconds": 3777
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 9,
+    "name": "Hardman, Dave",
+    "finish_time": "01:03:06",
+    "finish_seconds": 3786
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 11,
+    "name": "Yehia, Amir",
+    "finish_time": "01:03:10",
+    "finish_seconds": 3790
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 13,
+    "name": "Hanrahan, David",
+    "finish_time": "01:03:33",
+    "finish_seconds": 3813
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 15,
+    "name": "Ezzat, Ramsey",
+    "finish_time": "01:03:39",
+    "finish_seconds": 3819
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 17,
+    "name": "Yee, Christopher",
+    "finish_time": "01:03:48",
+    "finish_seconds": 3828
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 19,
+    "name": "Salas, Seb",
+    "finish_time": "01:04:01",
+    "finish_seconds": 3841
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 21,
+    "name": "Labanino-Ramos, Jose",
+    "finish_time": "01:04:28",
+    "finish_seconds": 3868
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 23,
+    "name": "Worsley, David",
+    "finish_time": "01:04:45",
+    "finish_seconds": 3885
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 25,
+    "name": "Jacke, Willem",
+    "finish_time": "01:04:50",
+    "finish_seconds": 3890
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 27,
+    "name": "Doyle, Peter",
+    "finish_time": "01:04:52",
+    "finish_seconds": 3892
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 29,
+    "name": "Conway, Rory",
+    "finish_time": "01:05:26",
+    "finish_seconds": 3926
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 31,
+    "name": "Mckay, Andrew",
+    "finish_time": "01:05:54",
+    "finish_seconds": 3954
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 33,
+    "name": "Mceachran-Law, Matthew",
+    "finish_time": "01:06:06",
+    "finish_seconds": 3966
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 35,
+    "name": "Gavrila, Mircea",
+    "finish_time": "01:06:08",
+    "finish_seconds": 3968
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 37,
+    "name": "Costello, Richard",
+    "finish_time": "01:06:24",
+    "finish_seconds": 3984
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 39,
+    "name": "Korby, Adam",
+    "finish_time": "01:06:32",
+    "finish_seconds": 3992
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 41,
+    "name": "Sahlstrom, Cody",
+    "finish_time": "01:06:45",
+    "finish_seconds": 4005
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 43,
+    "name": "Kasza, Andras",
+    "finish_time": "01:06:57",
+    "finish_seconds": 4017
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 45,
+    "name": "Hill, Joel",
+    "finish_time": "01:07:15",
+    "finish_seconds": 4035
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 47,
+    "name": "Madrid, Noel Jacalan",
+    "finish_time": "01:07:30",
+    "finish_seconds": 4050
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 49,
+    "name": "Hedberg, Luke",
+    "finish_time": "01:07:31",
+    "finish_seconds": 4051
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 51,
+    "name": "Sydenham, Max",
+    "finish_time": "01:07:42",
+    "finish_seconds": 4062
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 53,
+    "name": "Bennett, Jake",
+    "finish_time": "01:08:03",
+    "finish_seconds": 4083
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 55,
+    "name": "Robinette, Tristan",
+    "finish_time": "01:08:28",
+    "finish_seconds": 4108
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 57,
+    "name": "Hagerty, Sean",
+    "finish_time": "01:08:39",
+    "finish_seconds": 4119
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 59,
+    "name": "Kp, Harry",
+    "finish_time": "01:08:45",
+    "finish_seconds": 4125
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 61,
+    "name": "Simon, Pat",
+    "finish_time": "01:08:47",
+    "finish_seconds": 4127
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 63,
+    "name": "Van Winkel, Wesley",
+    "finish_time": "01:08:55",
+    "finish_seconds": 4135
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 65,
+    "name": "Hanna, Jake",
+    "finish_time": "01:09:02",
+    "finish_seconds": 4142
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 67,
+    "name": "Alexander, Brian",
+    "finish_time": "01:09:11",
+    "finish_seconds": 4151
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 69,
+    "name": "Lee, Jeonghoon",
+    "finish_time": "01:09:21",
+    "finish_seconds": 4161
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 71,
+    "name": "Dickson, Tim",
+    "finish_time": "01:09:30",
+    "finish_seconds": 4170
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 73,
+    "name": "Chegne, Alex",
+    "finish_time": "01:09:38",
+    "finish_seconds": 4178
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 75,
+    "name": "Roche, Brian",
+    "finish_time": "01:09:57",
+    "finish_seconds": 4197
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 77,
+    "name": "Aziz, Hamid",
+    "finish_time": "01:10:26",
+    "finish_seconds": 4226
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 79,
+    "name": "Harrison, Noah",
+    "finish_time": "01:10:29",
+    "finish_seconds": 4229
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 81,
+    "name": "Rankel, A.J.",
+    "finish_time": "01:10:37",
+    "finish_seconds": 4237
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 83,
+    "name": "Hong, Stewart",
+    "finish_time": "01:10:49",
+    "finish_seconds": 4249
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 85,
+    "name": "Krebs, Gabe",
+    "finish_time": "01:10:54",
+    "finish_seconds": 4254
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 87,
+    "name": "Goshulak, Lucas",
+    "finish_time": "01:10:56",
+    "finish_seconds": 4256
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 89,
+    "name": "Taranenko, Yaro",
+    "finish_time": "01:11:07",
+    "finish_seconds": 4267
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 91,
+    "name": "Leyland, David",
+    "finish_time": "01:11:35",
+    "finish_seconds": 4295
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 93,
+    "name": "Bains, Akash",
+    "finish_time": "01:11:37",
+    "finish_seconds": 4297
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 95,
+    "name": "Hovasse, Olivier",
+    "finish_time": "01:11:42",
+    "finish_seconds": 4302
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 97,
+    "name": "Lechasseur, Derek",
+    "finish_time": "01:11:49",
+    "finish_seconds": 4309
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 99,
+    "name": "Dickens, Scott",
+    "finish_time": "01:12:07",
+    "finish_seconds": 4327
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 101,
+    "name": "Manalastas, John",
+    "finish_time": "01:12:19",
+    "finish_seconds": 4339
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 103,
+    "name": "Shore, Stephen",
+    "finish_time": "01:12:36",
+    "finish_seconds": 4356
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 105,
+    "name": "Bigglestone, Ben",
+    "finish_time": "01:12:40",
+    "finish_seconds": 4360
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 107,
+    "name": "Leung, Jay",
+    "finish_time": "01:12:41",
+    "finish_seconds": 4361
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 109,
+    "name": "Allinson, Nathan",
+    "finish_time": "01:12:41",
+    "finish_seconds": 4361
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 111,
+    "name": "Dignum, Shane",
+    "finish_time": "01:12:45",
+    "finish_seconds": 4365
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 113,
+    "name": "Struyk, Eric",
+    "finish_time": "01:12:48",
+    "finish_seconds": 4368
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 115,
+    "name": "Drohomirecki, Victor",
+    "finish_time": "01:12:53",
+    "finish_seconds": 4373
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 117,
+    "name": "Fawcett, Matthieu",
+    "finish_time": "01:12:56",
+    "finish_seconds": 4376
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 119,
+    "name": "Herberts, Adrien",
+    "finish_time": "01:13:07",
+    "finish_seconds": 4387
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 121,
+    "name": "Choi, Dave",
+    "finish_time": "01:13:18",
+    "finish_seconds": 4398
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 123,
+    "name": "Steele, Jimmy",
+    "finish_time": "01:13:19",
+    "finish_seconds": 4399
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 125,
+    "name": "Hinton, Taylor",
+    "finish_time": "01:13:27",
+    "finish_seconds": 4407
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 127,
+    "name": "Swigart, Grant",
+    "finish_time": "01:13:34",
+    "finish_seconds": 4414
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 129,
+    "name": "Veenstra, David",
+    "finish_time": "01:13:40",
+    "finish_seconds": 4420
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 131,
+    "name": "Lam, Richard",
+    "finish_time": "01:13:47",
+    "finish_seconds": 4427
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 133,
+    "name": "Dahabieh, Matthew",
+    "finish_time": "01:13:59",
+    "finish_seconds": 4439
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 135,
+    "name": "Ogbe, M\u00e9ron",
+    "finish_time": "01:14:03",
+    "finish_seconds": 4443
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 137,
+    "name": "Saucke, Adrian",
+    "finish_time": "01:14:05",
+    "finish_seconds": 4445
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 139,
+    "name": "Paddock, Cory",
+    "finish_time": "01:14:09",
+    "finish_seconds": 4449
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 141,
+    "name": "Nelson, Erik",
+    "finish_time": "01:14:14",
+    "finish_seconds": 4454
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 143,
+    "name": "Chambeglain, Raymond",
+    "finish_time": "01:14:20",
+    "finish_seconds": 4460
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 145,
+    "name": "Ng, Hubert",
+    "finish_time": "01:14:21",
+    "finish_seconds": 4461
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 147,
+    "name": "Macdonald, Joshua",
+    "finish_time": "01:14:27",
+    "finish_seconds": 4467
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 149,
+    "name": "Polard, Jayden",
+    "finish_time": "01:14:39",
+    "finish_seconds": 4479
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 151,
+    "name": "Harms, Jaden",
+    "finish_time": "01:14:45",
+    "finish_seconds": 4485
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 153,
+    "name": "Hasley, Mark",
+    "finish_time": "01:14:50",
+    "finish_seconds": 4490
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 155,
+    "name": "Statten, Chris",
+    "finish_time": "01:14:52",
+    "finish_seconds": 4492
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 157,
+    "name": "Gerth, David",
+    "finish_time": "01:15:01",
+    "finish_seconds": 4501
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 159,
+    "name": "Cunningham, Cameron",
+    "finish_time": "01:15:06",
+    "finish_seconds": 4506
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 161,
+    "name": "Mcconnachie, Brendan",
+    "finish_time": "01:15:08",
+    "finish_seconds": 4508
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 163,
+    "name": "Peers, Joseph",
+    "finish_time": "01:15:09",
+    "finish_seconds": 4509
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 165,
+    "name": "Mckissick, Josh",
+    "finish_time": "01:15:13",
+    "finish_seconds": 4513
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 167,
+    "name": "Davis, Mark",
+    "finish_time": "01:15:17",
+    "finish_seconds": 4517
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 169,
+    "name": "Dubois, Killian",
+    "finish_time": "01:15:26",
+    "finish_seconds": 4526
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 171,
+    "name": "Gordon Romero, Devi",
+    "finish_time": "01:15:29",
+    "finish_seconds": 4529
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 173,
+    "name": "Chabala, Michael",
+    "finish_time": "01:15:36",
+    "finish_seconds": 4536
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 175,
+    "name": "Dueck, Nolan",
+    "finish_time": "01:15:44",
+    "finish_seconds": 4544
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 177,
+    "name": "Morris, Geoff",
+    "finish_time": "01:15:45",
+    "finish_seconds": 4545
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 179,
+    "name": "Haiart, Alex",
+    "finish_time": "01:15:53",
+    "finish_seconds": 4553
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 181,
+    "name": "Hijazi, Taha",
+    "finish_time": "01:15:56",
+    "finish_seconds": 4556
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 183,
+    "name": "Ibarra, Fresco",
+    "finish_time": "01:16:00",
+    "finish_seconds": 4560
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 185,
+    "name": "Thrale, Terry",
+    "finish_time": "01:16:02",
+    "finish_seconds": 4562
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 187,
+    "name": "Colborne, Brandon",
+    "finish_time": "01:16:03",
+    "finish_seconds": 4563
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 189,
+    "name": "Olinyk, Ricky",
+    "finish_time": "01:16:04",
+    "finish_seconds": 4564
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 191,
+    "name": "Maljaars, Julius",
+    "finish_time": "01:16:13",
+    "finish_seconds": 4573
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 193,
+    "name": "Fenyves, Gabor",
+    "finish_time": "01:16:16",
+    "finish_seconds": 4576
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 195,
+    "name": "Robinson, James",
+    "finish_time": "01:16:26",
+    "finish_seconds": 4586
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 197,
+    "name": "Kendrick, Pete",
+    "finish_time": "01:16:36",
+    "finish_seconds": 4596
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 199,
+    "name": "Gudino Alvarez, Cesar",
+    "finish_time": "01:16:40",
+    "finish_seconds": 4600
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 201,
+    "name": "Miley, Zach",
+    "finish_time": "01:16:51",
+    "finish_seconds": 4611
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 203,
+    "name": "Van Der Westhuizen, Richard",
+    "finish_time": "01:16:53",
+    "finish_seconds": 4613
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 205,
+    "name": "Ng, Derek",
+    "finish_time": "01:17:01",
+    "finish_seconds": 4621
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 207,
+    "name": "Wallace, Mark",
+    "finish_time": "01:17:09",
+    "finish_seconds": 4629
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 209,
+    "name": "Sanderson, Brayd",
+    "finish_time": "01:17:13",
+    "finish_seconds": 4633
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 211,
+    "name": "Stamas, Nick",
+    "finish_time": "01:17:15",
+    "finish_seconds": 4635
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 213,
+    "name": "Walton, Geoffrey",
+    "finish_time": "01:17:18",
+    "finish_seconds": 4638
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 215,
+    "name": "Van Winkle, Andrew",
+    "finish_time": "01:17:22",
+    "finish_seconds": 4642
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 217,
+    "name": "Elias, Thomas",
+    "finish_time": "01:17:26",
+    "finish_seconds": 4646
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 219,
+    "name": "Moore, Nolan",
+    "finish_time": "01:17:27",
+    "finish_seconds": 4647
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 221,
+    "name": "Pereira, Jason",
+    "finish_time": "01:17:28",
+    "finish_seconds": 4648
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 223,
+    "name": "Menzel, Tristan",
+    "finish_time": "01:17:30",
+    "finish_seconds": 4650
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 225,
+    "name": "Hollebakken, Gavin",
+    "finish_time": "01:17:34",
+    "finish_seconds": 4654
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 227,
+    "name": "Slatnik, Mike",
+    "finish_time": "01:17:46",
+    "finish_seconds": 4666
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 229,
+    "name": "Russelle, Cam",
+    "finish_time": "01:17:50",
+    "finish_seconds": 4670
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 231,
+    "name": "Dickinson, Austin",
+    "finish_time": "01:17:57",
+    "finish_seconds": 4677
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 233,
+    "name": "Jackman, Sheldon",
+    "finish_time": "01:18:00",
+    "finish_seconds": 4680
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 235,
+    "name": "Timmer, Ryan",
+    "finish_time": "01:18:02",
+    "finish_seconds": 4682
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 237,
+    "name": "Yip, Daniel",
+    "finish_time": "01:18:05",
+    "finish_seconds": 4685
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 239,
+    "name": "Robles, Marlon",
+    "finish_time": "01:18:07",
+    "finish_seconds": 4687
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 241,
+    "name": "Moore, Jason",
+    "finish_time": "01:18:25",
+    "finish_seconds": 4705
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 243,
+    "name": "Gulka, Nick",
+    "finish_time": "01:18:29",
+    "finish_seconds": 4709
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 245,
+    "name": "Olsen, Joshua",
+    "finish_time": "01:18:32",
+    "finish_seconds": 4712
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 247,
+    "name": "Lee, Karsten",
+    "finish_time": "01:18:33",
+    "finish_seconds": 4713
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 249,
+    "name": "Hawkings, Adrian",
+    "finish_time": "01:18:35",
+    "finish_seconds": 4715
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 251,
+    "name": "Davies, Deric",
+    "finish_time": "01:18:39",
+    "finish_seconds": 4719
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 253,
+    "name": "Cassibo, Mark",
+    "finish_time": "01:18:41",
+    "finish_seconds": 4721
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 255,
+    "name": "Marsh, Joey",
+    "finish_time": "01:18:51",
+    "finish_seconds": 4731
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 257,
+    "name": "Kelly, Simon",
+    "finish_time": "01:18:54",
+    "finish_seconds": 4734
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 259,
+    "name": "Paolella, Nic",
+    "finish_time": "01:18:59",
+    "finish_seconds": 4739
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 261,
+    "name": "Doolin, James",
+    "finish_time": "01:19:01",
+    "finish_seconds": 4741
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 263,
+    "name": "Hay, Wilson",
+    "finish_time": "01:19:04",
+    "finish_seconds": 4744
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 265,
+    "name": "Bau, Lawrence",
+    "finish_time": "01:19:04",
+    "finish_seconds": 4744
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 267,
+    "name": "Ruther, Maximilian",
+    "finish_time": "01:19:05",
+    "finish_seconds": 4745
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 269,
+    "name": "Conners, Brendan",
+    "finish_time": "01:19:12",
+    "finish_seconds": 4752
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 271,
+    "name": "Cobleigh, Thomas",
+    "finish_time": "01:19:16",
+    "finish_seconds": 4756
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 273,
+    "name": "Broxterman, Mark",
+    "finish_time": "01:19:20",
+    "finish_seconds": 4760
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 275,
+    "name": "Kashi, Paya",
+    "finish_time": "01:19:29",
+    "finish_seconds": 4769
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 277,
+    "name": "Muller, Nate",
+    "finish_time": "01:19:32",
+    "finish_seconds": 4772
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 279,
+    "name": "Sparks, Emerson",
+    "finish_time": "01:19:33",
+    "finish_seconds": 4773
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 281,
+    "name": "Marasigan, Ronan",
+    "finish_time": "01:19:42",
+    "finish_seconds": 4782
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 283,
+    "name": "Van Aert, Bryce",
+    "finish_time": "01:19:45",
+    "finish_seconds": 4785
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 285,
+    "name": "Villasenor, Fernando",
+    "finish_time": "01:19:49",
+    "finish_seconds": 4789
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 287,
+    "name": "Sluth, Patrick",
+    "finish_time": "01:20:02",
+    "finish_seconds": 4802
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 289,
+    "name": "Pena, Nico",
+    "finish_time": "01:20:06",
+    "finish_seconds": 4806
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 291,
+    "name": "Dich, Raymond",
+    "finish_time": "01:20:12",
+    "finish_seconds": 4812
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 293,
+    "name": "Hill, Estello",
+    "finish_time": "01:20:16",
+    "finish_seconds": 4816
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 295,
+    "name": "Paplawski, Connor",
+    "finish_time": "01:20:18",
+    "finish_seconds": 4818
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 297,
+    "name": "Ingmar, Brian",
+    "finish_time": "01:20:22",
+    "finish_seconds": 4822
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 299,
+    "name": "Lynn, Jeremy",
+    "finish_time": "01:20:27",
+    "finish_seconds": 4827
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 301,
+    "name": "Zhou, Donald",
+    "finish_time": "01:20:33",
+    "finish_seconds": 4833
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 303,
+    "name": "Carandang, Jeff",
+    "finish_time": "01:20:37",
+    "finish_seconds": 4837
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 305,
+    "name": "Dimalanta, Kendru",
+    "finish_time": "01:20:42",
+    "finish_seconds": 4842
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 307,
+    "name": "Ng, Joshua",
+    "finish_time": "01:20:51",
+    "finish_seconds": 4851
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 309,
+    "name": "Murner, Dane",
+    "finish_time": "01:20:52",
+    "finish_seconds": 4852
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 311,
+    "name": "Smiley, Rhys",
+    "finish_time": "01:20:59",
+    "finish_seconds": 4859
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 313,
+    "name": "Lahue, Ben",
+    "finish_time": "01:21:04",
+    "finish_seconds": 4864
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 315,
+    "name": "Whelton, Gerard",
+    "finish_time": "01:21:05",
+    "finish_seconds": 4865
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 317,
+    "name": "Aylwin, Connor",
+    "finish_time": "01:21:08",
+    "finish_seconds": 4868
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 319,
+    "name": "Kieselbach, Grayson",
+    "finish_time": "01:21:09",
+    "finish_seconds": 4869
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 321,
+    "name": "Macdonell, Griffin",
+    "finish_time": "01:21:12",
+    "finish_seconds": 4872
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 323,
+    "name": "Liu, Harrison",
+    "finish_time": "01:21:14",
+    "finish_seconds": 4874
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 325,
+    "name": "Mccalman, Jamie",
+    "finish_time": "01:21:17",
+    "finish_seconds": 4877
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 327,
+    "name": "Redmond, Tom",
+    "finish_time": "01:21:17",
+    "finish_seconds": 4877
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 329,
+    "name": "Yeh, Patrick",
+    "finish_time": "01:21:20",
+    "finish_seconds": 4880
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 331,
+    "name": "Tan, Jeremiah",
+    "finish_time": "01:21:23",
+    "finish_seconds": 4883
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 333,
+    "name": "Kelley, Tim",
+    "finish_time": "01:21:27",
+    "finish_seconds": 4887
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 335,
+    "name": "Hewitt, Adam",
+    "finish_time": "01:21:28",
+    "finish_seconds": 4888
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 337,
+    "name": "Hall, Matthew",
+    "finish_time": "01:21:31",
+    "finish_seconds": 4891
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 339,
+    "name": "Gilbert, Tyrese",
+    "finish_time": "01:21:32",
+    "finish_seconds": 4892
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 341,
+    "name": "Bailey, Bryn",
+    "finish_time": "01:21:33",
+    "finish_seconds": 4893
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 343,
+    "name": "Hopkins, Josh",
+    "finish_time": "01:21:37",
+    "finish_seconds": 4897
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 345,
+    "name": "Metcalfe, Aidan",
+    "finish_time": "01:21:38",
+    "finish_seconds": 4898
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 347,
+    "name": "Wang, Shengjing",
+    "finish_time": "01:21:46",
+    "finish_seconds": 4906
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 349,
+    "name": "Harper, Chris",
+    "finish_time": "01:21:49",
+    "finish_seconds": 4909
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 351,
+    "name": "Ure, Travis",
+    "finish_time": "01:21:50",
+    "finish_seconds": 4910
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 353,
+    "name": "Dallyn, Berkley",
+    "finish_time": "01:22:03",
+    "finish_seconds": 4923
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 355,
+    "name": "Olmstead, Keldon",
+    "finish_time": "01:22:10",
+    "finish_seconds": 4930
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 357,
+    "name": "Bezerra, Luiz",
+    "finish_time": "01:22:13",
+    "finish_seconds": 4933
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 359,
+    "name": "Murphy, Jordan",
+    "finish_time": "01:22:14",
+    "finish_seconds": 4934
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 361,
+    "name": "Brandt, Dean",
+    "finish_time": "01:22:18",
+    "finish_seconds": 4938
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 363,
+    "name": "Smith, Darren",
+    "finish_time": "01:22:24",
+    "finish_seconds": 4944
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 365,
+    "name": "Hamer, Caio",
+    "finish_time": "01:22:25",
+    "finish_seconds": 4945
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 367,
+    "name": "Berger, Jeff",
+    "finish_time": "01:22:31",
+    "finish_seconds": 4951
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 369,
+    "name": "Foster, Alex",
+    "finish_time": "01:22:34",
+    "finish_seconds": 4954
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 371,
+    "name": "Yeske, Adam",
+    "finish_time": "01:22:34",
+    "finish_seconds": 4954
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 373,
+    "name": "Buchmann, Robert",
+    "finish_time": "01:22:41",
+    "finish_seconds": 4961
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 375,
+    "name": "Jaeger-Freeborn, Gavin",
+    "finish_time": "01:22:47",
+    "finish_seconds": 4967
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 377,
+    "name": "Tsui, Victor",
+    "finish_time": "01:22:53",
+    "finish_seconds": 4973
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 379,
+    "name": "Ryan, Tyler",
+    "finish_time": "01:22:57",
+    "finish_seconds": 4977
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 381,
+    "name": "Hsiao, Mike",
+    "finish_time": "01:23:04",
+    "finish_seconds": 4984
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 383,
+    "name": "Ulmer, Julian",
+    "finish_time": "01:23:07",
+    "finish_seconds": 4987
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 385,
+    "name": "Mah, Tedric",
+    "finish_time": "01:23:09",
+    "finish_seconds": 4989
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 387,
+    "name": "Mcmullin, Kyle",
+    "finish_time": "01:23:12",
+    "finish_seconds": 4992
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 389,
+    "name": "Billesberger, Joel",
+    "finish_time": "01:23:13",
+    "finish_seconds": 4993
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 391,
+    "name": "Saygnavong, Andrew",
+    "finish_time": "01:23:20",
+    "finish_seconds": 5000
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 393,
+    "name": "Saad, Yunes",
+    "finish_time": "01:23:24",
+    "finish_seconds": 5004
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 395,
+    "name": "Wood, Ben",
+    "finish_time": "01:23:33",
+    "finish_seconds": 5013
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 397,
+    "name": "Malleau, Jacob",
+    "finish_time": "01:23:36",
+    "finish_seconds": 5016
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 399,
+    "name": "Leong, James",
+    "finish_time": "01:23:42",
+    "finish_seconds": 5022
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 401,
+    "name": "Stanek, Derek",
+    "finish_time": "01:23:48",
+    "finish_seconds": 5028
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 403,
+    "name": "Iranmanesh, Mehran",
+    "finish_time": "01:23:50",
+    "finish_seconds": 5030
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 405,
+    "name": "Hibbert, Matthew",
+    "finish_time": "01:23:51",
+    "finish_seconds": 5031
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 407,
+    "name": "Toribio, Torrey",
+    "finish_time": "01:23:57",
+    "finish_seconds": 5037
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 409,
+    "name": "Williams, Raymond",
+    "finish_time": "01:24:01",
+    "finish_seconds": 5041
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 411,
+    "name": "Boucher, Richard",
+    "finish_time": "01:24:02",
+    "finish_seconds": 5042
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 413,
+    "name": "Perree, Kendal",
+    "finish_time": "01:24:08",
+    "finish_seconds": 5048
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 415,
+    "name": "Veloso, Ian",
+    "finish_time": "01:24:10",
+    "finish_seconds": 5050
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 417,
+    "name": "Lawrence, Alex",
+    "finish_time": "01:24:13",
+    "finish_seconds": 5053
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 419,
+    "name": "Hewson, David",
+    "finish_time": "01:24:15",
+    "finish_seconds": 5055
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 421,
+    "name": "Turner, Robby",
+    "finish_time": "01:24:22",
+    "finish_seconds": 5062
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 423,
+    "name": "Ranada, Kief",
+    "finish_time": "01:24:26",
+    "finish_seconds": 5066
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 425,
+    "name": "Fazioni, Gabe",
+    "finish_time": "01:24:29",
+    "finish_seconds": 5069
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 427,
+    "name": "Dewailly, Tim",
+    "finish_time": "01:24:33",
+    "finish_seconds": 5073
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 429,
+    "name": "De Natale, Jay",
+    "finish_time": "01:24:37",
+    "finish_seconds": 5077
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 431,
+    "name": "Duthie, Jason",
+    "finish_time": "01:24:39",
+    "finish_seconds": 5079
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 433,
+    "name": "Moore, Daniel",
+    "finish_time": "01:24:44",
+    "finish_seconds": 5084
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 435,
+    "name": "Dupr\u00e9, Nicolas",
+    "finish_time": "01:24:49",
+    "finish_seconds": 5089
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 437,
+    "name": "Casey, Christopher",
+    "finish_time": "01:24:54",
+    "finish_seconds": 5094
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 439,
+    "name": "Anthony, Brian",
+    "finish_time": "01:24:56",
+    "finish_seconds": 5096
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 441,
+    "name": "S\u00f6llner, Sebastian",
+    "finish_time": "01:24:59",
+    "finish_seconds": 5099
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 443,
+    "name": "Dickinson, Zachary",
+    "finish_time": "01:25:00",
+    "finish_seconds": 5100
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 445,
+    "name": "Chan, Ringo",
+    "finish_time": "01:25:03",
+    "finish_seconds": 5103
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 447,
+    "name": "Ryan, Keelan",
+    "finish_time": "01:25:03",
+    "finish_seconds": 5103
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 449,
+    "name": "Coll, Ian",
+    "finish_time": "01:25:09",
+    "finish_seconds": 5109
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 451,
+    "name": "Chan, Jonathan",
+    "finish_time": "01:25:11",
+    "finish_seconds": 5111
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 453,
+    "name": "Garcia, Ramon",
+    "finish_time": "01:25:13",
+    "finish_seconds": 5113
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 455,
+    "name": "Harris, Parker",
+    "finish_time": "01:25:14",
+    "finish_seconds": 5114
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 457,
+    "name": "Petkovic, Luka",
+    "finish_time": "01:25:18",
+    "finish_seconds": 5118
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 459,
+    "name": "Grady, Liam",
+    "finish_time": "01:25:20",
+    "finish_seconds": 5120
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 461,
+    "name": "Priestly, Duncan",
+    "finish_time": "01:25:27",
+    "finish_seconds": 5127
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 463,
+    "name": "Bloom, Ryan",
+    "finish_time": "01:25:32",
+    "finish_seconds": 5132
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 465,
+    "name": "Carter, Matthew",
+    "finish_time": "01:25:32",
+    "finish_seconds": 5132
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 467,
+    "name": "Tabrizi, Shayan",
+    "finish_time": "01:25:34",
+    "finish_seconds": 5134
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 469,
+    "name": "Smith, Aaron",
+    "finish_time": "01:25:36",
+    "finish_seconds": 5136
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 471,
+    "name": "Pritchard, Spencer",
+    "finish_time": "01:25:43",
+    "finish_seconds": 5143
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 473,
+    "name": "Drysdale, Chris",
+    "finish_time": "01:25:44",
+    "finish_seconds": 5144
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 475,
+    "name": "Wu, Peter",
+    "finish_time": "01:25:48",
+    "finish_seconds": 5148
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 477,
+    "name": "Jarman, Mitch",
+    "finish_time": "01:25:50",
+    "finish_seconds": 5150
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 479,
+    "name": "Boe, Kallen",
+    "finish_time": "01:25:52",
+    "finish_seconds": 5152
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 481,
+    "name": "Santos Araujo, Douglas",
+    "finish_time": "01:25:53",
+    "finish_seconds": 5153
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 483,
+    "name": "Kwok, Kevin",
+    "finish_time": "01:25:56",
+    "finish_seconds": 5156
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 485,
+    "name": "Smith, Chris",
+    "finish_time": "01:25:59",
+    "finish_seconds": 5159
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 487,
+    "name": "Cuatezon, Diego",
+    "finish_time": "01:26:00",
+    "finish_seconds": 5160
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 489,
+    "name": "Rizos, Alexander",
+    "finish_time": "01:26:01",
+    "finish_seconds": 5161
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 491,
+    "name": "Mahal, Ankit",
+    "finish_time": "01:26:02",
+    "finish_seconds": 5162
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 493,
+    "name": "Pal, Amar",
+    "finish_time": "01:26:06",
+    "finish_seconds": 5166
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 495,
+    "name": "Shipes, Nick",
+    "finish_time": "01:26:10",
+    "finish_seconds": 5170
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 497,
+    "name": "Maccallum, Elliott",
+    "finish_time": "01:26:13",
+    "finish_seconds": 5173
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 499,
+    "name": "Cui, Alexander",
+    "finish_time": "01:26:14",
+    "finish_seconds": 5174
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 501,
+    "name": "Rennie, Shawn",
+    "finish_time": "01:26:20",
+    "finish_seconds": 5180
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 503,
+    "name": "Ogren, Jayce",
+    "finish_time": "01:26:24",
+    "finish_seconds": 5184
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 505,
+    "name": "Strickland, Rory",
+    "finish_time": "01:26:25",
+    "finish_seconds": 5185
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 507,
+    "name": "Santos, Jesus",
+    "finish_time": "01:26:26",
+    "finish_seconds": 5186
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 509,
+    "name": "Stewart, Isaiah",
+    "finish_time": "01:26:31",
+    "finish_seconds": 5191
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 511,
+    "name": "Dhinsa, Justin",
+    "finish_time": "01:26:32",
+    "finish_seconds": 5192
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 513,
+    "name": "Lopes, Chris",
+    "finish_time": "01:26:33",
+    "finish_seconds": 5193
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 515,
+    "name": "Pham, Mike",
+    "finish_time": "01:26:42",
+    "finish_seconds": 5202
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 517,
+    "name": "Reijmer, Michiel",
+    "finish_time": "01:26:52",
+    "finish_seconds": 5212
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 519,
+    "name": "Ranada, Kevin",
+    "finish_time": "01:27:01",
+    "finish_seconds": 5221
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 521,
+    "name": "Mccunn, Greg",
+    "finish_time": "01:27:02",
+    "finish_seconds": 5222
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 523,
+    "name": "Mooney, Steven",
+    "finish_time": "01:27:05",
+    "finish_seconds": 5225
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 525,
+    "name": "De Torres, Jeremy",
+    "finish_time": "01:27:07",
+    "finish_seconds": 5227
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 527,
+    "name": "Nowikow, Brad",
+    "finish_time": "01:27:10",
+    "finish_seconds": 5230
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 529,
+    "name": "Lovig, Reagan",
+    "finish_time": "01:27:12",
+    "finish_seconds": 5232
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 531,
+    "name": "Kang, Bin",
+    "finish_time": "01:27:14",
+    "finish_seconds": 5234
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 533,
+    "name": "Smith, Jason",
+    "finish_time": "01:27:16",
+    "finish_seconds": 5236
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 535,
+    "name": "Neis, Stephen",
+    "finish_time": "01:27:22",
+    "finish_seconds": 5242
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 537,
+    "name": "Demers, Ryan",
+    "finish_time": "01:27:24",
+    "finish_seconds": 5244
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 539,
+    "name": "Cao, Thinh",
+    "finish_time": "01:27:30",
+    "finish_seconds": 5250
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 541,
+    "name": "Mackay, Sean",
+    "finish_time": "01:27:38",
+    "finish_seconds": 5258
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 543,
+    "name": "Singh, Amarjeet",
+    "finish_time": "01:27:40",
+    "finish_seconds": 5260
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 545,
+    "name": "Martin, Kirby",
+    "finish_time": "01:27:42",
+    "finish_seconds": 5262
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 547,
+    "name": "Tse, Anthony",
+    "finish_time": "01:27:45",
+    "finish_seconds": 5265
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 549,
+    "name": "Kim, Ryan",
+    "finish_time": "01:27:50",
+    "finish_seconds": 5270
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 551,
+    "name": "Wong, Eric",
+    "finish_time": "01:27:56",
+    "finish_seconds": 5276
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 553,
+    "name": "Loza, Martin",
+    "finish_time": "01:28:07",
+    "finish_seconds": 5287
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 555,
+    "name": "Swaine, Chapman",
+    "finish_time": "01:28:09",
+    "finish_seconds": 5289
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 557,
+    "name": "Sanz, Sebastien",
+    "finish_time": "01:28:11",
+    "finish_seconds": 5291
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 559,
+    "name": "Sillett, Daniel",
+    "finish_time": "01:28:13",
+    "finish_seconds": 5293
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 561,
+    "name": "Ball, Colin",
+    "finish_time": "01:28:14",
+    "finish_seconds": 5294
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 563,
+    "name": "Chiang, Michael",
+    "finish_time": "01:28:16",
+    "finish_seconds": 5296
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 565,
+    "name": "Hedley, Jason",
+    "finish_time": "01:28:19",
+    "finish_seconds": 5299
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 567,
+    "name": "Sekhon, Jalen",
+    "finish_time": "01:28:21",
+    "finish_seconds": 5301
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 569,
+    "name": "Hodgert, Aidan",
+    "finish_time": "01:28:22",
+    "finish_seconds": 5302
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 571,
+    "name": "Seyrek, Nuri",
+    "finish_time": "01:28:28",
+    "finish_seconds": 5308
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 573,
+    "name": "Lelek, Eagan",
+    "finish_time": "01:28:31",
+    "finish_seconds": 5311
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 575,
+    "name": "Mitchell, Ben",
+    "finish_time": "01:28:34",
+    "finish_seconds": 5314
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 577,
+    "name": "Harrison, Patrick",
+    "finish_time": "01:28:35",
+    "finish_seconds": 5315
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 579,
+    "name": "Lizarazo, Fernando",
+    "finish_time": "01:28:37",
+    "finish_seconds": 5317
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 581,
+    "name": "Shew, Jacob",
+    "finish_time": "01:28:45",
+    "finish_seconds": 5325
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 583,
+    "name": "Humphreys, Mark",
+    "finish_time": "01:28:48",
+    "finish_seconds": 5328
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 585,
+    "name": "Elsner, Kobe",
+    "finish_time": "01:28:52",
+    "finish_seconds": 5332
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 587,
+    "name": "Valdivia, Sebastian",
+    "finish_time": "01:28:59",
+    "finish_seconds": 5339
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 589,
+    "name": "Hogue, Mathieu",
+    "finish_time": "01:29:03",
+    "finish_seconds": 5343
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 591,
+    "name": "Oviatt, Jake",
+    "finish_time": "01:29:05",
+    "finish_seconds": 5345
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 593,
+    "name": "Verville, David",
+    "finish_time": "01:29:07",
+    "finish_seconds": 5347
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 595,
+    "name": "Nikolov, Martin",
+    "finish_time": "01:29:11",
+    "finish_seconds": 5351
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 597,
+    "name": "Wong, Marcus",
+    "finish_time": "01:29:17",
+    "finish_seconds": 5357
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 599,
+    "name": "Mclean, Andrew",
+    "finish_time": "01:29:22",
+    "finish_seconds": 5362
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 601,
+    "name": "Gow, Thomas",
+    "finish_time": "01:29:25",
+    "finish_seconds": 5365
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 603,
+    "name": "Bujas, Jeff",
+    "finish_time": "01:29:31",
+    "finish_seconds": 5371
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 605,
+    "name": "Anctil, Jon",
+    "finish_time": "01:29:36",
+    "finish_seconds": 5376
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 607,
+    "name": "Qayoum, Khalid",
+    "finish_time": "01:29:41",
+    "finish_seconds": 5381
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 609,
+    "name": "Lee, Dakota",
+    "finish_time": "01:29:48",
+    "finish_seconds": 5388
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 611,
+    "name": "Harris, Darren",
+    "finish_time": "01:29:49",
+    "finish_seconds": 5389
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 613,
+    "name": "Ustienny, Arek",
+    "finish_time": "01:29:51",
+    "finish_seconds": 5391
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 615,
+    "name": "Miranda, Eric Jr",
+    "finish_time": "01:29:54",
+    "finish_seconds": 5394
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 617,
+    "name": "Flores, Isaiah",
+    "finish_time": "01:29:57",
+    "finish_seconds": 5397
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 619,
+    "name": "Huang, Zhengtao",
+    "finish_time": "01:30:01",
+    "finish_seconds": 5401
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 621,
+    "name": "Lee, Han",
+    "finish_time": "01:30:02",
+    "finish_seconds": 5402
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 623,
+    "name": "Samson, Devon",
+    "finish_time": "01:30:08",
+    "finish_seconds": 5408
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 625,
+    "name": "Jennings, Tj",
+    "finish_time": "01:30:16",
+    "finish_seconds": 5416
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 627,
+    "name": "Rock, Michael",
+    "finish_time": "01:30:19",
+    "finish_seconds": 5419
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 629,
+    "name": "Heffernan, Austin",
+    "finish_time": "01:30:21",
+    "finish_seconds": 5421
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 631,
+    "name": "Desmarais, Patrick",
+    "finish_time": "01:30:28",
+    "finish_seconds": 5428
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 633,
+    "name": "Mcconnell, Reed",
+    "finish_time": "01:30:30",
+    "finish_seconds": 5430
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 635,
+    "name": "Chepesiuk, Michael",
+    "finish_time": "01:30:36",
+    "finish_seconds": 5436
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 637,
+    "name": "Buchmann, Tommy",
+    "finish_time": "01:30:39",
+    "finish_seconds": 5439
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 639,
+    "name": "Wark, Sean",
+    "finish_time": "01:30:42",
+    "finish_seconds": 5442
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 641,
+    "name": "Cardona, Andres",
+    "finish_time": "01:30:48",
+    "finish_seconds": 5448
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 643,
+    "name": "Wu, Jeffery",
+    "finish_time": "01:30:49",
+    "finish_seconds": 5449
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 645,
+    "name": "Borger, Brent",
+    "finish_time": "01:30:51",
+    "finish_seconds": 5451
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 647,
+    "name": "Shafaiyanfard, Ehsan",
+    "finish_time": "01:30:55",
+    "finish_seconds": 5455
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 649,
+    "name": "Daudelin, Mike",
+    "finish_time": "01:30:57",
+    "finish_seconds": 5457
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 651,
+    "name": "Sidoo, Dylan",
+    "finish_time": "01:30:59",
+    "finish_seconds": 5459
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 653,
+    "name": "Chan, David",
+    "finish_time": "01:31:01",
+    "finish_seconds": 5461
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 655,
+    "name": "Jung, Eugene",
+    "finish_time": "01:31:02",
+    "finish_seconds": 5462
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 657,
+    "name": "Vu, Cuong",
+    "finish_time": "01:31:03",
+    "finish_seconds": 5463
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 659,
+    "name": "Henderson, David",
+    "finish_time": "01:31:05",
+    "finish_seconds": 5465
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 661,
+    "name": "Francoeur, Jason",
+    "finish_time": "01:31:07",
+    "finish_seconds": 5467
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 663,
+    "name": "Lai, Julian",
+    "finish_time": "01:31:10",
+    "finish_seconds": 5470
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 665,
+    "name": "Materi, Phil",
+    "finish_time": "01:31:13",
+    "finish_seconds": 5473
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 667,
+    "name": "Thamboo, Andrew",
+    "finish_time": "01:31:19",
+    "finish_seconds": 5479
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 669,
+    "name": "Virmani, Vineet",
+    "finish_time": "01:31:19",
+    "finish_seconds": 5479
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 671,
+    "name": "Calquin, Nicolas",
+    "finish_time": "01:31:20",
+    "finish_seconds": 5480
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 673,
+    "name": "Proctor, Kian",
+    "finish_time": "01:31:21",
+    "finish_seconds": 5481
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 675,
+    "name": "Dinning, Jackson",
+    "finish_time": "01:31:24",
+    "finish_seconds": 5484
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 677,
+    "name": "Lo, Bronson",
+    "finish_time": "01:31:26",
+    "finish_seconds": 5486
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 679,
+    "name": "Little, Taylor",
+    "finish_time": "01:31:28",
+    "finish_seconds": 5488
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 681,
+    "name": "Inglis, Clay",
+    "finish_time": "01:31:29",
+    "finish_seconds": 5489
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 683,
+    "name": "Wan, Alex",
+    "finish_time": "01:31:33",
+    "finish_seconds": 5493
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 685,
+    "name": "Ly, Sam",
+    "finish_time": "01:31:40",
+    "finish_seconds": 5500
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 687,
+    "name": "Haworth, Jack",
+    "finish_time": "01:31:43",
+    "finish_seconds": 5503
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 689,
+    "name": "Brown, David",
+    "finish_time": "01:31:46",
+    "finish_seconds": 5506
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 691,
+    "name": "Belanger, Cameron",
+    "finish_time": "01:31:52",
+    "finish_seconds": 5512
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 693,
+    "name": "Wiebe, Christopher",
+    "finish_time": "01:31:53",
+    "finish_seconds": 5513
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 695,
+    "name": "Kalicum, Derrick",
+    "finish_time": "01:31:55",
+    "finish_seconds": 5515
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 697,
+    "name": "Tong, Trevor",
+    "finish_time": "01:32:01",
+    "finish_seconds": 5521
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 699,
+    "name": "Taje, Blake",
+    "finish_time": "01:32:03",
+    "finish_seconds": 5523
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 701,
+    "name": "Jones, Alex",
+    "finish_time": "01:32:05",
+    "finish_seconds": 5525
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 703,
+    "name": "Makepeace, John",
+    "finish_time": "01:32:13",
+    "finish_seconds": 5533
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 705,
+    "name": "Moye, Dylan",
+    "finish_time": "01:32:15",
+    "finish_seconds": 5535
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 707,
+    "name": "Dion, Kyle",
+    "finish_time": "01:32:22",
+    "finish_seconds": 5542
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 709,
+    "name": "Dahlem, Lloyd",
+    "finish_time": "01:32:25",
+    "finish_seconds": 5545
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 711,
+    "name": "Sethi, Saajan",
+    "finish_time": "01:32:28",
+    "finish_seconds": 5548
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 713,
+    "name": "Stevenson, Ryan",
+    "finish_time": "01:32:30",
+    "finish_seconds": 5550
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 715,
+    "name": "Thiessen, Murray",
+    "finish_time": "01:32:37",
+    "finish_seconds": 5557
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 717,
+    "name": "Wilson, Dan",
+    "finish_time": "01:32:38",
+    "finish_seconds": 5558
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 719,
+    "name": "Wells, Adam",
+    "finish_time": "01:32:43",
+    "finish_seconds": 5563
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 721,
+    "name": "Benson, Rich",
+    "finish_time": "01:32:46",
+    "finish_seconds": 5566
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 723,
+    "name": "Ko, Victor",
+    "finish_time": "01:32:58",
+    "finish_seconds": 5578
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 725,
+    "name": "Manick, Nigel",
+    "finish_time": "01:32:59",
+    "finish_seconds": 5579
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 727,
+    "name": "Russell, Dwayne",
+    "finish_time": "01:33:11",
+    "finish_seconds": 5591
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 729,
+    "name": "Dowling, Eric",
+    "finish_time": "01:33:12",
+    "finish_seconds": 5592
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 731,
+    "name": "Petruta, Nathan",
+    "finish_time": "01:33:16",
+    "finish_seconds": 5596
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 733,
+    "name": "Memije, Andrew",
+    "finish_time": "01:33:17",
+    "finish_seconds": 5597
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 735,
+    "name": "Singh, Jaskaran",
+    "finish_time": "01:33:24",
+    "finish_seconds": 5604
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 737,
+    "name": "Wickstrom, Sheldon",
+    "finish_time": "01:33:28",
+    "finish_seconds": 5608
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 739,
+    "name": "Terayama, Daiki",
+    "finish_time": "01:33:32",
+    "finish_seconds": 5612
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 741,
+    "name": "Kalsi, Raj",
+    "finish_time": "01:33:34",
+    "finish_seconds": 5614
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 743,
+    "name": "Ma, Shaoquan",
+    "finish_time": "01:33:40",
+    "finish_seconds": 5620
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 745,
+    "name": "Simpson, Bayley",
+    "finish_time": "01:33:46",
+    "finish_seconds": 5626
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 747,
+    "name": "Baxter, Connor",
+    "finish_time": "01:33:52",
+    "finish_seconds": 5632
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 749,
+    "name": "Martin, Santeri",
+    "finish_time": "01:33:53",
+    "finish_seconds": 5633
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 751,
+    "name": "Dobell, Charlsy",
+    "finish_time": "01:34:04",
+    "finish_seconds": 5644
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 753,
+    "name": "., Chewy",
+    "finish_time": "01:34:04",
+    "finish_seconds": 5644
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 755,
+    "name": "O'Neil, Jack",
+    "finish_time": "01:34:12",
+    "finish_seconds": 5652
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 757,
+    "name": "Scarle, Neil",
+    "finish_time": "01:34:15",
+    "finish_seconds": 5655
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 759,
+    "name": "Tom, Keegan",
+    "finish_time": "01:34:15",
+    "finish_seconds": 5655
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 761,
+    "name": "Ryan, Declan",
+    "finish_time": "01:34:19",
+    "finish_seconds": 5659
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 763,
+    "name": "Ross, Harry",
+    "finish_time": "01:34:19",
+    "finish_seconds": 5659
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 765,
+    "name": "Truitt, James",
+    "finish_time": "01:34:20",
+    "finish_seconds": 5660
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 767,
+    "name": "Towers, Don",
+    "finish_time": "01:34:24",
+    "finish_seconds": 5664
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 769,
+    "name": "Cervo, Dante",
+    "finish_time": "01:34:26",
+    "finish_seconds": 5666
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 771,
+    "name": "Le Seelleur, Tom",
+    "finish_time": "01:34:30",
+    "finish_seconds": 5670
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 773,
+    "name": "Abubakar, Mohamed",
+    "finish_time": "01:34:37",
+    "finish_seconds": 5677
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 775,
+    "name": "Demoe, D\u2019Arcy",
+    "finish_time": "01:34:41",
+    "finish_seconds": 5681
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 777,
+    "name": "Hiom, Phil",
+    "finish_time": "01:34:52",
+    "finish_seconds": 5692
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 779,
+    "name": "Lee, Kevin",
+    "finish_time": "01:34:55",
+    "finish_seconds": 5695
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 781,
+    "name": "Wei, James",
+    "finish_time": "01:35:06",
+    "finish_seconds": 5706
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 783,
+    "name": "Mcgale, Jamie",
+    "finish_time": "01:35:14",
+    "finish_seconds": 5714
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 785,
+    "name": "An, Joseph",
+    "finish_time": "01:35:15",
+    "finish_seconds": 5715
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 787,
+    "name": "Kooner, Dylan",
+    "finish_time": "01:35:20",
+    "finish_seconds": 5720
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 789,
+    "name": "O\u2019Halloran, Thomas",
+    "finish_time": "01:35:26",
+    "finish_seconds": 5726
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 791,
+    "name": "Maclean, Danny",
+    "finish_time": "01:35:28",
+    "finish_seconds": 5728
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 793,
+    "name": "Bark, Dylan",
+    "finish_time": "01:35:35",
+    "finish_seconds": 5735
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 795,
+    "name": "Helm, Christopher",
+    "finish_time": "01:35:37",
+    "finish_seconds": 5737
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 797,
+    "name": "Kalenuik, Jeremy",
+    "finish_time": "01:35:39",
+    "finish_seconds": 5739
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 799,
+    "name": "Cardins, Victor",
+    "finish_time": "01:35:40",
+    "finish_seconds": 5740
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 801,
+    "name": "Silvaggio, Francis",
+    "finish_time": "01:35:43",
+    "finish_seconds": 5743
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 803,
+    "name": "Hicks, Ken",
+    "finish_time": "01:35:46",
+    "finish_seconds": 5746
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 805,
+    "name": "Conville, Chris",
+    "finish_time": "01:35:47",
+    "finish_seconds": 5747
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 807,
+    "name": "Xue, Letian",
+    "finish_time": "01:35:51",
+    "finish_seconds": 5751
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 809,
+    "name": "Mccormick, Luke",
+    "finish_time": "01:36:02",
+    "finish_seconds": 5762
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 811,
+    "name": "Weeks, Ryan",
+    "finish_time": "01:36:03",
+    "finish_seconds": 5763
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 813,
+    "name": "Gilliland, Jim",
+    "finish_time": "01:36:07",
+    "finish_seconds": 5767
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 815,
+    "name": "Elynuik, Campbell",
+    "finish_time": "01:36:10",
+    "finish_seconds": 5770
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 817,
+    "name": "Primolo, Justin",
+    "finish_time": "01:36:13",
+    "finish_seconds": 5773
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 819,
+    "name": "Appleton, Nick",
+    "finish_time": "01:36:15",
+    "finish_seconds": 5775
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 821,
+    "name": "Boon, Sebastian",
+    "finish_time": "01:36:19",
+    "finish_seconds": 5779
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 823,
+    "name": "Ma, Herbert",
+    "finish_time": "01:36:22",
+    "finish_seconds": 5782
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 825,
+    "name": "Divyapalan, Shervin",
+    "finish_time": "01:36:26",
+    "finish_seconds": 5786
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 827,
+    "name": "Yamaguchi, Michael",
+    "finish_time": "01:36:32",
+    "finish_seconds": 5792
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 829,
+    "name": "Yam, Sherlock",
+    "finish_time": "01:36:36",
+    "finish_seconds": 5796
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 831,
+    "name": "Jung, Wooki",
+    "finish_time": "01:36:40",
+    "finish_seconds": 5800
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 833,
+    "name": "Dick, Jordan",
+    "finish_time": "01:36:44",
+    "finish_seconds": 5804
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 835,
+    "name": "Pooni, Manjot",
+    "finish_time": "01:36:47",
+    "finish_seconds": 5807
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 837,
+    "name": "Marr, Brett",
+    "finish_time": "01:36:50",
+    "finish_seconds": 5810
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 839,
+    "name": "Lagan, Martin",
+    "finish_time": "01:36:54",
+    "finish_seconds": 5814
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 841,
+    "name": "Wright, Paul",
+    "finish_time": "01:36:57",
+    "finish_seconds": 5817
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 843,
+    "name": "Mahan, Gabriel",
+    "finish_time": "01:37:04",
+    "finish_seconds": 5824
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 845,
+    "name": "Liu, Jack",
+    "finish_time": "01:37:08",
+    "finish_seconds": 5828
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 847,
+    "name": "Iegorov, Vlad",
+    "finish_time": "01:37:11",
+    "finish_seconds": 5831
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 849,
+    "name": "Gee, Samuel",
+    "finish_time": "01:37:13",
+    "finish_seconds": 5833
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 851,
+    "name": "San Antonio, John Sidney",
+    "finish_time": "01:37:18",
+    "finish_seconds": 5838
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 853,
+    "name": "Tan, Joel",
+    "finish_time": "01:37:22",
+    "finish_seconds": 5842
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 855,
+    "name": "Huel, Fiachra",
+    "finish_time": "01:37:31",
+    "finish_seconds": 5851
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 857,
+    "name": "Mountali-Johnstone, Denzel",
+    "finish_time": "01:37:33",
+    "finish_seconds": 5853
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 859,
+    "name": "Chou, Andy",
+    "finish_time": "01:37:40",
+    "finish_seconds": 5860
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 861,
+    "name": "Rowley, Dave",
+    "finish_time": "01:37:41",
+    "finish_seconds": 5861
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 863,
+    "name": "Pak, Anthony",
+    "finish_time": "01:37:42",
+    "finish_seconds": 5862
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 865,
+    "name": "Ang, Sean",
+    "finish_time": "01:37:50",
+    "finish_seconds": 5870
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 867,
+    "name": "Lund, Jordan",
+    "finish_time": "01:37:52",
+    "finish_seconds": 5872
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 869,
+    "name": "Essandoh, Ato",
+    "finish_time": "01:37:55",
+    "finish_seconds": 5875
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 871,
+    "name": "Mundi, Baltej",
+    "finish_time": "01:38:04",
+    "finish_seconds": 5884
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 873,
+    "name": "Saxon, Dj",
+    "finish_time": "01:38:09",
+    "finish_seconds": 5889
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 875,
+    "name": "Singh, Harashdeep",
+    "finish_time": "01:38:10",
+    "finish_seconds": 5890
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 877,
+    "name": "Ogden, Judd",
+    "finish_time": "01:38:14",
+    "finish_seconds": 5894
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 879,
+    "name": "Ternoway, Joshua",
+    "finish_time": "01:38:22",
+    "finish_seconds": 5902
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 881,
+    "name": "Derpak, Jeff",
+    "finish_time": "01:38:28",
+    "finish_seconds": 5908
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 883,
+    "name": "Drobnicki, Christopher",
+    "finish_time": "01:38:35",
+    "finish_seconds": 5915
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 885,
+    "name": "Balasubramanian, Darun",
+    "finish_time": "01:38:38",
+    "finish_seconds": 5918
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 887,
+    "name": "Phillips, Thomas",
+    "finish_time": "01:38:45",
+    "finish_seconds": 5925
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 889,
+    "name": "Wong, Aaron",
+    "finish_time": "01:38:47",
+    "finish_seconds": 5927
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 891,
+    "name": "Kilpatrick, Alexander",
+    "finish_time": "01:38:50",
+    "finish_seconds": 5930
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 893,
+    "name": "Lowe, Corbin",
+    "finish_time": "01:38:56",
+    "finish_seconds": 5936
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 895,
+    "name": "Singh, Chahal",
+    "finish_time": "01:38:58",
+    "finish_seconds": 5938
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 897,
+    "name": "Duttton, Robin",
+    "finish_time": "01:39:00",
+    "finish_seconds": 5940
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 899,
+    "name": "Ngom, Abib",
+    "finish_time": "01:39:02",
+    "finish_seconds": 5942
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 901,
+    "name": "Magee, Brenden",
+    "finish_time": "01:39:12",
+    "finish_seconds": 5952
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 903,
+    "name": "Brown, Stephen",
+    "finish_time": "01:39:13",
+    "finish_seconds": 5953
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 905,
+    "name": "Wilson, Patrick",
+    "finish_time": "01:39:15",
+    "finish_seconds": 5955
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 907,
+    "name": "Townsend, Dan",
+    "finish_time": "01:39:19",
+    "finish_seconds": 5959
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 909,
+    "name": "May, Patch",
+    "finish_time": "01:39:24",
+    "finish_seconds": 5964
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 911,
+    "name": "Hernandez, John",
+    "finish_time": "01:39:32",
+    "finish_seconds": 5972
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 913,
+    "name": "Viriri, Tinashe",
+    "finish_time": "01:39:33",
+    "finish_seconds": 5973
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 915,
+    "name": "Lingley, Tyrone",
+    "finish_time": "01:39:34",
+    "finish_seconds": 5974
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 917,
+    "name": "Yoon, Tae",
+    "finish_time": "01:39:35",
+    "finish_seconds": 5975
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 919,
+    "name": "Bai, Junjie",
+    "finish_time": "01:39:39",
+    "finish_seconds": 5979
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 921,
+    "name": "Dimarco, Lou",
+    "finish_time": "01:39:44",
+    "finish_seconds": 5984
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 923,
+    "name": "Kalaichelvam, Lavan",
+    "finish_time": "01:39:54",
+    "finish_seconds": 5994
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 925,
+    "name": "Singh, Harshpreet",
+    "finish_time": "01:40:00",
+    "finish_seconds": 6000
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 927,
+    "name": "Manning, Raymond",
+    "finish_time": "01:40:07",
+    "finish_seconds": 6007
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 929,
+    "name": "Esmail, Reh",
+    "finish_time": "01:40:11",
+    "finish_seconds": 6011
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 931,
+    "name": "Chin, Edwin",
+    "finish_time": "01:40:20",
+    "finish_seconds": 6020
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 933,
+    "name": "Lisi, Daniele",
+    "finish_time": "01:40:23",
+    "finish_seconds": 6023
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 935,
+    "name": "Furukawa, Ken",
+    "finish_time": "01:40:27",
+    "finish_seconds": 6027
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 937,
+    "name": "Shin, Chuck",
+    "finish_time": "01:40:29",
+    "finish_seconds": 6029
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 939,
+    "name": "O\u2019Flaherty, Aaron",
+    "finish_time": "01:40:37",
+    "finish_seconds": 6037
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 941,
+    "name": "Lake, Jeremy",
+    "finish_time": "01:40:38",
+    "finish_seconds": 6038
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 943,
+    "name": "Yu, David",
+    "finish_time": "01:40:43",
+    "finish_seconds": 6043
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 945,
+    "name": "Chance, Garrett",
+    "finish_time": "01:40:45",
+    "finish_seconds": 6045
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 947,
+    "name": "Cho, Jinhyuk",
+    "finish_time": "01:40:49",
+    "finish_seconds": 6049
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 949,
+    "name": "Calder, Steve",
+    "finish_time": "01:40:50",
+    "finish_seconds": 6050
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 951,
+    "name": "Zhang, Ran",
+    "finish_time": "01:40:55",
+    "finish_seconds": 6055
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 953,
+    "name": "Robinson, Dave",
+    "finish_time": "01:41:05",
+    "finish_seconds": 6065
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 955,
+    "name": "Salas, Ben",
+    "finish_time": "01:41:08",
+    "finish_seconds": 6068
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 957,
+    "name": "Wardle, Max",
+    "finish_time": "01:41:11",
+    "finish_seconds": 6071
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 959,
+    "name": "Zhang, Yuqin",
+    "finish_time": "01:41:16",
+    "finish_seconds": 6076
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 961,
+    "name": "Aljohar, Waleed",
+    "finish_time": "01:41:21",
+    "finish_seconds": 6081
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 963,
+    "name": "Glackin, Padraig",
+    "finish_time": "01:41:31",
+    "finish_seconds": 6091
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 965,
+    "name": "Mang, Daniel",
+    "finish_time": "01:41:32",
+    "finish_seconds": 6092
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 967,
+    "name": "Tuason, Matthew",
+    "finish_time": "01:41:39",
+    "finish_seconds": 6099
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 969,
+    "name": "White, Zane",
+    "finish_time": "01:41:43",
+    "finish_seconds": 6103
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 971,
+    "name": "Gloria, Earl",
+    "finish_time": "01:41:50",
+    "finish_seconds": 6110
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 973,
+    "name": "Sekhon, Jas",
+    "finish_time": "01:41:54",
+    "finish_seconds": 6114
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 975,
+    "name": "Ronnie, Spencer",
+    "finish_time": "01:41:56",
+    "finish_seconds": 6116
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 977,
+    "name": "Yadron, Anthony",
+    "finish_time": "01:41:57",
+    "finish_seconds": 6117
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 979,
+    "name": "Bialogrecki, Juan (Miguel)",
+    "finish_time": "01:42:04",
+    "finish_seconds": 6124
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 981,
+    "name": "Brooks, David",
+    "finish_time": "01:42:08",
+    "finish_seconds": 6128
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 983,
+    "name": "Kullab, Samer",
+    "finish_time": "01:42:13",
+    "finish_seconds": 6133
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 985,
+    "name": "Lee, Jaemin",
+    "finish_time": "01:42:24",
+    "finish_seconds": 6144
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 987,
+    "name": "Spiers, Jim",
+    "finish_time": "01:42:30",
+    "finish_seconds": 6150
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 989,
+    "name": "Rosete, Justin",
+    "finish_time": "01:42:40",
+    "finish_seconds": 6160
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 991,
+    "name": "Ajani, Amyn",
+    "finish_time": "01:42:46",
+    "finish_seconds": 6166
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 993,
+    "name": "Lee, Hui Hon",
+    "finish_time": "01:42:50",
+    "finish_seconds": 6170
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 995,
+    "name": "Villasenor, Eduardo",
+    "finish_time": "01:42:51",
+    "finish_seconds": 6171
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 997,
+    "name": "Treacy, Paraic",
+    "finish_time": "01:42:56",
+    "finish_seconds": 6176
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 999,
+    "name": "Saby, Colin",
+    "finish_time": "01:42:58",
+    "finish_seconds": 6178
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1001,
+    "name": "Singh, Jaskamal",
+    "finish_time": "01:43:01",
+    "finish_seconds": 6181
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1003,
+    "name": "M, Jacky",
+    "finish_time": "01:43:02",
+    "finish_seconds": 6182
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1005,
+    "name": "Stacy, Shane",
+    "finish_time": "01:43:03",
+    "finish_seconds": 6183
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1007,
+    "name": "Weitman, Ian",
+    "finish_time": "01:43:21",
+    "finish_seconds": 6201
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1009,
+    "name": "Reynoso, T.J.",
+    "finish_time": "01:43:31",
+    "finish_seconds": 6211
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1011,
+    "name": "Teh, Trevor",
+    "finish_time": "01:43:47",
+    "finish_seconds": 6227
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1013,
+    "name": "Donnelly, Bryce",
+    "finish_time": "01:43:53",
+    "finish_seconds": 6233
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1015,
+    "name": "Webster, Randy",
+    "finish_time": "01:44:04",
+    "finish_seconds": 6244
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1017,
+    "name": "Bagga, Ujjwal",
+    "finish_time": "01:44:09",
+    "finish_seconds": 6249
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1019,
+    "name": "Peer, Phelix",
+    "finish_time": "01:44:11",
+    "finish_seconds": 6251
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1021,
+    "name": "Bal, Jag",
+    "finish_time": "01:44:15",
+    "finish_seconds": 6255
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1023,
+    "name": "Castagner, Cal",
+    "finish_time": "01:44:19",
+    "finish_seconds": 6259
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1025,
+    "name": "Sihota, Karn",
+    "finish_time": "01:44:25",
+    "finish_seconds": 6265
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1027,
+    "name": "Bolland, Scott",
+    "finish_time": "01:44:41",
+    "finish_seconds": 6281
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1029,
+    "name": "Han, Bobby",
+    "finish_time": "01:44:55",
+    "finish_seconds": 6295
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1031,
+    "name": "Stroomer, Justen",
+    "finish_time": "01:45:04",
+    "finish_seconds": 6304
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1033,
+    "name": "Douangchanh, Mark",
+    "finish_time": "01:45:18",
+    "finish_seconds": 6318
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1035,
+    "name": "Cheung, Kit",
+    "finish_time": "01:45:34",
+    "finish_seconds": 6334
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1037,
+    "name": "Kim, Aaron",
+    "finish_time": "01:45:43",
+    "finish_seconds": 6343
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1039,
+    "name": "Kerr, Darren",
+    "finish_time": "01:45:47",
+    "finish_seconds": 6347
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1041,
+    "name": "Nelson, Ken",
+    "finish_time": "01:45:58",
+    "finish_seconds": 6358
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1043,
+    "name": "Sabogal, Juanes",
+    "finish_time": "01:46:00",
+    "finish_seconds": 6360
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1045,
+    "name": "Ghinger, Paramjit",
+    "finish_time": "01:46:10",
+    "finish_seconds": 6370
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1047,
+    "name": "Duong, Dinh",
+    "finish_time": "01:46:13",
+    "finish_seconds": 6373
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1049,
+    "name": "Almadin, Archie",
+    "finish_time": "01:46:30",
+    "finish_seconds": 6390
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1051,
+    "name": "Huynh, Vincent",
+    "finish_time": "01:46:45",
+    "finish_seconds": 6405
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1053,
+    "name": "Raza, Kashif",
+    "finish_time": "01:46:48",
+    "finish_seconds": 6408
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1055,
+    "name": "Lang, Adam",
+    "finish_time": "01:46:56",
+    "finish_seconds": 6416
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1057,
+    "name": "Duck, Geoff",
+    "finish_time": "01:47:03",
+    "finish_seconds": 6423
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1059,
+    "name": "Gould, Kevin",
+    "finish_time": "01:47:04",
+    "finish_seconds": 6424
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1061,
+    "name": "Gopakumar, Gokul",
+    "finish_time": "01:47:07",
+    "finish_seconds": 6427
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1063,
+    "name": "Wahyudi, Calvin",
+    "finish_time": "01:47:10",
+    "finish_seconds": 6430
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1065,
+    "name": "Provido, Restie",
+    "finish_time": "01:47:13",
+    "finish_seconds": 6433
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1067,
+    "name": "Ardavin, Brian",
+    "finish_time": "01:47:16",
+    "finish_seconds": 6436
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1069,
+    "name": "Forhan, Benjamin",
+    "finish_time": "01:47:17",
+    "finish_seconds": 6437
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1071,
+    "name": "Laurenson, Andrew",
+    "finish_time": "01:47:27",
+    "finish_seconds": 6447
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1073,
+    "name": "Lang, Zachary",
+    "finish_time": "01:47:33",
+    "finish_seconds": 6453
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1075,
+    "name": "Yeganeh, Omid",
+    "finish_time": "01:47:46",
+    "finish_seconds": 6466
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1077,
+    "name": "Smyth, Jessie",
+    "finish_time": "01:47:51",
+    "finish_seconds": 6471
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1079,
+    "name": "Rempel, Taylor",
+    "finish_time": "01:47:59",
+    "finish_seconds": 6479
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1081,
+    "name": "Domingo, Francis",
+    "finish_time": "01:48:01",
+    "finish_seconds": 6481
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1083,
+    "name": "Choudhary, Chirag",
+    "finish_time": "01:48:07",
+    "finish_seconds": 6487
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1085,
+    "name": "Bonifacio, Jun",
+    "finish_time": "01:48:23",
+    "finish_seconds": 6503
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1087,
+    "name": "Valosek, Tony",
+    "finish_time": "01:48:41",
+    "finish_seconds": 6521
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1089,
+    "name": "Madill, Mitch",
+    "finish_time": "01:48:51",
+    "finish_seconds": 6531
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1091,
+    "name": "Cao, Kevin",
+    "finish_time": "01:48:57",
+    "finish_seconds": 6537
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1093,
+    "name": "Nijjar, Robby",
+    "finish_time": "01:49:01",
+    "finish_seconds": 6541
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1095,
+    "name": "Welter, Sam",
+    "finish_time": "01:49:17",
+    "finish_seconds": 6557
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1097,
+    "name": "Ingram, Jelani",
+    "finish_time": "01:49:32",
+    "finish_seconds": 6572
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1099,
+    "name": "Sidhu, Nate",
+    "finish_time": "01:49:44",
+    "finish_seconds": 6584
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1101,
+    "name": "Cherwenka, Andrew",
+    "finish_time": "01:49:50",
+    "finish_seconds": 6590
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1103,
+    "name": "Rochon, Leo",
+    "finish_time": "01:49:52",
+    "finish_seconds": 6592
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1105,
+    "name": "Simser, Jeremy",
+    "finish_time": "01:49:59",
+    "finish_seconds": 6599
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1107,
+    "name": "Nijjer, Shaquile",
+    "finish_time": "01:50:02",
+    "finish_seconds": 6602
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1109,
+    "name": "Palmieri, Marco",
+    "finish_time": "01:50:04",
+    "finish_seconds": 6604
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1111,
+    "name": "Santos, Jerome",
+    "finish_time": "01:50:05",
+    "finish_seconds": 6605
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1113,
+    "name": "Win, Jazter (Sakda)",
+    "finish_time": "01:50:08",
+    "finish_seconds": 6608
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1115,
+    "name": "Laprade, Cory",
+    "finish_time": "01:50:16",
+    "finish_seconds": 6616
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1117,
+    "name": "Vardy, Bayne",
+    "finish_time": "01:50:37",
+    "finish_seconds": 6637
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1119,
+    "name": "Ling, Kelvin",
+    "finish_time": "01:50:38",
+    "finish_seconds": 6638
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1121,
+    "name": "Narasimhaiah, Gopal",
+    "finish_time": "01:50:45",
+    "finish_seconds": 6645
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1123,
+    "name": "Beaumont, Ryan",
+    "finish_time": "01:50:50",
+    "finish_seconds": 6650
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1125,
+    "name": "Purslow, Matt",
+    "finish_time": "01:50:58",
+    "finish_seconds": 6658
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1127,
+    "name": "Gay, Dwight",
+    "finish_time": "01:51:11",
+    "finish_seconds": 6671
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1129,
+    "name": "Rucchin, Loredo",
+    "finish_time": "01:51:24",
+    "finish_seconds": 6684
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1131,
+    "name": "Krishnaswamy, Dhruv",
+    "finish_time": "01:51:28",
+    "finish_seconds": 6688
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1133,
+    "name": "Rahmatullah, Ali",
+    "finish_time": "01:51:32",
+    "finish_seconds": 6692
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1135,
+    "name": "Ansari, Mahmoud",
+    "finish_time": "01:51:46",
+    "finish_seconds": 6706
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1137,
+    "name": "Hy, Simon",
+    "finish_time": "01:51:55",
+    "finish_seconds": 6715
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1139,
+    "name": "Bean, Andy",
+    "finish_time": "01:52:00",
+    "finish_seconds": 6720
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "M",
+    "rank": 1141,
+    "name": "Vo, Paul",
+    "finish_time": "01:52:05",
+    "finish_seconds": 6725
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 1,
+    "name": "Rugloski, Kris",
+    "finish_time": "00:59:32",
+    "finish_seconds": 3572
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 3,
+    "name": "Wiebe, Lex",
+    "finish_time": "01:04:33",
+    "finish_seconds": 3873
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 5,
+    "name": "Tuininga, Tia",
+    "finish_time": "01:05:27",
+    "finish_seconds": 3927
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 7,
+    "name": "England, Michaela",
+    "finish_time": "01:05:40",
+    "finish_seconds": 3940
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 9,
+    "name": "Raftery, Wendy",
+    "finish_time": "01:08:07",
+    "finish_seconds": 4087
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 11,
+    "name": "Collins, Sam",
+    "finish_time": "01:09:28",
+    "finish_seconds": 4168
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 13,
+    "name": "Dionne, Mary",
+    "finish_time": "01:09:39",
+    "finish_seconds": 4179
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 15,
+    "name": "Drever, Christy",
+    "finish_time": "01:10:19",
+    "finish_seconds": 4219
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 17,
+    "name": "Augaitis, Lina",
+    "finish_time": "01:10:55",
+    "finish_seconds": 4255
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 19,
+    "name": "Groenewoud, Rosalind",
+    "finish_time": "01:11:15",
+    "finish_seconds": 4275
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 21,
+    "name": "Bryce, Jessica",
+    "finish_time": "01:11:47",
+    "finish_seconds": 4307
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 23,
+    "name": "Lyster, Caroline",
+    "finish_time": "01:12:07",
+    "finish_seconds": 4327
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 25,
+    "name": "Mckay, Shara",
+    "finish_time": "01:12:17",
+    "finish_seconds": 4337
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 27,
+    "name": "Friesen, Lauren",
+    "finish_time": "01:12:24",
+    "finish_seconds": 4344
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 29,
+    "name": "Schneiderova, Melissa",
+    "finish_time": "01:13:28",
+    "finish_seconds": 4408
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 31,
+    "name": "Niven, Rachel",
+    "finish_time": "01:13:42",
+    "finish_seconds": 4422
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 33,
+    "name": "Pivec, Malia",
+    "finish_time": "01:13:57",
+    "finish_seconds": 4437
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 35,
+    "name": "Taylor, Kathy",
+    "finish_time": "01:14:00",
+    "finish_seconds": 4440
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 37,
+    "name": "Krupp, Steph",
+    "finish_time": "01:14:31",
+    "finish_seconds": 4471
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 39,
+    "name": "Browning, Allie",
+    "finish_time": "01:14:37",
+    "finish_seconds": 4477
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 41,
+    "name": "Mitton, Jessica",
+    "finish_time": "01:14:42",
+    "finish_seconds": 4482
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 43,
+    "name": "Poulin Houle, Melissa",
+    "finish_time": "01:14:49",
+    "finish_seconds": 4489
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 45,
+    "name": "Clifton, Amanda",
+    "finish_time": "01:15:12",
+    "finish_seconds": 4512
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 47,
+    "name": "Di Iorio, Christina",
+    "finish_time": "01:15:12",
+    "finish_seconds": 4512
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 49,
+    "name": "Tarasewich, Santana",
+    "finish_time": "01:15:31",
+    "finish_seconds": 4531
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 51,
+    "name": "Tippetts, Julie",
+    "finish_time": "01:15:36",
+    "finish_seconds": 4536
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 53,
+    "name": "Johnston, Shanlee",
+    "finish_time": "01:15:51",
+    "finish_seconds": 4551
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 55,
+    "name": "Bell, Alexia",
+    "finish_time": "01:15:53",
+    "finish_seconds": 4553
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 57,
+    "name": "Cunningham, Lauren",
+    "finish_time": "01:16:15",
+    "finish_seconds": 4575
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 59,
+    "name": "Banks Brown, Yandra",
+    "finish_time": "01:16:45",
+    "finish_seconds": 4605
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 61,
+    "name": "Aiello, Nell",
+    "finish_time": "01:16:50",
+    "finish_seconds": 4610
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 63,
+    "name": "Schayes, Melissa",
+    "finish_time": "01:17:06",
+    "finish_seconds": 4626
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 65,
+    "name": "Mccrea, Jordyn",
+    "finish_time": "01:17:12",
+    "finish_seconds": 4632
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 67,
+    "name": "Burton, Shannon",
+    "finish_time": "01:17:17",
+    "finish_seconds": 4637
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 69,
+    "name": "Hsieh, Annie",
+    "finish_time": "01:17:39",
+    "finish_seconds": 4659
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 71,
+    "name": "Davies, Rona",
+    "finish_time": "01:17:43",
+    "finish_seconds": 4663
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 73,
+    "name": "Strle, Joanna",
+    "finish_time": "01:17:47",
+    "finish_seconds": 4667
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 75,
+    "name": "Kristian, Jodie",
+    "finish_time": "01:17:59",
+    "finish_seconds": 4679
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 77,
+    "name": "Bull, Sheena",
+    "finish_time": "01:18:11",
+    "finish_seconds": 4691
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 79,
+    "name": "Salangina, Alena",
+    "finish_time": "01:18:15",
+    "finish_seconds": 4695
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 81,
+    "name": "Wallace, Sophia",
+    "finish_time": "01:18:18",
+    "finish_seconds": 4698
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 83,
+    "name": "Khatchadourian, Katia",
+    "finish_time": "01:18:37",
+    "finish_seconds": 4717
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 85,
+    "name": "Machneva, Anastasiia",
+    "finish_time": "01:18:38",
+    "finish_seconds": 4718
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 87,
+    "name": "Koene, Elisa",
+    "finish_time": "01:18:52",
+    "finish_seconds": 4732
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 89,
+    "name": "Baker, Nicole",
+    "finish_time": "01:18:59",
+    "finish_seconds": 4739
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 91,
+    "name": "Tam, Ashley",
+    "finish_time": "01:19:05",
+    "finish_seconds": 4745
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 93,
+    "name": "Chong, Victoria",
+    "finish_time": "01:19:14",
+    "finish_seconds": 4754
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 95,
+    "name": "Maksymyk, Kaley",
+    "finish_time": "01:19:17",
+    "finish_seconds": 4757
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 97,
+    "name": "Pughe, Kayla",
+    "finish_time": "01:19:24",
+    "finish_seconds": 4764
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 99,
+    "name": "Lau, Octavia",
+    "finish_time": "01:19:33",
+    "finish_seconds": 4773
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 101,
+    "name": "Gardiner, Chloe",
+    "finish_time": "01:19:47",
+    "finish_seconds": 4787
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 103,
+    "name": "Gentile, Lily",
+    "finish_time": "01:20:05",
+    "finish_seconds": 4805
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 105,
+    "name": "Dandenault, Paisley",
+    "finish_time": "01:20:12",
+    "finish_seconds": 4812
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 107,
+    "name": "Gill, Anjena",
+    "finish_time": "01:20:25",
+    "finish_seconds": 4825
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 109,
+    "name": "Dyck, Ellen",
+    "finish_time": "01:20:41",
+    "finish_seconds": 4841
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 111,
+    "name": "Craig, Marion",
+    "finish_time": "01:20:53",
+    "finish_seconds": 4853
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 113,
+    "name": "Korpach, Sarah",
+    "finish_time": "01:20:55",
+    "finish_seconds": 4855
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 115,
+    "name": "Bray, Heather",
+    "finish_time": "01:20:58",
+    "finish_seconds": 4858
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 117,
+    "name": "Schwartz, Jinhee",
+    "finish_time": "01:21:16",
+    "finish_seconds": 4876
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 119,
+    "name": "Blyth, Heather",
+    "finish_time": "01:21:33",
+    "finish_seconds": 4893
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 121,
+    "name": "Duarte, Edith",
+    "finish_time": "01:21:35",
+    "finish_seconds": 4895
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 123,
+    "name": "Hills, Sara",
+    "finish_time": "01:21:42",
+    "finish_seconds": 4902
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 125,
+    "name": "Clark, Holly",
+    "finish_time": "01:21:52",
+    "finish_seconds": 4912
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 127,
+    "name": "Gagnon, Pier-Anne",
+    "finish_time": "01:21:58",
+    "finish_seconds": 4918
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 129,
+    "name": "Moffatt, Vanessa",
+    "finish_time": "01:22:09",
+    "finish_seconds": 4929
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 131,
+    "name": "Batty, Kathryn",
+    "finish_time": "01:22:16",
+    "finish_seconds": 4936
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 133,
+    "name": "Bana, Stephanie",
+    "finish_time": "01:22:17",
+    "finish_seconds": 4937
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 135,
+    "name": "Culler-Juarez, Monica",
+    "finish_time": "01:22:21",
+    "finish_seconds": 4941
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 137,
+    "name": "Holland, Sunshine",
+    "finish_time": "01:22:24",
+    "finish_seconds": 4944
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 139,
+    "name": "Nwakuche, Cynthia",
+    "finish_time": "01:22:32",
+    "finish_seconds": 4952
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 141,
+    "name": "Leung, Lok Sze",
+    "finish_time": "01:22:38",
+    "finish_seconds": 4958
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 143,
+    "name": "Amyotte, Natalie",
+    "finish_time": "01:22:47",
+    "finish_seconds": 4967
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 145,
+    "name": "Hartman, Seely",
+    "finish_time": "01:22:47",
+    "finish_seconds": 4967
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 147,
+    "name": "Tebrinke, Kelly",
+    "finish_time": "01:22:57",
+    "finish_seconds": 4977
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 149,
+    "name": "East, Carmen",
+    "finish_time": "01:23:07",
+    "finish_seconds": 4987
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 151,
+    "name": "Abdou, Lyndsay",
+    "finish_time": "01:23:14",
+    "finish_seconds": 4994
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 153,
+    "name": "Tyacke, Jen",
+    "finish_time": "01:23:19",
+    "finish_seconds": 4999
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 155,
+    "name": "Gullason, Alex",
+    "finish_time": "01:23:24",
+    "finish_seconds": 5004
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 157,
+    "name": "Worthy, Tanis",
+    "finish_time": "01:23:39",
+    "finish_seconds": 5019
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 159,
+    "name": "Fehr, Sydney",
+    "finish_time": "01:23:50",
+    "finish_seconds": 5030
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 161,
+    "name": "Trotter, Nicki",
+    "finish_time": "01:23:56",
+    "finish_seconds": 5036
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 163,
+    "name": "Throckmorton, Hannah",
+    "finish_time": "01:24:06",
+    "finish_seconds": 5046
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 165,
+    "name": "Christie, Hope",
+    "finish_time": "01:24:08",
+    "finish_seconds": 5048
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 167,
+    "name": "Murdoch, Charlotte",
+    "finish_time": "01:24:23",
+    "finish_seconds": 5063
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 169,
+    "name": "Saunders, Victoria",
+    "finish_time": "01:24:27",
+    "finish_seconds": 5067
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 171,
+    "name": "Chapman, Jacqueline",
+    "finish_time": "01:24:36",
+    "finish_seconds": 5076
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 173,
+    "name": "Lo, Melinda",
+    "finish_time": "01:24:41",
+    "finish_seconds": 5081
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 175,
+    "name": "Campbell, Ashley",
+    "finish_time": "01:24:47",
+    "finish_seconds": 5087
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 177,
+    "name": "Wilson, Amber",
+    "finish_time": "01:25:00",
+    "finish_seconds": 5100
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 179,
+    "name": "Linzmeyer, Nicole",
+    "finish_time": "01:25:02",
+    "finish_seconds": 5102
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 181,
+    "name": "Heneghan, Michelle",
+    "finish_time": "01:25:04",
+    "finish_seconds": 5104
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 183,
+    "name": "Wegner, Sherry",
+    "finish_time": "01:25:11",
+    "finish_seconds": 5111
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 185,
+    "name": "O\u2019Loughlin, Lindsay",
+    "finish_time": "01:25:12",
+    "finish_seconds": 5112
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 187,
+    "name": "Chang, Sarah",
+    "finish_time": "01:25:19",
+    "finish_seconds": 5119
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 189,
+    "name": "Myers, Sasha",
+    "finish_time": "01:25:26",
+    "finish_seconds": 5126
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 191,
+    "name": "Kim, Hanna",
+    "finish_time": "01:25:37",
+    "finish_seconds": 5137
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 193,
+    "name": "Gilbertson, Asheton",
+    "finish_time": "01:25:38",
+    "finish_seconds": 5138
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 195,
+    "name": "Battersby, Beth",
+    "finish_time": "01:25:44",
+    "finish_seconds": 5144
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 197,
+    "name": "Loewen, Melanie",
+    "finish_time": "01:25:55",
+    "finish_seconds": 5155
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 199,
+    "name": "Cottin, Louise",
+    "finish_time": "01:26:04",
+    "finish_seconds": 5164
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 201,
+    "name": "Holmes, Natasha",
+    "finish_time": "01:26:13",
+    "finish_seconds": 5173
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 203,
+    "name": "Merry, Lyndsey",
+    "finish_time": "01:26:20",
+    "finish_seconds": 5180
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 205,
+    "name": "Neary, Nadeen",
+    "finish_time": "01:26:21",
+    "finish_seconds": 5181
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 207,
+    "name": "Dewangan, Jacqueline",
+    "finish_time": "01:26:40",
+    "finish_seconds": 5200
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 209,
+    "name": "Matson, Angela",
+    "finish_time": "01:26:54",
+    "finish_seconds": 5214
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 211,
+    "name": "Sweeney, Kaila",
+    "finish_time": "01:27:07",
+    "finish_seconds": 5227
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 213,
+    "name": "Dieleman, Trisha",
+    "finish_time": "01:27:21",
+    "finish_seconds": 5241
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 215,
+    "name": "Marusyk, Tess",
+    "finish_time": "01:27:27",
+    "finish_seconds": 5247
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 217,
+    "name": "Bortolami, Camilla",
+    "finish_time": "01:27:28",
+    "finish_seconds": 5248
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 219,
+    "name": "Guilbault, Julina",
+    "finish_time": "01:27:30",
+    "finish_seconds": 5250
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 221,
+    "name": "Gray Hubbard, Alannah",
+    "finish_time": "01:27:43",
+    "finish_seconds": 5263
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 223,
+    "name": "Steele, Jennifer",
+    "finish_time": "01:27:47",
+    "finish_seconds": 5267
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 225,
+    "name": "Evans, Keira",
+    "finish_time": "01:27:49",
+    "finish_seconds": 5269
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 227,
+    "name": "Guiry, Emily",
+    "finish_time": "01:27:55",
+    "finish_seconds": 5275
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 229,
+    "name": "Furutani, Haley",
+    "finish_time": "01:28:06",
+    "finish_seconds": 5286
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 231,
+    "name": "Fu, Jiewen",
+    "finish_time": "01:28:12",
+    "finish_seconds": 5292
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 233,
+    "name": "Jimenez Gonzalez, Mariana",
+    "finish_time": "01:28:18",
+    "finish_seconds": 5298
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 235,
+    "name": "Cheung, Ka Yee",
+    "finish_time": "01:28:23",
+    "finish_seconds": 5303
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 237,
+    "name": "Chang, Cheryl",
+    "finish_time": "01:28:28",
+    "finish_seconds": 5308
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 239,
+    "name": "Huang, Yashi",
+    "finish_time": "01:28:30",
+    "finish_seconds": 5310
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 241,
+    "name": "Sadeghinasab, Shirin",
+    "finish_time": "01:28:34",
+    "finish_seconds": 5314
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 243,
+    "name": "Abraham, Kate",
+    "finish_time": "01:28:38",
+    "finish_seconds": 5318
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 245,
+    "name": "Thom, Sarah",
+    "finish_time": "01:28:47",
+    "finish_seconds": 5327
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 247,
+    "name": "Carlos, Lauren",
+    "finish_time": "01:28:58",
+    "finish_seconds": 5338
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 249,
+    "name": "Park, Hyo-Seon",
+    "finish_time": "01:29:02",
+    "finish_seconds": 5342
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 251,
+    "name": "Lewans, Nina",
+    "finish_time": "01:29:05",
+    "finish_seconds": 5345
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 253,
+    "name": "Shaw, Alison",
+    "finish_time": "01:29:18",
+    "finish_seconds": 5358
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 255,
+    "name": "Boroumand, Nasim",
+    "finish_time": "01:29:22",
+    "finish_seconds": 5362
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 257,
+    "name": "Arcand, Michaela",
+    "finish_time": "01:29:27",
+    "finish_seconds": 5367
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 259,
+    "name": "Pena, Monica",
+    "finish_time": "01:29:35",
+    "finish_seconds": 5375
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 261,
+    "name": "Baxter, Jordan",
+    "finish_time": "01:29:47",
+    "finish_seconds": 5387
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 263,
+    "name": "Christie, Heather",
+    "finish_time": "01:29:52",
+    "finish_seconds": 5392
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 265,
+    "name": "Knoot, Hannah",
+    "finish_time": "01:30:00",
+    "finish_seconds": 5400
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 267,
+    "name": "Dean, Jillian",
+    "finish_time": "01:30:13",
+    "finish_seconds": 5413
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 269,
+    "name": "Gemar, Ali",
+    "finish_time": "01:30:16",
+    "finish_seconds": 5416
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 271,
+    "name": "Meade, Brianna",
+    "finish_time": "01:30:26",
+    "finish_seconds": 5426
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 273,
+    "name": "Fraser, Katherine",
+    "finish_time": "01:30:31",
+    "finish_seconds": 5431
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 275,
+    "name": "Wincott, Abby",
+    "finish_time": "01:30:33",
+    "finish_seconds": 5433
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 277,
+    "name": "Yan, Nova",
+    "finish_time": "01:30:41",
+    "finish_seconds": 5441
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 279,
+    "name": "Klein, Tricia",
+    "finish_time": "01:30:50",
+    "finish_seconds": 5450
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 281,
+    "name": "Oliveira, Lindsay",
+    "finish_time": "01:30:54",
+    "finish_seconds": 5454
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 283,
+    "name": "Belmonte, Veronica",
+    "finish_time": "01:30:57",
+    "finish_seconds": 5457
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 285,
+    "name": "Pinkney, Kiarrah",
+    "finish_time": "01:31:00",
+    "finish_seconds": 5460
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 287,
+    "name": "Trotman, Natalia",
+    "finish_time": "01:31:14",
+    "finish_seconds": 5474
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 289,
+    "name": "Klatt, Stephanie",
+    "finish_time": "01:31:20",
+    "finish_seconds": 5480
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 291,
+    "name": "Moore, Daviana",
+    "finish_time": "01:31:23",
+    "finish_seconds": 5483
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 293,
+    "name": "Hsu, Iris",
+    "finish_time": "01:31:27",
+    "finish_seconds": 5487
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 295,
+    "name": "Skinner, Jessica",
+    "finish_time": "01:31:34",
+    "finish_seconds": 5494
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 297,
+    "name": "Mofakham, Colette",
+    "finish_time": "01:31:37",
+    "finish_seconds": 5497
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 299,
+    "name": "Sasaki, Momoko",
+    "finish_time": "01:31:43",
+    "finish_seconds": 5503
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 301,
+    "name": "Mccormick, Cydni",
+    "finish_time": "01:31:49",
+    "finish_seconds": 5509
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 303,
+    "name": "Gulliver, Pandora",
+    "finish_time": "01:31:53",
+    "finish_seconds": 5513
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 305,
+    "name": "Davidson, Jackie",
+    "finish_time": "01:32:01",
+    "finish_seconds": 5521
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 307,
+    "name": "Harney, Caitlin",
+    "finish_time": "01:32:06",
+    "finish_seconds": 5526
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 309,
+    "name": "Labine, Salena",
+    "finish_time": "01:32:16",
+    "finish_seconds": 5536
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 311,
+    "name": "Harris, Kelly",
+    "finish_time": "01:32:23",
+    "finish_seconds": 5543
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 313,
+    "name": "Mccabe, Kess",
+    "finish_time": "01:32:28",
+    "finish_seconds": 5548
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 315,
+    "name": "Spagnuolo, Carlene",
+    "finish_time": "01:32:37",
+    "finish_seconds": 5557
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 317,
+    "name": "Ayton, Justine",
+    "finish_time": "01:32:40",
+    "finish_seconds": 5560
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 319,
+    "name": "Shalamberidze, Tamari",
+    "finish_time": "01:32:45",
+    "finish_seconds": 5565
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 321,
+    "name": "Assman, Erin",
+    "finish_time": "01:32:55",
+    "finish_seconds": 5575
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 323,
+    "name": "Cooley, Janet",
+    "finish_time": "01:32:56",
+    "finish_seconds": 5576
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 325,
+    "name": "Dean, Hayley",
+    "finish_time": "01:33:03",
+    "finish_seconds": 5583
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 327,
+    "name": "Young, Katie",
+    "finish_time": "01:33:06",
+    "finish_seconds": 5586
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 329,
+    "name": "Dzemyanovich, Nastassia",
+    "finish_time": "01:33:15",
+    "finish_seconds": 5595
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 331,
+    "name": "Bacle, Popy",
+    "finish_time": "01:33:24",
+    "finish_seconds": 5604
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 333,
+    "name": "Oshiro, Kelly",
+    "finish_time": "01:33:25",
+    "finish_seconds": 5605
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 335,
+    "name": "Anderson, Sarah",
+    "finish_time": "01:33:32",
+    "finish_seconds": 5612
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 337,
+    "name": "Condon, Barb",
+    "finish_time": "01:33:41",
+    "finish_seconds": 5621
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 339,
+    "name": "Ibrahim, Shaima",
+    "finish_time": "01:33:53",
+    "finish_seconds": 5633
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 341,
+    "name": "Sever, Milica",
+    "finish_time": "01:34:08",
+    "finish_seconds": 5648
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 343,
+    "name": "Dinh, Ann",
+    "finish_time": "01:34:09",
+    "finish_seconds": 5649
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 345,
+    "name": "Vendittelli, Justina",
+    "finish_time": "01:34:12",
+    "finish_seconds": 5652
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 347,
+    "name": "Mccoll, Annie",
+    "finish_time": "01:34:16",
+    "finish_seconds": 5656
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 349,
+    "name": "Tang, Brittni",
+    "finish_time": "01:34:18",
+    "finish_seconds": 5658
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 351,
+    "name": "Son, Helena",
+    "finish_time": "01:34:23",
+    "finish_seconds": 5663
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 353,
+    "name": "E, Veronica",
+    "finish_time": "01:34:28",
+    "finish_seconds": 5668
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 355,
+    "name": "Wing, Jasmine",
+    "finish_time": "01:34:32",
+    "finish_seconds": 5672
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 357,
+    "name": "Murdoch, Taylor",
+    "finish_time": "01:34:35",
+    "finish_seconds": 5675
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 359,
+    "name": "Lenhart, Michaela",
+    "finish_time": "01:34:39",
+    "finish_seconds": 5679
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 361,
+    "name": "Marks, Lindsey",
+    "finish_time": "01:34:43",
+    "finish_seconds": 5683
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 363,
+    "name": "Porime, Flavia",
+    "finish_time": "01:34:48",
+    "finish_seconds": 5688
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 365,
+    "name": "Redman, Katherine",
+    "finish_time": "01:34:58",
+    "finish_seconds": 5698
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 367,
+    "name": "Wishmeyer, Kat",
+    "finish_time": "01:35:01",
+    "finish_seconds": 5701
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 369,
+    "name": "Maynes, Emily",
+    "finish_time": "01:35:03",
+    "finish_seconds": 5703
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 371,
+    "name": "Stones, Aoife",
+    "finish_time": "01:35:07",
+    "finish_seconds": 5707
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 373,
+    "name": "Kruzick, Melissa",
+    "finish_time": "01:35:11",
+    "finish_seconds": 5711
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 375,
+    "name": "Kellmann, Lauren",
+    "finish_time": "01:35:19",
+    "finish_seconds": 5719
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 377,
+    "name": "Greene, Monica",
+    "finish_time": "01:35:26",
+    "finish_seconds": 5726
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 379,
+    "name": "Stetsenko, Viktoriya",
+    "finish_time": "01:35:29",
+    "finish_seconds": 5729
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 381,
+    "name": "Cooper, Dana",
+    "finish_time": "01:35:32",
+    "finish_seconds": 5732
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 383,
+    "name": "Michalewicz, Amanda",
+    "finish_time": "01:35:37",
+    "finish_seconds": 5737
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 385,
+    "name": "Zhang, Zoe",
+    "finish_time": "01:35:40",
+    "finish_seconds": 5740
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 387,
+    "name": "Wu, Shirley",
+    "finish_time": "01:35:41",
+    "finish_seconds": 5741
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 389,
+    "name": "Skippen, Bryn",
+    "finish_time": "01:35:48",
+    "finish_seconds": 5748
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 391,
+    "name": "Ji, Delphine",
+    "finish_time": "01:35:50",
+    "finish_seconds": 5750
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 393,
+    "name": "Kolenosky, Kellyn",
+    "finish_time": "01:35:55",
+    "finish_seconds": 5755
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 395,
+    "name": "Shalanski, Susan",
+    "finish_time": "01:36:00",
+    "finish_seconds": 5760
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 397,
+    "name": "Mcroberts, Jennifer",
+    "finish_time": "01:36:06",
+    "finish_seconds": 5766
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 399,
+    "name": "Keith, Kimber",
+    "finish_time": "01:36:08",
+    "finish_seconds": 5768
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 401,
+    "name": "Kim, Sieun",
+    "finish_time": "01:36:15",
+    "finish_seconds": 5775
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 403,
+    "name": "Ritchie, Lauren",
+    "finish_time": "01:36:23",
+    "finish_seconds": 5783
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 405,
+    "name": "Leblanc, Joelle",
+    "finish_time": "01:36:34",
+    "finish_seconds": 5794
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 407,
+    "name": "Wark, Lindsay",
+    "finish_time": "01:36:45",
+    "finish_seconds": 5805
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 409,
+    "name": "Yan, Mabel",
+    "finish_time": "01:36:53",
+    "finish_seconds": 5813
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 411,
+    "name": "Roy, Catherine",
+    "finish_time": "01:36:54",
+    "finish_seconds": 5814
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 413,
+    "name": "Tizzard, Liz",
+    "finish_time": "01:36:58",
+    "finish_seconds": 5818
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 415,
+    "name": "Simpson, Kim",
+    "finish_time": "01:37:11",
+    "finish_seconds": 5831
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 417,
+    "name": "Qiu, Xiang",
+    "finish_time": "01:37:14",
+    "finish_seconds": 5834
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 419,
+    "name": "Taylor, Emily",
+    "finish_time": "01:37:20",
+    "finish_seconds": 5840
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 421,
+    "name": "Meinders, Natasha",
+    "finish_time": "01:37:24",
+    "finish_seconds": 5844
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 423,
+    "name": "Alvarez, Barbara",
+    "finish_time": "01:37:26",
+    "finish_seconds": 5846
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 425,
+    "name": "Douglas, Rayn",
+    "finish_time": "01:37:34",
+    "finish_seconds": 5854
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 427,
+    "name": "Maccormack, Jennifer",
+    "finish_time": "01:37:46",
+    "finish_seconds": 5866
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 429,
+    "name": "Spring, Rachel",
+    "finish_time": "01:37:50",
+    "finish_seconds": 5870
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 431,
+    "name": "Fujimura, Kana",
+    "finish_time": "01:37:53",
+    "finish_seconds": 5873
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 433,
+    "name": "Mcarthur, Taylor",
+    "finish_time": "01:38:01",
+    "finish_seconds": 5881
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 435,
+    "name": "He, Jenny",
+    "finish_time": "01:38:08",
+    "finish_seconds": 5888
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 437,
+    "name": "Henderson, Jenn",
+    "finish_time": "01:38:18",
+    "finish_seconds": 5898
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 439,
+    "name": "Flores, Alejandra",
+    "finish_time": "01:38:27",
+    "finish_seconds": 5907
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 441,
+    "name": "Gobin, Kelly",
+    "finish_time": "01:38:29",
+    "finish_seconds": 5909
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 443,
+    "name": "Lavoie, Caitlin",
+    "finish_time": "01:38:31",
+    "finish_seconds": 5911
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 445,
+    "name": "Sandy, Margot",
+    "finish_time": "01:38:39",
+    "finish_seconds": 5919
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 447,
+    "name": "Fraser, Stephanie",
+    "finish_time": "01:38:48",
+    "finish_seconds": 5928
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 449,
+    "name": "Fon-Lowe, Tiff",
+    "finish_time": "01:38:51",
+    "finish_seconds": 5931
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 451,
+    "name": "Duverglas Palacios, Jennifer",
+    "finish_time": "01:38:56",
+    "finish_seconds": 5936
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 453,
+    "name": "Schroenn, Dare",
+    "finish_time": "01:39:00",
+    "finish_seconds": 5940
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 455,
+    "name": "Horne, Madison",
+    "finish_time": "01:39:04",
+    "finish_seconds": 5944
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 457,
+    "name": "Uy, Eunice",
+    "finish_time": "01:39:10",
+    "finish_seconds": 5950
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 459,
+    "name": "Egan-Elliott, Roxanne",
+    "finish_time": "01:39:17",
+    "finish_seconds": 5957
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 461,
+    "name": "Lee, Jerry",
+    "finish_time": "01:39:23",
+    "finish_seconds": 5963
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 463,
+    "name": "Esmaeilzadeh, Farnaz",
+    "finish_time": "01:39:36",
+    "finish_seconds": 5976
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 465,
+    "name": "Kearns, Haleigh",
+    "finish_time": "01:39:37",
+    "finish_seconds": 5977
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 467,
+    "name": "Tranchand, Cl\u00e9mentine",
+    "finish_time": "01:39:45",
+    "finish_seconds": 5985
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 469,
+    "name": "Farrell, Fiona",
+    "finish_time": "01:39:59",
+    "finish_seconds": 5999
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 471,
+    "name": "Hajdarovac, Elda",
+    "finish_time": "01:40:03",
+    "finish_seconds": 6003
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 473,
+    "name": "Yong, Mikayla",
+    "finish_time": "01:40:28",
+    "finish_seconds": 6028
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 475,
+    "name": "Smith, Natasha",
+    "finish_time": "01:40:32",
+    "finish_seconds": 6032
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 477,
+    "name": "Hiom, Grace",
+    "finish_time": "01:40:41",
+    "finish_seconds": 6041
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 479,
+    "name": "Jackman-Atkinson, Kate",
+    "finish_time": "01:40:45",
+    "finish_seconds": 6045
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 481,
+    "name": "Cheung, Michele",
+    "finish_time": "01:40:46",
+    "finish_seconds": 6046
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 483,
+    "name": "Auve, Julia",
+    "finish_time": "01:40:51",
+    "finish_seconds": 6051
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 485,
+    "name": "James, Hailey",
+    "finish_time": "01:41:01",
+    "finish_seconds": 6061
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 487,
+    "name": "Cheung, Ilene",
+    "finish_time": "01:41:07",
+    "finish_seconds": 6067
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 489,
+    "name": "Posen, Connie",
+    "finish_time": "01:41:16",
+    "finish_seconds": 6076
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 491,
+    "name": "Belas, Poppy",
+    "finish_time": "01:41:18",
+    "finish_seconds": 6078
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 493,
+    "name": "Laarakker, Christy",
+    "finish_time": "01:41:21",
+    "finish_seconds": 6081
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 495,
+    "name": "Cudmore, Kayla",
+    "finish_time": "01:41:28",
+    "finish_seconds": 6088
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 497,
+    "name": "Liston, Mara",
+    "finish_time": "01:41:35",
+    "finish_seconds": 6095
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 499,
+    "name": "Lessman, Madison",
+    "finish_time": "01:41:47",
+    "finish_seconds": 6107
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 501,
+    "name": "Cooper, Linda",
+    "finish_time": "01:41:54",
+    "finish_seconds": 6114
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 503,
+    "name": "Fadigas De Souza, Glaucia",
+    "finish_time": "01:41:56",
+    "finish_seconds": 6116
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 505,
+    "name": "Ganjeh, Sara",
+    "finish_time": "01:42:12",
+    "finish_seconds": 6132
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 507,
+    "name": "Maglalang, Micaela",
+    "finish_time": "01:42:28",
+    "finish_seconds": 6148
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 509,
+    "name": "Dube, Nonhlanhla",
+    "finish_time": "01:42:34",
+    "finish_seconds": 6154
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 511,
+    "name": "Hartnell, Kyla",
+    "finish_time": "01:42:39",
+    "finish_seconds": 6159
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 513,
+    "name": "Monroe, Kendra",
+    "finish_time": "01:42:43",
+    "finish_seconds": 6163
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 515,
+    "name": "Hayes, Nicole",
+    "finish_time": "01:42:52",
+    "finish_seconds": 6172
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 517,
+    "name": "Young, Allison",
+    "finish_time": "01:42:57",
+    "finish_seconds": 6177
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 519,
+    "name": "Taylor, Zoe",
+    "finish_time": "01:43:10",
+    "finish_seconds": 6190
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 521,
+    "name": "Dhesi, Sukhi",
+    "finish_time": "01:43:21",
+    "finish_seconds": 6201
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 523,
+    "name": "Virk, Anmoljot",
+    "finish_time": "01:43:40",
+    "finish_seconds": 6220
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 525,
+    "name": "Thakar, Rina",
+    "finish_time": "01:43:46",
+    "finish_seconds": 6226
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 527,
+    "name": "Beug, Whitney",
+    "finish_time": "01:43:48",
+    "finish_seconds": 6228
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 529,
+    "name": "Adams, Vonnie",
+    "finish_time": "01:43:52",
+    "finish_seconds": 6232
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 531,
+    "name": "Lozano, Aliah",
+    "finish_time": "01:43:54",
+    "finish_seconds": 6234
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 533,
+    "name": "Brandt, Leigh",
+    "finish_time": "01:44:01",
+    "finish_seconds": 6241
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 535,
+    "name": "Sinclair, Taylor",
+    "finish_time": "01:44:19",
+    "finish_seconds": 6259
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 537,
+    "name": "Li, Mu Zhi",
+    "finish_time": "01:44:19",
+    "finish_seconds": 6259
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 539,
+    "name": "Tsu, Tiffany",
+    "finish_time": "01:44:30",
+    "finish_seconds": 6270
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 541,
+    "name": "Weiss, Deanna",
+    "finish_time": "01:44:37",
+    "finish_seconds": 6277
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 543,
+    "name": "Grimes, Elizabeth",
+    "finish_time": "01:44:44",
+    "finish_seconds": 6284
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 545,
+    "name": "Yang, Cornelia",
+    "finish_time": "01:44:45",
+    "finish_seconds": 6285
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 547,
+    "name": "Yen, Kathleen",
+    "finish_time": "01:44:47",
+    "finish_seconds": 6287
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 549,
+    "name": "Paupst, Sarah",
+    "finish_time": "01:45:07",
+    "finish_seconds": 6307
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 551,
+    "name": "Chio O'Shea, Ren\u00e9e",
+    "finish_time": "01:45:08",
+    "finish_seconds": 6308
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 553,
+    "name": "Pham, Anne",
+    "finish_time": "01:45:17",
+    "finish_seconds": 6317
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 555,
+    "name": "Lai, Hiu Yan Gloria",
+    "finish_time": "01:45:49",
+    "finish_seconds": 6349
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 557,
+    "name": "Ng, Suann",
+    "finish_time": "01:46:12",
+    "finish_seconds": 6372
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 559,
+    "name": "Witucki, Chandler",
+    "finish_time": "01:46:18",
+    "finish_seconds": 6378
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 561,
+    "name": "Connal, Sandra",
+    "finish_time": "01:46:24",
+    "finish_seconds": 6384
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 563,
+    "name": "Bignell, Sarah",
+    "finish_time": "01:46:32",
+    "finish_seconds": 6392
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 565,
+    "name": "Lane, Katie",
+    "finish_time": "01:46:34",
+    "finish_seconds": 6394
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 567,
+    "name": "Oppenheimer, Laura",
+    "finish_time": "01:46:40",
+    "finish_seconds": 6400
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 569,
+    "name": "Wardrop, Kayla",
+    "finish_time": "01:46:44",
+    "finish_seconds": 6404
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 571,
+    "name": "Yi, Kathleen",
+    "finish_time": "01:47:07",
+    "finish_seconds": 6427
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 573,
+    "name": "Bauman, Ayla",
+    "finish_time": "01:47:14",
+    "finish_seconds": 6434
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 575,
+    "name": "Qasemi, Farah",
+    "finish_time": "01:47:27",
+    "finish_seconds": 6447
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 577,
+    "name": "Dhanani, Jenna",
+    "finish_time": "01:47:34",
+    "finish_seconds": 6454
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 579,
+    "name": "Lopez Gonzalez, Gabriela",
+    "finish_time": "01:47:47",
+    "finish_seconds": 6467
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 581,
+    "name": "Barkwell, Allison",
+    "finish_time": "01:47:54",
+    "finish_seconds": 6474
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 583,
+    "name": "Ritchie, Kristen",
+    "finish_time": "01:47:54",
+    "finish_seconds": 6474
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 585,
+    "name": "Berkenpas, Laura",
+    "finish_time": "01:47:57",
+    "finish_seconds": 6477
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 587,
+    "name": "O\u2019Donnell, Lindsey",
+    "finish_time": "01:48:07",
+    "finish_seconds": 6487
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 589,
+    "name": "Cassar, Camila",
+    "finish_time": "01:48:18",
+    "finish_seconds": 6498
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 591,
+    "name": "Otto, Sigrid",
+    "finish_time": "01:48:32",
+    "finish_seconds": 6512
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 593,
+    "name": "Hobbs, Shelby",
+    "finish_time": "01:48:37",
+    "finish_seconds": 6517
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 595,
+    "name": "Farley, Ashley",
+    "finish_time": "01:48:53",
+    "finish_seconds": 6533
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 597,
+    "name": "Jack, Elizabeth",
+    "finish_time": "01:48:59",
+    "finish_seconds": 6539
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 599,
+    "name": "Leu-Rodriguez, Clarisa",
+    "finish_time": "01:49:14",
+    "finish_seconds": 6554
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 601,
+    "name": "Kalenuik, Laura",
+    "finish_time": "01:49:23",
+    "finish_seconds": 6563
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 603,
+    "name": "Sedlacek, Fernanda",
+    "finish_time": "01:49:49",
+    "finish_seconds": 6589
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 605,
+    "name": "Honeycutt, Wendy",
+    "finish_time": "01:49:51",
+    "finish_seconds": 6591
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 607,
+    "name": "Tam, Gina",
+    "finish_time": "01:50:06",
+    "finish_seconds": 6606
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 609,
+    "name": "Nakahara, Yuki",
+    "finish_time": "01:50:31",
+    "finish_seconds": 6631
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 611,
+    "name": "Olexson, Aleyna",
+    "finish_time": "01:50:53",
+    "finish_seconds": 6653
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 613,
+    "name": "Bourne, Christine",
+    "finish_time": "01:51:12",
+    "finish_seconds": 6672
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 615,
+    "name": "Lightheart, Jennifer",
+    "finish_time": "01:51:27",
+    "finish_seconds": 6687
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 617,
+    "name": "Chow, Fiona",
+    "finish_time": "01:51:32",
+    "finish_seconds": 6692
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 619,
+    "name": "Trinh, Stacy",
+    "finish_time": "01:52:07",
+    "finish_seconds": 6727
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 621,
+    "name": "Ross, Sarah",
+    "finish_time": "01:52:34",
+    "finish_seconds": 6754
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 623,
+    "name": "Ganguly, Riya",
+    "finish_time": "01:52:41",
+    "finish_seconds": 6761
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 625,
+    "name": "Enright, Laura",
+    "finish_time": "01:52:57",
+    "finish_seconds": 6777
+  },
+  {
+    "venue": "2025 Vancouver",
+    "gender": "W",
+    "rank": 627,
+    "name": "Shier, Riley",
+    "finish_time": "01:53:16",
+    "finish_seconds": 6796
+  }
+]

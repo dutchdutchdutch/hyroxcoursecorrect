@@ -1,0 +1,5898 @@
+[
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 1,
+    "name": "Strapagiel, Aleksander",
+    "finish_time": "00:57:42",
+    "finish_seconds": 3462
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 3,
+    "name": "Dechamps, Jessy",
+    "finish_time": "00:59:03",
+    "finish_seconds": 3543
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 5,
+    "name": "Waugh, Jack",
+    "finish_time": "00:59:05",
+    "finish_seconds": 3545
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 7,
+    "name": "Hudson, Jay",
+    "finish_time": "01:00:54",
+    "finish_seconds": 3654
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 9,
+    "name": "Guscinas, Rokas",
+    "finish_time": "01:00:59",
+    "finish_seconds": 3659
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 11,
+    "name": "Mcdowell, Matthew",
+    "finish_time": "01:01:04",
+    "finish_seconds": 3664
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 13,
+    "name": "Mcadam, Ciaran",
+    "finish_time": "01:01:23",
+    "finish_seconds": 3683
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 15,
+    "name": "Loftus, Danny",
+    "finish_time": "01:01:30",
+    "finish_seconds": 3690
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 17,
+    "name": "Rowberry, Daniel",
+    "finish_time": "01:01:55",
+    "finish_seconds": 3715
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 19,
+    "name": "Callagher, George",
+    "finish_time": "01:02:08",
+    "finish_seconds": 3728
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 21,
+    "name": "Khublaryan, Davit",
+    "finish_time": "01:02:20",
+    "finish_seconds": 3740
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 23,
+    "name": "Black, Jordan",
+    "finish_time": "01:02:37",
+    "finish_seconds": 3757
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 25,
+    "name": "Mcphee, Aaron",
+    "finish_time": "01:02:46",
+    "finish_seconds": 3766
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 27,
+    "name": "Grant, Sam",
+    "finish_time": "01:02:47",
+    "finish_seconds": 3767
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 29,
+    "name": "Kojc, Jo\u017ee",
+    "finish_time": "01:03:26",
+    "finish_seconds": 3806
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 31,
+    "name": "Puchal Pareja, Vicente",
+    "finish_time": "01:03:47",
+    "finish_seconds": 3827
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 33,
+    "name": "Boutet, Charlie",
+    "finish_time": "01:03:49",
+    "finish_seconds": 3829
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 35,
+    "name": "Grieve, Kyle",
+    "finish_time": "01:03:58",
+    "finish_seconds": 3838
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 37,
+    "name": "Attard, Kurt",
+    "finish_time": "01:04:16",
+    "finish_seconds": 3856
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 39,
+    "name": "Szkurlat, Tomasz",
+    "finish_time": "01:04:23",
+    "finish_seconds": 3863
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 41,
+    "name": "Lepers, Romuald",
+    "finish_time": "01:04:29",
+    "finish_seconds": 3869
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 43,
+    "name": "Jennow, Calum",
+    "finish_time": "01:04:39",
+    "finish_seconds": 3879
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 45,
+    "name": "Fenech, Sean",
+    "finish_time": "01:04:42",
+    "finish_seconds": 3882
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 47,
+    "name": "Kynicky, Lukas",
+    "finish_time": "01:04:48",
+    "finish_seconds": 3888
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 49,
+    "name": "Rasztawicki, Dariusz",
+    "finish_time": "01:04:50",
+    "finish_seconds": 3890
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 51,
+    "name": "Dzikowicz, Bartlomiej",
+    "finish_time": "01:04:55",
+    "finish_seconds": 3895
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 53,
+    "name": "Czechowski, Artur",
+    "finish_time": "01:05:13",
+    "finish_seconds": 3913
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 55,
+    "name": "Koumpouras, Lazaros",
+    "finish_time": "01:05:24",
+    "finish_seconds": 3924
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 57,
+    "name": "Jan\u0117nas, Martynas",
+    "finish_time": "01:05:26",
+    "finish_seconds": 3926
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 59,
+    "name": "Briffa, Marlon",
+    "finish_time": "01:05:36",
+    "finish_seconds": 3936
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 61,
+    "name": "Zahra, Adrian",
+    "finish_time": "01:05:36",
+    "finish_seconds": 3936
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 63,
+    "name": "Le Luyer, Romain",
+    "finish_time": "01:06:01",
+    "finish_seconds": 3961
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 65,
+    "name": "Wudkowski, Filip",
+    "finish_time": "01:06:08",
+    "finish_seconds": 3968
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 67,
+    "name": "Taylor, Craig",
+    "finish_time": "01:06:15",
+    "finish_seconds": 3975
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 69,
+    "name": "Blejwas, Mateusz",
+    "finish_time": "01:06:23",
+    "finish_seconds": 3983
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 71,
+    "name": "Krawiecki, Mateusz",
+    "finish_time": "01:06:38",
+    "finish_seconds": 3998
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 73,
+    "name": "Fotheringham, Ryan",
+    "finish_time": "01:06:49",
+    "finish_seconds": 4009
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 75,
+    "name": "Weso\u0142owski, B\u0142a\u017cej",
+    "finish_time": "01:07:05",
+    "finish_seconds": 4025
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 77,
+    "name": "Declercq, Matthieu",
+    "finish_time": "01:07:12",
+    "finish_seconds": 4032
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 79,
+    "name": "Szmyt, Piotr",
+    "finish_time": "01:07:15",
+    "finish_seconds": 4035
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 81,
+    "name": "Cie\u015bla, Filip",
+    "finish_time": "01:07:17",
+    "finish_seconds": 4037
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 83,
+    "name": "Olesen, Ole",
+    "finish_time": "01:07:22",
+    "finish_seconds": 4042
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 85,
+    "name": "Chouvardas, Konstantinos",
+    "finish_time": "01:07:30",
+    "finish_seconds": 4050
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 87,
+    "name": "Kirsz, Piotr",
+    "finish_time": "01:07:36",
+    "finish_seconds": 4056
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 89,
+    "name": "Lindst\u00e4dt, Tobias",
+    "finish_time": "01:07:44",
+    "finish_seconds": 4064
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 91,
+    "name": "Mrozowicz, Cezary",
+    "finish_time": "01:07:50",
+    "finish_seconds": 4070
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 93,
+    "name": "Micallef, Charles",
+    "finish_time": "01:07:53",
+    "finish_seconds": 4073
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 95,
+    "name": "Casteret, Alexandre",
+    "finish_time": "01:07:58",
+    "finish_seconds": 4078
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 97,
+    "name": "O\u2019Farrell, Padraig",
+    "finish_time": "01:07:58",
+    "finish_seconds": 4078
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 99,
+    "name": "Passler, Benjamin",
+    "finish_time": "01:08:09",
+    "finish_seconds": 4089
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 101,
+    "name": "O Donoghue, Morgan",
+    "finish_time": "01:08:15",
+    "finish_seconds": 4095
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 103,
+    "name": "Whyte, James",
+    "finish_time": "01:08:17",
+    "finish_seconds": 4097
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 105,
+    "name": "Danns, Jack",
+    "finish_time": "01:08:22",
+    "finish_seconds": 4102
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 107,
+    "name": "Maciejewski, Adam",
+    "finish_time": "01:08:27",
+    "finish_seconds": 4107
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 109,
+    "name": "Hellmich, Aldo",
+    "finish_time": "01:08:29",
+    "finish_seconds": 4109
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 111,
+    "name": "Han\u010d, Maty\u00e1\u0161",
+    "finish_time": "01:08:37",
+    "finish_seconds": 4117
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 113,
+    "name": "Nassikas, Thalis",
+    "finish_time": "01:08:43",
+    "finish_seconds": 4123
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 115,
+    "name": "Heinz, Florian",
+    "finish_time": "01:08:47",
+    "finish_seconds": 4127
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 117,
+    "name": "Didak, Ostap",
+    "finish_time": "01:08:57",
+    "finish_seconds": 4137
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 119,
+    "name": "May, Patrick",
+    "finish_time": "01:09:01",
+    "finish_seconds": 4141
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 121,
+    "name": "Wo\u0142k, Mariusz",
+    "finish_time": "01:09:02",
+    "finish_seconds": 4142
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 123,
+    "name": "Bogisch, Steve",
+    "finish_time": "01:09:09",
+    "finish_seconds": 4149
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 125,
+    "name": "Merchant, Sean",
+    "finish_time": "01:09:36",
+    "finish_seconds": 4176
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 127,
+    "name": "Bla\u017eek, Martin",
+    "finish_time": "01:09:44",
+    "finish_seconds": 4184
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 129,
+    "name": "\u017bbikowski, Hubert",
+    "finish_time": "01:09:50",
+    "finish_seconds": 4190
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 131,
+    "name": "Grumler, Simon",
+    "finish_time": "01:09:56",
+    "finish_seconds": 4196
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 133,
+    "name": "Horner, Toby",
+    "finish_time": "01:10:00",
+    "finish_seconds": 4200
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 135,
+    "name": "Mittelst\u00e4dt, Martin",
+    "finish_time": "01:10:20",
+    "finish_seconds": 4220
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 137,
+    "name": "Zawi\u015blan, Jakub",
+    "finish_time": "01:10:21",
+    "finish_seconds": 4221
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 139,
+    "name": "Bobowski, Karol",
+    "finish_time": "01:10:29",
+    "finish_seconds": 4229
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 141,
+    "name": "Kranich, Rafa\u0142",
+    "finish_time": "01:10:37",
+    "finish_seconds": 4237
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 143,
+    "name": "Buttigieg, Keith",
+    "finish_time": "01:10:44",
+    "finish_seconds": 4244
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 145,
+    "name": "B\u0159ezina, Ond\u0159ej",
+    "finish_time": "01:10:47",
+    "finish_seconds": 4247
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 147,
+    "name": "Honour, Jamie",
+    "finish_time": "01:10:55",
+    "finish_seconds": 4255
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 149,
+    "name": "Konopski, Konrad",
+    "finish_time": "01:11:01",
+    "finish_seconds": 4261
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 151,
+    "name": "Grunwald, Dominik",
+    "finish_time": "01:11:07",
+    "finish_seconds": 4267
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 153,
+    "name": "Zubalski, Pawe\u0142",
+    "finish_time": "01:11:08",
+    "finish_seconds": 4268
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 155,
+    "name": "Dekanic, Mihael",
+    "finish_time": "01:11:22",
+    "finish_seconds": 4282
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 157,
+    "name": "Kraj, Luk\u00e1\u0161",
+    "finish_time": "01:11:32",
+    "finish_seconds": 4292
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 159,
+    "name": "Szymkowiak, Maciej",
+    "finish_time": "01:11:37",
+    "finish_seconds": 4297
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 161,
+    "name": "M\u0119kwi\u0144ski, Adam",
+    "finish_time": "01:11:40",
+    "finish_seconds": 4300
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 163,
+    "name": "Klime\u0161, Jakub",
+    "finish_time": "01:11:45",
+    "finish_seconds": 4305
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 165,
+    "name": "Jakubiak, Krzysztof",
+    "finish_time": "01:11:47",
+    "finish_seconds": 4307
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 167,
+    "name": "Ploetz, Adrian",
+    "finish_time": "01:11:55",
+    "finish_seconds": 4315
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 169,
+    "name": "Zale\u015bkiewicz, Kamil",
+    "finish_time": "01:11:58",
+    "finish_seconds": 4318
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 171,
+    "name": "Filus, Artur",
+    "finish_time": "01:12:02",
+    "finish_seconds": 4322
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 173,
+    "name": "Kaiser, Mateusz",
+    "finish_time": "01:12:07",
+    "finish_seconds": 4327
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 175,
+    "name": "Pajor, Kacper",
+    "finish_time": "01:12:12",
+    "finish_seconds": 4332
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 177,
+    "name": "Banaszczyk, Janusz",
+    "finish_time": "01:12:20",
+    "finish_seconds": 4340
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 179,
+    "name": "D\u0105browski, Dawid",
+    "finish_time": "01:12:26",
+    "finish_seconds": 4346
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 181,
+    "name": "Zadro\u017cny, Krzysztof",
+    "finish_time": "01:12:26",
+    "finish_seconds": 4346
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 183,
+    "name": "Grindel, Tom",
+    "finish_time": "01:12:30",
+    "finish_seconds": 4350
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 185,
+    "name": "Taylor, Andrew",
+    "finish_time": "01:12:31",
+    "finish_seconds": 4351
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 187,
+    "name": "Jurczak, Aleksander",
+    "finish_time": "01:12:36",
+    "finish_seconds": 4356
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 189,
+    "name": "Tome, Joseph",
+    "finish_time": "01:12:38",
+    "finish_seconds": 4358
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 191,
+    "name": "Syme, Allan",
+    "finish_time": "01:12:43",
+    "finish_seconds": 4363
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 193,
+    "name": "Val\u00ed\u0161ek, Karel",
+    "finish_time": "01:12:49",
+    "finish_seconds": 4369
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 195,
+    "name": "Kowalczyk, Marcin",
+    "finish_time": "01:12:54",
+    "finish_seconds": 4374
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 197,
+    "name": "Korchow, Miko\u0142aj",
+    "finish_time": "01:13:00",
+    "finish_seconds": 4380
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 199,
+    "name": "Gruzinskas, Dominykas",
+    "finish_time": "01:13:10",
+    "finish_seconds": 4390
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 201,
+    "name": "Kukla, Rafa\u0142",
+    "finish_time": "01:13:13",
+    "finish_seconds": 4393
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 203,
+    "name": "Turczy\u0144ski, Patryk",
+    "finish_time": "01:13:13",
+    "finish_seconds": 4393
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 205,
+    "name": "Skola, Pavel",
+    "finish_time": "01:13:16",
+    "finish_seconds": 4396
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 207,
+    "name": "Krzysztofek, Sebastian",
+    "finish_time": "01:13:21",
+    "finish_seconds": 4401
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 209,
+    "name": "Piek\u0142o, Jakub",
+    "finish_time": "01:13:22",
+    "finish_seconds": 4402
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 211,
+    "name": "Patrick, Nathan",
+    "finish_time": "01:13:26",
+    "finish_seconds": 4406
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 213,
+    "name": "Deicmanis, Ivo",
+    "finish_time": "01:13:28",
+    "finish_seconds": 4408
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 215,
+    "name": "Adamson, Connor",
+    "finish_time": "01:13:32",
+    "finish_seconds": 4412
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 217,
+    "name": "Je\u017cy\u0144ski, Micha\u0142",
+    "finish_time": "01:13:36",
+    "finish_seconds": 4416
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 219,
+    "name": "Partyczny, Kamil",
+    "finish_time": "01:13:39",
+    "finish_seconds": 4419
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 221,
+    "name": "Szut, Dariusz",
+    "finish_time": "01:13:41",
+    "finish_seconds": 4421
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 223,
+    "name": "Kuty, Tomasz",
+    "finish_time": "01:13:48",
+    "finish_seconds": 4428
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 225,
+    "name": "Kowalski, Tom\u00e1\u0161",
+    "finish_time": "01:13:50",
+    "finish_seconds": 4430
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 227,
+    "name": "Ryder, Lee",
+    "finish_time": "01:13:52",
+    "finish_seconds": 4432
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 229,
+    "name": "Koupis, Sotiris",
+    "finish_time": "01:13:53",
+    "finish_seconds": 4433
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 231,
+    "name": "Robi\u0144ski, Maksymilian",
+    "finish_time": "01:13:56",
+    "finish_seconds": 4436
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 233,
+    "name": "Tabone, Johnston",
+    "finish_time": "01:13:59",
+    "finish_seconds": 4439
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 235,
+    "name": "Ry\u0144ski, \u0141ukasz",
+    "finish_time": "01:14:00",
+    "finish_seconds": 4440
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 237,
+    "name": "Locke, Anthony",
+    "finish_time": "01:14:06",
+    "finish_seconds": 4446
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 239,
+    "name": "Hutyra, Maciej",
+    "finish_time": "01:14:14",
+    "finish_seconds": 4454
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 241,
+    "name": "Tyrka, Tomasz",
+    "finish_time": "01:14:15",
+    "finish_seconds": 4455
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 243,
+    "name": "Beyer, Dirk-Oliver",
+    "finish_time": "01:14:17",
+    "finish_seconds": 4457
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 245,
+    "name": "Bure\u0161, V\u00e1clav",
+    "finish_time": "01:14:23",
+    "finish_seconds": 4463
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 247,
+    "name": "Fagan-Mcnulty, Rory",
+    "finish_time": "01:14:25",
+    "finish_seconds": 4465
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 249,
+    "name": "Mason, Maxwell",
+    "finish_time": "01:14:27",
+    "finish_seconds": 4467
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 251,
+    "name": "Przybylski, Patryk",
+    "finish_time": "01:14:32",
+    "finish_seconds": 4472
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 253,
+    "name": "Jutas, Dominykas",
+    "finish_time": "01:14:33",
+    "finish_seconds": 4473
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 255,
+    "name": "Kudrelek, S\u0142awomir",
+    "finish_time": "01:14:36",
+    "finish_seconds": 4476
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 257,
+    "name": "Dolan, Micheal",
+    "finish_time": "01:14:38",
+    "finish_seconds": 4478
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 259,
+    "name": "Dennedy, Michael Conall",
+    "finish_time": "01:14:41",
+    "finish_seconds": 4481
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 261,
+    "name": "Krzeczkowski, Daniel",
+    "finish_time": "01:14:45",
+    "finish_seconds": 4485
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 263,
+    "name": "Lusher, James",
+    "finish_time": "01:14:49",
+    "finish_seconds": 4489
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 265,
+    "name": "Ratajczak, Mariusz",
+    "finish_time": "01:14:50",
+    "finish_seconds": 4490
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 267,
+    "name": "Barreto, Diogo",
+    "finish_time": "01:14:53",
+    "finish_seconds": 4493
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 269,
+    "name": "Lautier, Clayton",
+    "finish_time": "01:15:02",
+    "finish_seconds": 4502
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 271,
+    "name": "Goodwin, Ross",
+    "finish_time": "01:15:10",
+    "finish_seconds": 4510
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 273,
+    "name": "Wentland, Bartosz",
+    "finish_time": "01:15:14",
+    "finish_seconds": 4514
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 275,
+    "name": "Szczepa\u0144ski, Grzegorz",
+    "finish_time": "01:15:21",
+    "finish_seconds": 4521
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 277,
+    "name": "Jones, Ben",
+    "finish_time": "01:15:26",
+    "finish_seconds": 4526
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 279,
+    "name": "Sadauskas, Kestutis",
+    "finish_time": "01:15:32",
+    "finish_seconds": 4532
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 281,
+    "name": "Bekas, Jedrzej",
+    "finish_time": "01:15:40",
+    "finish_seconds": 4540
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 283,
+    "name": "Mejer, Piotr",
+    "finish_time": "01:15:49",
+    "finish_seconds": 4549
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 285,
+    "name": "Emond, Martin",
+    "finish_time": "01:16:04",
+    "finish_seconds": 4564
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 287,
+    "name": "Gabriel, Jakub",
+    "finish_time": "01:16:08",
+    "finish_seconds": 4568
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 289,
+    "name": "Matwij\u00f3w, Dawid",
+    "finish_time": "01:16:11",
+    "finish_seconds": 4571
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 291,
+    "name": "Donovan, Darren",
+    "finish_time": "01:16:13",
+    "finish_seconds": 4573
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 293,
+    "name": "Skonieczko, Adam",
+    "finish_time": "01:16:22",
+    "finish_seconds": 4582
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 295,
+    "name": "Hrab, Wojciech",
+    "finish_time": "01:16:30",
+    "finish_seconds": 4590
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 297,
+    "name": "Borowiec, Kacper",
+    "finish_time": "01:16:38",
+    "finish_seconds": 4598
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 299,
+    "name": "Hakner, Steve",
+    "finish_time": "01:16:43",
+    "finish_seconds": 4603
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 301,
+    "name": "Garforth, Joseph",
+    "finish_time": "01:16:45",
+    "finish_seconds": 4605
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 303,
+    "name": "Nawrocki, Piotr",
+    "finish_time": "01:16:48",
+    "finish_seconds": 4608
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 305,
+    "name": "Freitag, Ian",
+    "finish_time": "01:17:04",
+    "finish_seconds": 4624
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 307,
+    "name": "Rogowski, Mateusz",
+    "finish_time": "01:17:09",
+    "finish_seconds": 4629
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 309,
+    "name": "Soumas, Eleftherios",
+    "finish_time": "01:17:29",
+    "finish_seconds": 4649
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 311,
+    "name": "Wojciechowski, S\u0142awomir",
+    "finish_time": "01:17:39",
+    "finish_seconds": 4659
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 313,
+    "name": "Czapiewski, Bartosz",
+    "finish_time": "01:17:51",
+    "finish_seconds": 4671
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 315,
+    "name": "Pietrzak, Damian",
+    "finish_time": "01:17:53",
+    "finish_seconds": 4673
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 317,
+    "name": "Fiodarau, Illia",
+    "finish_time": "01:17:55",
+    "finish_seconds": 4675
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 319,
+    "name": "Koslow, Sandro",
+    "finish_time": "01:18:00",
+    "finish_seconds": 4680
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 321,
+    "name": "Krzyzanowski, Julian",
+    "finish_time": "01:18:13",
+    "finish_seconds": 4693
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 323,
+    "name": "Sobocinski, Tomasz",
+    "finish_time": "01:18:17",
+    "finish_seconds": 4697
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 325,
+    "name": "Rzepecki, Artur",
+    "finish_time": "01:18:18",
+    "finish_seconds": 4698
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 327,
+    "name": "Filipek, Karol",
+    "finish_time": "01:18:23",
+    "finish_seconds": 4703
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 329,
+    "name": "Haughney, Paul",
+    "finish_time": "01:18:24",
+    "finish_seconds": 4704
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 331,
+    "name": "Olszewski, Krzysztof",
+    "finish_time": "01:18:25",
+    "finish_seconds": 4705
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 333,
+    "name": "Sim, Jack",
+    "finish_time": "01:18:29",
+    "finish_seconds": 4709
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 335,
+    "name": "Gryglik, Tomasz",
+    "finish_time": "01:18:33",
+    "finish_seconds": 4713
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 337,
+    "name": "Manser, Ben",
+    "finish_time": "01:18:36",
+    "finish_seconds": 4716
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 339,
+    "name": "Brindley, Ed",
+    "finish_time": "01:18:40",
+    "finish_seconds": 4720
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 341,
+    "name": "Flis, Dariusz",
+    "finish_time": "01:18:42",
+    "finish_seconds": 4722
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 343,
+    "name": "Verbitskyi, Oleksandr",
+    "finish_time": "01:18:50",
+    "finish_seconds": 4730
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 345,
+    "name": "Mensah, Mawulikplimi",
+    "finish_time": "01:18:56",
+    "finish_seconds": 4736
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 347,
+    "name": "Ostr\u0119ga, Mateusz",
+    "finish_time": "01:18:56",
+    "finish_seconds": 4736
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 349,
+    "name": "Smoli\u0144ski, Kamil",
+    "finish_time": "01:18:59",
+    "finish_seconds": 4739
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 351,
+    "name": "Chmurak, Wojciech",
+    "finish_time": "01:19:04",
+    "finish_seconds": 4744
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 353,
+    "name": "Cunningham, Ryan",
+    "finish_time": "01:19:10",
+    "finish_seconds": 4750
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 355,
+    "name": "Ziarkowski, Max",
+    "finish_time": "01:19:16",
+    "finish_seconds": 4756
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 357,
+    "name": "Erban, Jakub",
+    "finish_time": "01:19:26",
+    "finish_seconds": 4766
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 359,
+    "name": "\u0160imek, Benjamin",
+    "finish_time": "01:19:28",
+    "finish_seconds": 4768
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 361,
+    "name": "Bieryt, Przemys\u0142aw",
+    "finish_time": "01:19:31",
+    "finish_seconds": 4771
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 363,
+    "name": "Je\u017cowski, Dawid",
+    "finish_time": "01:19:34",
+    "finish_seconds": 4774
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 365,
+    "name": "Bialach, Lukasz",
+    "finish_time": "01:19:37",
+    "finish_seconds": 4777
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 367,
+    "name": "Smetana, Luk\u00e1\u0161",
+    "finish_time": "01:19:41",
+    "finish_seconds": 4781
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 369,
+    "name": "Snowling, Elliott",
+    "finish_time": "01:19:43",
+    "finish_seconds": 4783
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 371,
+    "name": "Jamka, Tomasz",
+    "finish_time": "01:19:44",
+    "finish_seconds": 4784
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 373,
+    "name": "Noack, Patrick",
+    "finish_time": "01:19:49",
+    "finish_seconds": 4789
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 375,
+    "name": "Kovalov, Volodymyr",
+    "finish_time": "01:19:55",
+    "finish_seconds": 4795
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 377,
+    "name": "Petit, Logan",
+    "finish_time": "01:19:58",
+    "finish_seconds": 4798
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 379,
+    "name": "W\u00f3jcik, Jakub",
+    "finish_time": "01:20:00",
+    "finish_seconds": 4800
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 381,
+    "name": "Skrobek, Sebastian",
+    "finish_time": "01:20:08",
+    "finish_seconds": 4808
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 383,
+    "name": "Wilkus, Marcin",
+    "finish_time": "01:20:10",
+    "finish_seconds": 4810
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 385,
+    "name": "Hunt, Richard",
+    "finish_time": "01:20:16",
+    "finish_seconds": 4816
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 387,
+    "name": "Piasecki, Grzegorz",
+    "finish_time": "01:20:25",
+    "finish_seconds": 4825
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 389,
+    "name": "Wojciechowski, Marcin",
+    "finish_time": "01:20:28",
+    "finish_seconds": 4828
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 391,
+    "name": "Protopappas, Vasileios",
+    "finish_time": "01:20:32",
+    "finish_seconds": 4832
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 393,
+    "name": "Mi\u0105sik, Tomasz",
+    "finish_time": "01:20:35",
+    "finish_seconds": 4835
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 395,
+    "name": "Julikowski, Karol",
+    "finish_time": "01:20:38",
+    "finish_seconds": 4838
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 397,
+    "name": "Pliszczak, Sebastian",
+    "finish_time": "01:20:43",
+    "finish_seconds": 4843
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 399,
+    "name": "Chrzanowski, Artur",
+    "finish_time": "01:20:44",
+    "finish_seconds": 4844
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 401,
+    "name": "Kalembka, Kamil",
+    "finish_time": "01:20:46",
+    "finish_seconds": 4846
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 403,
+    "name": "Zar\u0119ba, Mateusz",
+    "finish_time": "01:20:54",
+    "finish_seconds": 4854
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 405,
+    "name": "Bywater, Sam",
+    "finish_time": "01:20:58",
+    "finish_seconds": 4858
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 407,
+    "name": "Kowalczyk, Alan",
+    "finish_time": "01:20:59",
+    "finish_seconds": 4859
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 409,
+    "name": "Fr\u00f6hlich, Nik",
+    "finish_time": "01:21:04",
+    "finish_seconds": 4864
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 411,
+    "name": "Tabaka, Wojciech",
+    "finish_time": "01:21:08",
+    "finish_seconds": 4868
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 413,
+    "name": "Reiplinger, Alexander",
+    "finish_time": "01:21:15",
+    "finish_seconds": 4875
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 415,
+    "name": "Binder, Pawe\u0142",
+    "finish_time": "01:21:22",
+    "finish_seconds": 4882
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 417,
+    "name": "Mal\u00edk, Jakub",
+    "finish_time": "01:21:29",
+    "finish_seconds": 4889
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 419,
+    "name": "Grzelak, Mateusz",
+    "finish_time": "01:21:33",
+    "finish_seconds": 4893
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 421,
+    "name": "Pozdenkov, Petr",
+    "finish_time": "01:21:34",
+    "finish_seconds": 4894
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 423,
+    "name": "Niti\u0107, Aljo\u0161a",
+    "finish_time": "01:21:36",
+    "finish_seconds": 4896
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 425,
+    "name": "Jacewicz, Kamil",
+    "finish_time": "01:21:39",
+    "finish_seconds": 4899
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 427,
+    "name": "Potter, Jonathan",
+    "finish_time": "01:21:50",
+    "finish_seconds": 4910
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 429,
+    "name": "Cummings, James David",
+    "finish_time": "01:21:53",
+    "finish_seconds": 4913
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 431,
+    "name": "Kobylinski, Szymon",
+    "finish_time": "01:22:03",
+    "finish_seconds": 4923
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 433,
+    "name": "Lau, Thomas",
+    "finish_time": "01:22:05",
+    "finish_seconds": 4925
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 435,
+    "name": "Albino, Gon\u00e7alo",
+    "finish_time": "01:22:07",
+    "finish_seconds": 4927
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 437,
+    "name": "Kaczmarek, Pawe\u0142",
+    "finish_time": "01:22:09",
+    "finish_seconds": 4929
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 439,
+    "name": "Szopa, Mateusz",
+    "finish_time": "01:22:12",
+    "finish_seconds": 4932
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 441,
+    "name": "Hr\u00e1dek, Nick",
+    "finish_time": "01:22:14",
+    "finish_seconds": 4934
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 443,
+    "name": "Gadomski, Przemek",
+    "finish_time": "01:22:20",
+    "finish_seconds": 4940
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 445,
+    "name": "Sarosik, Andrzej",
+    "finish_time": "01:22:22",
+    "finish_seconds": 4942
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 447,
+    "name": "Andrzejewski, Tomasz",
+    "finish_time": "01:22:26",
+    "finish_seconds": 4946
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 449,
+    "name": "Lachowicz, Pawe\u0142",
+    "finish_time": "01:22:27",
+    "finish_seconds": 4947
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 451,
+    "name": "Aylett, Toby",
+    "finish_time": "01:22:27",
+    "finish_seconds": 4947
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 453,
+    "name": "Gajocha, Micha\u0142",
+    "finish_time": "01:22:34",
+    "finish_seconds": 4954
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 455,
+    "name": "Green, Ryan",
+    "finish_time": "01:22:37",
+    "finish_seconds": 4957
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 457,
+    "name": "Wr\u00f3blewski, Oskar",
+    "finish_time": "01:22:39",
+    "finish_seconds": 4959
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 459,
+    "name": "Perrin, Steve",
+    "finish_time": "01:22:42",
+    "finish_seconds": 4962
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 461,
+    "name": "Barnes, Graham",
+    "finish_time": "01:22:48",
+    "finish_seconds": 4968
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 463,
+    "name": "Kowalewicz, Jan",
+    "finish_time": "01:22:49",
+    "finish_seconds": 4969
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 465,
+    "name": "Davidson, Roy",
+    "finish_time": "01:22:55",
+    "finish_seconds": 4975
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 467,
+    "name": "B\u0142aszczyk, S\u0142awomir",
+    "finish_time": "01:22:59",
+    "finish_seconds": 4979
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 469,
+    "name": "Andrianos, Leonidas",
+    "finish_time": "01:23:00",
+    "finish_seconds": 4980
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 471,
+    "name": "Karbowski, Mateusz",
+    "finish_time": "01:23:04",
+    "finish_seconds": 4984
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 473,
+    "name": "Fairweather, Josh",
+    "finish_time": "01:23:06",
+    "finish_seconds": 4986
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 475,
+    "name": "Geistlich, Marko",
+    "finish_time": "01:23:15",
+    "finish_seconds": 4995
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 477,
+    "name": "Ka\u017amierczak, \u0141ukasz",
+    "finish_time": "01:23:16",
+    "finish_seconds": 4996
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 479,
+    "name": "Geerds, Bodo",
+    "finish_time": "01:23:24",
+    "finish_seconds": 5004
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 481,
+    "name": "Vaillant, Fran\u00e7ois",
+    "finish_time": "01:23:25",
+    "finish_seconds": 5005
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 483,
+    "name": "Minchev, Nikolay",
+    "finish_time": "01:23:35",
+    "finish_seconds": 5015
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 485,
+    "name": "Kostka, Maciej",
+    "finish_time": "01:23:43",
+    "finish_seconds": 5023
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 487,
+    "name": "Borzuta, Bartosz",
+    "finish_time": "01:23:45",
+    "finish_seconds": 5025
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 489,
+    "name": "Perzanowski, Jakub",
+    "finish_time": "01:23:46",
+    "finish_seconds": 5026
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 491,
+    "name": "Petuchovas, Pijus",
+    "finish_time": "01:23:49",
+    "finish_seconds": 5029
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 493,
+    "name": "Hylleborg, Thomas",
+    "finish_time": "01:23:51",
+    "finish_seconds": 5031
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 495,
+    "name": "Balcerek, Cezary",
+    "finish_time": "01:23:53",
+    "finish_seconds": 5033
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 497,
+    "name": "Idasiak, Oliwier",
+    "finish_time": "01:23:56",
+    "finish_seconds": 5036
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 499,
+    "name": "Br\u00f6tje, Steffen",
+    "finish_time": "01:24:01",
+    "finish_seconds": 5041
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 501,
+    "name": "Wi\u015bniewski, Bartosz",
+    "finish_time": "01:24:02",
+    "finish_seconds": 5042
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 503,
+    "name": "Kopcza, Marcin",
+    "finish_time": "01:24:03",
+    "finish_seconds": 5043
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 505,
+    "name": "Clauss, Steffen",
+    "finish_time": "01:24:10",
+    "finish_seconds": 5050
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 507,
+    "name": "Kapral, Rafa\u0142",
+    "finish_time": "01:24:11",
+    "finish_seconds": 5051
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 509,
+    "name": "Bielawski, Marcin",
+    "finish_time": "01:24:14",
+    "finish_seconds": 5054
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 511,
+    "name": "Wood, Anthony",
+    "finish_time": "01:24:18",
+    "finish_seconds": 5058
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 513,
+    "name": "Drag, Mateusz",
+    "finish_time": "01:24:26",
+    "finish_seconds": 5066
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 515,
+    "name": "Teodorowski, Kamil",
+    "finish_time": "01:24:33",
+    "finish_seconds": 5073
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 517,
+    "name": "Gniadek, Mateusz",
+    "finish_time": "01:24:33",
+    "finish_seconds": 5073
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 519,
+    "name": "Kami\u0144ski, Jacek",
+    "finish_time": "01:24:37",
+    "finish_seconds": 5077
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 521,
+    "name": "Camilleri, Dirk",
+    "finish_time": "01:24:40",
+    "finish_seconds": 5080
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 523,
+    "name": "Wieczorek, Tomasz",
+    "finish_time": "01:24:41",
+    "finish_seconds": 5081
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 525,
+    "name": "Kelly, John",
+    "finish_time": "01:24:50",
+    "finish_seconds": 5090
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 527,
+    "name": "Girault, Corentin",
+    "finish_time": "01:24:52",
+    "finish_seconds": 5092
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 529,
+    "name": "G\u00f3\u017ad\u017a, Rados\u0142aw",
+    "finish_time": "01:24:55",
+    "finish_seconds": 5095
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 531,
+    "name": "\u015aliwi\u0144ski, Kamil",
+    "finish_time": "01:24:58",
+    "finish_seconds": 5098
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 533,
+    "name": "Diebelius, Mike",
+    "finish_time": "01:25:06",
+    "finish_seconds": 5106
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 535,
+    "name": "Shaw, Miles",
+    "finish_time": "01:25:11",
+    "finish_seconds": 5111
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 537,
+    "name": "Podg\u00f3rski, Kamil",
+    "finish_time": "01:25:12",
+    "finish_seconds": 5112
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 539,
+    "name": "Jablonski, Dirk",
+    "finish_time": "01:25:16",
+    "finish_seconds": 5116
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 541,
+    "name": "Pabijasz, B\u0142a\u017cej",
+    "finish_time": "01:25:18",
+    "finish_seconds": 5118
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 543,
+    "name": "Janou\u0161ek, Tom\u00e1\u0161",
+    "finish_time": "01:25:21",
+    "finish_seconds": 5121
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 545,
+    "name": "\u017bytkowiak, Micha\u0142",
+    "finish_time": "01:25:24",
+    "finish_seconds": 5124
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 547,
+    "name": "\u0158ehan, Prokop",
+    "finish_time": "01:25:25",
+    "finish_seconds": 5125
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 549,
+    "name": "Piwowski, Maciej",
+    "finish_time": "01:25:30",
+    "finish_seconds": 5130
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 551,
+    "name": "Clarke, Paul",
+    "finish_time": "01:25:33",
+    "finish_seconds": 5133
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 553,
+    "name": "Papierz, Mateusz",
+    "finish_time": "01:25:34",
+    "finish_seconds": 5134
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 555,
+    "name": "Jakubczyk, Maciej",
+    "finish_time": "01:25:36",
+    "finish_seconds": 5136
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 557,
+    "name": "Sz\u00f3stak, Micha\u0142",
+    "finish_time": "01:25:39",
+    "finish_seconds": 5139
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 559,
+    "name": "Widomski, Adam",
+    "finish_time": "01:25:42",
+    "finish_seconds": 5142
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 561,
+    "name": "Kaczmarek, Wojciech",
+    "finish_time": "01:25:42",
+    "finish_seconds": 5142
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 563,
+    "name": "Bartoszewicz, Jakub",
+    "finish_time": "01:25:43",
+    "finish_seconds": 5143
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 565,
+    "name": "\u0160pa\u010dek, Radim",
+    "finish_time": "01:25:47",
+    "finish_seconds": 5147
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 567,
+    "name": "Karlik, Piotr",
+    "finish_time": "01:25:54",
+    "finish_seconds": 5154
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 569,
+    "name": "Larbes, Fay\u00e7al",
+    "finish_time": "01:26:03",
+    "finish_seconds": 5163
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 571,
+    "name": "Fenech, Ian",
+    "finish_time": "01:26:07",
+    "finish_seconds": 5167
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 573,
+    "name": "Wi\u015bniowski, Patryk",
+    "finish_time": "01:26:13",
+    "finish_seconds": 5173
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 575,
+    "name": "Williams, Jack",
+    "finish_time": "01:26:13",
+    "finish_seconds": 5173
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 577,
+    "name": "Ay, Mustafa",
+    "finish_time": "01:26:20",
+    "finish_seconds": 5180
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 579,
+    "name": "Edwards, Keith",
+    "finish_time": "01:26:23",
+    "finish_seconds": 5183
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 581,
+    "name": "Hoffgunst, Kacper",
+    "finish_time": "01:26:32",
+    "finish_seconds": 5192
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 583,
+    "name": "Arries, Aiden",
+    "finish_time": "01:26:36",
+    "finish_seconds": 5196
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 585,
+    "name": "Matusiak, Marcin",
+    "finish_time": "01:26:39",
+    "finish_seconds": 5199
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 587,
+    "name": "Wojtaszczyk, Mateusz",
+    "finish_time": "01:26:40",
+    "finish_seconds": 5200
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 589,
+    "name": "Klonowski, Kamil",
+    "finish_time": "01:26:44",
+    "finish_seconds": 5204
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 591,
+    "name": "Malec, Bart\u0142omiej",
+    "finish_time": "01:26:52",
+    "finish_seconds": 5212
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 593,
+    "name": "Wodiany, Kacper",
+    "finish_time": "01:26:57",
+    "finish_seconds": 5217
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 595,
+    "name": "Wydra, Dariusz",
+    "finish_time": "01:26:59",
+    "finish_seconds": 5219
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 597,
+    "name": "Niekraszewicz, Konstanty",
+    "finish_time": "01:27:01",
+    "finish_seconds": 5221
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 599,
+    "name": "B\u0142azej, Rafal",
+    "finish_time": "01:27:05",
+    "finish_seconds": 5225
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 601,
+    "name": "Bar, Wojciech",
+    "finish_time": "01:27:08",
+    "finish_seconds": 5228
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 603,
+    "name": "Niezg\u00f3dka, Piotr",
+    "finish_time": "01:27:11",
+    "finish_seconds": 5231
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 605,
+    "name": "Hrynkiewicz, S\u0142awomir",
+    "finish_time": "01:27:13",
+    "finish_seconds": 5233
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 607,
+    "name": "Augustyn, Jan",
+    "finish_time": "01:27:16",
+    "finish_seconds": 5236
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 609,
+    "name": "W\u00f3jciak, Andrzej",
+    "finish_time": "01:27:27",
+    "finish_seconds": 5247
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 611,
+    "name": "Lament, Adrian",
+    "finish_time": "01:27:28",
+    "finish_seconds": 5248
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 613,
+    "name": "Roberts, Terry",
+    "finish_time": "01:27:34",
+    "finish_seconds": 5254
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 615,
+    "name": "Hoelzel, Joey",
+    "finish_time": "01:27:37",
+    "finish_seconds": 5257
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 617,
+    "name": "Gur\u0161pons, Kristers",
+    "finish_time": "01:27:42",
+    "finish_seconds": 5262
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 619,
+    "name": "Barrett, Anton",
+    "finish_time": "01:27:47",
+    "finish_seconds": 5267
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 621,
+    "name": "Ogrodowczyk, Marcin",
+    "finish_time": "01:27:51",
+    "finish_seconds": 5271
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 623,
+    "name": "Spiteri, Trevor",
+    "finish_time": "01:27:54",
+    "finish_seconds": 5274
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 625,
+    "name": "Stadum, Mads",
+    "finish_time": "01:27:55",
+    "finish_seconds": 5275
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 627,
+    "name": "Riahi, Meki",
+    "finish_time": "01:27:58",
+    "finish_seconds": 5278
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 629,
+    "name": "P\u0119dzik, Maciej",
+    "finish_time": "01:28:08",
+    "finish_seconds": 5288
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 631,
+    "name": "Giero\u0144, Bart\u0142omiej",
+    "finish_time": "01:28:15",
+    "finish_seconds": 5295
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 633,
+    "name": "Davies, Dylan",
+    "finish_time": "01:28:21",
+    "finish_seconds": 5301
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 635,
+    "name": "Sampson, Mark",
+    "finish_time": "01:28:24",
+    "finish_seconds": 5304
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 637,
+    "name": "Dobrowolski, Wiktor",
+    "finish_time": "01:28:24",
+    "finish_seconds": 5304
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 639,
+    "name": "Driscoll, Oscar",
+    "finish_time": "01:28:27",
+    "finish_seconds": 5307
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 641,
+    "name": "Gerowski, Maciej",
+    "finish_time": "01:28:30",
+    "finish_seconds": 5310
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 643,
+    "name": "Kostrzewski, Artur",
+    "finish_time": "01:28:33",
+    "finish_seconds": 5313
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 645,
+    "name": "Bagi\u0144ski, Micha\u0142",
+    "finish_time": "01:28:38",
+    "finish_seconds": 5318
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 647,
+    "name": "Zdrojewski, Pawe\u0142",
+    "finish_time": "01:28:39",
+    "finish_seconds": 5319
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 649,
+    "name": "Le The, Patryk",
+    "finish_time": "01:28:42",
+    "finish_seconds": 5322
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 651,
+    "name": "Bates, Nicholas",
+    "finish_time": "01:28:43",
+    "finish_seconds": 5323
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 653,
+    "name": "Grzeca, Micha\u0142",
+    "finish_time": "01:28:44",
+    "finish_seconds": 5324
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 655,
+    "name": "Witek, Damian",
+    "finish_time": "01:28:52",
+    "finish_seconds": 5332
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 657,
+    "name": "Pasieka, Damian",
+    "finish_time": "01:28:56",
+    "finish_seconds": 5336
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 659,
+    "name": "Andrianos, Marios",
+    "finish_time": "01:28:56",
+    "finish_seconds": 5336
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 661,
+    "name": "Mikolajek, Robert",
+    "finish_time": "01:29:00",
+    "finish_seconds": 5340
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 663,
+    "name": "Bijok, Micha\u0142",
+    "finish_time": "01:29:04",
+    "finish_seconds": 5344
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 665,
+    "name": "Judge, Thomas",
+    "finish_time": "01:29:09",
+    "finish_seconds": 5349
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 667,
+    "name": "Fleszar, Marcin",
+    "finish_time": "01:29:13",
+    "finish_seconds": 5353
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 669,
+    "name": "Grabowski, Damian",
+    "finish_time": "01:29:13",
+    "finish_seconds": 5353
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 671,
+    "name": "Filipczak, Kamil",
+    "finish_time": "01:29:22",
+    "finish_seconds": 5362
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 673,
+    "name": "Najmo\u0142a, Wiktor",
+    "finish_time": "01:29:27",
+    "finish_seconds": 5367
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 675,
+    "name": "Pawlukiewicz, Aleksander",
+    "finish_time": "01:29:30",
+    "finish_seconds": 5370
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 677,
+    "name": "Allan, Tom",
+    "finish_time": "01:29:35",
+    "finish_seconds": 5375
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 679,
+    "name": "Chram\u0119ga, Krystian",
+    "finish_time": "01:29:36",
+    "finish_seconds": 5376
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 681,
+    "name": "O Farrell, Sean",
+    "finish_time": "01:29:43",
+    "finish_seconds": 5383
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 683,
+    "name": "Redlarski, Szymon",
+    "finish_time": "01:29:45",
+    "finish_seconds": 5385
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 685,
+    "name": "Sainsbury, Josh",
+    "finish_time": "01:29:49",
+    "finish_seconds": 5389
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 687,
+    "name": "Staroszy\u0144ski, Dawid",
+    "finish_time": "01:29:51",
+    "finish_seconds": 5391
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 689,
+    "name": "Perez, Norbert",
+    "finish_time": "01:29:56",
+    "finish_seconds": 5396
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 691,
+    "name": "Roux, Sylvain",
+    "finish_time": "01:30:04",
+    "finish_seconds": 5404
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 693,
+    "name": "J\u00e4nsch, Torsten",
+    "finish_time": "01:30:09",
+    "finish_seconds": 5409
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 695,
+    "name": "Antwi, Nana Owusu",
+    "finish_time": "01:30:11",
+    "finish_seconds": 5411
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 697,
+    "name": "Garbarczyk, Marcel",
+    "finish_time": "01:30:19",
+    "finish_seconds": 5419
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 699,
+    "name": "Dudek, Krzysztof",
+    "finish_time": "01:30:22",
+    "finish_seconds": 5422
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 701,
+    "name": "Dubsk\u00fd, Dominik",
+    "finish_time": "01:30:25",
+    "finish_seconds": 5425
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 703,
+    "name": "Grygier, Pawe\u0142",
+    "finish_time": "01:30:27",
+    "finish_seconds": 5427
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 705,
+    "name": "Lepskyi, Mykhailo",
+    "finish_time": "01:30:29",
+    "finish_seconds": 5429
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 707,
+    "name": "Pietrzak, Ireneusz",
+    "finish_time": "01:30:32",
+    "finish_seconds": 5432
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 709,
+    "name": "Will, Marcin",
+    "finish_time": "01:30:33",
+    "finish_seconds": 5433
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 711,
+    "name": "Dobrowolski, Micha\u0142",
+    "finish_time": "01:30:37",
+    "finish_seconds": 5437
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 713,
+    "name": "Olsen, Thomas",
+    "finish_time": "01:30:44",
+    "finish_seconds": 5444
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 715,
+    "name": "Liszewski, Rafa\u0142",
+    "finish_time": "01:30:51",
+    "finish_seconds": 5451
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 717,
+    "name": "Heinsohn, Sascha",
+    "finish_time": "01:30:52",
+    "finish_seconds": 5452
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 719,
+    "name": "Garbowski, Adam",
+    "finish_time": "01:30:55",
+    "finish_seconds": 5455
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 721,
+    "name": "Bartczak, Jan",
+    "finish_time": "01:31:02",
+    "finish_seconds": 5462
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 723,
+    "name": "Skarba, Grzegorz",
+    "finish_time": "01:31:07",
+    "finish_seconds": 5467
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 725,
+    "name": "Butkiewicz, Pawe\u0142",
+    "finish_time": "01:31:08",
+    "finish_seconds": 5468
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 727,
+    "name": "Jab\u0142o\u0144ski, Piotr",
+    "finish_time": "01:31:16",
+    "finish_seconds": 5476
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 729,
+    "name": "B\u0142aziak, Rafa\u0142",
+    "finish_time": "01:31:22",
+    "finish_seconds": 5482
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 731,
+    "name": "Pukalak, Jan",
+    "finish_time": "01:31:27",
+    "finish_seconds": 5487
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 733,
+    "name": "Hodt, Maciej",
+    "finish_time": "01:31:32",
+    "finish_seconds": 5492
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 735,
+    "name": "Poczekajski, Pawe\u0142",
+    "finish_time": "01:31:33",
+    "finish_seconds": 5493
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 737,
+    "name": "\u0141ozi\u0144ski, Kamil",
+    "finish_time": "01:31:36",
+    "finish_seconds": 5496
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 739,
+    "name": "Zajdlicz, Tomasz",
+    "finish_time": "01:31:43",
+    "finish_seconds": 5503
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 741,
+    "name": "Schroeter, Nils",
+    "finish_time": "01:31:45",
+    "finish_seconds": 5505
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 743,
+    "name": "Mate\u0144ko, Bartosz",
+    "finish_time": "01:31:46",
+    "finish_seconds": 5506
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 745,
+    "name": "Thomas, Damien",
+    "finish_time": "01:31:59",
+    "finish_seconds": 5519
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 747,
+    "name": "Chimm, Otto",
+    "finish_time": "01:32:02",
+    "finish_seconds": 5522
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 749,
+    "name": "Czubak, Maciej",
+    "finish_time": "01:32:04",
+    "finish_seconds": 5524
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 751,
+    "name": "Lewi\u0144ski, Micha\u0142",
+    "finish_time": "01:32:07",
+    "finish_seconds": 5527
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 753,
+    "name": "Sporny, Jakub",
+    "finish_time": "01:32:13",
+    "finish_seconds": 5533
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 755,
+    "name": "Sutkowski, Piotr",
+    "finish_time": "01:32:15",
+    "finish_seconds": 5535
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 757,
+    "name": "Taterka, Janusz",
+    "finish_time": "01:32:18",
+    "finish_seconds": 5538
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 759,
+    "name": "Kuberski, Jakub",
+    "finish_time": "01:32:20",
+    "finish_seconds": 5540
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 761,
+    "name": "Przykucki, Tomasz",
+    "finish_time": "01:32:22",
+    "finish_seconds": 5542
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 763,
+    "name": "Wielog\u00f3rski, Mateusz",
+    "finish_time": "01:32:30",
+    "finish_seconds": 5550
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 765,
+    "name": "Ska\u0142ecki, Grzegorz",
+    "finish_time": "01:32:31",
+    "finish_seconds": 5551
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 767,
+    "name": "Su\u0142kowski, Piotr",
+    "finish_time": "01:32:34",
+    "finish_seconds": 5554
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 769,
+    "name": "Zalewski, Micha\u0142",
+    "finish_time": "01:32:37",
+    "finish_seconds": 5557
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 771,
+    "name": "Pilipczuk, Marcin",
+    "finish_time": "01:32:44",
+    "finish_seconds": 5564
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 773,
+    "name": "Smitrius, Saulius",
+    "finish_time": "01:32:49",
+    "finish_seconds": 5569
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 775,
+    "name": "G\u00e1pa, Petr",
+    "finish_time": "01:32:52",
+    "finish_seconds": 5572
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 777,
+    "name": "Few, David",
+    "finish_time": "01:32:55",
+    "finish_seconds": 5575
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 779,
+    "name": "Lirka, Tomasz",
+    "finish_time": "01:32:58",
+    "finish_seconds": 5578
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 781,
+    "name": "Filipczak, Micha\u0142",
+    "finish_time": "01:33:04",
+    "finish_seconds": 5584
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 783,
+    "name": "Engel, Oliver",
+    "finish_time": "01:33:07",
+    "finish_seconds": 5587
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 785,
+    "name": "Jones, Celvin",
+    "finish_time": "01:33:23",
+    "finish_seconds": 5603
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 787,
+    "name": "Mcmurchy, William",
+    "finish_time": "01:33:36",
+    "finish_seconds": 5616
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 789,
+    "name": "Kobylka, Jakub",
+    "finish_time": "01:33:44",
+    "finish_seconds": 5624
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 791,
+    "name": "Przybylski, Micha\u0142",
+    "finish_time": "01:33:46",
+    "finish_seconds": 5626
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 793,
+    "name": "Ko\u0159\u00ednek, Martin",
+    "finish_time": "01:33:51",
+    "finish_seconds": 5631
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 795,
+    "name": "Zalewski, Sylwester",
+    "finish_time": "01:33:54",
+    "finish_seconds": 5634
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 797,
+    "name": "Olszewski, Piotr",
+    "finish_time": "01:33:55",
+    "finish_seconds": 5635
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 799,
+    "name": "Heinz, Tom\u00e1\u0161",
+    "finish_time": "01:33:57",
+    "finish_seconds": 5637
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 801,
+    "name": "Bzduch, Martin",
+    "finish_time": "01:33:59",
+    "finish_seconds": 5639
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 803,
+    "name": "Sakoulias, Theo",
+    "finish_time": "01:34:06",
+    "finish_seconds": 5646
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 805,
+    "name": "Bielawski, Jaros\u0142aw",
+    "finish_time": "01:34:08",
+    "finish_seconds": 5648
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 807,
+    "name": "Sobczak, Rafa\u0142",
+    "finish_time": "01:34:20",
+    "finish_seconds": 5660
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 809,
+    "name": "Go\u0142\u0119biowski, Krzysztof",
+    "finish_time": "01:34:31",
+    "finish_seconds": 5671
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 811,
+    "name": "Ma\u0107kowiak, Marcin",
+    "finish_time": "01:34:32",
+    "finish_seconds": 5672
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 813,
+    "name": "Cali\u0144ski, Tomasz",
+    "finish_time": "01:34:36",
+    "finish_seconds": 5676
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 815,
+    "name": "Szczepa\u0144ski, Krystian",
+    "finish_time": "01:34:37",
+    "finish_seconds": 5677
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 817,
+    "name": "Grzesiak, Rafa\u0142",
+    "finish_time": "01:34:44",
+    "finish_seconds": 5684
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 819,
+    "name": "Pietrzak, \u0141ukasz",
+    "finish_time": "01:34:47",
+    "finish_seconds": 5687
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 821,
+    "name": "Plaut, Tristan",
+    "finish_time": "01:34:51",
+    "finish_seconds": 5691
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 823,
+    "name": "Kobalczyk, Maciej",
+    "finish_time": "01:34:57",
+    "finish_seconds": 5697
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 825,
+    "name": "Pajdo, Piotr",
+    "finish_time": "01:35:01",
+    "finish_seconds": 5701
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 827,
+    "name": "Kawa, Aleksander",
+    "finish_time": "01:35:03",
+    "finish_seconds": 5703
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 829,
+    "name": "Gwarny, Jaros\u0142aw",
+    "finish_time": "01:35:04",
+    "finish_seconds": 5704
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 831,
+    "name": "Grudzie\u0144, Micha\u0142",
+    "finish_time": "01:35:15",
+    "finish_seconds": 5715
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 833,
+    "name": "Dekondy, Mariusz",
+    "finish_time": "01:35:20",
+    "finish_seconds": 5720
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 835,
+    "name": "Bojarski, Adam",
+    "finish_time": "01:35:22",
+    "finish_seconds": 5722
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 837,
+    "name": "Eidukas, Eugenijus",
+    "finish_time": "01:35:24",
+    "finish_seconds": 5724
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 839,
+    "name": "Sikorski, Patryk",
+    "finish_time": "01:35:32",
+    "finish_seconds": 5732
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 841,
+    "name": "Malinowski, Rafa\u0142",
+    "finish_time": "01:35:34",
+    "finish_seconds": 5734
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 843,
+    "name": "Jab\u0142o\u0144ski, Patryk",
+    "finish_time": "01:35:36",
+    "finish_seconds": 5736
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 845,
+    "name": "Wojciechowski, Piotr",
+    "finish_time": "01:35:47",
+    "finish_seconds": 5747
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 847,
+    "name": "Ghidini, Jacopo",
+    "finish_time": "01:35:47",
+    "finish_seconds": 5747
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 849,
+    "name": "Bodnar, Adrian",
+    "finish_time": "01:35:53",
+    "finish_seconds": 5753
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 851,
+    "name": "Rusilas, Lukas",
+    "finish_time": "01:35:57",
+    "finish_seconds": 5757
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 853,
+    "name": "Cao, Gabriel",
+    "finish_time": "01:36:01",
+    "finish_seconds": 5761
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 855,
+    "name": "Grinkevi\u010dius, Tautvydas",
+    "finish_time": "01:36:07",
+    "finish_seconds": 5767
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 857,
+    "name": "Jakubowski, Pawel",
+    "finish_time": "01:36:12",
+    "finish_seconds": 5772
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 859,
+    "name": "Gondek, Pawe\u0142",
+    "finish_time": "01:36:16",
+    "finish_seconds": 5776
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 861,
+    "name": "Nila, Jason",
+    "finish_time": "01:36:21",
+    "finish_seconds": 5781
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 863,
+    "name": "Biernacki, Pawe\u0142",
+    "finish_time": "01:36:26",
+    "finish_seconds": 5786
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 865,
+    "name": "Chalmers, Stewart",
+    "finish_time": "01:36:34",
+    "finish_seconds": 5794
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 867,
+    "name": "Zelcev, Bojan",
+    "finish_time": "01:36:41",
+    "finish_seconds": 5801
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 869,
+    "name": "Bieniek, Rafa\u0142",
+    "finish_time": "01:36:45",
+    "finish_seconds": 5805
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 871,
+    "name": "Grochalak, Mariusz",
+    "finish_time": "01:36:57",
+    "finish_seconds": 5817
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 873,
+    "name": "Sharp, Graeme",
+    "finish_time": "01:37:01",
+    "finish_seconds": 5821
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 875,
+    "name": "Krawczyk, Adrian",
+    "finish_time": "01:37:02",
+    "finish_seconds": 5822
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 877,
+    "name": "Jankowski, Maciej",
+    "finish_time": "01:37:05",
+    "finish_seconds": 5825
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 879,
+    "name": "Bia\u0142kowski, Wiktor",
+    "finish_time": "01:37:08",
+    "finish_seconds": 5828
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 881,
+    "name": "Ryniewicz, Pawe\u0142",
+    "finish_time": "01:37:19",
+    "finish_seconds": 5839
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 883,
+    "name": "Janiak, Micha\u0142",
+    "finish_time": "01:37:22",
+    "finish_seconds": 5842
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 885,
+    "name": "Harrison, Paul",
+    "finish_time": "01:37:25",
+    "finish_seconds": 5845
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 887,
+    "name": "Imbierowicz, Maciej",
+    "finish_time": "01:37:26",
+    "finish_seconds": 5846
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 889,
+    "name": "Szopi\u0144ski, Aleksander",
+    "finish_time": "01:37:29",
+    "finish_seconds": 5849
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 891,
+    "name": "Koper, Marcin",
+    "finish_time": "01:37:33",
+    "finish_seconds": 5853
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 893,
+    "name": "Ho\u0142da, Dominik",
+    "finish_time": "01:37:53",
+    "finish_seconds": 5873
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 895,
+    "name": "Ka\u0142u\u017ca, \u0141ukasz",
+    "finish_time": "01:38:03",
+    "finish_seconds": 5883
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 897,
+    "name": "Kubczak, Janek",
+    "finish_time": "01:38:05",
+    "finish_seconds": 5885
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 899,
+    "name": "Fatura, Jan",
+    "finish_time": "01:38:14",
+    "finish_seconds": 5894
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 901,
+    "name": "Augustynowicz, Andrzej",
+    "finish_time": "01:38:17",
+    "finish_seconds": 5897
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 903,
+    "name": "Pieprzyk, Pawe\u0142",
+    "finish_time": "01:38:20",
+    "finish_seconds": 5900
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 905,
+    "name": "Oszal, Wojciech",
+    "finish_time": "01:38:31",
+    "finish_seconds": 5911
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 907,
+    "name": "Witkowski, Filip",
+    "finish_time": "01:38:35",
+    "finish_seconds": 5915
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 909,
+    "name": "Oliver, Herbie",
+    "finish_time": "01:38:42",
+    "finish_seconds": 5922
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 911,
+    "name": "Sikora, Rafa\u0142",
+    "finish_time": "01:38:43",
+    "finish_seconds": 5923
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 913,
+    "name": "Sieradzki, Wojciech",
+    "finish_time": "01:38:45",
+    "finish_seconds": 5925
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 915,
+    "name": "Figza\u0142, Emil",
+    "finish_time": "01:38:49",
+    "finish_seconds": 5929
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 917,
+    "name": "Mr\u00f3z, Mateusz",
+    "finish_time": "01:38:53",
+    "finish_seconds": 5933
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 919,
+    "name": "Kulesza, Grzegorz",
+    "finish_time": "01:38:56",
+    "finish_seconds": 5936
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 921,
+    "name": "Szczepaniak, Adam",
+    "finish_time": "01:39:06",
+    "finish_seconds": 5946
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 923,
+    "name": "Stasierski, Marcel",
+    "finish_time": "01:39:10",
+    "finish_seconds": 5950
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 925,
+    "name": "Ivanovas, Olegas",
+    "finish_time": "01:39:19",
+    "finish_seconds": 5959
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 927,
+    "name": "Karafiol, Marek",
+    "finish_time": "01:39:25",
+    "finish_seconds": 5965
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 929,
+    "name": "Sopy\u0142a, Kamil",
+    "finish_time": "01:39:33",
+    "finish_seconds": 5973
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 931,
+    "name": "Mikalauskas, Paulius",
+    "finish_time": "01:39:43",
+    "finish_seconds": 5983
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 933,
+    "name": "Dyba, Tomasz",
+    "finish_time": "01:39:49",
+    "finish_seconds": 5989
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 935,
+    "name": "M\u0142odzik, Dariusz",
+    "finish_time": "01:40:01",
+    "finish_seconds": 6001
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 937,
+    "name": "Kreft, Adrian",
+    "finish_time": "01:40:04",
+    "finish_seconds": 6004
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 939,
+    "name": "Roszkiewicz, Krzysztof",
+    "finish_time": "01:40:07",
+    "finish_seconds": 6007
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 941,
+    "name": "Habraszka, Mateusz",
+    "finish_time": "01:40:24",
+    "finish_seconds": 6024
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 943,
+    "name": "Jakubowicz, Szymon",
+    "finish_time": "01:40:27",
+    "finish_seconds": 6027
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 945,
+    "name": "Spi\u017c, Cezary",
+    "finish_time": "01:40:30",
+    "finish_seconds": 6030
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "M",
+    "rank": 947,
+    "name": "Kaminiczny, Damian",
+    "finish_time": "01:40:34",
+    "finish_seconds": 6034
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 1,
+    "name": "Pommerening, Lea",
+    "finish_time": "00:59:52",
+    "finish_seconds": 3592
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 3,
+    "name": "Otto, Rike",
+    "finish_time": "01:05:58",
+    "finish_seconds": 3958
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 5,
+    "name": "Smith, Kelli",
+    "finish_time": "01:07:49",
+    "finish_seconds": 4069
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 7,
+    "name": "Penza, Maria",
+    "finish_time": "01:08:39",
+    "finish_seconds": 4119
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 9,
+    "name": "Fagan, Ciara",
+    "finish_time": "01:09:18",
+    "finish_seconds": 4158
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 11,
+    "name": "Kozon, Zuzanna",
+    "finish_time": "01:09:26",
+    "finish_seconds": 4166
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 13,
+    "name": "Kiprijanovski, Wiktoria",
+    "finish_time": "01:10:06",
+    "finish_seconds": 4206
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 15,
+    "name": "Kawalec, Anna",
+    "finish_time": "01:11:14",
+    "finish_seconds": 4274
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 17,
+    "name": "Kasprzak, Maria",
+    "finish_time": "01:11:27",
+    "finish_seconds": 4287
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 19,
+    "name": "Dzikowicz, Magdalena",
+    "finish_time": "01:12:31",
+    "finish_seconds": 4351
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 21,
+    "name": "Jadczak, Monika",
+    "finish_time": "01:12:44",
+    "finish_seconds": 4364
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 23,
+    "name": "Kie\u0142kucka, Anna",
+    "finish_time": "01:12:45",
+    "finish_seconds": 4365
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 25,
+    "name": "Turowicz, Izabela",
+    "finish_time": "01:13:47",
+    "finish_seconds": 4427
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 27,
+    "name": "Go\u0142\u0119biewska, Oliwia",
+    "finish_time": "01:13:52",
+    "finish_seconds": 4432
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 29,
+    "name": "Halska, Anna",
+    "finish_time": "01:14:09",
+    "finish_seconds": 4449
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 31,
+    "name": "Jankowska, Ma\u0142gorzata",
+    "finish_time": "01:14:31",
+    "finish_seconds": 4471
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 33,
+    "name": "Krahnenfeld, Michelle",
+    "finish_time": "01:14:44",
+    "finish_seconds": 4484
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 35,
+    "name": "Skibicka, Monika",
+    "finish_time": "01:15:09",
+    "finish_seconds": 4509
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 37,
+    "name": "Morkunaite, Marija",
+    "finish_time": "01:15:39",
+    "finish_seconds": 4539
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 39,
+    "name": "Malinen, Selina",
+    "finish_time": "01:16:09",
+    "finish_seconds": 4569
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 41,
+    "name": "Vigilante, Valentina",
+    "finish_time": "01:16:33",
+    "finish_seconds": 4593
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 43,
+    "name": "Kruk, Marta",
+    "finish_time": "01:16:43",
+    "finish_seconds": 4603
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 45,
+    "name": "Ma\u0107kowiak, El\u017cbieta",
+    "finish_time": "01:16:54",
+    "finish_seconds": 4614
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 47,
+    "name": "Truszkowska, Marta",
+    "finish_time": "01:16:58",
+    "finish_seconds": 4618
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 49,
+    "name": "Krause \u0160ikolov\u00e1, Nat\u00e1lie",
+    "finish_time": "01:16:59",
+    "finish_seconds": 4619
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 51,
+    "name": "Morawska, Julita",
+    "finish_time": "01:17:18",
+    "finish_seconds": 4638
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 53,
+    "name": "S\u0142upek, Edyta",
+    "finish_time": "01:17:27",
+    "finish_seconds": 4647
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 55,
+    "name": "Petersen, Maike",
+    "finish_time": "01:17:46",
+    "finish_seconds": 4666
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 57,
+    "name": "Betkier, Ewa",
+    "finish_time": "01:18:04",
+    "finish_seconds": 4684
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 59,
+    "name": "Price, Zoe",
+    "finish_time": "01:18:10",
+    "finish_seconds": 4690
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 61,
+    "name": "Hanson, Carina",
+    "finish_time": "01:18:20",
+    "finish_seconds": 4700
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 63,
+    "name": "Chodyna, Monika",
+    "finish_time": "01:18:28",
+    "finish_seconds": 4708
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 65,
+    "name": "Clark, Emily",
+    "finish_time": "01:18:43",
+    "finish_seconds": 4723
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 67,
+    "name": "Witecka, Nina",
+    "finish_time": "01:18:58",
+    "finish_seconds": 4738
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 69,
+    "name": "Wiecko, Justyna",
+    "finish_time": "01:19:01",
+    "finish_seconds": 4741
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 71,
+    "name": "Tomaszewska, Natalia",
+    "finish_time": "01:19:17",
+    "finish_seconds": 4757
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 73,
+    "name": "Miskiniene, Rita",
+    "finish_time": "01:19:27",
+    "finish_seconds": 4767
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 75,
+    "name": "Reguliova, Vlasta",
+    "finish_time": "01:19:44",
+    "finish_seconds": 4784
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 77,
+    "name": "Bruce, Anna",
+    "finish_time": "01:20:00",
+    "finish_seconds": 4800
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 79,
+    "name": "Kleparska, Aleksandra",
+    "finish_time": "01:20:08",
+    "finish_seconds": 4808
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 81,
+    "name": "Kyriacou, Efthimia",
+    "finish_time": "01:20:30",
+    "finish_seconds": 4830
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 83,
+    "name": "Soja, Judyta",
+    "finish_time": "01:20:38",
+    "finish_seconds": 4838
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 85,
+    "name": "Kasalov\u00e1, Tereza",
+    "finish_time": "01:20:48",
+    "finish_seconds": 4848
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 87,
+    "name": "Staszulonek, Karolina",
+    "finish_time": "01:21:02",
+    "finish_seconds": 4862
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 89,
+    "name": "B\u0142a\u017c, Anna",
+    "finish_time": "01:21:07",
+    "finish_seconds": 4867
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 91,
+    "name": "Schejbalov\u00e1, Dana",
+    "finish_time": "01:21:10",
+    "finish_seconds": 4870
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 93,
+    "name": "Banda\u0142a, Ola",
+    "finish_time": "01:21:30",
+    "finish_seconds": 4890
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 95,
+    "name": "Komorowska, Adrianna",
+    "finish_time": "01:21:41",
+    "finish_seconds": 4901
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 97,
+    "name": "Tomait\u0117-Svipien\u0117, Laura",
+    "finish_time": "01:21:47",
+    "finish_seconds": 4907
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 99,
+    "name": "Hnyda, Martyna",
+    "finish_time": "01:21:48",
+    "finish_seconds": 4908
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 101,
+    "name": "Stec, Nikola",
+    "finish_time": "01:21:48",
+    "finish_seconds": 4908
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 103,
+    "name": "Krawiec, Agnieszka",
+    "finish_time": "01:22:32",
+    "finish_seconds": 4952
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 105,
+    "name": "D\u0105bkowska, Zuzanna",
+    "finish_time": "01:22:46",
+    "finish_seconds": 4966
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 107,
+    "name": "Siwek, Karina",
+    "finish_time": "01:23:02",
+    "finish_seconds": 4982
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 109,
+    "name": "Sianos, Kasia",
+    "finish_time": "01:23:07",
+    "finish_seconds": 4987
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 111,
+    "name": "Kaczmarek, Aleksandra",
+    "finish_time": "01:23:14",
+    "finish_seconds": 4994
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 113,
+    "name": "Rezlerska, Dominika",
+    "finish_time": "01:23:21",
+    "finish_seconds": 5001
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 115,
+    "name": "Gierach, Sylwia",
+    "finish_time": "01:23:27",
+    "finish_seconds": 5007
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 117,
+    "name": "Piwonska, Julita",
+    "finish_time": "01:23:34",
+    "finish_seconds": 5014
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 119,
+    "name": "\u039a\u03b1\u03bb\u03c4\u03b5\u03ba\u03b7, \u039a\u03b1\u03c4\u03b5\u03c1\u03b9\u03bd\u03b1",
+    "finish_time": "01:23:44",
+    "finish_seconds": 5024
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 121,
+    "name": "Sasaki, Chiharu",
+    "finish_time": "01:23:46",
+    "finish_seconds": 5026
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 123,
+    "name": "Kociszewska, Magdalena",
+    "finish_time": "01:23:58",
+    "finish_seconds": 5038
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 125,
+    "name": "W\u0105s, Renata",
+    "finish_time": "01:24:01",
+    "finish_seconds": 5041
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 127,
+    "name": "Skutnik, Klaudia",
+    "finish_time": "01:24:21",
+    "finish_seconds": 5061
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 129,
+    "name": "Flaszka, Sara",
+    "finish_time": "01:24:23",
+    "finish_seconds": 5063
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 131,
+    "name": "Mleczak, Kinga",
+    "finish_time": "01:24:27",
+    "finish_seconds": 5067
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 133,
+    "name": "Nowak-Manczyk, Anita",
+    "finish_time": "01:24:30",
+    "finish_seconds": 5070
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 135,
+    "name": "Soko\u0142owska, Natalia",
+    "finish_time": "01:24:42",
+    "finish_seconds": 5082
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 137,
+    "name": "Dilliway, Jodie",
+    "finish_time": "01:25:01",
+    "finish_seconds": 5101
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 139,
+    "name": "Szpyt, Justyna",
+    "finish_time": "01:25:04",
+    "finish_seconds": 5104
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 141,
+    "name": "Farhana, Linzy",
+    "finish_time": "01:25:13",
+    "finish_seconds": 5113
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 143,
+    "name": "Raw\u0142uszko-Wieczorek, Agnieszka",
+    "finish_time": "01:25:28",
+    "finish_seconds": 5128
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 145,
+    "name": "Zimnicka, Lidia",
+    "finish_time": "01:25:29",
+    "finish_seconds": 5129
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 147,
+    "name": "G\u00f6ttlich, Julia",
+    "finish_time": "01:25:40",
+    "finish_seconds": 5140
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 149,
+    "name": "D\u0142u\u017cniewska, Paulina",
+    "finish_time": "01:25:44",
+    "finish_seconds": 5144
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 151,
+    "name": "Wito\u0144, Monika",
+    "finish_time": "01:25:44",
+    "finish_seconds": 5144
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 153,
+    "name": "Mi\u0161kulin, Pika",
+    "finish_time": "01:25:51",
+    "finish_seconds": 5151
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 155,
+    "name": "Rule, Gemma",
+    "finish_time": "01:26:10",
+    "finish_seconds": 5170
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 157,
+    "name": "Kubik, Magdalena",
+    "finish_time": "01:26:18",
+    "finish_seconds": 5178
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 159,
+    "name": "Evans, Katherine",
+    "finish_time": "01:26:19",
+    "finish_seconds": 5179
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 161,
+    "name": "Grzelak, Ewa",
+    "finish_time": "01:26:33",
+    "finish_seconds": 5193
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 163,
+    "name": "Mittelst\u00e4dt, Maria",
+    "finish_time": "01:26:35",
+    "finish_seconds": 5195
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 165,
+    "name": "Jenning, Elisabeth",
+    "finish_time": "01:26:49",
+    "finish_seconds": 5209
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 167,
+    "name": "M\u00fcnch, Linda",
+    "finish_time": "01:26:49",
+    "finish_seconds": 5209
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 169,
+    "name": "Ciszak, Marina",
+    "finish_time": "01:27:03",
+    "finish_seconds": 5223
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 171,
+    "name": "Dobrzyniecka, Natalia",
+    "finish_time": "01:27:09",
+    "finish_seconds": 5229
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 173,
+    "name": "Sarniak, Marta",
+    "finish_time": "01:27:13",
+    "finish_seconds": 5233
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 175,
+    "name": "Ho\u0142da, Magda",
+    "finish_time": "01:27:24",
+    "finish_seconds": 5244
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 177,
+    "name": "Kaczmarek, Karolina",
+    "finish_time": "01:27:27",
+    "finish_seconds": 5247
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 179,
+    "name": "Constante, Abigail",
+    "finish_time": "01:27:34",
+    "finish_seconds": 5254
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 181,
+    "name": "Fiedler, Kathrin",
+    "finish_time": "01:27:38",
+    "finish_seconds": 5258
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 183,
+    "name": "Kaczmarska, Izabella",
+    "finish_time": "01:27:45",
+    "finish_seconds": 5265
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 185,
+    "name": "Pi\u0105tek, Iwona",
+    "finish_time": "01:27:52",
+    "finish_seconds": 5272
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 187,
+    "name": "Hewitt, Amanda",
+    "finish_time": "01:28:09",
+    "finish_seconds": 5289
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 189,
+    "name": "Autret, L\u00e9a",
+    "finish_time": "01:28:14",
+    "finish_seconds": 5294
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 191,
+    "name": "Zielke, Urszula",
+    "finish_time": "01:28:20",
+    "finish_seconds": 5300
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 193,
+    "name": "Wi\u0119ckowska, Magdalena",
+    "finish_time": "01:28:25",
+    "finish_seconds": 5305
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 195,
+    "name": "Cabaj, Paulina",
+    "finish_time": "01:28:31",
+    "finish_seconds": 5311
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 197,
+    "name": "Lindholm, Emilia",
+    "finish_time": "01:28:32",
+    "finish_seconds": 5312
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 199,
+    "name": "Klaczy\u0144ska, Kinga",
+    "finish_time": "01:28:38",
+    "finish_seconds": 5318
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 201,
+    "name": "Pawlasov\u00e1, D\u00e1\u0161a",
+    "finish_time": "01:28:40",
+    "finish_seconds": 5320
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 203,
+    "name": "Grzelka, Marta",
+    "finish_time": "01:28:44",
+    "finish_seconds": 5324
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 205,
+    "name": "Gibowska, Paulina",
+    "finish_time": "01:28:48",
+    "finish_seconds": 5328
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 207,
+    "name": "Jastrz\u0119bska, Monika",
+    "finish_time": "01:28:51",
+    "finish_seconds": 5331
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 209,
+    "name": "Doran, Caitr\u00edona",
+    "finish_time": "01:28:57",
+    "finish_seconds": 5337
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 211,
+    "name": "Jask\u00f3\u0142owska, Ma\u0142gorzata",
+    "finish_time": "01:29:01",
+    "finish_seconds": 5341
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 213,
+    "name": "Szostowska, Milena",
+    "finish_time": "01:29:06",
+    "finish_seconds": 5346
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 215,
+    "name": "Harrower, Andrea",
+    "finish_time": "01:29:10",
+    "finish_seconds": 5350
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 217,
+    "name": "Lasz, Gabriela",
+    "finish_time": "01:29:12",
+    "finish_seconds": 5352
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 219,
+    "name": "Mazur, Karolina",
+    "finish_time": "01:29:16",
+    "finish_seconds": 5356
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 221,
+    "name": "Jaworska, Sandra",
+    "finish_time": "01:29:20",
+    "finish_seconds": 5360
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 223,
+    "name": "Rzepecka, Inez",
+    "finish_time": "01:29:21",
+    "finish_seconds": 5361
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 225,
+    "name": "Kruse, Linn",
+    "finish_time": "01:29:29",
+    "finish_seconds": 5369
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 227,
+    "name": "Butkiewicz, Ma\u0142gorzata",
+    "finish_time": "01:29:35",
+    "finish_seconds": 5375
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 229,
+    "name": "Do\u015bpia\u0142, Antonia",
+    "finish_time": "01:29:40",
+    "finish_seconds": 5380
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 231,
+    "name": "Bliuvaite, Samanta",
+    "finish_time": "01:29:44",
+    "finish_seconds": 5384
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 233,
+    "name": "Montag, Emma",
+    "finish_time": "01:29:56",
+    "finish_seconds": 5396
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 235,
+    "name": "Baumann, Hendrikje",
+    "finish_time": "01:29:59",
+    "finish_seconds": 5399
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 237,
+    "name": "Bennington, Raj",
+    "finish_time": "01:30:13",
+    "finish_seconds": 5413
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 239,
+    "name": "Pilch, Aleksandra",
+    "finish_time": "01:30:16",
+    "finish_seconds": 5416
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 241,
+    "name": "Domagala, Agata",
+    "finish_time": "01:30:22",
+    "finish_seconds": 5422
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 243,
+    "name": "Babik, Dominika",
+    "finish_time": "01:30:24",
+    "finish_seconds": 5424
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 245,
+    "name": "Tokarska, Joanna",
+    "finish_time": "01:30:27",
+    "finish_seconds": 5427
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 247,
+    "name": "Lynch, Beth",
+    "finish_time": "01:30:34",
+    "finish_seconds": 5434
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 249,
+    "name": "Olma, Katarzyna",
+    "finish_time": "01:30:44",
+    "finish_seconds": 5444
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 251,
+    "name": "Butruk, Luiza",
+    "finish_time": "01:30:56",
+    "finish_seconds": 5456
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 253,
+    "name": "Walerczyk-Sas, Anna",
+    "finish_time": "01:31:04",
+    "finish_seconds": 5464
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 255,
+    "name": "Heaney, Muireann",
+    "finish_time": "01:31:12",
+    "finish_seconds": 5472
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 257,
+    "name": "Prusisz, Wiktoria",
+    "finish_time": "01:31:15",
+    "finish_seconds": 5475
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 259,
+    "name": "Sinica, Aleksandra",
+    "finish_time": "01:31:22",
+    "finish_seconds": 5482
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 261,
+    "name": "Banks, Diana",
+    "finish_time": "01:31:26",
+    "finish_seconds": 5486
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 263,
+    "name": "Rommel, Dorota",
+    "finish_time": "01:31:35",
+    "finish_seconds": 5495
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 265,
+    "name": "Loades, Rebecca",
+    "finish_time": "01:31:37",
+    "finish_seconds": 5497
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 267,
+    "name": "Matosek, Marta",
+    "finish_time": "01:31:41",
+    "finish_seconds": 5501
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 269,
+    "name": "Guldimann, Janine",
+    "finish_time": "01:31:46",
+    "finish_seconds": 5506
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 271,
+    "name": "Arnold, Lucie",
+    "finish_time": "01:31:53",
+    "finish_seconds": 5513
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 273,
+    "name": "Spiteri, Dorothy",
+    "finish_time": "01:31:59",
+    "finish_seconds": 5519
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 275,
+    "name": "Zelisko, Patrycja",
+    "finish_time": "01:32:09",
+    "finish_seconds": 5529
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 277,
+    "name": "Nicol, Julia",
+    "finish_time": "01:32:14",
+    "finish_seconds": 5534
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 279,
+    "name": "Soko\u0142owska, Olga",
+    "finish_time": "01:32:17",
+    "finish_seconds": 5537
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 281,
+    "name": "Knoblach, Lola",
+    "finish_time": "01:32:19",
+    "finish_seconds": 5539
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 283,
+    "name": "Dudkowska, Joanna",
+    "finish_time": "01:32:21",
+    "finish_seconds": 5541
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 285,
+    "name": "Cocco Lisowska, Zuzanna",
+    "finish_time": "01:32:26",
+    "finish_seconds": 5546
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 287,
+    "name": "Carre, Agnieszka",
+    "finish_time": "01:32:37",
+    "finish_seconds": 5557
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 289,
+    "name": "\u015alota\u0142a, Ewelina",
+    "finish_time": "01:32:49",
+    "finish_seconds": 5569
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 291,
+    "name": "Mandziuk, Edita",
+    "finish_time": "01:32:51",
+    "finish_seconds": 5571
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 293,
+    "name": "Kot, Gabriela",
+    "finish_time": "01:33:02",
+    "finish_seconds": 5582
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 295,
+    "name": "Grzeszczak, Kamila",
+    "finish_time": "01:33:11",
+    "finish_seconds": 5591
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 297,
+    "name": "Pala, Agnieszka",
+    "finish_time": "01:33:16",
+    "finish_seconds": 5596
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 299,
+    "name": "Pasuto, Magdalena",
+    "finish_time": "01:33:23",
+    "finish_seconds": 5603
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 301,
+    "name": "Kitlas, Angelika",
+    "finish_time": "01:33:26",
+    "finish_seconds": 5606
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 303,
+    "name": "Pierzynowska, Magdalena",
+    "finish_time": "01:33:28",
+    "finish_seconds": 5608
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 305,
+    "name": "Dendra, Beata",
+    "finish_time": "01:33:35",
+    "finish_seconds": 5615
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 307,
+    "name": "Meyer, Laura",
+    "finish_time": "01:33:43",
+    "finish_seconds": 5623
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 309,
+    "name": "Biernacka, Katarzyna",
+    "finish_time": "01:33:49",
+    "finish_seconds": 5629
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 311,
+    "name": "\u015acibior, Wiktoria",
+    "finish_time": "01:33:50",
+    "finish_seconds": 5630
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 313,
+    "name": "Mazepa, Izabela",
+    "finish_time": "01:33:51",
+    "finish_seconds": 5631
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 315,
+    "name": "Michalczyk, Aleksandra",
+    "finish_time": "01:34:08",
+    "finish_seconds": 5648
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 317,
+    "name": "Kapustka-Ga\u0142\u0105zka, Marta",
+    "finish_time": "01:34:11",
+    "finish_seconds": 5651
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 319,
+    "name": "Szponarska, Justyna",
+    "finish_time": "01:34:13",
+    "finish_seconds": 5653
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 321,
+    "name": "Gilbert, Gitte",
+    "finish_time": "01:34:24",
+    "finish_seconds": 5664
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 323,
+    "name": "Jekel, Inga",
+    "finish_time": "01:34:31",
+    "finish_seconds": 5671
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 325,
+    "name": "Firlej, Monika",
+    "finish_time": "01:34:36",
+    "finish_seconds": 5676
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 327,
+    "name": "Le\u015bniewska, Natalia",
+    "finish_time": "01:34:40",
+    "finish_seconds": 5680
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 329,
+    "name": "Letts, Rachel",
+    "finish_time": "01:34:47",
+    "finish_seconds": 5687
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 331,
+    "name": "Wajzer, Zofia",
+    "finish_time": "01:34:53",
+    "finish_seconds": 5693
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 333,
+    "name": "Ghookasian, Arlet",
+    "finish_time": "01:35:04",
+    "finish_seconds": 5704
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 335,
+    "name": "Lecompte, Nora",
+    "finish_time": "01:35:09",
+    "finish_seconds": 5709
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 337,
+    "name": "Oko\u0144, Natalia",
+    "finish_time": "01:35:15",
+    "finish_seconds": 5715
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 339,
+    "name": "Piscova, Eva",
+    "finish_time": "01:35:28",
+    "finish_seconds": 5728
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 341,
+    "name": "Rehakova, Lenka",
+    "finish_time": "01:35:32",
+    "finish_seconds": 5732
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 343,
+    "name": "Masni\u010d\u00e1kov\u00e1, Ad\u00e9la",
+    "finish_time": "01:35:35",
+    "finish_seconds": 5735
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 345,
+    "name": "K\u00f6nigseder, Julia",
+    "finish_time": "01:35:41",
+    "finish_seconds": 5741
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 347,
+    "name": "Jagodzi\u0144ska, Julita",
+    "finish_time": "01:35:52",
+    "finish_seconds": 5752
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 349,
+    "name": "Kalarus, Malwina",
+    "finish_time": "01:35:56",
+    "finish_seconds": 5756
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 351,
+    "name": "Muzyka, Klaudia",
+    "finish_time": "01:36:02",
+    "finish_seconds": 5762
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 353,
+    "name": "Kujawska, Natalia",
+    "finish_time": "01:36:14",
+    "finish_seconds": 5774
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 355,
+    "name": "Kubisiak, Anna",
+    "finish_time": "01:36:23",
+    "finish_seconds": 5783
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 357,
+    "name": "Goerke, Monika",
+    "finish_time": "01:36:33",
+    "finish_seconds": 5793
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 359,
+    "name": "Brandt, Katharina",
+    "finish_time": "01:36:35",
+    "finish_seconds": 5795
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 361,
+    "name": "Brady, Aimee",
+    "finish_time": "01:36:50",
+    "finish_seconds": 5810
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 363,
+    "name": "Krynicka, Julia",
+    "finish_time": "01:36:54",
+    "finish_seconds": 5814
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 365,
+    "name": "Korycka, Justyna",
+    "finish_time": "01:37:05",
+    "finish_seconds": 5825
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 367,
+    "name": "Harz, Mandy",
+    "finish_time": "01:37:06",
+    "finish_seconds": 5826
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 369,
+    "name": "Ara\u00fajo, Carla",
+    "finish_time": "01:37:12",
+    "finish_seconds": 5832
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 371,
+    "name": "Michalska, Marcelina",
+    "finish_time": "01:37:14",
+    "finish_seconds": 5834
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 373,
+    "name": "Luczak, Elzbieta",
+    "finish_time": "01:37:19",
+    "finish_seconds": 5839
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 375,
+    "name": "Mcewen, Lynsay",
+    "finish_time": "01:37:29",
+    "finish_seconds": 5849
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 377,
+    "name": "Blah\u00e1k Adamska, Barbara",
+    "finish_time": "01:37:34",
+    "finish_seconds": 5854
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 379,
+    "name": "Horna, Patrycja",
+    "finish_time": "01:37:35",
+    "finish_seconds": 5855
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 381,
+    "name": "Jasek-Kr\u00f3l, Magdalena",
+    "finish_time": "01:37:37",
+    "finish_seconds": 5857
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 383,
+    "name": "Tuz, Alina",
+    "finish_time": "01:37:42",
+    "finish_seconds": 5862
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 385,
+    "name": "Smethurst, Chloe",
+    "finish_time": "01:37:57",
+    "finish_seconds": 5877
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 387,
+    "name": "Mewett-Bone, Jenny",
+    "finish_time": "01:37:58",
+    "finish_seconds": 5878
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 389,
+    "name": "Balan, Valeria",
+    "finish_time": "01:38:05",
+    "finish_seconds": 5885
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 391,
+    "name": "Podlawska-Nowak, Paulina",
+    "finish_time": "01:38:21",
+    "finish_seconds": 5901
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 393,
+    "name": "Ratajczak-Lehmann, Katarzyna",
+    "finish_time": "01:38:23",
+    "finish_seconds": 5903
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 395,
+    "name": "Kici\u0144ska - Antosik, Natalia",
+    "finish_time": "01:38:31",
+    "finish_seconds": 5911
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 397,
+    "name": "Bajpai, Jyoti",
+    "finish_time": "01:38:39",
+    "finish_seconds": 5919
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 399,
+    "name": "Stawowa, Karolina",
+    "finish_time": "01:38:44",
+    "finish_seconds": 5924
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 401,
+    "name": "Jaworska, Marta",
+    "finish_time": "01:39:07",
+    "finish_seconds": 5947
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 403,
+    "name": "Nenortait\u0117, Justina",
+    "finish_time": "01:39:15",
+    "finish_seconds": 5955
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 405,
+    "name": "Garbowska, Magdalena",
+    "finish_time": "01:39:23",
+    "finish_seconds": 5963
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 407,
+    "name": "Brazinskaite, Justina",
+    "finish_time": "01:39:29",
+    "finish_seconds": 5969
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 409,
+    "name": "Wilk, Anna",
+    "finish_time": "01:39:32",
+    "finish_seconds": 5972
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 411,
+    "name": "Keller, Kristina",
+    "finish_time": "01:39:40",
+    "finish_seconds": 5980
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 413,
+    "name": "Ujma, Anna",
+    "finish_time": "01:39:56",
+    "finish_seconds": 5996
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 415,
+    "name": "Tussing, Julia",
+    "finish_time": "01:40:07",
+    "finish_seconds": 6007
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 417,
+    "name": "Leech, Rachael",
+    "finish_time": "01:40:15",
+    "finish_seconds": 6015
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 419,
+    "name": "Paulovics, Adrienn",
+    "finish_time": "01:40:27",
+    "finish_seconds": 6027
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 421,
+    "name": "Barry, Jackie",
+    "finish_time": "01:40:34",
+    "finish_seconds": 6034
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 423,
+    "name": "Tomczyk, Justyna",
+    "finish_time": "01:40:36",
+    "finish_seconds": 6036
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 425,
+    "name": "Kazimierczak, Kamila",
+    "finish_time": "01:40:41",
+    "finish_seconds": 6041
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 427,
+    "name": "Lechman, Bo\u017cena",
+    "finish_time": "01:40:47",
+    "finish_seconds": 6047
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 429,
+    "name": "Szewczyk, Natalia",
+    "finish_time": "01:41:00",
+    "finish_seconds": 6060
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 431,
+    "name": "Ma\u0107ka\u0142a, Kamila",
+    "finish_time": "01:41:03",
+    "finish_seconds": 6063
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 433,
+    "name": "Wasiluk, Magdalena",
+    "finish_time": "01:41:05",
+    "finish_seconds": 6065
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 435,
+    "name": "Tokarska-Szczykutowicz, Katarzyna",
+    "finish_time": "01:41:11",
+    "finish_seconds": 6071
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 437,
+    "name": "Oleksy, Beata",
+    "finish_time": "01:41:29",
+    "finish_seconds": 6089
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 439,
+    "name": "Czarnolewska, Aleksandra",
+    "finish_time": "01:41:34",
+    "finish_seconds": 6094
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 441,
+    "name": "Marcinkowska, Magdalena",
+    "finish_time": "01:41:36",
+    "finish_seconds": 6096
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 443,
+    "name": "Waszkiewicz, Hanna",
+    "finish_time": "01:41:54",
+    "finish_seconds": 6114
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 445,
+    "name": "Sztandera, Wiktoria",
+    "finish_time": "01:42:00",
+    "finish_seconds": 6120
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 447,
+    "name": "Walkowiak, Wiktoria",
+    "finish_time": "01:42:11",
+    "finish_seconds": 6131
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 449,
+    "name": "Kumar, Sonia",
+    "finish_time": "01:42:15",
+    "finish_seconds": 6135
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 451,
+    "name": "Wordingham, Sara",
+    "finish_time": "01:42:18",
+    "finish_seconds": 6138
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 453,
+    "name": "Paplinska-Goryca, Magdalena",
+    "finish_time": "01:42:20",
+    "finish_seconds": 6140
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 455,
+    "name": "Ciesielska-Kami\u0144ska, Joanna",
+    "finish_time": "01:42:30",
+    "finish_seconds": 6150
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 457,
+    "name": "Zierkiewicz-Wycisk, Karolina",
+    "finish_time": "01:42:31",
+    "finish_seconds": 6151
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 459,
+    "name": "Szumigraj, Justyna",
+    "finish_time": "01:42:44",
+    "finish_seconds": 6164
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 461,
+    "name": "Orze\u0142, Anna",
+    "finish_time": "01:42:48",
+    "finish_seconds": 6168
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 463,
+    "name": "Lenda, Natalia",
+    "finish_time": "01:43:00",
+    "finish_seconds": 6180
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 465,
+    "name": "Zimnoch, Karolina",
+    "finish_time": "01:43:04",
+    "finish_seconds": 6184
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 467,
+    "name": "Morczy\u0144ska, Katarzyna",
+    "finish_time": "01:43:10",
+    "finish_seconds": 6190
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 469,
+    "name": "Tabone, Roxanne",
+    "finish_time": "01:43:27",
+    "finish_seconds": 6207
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 471,
+    "name": "Rudnik, Aleksandra",
+    "finish_time": "01:43:32",
+    "finish_seconds": 6212
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 473,
+    "name": "Kloczkowska, Aleksandra",
+    "finish_time": "01:43:37",
+    "finish_seconds": 6217
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 475,
+    "name": "Nabia\u0142ek, Aleksandra",
+    "finish_time": "01:43:46",
+    "finish_seconds": 6226
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 477,
+    "name": "Ka\u017amierczak, Agnieszka",
+    "finish_time": "01:43:52",
+    "finish_seconds": 6232
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 479,
+    "name": "Grudzie\u0144, Julia",
+    "finish_time": "01:44:03",
+    "finish_seconds": 6243
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 481,
+    "name": "Nowocie\u0144, Martyna",
+    "finish_time": "01:44:21",
+    "finish_seconds": 6261
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 483,
+    "name": "Atkinson, Sally",
+    "finish_time": "01:44:35",
+    "finish_seconds": 6275
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 485,
+    "name": "Robinson, Harry",
+    "finish_time": "01:44:38",
+    "finish_seconds": 6278
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 487,
+    "name": "Frydryszak, Karolina",
+    "finish_time": "01:44:46",
+    "finish_seconds": 6286
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 489,
+    "name": "Hanusov\u00e1, Vendula",
+    "finish_time": "01:45:00",
+    "finish_seconds": 6300
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 491,
+    "name": "Wobst, Paulina",
+    "finish_time": "01:45:04",
+    "finish_seconds": 6304
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 493,
+    "name": "Witowska, Agata",
+    "finish_time": "01:45:08",
+    "finish_seconds": 6308
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 495,
+    "name": "Hajdrowska, Joanna",
+    "finish_time": "01:45:16",
+    "finish_seconds": 6316
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 497,
+    "name": "Ma\u015blanik, Weronika",
+    "finish_time": "01:45:34",
+    "finish_seconds": 6334
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 499,
+    "name": "Storey, Karen",
+    "finish_time": "01:45:56",
+    "finish_seconds": 6356
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 501,
+    "name": "Abela, Amanda Abela",
+    "finish_time": "01:46:01",
+    "finish_seconds": 6361
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 503,
+    "name": "Przybylak, Marta",
+    "finish_time": "01:46:30",
+    "finish_seconds": 6390
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 505,
+    "name": "Nowak, Dominika",
+    "finish_time": "01:46:32",
+    "finish_seconds": 6392
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 507,
+    "name": "Juskowiak, Dorota",
+    "finish_time": "01:46:48",
+    "finish_seconds": 6408
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 509,
+    "name": "Kasprzyszak, Aleksandra",
+    "finish_time": "01:46:51",
+    "finish_seconds": 6411
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 511,
+    "name": "Wo\u0142czy\u0144ska, Katarzyna",
+    "finish_time": "01:46:55",
+    "finish_seconds": 6415
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 513,
+    "name": "Maliavina, Anna",
+    "finish_time": "01:47:08",
+    "finish_seconds": 6428
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 515,
+    "name": "Mc Cormack, Elaine",
+    "finish_time": "01:47:16",
+    "finish_seconds": 6436
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 517,
+    "name": "Pietrusewicz, Karolina",
+    "finish_time": "01:47:33",
+    "finish_seconds": 6453
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 519,
+    "name": "Rybarczyk, Agnieszka",
+    "finish_time": "01:47:57",
+    "finish_seconds": 6477
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 521,
+    "name": "Nowak, Marta",
+    "finish_time": "01:48:14",
+    "finish_seconds": 6494
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 523,
+    "name": "Lewicka, Emilia",
+    "finish_time": "01:48:25",
+    "finish_seconds": 6505
+  },
+  {
+    "venue": "2025 Poznan",
+    "gender": "W",
+    "rank": 525,
+    "name": "Pozna\u0144ska, Martyna",
+    "finish_time": "01:48:54",
+    "finish_seconds": 6534
+  }
+]

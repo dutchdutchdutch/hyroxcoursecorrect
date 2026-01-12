@@ -1,0 +1,3370 @@
+[
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 1,
+    "name": "Hong, Beomseok",
+    "finish_time": "00:58:35",
+    "finish_seconds": 3515
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 3,
+    "name": "\uc190, \ud0dc\ud604",
+    "finish_time": "00:59:08",
+    "finish_seconds": 3548
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 5,
+    "name": "\uc11c, \uc790\ud6c8",
+    "finish_time": "01:00:14",
+    "finish_seconds": 3614
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 7,
+    "name": "Doh, Yukwon",
+    "finish_time": "01:00:52",
+    "finish_seconds": 3652
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 9,
+    "name": "Jeon, Junhyeon",
+    "finish_time": "01:00:58",
+    "finish_seconds": 3658
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 11,
+    "name": "Mulhall, Lewis",
+    "finish_time": "01:01:47",
+    "finish_seconds": 3707
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 13,
+    "name": "Han, Daehyun",
+    "finish_time": "01:02:45",
+    "finish_seconds": 3765
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 15,
+    "name": "Kim, Sangho",
+    "finish_time": "01:02:52",
+    "finish_seconds": 3772
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 17,
+    "name": "Gasparato, Thomas",
+    "finish_time": "01:02:57",
+    "finish_seconds": 3777
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 19,
+    "name": "\uae40, \uc778\uc12d",
+    "finish_time": "01:03:17",
+    "finish_seconds": 3797
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 21,
+    "name": "\ubc15, \uc2b9\ud604",
+    "finish_time": "01:03:48",
+    "finish_seconds": 3828
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 23,
+    "name": "\uc815, \uc758\uc131",
+    "finish_time": "01:04:10",
+    "finish_seconds": 3850
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 25,
+    "name": "Han, Woojin",
+    "finish_time": "01:04:20",
+    "finish_seconds": 3860
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 27,
+    "name": "Chong, Tese",
+    "finish_time": "01:04:34",
+    "finish_seconds": 3874
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 29,
+    "name": "\uc774, \uc900\ud601",
+    "finish_time": "01:04:49",
+    "finish_seconds": 3889
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 31,
+    "name": "\ubc15, \uc0c1\uc6b0",
+    "finish_time": "01:05:09",
+    "finish_seconds": 3909
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 33,
+    "name": "\uae40, \ud0dc\uc724",
+    "finish_time": "01:05:29",
+    "finish_seconds": 3929
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 35,
+    "name": "\ucd5c, \ud604\uade0",
+    "finish_time": "01:05:33",
+    "finish_seconds": 3933
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 37,
+    "name": "Duff, Jordi",
+    "finish_time": "01:05:42",
+    "finish_seconds": 3942
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 39,
+    "name": "\uc774, \ubbfc\uc6b0",
+    "finish_time": "01:06:13",
+    "finish_seconds": 3973
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 41,
+    "name": "\ucd5c, \ubbfc\ud638",
+    "finish_time": "01:06:14",
+    "finish_seconds": 3974
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 43,
+    "name": "Moon, Hyeongyu",
+    "finish_time": "01:06:22",
+    "finish_seconds": 3982
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 45,
+    "name": "\uc870, \uc0c1\ud604",
+    "finish_time": "01:06:38",
+    "finish_seconds": 3998
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 47,
+    "name": "Cattaneo, Ilan",
+    "finish_time": "01:06:46",
+    "finish_seconds": 4006
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 49,
+    "name": "Choi, Eunkyu",
+    "finish_time": "01:07:15",
+    "finish_seconds": 4035
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 51,
+    "name": "\uae40, \uc120\ud604",
+    "finish_time": "01:07:22",
+    "finish_seconds": 4042
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 53,
+    "name": "Watariguchi, Masahito",
+    "finish_time": "01:07:26",
+    "finish_seconds": 4046
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 55,
+    "name": "Martinez De La Mora, Oscar",
+    "finish_time": "01:07:35",
+    "finish_seconds": 4055
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 57,
+    "name": "\uae40, \uc11d\uc9c4",
+    "finish_time": "01:07:42",
+    "finish_seconds": 4062
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 59,
+    "name": "Furley, Jackson",
+    "finish_time": "01:07:48",
+    "finish_seconds": 4068
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 61,
+    "name": "\uc774, \uc9c0\uc218",
+    "finish_time": "01:08:01",
+    "finish_seconds": 4081
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 63,
+    "name": "\uae40, \uc900\uc2dd",
+    "finish_time": "01:08:09",
+    "finish_seconds": 4089
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 65,
+    "name": "\ub958, \uacbd\ud604",
+    "finish_time": "01:08:20",
+    "finish_seconds": 4100
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 67,
+    "name": "Ehara Buckley, Daniel",
+    "finish_time": "01:08:42",
+    "finish_seconds": 4122
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 69,
+    "name": "Lee, Ilhwan",
+    "finish_time": "01:09:15",
+    "finish_seconds": 4155
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 71,
+    "name": "\uc724, \ud604\uc885",
+    "finish_time": "01:09:30",
+    "finish_seconds": 4170
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 73,
+    "name": "Kim, Hyunchul",
+    "finish_time": "01:09:43",
+    "finish_seconds": 4183
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 75,
+    "name": "Maxwell, Pierce",
+    "finish_time": "01:09:45",
+    "finish_seconds": 4185
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 77,
+    "name": "\uae40, \ud615\uc11d",
+    "finish_time": "01:09:51",
+    "finish_seconds": 4191
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 79,
+    "name": "Lee, Peeta",
+    "finish_time": "01:10:01",
+    "finish_seconds": 4201
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 81,
+    "name": "Choi, Jangwon",
+    "finish_time": "01:10:05",
+    "finish_seconds": 4205
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 83,
+    "name": "\ubc31, \uc2b9\uc6d0",
+    "finish_time": "01:10:19",
+    "finish_seconds": 4219
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 85,
+    "name": "\uc1a1, \ud604\uc11d",
+    "finish_time": "01:10:35",
+    "finish_seconds": 4235
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 87,
+    "name": "\uae40, \ubbfc\uad6d",
+    "finish_time": "01:10:46",
+    "finish_seconds": 4246
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 89,
+    "name": "\ud55c, \uc9c4\uc624",
+    "finish_time": "01:11:05",
+    "finish_seconds": 4265
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 91,
+    "name": "Kidtatun, Sinthich",
+    "finish_time": "01:11:13",
+    "finish_seconds": 4273
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 93,
+    "name": "Kim, Seon Min",
+    "finish_time": "01:11:22",
+    "finish_seconds": 4282
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 95,
+    "name": "Jung Xon, Wonjoon",
+    "finish_time": "01:11:40",
+    "finish_seconds": 4300
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 97,
+    "name": "Hwang, Karam",
+    "finish_time": "01:11:46",
+    "finish_seconds": 4306
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 99,
+    "name": "Oh, Jae Young",
+    "finish_time": "01:11:49",
+    "finish_seconds": 4309
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 101,
+    "name": "Park, Je Ryul",
+    "finish_time": "01:11:51",
+    "finish_seconds": 4311
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 103,
+    "name": "\uc774, \uc218\uc6a9",
+    "finish_time": "01:11:57",
+    "finish_seconds": 4317
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 105,
+    "name": "\uc774, \uc2b9\ud0dd",
+    "finish_time": "01:12:01",
+    "finish_seconds": 4321
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 107,
+    "name": "\uc548, \uc7ac\ucca0",
+    "finish_time": "01:12:04",
+    "finish_seconds": 4324
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 109,
+    "name": "\uae40, \ub3c4\ub839",
+    "finish_time": "01:12:06",
+    "finish_seconds": 4326
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 111,
+    "name": "Lee, Seungwoo",
+    "finish_time": "01:12:14",
+    "finish_seconds": 4334
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 113,
+    "name": "\uc720, \uc2dc\ubc31",
+    "finish_time": "01:12:26",
+    "finish_seconds": 4346
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 115,
+    "name": "\ubc15, \ucc9c\uc194",
+    "finish_time": "01:12:39",
+    "finish_seconds": 4359
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 117,
+    "name": "\uc774, \uc5f0\uc2b9",
+    "finish_time": "01:12:43",
+    "finish_seconds": 4363
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 119,
+    "name": "\ubc15, \uc720\ube48",
+    "finish_time": "01:12:47",
+    "finish_seconds": 4367
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 121,
+    "name": "\uae40, \ub3d9\ud604",
+    "finish_time": "01:12:53",
+    "finish_seconds": 4373
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 123,
+    "name": "Chua, Samuel",
+    "finish_time": "01:13:03",
+    "finish_seconds": 4383
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 125,
+    "name": "Choi, Warren",
+    "finish_time": "01:13:07",
+    "finish_seconds": 4387
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 127,
+    "name": "Serizawa, Soichiro",
+    "finish_time": "01:13:15",
+    "finish_seconds": 4395
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 129,
+    "name": "\uae40, \uc9c4\uc6b0",
+    "finish_time": "01:13:19",
+    "finish_seconds": 4399
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 131,
+    "name": "\ub098, \uc120\uc624",
+    "finish_time": "01:13:22",
+    "finish_seconds": 4402
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 133,
+    "name": "\uc774, \uc815\uc6b0",
+    "finish_time": "01:13:25",
+    "finish_seconds": 4405
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 135,
+    "name": "Perezchica Esparza, Salvador",
+    "finish_time": "01:13:30",
+    "finish_seconds": 4410
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 137,
+    "name": "\uc774, \uc815\ubbfc",
+    "finish_time": "01:13:35",
+    "finish_seconds": 4415
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 139,
+    "name": "\uc5fc, \uc131\ud604",
+    "finish_time": "01:13:39",
+    "finish_seconds": 4419
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 141,
+    "name": "\ubc15, \uc900\uc11c",
+    "finish_time": "01:13:44",
+    "finish_seconds": 4424
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 143,
+    "name": "\ucd5c, \uc6d0\uc2dd",
+    "finish_time": "01:13:56",
+    "finish_seconds": 4436
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 145,
+    "name": "\ud64d, \uc131\uc6b0",
+    "finish_time": "01:13:59",
+    "finish_seconds": 4439
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 147,
+    "name": "\ubc15, \ud55c\uacb0",
+    "finish_time": "01:14:10",
+    "finish_seconds": 4450
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 149,
+    "name": "\ud669, \uc131\ud0dc",
+    "finish_time": "01:14:15",
+    "finish_seconds": 4455
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 151,
+    "name": "\uc7a5, \uc2b9\ud6c8",
+    "finish_time": "01:14:27",
+    "finish_seconds": 4467
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 153,
+    "name": "Yang, Jinsik",
+    "finish_time": "01:14:33",
+    "finish_seconds": 4473
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 155,
+    "name": "\ubc31, \uc138\ud604",
+    "finish_time": "01:14:41",
+    "finish_seconds": 4481
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 157,
+    "name": "Chung, Suho",
+    "finish_time": "01:14:49",
+    "finish_seconds": 4489
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 159,
+    "name": "\uad8c, \ub300\ud601",
+    "finish_time": "01:14:57",
+    "finish_seconds": 4497
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 161,
+    "name": "\uc870, \uc744\uc0c8",
+    "finish_time": "01:15:00",
+    "finish_seconds": 4500
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 163,
+    "name": "Cho, Hyungrae",
+    "finish_time": "01:15:04",
+    "finish_seconds": 4504
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 165,
+    "name": "\uae40, \uad6d\uc120",
+    "finish_time": "01:15:10",
+    "finish_seconds": 4510
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 167,
+    "name": "Kar Seng, Cham",
+    "finish_time": "01:15:17",
+    "finish_seconds": 4517
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 169,
+    "name": "Pedersen, Simon Schlegel",
+    "finish_time": "01:15:47",
+    "finish_seconds": 4547
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 171,
+    "name": "\uae40, \uc9c4\uc6b1",
+    "finish_time": "01:15:52",
+    "finish_seconds": 4552
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 173,
+    "name": "Park, Jinwoong",
+    "finish_time": "01:15:54",
+    "finish_seconds": 4554
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 175,
+    "name": "\uac15, \ubbfc\uc131",
+    "finish_time": "01:15:57",
+    "finish_seconds": 4557
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 177,
+    "name": "Lee, Yumyoung",
+    "finish_time": "01:15:59",
+    "finish_seconds": 4559
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 179,
+    "name": "\uc11c, \ubbfc\uc218",
+    "finish_time": "01:16:05",
+    "finish_seconds": 4565
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 181,
+    "name": "Lee, Jungmin",
+    "finish_time": "01:16:10",
+    "finish_seconds": 4570
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 183,
+    "name": "Lim, Seng Han",
+    "finish_time": "01:16:14",
+    "finish_seconds": 4574
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 185,
+    "name": "Park, Eun Kyu",
+    "finish_time": "01:16:19",
+    "finish_seconds": 4579
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 187,
+    "name": "Son, Junho",
+    "finish_time": "01:16:23",
+    "finish_seconds": 4583
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 189,
+    "name": "\uc870, \ucc3d\ud6c4",
+    "finish_time": "01:16:32",
+    "finish_seconds": 4592
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 191,
+    "name": "\uae40, \uc2b9\uc6d0",
+    "finish_time": "01:16:34",
+    "finish_seconds": 4594
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 193,
+    "name": "\uac15, \uc2b9\ubb35",
+    "finish_time": "01:16:37",
+    "finish_seconds": 4597
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 195,
+    "name": "Kim, Yeong Nam",
+    "finish_time": "01:16:42",
+    "finish_seconds": 4602
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 197,
+    "name": "\uae40, \uc6a9\uc900",
+    "finish_time": "01:16:53",
+    "finish_seconds": 4613
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 199,
+    "name": "Jeong, Sangwoo",
+    "finish_time": "01:16:56",
+    "finish_seconds": 4616
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 201,
+    "name": "Lee, Geonjae",
+    "finish_time": "01:16:59",
+    "finish_seconds": 4619
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 203,
+    "name": "Kim, Jeonghoon",
+    "finish_time": "01:17:04",
+    "finish_seconds": 4624
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 205,
+    "name": "Ichikawa, Taichi",
+    "finish_time": "01:17:19",
+    "finish_seconds": 4639
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 207,
+    "name": "\uc2e0, \uba85\ucca0",
+    "finish_time": "01:17:24",
+    "finish_seconds": 4644
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 209,
+    "name": "Lee, Chow Keat",
+    "finish_time": "01:17:30",
+    "finish_seconds": 4650
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 211,
+    "name": "\uad8c, \ud6c8\uc601",
+    "finish_time": "01:17:38",
+    "finish_seconds": 4658
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 213,
+    "name": "\uae40, \uc9c4\uad00",
+    "finish_time": "01:17:53",
+    "finish_seconds": 4673
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 215,
+    "name": "Fitzgerald, Ruairi",
+    "finish_time": "01:18:11",
+    "finish_seconds": 4691
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 217,
+    "name": "Lor, Steven",
+    "finish_time": "01:18:14",
+    "finish_seconds": 4694
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 219,
+    "name": "\uac15, \uc131\ubb35",
+    "finish_time": "01:18:25",
+    "finish_seconds": 4705
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 221,
+    "name": "\uc2e0, \uc6a9\uc11d",
+    "finish_time": "01:18:27",
+    "finish_seconds": 4707
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 223,
+    "name": "\ubc15, \uc815\ubbfc",
+    "finish_time": "01:18:28",
+    "finish_seconds": 4708
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 225,
+    "name": "\u9ea5, \u8015\u78a9",
+    "finish_time": "01:18:36",
+    "finish_seconds": 4716
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 227,
+    "name": "\uac15, \uc120\uc7ac",
+    "finish_time": "01:18:44",
+    "finish_seconds": 4724
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 229,
+    "name": "\ud669, \uc9c0\uc0b0",
+    "finish_time": "01:18:51",
+    "finish_seconds": 4731
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 231,
+    "name": "Thomas, David",
+    "finish_time": "01:18:51",
+    "finish_seconds": 4731
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 233,
+    "name": "Seo, Yumin",
+    "finish_time": "01:18:55",
+    "finish_seconds": 4735
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 235,
+    "name": "Jin, Jimmy",
+    "finish_time": "01:18:57",
+    "finish_seconds": 4737
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 237,
+    "name": "\uae40, \uc5b8\uc57d",
+    "finish_time": "01:19:07",
+    "finish_seconds": 4747
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 239,
+    "name": "\uc724, \uac74\ub77d",
+    "finish_time": "01:19:17",
+    "finish_seconds": 4757
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 241,
+    "name": "Ko, Issac",
+    "finish_time": "01:19:31",
+    "finish_seconds": 4771
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 243,
+    "name": "\uae40, \uc900\uc218",
+    "finish_time": "01:19:33",
+    "finish_seconds": 4773
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 245,
+    "name": "\uac15, \ub300\uc5fd",
+    "finish_time": "01:19:43",
+    "finish_seconds": 4783
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 247,
+    "name": "Ho, Yip Hung",
+    "finish_time": "01:19:48",
+    "finish_seconds": 4788
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 249,
+    "name": "Jung, Minho",
+    "finish_time": "01:19:51",
+    "finish_seconds": 4791
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 251,
+    "name": "Veerapong, Suwat",
+    "finish_time": "01:20:01",
+    "finish_seconds": 4801
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 253,
+    "name": "\uae40, \ucca0\ud76c",
+    "finish_time": "01:20:11",
+    "finish_seconds": 4811
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 255,
+    "name": "John, Jordan",
+    "finish_time": "01:20:19",
+    "finish_seconds": 4819
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 257,
+    "name": "Heo, Jinseok",
+    "finish_time": "01:20:26",
+    "finish_seconds": 4826
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 259,
+    "name": "Chahal, Nikesh",
+    "finish_time": "01:20:29",
+    "finish_seconds": 4829
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 261,
+    "name": "\uc804, \uc6a9\uc2dd",
+    "finish_time": "01:20:36",
+    "finish_seconds": 4836
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 263,
+    "name": "\uc608, \uc6d0\uae38",
+    "finish_time": "01:20:54",
+    "finish_seconds": 4854
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 265,
+    "name": "\uc774, \ucc3d\uc900",
+    "finish_time": "01:21:04",
+    "finish_seconds": 4864
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 267,
+    "name": "Vermeire, Jerry",
+    "finish_time": "01:21:11",
+    "finish_seconds": 4871
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 269,
+    "name": "\ub178, \uc7ac\ubbfc",
+    "finish_time": "01:21:16",
+    "finish_seconds": 4876
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 271,
+    "name": "\uc774, \ub3d9\ud6c8",
+    "finish_time": "01:21:22",
+    "finish_seconds": 4882
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 273,
+    "name": "Rashid, Rusyaidi",
+    "finish_time": "01:21:25",
+    "finish_seconds": 4885
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 275,
+    "name": "\uc548, \uc601\uc218",
+    "finish_time": "01:21:28",
+    "finish_seconds": 4888
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 277,
+    "name": "Cho, Shawn",
+    "finish_time": "01:21:32",
+    "finish_seconds": 4892
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 279,
+    "name": "\uac15, \ubc94\uc0c1",
+    "finish_time": "01:21:38",
+    "finish_seconds": 4898
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 281,
+    "name": "\uc720, \ud638\uc5f0",
+    "finish_time": "01:21:41",
+    "finish_seconds": 4901
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 283,
+    "name": "\uc774, \uac15\uaddc",
+    "finish_time": "01:21:46",
+    "finish_seconds": 4906
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 285,
+    "name": "Shin, Seunghun",
+    "finish_time": "01:21:48",
+    "finish_seconds": 4908
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 287,
+    "name": "Baharin, Jay",
+    "finish_time": "01:21:55",
+    "finish_seconds": 4915
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 289,
+    "name": "Kimbrough, Zack",
+    "finish_time": "01:22:05",
+    "finish_seconds": 4925
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 291,
+    "name": "\uae40, \uc7ac\ud658",
+    "finish_time": "01:22:10",
+    "finish_seconds": 4930
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 293,
+    "name": "\uad8c, \uae30\ud45c",
+    "finish_time": "01:22:14",
+    "finish_seconds": 4934
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 295,
+    "name": "Kim, Yongseok",
+    "finish_time": "01:22:15",
+    "finish_seconds": 4935
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 297,
+    "name": "\uc804, \uc608\ucc2c",
+    "finish_time": "01:22:23",
+    "finish_seconds": 4943
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 299,
+    "name": "Tan, Ling Han",
+    "finish_time": "01:22:27",
+    "finish_seconds": 4947
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 301,
+    "name": "\uc815, \uae38\ud604",
+    "finish_time": "01:22:31",
+    "finish_seconds": 4951
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 303,
+    "name": "\ucd5c, \uc778\ud638",
+    "finish_time": "01:22:34",
+    "finish_seconds": 4954
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 305,
+    "name": "\uc131, \uae30\ud6c8",
+    "finish_time": "01:22:38",
+    "finish_seconds": 4958
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 307,
+    "name": "Alqattan Alfawaz, Nawaf",
+    "finish_time": "01:22:44",
+    "finish_seconds": 4964
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 309,
+    "name": "\uae40, \uc11c\ud638",
+    "finish_time": "01:22:46",
+    "finish_seconds": 4966
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 311,
+    "name": "\uc774, \uc131\ud76c",
+    "finish_time": "01:22:57",
+    "finish_seconds": 4977
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 313,
+    "name": "Samuels, Dale",
+    "finish_time": "01:23:06",
+    "finish_seconds": 4986
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 315,
+    "name": "Lee, Jaeyeol",
+    "finish_time": "01:23:14",
+    "finish_seconds": 4994
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 317,
+    "name": "Cheng, Jimmy",
+    "finish_time": "01:23:21",
+    "finish_seconds": 5001
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 319,
+    "name": "Na, Young Jo",
+    "finish_time": "01:23:24",
+    "finish_seconds": 5004
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 321,
+    "name": "Kwon, Youngsung",
+    "finish_time": "01:23:32",
+    "finish_seconds": 5012
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 323,
+    "name": "\uae40, \ub178\ud6c8",
+    "finish_time": "01:23:37",
+    "finish_seconds": 5017
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 325,
+    "name": "Kee, Edison",
+    "finish_time": "01:23:46",
+    "finish_seconds": 5026
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 327,
+    "name": "Wong, Cheuk Man Adam",
+    "finish_time": "01:23:47",
+    "finish_seconds": 5027
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 329,
+    "name": "\uae40, \uacbd\ud658",
+    "finish_time": "01:23:48",
+    "finish_seconds": 5028
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 331,
+    "name": "\ubc15, \ubcd1\ud604",
+    "finish_time": "01:23:52",
+    "finish_seconds": 5032
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 333,
+    "name": "Shepard, Andy",
+    "finish_time": "01:23:54",
+    "finish_seconds": 5034
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 335,
+    "name": "\uae40, \ub3d9\ubbfc",
+    "finish_time": "01:23:58",
+    "finish_seconds": 5038
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 337,
+    "name": "Kang, Minsu",
+    "finish_time": "01:24:00",
+    "finish_seconds": 5040
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 339,
+    "name": "Paciorek, Lucas",
+    "finish_time": "01:24:09",
+    "finish_seconds": 5049
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 341,
+    "name": "Peh, Weijie",
+    "finish_time": "01:24:15",
+    "finish_seconds": 5055
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 343,
+    "name": "Lee, Sheng-Tung",
+    "finish_time": "01:24:16",
+    "finish_seconds": 5056
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 345,
+    "name": "Ju, Jeongmin",
+    "finish_time": "01:24:28",
+    "finish_seconds": 5068
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 347,
+    "name": "\ucc44, \uc885\ubbfc",
+    "finish_time": "01:24:40",
+    "finish_seconds": 5080
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 349,
+    "name": "\uc1a1, \uc9c0\uc11d",
+    "finish_time": "01:24:57",
+    "finish_seconds": 5097
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 351,
+    "name": "\ubc31, \uc2b9\ud604",
+    "finish_time": "01:24:58",
+    "finish_seconds": 5098
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 353,
+    "name": "Ong, Terence",
+    "finish_time": "01:25:01",
+    "finish_seconds": 5101
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 355,
+    "name": "\uc815, \uc6d0\ub82c",
+    "finish_time": "01:25:17",
+    "finish_seconds": 5117
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 357,
+    "name": "\uc720, \uc81c\ud604",
+    "finish_time": "01:25:24",
+    "finish_seconds": 5124
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 359,
+    "name": "\ubc15, \uba85\ud76c",
+    "finish_time": "01:25:25",
+    "finish_seconds": 5125
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 361,
+    "name": "\ubc15, \uc131\ud604",
+    "finish_time": "01:25:31",
+    "finish_seconds": 5131
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 363,
+    "name": "Yeom, Kyuho",
+    "finish_time": "01:25:41",
+    "finish_seconds": 5141
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 365,
+    "name": "\uc1a1, \uc778\ud55c",
+    "finish_time": "01:25:54",
+    "finish_seconds": 5154
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 367,
+    "name": "\ucd5c, \uc724\uc131",
+    "finish_time": "01:26:08",
+    "finish_seconds": 5168
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 369,
+    "name": "Fang, Simon Xinquan",
+    "finish_time": "01:26:19",
+    "finish_seconds": 5179
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 371,
+    "name": "Park, Chan Woo",
+    "finish_time": "01:26:23",
+    "finish_seconds": 5183
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 373,
+    "name": "Abugama, Amir Mahgub A",
+    "finish_time": "01:26:26",
+    "finish_seconds": 5186
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 375,
+    "name": "Ong, Glenn",
+    "finish_time": "01:26:32",
+    "finish_seconds": 5192
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 377,
+    "name": "Shin, Kyoung Il",
+    "finish_time": "01:26:38",
+    "finish_seconds": 5198
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 379,
+    "name": "\uc7a5, \uc900\uc6b0",
+    "finish_time": "01:26:43",
+    "finish_seconds": 5203
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 381,
+    "name": "\uc815, \uc6a9\uc6b4",
+    "finish_time": "01:26:46",
+    "finish_seconds": 5206
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 383,
+    "name": "\uc804, \uc911\ubc94",
+    "finish_time": "01:26:55",
+    "finish_seconds": 5215
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 385,
+    "name": "\ub098, \uc8fc\uc5f0",
+    "finish_time": "01:27:12",
+    "finish_seconds": 5232
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 387,
+    "name": "\ubc15, \uc9c4\uc815",
+    "finish_time": "01:27:14",
+    "finish_seconds": 5234
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 389,
+    "name": "Ko, Kwan-Yong",
+    "finish_time": "01:27:25",
+    "finish_seconds": 5245
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 391,
+    "name": "\uae40, \uac74\ud76c",
+    "finish_time": "01:27:33",
+    "finish_seconds": 5253
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 393,
+    "name": "\ucd5c, \uc778\ud658",
+    "finish_time": "01:27:38",
+    "finish_seconds": 5258
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 395,
+    "name": "\ubc15, \uc7ac\ud601",
+    "finish_time": "01:27:42",
+    "finish_seconds": 5262
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 397,
+    "name": "Lee, Yeonho",
+    "finish_time": "01:27:45",
+    "finish_seconds": 5265
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 399,
+    "name": "\ud55c, \uc7ac\ubbfc",
+    "finish_time": "01:27:48",
+    "finish_seconds": 5268
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 401,
+    "name": "Kim, Kyungmo",
+    "finish_time": "01:27:56",
+    "finish_seconds": 5276
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 403,
+    "name": "Kim, Hyung Kyu",
+    "finish_time": "01:28:04",
+    "finish_seconds": 5284
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 405,
+    "name": "Iskandar, Saiful",
+    "finish_time": "01:28:08",
+    "finish_seconds": 5288
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 407,
+    "name": "Kang, Naru",
+    "finish_time": "01:28:12",
+    "finish_seconds": 5292
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 409,
+    "name": "Choi, Wonyeol",
+    "finish_time": "01:28:23",
+    "finish_seconds": 5303
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 411,
+    "name": "\ubc15, \uc7ac\ubb38",
+    "finish_time": "01:28:24",
+    "finish_seconds": 5304
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 413,
+    "name": "\uc624, \ud55c\uc194",
+    "finish_time": "01:28:27",
+    "finish_seconds": 5307
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 415,
+    "name": "\uc774, \uc778\uc131",
+    "finish_time": "01:28:32",
+    "finish_seconds": 5312
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 417,
+    "name": "\uc2e0, \uacbd\ub300",
+    "finish_time": "01:28:33",
+    "finish_seconds": 5313
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 419,
+    "name": "\ub178, \uc2b9\ud6c8",
+    "finish_time": "01:28:41",
+    "finish_seconds": 5321
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 421,
+    "name": "\uc7ac\ubbfc, \uc815",
+    "finish_time": "01:28:45",
+    "finish_seconds": 5325
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 423,
+    "name": "\uc591, \uc6b0\uc601",
+    "finish_time": "01:28:57",
+    "finish_seconds": 5337
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 425,
+    "name": "\ucd5c, \uc815\uade0",
+    "finish_time": "01:28:59",
+    "finish_seconds": 5339
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 427,
+    "name": "Leerungruang, Vasavat",
+    "finish_time": "01:29:02",
+    "finish_seconds": 5342
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 429,
+    "name": "Lee, Hakseung",
+    "finish_time": "01:29:07",
+    "finish_seconds": 5347
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 431,
+    "name": "Lee, Yonghee",
+    "finish_time": "01:29:14",
+    "finish_seconds": 5354
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 433,
+    "name": "\uc804, \ubbfc\uaddc",
+    "finish_time": "01:29:35",
+    "finish_seconds": 5375
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 435,
+    "name": "\ud570, \uae38\ud638",
+    "finish_time": "01:29:39",
+    "finish_seconds": 5379
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 437,
+    "name": "\uc591, \uc77c\ucc2c",
+    "finish_time": "01:29:51",
+    "finish_seconds": 5391
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 439,
+    "name": "Ramdzan, Hadziq",
+    "finish_time": "01:29:58",
+    "finish_seconds": 5398
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 441,
+    "name": "Sytat, Leonard",
+    "finish_time": "01:30:00",
+    "finish_seconds": 5400
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 443,
+    "name": "\uae40, \ud604\uc2b9",
+    "finish_time": "01:30:00",
+    "finish_seconds": 5400
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 445,
+    "name": "Lee, Wontaek",
+    "finish_time": "01:30:04",
+    "finish_seconds": 5404
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 447,
+    "name": "\ubc15, \ud615\uc900",
+    "finish_time": "01:30:13",
+    "finish_seconds": 5413
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 449,
+    "name": "Pasco, Alex",
+    "finish_time": "01:30:14",
+    "finish_seconds": 5414
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 451,
+    "name": "Blanche, Corentin",
+    "finish_time": "01:30:23",
+    "finish_seconds": 5423
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 453,
+    "name": "\uc7a5, \ucc2c",
+    "finish_time": "01:30:35",
+    "finish_seconds": 5435
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 455,
+    "name": "\uae40, \ub77d\uacbd",
+    "finish_time": "01:30:58",
+    "finish_seconds": 5458
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 457,
+    "name": "\uc784, \uc2b9\uc9c4",
+    "finish_time": "01:31:09",
+    "finish_seconds": 5469
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 459,
+    "name": "Chanapa, Pakorn",
+    "finish_time": "01:31:17",
+    "finish_seconds": 5477
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 461,
+    "name": "Truong, Chris",
+    "finish_time": "01:31:19",
+    "finish_seconds": 5479
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 463,
+    "name": "\uc2ec, \ubbfc\uac11",
+    "finish_time": "01:31:31",
+    "finish_seconds": 5491
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 465,
+    "name": "\uc774, \uc9c0\ud55c",
+    "finish_time": "01:31:44",
+    "finish_seconds": 5504
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 467,
+    "name": "Okada, Kaito",
+    "finish_time": "01:31:46",
+    "finish_seconds": 5506
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 469,
+    "name": "\uc724, \uc7ac\ubbfc",
+    "finish_time": "01:32:02",
+    "finish_seconds": 5522
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 471,
+    "name": "Hananto, Edward",
+    "finish_time": "01:32:03",
+    "finish_seconds": 5523
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 473,
+    "name": "\uad8c, \uc601\uc120",
+    "finish_time": "01:32:07",
+    "finish_seconds": 5527
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 475,
+    "name": "Lee, Dong Ik",
+    "finish_time": "01:32:23",
+    "finish_seconds": 5543
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 477,
+    "name": "\uac15, \ud76c\ucc2c",
+    "finish_time": "01:32:34",
+    "finish_seconds": 5554
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 479,
+    "name": "Viola, Ivan",
+    "finish_time": "01:32:38",
+    "finish_seconds": 5558
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 481,
+    "name": "Ng, Justin",
+    "finish_time": "01:32:45",
+    "finish_seconds": 5565
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 483,
+    "name": "Resurreccion, Angel Jose",
+    "finish_time": "01:32:51",
+    "finish_seconds": 5571
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 485,
+    "name": "Chung, Hae Yoon",
+    "finish_time": "01:32:59",
+    "finish_seconds": 5579
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 487,
+    "name": "Ladriere, Antoine",
+    "finish_time": "01:33:01",
+    "finish_seconds": 5581
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 489,
+    "name": "\ud558, \ub3d9\ud604",
+    "finish_time": "01:33:10",
+    "finish_seconds": 5590
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 491,
+    "name": "Ho, Yaohui",
+    "finish_time": "01:33:20",
+    "finish_seconds": 5600
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 493,
+    "name": "\ucd5c, \uc131\ud601",
+    "finish_time": "01:33:35",
+    "finish_seconds": 5615
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 495,
+    "name": "Ahn, Sungho",
+    "finish_time": "01:33:45",
+    "finish_seconds": 5625
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 497,
+    "name": "\uc2e0, \uc900\uc12d",
+    "finish_time": "01:33:56",
+    "finish_seconds": 5636
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 499,
+    "name": "Mah, Zhen Jia",
+    "finish_time": "01:34:00",
+    "finish_seconds": 5640
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 501,
+    "name": "\uc774, \uae30\ud638",
+    "finish_time": "01:34:07",
+    "finish_seconds": 5647
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 503,
+    "name": "Bae, Sungwoo",
+    "finish_time": "01:34:10",
+    "finish_seconds": 5650
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 505,
+    "name": "\uc2e0, \ud604\uc7ac",
+    "finish_time": "01:34:13",
+    "finish_seconds": 5653
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 507,
+    "name": "Platon, Ted",
+    "finish_time": "01:34:17",
+    "finish_seconds": 5657
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 509,
+    "name": "Lee, Sam",
+    "finish_time": "01:34:29",
+    "finish_seconds": 5669
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 511,
+    "name": "Jeong, Gunhwi",
+    "finish_time": "01:34:42",
+    "finish_seconds": 5682
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 513,
+    "name": "Albert, George Francis",
+    "finish_time": "01:34:46",
+    "finish_seconds": 5686
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 515,
+    "name": "Lin, Tzu Chun",
+    "finish_time": "01:35:06",
+    "finish_seconds": 5706
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 517,
+    "name": "Choudhury, Akram",
+    "finish_time": "01:35:43",
+    "finish_seconds": 5743
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 519,
+    "name": "Nguyen Ngoc, Bach (Alex)",
+    "finish_time": "01:35:57",
+    "finish_seconds": 5757
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 521,
+    "name": "\uc774, \uc138\uc5f0",
+    "finish_time": "01:36:33",
+    "finish_seconds": 5793
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 523,
+    "name": "\uc774, \uc900\ud601",
+    "finish_time": "01:36:45",
+    "finish_seconds": 5805
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 525,
+    "name": "\ub0a8, \uae30\ud0dc",
+    "finish_time": "01:36:52",
+    "finish_seconds": 5812
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 527,
+    "name": "Prasatwattana, Chakrit",
+    "finish_time": "01:37:00",
+    "finish_seconds": 5820
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 529,
+    "name": "\uae40, \uc218\ucca0",
+    "finish_time": "01:37:04",
+    "finish_seconds": 5824
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 531,
+    "name": "Bae, Kyungwoo",
+    "finish_time": "01:37:07",
+    "finish_seconds": 5827
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 533,
+    "name": "Terral, Blakeley",
+    "finish_time": "01:37:35",
+    "finish_seconds": 5855
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 535,
+    "name": "Rais, Ben",
+    "finish_time": "01:37:38",
+    "finish_seconds": 5858
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 537,
+    "name": "Alblooshi, Obaid",
+    "finish_time": "01:37:39",
+    "finish_seconds": 5859
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 539,
+    "name": "\uc7a5, \uc900\uc601",
+    "finish_time": "01:37:49",
+    "finish_seconds": 5869
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 541,
+    "name": "\uae40, \uc7ac\ud604",
+    "finish_time": "01:37:59",
+    "finish_seconds": 5879
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 543,
+    "name": "\uace0, \ud574\uc77c",
+    "finish_time": "01:38:03",
+    "finish_seconds": 5883
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 545,
+    "name": "\uc870, \uc6a9\uc77c",
+    "finish_time": "01:38:31",
+    "finish_seconds": 5911
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 547,
+    "name": "Kim, Dongsub",
+    "finish_time": "01:38:35",
+    "finish_seconds": 5915
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 549,
+    "name": "Soesanto, Wendy Kurniawan",
+    "finish_time": "01:38:40",
+    "finish_seconds": 5920
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 551,
+    "name": "\uc815, \uc9c4\ud558",
+    "finish_time": "01:38:46",
+    "finish_seconds": 5926
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 553,
+    "name": "\uae40, \uc815\uc218",
+    "finish_time": "01:38:55",
+    "finish_seconds": 5935
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 555,
+    "name": "\uc11c, \ud0dc\uc9c4",
+    "finish_time": "01:38:56",
+    "finish_seconds": 5936
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 557,
+    "name": "\ubc15, \uc7ac\uade0",
+    "finish_time": "01:39:14",
+    "finish_seconds": 5954
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 559,
+    "name": "Salonga, Darren",
+    "finish_time": "01:39:20",
+    "finish_seconds": 5960
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "M",
+    "rank": 561,
+    "name": "Koeninger, Kevin",
+    "finish_time": "01:39:43",
+    "finish_seconds": 5983
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 1,
+    "name": "Thomson, Katie",
+    "finish_time": "01:06:54",
+    "finish_seconds": 4014
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 3,
+    "name": "Kim, Sujin",
+    "finish_time": "01:09:20",
+    "finish_seconds": 4160
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 5,
+    "name": "Hung, Peifang",
+    "finish_time": "01:10:07",
+    "finish_seconds": 4207
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 7,
+    "name": "Kim, Dohee",
+    "finish_time": "01:10:32",
+    "finish_seconds": 4232
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 9,
+    "name": "Capraro, Silvia",
+    "finish_time": "01:12:39",
+    "finish_seconds": 4359
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 11,
+    "name": "Deasy, Aine",
+    "finish_time": "01:14:24",
+    "finish_seconds": 4464
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 13,
+    "name": "Lumlertsup, Thansinee",
+    "finish_time": "01:15:47",
+    "finish_seconds": 4547
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 15,
+    "name": "\uc624, \ud604\uc815",
+    "finish_time": "01:16:44",
+    "finish_seconds": 4604
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 17,
+    "name": "\uc784, \uc774\ub984",
+    "finish_time": "01:17:48",
+    "finish_seconds": 4668
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 19,
+    "name": "Kim, Sohyeon",
+    "finish_time": "01:17:58",
+    "finish_seconds": 4678
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 21,
+    "name": "Ducaffy, Sascha",
+    "finish_time": "01:18:07",
+    "finish_seconds": 4687
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 23,
+    "name": "Ip, Karen",
+    "finish_time": "01:18:21",
+    "finish_seconds": 4701
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 25,
+    "name": "Wynne, Alisa",
+    "finish_time": "01:18:25",
+    "finish_seconds": 4705
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 27,
+    "name": "Olsen, Tonia",
+    "finish_time": "01:19:02",
+    "finish_seconds": 4742
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 29,
+    "name": "Lachaume, Lea",
+    "finish_time": "01:19:30",
+    "finish_seconds": 4770
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 31,
+    "name": "Noh, Julia",
+    "finish_time": "01:19:40",
+    "finish_seconds": 4780
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 33,
+    "name": "Lee, Michelle",
+    "finish_time": "01:20:05",
+    "finish_seconds": 4805
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 35,
+    "name": "Chun, Daran",
+    "finish_time": "01:20:19",
+    "finish_seconds": 4819
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 37,
+    "name": "Suan, Lee",
+    "finish_time": "01:20:29",
+    "finish_seconds": 4829
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 39,
+    "name": "\ubc31, \uc9c0\ud61c",
+    "finish_time": "01:20:42",
+    "finish_seconds": 4842
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 41,
+    "name": "Coker, Stevie",
+    "finish_time": "01:21:07",
+    "finish_seconds": 4867
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 43,
+    "name": "\ud55c, \ud61c\ubbf8",
+    "finish_time": "01:21:52",
+    "finish_seconds": 4912
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 45,
+    "name": "\ucc44, \uc8fc\uc5f0",
+    "finish_time": "01:21:55",
+    "finish_seconds": 4915
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 47,
+    "name": "\ucd5c, \ud558\uc601",
+    "finish_time": "01:22:12",
+    "finish_seconds": 4932
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 49,
+    "name": "\uc774, \uc724\uc784",
+    "finish_time": "01:22:24",
+    "finish_seconds": 4944
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 51,
+    "name": "\uc774, \uc124\uc5f0",
+    "finish_time": "01:22:39",
+    "finish_seconds": 4959
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 53,
+    "name": "\uc815, \uc8fc\ud76c",
+    "finish_time": "01:22:51",
+    "finish_seconds": 4971
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 55,
+    "name": "Kim, Hyemi",
+    "finish_time": "01:23:30",
+    "finish_seconds": 5010
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 57,
+    "name": "Wright, Natasha",
+    "finish_time": "01:23:45",
+    "finish_seconds": 5025
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 59,
+    "name": "Kim, Hanwool",
+    "finish_time": "01:23:46",
+    "finish_seconds": 5026
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 61,
+    "name": "Yoo, Hoyeon",
+    "finish_time": "01:24:02",
+    "finish_seconds": 5042
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 63,
+    "name": "Kamaludin, Marina",
+    "finish_time": "01:24:21",
+    "finish_seconds": 5061
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 65,
+    "name": "\uc7a5, \ud61c\uc5f0",
+    "finish_time": "01:24:28",
+    "finish_seconds": 5068
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 67,
+    "name": "An, Saho",
+    "finish_time": "01:24:38",
+    "finish_seconds": 5078
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 69,
+    "name": "Kim, Hyemin",
+    "finish_time": "01:25:04",
+    "finish_seconds": 5104
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 71,
+    "name": "Loo, Symphony",
+    "finish_time": "01:25:20",
+    "finish_seconds": 5120
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 73,
+    "name": "Schwartz, Jinhee",
+    "finish_time": "01:25:22",
+    "finish_seconds": 5122
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 75,
+    "name": "\uae40, \uc138\uc774",
+    "finish_time": "01:25:47",
+    "finish_seconds": 5147
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 77,
+    "name": "\uc548, \uae08\uc8fc",
+    "finish_time": "01:26:00",
+    "finish_seconds": 5160
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 79,
+    "name": "Hoehne, Verena",
+    "finish_time": "01:26:09",
+    "finish_seconds": 5169
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 81,
+    "name": "Lin, Hoi Tung",
+    "finish_time": "01:26:39",
+    "finish_seconds": 5199
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 83,
+    "name": "\uae40, \ud604\ub0a8",
+    "finish_time": "01:26:43",
+    "finish_seconds": 5203
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 85,
+    "name": "\uae40, \uc7ac\ud76c",
+    "finish_time": "01:27:02",
+    "finish_seconds": 5222
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 87,
+    "name": "Shin, Gyeong Jin",
+    "finish_time": "01:27:29",
+    "finish_seconds": 5249
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 89,
+    "name": "\uc815, \uc218\ube48",
+    "finish_time": "01:27:34",
+    "finish_seconds": 5254
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 91,
+    "name": "\ud55c, \uc608\uc2ac",
+    "finish_time": "01:27:40",
+    "finish_seconds": 5260
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 93,
+    "name": "Harland, Shivani",
+    "finish_time": "01:28:04",
+    "finish_seconds": 5284
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 95,
+    "name": "\uc870, \uacbd\uc219",
+    "finish_time": "01:28:25",
+    "finish_seconds": 5305
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 97,
+    "name": "Putthabudsaba, Raweewan",
+    "finish_time": "01:28:39",
+    "finish_seconds": 5319
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 99,
+    "name": "Lee, Joyce",
+    "finish_time": "01:28:43",
+    "finish_seconds": 5323
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 101,
+    "name": "\ubc15, \ud604\uc815",
+    "finish_time": "01:28:48",
+    "finish_seconds": 5328
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 103,
+    "name": "\uc774, \uc0c1\ud76c",
+    "finish_time": "01:29:24",
+    "finish_seconds": 5364
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 105,
+    "name": "\uc7a5, \uc2dc\uc6d0",
+    "finish_time": "01:29:30",
+    "finish_seconds": 5370
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 107,
+    "name": "\ubc15, \uc9c0\uc120",
+    "finish_time": "01:29:37",
+    "finish_seconds": 5377
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 109,
+    "name": "Keldibekova, Indira",
+    "finish_time": "01:29:43",
+    "finish_seconds": 5383
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 111,
+    "name": "\uae40, \uc9c4\uc11c",
+    "finish_time": "01:29:51",
+    "finish_seconds": 5391
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 113,
+    "name": "\uc624, \ud61c\uc778",
+    "finish_time": "01:29:57",
+    "finish_seconds": 5397
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 115,
+    "name": "\uc774, \uba85\ud76c",
+    "finish_time": "01:30:05",
+    "finish_seconds": 5405
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 117,
+    "name": "Budsamalee, Supattra",
+    "finish_time": "01:30:14",
+    "finish_seconds": 5414
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 119,
+    "name": "Wongwatanasanti, Ninnita",
+    "finish_time": "01:30:34",
+    "finish_seconds": 5434
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 121,
+    "name": "\uae40, \ub098\ud76c",
+    "finish_time": "01:30:53",
+    "finish_seconds": 5453
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 123,
+    "name": "\uae40, \uc6b0\uc8fc",
+    "finish_time": "01:31:18",
+    "finish_seconds": 5478
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 125,
+    "name": "\ud5c8, \uc560\uc9c0",
+    "finish_time": "01:31:33",
+    "finish_seconds": 5493
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 127,
+    "name": "Kim, Minji",
+    "finish_time": "01:31:47",
+    "finish_seconds": 5507
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 129,
+    "name": "\uae40, \uc9c0\ud61c",
+    "finish_time": "01:31:57",
+    "finish_seconds": 5517
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 131,
+    "name": "\ud55c, \uccad\ube44",
+    "finish_time": "01:32:00",
+    "finish_seconds": 5520
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 133,
+    "name": "Wong, Vanessa",
+    "finish_time": "01:32:04",
+    "finish_seconds": 5524
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 135,
+    "name": "\ubc15, \ud6a8\ubbfc",
+    "finish_time": "01:32:22",
+    "finish_seconds": 5542
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 137,
+    "name": "\ucd5c, \uc0c1\uc6b4",
+    "finish_time": "01:32:28",
+    "finish_seconds": 5548
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 139,
+    "name": "Petra, Glithero",
+    "finish_time": "01:32:33",
+    "finish_seconds": 5553
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 141,
+    "name": "Nguyen, Susan",
+    "finish_time": "01:32:49",
+    "finish_seconds": 5569
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 143,
+    "name": "\uc720, \ucc44\ub9bc",
+    "finish_time": "01:33:13",
+    "finish_seconds": 5593
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 145,
+    "name": "\uc774, \uc120\ud76c",
+    "finish_time": "01:33:20",
+    "finish_seconds": 5600
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 147,
+    "name": "Mendoza, Abby",
+    "finish_time": "01:33:28",
+    "finish_seconds": 5608
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 149,
+    "name": "\uae40, \uc740\uc9c0",
+    "finish_time": "01:33:42",
+    "finish_seconds": 5622
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 151,
+    "name": "\ucd5c, \ucc3d\uc740",
+    "finish_time": "01:33:54",
+    "finish_seconds": 5634
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 153,
+    "name": "\uc11c, \uc9c0\uc601",
+    "finish_time": "01:33:58",
+    "finish_seconds": 5638
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 155,
+    "name": "\u5ddd\u7aef, \u91cc\u4f73",
+    "finish_time": "01:34:04",
+    "finish_seconds": 5644
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 157,
+    "name": "Maya Sari, Sri",
+    "finish_time": "01:34:10",
+    "finish_seconds": 5650
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 159,
+    "name": "\uae40, \uace0\uc740",
+    "finish_time": "01:34:31",
+    "finish_seconds": 5671
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 161,
+    "name": "Lestari, Ria",
+    "finish_time": "01:34:49",
+    "finish_seconds": 5689
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 163,
+    "name": "Kussembayeva, Madina",
+    "finish_time": "01:35:04",
+    "finish_seconds": 5704
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 165,
+    "name": "\uc784, \ud0dc\ud604",
+    "finish_time": "01:35:38",
+    "finish_seconds": 5738
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 167,
+    "name": "Villalon, Yunissan Carmel",
+    "finish_time": "01:35:41",
+    "finish_seconds": 5741
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 169,
+    "name": "Yoon, Heejeong",
+    "finish_time": "01:35:56",
+    "finish_seconds": 5756
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 171,
+    "name": "\ubc15, \ucc44\uc601",
+    "finish_time": "01:36:00",
+    "finish_seconds": 5760
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 173,
+    "name": "Eo, Wanseon",
+    "finish_time": "01:36:16",
+    "finish_seconds": 5776
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 175,
+    "name": "Yoon, Junghee",
+    "finish_time": "01:36:24",
+    "finish_seconds": 5784
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 177,
+    "name": "Hwang, Mijin",
+    "finish_time": "01:36:27",
+    "finish_seconds": 5787
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 179,
+    "name": "Htun, Mya Sandi",
+    "finish_time": "01:36:39",
+    "finish_seconds": 5799
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 181,
+    "name": "Stubbs, Sienna",
+    "finish_time": "01:36:50",
+    "finish_seconds": 5810
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 183,
+    "name": "\uc2b9, \ud604\uc218",
+    "finish_time": "01:37:05",
+    "finish_seconds": 5825
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 185,
+    "name": "\uac15, \ubb38\ud76c",
+    "finish_time": "01:37:14",
+    "finish_seconds": 5834
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 187,
+    "name": "\uae40, \ubbf8\uc601",
+    "finish_time": "01:37:50",
+    "finish_seconds": 5870
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 189,
+    "name": "Lim, Mae Vonne",
+    "finish_time": "01:37:54",
+    "finish_seconds": 5874
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 191,
+    "name": "\uc6d0, \uc740\uc815",
+    "finish_time": "01:38:07",
+    "finish_seconds": 5887
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 193,
+    "name": "Kraiphirasak, Chananpat",
+    "finish_time": "01:38:24",
+    "finish_seconds": 5904
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 195,
+    "name": "\uc11c, \uc5f0\uc6b0",
+    "finish_time": "01:38:39",
+    "finish_seconds": 5919
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 197,
+    "name": "Tan, Tuan Siew",
+    "finish_time": "01:38:46",
+    "finish_seconds": 5926
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 199,
+    "name": "Kamaratih, Ajeng",
+    "finish_time": "01:38:58",
+    "finish_seconds": 5938
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 201,
+    "name": "Crystalia, Angelina",
+    "finish_time": "01:39:20",
+    "finish_seconds": 5960
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 203,
+    "name": "\ubb38, \uc194\ubbfc",
+    "finish_time": "01:39:33",
+    "finish_seconds": 5973
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 205,
+    "name": "Park, Jiyoung",
+    "finish_time": "01:39:47",
+    "finish_seconds": 5987
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 207,
+    "name": "Ng, Nathenia",
+    "finish_time": "01:39:53",
+    "finish_seconds": 5993
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 209,
+    "name": "Kim, Yujin",
+    "finish_time": "01:40:03",
+    "finish_seconds": 6003
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 211,
+    "name": "Mohd Shahru, Intan Shahira",
+    "finish_time": "01:40:26",
+    "finish_seconds": 6026
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 213,
+    "name": "\ud604\uc815, \uc815",
+    "finish_time": "01:40:29",
+    "finish_seconds": 6029
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 215,
+    "name": "\uc774, \uc194\uc544",
+    "finish_time": "01:41:00",
+    "finish_seconds": 6060
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 217,
+    "name": "Rahman, Syahirah",
+    "finish_time": "01:41:27",
+    "finish_seconds": 6087
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 219,
+    "name": "Mairanda, Silvia",
+    "finish_time": "01:41:36",
+    "finish_seconds": 6096
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 221,
+    "name": "Ahbabachet, Nouhaila",
+    "finish_time": "01:41:49",
+    "finish_seconds": 6109
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 223,
+    "name": "Ang, Aimee",
+    "finish_time": "01:42:02",
+    "finish_seconds": 6122
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 225,
+    "name": "\uae40, \uc9c0\ud61c",
+    "finish_time": "01:42:49",
+    "finish_seconds": 6169
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 227,
+    "name": "\ubc15, \uc218\uc778",
+    "finish_time": "01:42:55",
+    "finish_seconds": 6175
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 229,
+    "name": "Butterfly, Felly",
+    "finish_time": "01:43:15",
+    "finish_seconds": 6195
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 231,
+    "name": "Roh, Heeyoung",
+    "finish_time": "01:43:36",
+    "finish_seconds": 6216
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 233,
+    "name": "Kang, Eunju",
+    "finish_time": "01:43:44",
+    "finish_seconds": 6224
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 235,
+    "name": "Kim, Heena",
+    "finish_time": "01:44:01",
+    "finish_seconds": 6241
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 237,
+    "name": "Grange, Joanne",
+    "finish_time": "01:44:13",
+    "finish_seconds": 6253
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 239,
+    "name": "Yeh, Yani",
+    "finish_time": "01:44:26",
+    "finish_seconds": 6266
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 241,
+    "name": "Natalia, Femi",
+    "finish_time": "01:44:54",
+    "finish_seconds": 6294
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 243,
+    "name": "\uae40, \uc720\ub77c",
+    "finish_time": "01:45:12",
+    "finish_seconds": 6312
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 245,
+    "name": "Kim, Jiyul",
+    "finish_time": "01:45:21",
+    "finish_seconds": 6321
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 247,
+    "name": "\uc591, \uc120\uc544",
+    "finish_time": "01:45:40",
+    "finish_seconds": 6340
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 249,
+    "name": "Khanthong, Chutita",
+    "finish_time": "01:46:18",
+    "finish_seconds": 6378
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 251,
+    "name": "Beresford, Samantha",
+    "finish_time": "01:46:44",
+    "finish_seconds": 6404
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 253,
+    "name": "Park, Soyeon",
+    "finish_time": "01:47:54",
+    "finish_seconds": 6474
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 255,
+    "name": "Comia, Martha Nikko",
+    "finish_time": "01:48:19",
+    "finish_seconds": 6499
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 257,
+    "name": "\uc548, \uc218\uc601",
+    "finish_time": "01:48:26",
+    "finish_seconds": 6506
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 259,
+    "name": "Joon, Fong Keng",
+    "finish_time": "01:48:41",
+    "finish_seconds": 6521
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 261,
+    "name": "Beaver, Kathryn",
+    "finish_time": "01:49:24",
+    "finish_seconds": 6564
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 263,
+    "name": "\uae40, \uc601\uc544",
+    "finish_time": "01:49:48",
+    "finish_seconds": 6588
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 265,
+    "name": "Choi, Mina",
+    "finish_time": "01:50:06",
+    "finish_seconds": 6606
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 267,
+    "name": "Ocampo, Alelie",
+    "finish_time": "01:50:39",
+    "finish_seconds": 6639
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 269,
+    "name": "\ubc15, \uc18c\ud76c",
+    "finish_time": "01:51:15",
+    "finish_seconds": 6675
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 271,
+    "name": "Reisa, Steffian",
+    "finish_time": "01:51:27",
+    "finish_seconds": 6687
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 273,
+    "name": "Hwang, Hyekyung",
+    "finish_time": "01:51:53",
+    "finish_seconds": 6713
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 275,
+    "name": "Davis, Sanchi",
+    "finish_time": "01:52:00",
+    "finish_seconds": 6720
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 277,
+    "name": "Descauses, Louisa",
+    "finish_time": "01:52:11",
+    "finish_seconds": 6731
+  },
+  {
+    "venue": "2025 Seoul",
+    "gender": "W",
+    "rank": 279,
+    "name": "Neira, Anna",
+    "finish_time": "01:52:37",
+    "finish_seconds": 6757
+  }
+]

@@ -1,0 +1,8682 @@
+[
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1,
+    "name": "Cartwright, Lawrence",
+    "finish_time": "00:56:18",
+    "finish_seconds": 3378
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 3,
+    "name": "Beugel, Rik",
+    "finish_time": "00:59:30",
+    "finish_seconds": 3570
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 5,
+    "name": "Hong, Beomseok",
+    "finish_time": "01:00:26",
+    "finish_seconds": 3626
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 7,
+    "name": "Hunt, Brendan",
+    "finish_time": "01:02:32",
+    "finish_seconds": 3752
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 9,
+    "name": "Jumabhoy, Luca",
+    "finish_time": "01:03:44",
+    "finish_seconds": 3824
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 11,
+    "name": "Granger, Hamish",
+    "finish_time": "01:03:56",
+    "finish_seconds": 3836
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 13,
+    "name": "Lin, Han",
+    "finish_time": "01:04:06",
+    "finish_seconds": 3846
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 15,
+    "name": "Chevalier, Romain",
+    "finish_time": "01:04:14",
+    "finish_seconds": 3854
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 17,
+    "name": "Tan, Wei Bin",
+    "finish_time": "01:04:29",
+    "finish_seconds": 3869
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 19,
+    "name": "Roig, David",
+    "finish_time": "01:04:42",
+    "finish_seconds": 3882
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 21,
+    "name": "Martinez, Anthony",
+    "finish_time": "01:04:46",
+    "finish_seconds": 3886
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 23,
+    "name": "Wongma, Kajohnsin",
+    "finish_time": "01:05:18",
+    "finish_seconds": 3918
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 25,
+    "name": "Kuo, Sihao",
+    "finish_time": "01:05:39",
+    "finish_seconds": 3939
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 27,
+    "name": "Mohd Pittli, Mohd Saddam",
+    "finish_time": "01:05:55",
+    "finish_seconds": 3955
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 29,
+    "name": "Kennedy, Luke",
+    "finish_time": "01:06:12",
+    "finish_seconds": 3972
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 31,
+    "name": "Barton, Kaleb",
+    "finish_time": "01:06:31",
+    "finish_seconds": 3991
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 33,
+    "name": "How, Isaiah",
+    "finish_time": "01:06:59",
+    "finish_seconds": 4019
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 35,
+    "name": "Phillips, Richard",
+    "finish_time": "01:07:22",
+    "finish_seconds": 4042
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 37,
+    "name": "Widmer, Dario",
+    "finish_time": "01:07:49",
+    "finish_seconds": 4069
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 39,
+    "name": "Ansari, Tahir",
+    "finish_time": "01:08:01",
+    "finish_seconds": 4081
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 41,
+    "name": "Takimoto, Kyosuke",
+    "finish_time": "01:08:16",
+    "finish_seconds": 4096
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 43,
+    "name": "Sekiyoshi, Daisuke",
+    "finish_time": "01:08:21",
+    "finish_seconds": 4101
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 45,
+    "name": "Mounal, Pierre",
+    "finish_time": "01:08:34",
+    "finish_seconds": 4114
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 47,
+    "name": "Jensen, Frederik Werner",
+    "finish_time": "01:08:41",
+    "finish_seconds": 4121
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 49,
+    "name": "Takeda, Ten",
+    "finish_time": "01:08:51",
+    "finish_seconds": 4131
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 51,
+    "name": "Yee, Christopher",
+    "finish_time": "01:09:01",
+    "finish_seconds": 4141
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 53,
+    "name": "Law, Chun Yip",
+    "finish_time": "01:09:32",
+    "finish_seconds": 4172
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 55,
+    "name": "Blasco, David",
+    "finish_time": "01:09:35",
+    "finish_seconds": 4175
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 57,
+    "name": "Teo, Ewin",
+    "finish_time": "01:10:11",
+    "finish_seconds": 4211
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 59,
+    "name": "Schindler, Maik",
+    "finish_time": "01:10:53",
+    "finish_seconds": 4253
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 61,
+    "name": "Cheng, Daryl",
+    "finish_time": "01:11:18",
+    "finish_seconds": 4278
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 63,
+    "name": "Henry, Paul",
+    "finish_time": "01:11:26",
+    "finish_seconds": 4286
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 65,
+    "name": "See, Kyle",
+    "finish_time": "01:12:06",
+    "finish_seconds": 4326
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 67,
+    "name": "Chaipukdee, Noppong",
+    "finish_time": "01:12:21",
+    "finish_seconds": 4341
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 69,
+    "name": "Almeida, Gon\u00e7alo",
+    "finish_time": "01:12:26",
+    "finish_seconds": 4346
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 71,
+    "name": "Chan, Jonathan",
+    "finish_time": "01:12:45",
+    "finish_seconds": 4365
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 73,
+    "name": "Hui, Shing Cheuk",
+    "finish_time": "01:12:57",
+    "finish_seconds": 4377
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 75,
+    "name": "Roslan, Alim",
+    "finish_time": "01:13:06",
+    "finish_seconds": 4386
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 77,
+    "name": "Saggus, Tommy",
+    "finish_time": "01:13:15",
+    "finish_seconds": 4395
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 79,
+    "name": "Lim, Melvin",
+    "finish_time": "01:13:24",
+    "finish_seconds": 4404
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 81,
+    "name": "Tung, Eugene",
+    "finish_time": "01:13:27",
+    "finish_seconds": 4407
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 83,
+    "name": "Kim, Cheongsol",
+    "finish_time": "01:13:30",
+    "finish_seconds": 4410
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 85,
+    "name": "Gander, Marco",
+    "finish_time": "01:13:37",
+    "finish_seconds": 4417
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 87,
+    "name": "Vazifehdoust, Ali",
+    "finish_time": "01:13:44",
+    "finish_seconds": 4424
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 89,
+    "name": "Abreu Mart\u00ednez, Jordano",
+    "finish_time": "01:13:55",
+    "finish_seconds": 4435
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 91,
+    "name": "Chang, Lucas",
+    "finish_time": "01:13:57",
+    "finish_seconds": 4437
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 93,
+    "name": "Lumba, Mauro",
+    "finish_time": "01:14:09",
+    "finish_seconds": 4449
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 95,
+    "name": "Radzi, Naim",
+    "finish_time": "01:14:14",
+    "finish_seconds": 4454
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 97,
+    "name": "Masahiro, Kawashima",
+    "finish_time": "01:14:23",
+    "finish_seconds": 4463
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 99,
+    "name": "Miller, Elliot",
+    "finish_time": "01:14:29",
+    "finish_seconds": 4469
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 101,
+    "name": "Slater, Matthew",
+    "finish_time": "01:14:33",
+    "finish_seconds": 4473
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 103,
+    "name": "Tan, Ben",
+    "finish_time": "01:14:41",
+    "finish_seconds": 4481
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 105,
+    "name": "Shibamoto, Itsuki",
+    "finish_time": "01:15:05",
+    "finish_seconds": 4505
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 107,
+    "name": "Hutauruk, Ronaldo",
+    "finish_time": "01:15:09",
+    "finish_seconds": 4509
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 109,
+    "name": "Auesatjapon, Noppawat",
+    "finish_time": "01:15:23",
+    "finish_seconds": 4523
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 111,
+    "name": "Ugur, Dan",
+    "finish_time": "01:15:33",
+    "finish_seconds": 4533
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 113,
+    "name": "Ndaoud, Mohamed",
+    "finish_time": "01:15:53",
+    "finish_seconds": 4553
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 115,
+    "name": "Ahnert, Marko",
+    "finish_time": "01:15:57",
+    "finish_seconds": 4557
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 117,
+    "name": "Baltenis, Simonas",
+    "finish_time": "01:16:02",
+    "finish_seconds": 4562
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 119,
+    "name": "Degeyter, Brice",
+    "finish_time": "01:16:10",
+    "finish_seconds": 4570
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 121,
+    "name": "Lindsay, Iain",
+    "finish_time": "01:16:21",
+    "finish_seconds": 4581
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 123,
+    "name": "O\u2019Connor, Steven",
+    "finish_time": "01:16:30",
+    "finish_seconds": 4590
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 125,
+    "name": "Kirrbach, Christian",
+    "finish_time": "01:16:35",
+    "finish_seconds": 4595
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 127,
+    "name": "Arai, Yuji",
+    "finish_time": "01:16:50",
+    "finish_seconds": 4610
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 129,
+    "name": "Sahadian, Adam Malek",
+    "finish_time": "01:16:51",
+    "finish_seconds": 4611
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 131,
+    "name": "Lim, Zachary",
+    "finish_time": "01:17:12",
+    "finish_seconds": 4632
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 133,
+    "name": "Rozsa, Dan",
+    "finish_time": "01:17:16",
+    "finish_seconds": 4636
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 135,
+    "name": "Turiahdassu, Yuvaraj",
+    "finish_time": "01:17:18",
+    "finish_seconds": 4638
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 137,
+    "name": "Tay, Pesdy",
+    "finish_time": "01:17:23",
+    "finish_seconds": 4643
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 139,
+    "name": "Bader, Axel",
+    "finish_time": "01:17:29",
+    "finish_seconds": 4649
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 141,
+    "name": "Hoffmann, Matthias",
+    "finish_time": "01:17:35",
+    "finish_seconds": 4655
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 143,
+    "name": "Tan, Joseph",
+    "finish_time": "01:17:52",
+    "finish_seconds": 4672
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 145,
+    "name": "Khaneja, Harsh",
+    "finish_time": "01:17:57",
+    "finish_seconds": 4677
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 147,
+    "name": "Chen, Hubert",
+    "finish_time": "01:18:10",
+    "finish_seconds": 4690
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 149,
+    "name": "La Torre, Valentin",
+    "finish_time": "01:18:11",
+    "finish_seconds": 4691
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 151,
+    "name": "Wee, Leonard David",
+    "finish_time": "01:18:15",
+    "finish_seconds": 4695
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 153,
+    "name": "Hindmarsh, Liam",
+    "finish_time": "01:18:21",
+    "finish_seconds": 4701
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 155,
+    "name": "Whitworth, Rob",
+    "finish_time": "01:18:30",
+    "finish_seconds": 4710
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 157,
+    "name": "Smith, Dan",
+    "finish_time": "01:18:41",
+    "finish_seconds": 4721
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 159,
+    "name": "Cheung, Kevin",
+    "finish_time": "01:18:44",
+    "finish_seconds": 4724
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 161,
+    "name": "Bin Muhamad Yazid, Putra Wayan",
+    "finish_time": "01:18:55",
+    "finish_seconds": 4735
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 163,
+    "name": "Grenville, Jack",
+    "finish_time": "01:18:59",
+    "finish_seconds": 4739
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 165,
+    "name": "Dr Luong, Tan Trung",
+    "finish_time": "01:19:12",
+    "finish_seconds": 4752
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 167,
+    "name": "Ng, Elden",
+    "finish_time": "01:19:16",
+    "finish_seconds": 4756
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 169,
+    "name": "Esc\u00e1mez, Julio",
+    "finish_time": "01:19:22",
+    "finish_seconds": 4762
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 171,
+    "name": "Cheah, Aaron",
+    "finish_time": "01:19:35",
+    "finish_seconds": 4775
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 173,
+    "name": "Price, Mitch",
+    "finish_time": "01:19:40",
+    "finish_seconds": 4780
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 175,
+    "name": "Chia, Chek Wei",
+    "finish_time": "01:19:44",
+    "finish_seconds": 4784
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 177,
+    "name": "Sutandinata, Stefan",
+    "finish_time": "01:19:54",
+    "finish_seconds": 4794
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 179,
+    "name": "Kong, Daniel",
+    "finish_time": "01:20:09",
+    "finish_seconds": 4809
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 181,
+    "name": "Atad, Anton",
+    "finish_time": "01:20:15",
+    "finish_seconds": 4815
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 183,
+    "name": "Inoue, Naoya",
+    "finish_time": "01:20:23",
+    "finish_seconds": 4823
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 185,
+    "name": "Evangelides, Konstantinos",
+    "finish_time": "01:20:26",
+    "finish_seconds": 4826
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 187,
+    "name": "Wong, Matthew",
+    "finish_time": "01:20:37",
+    "finish_seconds": 4837
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 189,
+    "name": "Seah, Sean",
+    "finish_time": "01:20:40",
+    "finish_seconds": 4840
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 191,
+    "name": "Prasetio, Mario Hadinata",
+    "finish_time": "01:20:41",
+    "finish_seconds": 4841
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 193,
+    "name": "Dirscherl, Christian",
+    "finish_time": "01:20:49",
+    "finish_seconds": 4849
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 195,
+    "name": "Jhonson, Charles",
+    "finish_time": "01:20:54",
+    "finish_seconds": 4854
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 197,
+    "name": "Ong, Terence",
+    "finish_time": "01:21:01",
+    "finish_seconds": 4861
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 199,
+    "name": "Ang, Kenneth",
+    "finish_time": "01:21:08",
+    "finish_seconds": 4868
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 201,
+    "name": "Samuel, Michael",
+    "finish_time": "01:21:14",
+    "finish_seconds": 4874
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 203,
+    "name": "Chua, Schuyler",
+    "finish_time": "01:21:16",
+    "finish_seconds": 4876
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 205,
+    "name": "Varner, Trey",
+    "finish_time": "01:21:23",
+    "finish_seconds": 4883
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 207,
+    "name": "Wong, Darren",
+    "finish_time": "01:21:38",
+    "finish_seconds": 4898
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 209,
+    "name": "Goh, Wayne",
+    "finish_time": "01:21:39",
+    "finish_seconds": 4899
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 211,
+    "name": "Leung, Hoi Hing(Comma) Alexander",
+    "finish_time": "01:21:57",
+    "finish_seconds": 4917
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 213,
+    "name": "Bretting, Eric",
+    "finish_time": "01:22:00",
+    "finish_seconds": 4920
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 215,
+    "name": "Abautret, Robin",
+    "finish_time": "01:22:10",
+    "finish_seconds": 4930
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 217,
+    "name": "Yi Fan Derwin, Tang",
+    "finish_time": "01:22:20",
+    "finish_seconds": 4940
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 219,
+    "name": "Lim, Terence",
+    "finish_time": "01:22:28",
+    "finish_seconds": 4948
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 221,
+    "name": "Macdonald, Angas",
+    "finish_time": "01:22:35",
+    "finish_seconds": 4955
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 223,
+    "name": "Leung, Kei Ho",
+    "finish_time": "01:22:36",
+    "finish_seconds": 4956
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 225,
+    "name": "Kotaj\u00e4rvi, Matias",
+    "finish_time": "01:22:42",
+    "finish_seconds": 4962
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 227,
+    "name": "Rimkus, Egis",
+    "finish_time": "01:22:45",
+    "finish_seconds": 4965
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 229,
+    "name": "L, Storm",
+    "finish_time": "01:22:49",
+    "finish_seconds": 4969
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 231,
+    "name": "Ooi, Xiang Jing",
+    "finish_time": "01:22:53",
+    "finish_seconds": 4973
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 233,
+    "name": "Wong, Jonathan",
+    "finish_time": "01:22:55",
+    "finish_seconds": 4975
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 235,
+    "name": "Looi, Keith",
+    "finish_time": "01:23:00",
+    "finish_seconds": 4980
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 237,
+    "name": "Marlon, Otniel",
+    "finish_time": "01:23:05",
+    "finish_seconds": 4985
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 239,
+    "name": "Tan, Jonathan",
+    "finish_time": "01:23:12",
+    "finish_seconds": 4992
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 241,
+    "name": "Venn, David",
+    "finish_time": "01:23:18",
+    "finish_seconds": 4998
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 243,
+    "name": "Yadav, Sumit",
+    "finish_time": "01:23:27",
+    "finish_seconds": 5007
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 245,
+    "name": "Lim, Kun Yi",
+    "finish_time": "01:23:38",
+    "finish_seconds": 5018
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 247,
+    "name": "Geer, Noah",
+    "finish_time": "01:23:48",
+    "finish_seconds": 5028
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 249,
+    "name": "Soo, Ming Wei",
+    "finish_time": "01:23:51",
+    "finish_seconds": 5031
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 251,
+    "name": "Lam, Vince",
+    "finish_time": "01:23:54",
+    "finish_seconds": 5034
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 253,
+    "name": "Loo, Ian",
+    "finish_time": "01:23:58",
+    "finish_seconds": 5038
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 255,
+    "name": "Dimitriou, Nick",
+    "finish_time": "01:24:08",
+    "finish_seconds": 5048
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 257,
+    "name": "Loh, Clement",
+    "finish_time": "01:24:11",
+    "finish_seconds": 5051
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 259,
+    "name": "Othman, Hasif",
+    "finish_time": "01:24:11",
+    "finish_seconds": 5051
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 261,
+    "name": "Jaffaludinsha, Hidayat",
+    "finish_time": "01:24:32",
+    "finish_seconds": 5072
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 263,
+    "name": "Goh, Edmund",
+    "finish_time": "01:24:39",
+    "finish_seconds": 5079
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 265,
+    "name": "Chua, Samuel",
+    "finish_time": "01:24:51",
+    "finish_seconds": 5091
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 267,
+    "name": "Tan, Yih Jing",
+    "finish_time": "01:24:55",
+    "finish_seconds": 5095
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 269,
+    "name": "Koh, Dickson",
+    "finish_time": "01:24:59",
+    "finish_seconds": 5099
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 271,
+    "name": "Barr, Dave",
+    "finish_time": "01:25:05",
+    "finish_seconds": 5105
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 273,
+    "name": "Mazlan, Muhd Faisal",
+    "finish_time": "01:25:11",
+    "finish_seconds": 5111
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 275,
+    "name": "Tey, Richard",
+    "finish_time": "01:25:15",
+    "finish_seconds": 5115
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 277,
+    "name": "Ng, Wai Ka",
+    "finish_time": "01:25:17",
+    "finish_seconds": 5117
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 279,
+    "name": "Sriveravanichchakul, Stit",
+    "finish_time": "01:25:19",
+    "finish_seconds": 5119
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 281,
+    "name": "Hu, Zhong Yi Oscar",
+    "finish_time": "01:25:22",
+    "finish_seconds": 5122
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 283,
+    "name": "Chandran, Benny",
+    "finish_time": "01:25:24",
+    "finish_seconds": 5124
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 285,
+    "name": "Kuan, Kelvin",
+    "finish_time": "01:25:28",
+    "finish_seconds": 5128
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 287,
+    "name": "Stephenson, Paul",
+    "finish_time": "01:25:32",
+    "finish_seconds": 5132
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 289,
+    "name": "Lim, Charles",
+    "finish_time": "01:25:34",
+    "finish_seconds": 5134
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 291,
+    "name": "Yong, Aaron",
+    "finish_time": "01:25:44",
+    "finish_seconds": 5144
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 293,
+    "name": "Sherer, Chris",
+    "finish_time": "01:25:48",
+    "finish_seconds": 5148
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 295,
+    "name": "Suah, Lucas",
+    "finish_time": "01:25:50",
+    "finish_seconds": 5150
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 297,
+    "name": "Samson, Jezekiel Acazo",
+    "finish_time": "01:25:54",
+    "finish_seconds": 5154
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 299,
+    "name": "Mitts, William",
+    "finish_time": "01:25:58",
+    "finish_seconds": 5158
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 301,
+    "name": "Dempster, James",
+    "finish_time": "01:26:02",
+    "finish_seconds": 5162
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 303,
+    "name": "Grigoratos, Byron",
+    "finish_time": "01:26:04",
+    "finish_seconds": 5164
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 305,
+    "name": "Chua, Jeremy",
+    "finish_time": "01:26:10",
+    "finish_seconds": 5170
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 307,
+    "name": "Ong, Zhehan",
+    "finish_time": "01:26:10",
+    "finish_seconds": 5170
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 309,
+    "name": "White, Paul George",
+    "finish_time": "01:26:12",
+    "finish_seconds": 5172
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 311,
+    "name": "Chan, Gavin",
+    "finish_time": "01:26:18",
+    "finish_seconds": 5178
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 313,
+    "name": "Tinati, Ramine",
+    "finish_time": "01:26:19",
+    "finish_seconds": 5179
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 315,
+    "name": "Lau, Wen Loong",
+    "finish_time": "01:26:33",
+    "finish_seconds": 5193
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 317,
+    "name": "Chin, Alvin",
+    "finish_time": "01:26:36",
+    "finish_seconds": 5196
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 319,
+    "name": "Yeo, Jun Yu",
+    "finish_time": "01:26:38",
+    "finish_seconds": 5198
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 321,
+    "name": "He, Josiah",
+    "finish_time": "01:26:42",
+    "finish_seconds": 5202
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 323,
+    "name": "Markwart, Ryan",
+    "finish_time": "01:26:45",
+    "finish_seconds": 5205
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 325,
+    "name": "Suhendra, Mario",
+    "finish_time": "01:26:49",
+    "finish_seconds": 5209
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 327,
+    "name": "Hall, Adam",
+    "finish_time": "01:26:50",
+    "finish_seconds": 5210
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 329,
+    "name": "Cartwright, Neil",
+    "finish_time": "01:26:53",
+    "finish_seconds": 5213
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 331,
+    "name": "Shirokura, Takumi",
+    "finish_time": "01:27:01",
+    "finish_seconds": 5221
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 333,
+    "name": "Aung, Thant Zaw",
+    "finish_time": "01:27:07",
+    "finish_seconds": 5227
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 335,
+    "name": "Song, Benjamin",
+    "finish_time": "01:27:10",
+    "finish_seconds": 5230
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 337,
+    "name": "Bourke, Paddy",
+    "finish_time": "01:27:12",
+    "finish_seconds": 5232
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 339,
+    "name": "Barris, George",
+    "finish_time": "01:27:13",
+    "finish_seconds": 5233
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 341,
+    "name": "Lie, Sui An",
+    "finish_time": "01:27:20",
+    "finish_seconds": 5240
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 343,
+    "name": "Rodger, Angus",
+    "finish_time": "01:27:24",
+    "finish_seconds": 5244
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 345,
+    "name": "Jayapurna, Berwin",
+    "finish_time": "01:27:29",
+    "finish_seconds": 5249
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 347,
+    "name": "Armstrong, Rhys",
+    "finish_time": "01:27:32",
+    "finish_seconds": 5252
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 349,
+    "name": "Cuarsa, Wilson",
+    "finish_time": "01:27:37",
+    "finish_seconds": 5257
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 351,
+    "name": "Silva, Matthias",
+    "finish_time": "01:27:40",
+    "finish_seconds": 5260
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 353,
+    "name": "Park, Taeyong",
+    "finish_time": "01:27:41",
+    "finish_seconds": 5261
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 355,
+    "name": "Chua, Nicholas",
+    "finish_time": "01:27:45",
+    "finish_seconds": 5265
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 357,
+    "name": "Peh, Kai Jay",
+    "finish_time": "01:27:49",
+    "finish_seconds": 5269
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 359,
+    "name": "Kodituwakku, Dhanakshitha Ayasmanta",
+    "finish_time": "01:27:58",
+    "finish_seconds": 5278
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 361,
+    "name": "Ooi, Adrian",
+    "finish_time": "01:28:00",
+    "finish_seconds": 5280
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 363,
+    "name": "Ang, Brandon",
+    "finish_time": "01:28:04",
+    "finish_seconds": 5284
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 365,
+    "name": "Hawkins, Mark",
+    "finish_time": "01:28:09",
+    "finish_seconds": 5289
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 367,
+    "name": "Twyman, Luke",
+    "finish_time": "01:28:13",
+    "finish_seconds": 5293
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 369,
+    "name": "Laurie, Alex",
+    "finish_time": "01:28:21",
+    "finish_seconds": 5301
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 371,
+    "name": "Li, Wilson Ooi Ming",
+    "finish_time": "01:28:26",
+    "finish_seconds": 5306
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 373,
+    "name": "Lam, Jason",
+    "finish_time": "01:28:30",
+    "finish_seconds": 5310
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 375,
+    "name": "Xie, Ray",
+    "finish_time": "01:28:36",
+    "finish_seconds": 5316
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 377,
+    "name": "Bani Fawz Mohamed, Bani Mohamad Hilman",
+    "finish_time": "01:28:40",
+    "finish_seconds": 5320
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 379,
+    "name": "Steiner, Garry",
+    "finish_time": "01:28:42",
+    "finish_seconds": 5322
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 381,
+    "name": "Kuchenbuch, Julien",
+    "finish_time": "01:28:47",
+    "finish_seconds": 5327
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 383,
+    "name": "Labidi, Vincent",
+    "finish_time": "01:28:49",
+    "finish_seconds": 5329
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 385,
+    "name": "Ku, Jonathan",
+    "finish_time": "01:28:55",
+    "finish_seconds": 5335
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 387,
+    "name": "Wong, Wallace",
+    "finish_time": "01:28:57",
+    "finish_seconds": 5337
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 389,
+    "name": "Sahadian, Iskandar Helmi",
+    "finish_time": "01:29:00",
+    "finish_seconds": 5340
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 391,
+    "name": "Broderick, Eoin",
+    "finish_time": "01:29:02",
+    "finish_seconds": 5342
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 393,
+    "name": "Hernandez, Justin",
+    "finish_time": "01:29:04",
+    "finish_seconds": 5344
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 395,
+    "name": "Loh, Kenny",
+    "finish_time": "01:29:06",
+    "finish_seconds": 5346
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 397,
+    "name": "Tay, Tze Choong",
+    "finish_time": "01:29:10",
+    "finish_seconds": 5350
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 399,
+    "name": "Lee, Roger",
+    "finish_time": "01:29:10",
+    "finish_seconds": 5350
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 401,
+    "name": "Liu, Justin",
+    "finish_time": "01:29:12",
+    "finish_seconds": 5352
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 403,
+    "name": "Rakison, Toby",
+    "finish_time": "01:29:14",
+    "finish_seconds": 5354
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 405,
+    "name": "Ng, Tee Yang",
+    "finish_time": "01:29:15",
+    "finish_seconds": 5355
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 407,
+    "name": "Tameeris, David",
+    "finish_time": "01:29:17",
+    "finish_seconds": 5357
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 409,
+    "name": "Seyer, Josh",
+    "finish_time": "01:29:18",
+    "finish_seconds": 5358
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 411,
+    "name": "Godec, Yoann",
+    "finish_time": "01:29:23",
+    "finish_seconds": 5363
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 413,
+    "name": "Choy, Stanley",
+    "finish_time": "01:29:25",
+    "finish_seconds": 5365
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 415,
+    "name": "Wilson, Stuart",
+    "finish_time": "01:29:32",
+    "finish_seconds": 5372
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 417,
+    "name": "Brieva, Jasper",
+    "finish_time": "01:29:33",
+    "finish_seconds": 5373
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 419,
+    "name": "Wee, Kenneth",
+    "finish_time": "01:29:35",
+    "finish_seconds": 5375
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 421,
+    "name": "Huynh, Harry",
+    "finish_time": "01:29:42",
+    "finish_seconds": 5382
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 423,
+    "name": "Paul, Benjamin",
+    "finish_time": "01:29:46",
+    "finish_seconds": 5386
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 425,
+    "name": "Yassar, Sulthan",
+    "finish_time": "01:29:47",
+    "finish_seconds": 5387
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 427,
+    "name": "Noordin, Hakimi",
+    "finish_time": "01:29:50",
+    "finish_seconds": 5390
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 429,
+    "name": "Aniq, Rais",
+    "finish_time": "01:29:51",
+    "finish_seconds": 5391
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 431,
+    "name": "Juliano, Franco Diego",
+    "finish_time": "01:29:52",
+    "finish_seconds": 5392
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 433,
+    "name": "Neo, Darren",
+    "finish_time": "01:29:58",
+    "finish_seconds": 5398
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 435,
+    "name": "Asprec, Wernher Lancelot",
+    "finish_time": "01:30:00",
+    "finish_seconds": 5400
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 437,
+    "name": "Ong, Gabriel",
+    "finish_time": "01:30:02",
+    "finish_seconds": 5402
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 439,
+    "name": "Delaporte, Milan",
+    "finish_time": "01:30:04",
+    "finish_seconds": 5404
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 441,
+    "name": "Morley, Robert",
+    "finish_time": "01:30:06",
+    "finish_seconds": 5406
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 443,
+    "name": "Ong, Syamiran",
+    "finish_time": "01:30:22",
+    "finish_seconds": 5422
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 445,
+    "name": "Adams, Joshua",
+    "finish_time": "01:30:24",
+    "finish_seconds": 5424
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 447,
+    "name": "Teo, Zhong Khoo",
+    "finish_time": "01:30:27",
+    "finish_seconds": 5427
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 449,
+    "name": "Pamungkas, Rengga",
+    "finish_time": "01:30:33",
+    "finish_seconds": 5433
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 451,
+    "name": "Teh, Kar Kin",
+    "finish_time": "01:30:34",
+    "finish_seconds": 5434
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 453,
+    "name": "Lees, Andrew",
+    "finish_time": "01:30:42",
+    "finish_seconds": 5442
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 455,
+    "name": "Teo, Kenji",
+    "finish_time": "01:30:45",
+    "finish_seconds": 5445
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 457,
+    "name": "Innadda, Vasu",
+    "finish_time": "01:30:49",
+    "finish_seconds": 5449
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 459,
+    "name": "Shaikh, Suleman",
+    "finish_time": "01:30:51",
+    "finish_seconds": 5451
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 461,
+    "name": "Tham, Lester",
+    "finish_time": "01:30:56",
+    "finish_seconds": 5456
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 463,
+    "name": "Wolstencroft, Jack",
+    "finish_time": "01:30:58",
+    "finish_seconds": 5458
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 465,
+    "name": "Leong, Laurel",
+    "finish_time": "01:31:00",
+    "finish_seconds": 5460
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 467,
+    "name": "Hoe, Gerry",
+    "finish_time": "01:31:06",
+    "finish_seconds": 5466
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 469,
+    "name": "Poniman, Nicholas",
+    "finish_time": "01:31:11",
+    "finish_seconds": 5471
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 471,
+    "name": "Trees, Mike",
+    "finish_time": "01:31:14",
+    "finish_seconds": 5474
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 473,
+    "name": "Pearse, Timothy",
+    "finish_time": "01:31:20",
+    "finish_seconds": 5480
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 475,
+    "name": "Orme, James",
+    "finish_time": "01:31:21",
+    "finish_seconds": 5481
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 477,
+    "name": "Dz, Anas",
+    "finish_time": "01:31:27",
+    "finish_seconds": 5487
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 479,
+    "name": "Wong, Kwan Yuen",
+    "finish_time": "01:31:31",
+    "finish_seconds": 5491
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 481,
+    "name": "Tan, Chee Yong",
+    "finish_time": "01:31:33",
+    "finish_seconds": 5493
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 483,
+    "name": "Tse, Calvin",
+    "finish_time": "01:31:39",
+    "finish_seconds": 5499
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 485,
+    "name": "Adnan, Ahmad Nizam",
+    "finish_time": "01:31:41",
+    "finish_seconds": 5501
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 487,
+    "name": "Ho, Ian",
+    "finish_time": "01:31:43",
+    "finish_seconds": 5503
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 489,
+    "name": "Fadhlie, Danial",
+    "finish_time": "01:31:47",
+    "finish_seconds": 5507
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 491,
+    "name": "Ong, Zachary",
+    "finish_time": "01:31:48",
+    "finish_seconds": 5508
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 493,
+    "name": "Lusher, Ewan",
+    "finish_time": "01:31:51",
+    "finish_seconds": 5511
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 495,
+    "name": "Ong, Alvin",
+    "finish_time": "01:31:56",
+    "finish_seconds": 5516
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 497,
+    "name": "Montgomery, Ben",
+    "finish_time": "01:32:01",
+    "finish_seconds": 5521
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 499,
+    "name": "Cornford, Adam",
+    "finish_time": "01:32:07",
+    "finish_seconds": 5527
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 501,
+    "name": "Chua, Waynn",
+    "finish_time": "01:32:09",
+    "finish_seconds": 5529
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 503,
+    "name": "Luqman, Izzaz",
+    "finish_time": "01:32:11",
+    "finish_seconds": 5531
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 505,
+    "name": "Leong, Matthew",
+    "finish_time": "01:32:16",
+    "finish_seconds": 5536
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 507,
+    "name": "Seah, Samuel",
+    "finish_time": "01:32:18",
+    "finish_seconds": 5538
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 509,
+    "name": "Tan, Nicholas",
+    "finish_time": "01:32:28",
+    "finish_seconds": 5548
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 511,
+    "name": "Ng, Ding Jie",
+    "finish_time": "01:32:30",
+    "finish_seconds": 5550
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 513,
+    "name": "Yap, Han Lin",
+    "finish_time": "01:32:31",
+    "finish_seconds": 5551
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 515,
+    "name": "Abd Hamid, Abd Hanif",
+    "finish_time": "01:32:33",
+    "finish_seconds": 5553
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 517,
+    "name": "Toshniwal, Chetan",
+    "finish_time": "01:32:34",
+    "finish_seconds": 5554
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 519,
+    "name": "Bales, Scott",
+    "finish_time": "01:32:41",
+    "finish_seconds": 5561
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 521,
+    "name": "Liu, Wei",
+    "finish_time": "01:32:45",
+    "finish_seconds": 5565
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 523,
+    "name": "Jonquet, Pierre",
+    "finish_time": "01:32:49",
+    "finish_seconds": 5569
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 525,
+    "name": "Ng, Ron",
+    "finish_time": "01:32:53",
+    "finish_seconds": 5573
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 527,
+    "name": "Aw, Freeman",
+    "finish_time": "01:32:55",
+    "finish_seconds": 5575
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 529,
+    "name": "Fong, Alessander",
+    "finish_time": "01:33:14",
+    "finish_seconds": 5594
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 531,
+    "name": "Yong, Timothy",
+    "finish_time": "01:33:18",
+    "finish_seconds": 5598
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 533,
+    "name": "Richardeau, Fabien",
+    "finish_time": "01:33:19",
+    "finish_seconds": 5599
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 535,
+    "name": "Teo, Pengheen",
+    "finish_time": "01:33:25",
+    "finish_seconds": 5605
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 537,
+    "name": "Swigert, Peter",
+    "finish_time": "01:33:29",
+    "finish_seconds": 5609
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 539,
+    "name": "Cho, Koi Hong Jermain",
+    "finish_time": "01:33:32",
+    "finish_seconds": 5612
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 541,
+    "name": "Wui, Jonathan",
+    "finish_time": "01:33:36",
+    "finish_seconds": 5616
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 543,
+    "name": "Silerio, Rafael",
+    "finish_time": "01:33:39",
+    "finish_seconds": 5619
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 545,
+    "name": "Wee, Randall",
+    "finish_time": "01:33:42",
+    "finish_seconds": 5622
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 547,
+    "name": "Liu, Zhiyong",
+    "finish_time": "01:33:44",
+    "finish_seconds": 5624
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 549,
+    "name": "Tan, Dennis",
+    "finish_time": "01:33:46",
+    "finish_seconds": 5626
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 551,
+    "name": "Fry-White, Michael",
+    "finish_time": "01:33:51",
+    "finish_seconds": 5631
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 553,
+    "name": "Bin Mustafa, Muhammad Safar",
+    "finish_time": "01:33:52",
+    "finish_seconds": 5632
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 555,
+    "name": "Koh, Willius",
+    "finish_time": "01:33:55",
+    "finish_seconds": 5635
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 557,
+    "name": "Kanber, Dalyan",
+    "finish_time": "01:33:58",
+    "finish_seconds": 5638
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 559,
+    "name": "Brown, Mark",
+    "finish_time": "01:34:01",
+    "finish_seconds": 5641
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 561,
+    "name": "Lim, Wai Hoeng",
+    "finish_time": "01:34:04",
+    "finish_seconds": 5644
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 563,
+    "name": "Martinez, Angel",
+    "finish_time": "01:34:04",
+    "finish_seconds": 5644
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 565,
+    "name": "Tatukivei, Vatimi",
+    "finish_time": "01:34:10",
+    "finish_seconds": 5650
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 567,
+    "name": "Teo, Martin",
+    "finish_time": "01:34:11",
+    "finish_seconds": 5651
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 569,
+    "name": "Chuaquico, Louie Fredric O.",
+    "finish_time": "01:34:13",
+    "finish_seconds": 5653
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 571,
+    "name": "Ong, Yi Zang",
+    "finish_time": "01:34:14",
+    "finish_seconds": 5654
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 573,
+    "name": "Teo, Danny",
+    "finish_time": "01:34:18",
+    "finish_seconds": 5658
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 575,
+    "name": "Thong, Gerald",
+    "finish_time": "01:34:20",
+    "finish_seconds": 5660
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 577,
+    "name": "S., Reuben",
+    "finish_time": "01:34:23",
+    "finish_seconds": 5663
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 579,
+    "name": "Lin, Jianmin",
+    "finish_time": "01:34:30",
+    "finish_seconds": 5670
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 581,
+    "name": "O\u2019Callaghan, Barry",
+    "finish_time": "01:34:32",
+    "finish_seconds": 5672
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 583,
+    "name": "Pearson, Oliver",
+    "finish_time": "01:34:33",
+    "finish_seconds": 5673
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 585,
+    "name": "Yaoxiang, Lim",
+    "finish_time": "01:34:34",
+    "finish_seconds": 5674
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 587,
+    "name": "Leonard, Will",
+    "finish_time": "01:34:36",
+    "finish_seconds": 5676
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 589,
+    "name": "As, Laurens",
+    "finish_time": "01:34:38",
+    "finish_seconds": 5678
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 591,
+    "name": "Braunoeder, J. Oliver",
+    "finish_time": "01:34:41",
+    "finish_seconds": 5681
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 593,
+    "name": "Hon Keat, Tan",
+    "finish_time": "01:34:43",
+    "finish_seconds": 5683
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 595,
+    "name": "Tengda, Tan",
+    "finish_time": "01:34:52",
+    "finish_seconds": 5692
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 597,
+    "name": "Tiang, Zi Xiu",
+    "finish_time": "01:34:53",
+    "finish_seconds": 5693
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 599,
+    "name": "Chong, Richmond",
+    "finish_time": "01:34:55",
+    "finish_seconds": 5695
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 601,
+    "name": "Slingsby, James",
+    "finish_time": "01:34:58",
+    "finish_seconds": 5698
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 603,
+    "name": "Vashist, Advitiya",
+    "finish_time": "01:34:59",
+    "finish_seconds": 5699
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 605,
+    "name": "Mamaril, Frank",
+    "finish_time": "01:35:02",
+    "finish_seconds": 5702
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 607,
+    "name": "Yap, Gabriel",
+    "finish_time": "01:35:12",
+    "finish_seconds": 5712
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 609,
+    "name": "Karmacharya, David",
+    "finish_time": "01:35:16",
+    "finish_seconds": 5716
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 611,
+    "name": "Stekly, Dom",
+    "finish_time": "01:35:26",
+    "finish_seconds": 5726
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 613,
+    "name": "Reilly, \u00c9anna",
+    "finish_time": "01:35:32",
+    "finish_seconds": 5732
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 615,
+    "name": "Mohamed Sultan, Khabir Ashraf Bin",
+    "finish_time": "01:35:35",
+    "finish_seconds": 5735
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 617,
+    "name": "Yee, Jun Zhang",
+    "finish_time": "01:35:41",
+    "finish_seconds": 5741
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 619,
+    "name": "Hamlin, James",
+    "finish_time": "01:35:43",
+    "finish_seconds": 5743
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 621,
+    "name": "Lautan, Strauss",
+    "finish_time": "01:35:48",
+    "finish_seconds": 5748
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 623,
+    "name": "Foo, Bernard",
+    "finish_time": "01:35:50",
+    "finish_seconds": 5750
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 625,
+    "name": "Paw, Cy",
+    "finish_time": "01:35:52",
+    "finish_seconds": 5752
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 627,
+    "name": "Swandono, Steven",
+    "finish_time": "01:36:01",
+    "finish_seconds": 5761
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 629,
+    "name": "Yeo, Tee Joo",
+    "finish_time": "01:36:09",
+    "finish_seconds": 5769
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 631,
+    "name": "Teo, Felix",
+    "finish_time": "01:36:11",
+    "finish_seconds": 5771
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 633,
+    "name": "Lim, Yi Bin",
+    "finish_time": "01:36:13",
+    "finish_seconds": 5773
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 635,
+    "name": "Xu, Xiao",
+    "finish_time": "01:36:16",
+    "finish_seconds": 5776
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 637,
+    "name": "Wong, Justin",
+    "finish_time": "01:36:17",
+    "finish_seconds": 5777
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 639,
+    "name": "Lau, Danny",
+    "finish_time": "01:36:21",
+    "finish_seconds": 5781
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 641,
+    "name": "Lee, Johnathan",
+    "finish_time": "01:36:28",
+    "finish_seconds": 5788
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 643,
+    "name": "Lee, Sean",
+    "finish_time": "01:36:32",
+    "finish_seconds": 5792
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 645,
+    "name": "Ng, Daniel",
+    "finish_time": "01:36:38",
+    "finish_seconds": 5798
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 647,
+    "name": "Tan, Kelvin",
+    "finish_time": "01:36:42",
+    "finish_seconds": 5802
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 649,
+    "name": "Shahrul Annuar, Aymarn Fitri",
+    "finish_time": "01:36:45",
+    "finish_seconds": 5805
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 651,
+    "name": "Pei Cong, Phoon",
+    "finish_time": "01:36:48",
+    "finish_seconds": 5808
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 653,
+    "name": "Rao, Nikhil",
+    "finish_time": "01:36:49",
+    "finish_seconds": 5809
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 655,
+    "name": "Teo, Ser Luck",
+    "finish_time": "01:36:52",
+    "finish_seconds": 5812
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 657,
+    "name": "Ho, Arthur",
+    "finish_time": "01:36:54",
+    "finish_seconds": 5814
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 659,
+    "name": "Mohammed Musni, Ahmad Syaadiq",
+    "finish_time": "01:36:55",
+    "finish_seconds": 5815
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 661,
+    "name": "Mcconachie, Max",
+    "finish_time": "01:36:59",
+    "finish_seconds": 5819
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 663,
+    "name": "Loh, Milton",
+    "finish_time": "01:37:02",
+    "finish_seconds": 5822
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 665,
+    "name": "Thewho, Irwan",
+    "finish_time": "01:37:03",
+    "finish_seconds": 5823
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 667,
+    "name": "Khan, Yasin",
+    "finish_time": "01:37:07",
+    "finish_seconds": 5827
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 669,
+    "name": "Wong, Jonathan",
+    "finish_time": "01:37:09",
+    "finish_seconds": 5829
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 671,
+    "name": "Poh, Boon Cheong",
+    "finish_time": "01:37:11",
+    "finish_seconds": 5831
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 673,
+    "name": "Dieffenbach, Martin",
+    "finish_time": "01:37:13",
+    "finish_seconds": 5833
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 675,
+    "name": "Tan, Dexter",
+    "finish_time": "01:37:16",
+    "finish_seconds": 5836
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 677,
+    "name": "Tan, Xing Hao",
+    "finish_time": "01:37:18",
+    "finish_seconds": 5838
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 679,
+    "name": "Chua, Chen Yao",
+    "finish_time": "01:37:22",
+    "finish_seconds": 5842
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 681,
+    "name": "Wong, Oscar",
+    "finish_time": "01:37:23",
+    "finish_seconds": 5843
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 683,
+    "name": "Ng, Colin",
+    "finish_time": "01:37:37",
+    "finish_seconds": 5857
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 685,
+    "name": "Antuvan, Chris Wilson",
+    "finish_time": "01:37:44",
+    "finish_seconds": 5864
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 687,
+    "name": "Dicastiglione, Joe",
+    "finish_time": "01:37:53",
+    "finish_seconds": 5873
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 689,
+    "name": "Koh, Ivan",
+    "finish_time": "01:37:57",
+    "finish_seconds": 5877
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 691,
+    "name": "Kasseyet, Arnaud",
+    "finish_time": "01:38:09",
+    "finish_seconds": 5889
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 693,
+    "name": "Reyneker, Mark",
+    "finish_time": "01:38:10",
+    "finish_seconds": 5890
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 695,
+    "name": "Gauss, Simon",
+    "finish_time": "01:38:12",
+    "finish_seconds": 5892
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 697,
+    "name": "Yeo, Aaric",
+    "finish_time": "01:38:15",
+    "finish_seconds": 5895
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 699,
+    "name": "Tan, Ryan",
+    "finish_time": "01:38:18",
+    "finish_seconds": 5898
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 701,
+    "name": "Cowley, Richard",
+    "finish_time": "01:38:19",
+    "finish_seconds": 5899
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 703,
+    "name": "Coleman, Matthew",
+    "finish_time": "01:38:23",
+    "finish_seconds": 5903
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 705,
+    "name": "Ng, Zhi Guang",
+    "finish_time": "01:38:27",
+    "finish_seconds": 5907
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 707,
+    "name": "Sapuan, Hizal",
+    "finish_time": "01:38:31",
+    "finish_seconds": 5911
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 709,
+    "name": "Parakh, Shreyansh",
+    "finish_time": "01:38:33",
+    "finish_seconds": 5913
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 711,
+    "name": "Agui, Tatsuyoshi",
+    "finish_time": "01:38:41",
+    "finish_seconds": 5921
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 713,
+    "name": "J, Syan",
+    "finish_time": "01:38:45",
+    "finish_seconds": 5925
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 715,
+    "name": "Thian, Lucas",
+    "finish_time": "01:38:46",
+    "finish_seconds": 5926
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 717,
+    "name": "Lai, Kangwei",
+    "finish_time": "01:38:49",
+    "finish_seconds": 5929
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 719,
+    "name": "Lim, Webster",
+    "finish_time": "01:38:50",
+    "finish_seconds": 5930
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 721,
+    "name": "Endin, Isa",
+    "finish_time": "01:38:57",
+    "finish_seconds": 5937
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 723,
+    "name": "Woods, Graeme",
+    "finish_time": "01:39:00",
+    "finish_seconds": 5940
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 725,
+    "name": "Chia, Roy",
+    "finish_time": "01:39:02",
+    "finish_seconds": 5942
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 727,
+    "name": "Lee Yi, Eesan",
+    "finish_time": "01:39:04",
+    "finish_seconds": 5944
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 729,
+    "name": "Hon Chiu, Tsang",
+    "finish_time": "01:39:06",
+    "finish_seconds": 5946
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 731,
+    "name": "Quek, Donne",
+    "finish_time": "01:39:09",
+    "finish_seconds": 5949
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 733,
+    "name": "Gaffoor, Luth",
+    "finish_time": "01:39:11",
+    "finish_seconds": 5951
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 735,
+    "name": "Law, Kai",
+    "finish_time": "01:39:11",
+    "finish_seconds": 5951
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 737,
+    "name": "Tian, Zhenrong Jeremy",
+    "finish_time": "01:39:15",
+    "finish_seconds": 5955
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 739,
+    "name": "Fang, Jerome",
+    "finish_time": "01:39:23",
+    "finish_seconds": 5963
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 741,
+    "name": "Adam, Adli",
+    "finish_time": "01:39:30",
+    "finish_seconds": 5970
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 743,
+    "name": "Polanco, Omar",
+    "finish_time": "01:39:32",
+    "finish_seconds": 5972
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 745,
+    "name": "Lim, Eugene",
+    "finish_time": "01:39:38",
+    "finish_seconds": 5978
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 747,
+    "name": "Fauzi, Dani Achmad",
+    "finish_time": "01:39:43",
+    "finish_seconds": 5983
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 749,
+    "name": "Versley, Paul Leo",
+    "finish_time": "01:39:44",
+    "finish_seconds": 5984
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 751,
+    "name": "Tay, Johnathan",
+    "finish_time": "01:39:45",
+    "finish_seconds": 5985
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 753,
+    "name": "Penke, Andr\u00e9",
+    "finish_time": "01:39:47",
+    "finish_seconds": 5987
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 755,
+    "name": "Delledera, Giuseppe",
+    "finish_time": "01:39:52",
+    "finish_seconds": 5992
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 757,
+    "name": "Mcginn, Andrew",
+    "finish_time": "01:39:54",
+    "finish_seconds": 5994
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 759,
+    "name": "Legret, Vincent",
+    "finish_time": "01:39:55",
+    "finish_seconds": 5995
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 761,
+    "name": "Cardy, Lloyd",
+    "finish_time": "01:39:55",
+    "finish_seconds": 5995
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 763,
+    "name": "Mok, Wai Hon",
+    "finish_time": "01:39:58",
+    "finish_seconds": 5998
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 765,
+    "name": "Son, Alexander",
+    "finish_time": "01:39:59",
+    "finish_seconds": 5999
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 767,
+    "name": "Anaqi, Zul.",
+    "finish_time": "01:40:06",
+    "finish_seconds": 6006
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 769,
+    "name": "Kua, Andre",
+    "finish_time": "01:40:10",
+    "finish_seconds": 6010
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 771,
+    "name": "Tay, Billy",
+    "finish_time": "01:40:12",
+    "finish_seconds": 6012
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 773,
+    "name": "Azhar, Izwan",
+    "finish_time": "01:40:18",
+    "finish_seconds": 6018
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 775,
+    "name": "Lin, Hansheng",
+    "finish_time": "01:40:18",
+    "finish_seconds": 6018
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 777,
+    "name": "Ng, Kai Yong",
+    "finish_time": "01:40:19",
+    "finish_seconds": 6019
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 779,
+    "name": "Sum, Mikael",
+    "finish_time": "01:40:20",
+    "finish_seconds": 6020
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 781,
+    "name": "Hsu, Li Chuan",
+    "finish_time": "01:40:26",
+    "finish_seconds": 6026
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 783,
+    "name": "Chan, Kim Poh",
+    "finish_time": "01:40:27",
+    "finish_seconds": 6027
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 785,
+    "name": "Goh, Kelvin",
+    "finish_time": "01:40:34",
+    "finish_seconds": 6034
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 787,
+    "name": "Elder, Peter",
+    "finish_time": "01:40:38",
+    "finish_seconds": 6038
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 789,
+    "name": "Chinushi, Ikki",
+    "finish_time": "01:40:40",
+    "finish_seconds": 6040
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 791,
+    "name": "Koh, Wyndus",
+    "finish_time": "01:40:42",
+    "finish_seconds": 6042
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 793,
+    "name": "Koh, En Jia",
+    "finish_time": "01:40:44",
+    "finish_seconds": 6044
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 795,
+    "name": "Ong, Jingxuan",
+    "finish_time": "01:40:50",
+    "finish_seconds": 6050
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 797,
+    "name": "Logan, Vignesh",
+    "finish_time": "01:40:52",
+    "finish_seconds": 6052
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 799,
+    "name": "Law, Daryl",
+    "finish_time": "01:40:54",
+    "finish_seconds": 6054
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 801,
+    "name": "Laude, Bertrand",
+    "finish_time": "01:40:56",
+    "finish_seconds": 6056
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 803,
+    "name": "Liow, Ray",
+    "finish_time": "01:40:58",
+    "finish_seconds": 6058
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 805,
+    "name": "Aw, Don",
+    "finish_time": "01:41:03",
+    "finish_seconds": 6063
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 807,
+    "name": "Lim, Minghui",
+    "finish_time": "01:41:05",
+    "finish_seconds": 6065
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 809,
+    "name": "Tay, Elton",
+    "finish_time": "01:41:10",
+    "finish_seconds": 6070
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 811,
+    "name": "Leng, Leon",
+    "finish_time": "01:41:14",
+    "finish_seconds": 6074
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 813,
+    "name": "Tan, Shaun",
+    "finish_time": "01:41:16",
+    "finish_seconds": 6076
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 815,
+    "name": "Mohd Jeferee, Muhammad Adiputra",
+    "finish_time": "01:41:22",
+    "finish_seconds": 6082
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 817,
+    "name": "Tai, Tyler",
+    "finish_time": "01:41:26",
+    "finish_seconds": 6086
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 819,
+    "name": "Chen, Daniel",
+    "finish_time": "01:41:29",
+    "finish_seconds": 6089
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 821,
+    "name": "Tan, Gerald",
+    "finish_time": "01:41:31",
+    "finish_seconds": 6091
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 823,
+    "name": "Zainudin, Danish Bashah",
+    "finish_time": "01:41:34",
+    "finish_seconds": 6094
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 825,
+    "name": "Soetaniman, Peter",
+    "finish_time": "01:41:35",
+    "finish_seconds": 6095
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 827,
+    "name": "Loh, Tristan",
+    "finish_time": "01:41:40",
+    "finish_seconds": 6100
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 829,
+    "name": "Huang, Andrew Xin-Wei",
+    "finish_time": "01:41:43",
+    "finish_seconds": 6103
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 831,
+    "name": "Lim, Kwang Ren",
+    "finish_time": "01:41:47",
+    "finish_seconds": 6107
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 833,
+    "name": "Toh, Jimmy",
+    "finish_time": "01:41:54",
+    "finish_seconds": 6114
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 835,
+    "name": "Kiew, Ray",
+    "finish_time": "01:41:55",
+    "finish_seconds": 6115
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 837,
+    "name": "Lee, Anthony",
+    "finish_time": "01:41:57",
+    "finish_seconds": 6117
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 839,
+    "name": "Chow, Eric",
+    "finish_time": "01:42:03",
+    "finish_seconds": 6123
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 841,
+    "name": "Taniwangsa, Ridge",
+    "finish_time": "01:42:06",
+    "finish_seconds": 6126
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 843,
+    "name": "Chan, Samuel",
+    "finish_time": "01:42:09",
+    "finish_seconds": 6129
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 845,
+    "name": "\u6797, \u51a0\u5ef7",
+    "finish_time": "01:42:12",
+    "finish_seconds": 6132
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 847,
+    "name": "Leeansyah, Stanley",
+    "finish_time": "01:42:15",
+    "finish_seconds": 6135
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 849,
+    "name": "Lim, Melvin",
+    "finish_time": "01:42:25",
+    "finish_seconds": 6145
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 851,
+    "name": "Ng, Chin Hong",
+    "finish_time": "01:42:32",
+    "finish_seconds": 6152
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 853,
+    "name": "Tay, Jaryl",
+    "finish_time": "01:42:34",
+    "finish_seconds": 6154
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 855,
+    "name": "Ee, Aloysius",
+    "finish_time": "01:42:37",
+    "finish_seconds": 6157
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 857,
+    "name": "Yan Zhang, Soh",
+    "finish_time": "01:42:40",
+    "finish_seconds": 6160
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 859,
+    "name": "Lim, Alex",
+    "finish_time": "01:42:40",
+    "finish_seconds": 6160
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 861,
+    "name": "Godresse, Glen",
+    "finish_time": "01:42:42",
+    "finish_seconds": 6162
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 863,
+    "name": "Lim, Eng Koon",
+    "finish_time": "01:42:48",
+    "finish_seconds": 6168
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 865,
+    "name": "Tan, Ben",
+    "finish_time": "01:42:51",
+    "finish_seconds": 6171
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 867,
+    "name": "Brookes, Neil",
+    "finish_time": "01:42:54",
+    "finish_seconds": 6174
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 869,
+    "name": "Shen, Qianyu",
+    "finish_time": "01:42:55",
+    "finish_seconds": 6175
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 871,
+    "name": "Petrie, Tom",
+    "finish_time": "01:43:00",
+    "finish_seconds": 6180
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 873,
+    "name": "Dhannoncelles, Philippe",
+    "finish_time": "01:43:04",
+    "finish_seconds": 6184
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 875,
+    "name": "Tan, Yiong Soon",
+    "finish_time": "01:43:08",
+    "finish_seconds": 6188
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 877,
+    "name": "Hai Long, Chu",
+    "finish_time": "01:43:09",
+    "finish_seconds": 6189
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 879,
+    "name": "Tanglao, Jemuel",
+    "finish_time": "01:43:11",
+    "finish_seconds": 6191
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 881,
+    "name": "Saltirov, Venn",
+    "finish_time": "01:43:17",
+    "finish_seconds": 6197
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 883,
+    "name": "Gan Ze Min, Owen",
+    "finish_time": "01:43:25",
+    "finish_seconds": 6205
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 885,
+    "name": "Vedanayagam, Arjun Paul",
+    "finish_time": "01:43:27",
+    "finish_seconds": 6207
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 887,
+    "name": "Espinassous, Francois",
+    "finish_time": "01:43:30",
+    "finish_seconds": 6210
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 889,
+    "name": "Chew Yong Han, James",
+    "finish_time": "01:43:31",
+    "finish_seconds": 6211
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 891,
+    "name": "V\u00e4is\u00e4nen, Esa",
+    "finish_time": "01:43:32",
+    "finish_seconds": 6212
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 893,
+    "name": "Lin, Bairong",
+    "finish_time": "01:43:35",
+    "finish_seconds": 6215
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 895,
+    "name": "Spucys, Deimantas",
+    "finish_time": "01:43:38",
+    "finish_seconds": 6218
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 897,
+    "name": "Perales, Daryl",
+    "finish_time": "01:43:39",
+    "finish_seconds": 6219
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 899,
+    "name": "Lim, Sui Chieh",
+    "finish_time": "01:43:40",
+    "finish_seconds": 6220
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 901,
+    "name": "Peltoniemi, Tuomas",
+    "finish_time": "01:43:43",
+    "finish_seconds": 6223
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 903,
+    "name": "Mears, Gary",
+    "finish_time": "01:43:46",
+    "finish_seconds": 6226
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 905,
+    "name": "Loo, Yong Khang",
+    "finish_time": "01:43:52",
+    "finish_seconds": 6232
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 907,
+    "name": "Benshalom, Matan",
+    "finish_time": "01:43:54",
+    "finish_seconds": 6234
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 909,
+    "name": "Lee, Brandon",
+    "finish_time": "01:43:57",
+    "finish_seconds": 6237
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 911,
+    "name": "Chee, Nathaniel",
+    "finish_time": "01:44:01",
+    "finish_seconds": 6241
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 913,
+    "name": "Walbridge, Jonathan",
+    "finish_time": "01:44:03",
+    "finish_seconds": 6243
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 915,
+    "name": "Patel, Kunaal",
+    "finish_time": "01:44:10",
+    "finish_seconds": 6250
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 917,
+    "name": "Ridzuan, Hafriz",
+    "finish_time": "01:44:19",
+    "finish_seconds": 6259
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 919,
+    "name": "Hananto, Edward",
+    "finish_time": "01:44:23",
+    "finish_seconds": 6263
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 921,
+    "name": "Klein, Andr\u00e9",
+    "finish_time": "01:44:28",
+    "finish_seconds": 6268
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 923,
+    "name": "Tan, Wei Chong",
+    "finish_time": "01:44:35",
+    "finish_seconds": 6275
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 925,
+    "name": "Ng, Choon Beng Daniel",
+    "finish_time": "01:44:39",
+    "finish_seconds": 6279
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 927,
+    "name": "Lim, Yew Wen",
+    "finish_time": "01:44:46",
+    "finish_seconds": 6286
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 929,
+    "name": "Jia Jun, Oh",
+    "finish_time": "01:44:48",
+    "finish_seconds": 6288
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 931,
+    "name": "Loo, Yan Wee",
+    "finish_time": "01:44:48",
+    "finish_seconds": 6288
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 933,
+    "name": "Raharja, Louis Reinaldo",
+    "finish_time": "01:44:51",
+    "finish_seconds": 6291
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 935,
+    "name": "Chang, Richard",
+    "finish_time": "01:44:53",
+    "finish_seconds": 6293
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 937,
+    "name": "Burns, Nicholas",
+    "finish_time": "01:44:57",
+    "finish_seconds": 6297
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 939,
+    "name": "Lim Jei Ker, Alphonso",
+    "finish_time": "01:44:59",
+    "finish_seconds": 6299
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 941,
+    "name": "Iman, Fawwaz",
+    "finish_time": "01:45:02",
+    "finish_seconds": 6302
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 943,
+    "name": "Chong, Chee Soon",
+    "finish_time": "01:45:07",
+    "finish_seconds": 6307
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 945,
+    "name": "Covas, Nuno",
+    "finish_time": "01:45:08",
+    "finish_seconds": 6308
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 947,
+    "name": "Labiano, Alvin",
+    "finish_time": "01:45:11",
+    "finish_seconds": 6311
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 949,
+    "name": "Woo, Jason",
+    "finish_time": "01:45:12",
+    "finish_seconds": 6312
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 951,
+    "name": "Reyes, Patrick",
+    "finish_time": "01:45:14",
+    "finish_seconds": 6314
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 953,
+    "name": "Beltrame, Cedric",
+    "finish_time": "01:45:15",
+    "finish_seconds": 6315
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 955,
+    "name": "Mcconville, Christian",
+    "finish_time": "01:45:18",
+    "finish_seconds": 6318
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 957,
+    "name": "Ramos, Erwin",
+    "finish_time": "01:45:21",
+    "finish_seconds": 6321
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 959,
+    "name": "Rose, Benjamin",
+    "finish_time": "01:45:26",
+    "finish_seconds": 6326
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 961,
+    "name": "Mohamed, Azlan",
+    "finish_time": "01:45:28",
+    "finish_seconds": 6328
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 963,
+    "name": "Yeo, Teck Wee",
+    "finish_time": "01:45:32",
+    "finish_seconds": 6332
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 965,
+    "name": "Chong, Kevin",
+    "finish_time": "01:45:33",
+    "finish_seconds": 6333
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 967,
+    "name": "Arun, Shashank",
+    "finish_time": "01:45:36",
+    "finish_seconds": 6336
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 969,
+    "name": "Tan, Danny",
+    "finish_time": "01:45:37",
+    "finish_seconds": 6337
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 971,
+    "name": "Braganza, James",
+    "finish_time": "01:45:39",
+    "finish_seconds": 6339
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 973,
+    "name": "Duque, Paul Henry",
+    "finish_time": "01:45:47",
+    "finish_seconds": 6347
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 975,
+    "name": "Gouw, Andrew Gunawan",
+    "finish_time": "01:45:51",
+    "finish_seconds": 6351
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 977,
+    "name": "Kah Xiong, Teo",
+    "finish_time": "01:45:54",
+    "finish_seconds": 6354
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 979,
+    "name": "Parry, Stephen",
+    "finish_time": "01:45:55",
+    "finish_seconds": 6355
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 981,
+    "name": "Chen, Leon",
+    "finish_time": "01:45:58",
+    "finish_seconds": 6358
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 983,
+    "name": "Lee, Joe",
+    "finish_time": "01:46:07",
+    "finish_seconds": 6367
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 985,
+    "name": "Leong, Marcus",
+    "finish_time": "01:46:13",
+    "finish_seconds": 6373
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 987,
+    "name": "Ahmad, Husein",
+    "finish_time": "01:46:22",
+    "finish_seconds": 6382
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 989,
+    "name": "Huang, Zhenying",
+    "finish_time": "01:46:26",
+    "finish_seconds": 6386
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 991,
+    "name": "Koh, Li Tian",
+    "finish_time": "01:46:30",
+    "finish_seconds": 6390
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 993,
+    "name": "Renny, Razz",
+    "finish_time": "01:46:33",
+    "finish_seconds": 6393
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 995,
+    "name": "Tay, Choon Beng",
+    "finish_time": "01:46:39",
+    "finish_seconds": 6399
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 997,
+    "name": "Oh, Ian",
+    "finish_time": "01:46:41",
+    "finish_seconds": 6401
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 999,
+    "name": "Cheong, Joel",
+    "finish_time": "01:46:46",
+    "finish_seconds": 6406
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1001,
+    "name": "Thung, Jia Cheng",
+    "finish_time": "01:46:50",
+    "finish_seconds": 6410
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1003,
+    "name": "Quek, Paul",
+    "finish_time": "01:46:51",
+    "finish_seconds": 6411
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1005,
+    "name": "Ng Hing Loong, Chauncey",
+    "finish_time": "01:46:58",
+    "finish_seconds": 6418
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1007,
+    "name": "Augustin, Guillaume",
+    "finish_time": "01:47:03",
+    "finish_seconds": 6423
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1009,
+    "name": "Stewart, Ryan",
+    "finish_time": "01:47:05",
+    "finish_seconds": 6425
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1011,
+    "name": "Junhavitthaya, Setthaporn",
+    "finish_time": "01:47:10",
+    "finish_seconds": 6430
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1013,
+    "name": "Carron, Frederic",
+    "finish_time": "01:47:11",
+    "finish_seconds": 6431
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1015,
+    "name": "Martin-Sperry, Ed",
+    "finish_time": "01:47:12",
+    "finish_seconds": 6432
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1017,
+    "name": "Wirjosoekarto, Rio",
+    "finish_time": "01:47:17",
+    "finish_seconds": 6437
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1019,
+    "name": "Ng, Shaun",
+    "finish_time": "01:47:19",
+    "finish_seconds": 6439
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1021,
+    "name": "Ong, Edwin",
+    "finish_time": "01:47:24",
+    "finish_seconds": 6444
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1023,
+    "name": "Bok, Sherman",
+    "finish_time": "01:47:29",
+    "finish_seconds": 6449
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1025,
+    "name": "Jones, Richard",
+    "finish_time": "01:47:37",
+    "finish_seconds": 6457
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1027,
+    "name": "Yip, Di Hao",
+    "finish_time": "01:47:38",
+    "finish_seconds": 6458
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1029,
+    "name": "Haw, Niccholas",
+    "finish_time": "01:47:40",
+    "finish_seconds": 6460
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1031,
+    "name": "Tay, Leslie",
+    "finish_time": "01:47:45",
+    "finish_seconds": 6465
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1033,
+    "name": "Low, John",
+    "finish_time": "01:47:49",
+    "finish_seconds": 6469
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1035,
+    "name": "Chew, Zen",
+    "finish_time": "01:47:51",
+    "finish_seconds": 6471
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1037,
+    "name": "Tan, Chor Seng",
+    "finish_time": "01:47:53",
+    "finish_seconds": 6473
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1039,
+    "name": "Wong, Zheng Wei",
+    "finish_time": "01:47:59",
+    "finish_seconds": 6479
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1041,
+    "name": "Mobsby, Liam",
+    "finish_time": "01:48:02",
+    "finish_seconds": 6482
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1043,
+    "name": "So, Mario",
+    "finish_time": "01:48:04",
+    "finish_seconds": 6484
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1045,
+    "name": "Pek, David",
+    "finish_time": "01:48:11",
+    "finish_seconds": 6491
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1047,
+    "name": "Suprapto, Irza",
+    "finish_time": "01:48:14",
+    "finish_seconds": 6494
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1049,
+    "name": "Muthusamy, Yoggaraj",
+    "finish_time": "01:48:16",
+    "finish_seconds": 6496
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1051,
+    "name": "Khair, Amrin Taufan",
+    "finish_time": "01:48:17",
+    "finish_seconds": 6497
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1053,
+    "name": "Vuu, William",
+    "finish_time": "01:48:25",
+    "finish_seconds": 6505
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1055,
+    "name": "Wee, Zachery",
+    "finish_time": "01:48:30",
+    "finish_seconds": 6510
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1057,
+    "name": "Tan, Nicholas",
+    "finish_time": "01:48:32",
+    "finish_seconds": 6512
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1059,
+    "name": "Khew, U-Wei",
+    "finish_time": "01:48:36",
+    "finish_seconds": 6516
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1061,
+    "name": "Xu, Xiao Peng",
+    "finish_time": "01:48:45",
+    "finish_seconds": 6525
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1063,
+    "name": "Nazre, Lutfil Hadi",
+    "finish_time": "01:48:51",
+    "finish_seconds": 6531
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1065,
+    "name": "Robedizo, Gabriel",
+    "finish_time": "01:48:53",
+    "finish_seconds": 6533
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1067,
+    "name": "Lim, Berton",
+    "finish_time": "01:48:58",
+    "finish_seconds": 6538
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1069,
+    "name": "Mezroui, Ilyess",
+    "finish_time": "01:49:02",
+    "finish_seconds": 6542
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1071,
+    "name": "Gan, Reuben",
+    "finish_time": "01:49:10",
+    "finish_seconds": 6550
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1073,
+    "name": "Mohammad Yamin, Muhammad Aiman",
+    "finish_time": "01:49:14",
+    "finish_seconds": 6554
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1075,
+    "name": "Gillies, Alisdair",
+    "finish_time": "01:49:16",
+    "finish_seconds": 6556
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1077,
+    "name": "Lim, Jeff",
+    "finish_time": "01:49:23",
+    "finish_seconds": 6563
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1079,
+    "name": "Tan, Malcolm",
+    "finish_time": "01:49:34",
+    "finish_seconds": 6574
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1081,
+    "name": "Pan, Wanxiang",
+    "finish_time": "01:49:35",
+    "finish_seconds": 6575
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1083,
+    "name": "Yong, Steven",
+    "finish_time": "01:49:37",
+    "finish_seconds": 6577
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1085,
+    "name": "Yee Shuen, Lim",
+    "finish_time": "01:49:39",
+    "finish_seconds": 6579
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1087,
+    "name": "Koh, Robin",
+    "finish_time": "01:49:45",
+    "finish_seconds": 6585
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1089,
+    "name": "Tavallai, Ali",
+    "finish_time": "01:49:54",
+    "finish_seconds": 6594
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1091,
+    "name": "Kitahara, Kotaro",
+    "finish_time": "01:49:56",
+    "finish_seconds": 6596
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1093,
+    "name": "Kam, Maurice",
+    "finish_time": "01:50:01",
+    "finish_seconds": 6601
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1095,
+    "name": "Lee, Damian",
+    "finish_time": "01:50:16",
+    "finish_seconds": 6616
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1097,
+    "name": "Tan, Ee Ju",
+    "finish_time": "01:50:19",
+    "finish_seconds": 6619
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1099,
+    "name": "Sim, Damien",
+    "finish_time": "01:50:23",
+    "finish_seconds": 6623
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1101,
+    "name": "Crump, Navin",
+    "finish_time": "01:50:29",
+    "finish_seconds": 6629
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1103,
+    "name": "Amry, Ikmal",
+    "finish_time": "01:50:34",
+    "finish_seconds": 6634
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1105,
+    "name": "Keh, Mitchell",
+    "finish_time": "01:50:38",
+    "finish_seconds": 6638
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1107,
+    "name": "Huppe, Markus",
+    "finish_time": "01:50:41",
+    "finish_seconds": 6641
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1109,
+    "name": "O'Rourke, Tim",
+    "finish_time": "01:50:44",
+    "finish_seconds": 6644
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1111,
+    "name": "Yoke Weng, Lee",
+    "finish_time": "01:50:45",
+    "finish_seconds": 6645
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1113,
+    "name": "De Guzman, Aaron John",
+    "finish_time": "01:50:50",
+    "finish_seconds": 6650
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1115,
+    "name": "Jamaludin, Ameer",
+    "finish_time": "01:50:53",
+    "finish_seconds": 6653
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1117,
+    "name": "Rook, Mark",
+    "finish_time": "01:50:54",
+    "finish_seconds": 6654
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1119,
+    "name": "Rajagopalan, Ranga",
+    "finish_time": "01:50:55",
+    "finish_seconds": 6655
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1121,
+    "name": "Tan, Kuan Ting",
+    "finish_time": "01:50:57",
+    "finish_seconds": 6657
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1123,
+    "name": "Gulawani, Parthesh",
+    "finish_time": "01:50:58",
+    "finish_seconds": 6658
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1125,
+    "name": "Leung, Ka Yun",
+    "finish_time": "01:50:59",
+    "finish_seconds": 6659
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1127,
+    "name": "Teoh, Roy",
+    "finish_time": "01:51:02",
+    "finish_seconds": 6662
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1129,
+    "name": "Vh, Raymond",
+    "finish_time": "01:51:09",
+    "finish_seconds": 6669
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1131,
+    "name": "Jimenez, Kiko",
+    "finish_time": "01:51:11",
+    "finish_seconds": 6671
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1133,
+    "name": "Jalar, Rizudin",
+    "finish_time": "01:51:17",
+    "finish_seconds": 6677
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1135,
+    "name": "Yi De, Benedict Tan",
+    "finish_time": "01:51:19",
+    "finish_seconds": 6679
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1137,
+    "name": "Hutchings, Anthony",
+    "finish_time": "01:51:20",
+    "finish_seconds": 6680
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1139,
+    "name": "Hooi, Siew Hoong",
+    "finish_time": "01:51:24",
+    "finish_seconds": 6684
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1141,
+    "name": "Lim, Clavance",
+    "finish_time": "01:51:26",
+    "finish_seconds": 6686
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1143,
+    "name": "Yeo, Ian",
+    "finish_time": "01:51:30",
+    "finish_seconds": 6690
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1145,
+    "name": "Sakdapat, Pornpong",
+    "finish_time": "01:51:32",
+    "finish_seconds": 6692
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1147,
+    "name": "Lukic, Stevan",
+    "finish_time": "01:51:36",
+    "finish_seconds": 6696
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1149,
+    "name": "Chan, Alvin",
+    "finish_time": "01:51:37",
+    "finish_seconds": 6697
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1151,
+    "name": "Low, Jared",
+    "finish_time": "01:51:41",
+    "finish_seconds": 6701
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1153,
+    "name": "Hansche, Romano",
+    "finish_time": "01:51:43",
+    "finish_seconds": 6703
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1155,
+    "name": "Powell, Robert",
+    "finish_time": "01:51:44",
+    "finish_seconds": 6704
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1157,
+    "name": "Huang, Yan-Jie",
+    "finish_time": "01:51:46",
+    "finish_seconds": 6706
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1159,
+    "name": "Veloso, Gerson",
+    "finish_time": "01:51:46",
+    "finish_seconds": 6706
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1161,
+    "name": "Wood, Ollie",
+    "finish_time": "01:51:49",
+    "finish_seconds": 6709
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1163,
+    "name": "Suresh, Prashanth",
+    "finish_time": "01:51:52",
+    "finish_seconds": 6712
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1165,
+    "name": "Chang, Aaron",
+    "finish_time": "01:51:53",
+    "finish_seconds": 6713
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1167,
+    "name": "., Muhammad Zainuddin Bin Zahir",
+    "finish_time": "01:51:58",
+    "finish_seconds": 6718
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1169,
+    "name": "Chen, Gordon",
+    "finish_time": "01:52:00",
+    "finish_seconds": 6720
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1171,
+    "name": "Castillo, Eric",
+    "finish_time": "01:52:01",
+    "finish_seconds": 6721
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1173,
+    "name": "Ang, Jason",
+    "finish_time": "01:52:05",
+    "finish_seconds": 6725
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1175,
+    "name": "Gasznne, Muhammad",
+    "finish_time": "01:52:05",
+    "finish_seconds": 6725
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1177,
+    "name": "Tan, Huang Chun",
+    "finish_time": "01:52:06",
+    "finish_seconds": 6726
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1179,
+    "name": "Soepriatna, Nicholas Hendra",
+    "finish_time": "01:52:08",
+    "finish_seconds": 6728
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1181,
+    "name": "Nasir, Irfan",
+    "finish_time": "01:52:13",
+    "finish_seconds": 6733
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1183,
+    "name": "Song, Minghan",
+    "finish_time": "01:52:16",
+    "finish_seconds": 6736
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1185,
+    "name": "Mahadi, Ali",
+    "finish_time": "01:52:19",
+    "finish_seconds": 6739
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1187,
+    "name": "Kua, Kelvin",
+    "finish_time": "01:52:21",
+    "finish_seconds": 6741
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1189,
+    "name": "Gan, Boon Cheng",
+    "finish_time": "01:52:24",
+    "finish_seconds": 6744
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1191,
+    "name": "Little, Martin",
+    "finish_time": "01:52:28",
+    "finish_seconds": 6748
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1193,
+    "name": "Chow, Alvin",
+    "finish_time": "01:52:30",
+    "finish_seconds": 6750
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1195,
+    "name": "Lee, Jerry",
+    "finish_time": "01:52:36",
+    "finish_seconds": 6756
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1197,
+    "name": "Singh, Nitish",
+    "finish_time": "01:52:39",
+    "finish_seconds": 6759
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1199,
+    "name": "Han, Bryan",
+    "finish_time": "01:52:47",
+    "finish_seconds": 6767
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1201,
+    "name": "Hoon, Larry",
+    "finish_time": "01:52:50",
+    "finish_seconds": 6770
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1203,
+    "name": "Chong, Sam",
+    "finish_time": "01:52:57",
+    "finish_seconds": 6777
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1205,
+    "name": "Cordon Lopez, Rafael",
+    "finish_time": "01:53:03",
+    "finish_seconds": 6783
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1207,
+    "name": "Ho, How Wai",
+    "finish_time": "01:53:05",
+    "finish_seconds": 6785
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1209,
+    "name": "Firdaus, Muhammad",
+    "finish_time": "01:53:07",
+    "finish_seconds": 6787
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1211,
+    "name": "Tan, Kuo Feng",
+    "finish_time": "01:53:13",
+    "finish_seconds": 6793
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1213,
+    "name": "Sakornsathien, Parkpoom",
+    "finish_time": "01:53:15",
+    "finish_seconds": 6795
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1215,
+    "name": "Yew, Jeremy",
+    "finish_time": "01:53:26",
+    "finish_seconds": 6806
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1217,
+    "name": "Tay, Alex",
+    "finish_time": "01:53:27",
+    "finish_seconds": 6807
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1219,
+    "name": "Lim, Melvin",
+    "finish_time": "01:53:28",
+    "finish_seconds": 6808
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1221,
+    "name": "Cheung, Michael",
+    "finish_time": "01:53:35",
+    "finish_seconds": 6815
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1223,
+    "name": "Ang, Roger",
+    "finish_time": "01:53:42",
+    "finish_seconds": 6822
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1225,
+    "name": "Wong, Christopher",
+    "finish_time": "01:53:48",
+    "finish_seconds": 6828
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1227,
+    "name": "Quek, Wei Wee Jesstern",
+    "finish_time": "01:53:50",
+    "finish_seconds": 6830
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1229,
+    "name": "Dizon, Dean Adrian",
+    "finish_time": "01:53:55",
+    "finish_seconds": 6835
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1231,
+    "name": "Ng Chiar Jiun, Ken",
+    "finish_time": "01:53:56",
+    "finish_seconds": 6836
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1233,
+    "name": "Padmanabhan, Dushyant",
+    "finish_time": "01:54:03",
+    "finish_seconds": 6843
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1235,
+    "name": "Patarateerakul, Nuttasit",
+    "finish_time": "01:54:10",
+    "finish_seconds": 6850
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1237,
+    "name": "Jeyaraj, Joshua",
+    "finish_time": "01:54:12",
+    "finish_seconds": 6852
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1239,
+    "name": "Sng, Cheng Hui",
+    "finish_time": "01:54:15",
+    "finish_seconds": 6855
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1241,
+    "name": "Lee, Nick",
+    "finish_time": "01:54:21",
+    "finish_seconds": 6861
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1243,
+    "name": "Ramadoss, Ganeshkarthik",
+    "finish_time": "01:54:23",
+    "finish_seconds": 6863
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1245,
+    "name": "Hwang, Yoonjoong",
+    "finish_time": "01:54:23",
+    "finish_seconds": 6863
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1247,
+    "name": "Wong, Sheng Min",
+    "finish_time": "01:54:24",
+    "finish_seconds": 6864
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1249,
+    "name": "Rusli, Antonius Richard",
+    "finish_time": "01:54:30",
+    "finish_seconds": 6870
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1251,
+    "name": "Pozdenkov, Petr",
+    "finish_time": "01:54:34",
+    "finish_seconds": 6874
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1253,
+    "name": "Suresh, Shravan",
+    "finish_time": "01:54:37",
+    "finish_seconds": 6877
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1255,
+    "name": "Glynn, Ben",
+    "finish_time": "01:54:40",
+    "finish_seconds": 6880
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1257,
+    "name": "Haddow, Hamish",
+    "finish_time": "01:54:41",
+    "finish_seconds": 6881
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1259,
+    "name": "Liu, Anton",
+    "finish_time": "01:54:44",
+    "finish_seconds": 6884
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1261,
+    "name": "Hussain, Muhammad",
+    "finish_time": "01:54:56",
+    "finish_seconds": 6896
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1263,
+    "name": "Hoo, Joel",
+    "finish_time": "01:54:57",
+    "finish_seconds": 6897
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1265,
+    "name": "Toh, Dion",
+    "finish_time": "01:55:08",
+    "finish_seconds": 6908
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1267,
+    "name": "Puno Jr, Rogelio",
+    "finish_time": "01:55:11",
+    "finish_seconds": 6911
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1269,
+    "name": "Young, Toby",
+    "finish_time": "01:55:12",
+    "finish_seconds": 6912
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1271,
+    "name": "Cervantes, Francisco",
+    "finish_time": "01:55:12",
+    "finish_seconds": 6912
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1273,
+    "name": "Chan, Farrell",
+    "finish_time": "01:55:16",
+    "finish_seconds": 6916
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1276,
+    "name": "Mohamed, Rizwan",
+    "finish_time": "01:55:21",
+    "finish_seconds": 6921
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1278,
+    "name": "Castillo, Rafrichard",
+    "finish_time": "01:55:36",
+    "finish_seconds": 6936
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1280,
+    "name": "Low, Hui Long",
+    "finish_time": "01:55:42",
+    "finish_seconds": 6942
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1282,
+    "name": "\u6751\u5ddd, \u5b66\u55e3",
+    "finish_time": "01:55:45",
+    "finish_seconds": 6945
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1284,
+    "name": "Manoharan, Kieron",
+    "finish_time": "01:55:48",
+    "finish_seconds": 6948
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1286,
+    "name": "Ong, Jun Leng",
+    "finish_time": "01:55:56",
+    "finish_seconds": 6956
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1288,
+    "name": "Zheng, Andre",
+    "finish_time": "01:55:59",
+    "finish_seconds": 6959
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1290,
+    "name": "Ross, Ewan",
+    "finish_time": "01:56:04",
+    "finish_seconds": 6964
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1292,
+    "name": "Hon, Royston",
+    "finish_time": "01:56:07",
+    "finish_seconds": 6967
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1294,
+    "name": "Merritt, James",
+    "finish_time": "01:56:20",
+    "finish_seconds": 6980
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1296,
+    "name": "Sellathurai, Vick",
+    "finish_time": "01:56:24",
+    "finish_seconds": 6984
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1298,
+    "name": "Yen, Jacky",
+    "finish_time": "01:56:29",
+    "finish_seconds": 6989
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1300,
+    "name": "Tan, Javier",
+    "finish_time": "01:56:34",
+    "finish_seconds": 6994
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1302,
+    "name": "Chong, Justin",
+    "finish_time": "01:56:38",
+    "finish_seconds": 6998
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1304,
+    "name": "Diagan, Norman",
+    "finish_time": "01:56:40",
+    "finish_seconds": 7000
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1306,
+    "name": "Rifqi, Muhammad",
+    "finish_time": "01:56:42",
+    "finish_seconds": 7002
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1308,
+    "name": "Mejjati Alami, Amine",
+    "finish_time": "01:56:47",
+    "finish_seconds": 7007
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1310,
+    "name": "Heng, Evan",
+    "finish_time": "01:56:58",
+    "finish_seconds": 7018
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1312,
+    "name": "Handoko, Herdy",
+    "finish_time": "01:57:06",
+    "finish_seconds": 7026
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1314,
+    "name": "Chua, Samuel",
+    "finish_time": "01:57:09",
+    "finish_seconds": 7029
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1316,
+    "name": "Toh, Ram",
+    "finish_time": "01:57:15",
+    "finish_seconds": 7035
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1318,
+    "name": "Susantyo, Ray",
+    "finish_time": "01:57:18",
+    "finish_seconds": 7038
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1320,
+    "name": "Tan, Sheng Han",
+    "finish_time": "01:57:21",
+    "finish_seconds": 7041
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1322,
+    "name": "Phang, Teng Fone",
+    "finish_time": "01:57:26",
+    "finish_seconds": 7046
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1324,
+    "name": "Ng, Chee Shyan",
+    "finish_time": "01:57:33",
+    "finish_seconds": 7053
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1326,
+    "name": "Oh, Irvern",
+    "finish_time": "01:57:39",
+    "finish_seconds": 7059
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1328,
+    "name": "Tay, Mervyn",
+    "finish_time": "01:57:46",
+    "finish_seconds": 7066
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1330,
+    "name": "Ng, Eugene",
+    "finish_time": "01:57:59",
+    "finish_seconds": 7079
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1332,
+    "name": "Angullia, Saiful",
+    "finish_time": "01:58:08",
+    "finish_seconds": 7088
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1334,
+    "name": "Li, Elijah",
+    "finish_time": "01:58:11",
+    "finish_seconds": 7091
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1336,
+    "name": "Eastham, Mark",
+    "finish_time": "01:58:14",
+    "finish_seconds": 7094
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1338,
+    "name": "Demir, Ahmet",
+    "finish_time": "01:58:19",
+    "finish_seconds": 7099
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1340,
+    "name": "Ng, Elois",
+    "finish_time": "01:58:22",
+    "finish_seconds": 7102
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1342,
+    "name": "Mar, Alvan",
+    "finish_time": "01:58:27",
+    "finish_seconds": 7107
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1344,
+    "name": "Ong, Ke Jie",
+    "finish_time": "01:58:34",
+    "finish_seconds": 7114
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1346,
+    "name": "Teo, Takafumi",
+    "finish_time": "01:58:43",
+    "finish_seconds": 7123
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1348,
+    "name": "Tan, Wee Liat",
+    "finish_time": "01:58:50",
+    "finish_seconds": 7130
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1350,
+    "name": "Dominguez, Charles Wren",
+    "finish_time": "01:58:54",
+    "finish_seconds": 7134
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1352,
+    "name": "Quek, Alloysius",
+    "finish_time": "01:58:57",
+    "finish_seconds": 7137
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1354,
+    "name": "Ong, Yang Shun",
+    "finish_time": "01:59:04",
+    "finish_seconds": 7144
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1356,
+    "name": "Liew, Shaun Kheng",
+    "finish_time": "01:59:12",
+    "finish_seconds": 7152
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1358,
+    "name": "Ng, Kevin",
+    "finish_time": "01:59:23",
+    "finish_seconds": 7163
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1360,
+    "name": "Poo, Ce Jin",
+    "finish_time": "01:59:29",
+    "finish_seconds": 7169
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1362,
+    "name": "Toh, Shaun",
+    "finish_time": "01:59:34",
+    "finish_seconds": 7174
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1364,
+    "name": "Ganesan, Shriharan",
+    "finish_time": "01:59:39",
+    "finish_seconds": 7179
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1366,
+    "name": "Ali, Ariffin",
+    "finish_time": "01:59:45",
+    "finish_seconds": 7185
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1368,
+    "name": "Nielcius, Moses",
+    "finish_time": "01:59:49",
+    "finish_seconds": 7189
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1370,
+    "name": "Chng, Eugene",
+    "finish_time": "01:59:53",
+    "finish_seconds": 7193
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1372,
+    "name": "Dunne, Liam",
+    "finish_time": "02:00:09",
+    "finish_seconds": 7209
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1374,
+    "name": "Ho, Jun Xian",
+    "finish_time": "02:00:09",
+    "finish_seconds": 7209
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1376,
+    "name": "Chin, Brian",
+    "finish_time": "02:00:10",
+    "finish_seconds": 7210
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1378,
+    "name": "Danial, Hilmi",
+    "finish_time": "02:00:14",
+    "finish_seconds": 7214
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1380,
+    "name": "Ang, Wei En",
+    "finish_time": "02:00:21",
+    "finish_seconds": 7221
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1382,
+    "name": "Yeo, Fairil",
+    "finish_time": "02:00:22",
+    "finish_seconds": 7222
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1384,
+    "name": "Nonis, Jeremy",
+    "finish_time": "02:00:26",
+    "finish_seconds": 7226
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1386,
+    "name": "Mok, Melvyn",
+    "finish_time": "02:00:34",
+    "finish_seconds": 7234
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1388,
+    "name": "Thiede, Andreas",
+    "finish_time": "02:00:35",
+    "finish_seconds": 7235
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1390,
+    "name": "Dionillo, Reynald",
+    "finish_time": "02:00:40",
+    "finish_seconds": 7240
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1392,
+    "name": "Chee, Eddy",
+    "finish_time": "02:00:47",
+    "finish_seconds": 7247
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1394,
+    "name": "Oh, Boon Hwee",
+    "finish_time": "02:00:48",
+    "finish_seconds": 7248
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1396,
+    "name": "Liow, Eugene",
+    "finish_time": "02:00:59",
+    "finish_seconds": 7259
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1398,
+    "name": "Kancharla, Rup",
+    "finish_time": "02:01:05",
+    "finish_seconds": 7265
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1400,
+    "name": "Mohr, Ben",
+    "finish_time": "02:01:15",
+    "finish_seconds": 7275
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1402,
+    "name": "Mah, Jih Huan",
+    "finish_time": "02:01:18",
+    "finish_seconds": 7278
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1404,
+    "name": "Chen, John",
+    "finish_time": "02:01:26",
+    "finish_seconds": 7286
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1406,
+    "name": "Tan, Jason",
+    "finish_time": "02:01:46",
+    "finish_seconds": 7306
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1408,
+    "name": "Lai, Jurgen",
+    "finish_time": "02:01:56",
+    "finish_seconds": 7316
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1410,
+    "name": "Lo, Sung Yip Robin",
+    "finish_time": "02:02:02",
+    "finish_seconds": 7322
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1412,
+    "name": "Tungolh, Maitre",
+    "finish_time": "02:02:02",
+    "finish_seconds": 7322
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1414,
+    "name": "Keaf, Nura",
+    "finish_time": "02:02:05",
+    "finish_seconds": 7325
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1416,
+    "name": "Ong, Max",
+    "finish_time": "02:02:07",
+    "finish_seconds": 7327
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1418,
+    "name": "Teo, Jurado",
+    "finish_time": "02:02:09",
+    "finish_seconds": 7329
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1420,
+    "name": "Adalay, Marcus",
+    "finish_time": "02:02:13",
+    "finish_seconds": 7333
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1422,
+    "name": "Wong, Keewee",
+    "finish_time": "02:02:17",
+    "finish_seconds": 7337
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1424,
+    "name": "Bin Abdul Malik, Asrul Ariff",
+    "finish_time": "02:02:30",
+    "finish_seconds": 7350
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1426,
+    "name": "Lai, Scott",
+    "finish_time": "02:02:32",
+    "finish_seconds": 7352
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1428,
+    "name": "Na, Steven",
+    "finish_time": "02:02:48",
+    "finish_seconds": 7368
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1430,
+    "name": "Tai, Daniel",
+    "finish_time": "02:02:51",
+    "finish_seconds": 7371
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1432,
+    "name": "Ms, Ahmed",
+    "finish_time": "02:02:51",
+    "finish_seconds": 7371
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1434,
+    "name": "Chen, Mervyn",
+    "finish_time": "02:02:53",
+    "finish_seconds": 7373
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1436,
+    "name": "Bhide, Shaunak",
+    "finish_time": "02:03:01",
+    "finish_seconds": 7381
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1438,
+    "name": "Han Wee, Kiew",
+    "finish_time": "02:03:07",
+    "finish_seconds": 7387
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1440,
+    "name": "Toh, Churn Yee",
+    "finish_time": "02:03:10",
+    "finish_seconds": 7390
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1442,
+    "name": "Lee, Leonard",
+    "finish_time": "02:03:29",
+    "finish_seconds": 7409
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1444,
+    "name": "Chao, Yin",
+    "finish_time": "02:03:36",
+    "finish_seconds": 7416
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1446,
+    "name": "Chang, James",
+    "finish_time": "02:03:42",
+    "finish_seconds": 7422
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1448,
+    "name": "Lee, Alan",
+    "finish_time": "02:03:49",
+    "finish_seconds": 7429
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1450,
+    "name": "Phylip-Jones, James",
+    "finish_time": "02:03:54",
+    "finish_seconds": 7434
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1452,
+    "name": "Cheng, Sky",
+    "finish_time": "02:04:02",
+    "finish_seconds": 7442
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1454,
+    "name": "Yap, Qi Long",
+    "finish_time": "02:04:07",
+    "finish_seconds": 7447
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1456,
+    "name": "Prabhu, Rajen",
+    "finish_time": "02:04:10",
+    "finish_seconds": 7450
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1458,
+    "name": "Hashim, Danial",
+    "finish_time": "02:04:14",
+    "finish_seconds": 7454
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1460,
+    "name": "Rehunathan, Pravin",
+    "finish_time": "02:04:21",
+    "finish_seconds": 7461
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1462,
+    "name": "Sittichaithanaphon, Akrawong",
+    "finish_time": "02:04:23",
+    "finish_seconds": 7463
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1464,
+    "name": "Chan Wing Sun, Eugene",
+    "finish_time": "02:04:24",
+    "finish_seconds": 7464
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1466,
+    "name": "Kwek, Eik Sheng",
+    "finish_time": "02:04:29",
+    "finish_seconds": 7469
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1468,
+    "name": "Roco, John Rey",
+    "finish_time": "02:04:34",
+    "finish_seconds": 7474
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1470,
+    "name": "Lim, Jerald",
+    "finish_time": "02:04:38",
+    "finish_seconds": 7478
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1472,
+    "name": "Huang, Alex",
+    "finish_time": "02:04:41",
+    "finish_seconds": 7481
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1474,
+    "name": "Wong, Julian",
+    "finish_time": "02:04:46",
+    "finish_seconds": 7486
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1476,
+    "name": "Mcintyre, Sheamus",
+    "finish_time": "02:04:51",
+    "finish_seconds": 7491
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1478,
+    "name": "Wei Sheng, Hoon",
+    "finish_time": "02:04:57",
+    "finish_seconds": 7497
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1480,
+    "name": "Singh, Navjoth",
+    "finish_time": "02:05:03",
+    "finish_seconds": 7503
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1482,
+    "name": "Abd Rahman, Shahrin",
+    "finish_time": "02:05:07",
+    "finish_seconds": 7507
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1484,
+    "name": "Ishak, Kairuldin",
+    "finish_time": "02:05:11",
+    "finish_seconds": 7511
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1486,
+    "name": "Gunawan, Erwin",
+    "finish_time": "02:05:13",
+    "finish_seconds": 7513
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1488,
+    "name": "Ang, Sng Ming",
+    "finish_time": "02:05:17",
+    "finish_seconds": 7517
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1490,
+    "name": "Weller, Simon",
+    "finish_time": "02:05:22",
+    "finish_seconds": 7522
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1492,
+    "name": "Yong, Zheng Da",
+    "finish_time": "02:05:29",
+    "finish_seconds": 7529
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1494,
+    "name": "Redwan, Hayatmin",
+    "finish_time": "02:05:30",
+    "finish_seconds": 7530
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1496,
+    "name": "Royal, Brendan",
+    "finish_time": "02:05:32",
+    "finish_seconds": 7532
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1498,
+    "name": "Yiyou, Jaiden",
+    "finish_time": "02:05:39",
+    "finish_seconds": 7539
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1500,
+    "name": "Low, B",
+    "finish_time": "02:05:41",
+    "finish_seconds": 7541
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1502,
+    "name": "Ong, Lucas",
+    "finish_time": "02:05:48",
+    "finish_seconds": 7548
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1504,
+    "name": "Lee, Oswald",
+    "finish_time": "02:05:53",
+    "finish_seconds": 7553
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1506,
+    "name": "Allard, Jocelyn (Jos)",
+    "finish_time": "02:05:55",
+    "finish_seconds": 7555
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1508,
+    "name": "Bontia, Juress",
+    "finish_time": "02:05:59",
+    "finish_seconds": 7559
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1510,
+    "name": "Lek, Xavier",
+    "finish_time": "02:06:02",
+    "finish_seconds": 7562
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1512,
+    "name": "Hock Ming Eugene, Ong",
+    "finish_time": "02:06:05",
+    "finish_seconds": 7565
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1514,
+    "name": "Lao, Alan",
+    "finish_time": "02:06:06",
+    "finish_seconds": 7566
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1516,
+    "name": "Yu, Martin",
+    "finish_time": "02:06:13",
+    "finish_seconds": 7573
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1518,
+    "name": "Heah, Rayner",
+    "finish_time": "02:06:40",
+    "finish_seconds": 7600
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1520,
+    "name": "Chee Yuan, Wong",
+    "finish_time": "02:06:47",
+    "finish_seconds": 7607
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1522,
+    "name": "Hassan, Fadzli",
+    "finish_time": "02:06:55",
+    "finish_seconds": 7615
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1524,
+    "name": "Norazman, Hasif",
+    "finish_time": "02:07:05",
+    "finish_seconds": 7625
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1526,
+    "name": "De Castro, Jhalley",
+    "finish_time": "02:07:21",
+    "finish_seconds": 7641
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1528,
+    "name": "Zhen Zhao, Tan",
+    "finish_time": "02:07:23",
+    "finish_seconds": 7643
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1530,
+    "name": "Koay, Gary",
+    "finish_time": "02:07:27",
+    "finish_seconds": 7647
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1532,
+    "name": "Lim, Wayne",
+    "finish_time": "02:07:42",
+    "finish_seconds": 7662
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1534,
+    "name": "Shen, Adrian",
+    "finish_time": "02:07:56",
+    "finish_seconds": 7676
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1536,
+    "name": "Yeo, Anthony",
+    "finish_time": "02:08:01",
+    "finish_seconds": 7681
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1538,
+    "name": "Chow, Kok Hou",
+    "finish_time": "02:08:03",
+    "finish_seconds": 7683
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1540,
+    "name": "Hussin, Muhammad Haekal",
+    "finish_time": "02:08:19",
+    "finish_seconds": 7699
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1542,
+    "name": "Datta, Gunjan",
+    "finish_time": "02:08:30",
+    "finish_seconds": 7710
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1544,
+    "name": "Tay, Michael",
+    "finish_time": "02:08:32",
+    "finish_seconds": 7712
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1546,
+    "name": "Ang, Gerald",
+    "finish_time": "02:08:39",
+    "finish_seconds": 7719
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "M",
+    "rank": 1548,
+    "name": "Chan, Ray",
+    "finish_time": "02:08:47",
+    "finish_seconds": 7727
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 1,
+    "name": "Mc Ginley, Maire",
+    "finish_time": "01:02:33",
+    "finish_seconds": 3753
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 3,
+    "name": "\u6731, \u82b3",
+    "finish_time": "01:05:02",
+    "finish_seconds": 3902
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 5,
+    "name": "Kumman, Pimchanok",
+    "finish_time": "01:07:39",
+    "finish_seconds": 4059
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 7,
+    "name": "Chin, Wei Yee",
+    "finish_time": "01:09:04",
+    "finish_seconds": 4144
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 9,
+    "name": "Booth, Jade",
+    "finish_time": "01:09:36",
+    "finish_seconds": 4176
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 11,
+    "name": "Freeman, Imogen",
+    "finish_time": "01:10:20",
+    "finish_seconds": 4220
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 13,
+    "name": "Davies, Hannah",
+    "finish_time": "01:11:50",
+    "finish_seconds": 4310
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 15,
+    "name": "Tan, Win Yi",
+    "finish_time": "01:12:13",
+    "finish_seconds": 4333
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 17,
+    "name": "Teng, Alicia",
+    "finish_time": "01:12:22",
+    "finish_seconds": 4342
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 19,
+    "name": "Bye, Anita",
+    "finish_time": "01:12:57",
+    "finish_seconds": 4377
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 21,
+    "name": "Errington, Ilona-Jade",
+    "finish_time": "01:13:24",
+    "finish_seconds": 4404
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 23,
+    "name": "Harris, Zoe",
+    "finish_time": "01:14:14",
+    "finish_seconds": 4454
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 25,
+    "name": "Champion, Grace",
+    "finish_time": "01:14:56",
+    "finish_seconds": 4496
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 27,
+    "name": "Hulbert, Stephanie",
+    "finish_time": "01:15:48",
+    "finish_seconds": 4548
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 29,
+    "name": "Doggett, Niamh",
+    "finish_time": "01:16:41",
+    "finish_seconds": 4601
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 31,
+    "name": "Pink, Aimee",
+    "finish_time": "01:17:13",
+    "finish_seconds": 4633
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 33,
+    "name": "Kelly, Lou",
+    "finish_time": "01:17:36",
+    "finish_seconds": 4656
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 35,
+    "name": "Kunsel, Suzanne",
+    "finish_time": "01:18:00",
+    "finish_seconds": 4680
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 37,
+    "name": "Zhou, Jiazhen",
+    "finish_time": "01:18:15",
+    "finish_seconds": 4695
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 39,
+    "name": "Tsang, Vicki",
+    "finish_time": "01:18:34",
+    "finish_seconds": 4714
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 41,
+    "name": "Hannam, Beth",
+    "finish_time": "01:18:55",
+    "finish_seconds": 4735
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 43,
+    "name": "Ho, Maria",
+    "finish_time": "01:19:07",
+    "finish_seconds": 4747
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 45,
+    "name": "Ho, Kelly",
+    "finish_time": "01:19:10",
+    "finish_seconds": 4750
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 47,
+    "name": "Tan, Sarah",
+    "finish_time": "01:19:27",
+    "finish_seconds": 4767
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 49,
+    "name": "Yeo, Jolyn",
+    "finish_time": "01:20:19",
+    "finish_seconds": 4819
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 51,
+    "name": "Tupjan, Jittapa",
+    "finish_time": "01:20:32",
+    "finish_seconds": 4832
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 53,
+    "name": "Gretzki, Julia",
+    "finish_time": "01:20:56",
+    "finish_seconds": 4856
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 55,
+    "name": "Wee, Joyce",
+    "finish_time": "01:21:01",
+    "finish_seconds": 4861
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 57,
+    "name": "Kurnia, Intan",
+    "finish_time": "01:21:36",
+    "finish_seconds": 4896
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 59,
+    "name": "Ng, Liu Yin",
+    "finish_time": "01:21:56",
+    "finish_seconds": 4916
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 61,
+    "name": "King, Heather",
+    "finish_time": "01:22:06",
+    "finish_seconds": 4926
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 63,
+    "name": "Lum, Denise",
+    "finish_time": "01:22:13",
+    "finish_seconds": 4933
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 65,
+    "name": "Seow, Clarissa",
+    "finish_time": "01:22:19",
+    "finish_seconds": 4939
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 67,
+    "name": "Kinsman, Jasmine",
+    "finish_time": "01:22:20",
+    "finish_seconds": 4940
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 69,
+    "name": "Nurarfanah, Ponnie",
+    "finish_time": "01:23:21",
+    "finish_seconds": 5001
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 71,
+    "name": "Brunner, Evelyn",
+    "finish_time": "01:23:27",
+    "finish_seconds": 5007
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 73,
+    "name": "Suzuki-Carpenter, Misato",
+    "finish_time": "01:23:30",
+    "finish_seconds": 5010
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 75,
+    "name": "Gentle, Sally",
+    "finish_time": "01:23:32",
+    "finish_seconds": 5012
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 77,
+    "name": "Pursad, Stephanie",
+    "finish_time": "01:23:44",
+    "finish_seconds": 5024
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 79,
+    "name": "Boussard, Busara",
+    "finish_time": "01:23:51",
+    "finish_seconds": 5031
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 81,
+    "name": "Aw, Shi Ying",
+    "finish_time": "01:24:14",
+    "finish_seconds": 5054
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 83,
+    "name": "Celadena Mokudai, Kristel Novie",
+    "finish_time": "01:24:24",
+    "finish_seconds": 5064
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 85,
+    "name": "Reid, Cindy",
+    "finish_time": "01:24:29",
+    "finish_seconds": 5069
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 87,
+    "name": "Lau, Risz",
+    "finish_time": "01:24:47",
+    "finish_seconds": 5087
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 89,
+    "name": "Luu, Trang",
+    "finish_time": "01:24:52",
+    "finish_seconds": 5092
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 91,
+    "name": "Williams, Deanne",
+    "finish_time": "01:25:07",
+    "finish_seconds": 5107
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 93,
+    "name": "Mather, Mia",
+    "finish_time": "01:25:11",
+    "finish_seconds": 5111
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 95,
+    "name": "Van Der Houwen, Mathilde",
+    "finish_time": "01:25:13",
+    "finish_seconds": 5113
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 97,
+    "name": "Wee, Naomi",
+    "finish_time": "01:25:24",
+    "finish_seconds": 5124
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 99,
+    "name": "Paculba, Jeremiah",
+    "finish_time": "01:25:34",
+    "finish_seconds": 5134
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 101,
+    "name": "Wiryani, Bonnie",
+    "finish_time": "01:25:50",
+    "finish_seconds": 5150
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 103,
+    "name": "Aljarallah, Mariam",
+    "finish_time": "01:26:08",
+    "finish_seconds": 5168
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 105,
+    "name": "Leong, Rynnette",
+    "finish_time": "01:26:16",
+    "finish_seconds": 5176
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 107,
+    "name": "Turner, Emma",
+    "finish_time": "01:26:27",
+    "finish_seconds": 5187
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 109,
+    "name": "Hu, Jasmin",
+    "finish_time": "01:26:39",
+    "finish_seconds": 5199
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 111,
+    "name": "Hoe, Germaine",
+    "finish_time": "01:26:57",
+    "finish_seconds": 5217
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 113,
+    "name": "Tang, Alexandria",
+    "finish_time": "01:27:11",
+    "finish_seconds": 5231
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 115,
+    "name": "Cai, Carrie",
+    "finish_time": "01:27:15",
+    "finish_seconds": 5235
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 117,
+    "name": "Muslim, Lydia",
+    "finish_time": "01:27:22",
+    "finish_seconds": 5242
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 119,
+    "name": "Chen, Amanda",
+    "finish_time": "01:27:31",
+    "finish_seconds": 5251
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 121,
+    "name": "Roff, Helen",
+    "finish_time": "01:27:34",
+    "finish_seconds": 5254
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 123,
+    "name": "Myahya, Rozanah",
+    "finish_time": "01:27:43",
+    "finish_seconds": 5263
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 125,
+    "name": "Schutz, Louise",
+    "finish_time": "01:27:45",
+    "finish_seconds": 5265
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 127,
+    "name": "Soekasah, Aiko",
+    "finish_time": "01:27:52",
+    "finish_seconds": 5272
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 129,
+    "name": "Lim, Baoying",
+    "finish_time": "01:27:54",
+    "finish_seconds": 5274
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 131,
+    "name": "Zuo, Zoey",
+    "finish_time": "01:27:57",
+    "finish_seconds": 5277
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 133,
+    "name": "Bulgakova, Kseniia",
+    "finish_time": "01:28:03",
+    "finish_seconds": 5283
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 135,
+    "name": "Lim, Michelle",
+    "finish_time": "01:28:07",
+    "finish_seconds": 5287
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 137,
+    "name": "Hartshorne, Jasmine",
+    "finish_time": "01:28:13",
+    "finish_seconds": 5293
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 139,
+    "name": "Chua, Angelica",
+    "finish_time": "01:28:19",
+    "finish_seconds": 5299
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 141,
+    "name": "Lim, Joelle",
+    "finish_time": "01:28:29",
+    "finish_seconds": 5309
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 143,
+    "name": "Fung, Sin Yee",
+    "finish_time": "01:28:32",
+    "finish_seconds": 5312
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 145,
+    "name": "Chia, Valencia",
+    "finish_time": "01:28:56",
+    "finish_seconds": 5336
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 147,
+    "name": "Phang, Yl",
+    "finish_time": "01:29:15",
+    "finish_seconds": 5355
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 149,
+    "name": "Su, Yuhan",
+    "finish_time": "01:29:17",
+    "finish_seconds": 5357
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 151,
+    "name": "Lee, Siew Wen",
+    "finish_time": "01:29:24",
+    "finish_seconds": 5364
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 153,
+    "name": "Toh, Raine",
+    "finish_time": "01:29:37",
+    "finish_seconds": 5377
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 155,
+    "name": "Ng, Joan",
+    "finish_time": "01:29:43",
+    "finish_seconds": 5383
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 157,
+    "name": "Lim, Jie Ling",
+    "finish_time": "01:29:47",
+    "finish_seconds": 5387
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 159,
+    "name": "Saran, Anoosha",
+    "finish_time": "01:29:50",
+    "finish_seconds": 5390
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 161,
+    "name": "Ng, Hui Ru",
+    "finish_time": "01:29:53",
+    "finish_seconds": 5393
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 163,
+    "name": "Lim, Renee",
+    "finish_time": "01:30:09",
+    "finish_seconds": 5409
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 165,
+    "name": "Groover, Kaily",
+    "finish_time": "01:30:13",
+    "finish_seconds": 5413
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 167,
+    "name": "T, Jo",
+    "finish_time": "01:30:16",
+    "finish_seconds": 5416
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 169,
+    "name": "Quinonez, Nicole",
+    "finish_time": "01:30:22",
+    "finish_seconds": 5422
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 171,
+    "name": "Chua, Sk",
+    "finish_time": "01:30:33",
+    "finish_seconds": 5433
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 173,
+    "name": "Ng, Victoria",
+    "finish_time": "01:30:46",
+    "finish_seconds": 5446
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 175,
+    "name": "Patterson, Kerrie",
+    "finish_time": "01:30:59",
+    "finish_seconds": 5459
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 177,
+    "name": "Lee, Meliani",
+    "finish_time": "01:31:09",
+    "finish_seconds": 5469
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 179,
+    "name": "Soh, Patsy",
+    "finish_time": "01:31:23",
+    "finish_seconds": 5483
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 181,
+    "name": "Teo, Charlotte",
+    "finish_time": "01:31:28",
+    "finish_seconds": 5488
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 183,
+    "name": "Wee, Mabel",
+    "finish_time": "01:31:33",
+    "finish_seconds": 5493
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 185,
+    "name": "Prasad, Natasha",
+    "finish_time": "01:31:44",
+    "finish_seconds": 5504
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 187,
+    "name": "Ho, Lee Wan",
+    "finish_time": "01:31:53",
+    "finish_seconds": 5513
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 189,
+    "name": "Chua, Gina",
+    "finish_time": "01:31:54",
+    "finish_seconds": 5514
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 191,
+    "name": "Wiyogo, Ellen",
+    "finish_time": "01:31:59",
+    "finish_seconds": 5519
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 193,
+    "name": "Huang, Daphne",
+    "finish_time": "01:32:02",
+    "finish_seconds": 5522
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 195,
+    "name": "Lim, Annie",
+    "finish_time": "01:32:17",
+    "finish_seconds": 5537
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 197,
+    "name": "Gibaeva, Anna",
+    "finish_time": "01:32:26",
+    "finish_seconds": 5546
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 199,
+    "name": "Maharani, Maria Aquarista",
+    "finish_time": "01:32:48",
+    "finish_seconds": 5568
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 201,
+    "name": "Hsieh, Michelle",
+    "finish_time": "01:33:00",
+    "finish_seconds": 5580
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 203,
+    "name": "Crooks, Rei",
+    "finish_time": "01:33:04",
+    "finish_seconds": 5584
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 205,
+    "name": "Chua, Esther",
+    "finish_time": "01:33:09",
+    "finish_seconds": 5589
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 207,
+    "name": "Wang, Stella",
+    "finish_time": "01:33:12",
+    "finish_seconds": 5592
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 209,
+    "name": "Amethysta, Saphira",
+    "finish_time": "01:33:22",
+    "finish_seconds": 5602
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 211,
+    "name": "Oh, Hyun Jung",
+    "finish_time": "01:33:31",
+    "finish_seconds": 5611
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 213,
+    "name": "Ong, Ester",
+    "finish_time": "01:33:36",
+    "finish_seconds": 5616
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 215,
+    "name": "Ang, Jasmine",
+    "finish_time": "01:33:40",
+    "finish_seconds": 5620
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 217,
+    "name": "Sonia`, Sharlene",
+    "finish_time": "01:33:42",
+    "finish_seconds": 5622
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 219,
+    "name": "Yap, Ariel",
+    "finish_time": "01:33:42",
+    "finish_seconds": 5622
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 221,
+    "name": "Yeo, Genevieve",
+    "finish_time": "01:33:48",
+    "finish_seconds": 5628
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 223,
+    "name": "Nonaka, Lisa",
+    "finish_time": "01:33:49",
+    "finish_seconds": 5629
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 225,
+    "name": "Wen, Wen",
+    "finish_time": "01:33:52",
+    "finish_seconds": 5632
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 227,
+    "name": "Ong, Sherlyn",
+    "finish_time": "01:34:01",
+    "finish_seconds": 5641
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 229,
+    "name": "Lin, Yan Yan",
+    "finish_time": "01:34:07",
+    "finish_seconds": 5647
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 231,
+    "name": "Oh, Vanessa",
+    "finish_time": "01:34:10",
+    "finish_seconds": 5650
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 233,
+    "name": "Tan, Zenith",
+    "finish_time": "01:34:24",
+    "finish_seconds": 5664
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 235,
+    "name": "Lim, Clare",
+    "finish_time": "01:34:30",
+    "finish_seconds": 5670
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 237,
+    "name": "Fong, Vivian",
+    "finish_time": "01:34:35",
+    "finish_seconds": 5675
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 239,
+    "name": "Xin Jie, Chua",
+    "finish_time": "01:34:40",
+    "finish_seconds": 5680
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 241,
+    "name": "Shah, Farrah",
+    "finish_time": "01:34:47",
+    "finish_seconds": 5687
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 243,
+    "name": "Kitts, Swasti",
+    "finish_time": "01:34:52",
+    "finish_seconds": 5692
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 245,
+    "name": "Nah, Serene",
+    "finish_time": "01:34:55",
+    "finish_seconds": 5695
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 247,
+    "name": "Kawakami, Rara",
+    "finish_time": "01:35:07",
+    "finish_seconds": 5707
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 249,
+    "name": "Palmisano, Gresi",
+    "finish_time": "01:35:08",
+    "finish_seconds": 5708
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 251,
+    "name": "Goh, Pearl Lyn",
+    "finish_time": "01:35:31",
+    "finish_seconds": 5731
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 253,
+    "name": "Tun, Crystal",
+    "finish_time": "01:35:39",
+    "finish_seconds": 5739
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 255,
+    "name": "Sim, Carinn",
+    "finish_time": "01:35:44",
+    "finish_seconds": 5744
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 257,
+    "name": "D'Aquino, Camila",
+    "finish_time": "01:35:55",
+    "finish_seconds": 5755
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 259,
+    "name": "Kwok, Tracy",
+    "finish_time": "01:35:56",
+    "finish_seconds": 5756
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 261,
+    "name": "Stockman, Charlotte",
+    "finish_time": "01:36:00",
+    "finish_seconds": 5760
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 263,
+    "name": "Santos, Kathleen",
+    "finish_time": "01:36:02",
+    "finish_seconds": 5762
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 265,
+    "name": "Khaw Chia Ling, Stephanie",
+    "finish_time": "01:36:14",
+    "finish_seconds": 5774
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 267,
+    "name": "Loh, Stella",
+    "finish_time": "01:36:16",
+    "finish_seconds": 5776
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 269,
+    "name": "Chan, Chika",
+    "finish_time": "01:36:30",
+    "finish_seconds": 5790
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 271,
+    "name": "Lee, Esther",
+    "finish_time": "01:36:38",
+    "finish_seconds": 5798
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 273,
+    "name": "Evans, Maddy",
+    "finish_time": "01:36:40",
+    "finish_seconds": 5800
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 275,
+    "name": "Liew Ka Wei, Jessie",
+    "finish_time": "01:36:57",
+    "finish_seconds": 5817
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 277,
+    "name": "Sim, Brenna",
+    "finish_time": "01:37:05",
+    "finish_seconds": 5825
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 279,
+    "name": "Drury, Megan",
+    "finish_time": "01:37:07",
+    "finish_seconds": 5827
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 281,
+    "name": "Lee, Cheng Wei",
+    "finish_time": "01:37:11",
+    "finish_seconds": 5831
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 283,
+    "name": "Juliano, Arlene",
+    "finish_time": "01:37:14",
+    "finish_seconds": 5834
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 285,
+    "name": "Rexthelius, Anna",
+    "finish_time": "01:37:17",
+    "finish_seconds": 5837
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 287,
+    "name": "Powell, Jessica",
+    "finish_time": "01:37:30",
+    "finish_seconds": 5850
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 289,
+    "name": "Chong, Jun Heng",
+    "finish_time": "01:37:32",
+    "finish_seconds": 5852
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 291,
+    "name": "Poh, Melissa",
+    "finish_time": "01:37:39",
+    "finish_seconds": 5859
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 293,
+    "name": "Cheung, Ka Yee",
+    "finish_time": "01:37:51",
+    "finish_seconds": 5871
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 295,
+    "name": "Broom, Aimee",
+    "finish_time": "01:37:57",
+    "finish_seconds": 5877
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 297,
+    "name": "Yah, Jermaine",
+    "finish_time": "01:38:03",
+    "finish_seconds": 5883
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 299,
+    "name": "Wang, Shuang",
+    "finish_time": "01:38:09",
+    "finish_seconds": 5889
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 301,
+    "name": "Pang, Shihui",
+    "finish_time": "01:38:18",
+    "finish_seconds": 5898
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 303,
+    "name": "Bay, Li Shan",
+    "finish_time": "01:38:19",
+    "finish_seconds": 5899
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 305,
+    "name": "Higgins, Olivia Dewi Cinta",
+    "finish_time": "01:38:26",
+    "finish_seconds": 5906
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 307,
+    "name": "Nasser, Afiqah",
+    "finish_time": "01:38:34",
+    "finish_seconds": 5914
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 309,
+    "name": "Soon, Jacqueline",
+    "finish_time": "01:38:39",
+    "finish_seconds": 5919
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 311,
+    "name": "Ramsay, Emma",
+    "finish_time": "01:38:48",
+    "finish_seconds": 5928
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 313,
+    "name": "Tang, Wen Gee",
+    "finish_time": "01:39:03",
+    "finish_seconds": 5943
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 315,
+    "name": "Lim Ai Li, Lesley",
+    "finish_time": "01:39:09",
+    "finish_seconds": 5949
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 317,
+    "name": "San, Khant Khant",
+    "finish_time": "01:39:14",
+    "finish_seconds": 5954
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 319,
+    "name": "Chew Kha Yen, Rina",
+    "finish_time": "01:39:28",
+    "finish_seconds": 5968
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 321,
+    "name": "Loke, Rachel",
+    "finish_time": "01:39:32",
+    "finish_seconds": 5972
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 323,
+    "name": "Ngcebetsha, Qaqamba",
+    "finish_time": "01:39:34",
+    "finish_seconds": 5974
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 325,
+    "name": "Min, Liwen",
+    "finish_time": "01:39:39",
+    "finish_seconds": 5979
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 327,
+    "name": "Baliwa, Ranee",
+    "finish_time": "01:39:47",
+    "finish_seconds": 5987
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 329,
+    "name": "Tan, Ser Hui",
+    "finish_time": "01:39:59",
+    "finish_seconds": 5999
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 331,
+    "name": "Hou, Shiying",
+    "finish_time": "01:40:02",
+    "finish_seconds": 6002
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 333,
+    "name": "Setio, Christabelle Monique",
+    "finish_time": "01:40:19",
+    "finish_seconds": 6019
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 335,
+    "name": "Wong, Kar Yan Elaine",
+    "finish_time": "01:40:24",
+    "finish_seconds": 6024
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 337,
+    "name": "Loh, Angel",
+    "finish_time": "01:40:28",
+    "finish_seconds": 6028
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 339,
+    "name": "Lisama, Fionna Raine",
+    "finish_time": "01:40:33",
+    "finish_seconds": 6033
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 341,
+    "name": "Thi Kim Phe, Nguyen",
+    "finish_time": "01:40:36",
+    "finish_seconds": 6036
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 343,
+    "name": "Haghani, Sara",
+    "finish_time": "01:40:46",
+    "finish_seconds": 6046
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 345,
+    "name": "Elim Kusuma, Irene Stephanie Elim Kusuma",
+    "finish_time": "01:40:51",
+    "finish_seconds": 6051
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 347,
+    "name": "Rahayu, Okky Tiarani",
+    "finish_time": "01:40:59",
+    "finish_seconds": 6059
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 349,
+    "name": "See Toh, Estee",
+    "finish_time": "01:41:02",
+    "finish_seconds": 6062
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 351,
+    "name": "Menudin, Fakhreiyah",
+    "finish_time": "01:41:04",
+    "finish_seconds": 6064
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 353,
+    "name": "Goh, Yu Ting",
+    "finish_time": "01:41:08",
+    "finish_seconds": 6068
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 355,
+    "name": "Wati, Selpi Sinta",
+    "finish_time": "01:41:14",
+    "finish_seconds": 6074
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 357,
+    "name": "Chin, June",
+    "finish_time": "01:41:24",
+    "finish_seconds": 6084
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 359,
+    "name": "O'Mahony, Meena",
+    "finish_time": "01:41:32",
+    "finish_seconds": 6092
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 361,
+    "name": "Chia, Bernissa",
+    "finish_time": "01:41:52",
+    "finish_seconds": 6112
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 363,
+    "name": "Yan, Junjie",
+    "finish_time": "01:41:55",
+    "finish_seconds": 6115
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 365,
+    "name": "Chan, Xian Wen",
+    "finish_time": "01:42:08",
+    "finish_seconds": 6128
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 367,
+    "name": "Chia, Trina",
+    "finish_time": "01:42:19",
+    "finish_seconds": 6139
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 369,
+    "name": "Voong, Vanessa",
+    "finish_time": "01:42:34",
+    "finish_seconds": 6154
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 371,
+    "name": "\u65b0\u4e95, \u5e78\u5b50",
+    "finish_time": "01:42:38",
+    "finish_seconds": 6158
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 373,
+    "name": "Andriani, Melia",
+    "finish_time": "01:42:51",
+    "finish_seconds": 6171
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 375,
+    "name": "Man, Yik Fong",
+    "finish_time": "01:42:59",
+    "finish_seconds": 6179
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 377,
+    "name": "Yap Siok Hwee, Victoria",
+    "finish_time": "01:43:01",
+    "finish_seconds": 6181
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 379,
+    "name": "Yap, Venessa",
+    "finish_time": "01:43:10",
+    "finish_seconds": 6190
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 381,
+    "name": "Hellbach, Stephanie",
+    "finish_time": "01:43:13",
+    "finish_seconds": 6193
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 383,
+    "name": "Milaor, Theresa",
+    "finish_time": "01:43:19",
+    "finish_seconds": 6199
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 385,
+    "name": "Puyaoan, Maryann Kaye",
+    "finish_time": "01:43:31",
+    "finish_seconds": 6211
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 387,
+    "name": "Chan, Sopagna",
+    "finish_time": "01:43:42",
+    "finish_seconds": 6222
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 389,
+    "name": "Aline Sumarko, Charlieta",
+    "finish_time": "01:43:45",
+    "finish_seconds": 6225
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 391,
+    "name": "Pollock, Sophie",
+    "finish_time": "01:43:48",
+    "finish_seconds": 6228
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 393,
+    "name": "Phua, Elizabeth",
+    "finish_time": "01:44:05",
+    "finish_seconds": 6245
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 395,
+    "name": "Tan, Evangeline",
+    "finish_time": "01:44:08",
+    "finish_seconds": 6248
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 397,
+    "name": "Cruz, Ira",
+    "finish_time": "01:44:13",
+    "finish_seconds": 6253
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 399,
+    "name": "Varilla, Marinela",
+    "finish_time": "01:44:24",
+    "finish_seconds": 6264
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 401,
+    "name": "Sofyan, Sry",
+    "finish_time": "01:44:35",
+    "finish_seconds": 6275
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 403,
+    "name": "Habsari, Wenny",
+    "finish_time": "01:44:53",
+    "finish_seconds": 6293
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 405,
+    "name": "Teh, Grace",
+    "finish_time": "01:44:56",
+    "finish_seconds": 6296
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 407,
+    "name": "Lising, Maliah",
+    "finish_time": "01:44:59",
+    "finish_seconds": 6299
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 409,
+    "name": "Bhati, Darshita",
+    "finish_time": "01:45:10",
+    "finish_seconds": 6310
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 411,
+    "name": "Perales, Sandy",
+    "finish_time": "01:45:16",
+    "finish_seconds": 6316
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 413,
+    "name": "Tan, Rine",
+    "finish_time": "01:45:25",
+    "finish_seconds": 6325
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 415,
+    "name": "Dcruz, Tracy",
+    "finish_time": "01:45:31",
+    "finish_seconds": 6331
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 417,
+    "name": "Josephine Chia, Silvia",
+    "finish_time": "01:45:32",
+    "finish_seconds": 6332
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 419,
+    "name": "Liu, Mae",
+    "finish_time": "01:45:33",
+    "finish_seconds": 6333
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 421,
+    "name": "Goh, Celeste",
+    "finish_time": "01:45:46",
+    "finish_seconds": 6346
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 423,
+    "name": "Sim, Serene",
+    "finish_time": "01:45:50",
+    "finish_seconds": 6350
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 425,
+    "name": "Low, Ivy",
+    "finish_time": "01:46:18",
+    "finish_seconds": 6378
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 427,
+    "name": "Tan, Xuan Li",
+    "finish_time": "01:46:24",
+    "finish_seconds": 6384
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 429,
+    "name": "Shi Yun, Lee",
+    "finish_time": "01:46:35",
+    "finish_seconds": 6395
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 431,
+    "name": "Chiam, Celine",
+    "finish_time": "01:46:46",
+    "finish_seconds": 6406
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 433,
+    "name": "Huang, Alyson",
+    "finish_time": "01:46:54",
+    "finish_seconds": 6414
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 435,
+    "name": "Sangel, Ria",
+    "finish_time": "01:46:58",
+    "finish_seconds": 6418
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 437,
+    "name": "Lai, Nicole",
+    "finish_time": "01:47:03",
+    "finish_seconds": 6423
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 439,
+    "name": "Heng, Dorcas",
+    "finish_time": "01:47:04",
+    "finish_seconds": 6424
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 441,
+    "name": "Tan, Gio",
+    "finish_time": "01:47:10",
+    "finish_seconds": 6430
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 443,
+    "name": "Moa, Amanda",
+    "finish_time": "01:47:27",
+    "finish_seconds": 6447
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 445,
+    "name": "Johnson, Annabelle",
+    "finish_time": "01:47:34",
+    "finish_seconds": 6454
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 447,
+    "name": "Bailey, Pippa",
+    "finish_time": "01:47:42",
+    "finish_seconds": 6462
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 449,
+    "name": "Tan, Caroline",
+    "finish_time": "01:47:47",
+    "finish_seconds": 6467
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 451,
+    "name": "Macarubbo, Alee",
+    "finish_time": "01:47:53",
+    "finish_seconds": 6473
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 453,
+    "name": "Stevie, Stevie",
+    "finish_time": "01:48:02",
+    "finish_seconds": 6482
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 455,
+    "name": "Tay, Eileen",
+    "finish_time": "01:48:04",
+    "finish_seconds": 6484
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 457,
+    "name": "Brantmark, Lena",
+    "finish_time": "01:48:07",
+    "finish_seconds": 6487
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 459,
+    "name": "Sastra Viyana, Nun Rizky",
+    "finish_time": "01:48:11",
+    "finish_seconds": 6491
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 461,
+    "name": "Hoe, Lorraine",
+    "finish_time": "01:48:13",
+    "finish_seconds": 6493
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 463,
+    "name": "Ng, Nathenia",
+    "finish_time": "01:48:27",
+    "finish_seconds": 6507
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 465,
+    "name": "Ang, Cat",
+    "finish_time": "01:48:45",
+    "finish_seconds": 6525
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 467,
+    "name": "Leong, Virshen",
+    "finish_time": "01:48:48",
+    "finish_seconds": 6528
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 469,
+    "name": "Lye, Daphne",
+    "finish_time": "01:48:51",
+    "finish_seconds": 6531
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 471,
+    "name": "Lim, Zi Qi",
+    "finish_time": "01:48:57",
+    "finish_seconds": 6537
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 473,
+    "name": "Gaussens, Marion",
+    "finish_time": "01:49:03",
+    "finish_seconds": 6543
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 475,
+    "name": "Foo, Joey",
+    "finish_time": "01:49:09",
+    "finish_seconds": 6549
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 477,
+    "name": "Ang, Peng Lin",
+    "finish_time": "01:49:13",
+    "finish_seconds": 6553
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 479,
+    "name": "Lai, Florence",
+    "finish_time": "01:49:15",
+    "finish_seconds": 6555
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 481,
+    "name": "Tabunar, Bea",
+    "finish_time": "01:49:22",
+    "finish_seconds": 6562
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 483,
+    "name": "Tan, Shallon",
+    "finish_time": "01:49:23",
+    "finish_seconds": 6563
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 485,
+    "name": "Chia, Yi Ling",
+    "finish_time": "01:49:31",
+    "finish_seconds": 6571
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 487,
+    "name": "Ong, Felicia",
+    "finish_time": "01:49:51",
+    "finish_seconds": 6591
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 489,
+    "name": "Tai, Sze Man",
+    "finish_time": "01:50:10",
+    "finish_seconds": 6610
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 491,
+    "name": "Paramitha, Made Diah",
+    "finish_time": "01:50:20",
+    "finish_seconds": 6620
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 493,
+    "name": "Kristiani, Frisca",
+    "finish_time": "01:50:33",
+    "finish_seconds": 6633
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 495,
+    "name": "Yeo, Javienne",
+    "finish_time": "01:50:41",
+    "finish_seconds": 6641
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 497,
+    "name": "Chua, Shu Han",
+    "finish_time": "01:51:09",
+    "finish_seconds": 6669
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 499,
+    "name": "Chun, Rachel",
+    "finish_time": "01:51:17",
+    "finish_seconds": 6677
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 501,
+    "name": "Tsoi, Diana",
+    "finish_time": "01:51:33",
+    "finish_seconds": 6693
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 503,
+    "name": "Beaton, Jessica",
+    "finish_time": "01:51:39",
+    "finish_seconds": 6699
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 505,
+    "name": "Azahari, Juwairiah",
+    "finish_time": "01:51:42",
+    "finish_seconds": 6702
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 507,
+    "name": "Buenaventura, Liana",
+    "finish_time": "01:51:52",
+    "finish_seconds": 6712
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 509,
+    "name": "Dwi Lestari, Ita",
+    "finish_time": "01:52:07",
+    "finish_seconds": 6727
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 511,
+    "name": "Liddell, Amy",
+    "finish_time": "01:52:07",
+    "finish_seconds": 6727
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 513,
+    "name": "Kamaratih, Ajeng",
+    "finish_time": "01:52:15",
+    "finish_seconds": 6735
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 515,
+    "name": "Ng, Wen Yi",
+    "finish_time": "01:52:32",
+    "finish_seconds": 6752
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 517,
+    "name": "Xue, Anne",
+    "finish_time": "01:52:39",
+    "finish_seconds": 6759
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 519,
+    "name": "Khoo, Xiao Ern",
+    "finish_time": "01:52:43",
+    "finish_seconds": 6763
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 521,
+    "name": "Rodrigues, Catherine",
+    "finish_time": "01:52:44",
+    "finish_seconds": 6764
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 523,
+    "name": "Lim, Jia Yi",
+    "finish_time": "01:52:55",
+    "finish_seconds": 6775
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 525,
+    "name": "Chongchuwanich, Siriyada",
+    "finish_time": "01:53:11",
+    "finish_seconds": 6791
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 527,
+    "name": "Mahtani, Sharan",
+    "finish_time": "01:53:13",
+    "finish_seconds": 6793
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 529,
+    "name": "Leong, Yin Ling",
+    "finish_time": "01:53:41",
+    "finish_seconds": 6821
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 531,
+    "name": "Tan, Li Lian",
+    "finish_time": "01:53:56",
+    "finish_seconds": 6836
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 533,
+    "name": "Barhoush, Lama",
+    "finish_time": "01:54:00",
+    "finish_seconds": 6840
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 535,
+    "name": "Pozdenkovov\u00e1, Veronika",
+    "finish_time": "01:54:22",
+    "finish_seconds": 6862
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 537,
+    "name": "Teo, Sze Min",
+    "finish_time": "01:54:39",
+    "finish_seconds": 6879
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 539,
+    "name": "Singhaart, Orathai",
+    "finish_time": "01:54:53",
+    "finish_seconds": 6893
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 541,
+    "name": "Zhang, Honglin",
+    "finish_time": "01:55:11",
+    "finish_seconds": 6911
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 543,
+    "name": "Lee, Giselle",
+    "finish_time": "01:55:17",
+    "finish_seconds": 6917
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 545,
+    "name": "Songsasen, Nada",
+    "finish_time": "01:55:30",
+    "finish_seconds": 6930
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 547,
+    "name": "Suhaimi, Ezzah",
+    "finish_time": "01:55:34",
+    "finish_seconds": 6934
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 549,
+    "name": "Lim, Madeline",
+    "finish_time": "01:55:42",
+    "finish_seconds": 6942
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 551,
+    "name": "Judy, Pheiyani",
+    "finish_time": "01:56:08",
+    "finish_seconds": 6968
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 553,
+    "name": "Rizkia Rudiyono, Annisa",
+    "finish_time": "01:56:20",
+    "finish_seconds": 6980
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 555,
+    "name": "Capiral, Vianca",
+    "finish_time": "01:56:42",
+    "finish_seconds": 7002
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 557,
+    "name": "Hussein, Nur Amirah Illyana Binte",
+    "finish_time": "01:56:58",
+    "finish_seconds": 7018
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 559,
+    "name": "Chin, Sim Cheng",
+    "finish_time": "01:57:15",
+    "finish_seconds": 7035
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 561,
+    "name": "Chai, Siak Lee",
+    "finish_time": "01:57:26",
+    "finish_seconds": 7046
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 563,
+    "name": "Lim, Shermaine",
+    "finish_time": "01:57:30",
+    "finish_seconds": 7050
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 565,
+    "name": "Tan, Sara",
+    "finish_time": "01:57:40",
+    "finish_seconds": 7060
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 567,
+    "name": "Chua, Sue-Ann",
+    "finish_time": "01:57:55",
+    "finish_seconds": 7075
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 569,
+    "name": "Masiddo, Eloisa",
+    "finish_time": "01:58:04",
+    "finish_seconds": 7084
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 571,
+    "name": "Pangilinan, Joy",
+    "finish_time": "01:58:14",
+    "finish_seconds": 7094
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 573,
+    "name": "Misolas, Rhesa",
+    "finish_time": "01:58:22",
+    "finish_seconds": 7102
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 575,
+    "name": "Md Sarif, Lizawati",
+    "finish_time": "01:58:32",
+    "finish_seconds": 7112
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 577,
+    "name": "Lim, Bell",
+    "finish_time": "01:58:35",
+    "finish_seconds": 7115
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 579,
+    "name": "Cheah, Lynn",
+    "finish_time": "01:59:37",
+    "finish_seconds": 7177
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 581,
+    "name": "Teo, Ashley",
+    "finish_time": "01:59:49",
+    "finish_seconds": 7189
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 583,
+    "name": "Chua, Sarah",
+    "finish_time": "02:00:01",
+    "finish_seconds": 7201
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 585,
+    "name": "Harris, Laura",
+    "finish_time": "02:00:11",
+    "finish_seconds": 7211
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 587,
+    "name": "Tay, Cindy",
+    "finish_time": "02:00:29",
+    "finish_seconds": 7229
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 589,
+    "name": "Haw, Jia Xuan",
+    "finish_time": "02:00:30",
+    "finish_seconds": 7230
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 591,
+    "name": "Aye, Yin Thet",
+    "finish_time": "02:00:38",
+    "finish_seconds": 7238
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 593,
+    "name": "Ong, Jacqueline",
+    "finish_time": "02:00:48",
+    "finish_seconds": 7248
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 595,
+    "name": "Ang, Rachel",
+    "finish_time": "02:00:57",
+    "finish_seconds": 7257
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 597,
+    "name": "Malhotra, Roopa",
+    "finish_time": "02:01:03",
+    "finish_seconds": 7263
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 599,
+    "name": "Sariyan, Apinya",
+    "finish_time": "02:01:07",
+    "finish_seconds": 7267
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 601,
+    "name": "Buevich Kay, Stanislava",
+    "finish_time": "02:01:25",
+    "finish_seconds": 7285
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 603,
+    "name": "Liew, Stephanie",
+    "finish_time": "02:01:38",
+    "finish_seconds": 7298
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 605,
+    "name": "Wong, Keryn",
+    "finish_time": "02:02:03",
+    "finish_seconds": 7323
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 607,
+    "name": "Binte Sheikh Mahmood Ali, Nur Adilah",
+    "finish_time": "02:02:23",
+    "finish_seconds": 7343
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 609,
+    "name": "Yeo, Janelle",
+    "finish_time": "02:02:27",
+    "finish_seconds": 7347
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 611,
+    "name": "Phua, Shirley",
+    "finish_time": "02:02:34",
+    "finish_seconds": 7354
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 613,
+    "name": "Hu, Xin",
+    "finish_time": "02:02:48",
+    "finish_seconds": 7368
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 615,
+    "name": "Felder, Eve",
+    "finish_time": "02:02:56",
+    "finish_seconds": 7376
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 617,
+    "name": "Asim, Mariam",
+    "finish_time": "02:03:18",
+    "finish_seconds": 7398
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 619,
+    "name": "Lim, Jessika",
+    "finish_time": "02:03:25",
+    "finish_seconds": 7405
+  },
+  {
+    "venue": "2025 Singapore",
+    "gender": "W",
+    "rank": 621,
+    "name": "Kotwal, Neha",
+    "finish_time": "02:03:42",
+    "finish_seconds": 7422
+  }
+]

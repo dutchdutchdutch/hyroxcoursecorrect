@@ -1,0 +1,8906 @@
+[
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1,
+    "name": "Moloney, Owen",
+    "finish_time": "01:00:17",
+    "finish_seconds": 3617
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 3,
+    "name": "Jones, Gary",
+    "finish_time": "01:01:13",
+    "finish_seconds": 3673
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 5,
+    "name": "Lucas, Patrick",
+    "finish_time": "01:01:29",
+    "finish_seconds": 3689
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 7,
+    "name": "Gillis, Andrew",
+    "finish_time": "01:02:41",
+    "finish_seconds": 3761
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 9,
+    "name": "Thomas, Marvin",
+    "finish_time": "01:03:30",
+    "finish_seconds": 3810
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 11,
+    "name": "Fudge, Chris",
+    "finish_time": "01:03:47",
+    "finish_seconds": 3827
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 13,
+    "name": "Martinez Ornelas, Mario Enrique",
+    "finish_time": "01:04:29",
+    "finish_seconds": 3869
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 15,
+    "name": "Gajardo, Martin",
+    "finish_time": "01:05:09",
+    "finish_seconds": 3909
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 17,
+    "name": "Gast, Antoine",
+    "finish_time": "01:05:19",
+    "finish_seconds": 3919
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 19,
+    "name": "Knowles, Scott",
+    "finish_time": "01:05:48",
+    "finish_seconds": 3948
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 21,
+    "name": "Ceoffe, Michael",
+    "finish_time": "01:06:03",
+    "finish_seconds": 3963
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 23,
+    "name": "Scott, Justin",
+    "finish_time": "01:06:31",
+    "finish_seconds": 3991
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 25,
+    "name": "Gordon, Marcus",
+    "finish_time": "01:06:46",
+    "finish_seconds": 4006
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 27,
+    "name": "Dawgiello, Chad",
+    "finish_time": "01:06:57",
+    "finish_seconds": 4017
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 29,
+    "name": "Wiese, Ryan",
+    "finish_time": "01:07:09",
+    "finish_seconds": 4029
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 31,
+    "name": "Heindl, Kyle",
+    "finish_time": "01:07:32",
+    "finish_seconds": 4052
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 33,
+    "name": "Dawson, Colm",
+    "finish_time": "01:07:42",
+    "finish_seconds": 4062
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 35,
+    "name": "Huyler, Noah",
+    "finish_time": "01:07:45",
+    "finish_seconds": 4065
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 37,
+    "name": "Amjad, Danyal",
+    "finish_time": "01:07:51",
+    "finish_seconds": 4071
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 39,
+    "name": "Poole, Michael",
+    "finish_time": "01:07:56",
+    "finish_seconds": 4076
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 41,
+    "name": "Jarvis, Alec",
+    "finish_time": "01:08:26",
+    "finish_seconds": 4106
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 43,
+    "name": "Foerter, Ed",
+    "finish_time": "01:08:46",
+    "finish_seconds": 4126
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 45,
+    "name": "Theriault, Braeden",
+    "finish_time": "01:08:49",
+    "finish_seconds": 4129
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 47,
+    "name": "Martin, Vincent",
+    "finish_time": "01:08:50",
+    "finish_seconds": 4130
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 49,
+    "name": "Labban, Austin",
+    "finish_time": "01:08:57",
+    "finish_seconds": 4137
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 51,
+    "name": "Badawy, Youssef",
+    "finish_time": "01:09:03",
+    "finish_seconds": 4143
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 53,
+    "name": "Earl, David",
+    "finish_time": "01:09:10",
+    "finish_seconds": 4150
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 55,
+    "name": "Holka, Jorian",
+    "finish_time": "01:09:23",
+    "finish_seconds": 4163
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 57,
+    "name": "Tsilkas, William",
+    "finish_time": "01:09:32",
+    "finish_seconds": 4172
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 59,
+    "name": "Minville, \u00c9tienne",
+    "finish_time": "01:09:36",
+    "finish_seconds": 4176
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 61,
+    "name": "Meyers, Christopher",
+    "finish_time": "01:09:48",
+    "finish_seconds": 4188
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 63,
+    "name": "Michaels, Joey",
+    "finish_time": "01:10:04",
+    "finish_seconds": 4204
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 65,
+    "name": "Silva, Daniel",
+    "finish_time": "01:10:13",
+    "finish_seconds": 4213
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 67,
+    "name": "Parry, Jack",
+    "finish_time": "01:10:23",
+    "finish_seconds": 4223
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 69,
+    "name": "Linker, Kevin",
+    "finish_time": "01:10:25",
+    "finish_seconds": 4225
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 71,
+    "name": "Miele, Austin",
+    "finish_time": "01:10:32",
+    "finish_seconds": 4232
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 73,
+    "name": "Mccoy, Liam",
+    "finish_time": "01:10:34",
+    "finish_seconds": 4234
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 75,
+    "name": "Blaine, Mitchell",
+    "finish_time": "01:10:58",
+    "finish_seconds": 4258
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 77,
+    "name": "Beaton, Brendon",
+    "finish_time": "01:11:02",
+    "finish_seconds": 4262
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 79,
+    "name": "Tredwell, Spencer",
+    "finish_time": "01:11:09",
+    "finish_seconds": 4269
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 81,
+    "name": "Fajardo, Rodney",
+    "finish_time": "01:11:13",
+    "finish_seconds": 4273
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 83,
+    "name": "Brooks, Chad",
+    "finish_time": "01:11:18",
+    "finish_seconds": 4278
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 85,
+    "name": "Doig, Paul",
+    "finish_time": "01:11:23",
+    "finish_seconds": 4283
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 87,
+    "name": "Laughlin, Sean",
+    "finish_time": "01:11:30",
+    "finish_seconds": 4290
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 89,
+    "name": "Campbell, Killian",
+    "finish_time": "01:11:39",
+    "finish_seconds": 4299
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 91,
+    "name": "Grotrian, Philipp",
+    "finish_time": "01:11:51",
+    "finish_seconds": 4311
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 93,
+    "name": "Roycroft, Brendan",
+    "finish_time": "01:11:51",
+    "finish_seconds": 4311
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 95,
+    "name": "Meraviglia, Bryan",
+    "finish_time": "01:11:56",
+    "finish_seconds": 4316
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 97,
+    "name": "Saccomani, Marco",
+    "finish_time": "01:12:00",
+    "finish_seconds": 4320
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 99,
+    "name": "Bagdon, Dale",
+    "finish_time": "01:12:04",
+    "finish_seconds": 4324
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 101,
+    "name": "Emig, Trevor",
+    "finish_time": "01:12:06",
+    "finish_seconds": 4326
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 103,
+    "name": "Bush, Kyle",
+    "finish_time": "01:12:19",
+    "finish_seconds": 4339
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 105,
+    "name": "Van Heel, Eddie",
+    "finish_time": "01:12:28",
+    "finish_seconds": 4348
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 107,
+    "name": "Lobe, S\u00e9bastien",
+    "finish_time": "01:12:32",
+    "finish_seconds": 4352
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 109,
+    "name": "Ketler, Christian",
+    "finish_time": "01:12:34",
+    "finish_seconds": 4354
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 111,
+    "name": "Oshinski, Philip",
+    "finish_time": "01:12:38",
+    "finish_seconds": 4358
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 113,
+    "name": "Blackwell, Adrian",
+    "finish_time": "01:12:40",
+    "finish_seconds": 4360
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 115,
+    "name": "Sharpe, Nick",
+    "finish_time": "01:12:47",
+    "finish_seconds": 4367
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 117,
+    "name": "Scheele, Chris",
+    "finish_time": "01:12:58",
+    "finish_seconds": 4378
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 119,
+    "name": "Kim, Aiden",
+    "finish_time": "01:13:00",
+    "finish_seconds": 4380
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 121,
+    "name": "Mccord, Chris",
+    "finish_time": "01:13:03",
+    "finish_seconds": 4383
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 123,
+    "name": "O\u2019Leary, Aaron",
+    "finish_time": "01:13:13",
+    "finish_seconds": 4393
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 125,
+    "name": "Root, Ian",
+    "finish_time": "01:13:17",
+    "finish_seconds": 4397
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 127,
+    "name": "Lave, Ryan",
+    "finish_time": "01:13:20",
+    "finish_seconds": 4400
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 129,
+    "name": "Dawson, Alex",
+    "finish_time": "01:13:24",
+    "finish_seconds": 4404
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 131,
+    "name": "Correia, Randy",
+    "finish_time": "01:13:26",
+    "finish_seconds": 4406
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 133,
+    "name": "Chambers, Carter",
+    "finish_time": "01:13:40",
+    "finish_seconds": 4420
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 135,
+    "name": "Legault, Dennis",
+    "finish_time": "01:13:43",
+    "finish_seconds": 4423
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 137,
+    "name": "Lawrence, Ashley",
+    "finish_time": "01:13:49",
+    "finish_seconds": 4429
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 139,
+    "name": "Hannon, Bryan",
+    "finish_time": "01:13:52",
+    "finish_seconds": 4432
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 141,
+    "name": "Bobby, Robert",
+    "finish_time": "01:13:55",
+    "finish_seconds": 4435
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 143,
+    "name": "Martin, Patrick",
+    "finish_time": "01:14:03",
+    "finish_seconds": 4443
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 145,
+    "name": "Mah, Justin",
+    "finish_time": "01:14:13",
+    "finish_seconds": 4453
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 147,
+    "name": "Berthiaume, Jack",
+    "finish_time": "01:14:20",
+    "finish_seconds": 4460
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 149,
+    "name": "Singh, Amarajpreet",
+    "finish_time": "01:14:27",
+    "finish_seconds": 4467
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 151,
+    "name": "Woolridge, Steve",
+    "finish_time": "01:14:37",
+    "finish_seconds": 4477
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 153,
+    "name": "Hasley, Mark",
+    "finish_time": "01:14:39",
+    "finish_seconds": 4479
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 155,
+    "name": "Mcintyre, Chris",
+    "finish_time": "01:14:41",
+    "finish_seconds": 4481
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 157,
+    "name": "Joly, Mickael",
+    "finish_time": "01:14:42",
+    "finish_seconds": 4482
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 159,
+    "name": "Sahlstrom, Cody",
+    "finish_time": "01:14:47",
+    "finish_seconds": 4487
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 161,
+    "name": "Cho, Jaehyeong",
+    "finish_time": "01:14:51",
+    "finish_seconds": 4491
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 163,
+    "name": "Holson, Sergey",
+    "finish_time": "01:14:54",
+    "finish_seconds": 4494
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 165,
+    "name": "Kasza, Andras",
+    "finish_time": "01:15:03",
+    "finish_seconds": 4503
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 167,
+    "name": "Cao, Carl",
+    "finish_time": "01:15:10",
+    "finish_seconds": 4510
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 169,
+    "name": "Paterson, Connor",
+    "finish_time": "01:15:11",
+    "finish_seconds": 4511
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 171,
+    "name": "Snow, Bryan",
+    "finish_time": "01:15:15",
+    "finish_seconds": 4515
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 173,
+    "name": "Collinson, Jared",
+    "finish_time": "01:15:18",
+    "finish_seconds": 4518
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 175,
+    "name": "Hanebutt, Andrew",
+    "finish_time": "01:15:19",
+    "finish_seconds": 4519
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 177,
+    "name": "Ogbe, M\u00e9ron",
+    "finish_time": "01:15:39",
+    "finish_seconds": 4539
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 179,
+    "name": "Lemieux, Gilbert",
+    "finish_time": "01:15:40",
+    "finish_seconds": 4540
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 181,
+    "name": "Sweeney, Neil",
+    "finish_time": "01:15:46",
+    "finish_seconds": 4546
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 183,
+    "name": "Wright, Wyeth",
+    "finish_time": "01:15:52",
+    "finish_seconds": 4552
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 185,
+    "name": "Brocklebank, Colin",
+    "finish_time": "01:16:03",
+    "finish_seconds": 4563
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 187,
+    "name": "Demeo, Matt",
+    "finish_time": "01:16:05",
+    "finish_seconds": 4565
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 189,
+    "name": "Bol, Kieran",
+    "finish_time": "01:16:12",
+    "finish_seconds": 4572
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 191,
+    "name": "Kaatz, Jason",
+    "finish_time": "01:16:16",
+    "finish_seconds": 4576
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 193,
+    "name": "Fleming, Will",
+    "finish_time": "01:16:21",
+    "finish_seconds": 4581
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 195,
+    "name": "Skinner, Dylan",
+    "finish_time": "01:16:25",
+    "finish_seconds": 4585
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 197,
+    "name": "Dipippa, Louis",
+    "finish_time": "01:16:30",
+    "finish_seconds": 4590
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 199,
+    "name": "Cort\u00e9s, Luis",
+    "finish_time": "01:16:31",
+    "finish_seconds": 4591
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 201,
+    "name": "Wood, Matt",
+    "finish_time": "01:16:32",
+    "finish_seconds": 4592
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 203,
+    "name": "Lyons, Justin",
+    "finish_time": "01:16:37",
+    "finish_seconds": 4597
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 205,
+    "name": "Vobbe, Jake",
+    "finish_time": "01:16:40",
+    "finish_seconds": 4600
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 207,
+    "name": "Redfern, Everett",
+    "finish_time": "01:16:48",
+    "finish_seconds": 4608
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 209,
+    "name": "Repa, Michael",
+    "finish_time": "01:16:49",
+    "finish_seconds": 4609
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 211,
+    "name": "Quaye, Roderick",
+    "finish_time": "01:16:50",
+    "finish_seconds": 4610
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 213,
+    "name": "Pulido, Francisco",
+    "finish_time": "01:16:52",
+    "finish_seconds": 4612
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 215,
+    "name": "Koenigs, Didier",
+    "finish_time": "01:16:54",
+    "finish_seconds": 4614
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 217,
+    "name": "Walt, Josh",
+    "finish_time": "01:16:56",
+    "finish_seconds": 4616
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 219,
+    "name": "Kunicyn, Lucas",
+    "finish_time": "01:17:00",
+    "finish_seconds": 4620
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 221,
+    "name": "Douglas, Lee",
+    "finish_time": "01:17:05",
+    "finish_seconds": 4625
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 223,
+    "name": "Lantaff, Kevin",
+    "finish_time": "01:17:12",
+    "finish_seconds": 4632
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 225,
+    "name": "Brittain, Jeremy",
+    "finish_time": "01:17:16",
+    "finish_seconds": 4636
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 227,
+    "name": "Ianni, Matt",
+    "finish_time": "01:17:17",
+    "finish_seconds": 4637
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 229,
+    "name": "Wood, Caleb",
+    "finish_time": "01:17:18",
+    "finish_seconds": 4638
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 231,
+    "name": "Gill, Matt",
+    "finish_time": "01:17:24",
+    "finish_seconds": 4644
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 233,
+    "name": "Mergenhagen, Paul",
+    "finish_time": "01:17:30",
+    "finish_seconds": 4650
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 235,
+    "name": "Carroll, Quinton",
+    "finish_time": "01:17:36",
+    "finish_seconds": 4656
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 237,
+    "name": "Paul-Luesing, Byron",
+    "finish_time": "01:17:39",
+    "finish_seconds": 4659
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 239,
+    "name": "Beavis, Michael",
+    "finish_time": "01:17:41",
+    "finish_seconds": 4661
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 241,
+    "name": "Zorzi, Mark",
+    "finish_time": "01:17:41",
+    "finish_seconds": 4661
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 243,
+    "name": "Radovanovic, Ivan",
+    "finish_time": "01:17:43",
+    "finish_seconds": 4663
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 245,
+    "name": "Roux, Guillaume",
+    "finish_time": "01:17:44",
+    "finish_seconds": 4664
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 247,
+    "name": "Marhong, Jaylin",
+    "finish_time": "01:17:45",
+    "finish_seconds": 4665
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 249,
+    "name": "Zurek, Mike",
+    "finish_time": "01:17:48",
+    "finish_seconds": 4668
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 251,
+    "name": "Horne, Trevor",
+    "finish_time": "01:17:53",
+    "finish_seconds": 4673
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 253,
+    "name": "Anderson, Michael",
+    "finish_time": "01:17:59",
+    "finish_seconds": 4679
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 255,
+    "name": "Gervasi, Nick",
+    "finish_time": "01:18:01",
+    "finish_seconds": 4681
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 257,
+    "name": "Pastolero, Patrick",
+    "finish_time": "01:18:05",
+    "finish_seconds": 4685
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 259,
+    "name": "Porto, Mike",
+    "finish_time": "01:18:09",
+    "finish_seconds": 4689
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 261,
+    "name": "Keay, Ryan",
+    "finish_time": "01:18:25",
+    "finish_seconds": 4705
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 263,
+    "name": "Rankel, A.J.",
+    "finish_time": "01:18:31",
+    "finish_seconds": 4711
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 265,
+    "name": "Rodriguez, John",
+    "finish_time": "01:18:39",
+    "finish_seconds": 4719
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 267,
+    "name": "Messias, Jess",
+    "finish_time": "01:18:44",
+    "finish_seconds": 4724
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 269,
+    "name": "Steventon, John",
+    "finish_time": "01:18:46",
+    "finish_seconds": 4726
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 271,
+    "name": "Brancato, Dante",
+    "finish_time": "01:18:52",
+    "finish_seconds": 4732
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 273,
+    "name": "Boughner, Robert",
+    "finish_time": "01:18:54",
+    "finish_seconds": 4734
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 275,
+    "name": "Urue\u00f1a, Daniel",
+    "finish_time": "01:19:00",
+    "finish_seconds": 4740
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 277,
+    "name": "Rochon, Chris",
+    "finish_time": "01:19:05",
+    "finish_seconds": 4745
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 279,
+    "name": "Weichel, Sam",
+    "finish_time": "01:19:06",
+    "finish_seconds": 4746
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 281,
+    "name": "Beaulieu, Gino",
+    "finish_time": "01:19:08",
+    "finish_seconds": 4748
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 283,
+    "name": "Peladeau Langevin, Felix",
+    "finish_time": "01:19:09",
+    "finish_seconds": 4749
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 285,
+    "name": "Kessentini, Mohamed-Ali",
+    "finish_time": "01:19:09",
+    "finish_seconds": 4749
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 287,
+    "name": "Luo, Patrick",
+    "finish_time": "01:19:19",
+    "finish_seconds": 4759
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 289,
+    "name": "Welds, Jonathan",
+    "finish_time": "01:19:22",
+    "finish_seconds": 4762
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 291,
+    "name": "Smith, Nick",
+    "finish_time": "01:19:30",
+    "finish_seconds": 4770
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 293,
+    "name": "Greenbaum, Joshua",
+    "finish_time": "01:19:32",
+    "finish_seconds": 4772
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 295,
+    "name": "Drohomirecki, Victor",
+    "finish_time": "01:19:39",
+    "finish_seconds": 4779
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 297,
+    "name": "Karerwa, Uriel",
+    "finish_time": "01:19:42",
+    "finish_seconds": 4782
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 299,
+    "name": "Magee, Dave",
+    "finish_time": "01:19:44",
+    "finish_seconds": 4784
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 301,
+    "name": "Rogers, Zachary",
+    "finish_time": "01:19:46",
+    "finish_seconds": 4786
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 303,
+    "name": "Reid, James",
+    "finish_time": "01:19:57",
+    "finish_seconds": 4797
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 305,
+    "name": "Egglesfield, Greg",
+    "finish_time": "01:19:58",
+    "finish_seconds": 4798
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 307,
+    "name": "Lee, Dongju",
+    "finish_time": "01:20:02",
+    "finish_seconds": 4802
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 309,
+    "name": "Rhodes, Jay",
+    "finish_time": "01:20:06",
+    "finish_seconds": 4806
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 311,
+    "name": "Schaefer, Cam",
+    "finish_time": "01:20:07",
+    "finish_seconds": 4807
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 313,
+    "name": "Gonz\u00e1lez Ram\u00edrez, Alejandro",
+    "finish_time": "01:20:10",
+    "finish_seconds": 4810
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 315,
+    "name": "Lin, Bowen",
+    "finish_time": "01:20:11",
+    "finish_seconds": 4811
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 317,
+    "name": "Carlyle, Andrew",
+    "finish_time": "01:20:16",
+    "finish_seconds": 4816
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 319,
+    "name": "Yu, Kyle",
+    "finish_time": "01:20:21",
+    "finish_seconds": 4821
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 321,
+    "name": "Thomas, David",
+    "finish_time": "01:20:25",
+    "finish_seconds": 4825
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 323,
+    "name": "Turcotte, Jeremie",
+    "finish_time": "01:20:26",
+    "finish_seconds": 4826
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 325,
+    "name": "Dance, James",
+    "finish_time": "01:20:32",
+    "finish_seconds": 4832
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 327,
+    "name": "Terrault, Simon",
+    "finish_time": "01:20:35",
+    "finish_seconds": 4835
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 329,
+    "name": "Acar, Burak",
+    "finish_time": "01:20:39",
+    "finish_seconds": 4839
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 331,
+    "name": "Hicks, Kristopher",
+    "finish_time": "01:20:43",
+    "finish_seconds": 4843
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 333,
+    "name": "Ceballos, Arthur",
+    "finish_time": "01:20:50",
+    "finish_seconds": 4850
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 335,
+    "name": "Buchanan, Cameron",
+    "finish_time": "01:20:57",
+    "finish_seconds": 4857
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 337,
+    "name": "Mccord, Greg",
+    "finish_time": "01:21:02",
+    "finish_seconds": 4862
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 339,
+    "name": "Aguilar, Diego",
+    "finish_time": "01:21:05",
+    "finish_seconds": 4865
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 341,
+    "name": "Rockman, Mike",
+    "finish_time": "01:21:06",
+    "finish_seconds": 4866
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 343,
+    "name": "Thatcher, Christian",
+    "finish_time": "01:21:08",
+    "finish_seconds": 4868
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 345,
+    "name": "Postons, Jonas",
+    "finish_time": "01:21:11",
+    "finish_seconds": 4871
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 347,
+    "name": "O'Hara, Seamus",
+    "finish_time": "01:21:15",
+    "finish_seconds": 4875
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 349,
+    "name": "Amberley, Chris",
+    "finish_time": "01:21:21",
+    "finish_seconds": 4881
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 351,
+    "name": "Hyde, Tom",
+    "finish_time": "01:21:24",
+    "finish_seconds": 4884
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 353,
+    "name": "Estrada, Marvin",
+    "finish_time": "01:21:27",
+    "finish_seconds": 4887
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 355,
+    "name": "Rogers, Mackenzie",
+    "finish_time": "01:21:28",
+    "finish_seconds": 4888
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 357,
+    "name": "George, Will",
+    "finish_time": "01:21:29",
+    "finish_seconds": 4889
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 359,
+    "name": "Richardson, Mitchel",
+    "finish_time": "01:21:31",
+    "finish_seconds": 4891
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 361,
+    "name": "Yowart, Bradley",
+    "finish_time": "01:21:32",
+    "finish_seconds": 4892
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 363,
+    "name": "Khvala, Vadym",
+    "finish_time": "01:21:34",
+    "finish_seconds": 4894
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 365,
+    "name": "Barker, Jacob",
+    "finish_time": "01:21:39",
+    "finish_seconds": 4899
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 367,
+    "name": "Main, Spencer",
+    "finish_time": "01:21:43",
+    "finish_seconds": 4903
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 369,
+    "name": "Garbe, Jonathan",
+    "finish_time": "01:21:45",
+    "finish_seconds": 4905
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 371,
+    "name": "Hill, David",
+    "finish_time": "01:21:46",
+    "finish_seconds": 4906
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 373,
+    "name": "Musolino, Mark",
+    "finish_time": "01:21:46",
+    "finish_seconds": 4906
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 375,
+    "name": "Gavin, Mike",
+    "finish_time": "01:21:49",
+    "finish_seconds": 4909
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 377,
+    "name": "Wiener, Martin",
+    "finish_time": "01:21:51",
+    "finish_seconds": 4911
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 379,
+    "name": "Mitton, David",
+    "finish_time": "01:21:54",
+    "finish_seconds": 4914
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 381,
+    "name": "Simpson, Damom",
+    "finish_time": "01:22:00",
+    "finish_seconds": 4920
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 383,
+    "name": "Irwin, Andrew",
+    "finish_time": "01:22:02",
+    "finish_seconds": 4922
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 385,
+    "name": "Le Coadou, Michael",
+    "finish_time": "01:22:07",
+    "finish_seconds": 4927
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 387,
+    "name": "Denomme, Yves",
+    "finish_time": "01:22:09",
+    "finish_seconds": 4929
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 389,
+    "name": "Nagy, Tom",
+    "finish_time": "01:22:15",
+    "finish_seconds": 4935
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 391,
+    "name": "Johnson, Zamour",
+    "finish_time": "01:22:19",
+    "finish_seconds": 4939
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 393,
+    "name": "Gillan, Jeff",
+    "finish_time": "01:22:21",
+    "finish_seconds": 4941
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 395,
+    "name": "Mackay, William",
+    "finish_time": "01:22:21",
+    "finish_seconds": 4941
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 397,
+    "name": "Singh, Sukhpreet",
+    "finish_time": "01:22:22",
+    "finish_seconds": 4942
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 399,
+    "name": "Dalton, Brian",
+    "finish_time": "01:22:24",
+    "finish_seconds": 4944
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 401,
+    "name": "Kim, Jungmin",
+    "finish_time": "01:22:26",
+    "finish_seconds": 4946
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 403,
+    "name": "Scholtes, Peter",
+    "finish_time": "01:22:26",
+    "finish_seconds": 4946
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 405,
+    "name": "Chung, Samson",
+    "finish_time": "01:22:30",
+    "finish_seconds": 4950
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 407,
+    "name": "Yamashita, Taro",
+    "finish_time": "01:22:32",
+    "finish_seconds": 4952
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 409,
+    "name": "Roth, Connor",
+    "finish_time": "01:22:33",
+    "finish_seconds": 4953
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 411,
+    "name": "Simard, Jordan",
+    "finish_time": "01:22:37",
+    "finish_seconds": 4957
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 413,
+    "name": "Clark, Eric",
+    "finish_time": "01:22:38",
+    "finish_seconds": 4958
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 415,
+    "name": "Zafar, Abdullah",
+    "finish_time": "01:22:43",
+    "finish_seconds": 4963
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 417,
+    "name": "Sch\u00f6tz, Paul",
+    "finish_time": "01:22:45",
+    "finish_seconds": 4965
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 419,
+    "name": "Bruce, Paul",
+    "finish_time": "01:22:46",
+    "finish_seconds": 4966
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 421,
+    "name": "Tan, Marcell",
+    "finish_time": "01:22:48",
+    "finish_seconds": 4968
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 423,
+    "name": "Fox, Austin",
+    "finish_time": "01:22:50",
+    "finish_seconds": 4970
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 425,
+    "name": "Seo, Richard",
+    "finish_time": "01:22:52",
+    "finish_seconds": 4972
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 427,
+    "name": "Kim, Jae Heon",
+    "finish_time": "01:22:56",
+    "finish_seconds": 4976
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 429,
+    "name": "Gillman, Bryce",
+    "finish_time": "01:22:59",
+    "finish_seconds": 4979
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 431,
+    "name": "Branton, Mark",
+    "finish_time": "01:23:06",
+    "finish_seconds": 4986
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 433,
+    "name": "Maclean, Scott",
+    "finish_time": "01:23:10",
+    "finish_seconds": 4990
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 435,
+    "name": "Fifield, Caleb",
+    "finish_time": "01:23:15",
+    "finish_seconds": 4995
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 437,
+    "name": "Villalobos, Emanuel",
+    "finish_time": "01:23:15",
+    "finish_seconds": 4995
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 439,
+    "name": "Rhodes, Brady",
+    "finish_time": "01:23:15",
+    "finish_seconds": 4995
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 441,
+    "name": "Yeske, Adam",
+    "finish_time": "01:23:17",
+    "finish_seconds": 4997
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 443,
+    "name": "Dana, Amin",
+    "finish_time": "01:23:24",
+    "finish_seconds": 5004
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 445,
+    "name": "Ciano, Michael",
+    "finish_time": "01:23:25",
+    "finish_seconds": 5005
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 447,
+    "name": "Bennett, Wilson",
+    "finish_time": "01:23:28",
+    "finish_seconds": 5008
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 449,
+    "name": "Park, Darrien",
+    "finish_time": "01:23:30",
+    "finish_seconds": 5010
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 451,
+    "name": "Joly, Frank",
+    "finish_time": "01:23:31",
+    "finish_seconds": 5011
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 453,
+    "name": "Kabongo, Jae",
+    "finish_time": "01:23:35",
+    "finish_seconds": 5015
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 455,
+    "name": "Levesque, Anthony",
+    "finish_time": "01:23:38",
+    "finish_seconds": 5018
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 457,
+    "name": "Jacques, Kyle",
+    "finish_time": "01:23:40",
+    "finish_seconds": 5020
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 459,
+    "name": "Eziz, Aysajan",
+    "finish_time": "01:23:46",
+    "finish_seconds": 5026
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 461,
+    "name": "Saada, Johnny",
+    "finish_time": "01:23:47",
+    "finish_seconds": 5027
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 463,
+    "name": "Koufis, Nick",
+    "finish_time": "01:23:49",
+    "finish_seconds": 5029
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 465,
+    "name": "Williams, Ethan",
+    "finish_time": "01:23:51",
+    "finish_seconds": 5031
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 467,
+    "name": "Cook, Joseph",
+    "finish_time": "01:23:54",
+    "finish_seconds": 5034
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 469,
+    "name": "Allain, Kevin",
+    "finish_time": "01:23:58",
+    "finish_seconds": 5038
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 471,
+    "name": "Pich\u00e9, St\u00e9phane",
+    "finish_time": "01:24:01",
+    "finish_seconds": 5041
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 473,
+    "name": "Tawil, Hany",
+    "finish_time": "01:24:05",
+    "finish_seconds": 5045
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 475,
+    "name": "Sequeira, Ivan",
+    "finish_time": "01:24:10",
+    "finish_seconds": 5050
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 477,
+    "name": "Benoite, Peter",
+    "finish_time": "01:24:11",
+    "finish_seconds": 5051
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 479,
+    "name": "Murray, Kevyn",
+    "finish_time": "01:24:18",
+    "finish_seconds": 5058
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 481,
+    "name": "Ruppert, Reece",
+    "finish_time": "01:24:24",
+    "finish_seconds": 5064
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 483,
+    "name": "Macintosh, Scott",
+    "finish_time": "01:24:27",
+    "finish_seconds": 5067
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 485,
+    "name": "Sorichetti, Mark",
+    "finish_time": "01:24:30",
+    "finish_seconds": 5070
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 487,
+    "name": "Rowe, Justin",
+    "finish_time": "01:24:31",
+    "finish_seconds": 5071
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 489,
+    "name": "Brophy, Connor",
+    "finish_time": "01:24:32",
+    "finish_seconds": 5072
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 491,
+    "name": "Warden, David",
+    "finish_time": "01:24:33",
+    "finish_seconds": 5073
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 493,
+    "name": "Annovi, Andrea",
+    "finish_time": "01:24:39",
+    "finish_seconds": 5079
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 495,
+    "name": "Gamble, Ryan",
+    "finish_time": "01:24:42",
+    "finish_seconds": 5082
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 497,
+    "name": "Huntington, Christo",
+    "finish_time": "01:24:48",
+    "finish_seconds": 5088
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 499,
+    "name": "Julien, Riley",
+    "finish_time": "01:24:50",
+    "finish_seconds": 5090
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 501,
+    "name": "Cox, Matthew",
+    "finish_time": "01:24:53",
+    "finish_seconds": 5093
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 503,
+    "name": "Weidman, Taylor",
+    "finish_time": "01:24:55",
+    "finish_seconds": 5095
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 505,
+    "name": "Cook, Kylie",
+    "finish_time": "01:24:57",
+    "finish_seconds": 5097
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 507,
+    "name": "Irwin, Ryan",
+    "finish_time": "01:24:58",
+    "finish_seconds": 5098
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 509,
+    "name": "Sully, Quinn",
+    "finish_time": "01:25:02",
+    "finish_seconds": 5102
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 511,
+    "name": "Andsew, Ahadu",
+    "finish_time": "01:25:06",
+    "finish_seconds": 5106
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 513,
+    "name": "Rodrigues, Marc",
+    "finish_time": "01:25:08",
+    "finish_seconds": 5108
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 515,
+    "name": "De Ciantis, Michael",
+    "finish_time": "01:25:10",
+    "finish_seconds": 5110
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 517,
+    "name": "Tyler, Keith",
+    "finish_time": "01:25:13",
+    "finish_seconds": 5113
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 519,
+    "name": "Mccann, Ryan",
+    "finish_time": "01:25:18",
+    "finish_seconds": 5118
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 521,
+    "name": "Jaber, Ali",
+    "finish_time": "01:25:21",
+    "finish_seconds": 5121
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 523,
+    "name": "Waine, Mark",
+    "finish_time": "01:25:22",
+    "finish_seconds": 5122
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 525,
+    "name": "Lee, Peter",
+    "finish_time": "01:25:28",
+    "finish_seconds": 5128
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 527,
+    "name": "Byrne, Brandan",
+    "finish_time": "01:25:30",
+    "finish_seconds": 5130
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 529,
+    "name": "Schaus, Steve",
+    "finish_time": "01:25:34",
+    "finish_seconds": 5134
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 531,
+    "name": "Puchniak, Dylan",
+    "finish_time": "01:25:43",
+    "finish_seconds": 5143
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 533,
+    "name": "Martin, Paul",
+    "finish_time": "01:25:44",
+    "finish_seconds": 5144
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 535,
+    "name": "Mahmoud, Omar",
+    "finish_time": "01:25:49",
+    "finish_seconds": 5149
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 537,
+    "name": "Walsh, Sean",
+    "finish_time": "01:25:50",
+    "finish_seconds": 5150
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 539,
+    "name": "Lee, Jackie",
+    "finish_time": "01:25:51",
+    "finish_seconds": 5151
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 541,
+    "name": "Fast, Christopher",
+    "finish_time": "01:26:03",
+    "finish_seconds": 5163
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 543,
+    "name": "Savard, Junior",
+    "finish_time": "01:26:07",
+    "finish_seconds": 5167
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 545,
+    "name": "Bulatovic, Ranko",
+    "finish_time": "01:26:10",
+    "finish_seconds": 5170
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 547,
+    "name": "Legault, Philippe",
+    "finish_time": "01:26:12",
+    "finish_seconds": 5172
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 549,
+    "name": "S\u00e9n\u00e9cal, Dominic",
+    "finish_time": "01:26:22",
+    "finish_seconds": 5182
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 551,
+    "name": "Rioux, Alexandre",
+    "finish_time": "01:26:26",
+    "finish_seconds": 5186
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 553,
+    "name": "Moukarem, Omar",
+    "finish_time": "01:26:29",
+    "finish_seconds": 5189
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 555,
+    "name": "Redding, Andrew",
+    "finish_time": "01:26:32",
+    "finish_seconds": 5192
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 557,
+    "name": "Alanis, Mauricio",
+    "finish_time": "01:26:38",
+    "finish_seconds": 5198
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 559,
+    "name": "Down, Owen",
+    "finish_time": "01:26:40",
+    "finish_seconds": 5200
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 561,
+    "name": "Earley, Nicolaas",
+    "finish_time": "01:26:42",
+    "finish_seconds": 5202
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 563,
+    "name": "Sirman, William",
+    "finish_time": "01:26:43",
+    "finish_seconds": 5203
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 565,
+    "name": "Mundell, Mark",
+    "finish_time": "01:26:44",
+    "finish_seconds": 5204
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 567,
+    "name": "Procopio, Sam",
+    "finish_time": "01:26:47",
+    "finish_seconds": 5207
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 569,
+    "name": "Rachar, Dave",
+    "finish_time": "01:26:49",
+    "finish_seconds": 5209
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 571,
+    "name": "Ilie, Razvan",
+    "finish_time": "01:26:52",
+    "finish_seconds": 5212
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 573,
+    "name": "Taggart, Adam",
+    "finish_time": "01:26:55",
+    "finish_seconds": 5215
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 575,
+    "name": "Toptsis, Apostolos",
+    "finish_time": "01:26:57",
+    "finish_seconds": 5217
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 577,
+    "name": "Rees, Evan",
+    "finish_time": "01:26:58",
+    "finish_seconds": 5218
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 579,
+    "name": "Chown, Jesse",
+    "finish_time": "01:27:02",
+    "finish_seconds": 5222
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 581,
+    "name": "Kazadi, Yannick",
+    "finish_time": "01:27:06",
+    "finish_seconds": 5226
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 583,
+    "name": "Kadoguchi, Jeff",
+    "finish_time": "01:27:07",
+    "finish_seconds": 5227
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 585,
+    "name": "Malaya, John",
+    "finish_time": "01:27:08",
+    "finish_seconds": 5228
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 587,
+    "name": "Cook, Ian",
+    "finish_time": "01:27:09",
+    "finish_seconds": 5229
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 589,
+    "name": "Edwards, Y",
+    "finish_time": "01:27:12",
+    "finish_seconds": 5232
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 591,
+    "name": "Philip, Michael",
+    "finish_time": "01:27:13",
+    "finish_seconds": 5233
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 593,
+    "name": "Hankins, Benjamin",
+    "finish_time": "01:27:18",
+    "finish_seconds": 5238
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 595,
+    "name": "S\u00e9guin-Gauthier, M\u00e9d\u00e9ric",
+    "finish_time": "01:27:20",
+    "finish_seconds": 5240
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 597,
+    "name": "Yagin, Marc",
+    "finish_time": "01:27:22",
+    "finish_seconds": 5242
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 599,
+    "name": "Brassard, Charles",
+    "finish_time": "01:27:28",
+    "finish_seconds": 5248
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 601,
+    "name": "Stolarz, Tym",
+    "finish_time": "01:27:32",
+    "finish_seconds": 5252
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 603,
+    "name": "Jottras, Maxence",
+    "finish_time": "01:27:33",
+    "finish_seconds": 5253
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 605,
+    "name": "Hurtado, Daniel",
+    "finish_time": "01:27:35",
+    "finish_seconds": 5255
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 607,
+    "name": "Truong, Long",
+    "finish_time": "01:27:35",
+    "finish_seconds": 5255
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 609,
+    "name": "Tung, Damon",
+    "finish_time": "01:27:40",
+    "finish_seconds": 5260
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 611,
+    "name": "Long, Jagger",
+    "finish_time": "01:27:44",
+    "finish_seconds": 5264
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 613,
+    "name": "Li, Adrian",
+    "finish_time": "01:27:44",
+    "finish_seconds": 5264
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 615,
+    "name": "Wiebe, Wyatt",
+    "finish_time": "01:27:46",
+    "finish_seconds": 5266
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 617,
+    "name": "Kovach, Brian",
+    "finish_time": "01:27:48",
+    "finish_seconds": 5268
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 619,
+    "name": "Hillis, Ian",
+    "finish_time": "01:27:49",
+    "finish_seconds": 5269
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 621,
+    "name": "Jandir, Dalip",
+    "finish_time": "01:27:54",
+    "finish_seconds": 5274
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 622,
+    "name": "O\u2019Loughlin, Conor",
+    "finish_time": "01:27:58",
+    "finish_seconds": 5278
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 625,
+    "name": "Chen, Jeffrey",
+    "finish_time": "01:27:58",
+    "finish_seconds": 5278
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 627,
+    "name": "Van, Michael",
+    "finish_time": "01:28:03",
+    "finish_seconds": 5283
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 629,
+    "name": "Bright, Nick",
+    "finish_time": "01:28:08",
+    "finish_seconds": 5288
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 631,
+    "name": "Rodriguez, Andres",
+    "finish_time": "01:28:12",
+    "finish_seconds": 5292
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 633,
+    "name": "Orjuela, Jorge",
+    "finish_time": "01:28:13",
+    "finish_seconds": 5293
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 635,
+    "name": "Joulji, Jad",
+    "finish_time": "01:28:13",
+    "finish_seconds": 5293
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 637,
+    "name": "Al-Tameemi, Ameer",
+    "finish_time": "01:28:14",
+    "finish_seconds": 5294
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 639,
+    "name": "Benmoftah, Osama",
+    "finish_time": "01:28:16",
+    "finish_seconds": 5296
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 641,
+    "name": "Casarez, Brandon",
+    "finish_time": "01:28:19",
+    "finish_seconds": 5299
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 643,
+    "name": "Vaughan, Alex",
+    "finish_time": "01:28:21",
+    "finish_seconds": 5301
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 645,
+    "name": "Mcdonald, Mike",
+    "finish_time": "01:28:23",
+    "finish_seconds": 5303
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 647,
+    "name": "Katugampola, Mike",
+    "finish_time": "01:28:27",
+    "finish_seconds": 5307
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 649,
+    "name": "Urbina, Marcos",
+    "finish_time": "01:28:32",
+    "finish_seconds": 5312
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 651,
+    "name": "Thygesen, Joachim",
+    "finish_time": "01:28:35",
+    "finish_seconds": 5315
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 653,
+    "name": "Jacinto, Kris",
+    "finish_time": "01:28:41",
+    "finish_seconds": 5321
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 655,
+    "name": "Bouroncle, Claudio",
+    "finish_time": "01:28:41",
+    "finish_seconds": 5321
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 657,
+    "name": "Cassidy, Kiernan",
+    "finish_time": "01:28:43",
+    "finish_seconds": 5323
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 659,
+    "name": "Rice, Jody",
+    "finish_time": "01:28:47",
+    "finish_seconds": 5327
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 661,
+    "name": "Muhlner, Greg",
+    "finish_time": "01:28:49",
+    "finish_seconds": 5329
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 663,
+    "name": "Gordon, Stephen",
+    "finish_time": "01:28:53",
+    "finish_seconds": 5333
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 665,
+    "name": "Picard, Simon",
+    "finish_time": "01:28:55",
+    "finish_seconds": 5335
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 667,
+    "name": "White, Hal",
+    "finish_time": "01:28:58",
+    "finish_seconds": 5338
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 669,
+    "name": "Wallace Ii, Dave",
+    "finish_time": "01:29:05",
+    "finish_seconds": 5345
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 671,
+    "name": "Ranada, Kevin",
+    "finish_time": "01:29:08",
+    "finish_seconds": 5348
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 673,
+    "name": "Vernest, Cameron",
+    "finish_time": "01:29:11",
+    "finish_seconds": 5351
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 675,
+    "name": "Maclean, Tyler",
+    "finish_time": "01:29:14",
+    "finish_seconds": 5354
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 677,
+    "name": "St-Cyr, Shayne",
+    "finish_time": "01:29:15",
+    "finish_seconds": 5355
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 679,
+    "name": "Black, Rory",
+    "finish_time": "01:29:17",
+    "finish_seconds": 5357
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 681,
+    "name": "Du Plessis, Jacques",
+    "finish_time": "01:29:20",
+    "finish_seconds": 5360
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 683,
+    "name": "Apostoli, Daniel",
+    "finish_time": "01:29:21",
+    "finish_seconds": 5361
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 685,
+    "name": "Alparslan, Ken",
+    "finish_time": "01:29:25",
+    "finish_seconds": 5365
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 687,
+    "name": "Baum, Joshua",
+    "finish_time": "01:29:26",
+    "finish_seconds": 5366
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 689,
+    "name": "Ellis, Owen",
+    "finish_time": "01:29:30",
+    "finish_seconds": 5370
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 691,
+    "name": "Sharpe, Trey",
+    "finish_time": "01:29:31",
+    "finish_seconds": 5371
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 693,
+    "name": "Klomjaroon, Atsadakorn",
+    "finish_time": "01:29:35",
+    "finish_seconds": 5375
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 695,
+    "name": "Bellinaso, Michael",
+    "finish_time": "01:29:38",
+    "finish_seconds": 5378
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 697,
+    "name": "Sala, Tait",
+    "finish_time": "01:29:44",
+    "finish_seconds": 5384
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 699,
+    "name": "Hulshof, Brent",
+    "finish_time": "01:29:47",
+    "finish_seconds": 5387
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 701,
+    "name": "Mcclory, Ryan",
+    "finish_time": "01:29:52",
+    "finish_seconds": 5392
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 703,
+    "name": "Semeniuk, Ross",
+    "finish_time": "01:30:01",
+    "finish_seconds": 5401
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 705,
+    "name": "Amir, Benjamin",
+    "finish_time": "01:30:07",
+    "finish_seconds": 5407
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 707,
+    "name": "Boretsky, Jared",
+    "finish_time": "01:30:09",
+    "finish_seconds": 5409
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 709,
+    "name": "Pallares, Ulises",
+    "finish_time": "01:30:13",
+    "finish_seconds": 5413
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 711,
+    "name": "Deshpande, Nachiket",
+    "finish_time": "01:30:15",
+    "finish_seconds": 5415
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 713,
+    "name": "Cousins, Sean",
+    "finish_time": "01:30:21",
+    "finish_seconds": 5421
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 715,
+    "name": "Obando, Esteban",
+    "finish_time": "01:30:22",
+    "finish_seconds": 5422
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 717,
+    "name": "Montgomery, Nick",
+    "finish_time": "01:30:28",
+    "finish_seconds": 5428
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 719,
+    "name": "Biggs, Kyle",
+    "finish_time": "01:30:34",
+    "finish_seconds": 5434
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 721,
+    "name": "Berry, Erik",
+    "finish_time": "01:30:41",
+    "finish_seconds": 5441
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 723,
+    "name": "Caumeran, Marc",
+    "finish_time": "01:30:46",
+    "finish_seconds": 5446
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 725,
+    "name": "Forrest, Brandon",
+    "finish_time": "01:30:52",
+    "finish_seconds": 5452
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 727,
+    "name": "Werle, Thibault",
+    "finish_time": "01:30:53",
+    "finish_seconds": 5453
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 729,
+    "name": "Villani, Jon",
+    "finish_time": "01:30:54",
+    "finish_seconds": 5454
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 731,
+    "name": "Pfeifer, Ryne",
+    "finish_time": "01:30:57",
+    "finish_seconds": 5457
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 733,
+    "name": "Hewitt, Paul",
+    "finish_time": "01:30:59",
+    "finish_seconds": 5459
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 735,
+    "name": "Macleod, Conner",
+    "finish_time": "01:31:02",
+    "finish_seconds": 5462
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 737,
+    "name": "Abush, Ryan",
+    "finish_time": "01:31:03",
+    "finish_seconds": 5463
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 739,
+    "name": "Tyler, Drew",
+    "finish_time": "01:31:05",
+    "finish_seconds": 5465
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 741,
+    "name": "Baidacoff, Stephen",
+    "finish_time": "01:31:09",
+    "finish_seconds": 5469
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 743,
+    "name": "Elonzo, Mateo",
+    "finish_time": "01:31:10",
+    "finish_seconds": 5470
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 745,
+    "name": "Navarro, William",
+    "finish_time": "01:31:16",
+    "finish_seconds": 5476
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 747,
+    "name": "Haywood, Will",
+    "finish_time": "01:31:17",
+    "finish_seconds": 5477
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 749,
+    "name": "Gagn\u00e9, Jacob",
+    "finish_time": "01:31:18",
+    "finish_seconds": 5478
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 751,
+    "name": "Son-Hing, Justin",
+    "finish_time": "01:31:19",
+    "finish_seconds": 5479
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 753,
+    "name": "Lostracco, Mike",
+    "finish_time": "01:31:21",
+    "finish_seconds": 5481
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 755,
+    "name": "Gutheil, Dylan",
+    "finish_time": "01:31:22",
+    "finish_seconds": 5482
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 757,
+    "name": "Robinson, Trevor",
+    "finish_time": "01:31:24",
+    "finish_seconds": 5484
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 759,
+    "name": "Currie, Jay",
+    "finish_time": "01:31:27",
+    "finish_seconds": 5487
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 761,
+    "name": "Wu, Felix",
+    "finish_time": "01:31:29",
+    "finish_seconds": 5489
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 763,
+    "name": "Coelho, Jonathan",
+    "finish_time": "01:31:35",
+    "finish_seconds": 5495
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 765,
+    "name": "Agsalog, Jonathan",
+    "finish_time": "01:31:40",
+    "finish_seconds": 5500
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 767,
+    "name": "Mancuso, Derek",
+    "finish_time": "01:31:44",
+    "finish_seconds": 5504
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 769,
+    "name": "Smith, Glenn",
+    "finish_time": "01:31:47",
+    "finish_seconds": 5507
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 771,
+    "name": "Schembri, Joe",
+    "finish_time": "01:31:52",
+    "finish_seconds": 5512
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 773,
+    "name": "Carter, Shawn",
+    "finish_time": "01:31:53",
+    "finish_seconds": 5513
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 775,
+    "name": "Wagner, Jorge",
+    "finish_time": "01:31:55",
+    "finish_seconds": 5515
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 777,
+    "name": "Strachan, Campbell",
+    "finish_time": "01:31:58",
+    "finish_seconds": 5518
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 779,
+    "name": "Monette, Joe",
+    "finish_time": "01:32:01",
+    "finish_seconds": 5521
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 781,
+    "name": "Lowry, Brent",
+    "finish_time": "01:32:02",
+    "finish_seconds": 5522
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 783,
+    "name": "Roth, Jesse",
+    "finish_time": "01:32:08",
+    "finish_seconds": 5528
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 785,
+    "name": "Overholt, Steven",
+    "finish_time": "01:32:10",
+    "finish_seconds": 5530
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 787,
+    "name": "Smith, Aaron",
+    "finish_time": "01:32:14",
+    "finish_seconds": 5534
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 789,
+    "name": "Arsenault, Paul",
+    "finish_time": "01:32:16",
+    "finish_seconds": 5536
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 791,
+    "name": "Watkins, Shaun",
+    "finish_time": "01:32:19",
+    "finish_seconds": 5539
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 793,
+    "name": "Chevaucherie, C\u00e9lian",
+    "finish_time": "01:32:22",
+    "finish_seconds": 5542
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 795,
+    "name": "Chatham, Mike",
+    "finish_time": "01:32:23",
+    "finish_seconds": 5543
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 797,
+    "name": "Danyliuk, Vlad",
+    "finish_time": "01:32:27",
+    "finish_seconds": 5547
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 799,
+    "name": "Kudus, Kareem",
+    "finish_time": "01:32:31",
+    "finish_seconds": 5551
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 801,
+    "name": "Torres, William",
+    "finish_time": "01:32:34",
+    "finish_seconds": 5554
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 803,
+    "name": "Akkouche, Youssef",
+    "finish_time": "01:32:36",
+    "finish_seconds": 5556
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 805,
+    "name": "Lafrance, Tony",
+    "finish_time": "01:32:41",
+    "finish_seconds": 5561
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 807,
+    "name": "Terreri, Krys",
+    "finish_time": "01:32:44",
+    "finish_seconds": 5564
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 809,
+    "name": "Meeking, Dan",
+    "finish_time": "01:32:49",
+    "finish_seconds": 5569
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 811,
+    "name": "Cottone, Joe",
+    "finish_time": "01:32:52",
+    "finish_seconds": 5572
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 813,
+    "name": "Elten, Michael",
+    "finish_time": "01:32:54",
+    "finish_seconds": 5574
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 815,
+    "name": "Wilkes, Ethan",
+    "finish_time": "01:32:55",
+    "finish_seconds": 5575
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 817,
+    "name": "Li, Vladimir",
+    "finish_time": "01:32:57",
+    "finish_seconds": 5577
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 819,
+    "name": "Wamsley, Greg",
+    "finish_time": "01:32:58",
+    "finish_seconds": 5578
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 821,
+    "name": "Esteves, Dan",
+    "finish_time": "01:33:05",
+    "finish_seconds": 5585
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 823,
+    "name": "Gurrisi, Andrew",
+    "finish_time": "01:33:06",
+    "finish_seconds": 5586
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 825,
+    "name": "Kennedy, Chris",
+    "finish_time": "01:33:14",
+    "finish_seconds": 5594
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 827,
+    "name": "Huang, Regan",
+    "finish_time": "01:33:21",
+    "finish_seconds": 5601
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 829,
+    "name": "Derocker, Noah",
+    "finish_time": "01:33:23",
+    "finish_seconds": 5603
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 831,
+    "name": "Pichini, Daniel",
+    "finish_time": "01:33:25",
+    "finish_seconds": 5605
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 833,
+    "name": "Alaeddine, Jesse",
+    "finish_time": "01:33:26",
+    "finish_seconds": 5606
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 835,
+    "name": "Hernandez, Roiland",
+    "finish_time": "01:33:32",
+    "finish_seconds": 5612
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 837,
+    "name": "Cloutier, Jessy",
+    "finish_time": "01:33:32",
+    "finish_seconds": 5612
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 839,
+    "name": "Tokarski, Brayden",
+    "finish_time": "01:33:42",
+    "finish_seconds": 5622
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 841,
+    "name": "Matisz, Derek",
+    "finish_time": "01:33:43",
+    "finish_seconds": 5623
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 843,
+    "name": "Petrovic, George",
+    "finish_time": "01:33:44",
+    "finish_seconds": 5624
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 845,
+    "name": "Martin, Robert",
+    "finish_time": "01:33:46",
+    "finish_seconds": 5626
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 847,
+    "name": "Mclaughlin, Caoimhin",
+    "finish_time": "01:33:54",
+    "finish_seconds": 5634
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 849,
+    "name": "Carter, Erik",
+    "finish_time": "01:33:57",
+    "finish_seconds": 5637
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 851,
+    "name": "Santamaria Pimiento, Omar Fernando",
+    "finish_time": "01:34:01",
+    "finish_seconds": 5641
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 853,
+    "name": "Holmes, Chris",
+    "finish_time": "01:34:05",
+    "finish_seconds": 5645
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 855,
+    "name": "Yung, Arnold",
+    "finish_time": "01:34:06",
+    "finish_seconds": 5646
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 857,
+    "name": "Vobbe, Stephen",
+    "finish_time": "01:34:09",
+    "finish_seconds": 5649
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 859,
+    "name": "Black, Danny",
+    "finish_time": "01:34:15",
+    "finish_seconds": 5655
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 861,
+    "name": "Vausort, Loic",
+    "finish_time": "01:34:19",
+    "finish_seconds": 5659
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 863,
+    "name": "Blais, Fr\u00e9d\u00e9ric",
+    "finish_time": "01:34:22",
+    "finish_seconds": 5662
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 865,
+    "name": "Schwartzentruber, Mike",
+    "finish_time": "01:34:27",
+    "finish_seconds": 5667
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 867,
+    "name": "Modi, Rishi",
+    "finish_time": "01:34:29",
+    "finish_seconds": 5669
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 869,
+    "name": "Reid, Simon",
+    "finish_time": "01:34:40",
+    "finish_seconds": 5680
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 871,
+    "name": "Allen-Smith, Ken",
+    "finish_time": "01:34:42",
+    "finish_seconds": 5682
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 873,
+    "name": "Rice, Carter",
+    "finish_time": "01:34:43",
+    "finish_seconds": 5683
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 875,
+    "name": "Bogota Sanabria, George",
+    "finish_time": "01:34:47",
+    "finish_seconds": 5687
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 877,
+    "name": "Eade, Paul",
+    "finish_time": "01:34:49",
+    "finish_seconds": 5689
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 879,
+    "name": "Mckeown, Thomas",
+    "finish_time": "01:34:50",
+    "finish_seconds": 5690
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 881,
+    "name": "Melnyk, Matthew",
+    "finish_time": "01:34:53",
+    "finish_seconds": 5693
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 883,
+    "name": "Kiziltan, Gokberk",
+    "finish_time": "01:34:54",
+    "finish_seconds": 5694
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 885,
+    "name": "Graham, Jason",
+    "finish_time": "01:34:57",
+    "finish_seconds": 5697
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 887,
+    "name": "Grenier, Gabriel",
+    "finish_time": "01:35:00",
+    "finish_seconds": 5700
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 889,
+    "name": "Dundee, Chris",
+    "finish_time": "01:35:04",
+    "finish_seconds": 5704
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 891,
+    "name": "Holdsworth, Graeme",
+    "finish_time": "01:35:05",
+    "finish_seconds": 5705
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 893,
+    "name": "Del Castillo, Fernando",
+    "finish_time": "01:35:05",
+    "finish_seconds": 5705
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 895,
+    "name": "Solis, Andres",
+    "finish_time": "01:35:08",
+    "finish_seconds": 5708
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 897,
+    "name": "Hodges, Andrew",
+    "finish_time": "01:35:09",
+    "finish_seconds": 5709
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 899,
+    "name": "Mccleary, Caleb",
+    "finish_time": "01:35:14",
+    "finish_seconds": 5714
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 901,
+    "name": "Chomey, Alex",
+    "finish_time": "01:35:15",
+    "finish_seconds": 5715
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 903,
+    "name": "Nurse, Gary",
+    "finish_time": "01:35:17",
+    "finish_seconds": 5717
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 905,
+    "name": "Etchenique, Christopher",
+    "finish_time": "01:35:18",
+    "finish_seconds": 5718
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 907,
+    "name": "Aleman Navarro, Everardo",
+    "finish_time": "01:35:27",
+    "finish_seconds": 5727
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 909,
+    "name": "Asghari, Behnoud",
+    "finish_time": "01:35:30",
+    "finish_seconds": 5730
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 911,
+    "name": "Kandil, Ahmed",
+    "finish_time": "01:35:35",
+    "finish_seconds": 5735
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 913,
+    "name": "Gugliotta, Anthony",
+    "finish_time": "01:35:37",
+    "finish_seconds": 5737
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 915,
+    "name": "Mckay, Dave",
+    "finish_time": "01:35:39",
+    "finish_seconds": 5739
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 917,
+    "name": "Fuchs, Frankie",
+    "finish_time": "01:35:41",
+    "finish_seconds": 5741
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 919,
+    "name": "Aziz, Olivier",
+    "finish_time": "01:35:46",
+    "finish_seconds": 5746
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 921,
+    "name": "Bugueno, Raul",
+    "finish_time": "01:35:49",
+    "finish_seconds": 5749
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 923,
+    "name": "Heffernan, Sean",
+    "finish_time": "01:35:53",
+    "finish_seconds": 5753
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 925,
+    "name": "Campbell, Zachary",
+    "finish_time": "01:35:57",
+    "finish_seconds": 5757
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 927,
+    "name": "Kluck, Boris",
+    "finish_time": "01:35:59",
+    "finish_seconds": 5759
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 929,
+    "name": "Cappell, Elliott",
+    "finish_time": "01:36:01",
+    "finish_seconds": 5761
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 931,
+    "name": "Healy, Ian",
+    "finish_time": "01:36:03",
+    "finish_seconds": 5763
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 933,
+    "name": "Kettler, Max",
+    "finish_time": "01:36:05",
+    "finish_seconds": 5765
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 935,
+    "name": "Brotto, Randy",
+    "finish_time": "01:36:07",
+    "finish_seconds": 5767
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 937,
+    "name": "Zenteno, Carlos",
+    "finish_time": "01:36:09",
+    "finish_seconds": 5769
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 939,
+    "name": "Goldsmith, Paul",
+    "finish_time": "01:36:11",
+    "finish_seconds": 5771
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 941,
+    "name": "Fernandez Rodriguez, David",
+    "finish_time": "01:36:15",
+    "finish_seconds": 5775
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 943,
+    "name": "Tenhage, Jon",
+    "finish_time": "01:36:18",
+    "finish_seconds": 5778
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 945,
+    "name": "Kong, Jeff",
+    "finish_time": "01:36:19",
+    "finish_seconds": 5779
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 947,
+    "name": "Ceballos Cruz, Anderson",
+    "finish_time": "01:36:27",
+    "finish_seconds": 5787
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 949,
+    "name": "Haber, Isaiah",
+    "finish_time": "01:36:29",
+    "finish_seconds": 5789
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 951,
+    "name": "Aspiras, Chris",
+    "finish_time": "01:36:32",
+    "finish_seconds": 5792
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 953,
+    "name": "Chalier, Benjamin",
+    "finish_time": "01:36:32",
+    "finish_seconds": 5792
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 955,
+    "name": "Pearce, Shaun",
+    "finish_time": "01:36:36",
+    "finish_seconds": 5796
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 957,
+    "name": "Delorme, Pierre",
+    "finish_time": "01:36:37",
+    "finish_seconds": 5797
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 959,
+    "name": "Cosme, Kevin",
+    "finish_time": "01:36:39",
+    "finish_seconds": 5799
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 961,
+    "name": "Mac Lochlainn, Cormac",
+    "finish_time": "01:36:47",
+    "finish_seconds": 5807
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 963,
+    "name": "Widjaja, James",
+    "finish_time": "01:36:51",
+    "finish_seconds": 5811
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 965,
+    "name": "Ouellette, Yannick",
+    "finish_time": "01:36:55",
+    "finish_seconds": 5815
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 967,
+    "name": "Bernard, Carl",
+    "finish_time": "01:37:01",
+    "finish_seconds": 5821
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 969,
+    "name": "Sluth, Patrick",
+    "finish_time": "01:37:08",
+    "finish_seconds": 5828
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 971,
+    "name": "H, Geoff",
+    "finish_time": "01:37:09",
+    "finish_seconds": 5829
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 973,
+    "name": "Ross, Chris",
+    "finish_time": "01:37:20",
+    "finish_seconds": 5840
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 975,
+    "name": "Konoff, Andrew",
+    "finish_time": "01:37:22",
+    "finish_seconds": 5842
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 977,
+    "name": "Ip, Gerry",
+    "finish_time": "01:37:25",
+    "finish_seconds": 5845
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 979,
+    "name": "Hernandez Barreras, Gerardo Antonio",
+    "finish_time": "01:37:28",
+    "finish_seconds": 5848
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 981,
+    "name": "Kwong, Vincent",
+    "finish_time": "01:37:29",
+    "finish_seconds": 5849
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 983,
+    "name": "Arora, Shiv",
+    "finish_time": "01:37:31",
+    "finish_seconds": 5851
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 985,
+    "name": "Alamoutinia, Nami",
+    "finish_time": "01:37:33",
+    "finish_seconds": 5853
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 987,
+    "name": "Ngo, Kyle",
+    "finish_time": "01:37:34",
+    "finish_seconds": 5854
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 989,
+    "name": "Frankow, Loik",
+    "finish_time": "01:37:39",
+    "finish_seconds": 5859
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 991,
+    "name": "Pereira, Gabe",
+    "finish_time": "01:37:42",
+    "finish_seconds": 5862
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 993,
+    "name": "Paton, Andrew",
+    "finish_time": "01:37:44",
+    "finish_seconds": 5864
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 995,
+    "name": "Dickson, Derek",
+    "finish_time": "01:37:48",
+    "finish_seconds": 5868
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 997,
+    "name": "Dykstra, Wesley",
+    "finish_time": "01:37:54",
+    "finish_seconds": 5874
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 999,
+    "name": "Moreau, Josh",
+    "finish_time": "01:38:04",
+    "finish_seconds": 5884
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1001,
+    "name": "Sunderasen, Skandha",
+    "finish_time": "01:38:07",
+    "finish_seconds": 5887
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1003,
+    "name": "Sones, Harrison",
+    "finish_time": "01:38:20",
+    "finish_seconds": 5900
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1005,
+    "name": "Hernandez, Eleseo",
+    "finish_time": "01:38:24",
+    "finish_seconds": 5904
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1007,
+    "name": "Mercado, April John",
+    "finish_time": "01:38:25",
+    "finish_seconds": 5905
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1009,
+    "name": "Hsu, Tulio",
+    "finish_time": "01:38:27",
+    "finish_seconds": 5907
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1011,
+    "name": "Ferrera, Davide",
+    "finish_time": "01:38:31",
+    "finish_seconds": 5911
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1013,
+    "name": "Bennett, Justin",
+    "finish_time": "01:38:32",
+    "finish_seconds": 5912
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1015,
+    "name": "Daye, Andrew",
+    "finish_time": "01:38:34",
+    "finish_seconds": 5914
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1017,
+    "name": "Simeon, Jefferson",
+    "finish_time": "01:38:37",
+    "finish_seconds": 5917
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1019,
+    "name": "Mcgregor, David",
+    "finish_time": "01:38:38",
+    "finish_seconds": 5918
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1021,
+    "name": "Connelly, Joe",
+    "finish_time": "01:38:45",
+    "finish_seconds": 5925
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1023,
+    "name": "Sorichetti, Kevin",
+    "finish_time": "01:38:46",
+    "finish_seconds": 5926
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1025,
+    "name": "Carpenter, Patrick",
+    "finish_time": "01:38:48",
+    "finish_seconds": 5928
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1027,
+    "name": "Pavlopoulos, Theo",
+    "finish_time": "01:38:53",
+    "finish_seconds": 5933
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1029,
+    "name": "Willis, Wayne",
+    "finish_time": "01:38:55",
+    "finish_seconds": 5935
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1031,
+    "name": "De Groot, David",
+    "finish_time": "01:38:57",
+    "finish_seconds": 5937
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1033,
+    "name": "Suarez, Adrian",
+    "finish_time": "01:38:59",
+    "finish_seconds": 5939
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1035,
+    "name": "Hartrich, Joe",
+    "finish_time": "01:39:06",
+    "finish_seconds": 5946
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1037,
+    "name": "Muravski, David",
+    "finish_time": "01:39:08",
+    "finish_seconds": 5948
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1039,
+    "name": "Barth, Brad",
+    "finish_time": "01:39:09",
+    "finish_seconds": 5949
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1041,
+    "name": "Pitts, Conrad",
+    "finish_time": "01:39:14",
+    "finish_seconds": 5954
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1043,
+    "name": "Grancea, Adrian",
+    "finish_time": "01:39:16",
+    "finish_seconds": 5956
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1045,
+    "name": "Belanger, Jason",
+    "finish_time": "01:39:19",
+    "finish_seconds": 5959
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1047,
+    "name": "Forrest, Eric",
+    "finish_time": "01:39:24",
+    "finish_seconds": 5964
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1049,
+    "name": "Richardson, Kyle",
+    "finish_time": "01:39:28",
+    "finish_seconds": 5968
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1051,
+    "name": "Sutch, Steve",
+    "finish_time": "01:39:28",
+    "finish_seconds": 5968
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1053,
+    "name": "Bruneau, Kevin",
+    "finish_time": "01:39:29",
+    "finish_seconds": 5969
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1055,
+    "name": "Stoute, Makka",
+    "finish_time": "01:39:32",
+    "finish_seconds": 5972
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1057,
+    "name": "Jabotian, Hagop",
+    "finish_time": "01:39:38",
+    "finish_seconds": 5978
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1059,
+    "name": "Gamm, Dieter",
+    "finish_time": "01:39:46",
+    "finish_seconds": 5986
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1061,
+    "name": "Eustice, Erik",
+    "finish_time": "01:39:46",
+    "finish_seconds": 5986
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1063,
+    "name": "Donohoe, Cian",
+    "finish_time": "01:39:50",
+    "finish_seconds": 5990
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1065,
+    "name": "Foss, Steven",
+    "finish_time": "01:39:56",
+    "finish_seconds": 5996
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1067,
+    "name": "Brown, Evan",
+    "finish_time": "01:39:57",
+    "finish_seconds": 5997
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1069,
+    "name": "Rana, Nihaal",
+    "finish_time": "01:40:01",
+    "finish_seconds": 6001
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1071,
+    "name": "Fung, Brian",
+    "finish_time": "01:40:03",
+    "finish_seconds": 6003
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1073,
+    "name": "Wei, James",
+    "finish_time": "01:40:17",
+    "finish_seconds": 6017
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1075,
+    "name": "Dilullo, Carlo",
+    "finish_time": "01:40:18",
+    "finish_seconds": 6018
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1077,
+    "name": "Brathwaite, Marc",
+    "finish_time": "01:40:24",
+    "finish_seconds": 6024
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1079,
+    "name": "Laylor, Laurone",
+    "finish_time": "01:40:25",
+    "finish_seconds": 6025
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1081,
+    "name": "Ferrara, Lucio",
+    "finish_time": "01:40:33",
+    "finish_seconds": 6033
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1083,
+    "name": "Samson Doucet, Alexandre",
+    "finish_time": "01:40:35",
+    "finish_seconds": 6035
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1085,
+    "name": "Wong, James",
+    "finish_time": "01:40:35",
+    "finish_seconds": 6035
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1087,
+    "name": "Augustine, Akil",
+    "finish_time": "01:40:36",
+    "finish_seconds": 6036
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1089,
+    "name": "Cotton, Trevor",
+    "finish_time": "01:40:43",
+    "finish_seconds": 6043
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1091,
+    "name": "Tadena, Justine",
+    "finish_time": "01:40:43",
+    "finish_seconds": 6043
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1093,
+    "name": "Simpson, Shakir",
+    "finish_time": "01:40:52",
+    "finish_seconds": 6052
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1095,
+    "name": "Murphy, Darragh",
+    "finish_time": "01:40:56",
+    "finish_seconds": 6056
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1097,
+    "name": "Lim, Jeffrey",
+    "finish_time": "01:40:58",
+    "finish_seconds": 6058
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1099,
+    "name": "Sanz, Sebastien",
+    "finish_time": "01:40:59",
+    "finish_seconds": 6059
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1101,
+    "name": "Gazdic, Marko",
+    "finish_time": "01:41:01",
+    "finish_seconds": 6061
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1103,
+    "name": "Gadouas, Gabriel",
+    "finish_time": "01:41:04",
+    "finish_seconds": 6064
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1105,
+    "name": "Di Fazio, John-Paul",
+    "finish_time": "01:41:09",
+    "finish_seconds": 6069
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1107,
+    "name": "Brockbank, Rob",
+    "finish_time": "01:41:18",
+    "finish_seconds": 6078
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1109,
+    "name": "King, Harry",
+    "finish_time": "01:41:24",
+    "finish_seconds": 6084
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1111,
+    "name": "Ramrattan, Kimchan",
+    "finish_time": "01:41:47",
+    "finish_seconds": 6107
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1113,
+    "name": "Martinez, Chris",
+    "finish_time": "01:41:56",
+    "finish_seconds": 6116
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1115,
+    "name": "Donello, Matt",
+    "finish_time": "01:41:59",
+    "finish_seconds": 6119
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1117,
+    "name": "Malboeuf, Jeremy",
+    "finish_time": "01:42:06",
+    "finish_seconds": 6126
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1119,
+    "name": "Sonson, Jean-Mikhail",
+    "finish_time": "01:42:19",
+    "finish_seconds": 6139
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1121,
+    "name": "Pilarski, Jeremy",
+    "finish_time": "01:42:24",
+    "finish_seconds": 6144
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1123,
+    "name": "Coulson, David",
+    "finish_time": "01:42:27",
+    "finish_seconds": 6147
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1125,
+    "name": "Metherell, Robbie",
+    "finish_time": "01:42:32",
+    "finish_seconds": 6152
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1127,
+    "name": "Koch, Jeremey",
+    "finish_time": "01:42:39",
+    "finish_seconds": 6159
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1129,
+    "name": "Soo, Harry",
+    "finish_time": "01:42:41",
+    "finish_seconds": 6161
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1131,
+    "name": "Mcelvanna, Damien",
+    "finish_time": "01:42:46",
+    "finish_seconds": 6166
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1133,
+    "name": "Brown, Mark",
+    "finish_time": "01:42:52",
+    "finish_seconds": 6172
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1135,
+    "name": "Giron, Nicolas",
+    "finish_time": "01:42:54",
+    "finish_seconds": 6174
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1137,
+    "name": "Mccord, Ken",
+    "finish_time": "01:43:00",
+    "finish_seconds": 6180
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1139,
+    "name": "Schweitzer, Bradley",
+    "finish_time": "01:43:07",
+    "finish_seconds": 6187
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1141,
+    "name": "Abubakar, Reggie",
+    "finish_time": "01:43:11",
+    "finish_seconds": 6191
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1143,
+    "name": "Brenzel, Matthew",
+    "finish_time": "01:43:16",
+    "finish_seconds": 6196
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1145,
+    "name": "Owens, Brian",
+    "finish_time": "01:43:24",
+    "finish_seconds": 6204
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1147,
+    "name": "Tolometti, Gavin",
+    "finish_time": "01:43:26",
+    "finish_seconds": 6206
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1149,
+    "name": "Jaundoo, Devin",
+    "finish_time": "01:43:31",
+    "finish_seconds": 6211
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1151,
+    "name": "Cao, Thinh",
+    "finish_time": "01:43:34",
+    "finish_seconds": 6214
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1153,
+    "name": "Jones, Andrew",
+    "finish_time": "01:43:40",
+    "finish_seconds": 6220
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1155,
+    "name": "Hiltz, Tim",
+    "finish_time": "01:43:44",
+    "finish_seconds": 6224
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1157,
+    "name": "Kolodkin, Alex",
+    "finish_time": "01:43:46",
+    "finish_seconds": 6226
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1159,
+    "name": "Castillo, Sebastian",
+    "finish_time": "01:43:50",
+    "finish_seconds": 6230
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1161,
+    "name": "Gatti, Philip",
+    "finish_time": "01:44:04",
+    "finish_seconds": 6244
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1163,
+    "name": "Kola-Olusanya, Seye",
+    "finish_time": "01:44:11",
+    "finish_seconds": 6251
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1165,
+    "name": "Smith, Dale",
+    "finish_time": "01:44:12",
+    "finish_seconds": 6252
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1167,
+    "name": "Baring, Manvir",
+    "finish_time": "01:44:15",
+    "finish_seconds": 6255
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1169,
+    "name": "Rice, Bill",
+    "finish_time": "01:44:18",
+    "finish_seconds": 6258
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1171,
+    "name": "Lemoyne, Louis-Philippe",
+    "finish_time": "01:44:22",
+    "finish_seconds": 6262
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1173,
+    "name": "Bradshaw, Rik",
+    "finish_time": "01:44:27",
+    "finish_seconds": 6267
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1175,
+    "name": "Van Reenen, Zach",
+    "finish_time": "01:44:28",
+    "finish_seconds": 6268
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1177,
+    "name": "Bennett, Tyler",
+    "finish_time": "01:44:32",
+    "finish_seconds": 6272
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1179,
+    "name": "Lai, David",
+    "finish_time": "01:44:35",
+    "finish_seconds": 6275
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1181,
+    "name": "Lessem, Adam",
+    "finish_time": "01:44:39",
+    "finish_seconds": 6279
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1183,
+    "name": "Omasta, Cory",
+    "finish_time": "01:44:40",
+    "finish_seconds": 6280
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1185,
+    "name": "Shanks, Todd",
+    "finish_time": "01:44:43",
+    "finish_seconds": 6283
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1187,
+    "name": "Chen, Fandi",
+    "finish_time": "01:44:46",
+    "finish_seconds": 6286
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1189,
+    "name": "Binette, Francois",
+    "finish_time": "01:44:52",
+    "finish_seconds": 6292
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1191,
+    "name": "Vossen, Everett",
+    "finish_time": "01:44:54",
+    "finish_seconds": 6294
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1193,
+    "name": "Porretta, David",
+    "finish_time": "01:44:55",
+    "finish_seconds": 6295
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1195,
+    "name": "Ramsay, Craig",
+    "finish_time": "01:44:57",
+    "finish_seconds": 6297
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1197,
+    "name": "Chellingworth, Paul",
+    "finish_time": "01:45:01",
+    "finish_seconds": 6301
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1199,
+    "name": "Watson, Scott",
+    "finish_time": "01:45:05",
+    "finish_seconds": 6305
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1201,
+    "name": "Carroll, William Ryall",
+    "finish_time": "01:45:06",
+    "finish_seconds": 6306
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1203,
+    "name": "Ramos, Giordan",
+    "finish_time": "01:45:14",
+    "finish_seconds": 6314
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1205,
+    "name": "Baribeau, Maxim-Ugo",
+    "finish_time": "01:45:17",
+    "finish_seconds": 6317
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1207,
+    "name": "Agcaoili, Mitos",
+    "finish_time": "01:45:22",
+    "finish_seconds": 6322
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1209,
+    "name": "Case, Jaydon",
+    "finish_time": "01:45:43",
+    "finish_seconds": 6343
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1211,
+    "name": "Halford, Brian",
+    "finish_time": "01:45:44",
+    "finish_seconds": 6344
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1213,
+    "name": "Mark, Ryan",
+    "finish_time": "01:45:49",
+    "finish_seconds": 6349
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1215,
+    "name": "Vargas, Edison",
+    "finish_time": "01:45:59",
+    "finish_seconds": 6359
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1217,
+    "name": "Bhesania, Jimmy",
+    "finish_time": "01:46:04",
+    "finish_seconds": 6364
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1219,
+    "name": "Mancina, Gregory",
+    "finish_time": "01:46:07",
+    "finish_seconds": 6367
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1221,
+    "name": "Lahib, Seyed",
+    "finish_time": "01:46:13",
+    "finish_seconds": 6373
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1223,
+    "name": "Robitaille, Steve",
+    "finish_time": "01:46:14",
+    "finish_seconds": 6374
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1225,
+    "name": "Lotfi, Leonel",
+    "finish_time": "01:46:18",
+    "finish_seconds": 6378
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1227,
+    "name": "French, Patrick",
+    "finish_time": "01:46:25",
+    "finish_seconds": 6385
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1229,
+    "name": "Carsley, Sam",
+    "finish_time": "01:46:27",
+    "finish_seconds": 6387
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1231,
+    "name": "Guarico Lozano, John-Ross",
+    "finish_time": "01:46:29",
+    "finish_seconds": 6389
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1233,
+    "name": "Giannou, Joseph",
+    "finish_time": "01:46:34",
+    "finish_seconds": 6394
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1235,
+    "name": "Sikorski, Mark",
+    "finish_time": "01:46:45",
+    "finish_seconds": 6405
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1237,
+    "name": "Jacob, Thomas",
+    "finish_time": "01:46:46",
+    "finish_seconds": 6406
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1239,
+    "name": "Boguski, Christopher",
+    "finish_time": "01:46:46",
+    "finish_seconds": 6406
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1241,
+    "name": "Emmanuel, Justin",
+    "finish_time": "01:46:56",
+    "finish_seconds": 6416
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1243,
+    "name": "Richie, Matthew",
+    "finish_time": "01:47:02",
+    "finish_seconds": 6422
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1245,
+    "name": "Wong, Sy Haw",
+    "finish_time": "01:47:06",
+    "finish_seconds": 6426
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1247,
+    "name": "Wright, Tyler",
+    "finish_time": "01:47:07",
+    "finish_seconds": 6427
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1249,
+    "name": "Chase, Paden",
+    "finish_time": "01:47:09",
+    "finish_seconds": 6429
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1251,
+    "name": "Spivak, Stuart",
+    "finish_time": "01:47:17",
+    "finish_seconds": 6437
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1253,
+    "name": "Schwein, Nathan",
+    "finish_time": "01:47:21",
+    "finish_seconds": 6441
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1255,
+    "name": "Ing, Winston",
+    "finish_time": "01:47:23",
+    "finish_seconds": 6443
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1257,
+    "name": "Lee, Michael",
+    "finish_time": "01:47:27",
+    "finish_seconds": 6447
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1259,
+    "name": "St.Pierre, Derek",
+    "finish_time": "01:47:32",
+    "finish_seconds": 6452
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1261,
+    "name": "Corrales, Jamie",
+    "finish_time": "01:47:36",
+    "finish_seconds": 6456
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1263,
+    "name": "Mark, Rob",
+    "finish_time": "01:47:37",
+    "finish_seconds": 6457
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1265,
+    "name": "Arebamen, Ade",
+    "finish_time": "01:47:42",
+    "finish_seconds": 6462
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1267,
+    "name": "Beck, Adam",
+    "finish_time": "01:47:47",
+    "finish_seconds": 6467
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1269,
+    "name": "Hassanali, Rasheed",
+    "finish_time": "01:47:53",
+    "finish_seconds": 6473
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1271,
+    "name": "Sawler, Troy",
+    "finish_time": "01:47:55",
+    "finish_seconds": 6475
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1273,
+    "name": "Sengdy, Victor",
+    "finish_time": "01:48:03",
+    "finish_seconds": 6483
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1275,
+    "name": "Stevens, Jerome",
+    "finish_time": "01:48:06",
+    "finish_seconds": 6486
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1277,
+    "name": "Lee, Lonn",
+    "finish_time": "01:48:08",
+    "finish_seconds": 6488
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1279,
+    "name": "Leek, Thomas",
+    "finish_time": "01:48:13",
+    "finish_seconds": 6493
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1281,
+    "name": "Pagniello, Michael",
+    "finish_time": "01:48:18",
+    "finish_seconds": 6498
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1283,
+    "name": "Conta, Michael",
+    "finish_time": "01:48:22",
+    "finish_seconds": 6502
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1285,
+    "name": "Wong, Armando",
+    "finish_time": "01:48:23",
+    "finish_seconds": 6503
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1287,
+    "name": "Soltani, Reza",
+    "finish_time": "01:48:28",
+    "finish_seconds": 6508
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1289,
+    "name": "Doucette, Cody",
+    "finish_time": "01:48:29",
+    "finish_seconds": 6509
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1291,
+    "name": "Hunter, Bill",
+    "finish_time": "01:48:37",
+    "finish_seconds": 6517
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1293,
+    "name": "Bailly, Marvyn",
+    "finish_time": "01:48:41",
+    "finish_seconds": 6521
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1295,
+    "name": "Bricka, Florian",
+    "finish_time": "01:48:42",
+    "finish_seconds": 6522
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1297,
+    "name": "Rancone, Luigi",
+    "finish_time": "01:48:50",
+    "finish_seconds": 6530
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1299,
+    "name": "Naguiat, Mateo",
+    "finish_time": "01:49:01",
+    "finish_seconds": 6541
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1301,
+    "name": "Groff, Dalton",
+    "finish_time": "01:49:07",
+    "finish_seconds": 6547
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1303,
+    "name": "Demers-Lizotte, Renaud",
+    "finish_time": "01:49:10",
+    "finish_seconds": 6550
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1305,
+    "name": "Scott, Mackenzie",
+    "finish_time": "01:49:14",
+    "finish_seconds": 6554
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1307,
+    "name": "Scott, Walter",
+    "finish_time": "01:49:18",
+    "finish_seconds": 6558
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1309,
+    "name": "Macisaac, Anthony",
+    "finish_time": "01:49:21",
+    "finish_seconds": 6561
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1311,
+    "name": "Dupuis, Guillaume",
+    "finish_time": "01:49:29",
+    "finish_seconds": 6569
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1313,
+    "name": "Rahim, Karim",
+    "finish_time": "01:49:32",
+    "finish_seconds": 6572
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1315,
+    "name": "Benmessaoud, Yamin",
+    "finish_time": "01:49:37",
+    "finish_seconds": 6577
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1317,
+    "name": "Wexler, Michael",
+    "finish_time": "01:49:40",
+    "finish_seconds": 6580
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1319,
+    "name": "Garcia Nila, Juan",
+    "finish_time": "01:49:46",
+    "finish_seconds": 6586
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1321,
+    "name": "Nichol, Garrett",
+    "finish_time": "01:49:50",
+    "finish_seconds": 6590
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1323,
+    "name": "Ramirez, Jose Ignacio",
+    "finish_time": "01:49:56",
+    "finish_seconds": 6596
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1325,
+    "name": "De Veyra, Christian",
+    "finish_time": "01:49:59",
+    "finish_seconds": 6599
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1327,
+    "name": "Cox, Holden",
+    "finish_time": "01:50:06",
+    "finish_seconds": 6606
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1329,
+    "name": "El Mootassem, Jad",
+    "finish_time": "01:50:09",
+    "finish_seconds": 6609
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1331,
+    "name": "Yu, Changmiao",
+    "finish_time": "01:50:10",
+    "finish_seconds": 6610
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1333,
+    "name": "Diaz Lozano, Edgar",
+    "finish_time": "01:50:14",
+    "finish_seconds": 6614
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1335,
+    "name": "Lagan, Martin",
+    "finish_time": "01:50:19",
+    "finish_seconds": 6619
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1337,
+    "name": "Tate, Keean",
+    "finish_time": "01:50:23",
+    "finish_seconds": 6623
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1339,
+    "name": "Babb, Darwin",
+    "finish_time": "01:50:24",
+    "finish_seconds": 6624
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1341,
+    "name": "Derisier, Jonel",
+    "finish_time": "01:50:27",
+    "finish_seconds": 6627
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1343,
+    "name": "Perry, Dwayne",
+    "finish_time": "01:50:34",
+    "finish_seconds": 6634
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1345,
+    "name": "Balingit, Jon",
+    "finish_time": "01:50:38",
+    "finish_seconds": 6638
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1347,
+    "name": "Mahabadi, Armeen",
+    "finish_time": "01:50:44",
+    "finish_seconds": 6644
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1349,
+    "name": "Darchen, Yann",
+    "finish_time": "01:50:46",
+    "finish_seconds": 6646
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1351,
+    "name": "Crawford, Jason",
+    "finish_time": "01:50:54",
+    "finish_seconds": 6654
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1353,
+    "name": "Akbar, Salman",
+    "finish_time": "01:51:08",
+    "finish_seconds": 6668
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1355,
+    "name": "Enopia, Elmon",
+    "finish_time": "01:51:10",
+    "finish_seconds": 6670
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1357,
+    "name": "Yang, Jacky",
+    "finish_time": "01:51:15",
+    "finish_seconds": 6675
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1359,
+    "name": "Mcneil, Will",
+    "finish_time": "01:51:18",
+    "finish_seconds": 6678
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1361,
+    "name": "Wilson, Scott",
+    "finish_time": "01:51:22",
+    "finish_seconds": 6682
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1363,
+    "name": "Ford, Daniel",
+    "finish_time": "01:51:29",
+    "finish_seconds": 6689
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1365,
+    "name": "Brassard, Eric",
+    "finish_time": "01:51:37",
+    "finish_seconds": 6697
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1367,
+    "name": "Shegeft, Arsham",
+    "finish_time": "01:51:39",
+    "finish_seconds": 6699
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1369,
+    "name": "Rogge, Matthew",
+    "finish_time": "01:51:43",
+    "finish_seconds": 6703
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1371,
+    "name": "Chibani, Fek",
+    "finish_time": "01:51:48",
+    "finish_seconds": 6708
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1373,
+    "name": "Kristanto, Edbert",
+    "finish_time": "01:51:50",
+    "finish_seconds": 6710
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1375,
+    "name": "Carragher, David",
+    "finish_time": "01:51:55",
+    "finish_seconds": 6715
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1377,
+    "name": "Baez, Xavier",
+    "finish_time": "01:52:02",
+    "finish_seconds": 6722
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1379,
+    "name": "Colmenares, Julio",
+    "finish_time": "01:52:08",
+    "finish_seconds": 6728
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1381,
+    "name": "Vargas, Fernando",
+    "finish_time": "01:52:21",
+    "finish_seconds": 6741
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1383,
+    "name": "Amanatidis, Jonathan",
+    "finish_time": "01:52:27",
+    "finish_seconds": 6747
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1385,
+    "name": "Ratchford, Zach",
+    "finish_time": "01:52:33",
+    "finish_seconds": 6753
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1387,
+    "name": "Lee, Chris",
+    "finish_time": "01:52:45",
+    "finish_seconds": 6765
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1389,
+    "name": "Punjwani, Zain",
+    "finish_time": "01:52:47",
+    "finish_seconds": 6767
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1391,
+    "name": "Ng, Thomas",
+    "finish_time": "01:52:50",
+    "finish_seconds": 6770
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1393,
+    "name": "Shaikh, Tayyab",
+    "finish_time": "01:53:03",
+    "finish_seconds": 6783
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1395,
+    "name": "Mcmanus, Eddie",
+    "finish_time": "01:53:04",
+    "finish_seconds": 6784
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1397,
+    "name": "Dalakoudis, Andrew",
+    "finish_time": "01:53:09",
+    "finish_seconds": 6789
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1399,
+    "name": "Ceballos Cruz, Juan Pablo",
+    "finish_time": "01:53:13",
+    "finish_seconds": 6793
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1401,
+    "name": "Moffatt, Mark",
+    "finish_time": "01:53:19",
+    "finish_seconds": 6799
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1403,
+    "name": "Tobo, Andres",
+    "finish_time": "01:53:21",
+    "finish_seconds": 6801
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1405,
+    "name": "Singh, Gurvinder",
+    "finish_time": "01:53:28",
+    "finish_seconds": 6808
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1407,
+    "name": "Soto, Carlos",
+    "finish_time": "01:53:29",
+    "finish_seconds": 6809
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1409,
+    "name": "Hogan, Darragh",
+    "finish_time": "01:53:33",
+    "finish_seconds": 6813
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1411,
+    "name": "Kim, Kyungwon",
+    "finish_time": "01:53:34",
+    "finish_seconds": 6814
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1413,
+    "name": "Morales, Juan",
+    "finish_time": "01:53:36",
+    "finish_seconds": 6816
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "M",
+    "rank": 1415,
+    "name": "Korres, Christos",
+    "finish_time": "01:53:38",
+    "finish_seconds": 6818
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 1,
+    "name": "Kolesova, Nataliia",
+    "finish_time": "01:07:04",
+    "finish_seconds": 4024
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 3,
+    "name": "Hayre, Courtney",
+    "finish_time": "01:07:51",
+    "finish_seconds": 4071
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 5,
+    "name": "Beran, Alex",
+    "finish_time": "01:08:38",
+    "finish_seconds": 4118
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 7,
+    "name": "Bennett, Laura",
+    "finish_time": "01:09:08",
+    "finish_seconds": 4148
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 9,
+    "name": "Kiberd, Anne",
+    "finish_time": "01:09:25",
+    "finish_seconds": 4165
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 11,
+    "name": "Marchant, Andy",
+    "finish_time": "01:10:54",
+    "finish_seconds": 4254
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 13,
+    "name": "Meijer, Rixt",
+    "finish_time": "01:11:27",
+    "finish_seconds": 4287
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 15,
+    "name": "Hroncok, Amanda",
+    "finish_time": "01:12:15",
+    "finish_seconds": 4335
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 17,
+    "name": "Roesler, Anne",
+    "finish_time": "01:12:23",
+    "finish_seconds": 4343
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 19,
+    "name": "Fernback, Sophie",
+    "finish_time": "01:12:29",
+    "finish_seconds": 4349
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 21,
+    "name": "Intungane, Laura",
+    "finish_time": "01:12:32",
+    "finish_seconds": 4352
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 23,
+    "name": "Winokur, Sydney",
+    "finish_time": "01:12:38",
+    "finish_seconds": 4358
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 25,
+    "name": "Peachey, Melissa",
+    "finish_time": "01:12:53",
+    "finish_seconds": 4373
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 27,
+    "name": "Poirier Martin, Camille",
+    "finish_time": "01:13:14",
+    "finish_seconds": 4394
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 29,
+    "name": "Penner, Becca",
+    "finish_time": "01:13:34",
+    "finish_seconds": 4414
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 31,
+    "name": "Doncaster, Melissa",
+    "finish_time": "01:13:59",
+    "finish_seconds": 4439
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 33,
+    "name": "D'Ornellas, Emilee",
+    "finish_time": "01:14:03",
+    "finish_seconds": 4443
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 35,
+    "name": "Gosselin, Rebecca",
+    "finish_time": "01:14:23",
+    "finish_seconds": 4463
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 37,
+    "name": "Cornacchia, Michelle",
+    "finish_time": "01:14:42",
+    "finish_seconds": 4482
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 39,
+    "name": "Burgess, Stephanie",
+    "finish_time": "01:14:53",
+    "finish_seconds": 4493
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 41,
+    "name": "Bratovz, Andrejka",
+    "finish_time": "01:15:08",
+    "finish_seconds": 4508
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 43,
+    "name": "Mrkonja, Allison",
+    "finish_time": "01:15:25",
+    "finish_seconds": 4525
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 45,
+    "name": "Tripp, Sommer",
+    "finish_time": "01:15:57",
+    "finish_seconds": 4557
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 47,
+    "name": "Henrich-Sala, Barbara",
+    "finish_time": "01:16:07",
+    "finish_seconds": 4567
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 49,
+    "name": "Pitruniak, Brittany",
+    "finish_time": "01:16:16",
+    "finish_seconds": 4576
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 51,
+    "name": "O\u2019Hanlon, Kelly",
+    "finish_time": "01:16:31",
+    "finish_seconds": 4591
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 53,
+    "name": "Machneva, Anastasiia",
+    "finish_time": "01:16:50",
+    "finish_seconds": 4610
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 55,
+    "name": "Cheung, Christina",
+    "finish_time": "01:16:55",
+    "finish_seconds": 4615
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 57,
+    "name": "Fox, Rachael",
+    "finish_time": "01:17:15",
+    "finish_seconds": 4635
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 59,
+    "name": "Collins, Sam",
+    "finish_time": "01:17:24",
+    "finish_seconds": 4644
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 61,
+    "name": "Holman, Jennifer",
+    "finish_time": "01:17:27",
+    "finish_seconds": 4647
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 63,
+    "name": "Blouin, Ad\u00e8le",
+    "finish_time": "01:17:32",
+    "finish_seconds": 4652
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 65,
+    "name": "Gustafsson, Naima",
+    "finish_time": "01:17:47",
+    "finish_seconds": 4667
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 67,
+    "name": "Farthing, Sueann",
+    "finish_time": "01:17:59",
+    "finish_seconds": 4679
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 69,
+    "name": "Inthavong, Cassandra",
+    "finish_time": "01:18:27",
+    "finish_seconds": 4707
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 71,
+    "name": "Kellerman, Isabella",
+    "finish_time": "01:18:32",
+    "finish_seconds": 4712
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 73,
+    "name": "Vaszily, Jessica",
+    "finish_time": "01:18:42",
+    "finish_seconds": 4722
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 75,
+    "name": "Kremer, Nicole",
+    "finish_time": "01:18:50",
+    "finish_seconds": 4730
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 77,
+    "name": "Keay, Sarah",
+    "finish_time": "01:18:51",
+    "finish_seconds": 4731
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 79,
+    "name": "Leblanc, Maria",
+    "finish_time": "01:19:01",
+    "finish_seconds": 4741
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 81,
+    "name": "Callan, Tara",
+    "finish_time": "01:19:11",
+    "finish_seconds": 4751
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 83,
+    "name": "Leet, Katie",
+    "finish_time": "01:19:15",
+    "finish_seconds": 4755
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 85,
+    "name": "O\u2019Connor, Jocelyn",
+    "finish_time": "01:19:34",
+    "finish_seconds": 4774
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 87,
+    "name": "Harikishun, Ashley",
+    "finish_time": "01:19:45",
+    "finish_seconds": 4785
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 89,
+    "name": "Rainer, Katie",
+    "finish_time": "01:19:48",
+    "finish_seconds": 4788
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 91,
+    "name": "Lee, Robyn",
+    "finish_time": "01:19:54",
+    "finish_seconds": 4794
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 93,
+    "name": "Van Der Walt, Rachel",
+    "finish_time": "01:20:01",
+    "finish_seconds": 4801
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 95,
+    "name": "Norris, Alanna",
+    "finish_time": "01:20:09",
+    "finish_seconds": 4809
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 97,
+    "name": "Jennings, Erin",
+    "finish_time": "01:20:13",
+    "finish_seconds": 4813
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 99,
+    "name": "Henderson, Lindsay",
+    "finish_time": "01:20:29",
+    "finish_seconds": 4829
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 101,
+    "name": "David, Gabrielle",
+    "finish_time": "01:20:38",
+    "finish_seconds": 4838
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 103,
+    "name": "Shinder, Avital",
+    "finish_time": "01:20:45",
+    "finish_seconds": 4845
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 105,
+    "name": "Mckay, Morgan",
+    "finish_time": "01:20:58",
+    "finish_seconds": 4858
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 107,
+    "name": "Barrientos, Andrea",
+    "finish_time": "01:21:04",
+    "finish_seconds": 4864
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 109,
+    "name": "Boissonneault, Melissa",
+    "finish_time": "01:21:08",
+    "finish_seconds": 4868
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 111,
+    "name": "Diggins, Adrienne",
+    "finish_time": "01:21:19",
+    "finish_seconds": 4879
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 113,
+    "name": "Schayes, Melissa",
+    "finish_time": "01:21:25",
+    "finish_seconds": 4885
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 115,
+    "name": "Hamm, Amanda",
+    "finish_time": "01:21:38",
+    "finish_seconds": 4898
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 117,
+    "name": "Melamed, Mor",
+    "finish_time": "01:21:55",
+    "finish_seconds": 4915
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 119,
+    "name": "Brown, Madelaine",
+    "finish_time": "01:22:15",
+    "finish_seconds": 4935
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 121,
+    "name": "Brodeur, Megan",
+    "finish_time": "01:22:29",
+    "finish_seconds": 4949
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 123,
+    "name": "Guichelaar, Lucie",
+    "finish_time": "01:22:32",
+    "finish_seconds": 4952
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 125,
+    "name": "Clark, Stacey",
+    "finish_time": "01:22:42",
+    "finish_seconds": 4962
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 127,
+    "name": "Burton, Shannon",
+    "finish_time": "01:23:01",
+    "finish_seconds": 4981
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 129,
+    "name": "Williams, Sarah",
+    "finish_time": "01:23:04",
+    "finish_seconds": 4984
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 131,
+    "name": "Huet, Anick",
+    "finish_time": "01:23:09",
+    "finish_seconds": 4989
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 133,
+    "name": "Bolchakova, Angelina",
+    "finish_time": "01:23:11",
+    "finish_seconds": 4991
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 135,
+    "name": "Davis, Callie",
+    "finish_time": "01:23:13",
+    "finish_seconds": 4993
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 137,
+    "name": "Theoret, Camille",
+    "finish_time": "01:23:20",
+    "finish_seconds": 5000
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 139,
+    "name": "Koene, Elisa",
+    "finish_time": "01:23:29",
+    "finish_seconds": 5009
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 141,
+    "name": "Mcguigan, Alison",
+    "finish_time": "01:23:34",
+    "finish_seconds": 5014
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 143,
+    "name": "Gabrielli, Sabrina",
+    "finish_time": "01:23:40",
+    "finish_seconds": 5020
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 145,
+    "name": "Bishop, Carrie",
+    "finish_time": "01:23:50",
+    "finish_seconds": 5030
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 147,
+    "name": "Drapeau, Sarah",
+    "finish_time": "01:23:54",
+    "finish_seconds": 5034
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 149,
+    "name": "Mostowyk, Kate",
+    "finish_time": "01:23:55",
+    "finish_seconds": 5035
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 151,
+    "name": "Patrick, Robyn",
+    "finish_time": "01:23:57",
+    "finish_seconds": 5037
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 153,
+    "name": "De Vries, Laura-Ellen",
+    "finish_time": "01:24:01",
+    "finish_seconds": 5041
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 155,
+    "name": "Tsang, Vicki",
+    "finish_time": "01:24:10",
+    "finish_seconds": 5050
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 157,
+    "name": "Burns, Jane",
+    "finish_time": "01:24:11",
+    "finish_seconds": 5051
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 159,
+    "name": "Chiasson, Meg",
+    "finish_time": "01:24:20",
+    "finish_seconds": 5060
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 161,
+    "name": "Gosselin, Alexandra",
+    "finish_time": "01:24:30",
+    "finish_seconds": 5070
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 163,
+    "name": "Downham, Jenny",
+    "finish_time": "01:24:31",
+    "finish_seconds": 5071
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 165,
+    "name": "Metcalf, Kelly",
+    "finish_time": "01:24:37",
+    "finish_seconds": 5077
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 167,
+    "name": "Mehmed, Atche",
+    "finish_time": "01:24:45",
+    "finish_seconds": 5085
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 169,
+    "name": "Kullman, S",
+    "finish_time": "01:24:48",
+    "finish_seconds": 5088
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 171,
+    "name": "Botha, Veronica",
+    "finish_time": "01:24:51",
+    "finish_seconds": 5091
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 173,
+    "name": "Leblanc, Sarah",
+    "finish_time": "01:24:53",
+    "finish_seconds": 5093
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 175,
+    "name": "Kong, Kimberly",
+    "finish_time": "01:24:54",
+    "finish_seconds": 5094
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 177,
+    "name": "Paluch, Paulina",
+    "finish_time": "01:24:56",
+    "finish_seconds": 5096
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 179,
+    "name": "Fiore, Helena",
+    "finish_time": "01:24:59",
+    "finish_seconds": 5099
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 181,
+    "name": "Kelch, Hester",
+    "finish_time": "01:25:02",
+    "finish_seconds": 5102
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 183,
+    "name": "Norbert, Shannon",
+    "finish_time": "01:25:04",
+    "finish_seconds": 5104
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 185,
+    "name": "Longchamps, Myriam",
+    "finish_time": "01:25:06",
+    "finish_seconds": 5106
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 187,
+    "name": "Sieg, Kat",
+    "finish_time": "01:25:08",
+    "finish_seconds": 5108
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 189,
+    "name": "Bray, Heather",
+    "finish_time": "01:25:15",
+    "finish_seconds": 5115
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 191,
+    "name": "Davis, Lindsey",
+    "finish_time": "01:25:26",
+    "finish_seconds": 5126
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 193,
+    "name": "Primeau, Vanessa",
+    "finish_time": "01:25:29",
+    "finish_seconds": 5129
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 195,
+    "name": "Karlsson, Maddelene",
+    "finish_time": "01:25:33",
+    "finish_seconds": 5133
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 197,
+    "name": "Burke, Jenny",
+    "finish_time": "01:25:39",
+    "finish_seconds": 5139
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 199,
+    "name": "Doma, Tricia",
+    "finish_time": "01:25:44",
+    "finish_seconds": 5144
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 201,
+    "name": "Peterson, Michelle",
+    "finish_time": "01:25:56",
+    "finish_seconds": 5156
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 203,
+    "name": "Nadeau, Majolie",
+    "finish_time": "01:25:59",
+    "finish_seconds": 5159
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 205,
+    "name": "Bowman, Nicole",
+    "finish_time": "01:26:09",
+    "finish_seconds": 5169
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 207,
+    "name": "Stock, Madison",
+    "finish_time": "01:26:11",
+    "finish_seconds": 5171
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 209,
+    "name": "Weir, Makenna",
+    "finish_time": "01:26:17",
+    "finish_seconds": 5177
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 211,
+    "name": "Kramer, Gema",
+    "finish_time": "01:26:22",
+    "finish_seconds": 5182
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 213,
+    "name": "Goupil, Victoria",
+    "finish_time": "01:26:25",
+    "finish_seconds": 5185
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 215,
+    "name": "Tran, Lisa",
+    "finish_time": "01:26:34",
+    "finish_seconds": 5194
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 217,
+    "name": "Tobin, Amanda",
+    "finish_time": "01:26:35",
+    "finish_seconds": 5195
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 219,
+    "name": "Wilson, Lisa",
+    "finish_time": "01:26:45",
+    "finish_seconds": 5205
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 221,
+    "name": "Davies, Justine",
+    "finish_time": "01:26:49",
+    "finish_seconds": 5209
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 223,
+    "name": "To, Azia",
+    "finish_time": "01:26:52",
+    "finish_seconds": 5212
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 225,
+    "name": "Simpson, Erin",
+    "finish_time": "01:26:57",
+    "finish_seconds": 5217
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 227,
+    "name": "Margonari, Kathryn",
+    "finish_time": "01:27:02",
+    "finish_seconds": 5222
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 229,
+    "name": "Whyte, Benita",
+    "finish_time": "01:27:07",
+    "finish_seconds": 5227
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 231,
+    "name": "Lorenzon, Andrea",
+    "finish_time": "01:27:18",
+    "finish_seconds": 5238
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 233,
+    "name": "Mulcahey, Leah",
+    "finish_time": "01:27:24",
+    "finish_seconds": 5244
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 235,
+    "name": "Zhai, Nasha",
+    "finish_time": "01:27:27",
+    "finish_seconds": 5247
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 237,
+    "name": "Pasemko, Natasha",
+    "finish_time": "01:27:35",
+    "finish_seconds": 5255
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 239,
+    "name": "Aldrich, Sarah",
+    "finish_time": "01:27:43",
+    "finish_seconds": 5263
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 241,
+    "name": "Leblanc, Joellyn",
+    "finish_time": "01:27:46",
+    "finish_seconds": 5266
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 243,
+    "name": "Bakkal Bashi, Maryam",
+    "finish_time": "01:27:48",
+    "finish_seconds": 5268
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 245,
+    "name": "Fierst, Morgan",
+    "finish_time": "01:27:54",
+    "finish_seconds": 5274
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 247,
+    "name": "Tse, Lilian",
+    "finish_time": "01:27:57",
+    "finish_seconds": 5277
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 249,
+    "name": "Krisko, Charissa",
+    "finish_time": "01:28:02",
+    "finish_seconds": 5282
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 251,
+    "name": "Perocho, Jessica",
+    "finish_time": "01:28:17",
+    "finish_seconds": 5297
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 253,
+    "name": "Lam, Carrie",
+    "finish_time": "01:28:21",
+    "finish_seconds": 5301
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 255,
+    "name": "Dehaitre, Emily",
+    "finish_time": "01:28:22",
+    "finish_seconds": 5302
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 257,
+    "name": "East, Carmen",
+    "finish_time": "01:28:27",
+    "finish_seconds": 5307
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 259,
+    "name": "Dunlop, Morgan",
+    "finish_time": "01:28:33",
+    "finish_seconds": 5313
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 261,
+    "name": "Mcdonald, Paige",
+    "finish_time": "01:28:40",
+    "finish_seconds": 5320
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 263,
+    "name": "Dickson, Dani",
+    "finish_time": "01:28:43",
+    "finish_seconds": 5323
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 265,
+    "name": "Bevan, Julia",
+    "finish_time": "01:28:44",
+    "finish_seconds": 5324
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 267,
+    "name": "Mccall, Tova",
+    "finish_time": "01:28:50",
+    "finish_seconds": 5330
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 269,
+    "name": "Benson, Laura",
+    "finish_time": "01:28:56",
+    "finish_seconds": 5336
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 271,
+    "name": "D\u2019Andrea-Sdao, Patricia",
+    "finish_time": "01:29:01",
+    "finish_seconds": 5341
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 273,
+    "name": "Juulsgaard, Petra",
+    "finish_time": "01:29:04",
+    "finish_seconds": 5344
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 275,
+    "name": "Warner, Jess",
+    "finish_time": "01:29:09",
+    "finish_seconds": 5349
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 277,
+    "name": "Robertson, Meg",
+    "finish_time": "01:29:10",
+    "finish_seconds": 5350
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 279,
+    "name": "Furyk, Hannah",
+    "finish_time": "01:29:18",
+    "finish_seconds": 5358
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 281,
+    "name": "Wood, Katherine",
+    "finish_time": "01:29:24",
+    "finish_seconds": 5364
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 283,
+    "name": "Wallis, Jodie",
+    "finish_time": "01:29:24",
+    "finish_seconds": 5364
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 285,
+    "name": "Fox, Laura",
+    "finish_time": "01:29:27",
+    "finish_seconds": 5367
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 287,
+    "name": "Zach, Megan",
+    "finish_time": "01:29:45",
+    "finish_seconds": 5385
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 289,
+    "name": "Pobol, Emma",
+    "finish_time": "01:29:51",
+    "finish_seconds": 5391
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 291,
+    "name": "Gonzalez, Sarah",
+    "finish_time": "01:29:59",
+    "finish_seconds": 5399
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 293,
+    "name": "Dancy, Karen",
+    "finish_time": "01:30:00",
+    "finish_seconds": 5400
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 295,
+    "name": "Bezaire, Olivia",
+    "finish_time": "01:30:04",
+    "finish_seconds": 5404
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 297,
+    "name": "Sussman, Sarah",
+    "finish_time": "01:30:07",
+    "finish_seconds": 5407
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 299,
+    "name": "Kerger, Colleen",
+    "finish_time": "01:30:09",
+    "finish_seconds": 5409
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 301,
+    "name": "De Pasquale, Adelyn",
+    "finish_time": "01:30:18",
+    "finish_seconds": 5418
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 303,
+    "name": "Romualdo, Aliya",
+    "finish_time": "01:30:22",
+    "finish_seconds": 5422
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 305,
+    "name": "Saunders, Alice",
+    "finish_time": "01:30:28",
+    "finish_seconds": 5428
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 307,
+    "name": "Archer, Beth",
+    "finish_time": "01:30:34",
+    "finish_seconds": 5434
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 309,
+    "name": "Kwan, Stevanie",
+    "finish_time": "01:30:47",
+    "finish_seconds": 5447
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 311,
+    "name": "Genzle, Dakota",
+    "finish_time": "01:30:51",
+    "finish_seconds": 5451
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 313,
+    "name": "Cropp, Caroline",
+    "finish_time": "01:31:05",
+    "finish_seconds": 5465
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 315,
+    "name": "Grumke, Darcy",
+    "finish_time": "01:31:09",
+    "finish_seconds": 5469
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 317,
+    "name": "Bourassa, Karine",
+    "finish_time": "01:31:11",
+    "finish_seconds": 5471
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 319,
+    "name": "Bisnaire, Sam",
+    "finish_time": "01:31:15",
+    "finish_seconds": 5475
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 321,
+    "name": "Furgiuele, Melissa",
+    "finish_time": "01:31:21",
+    "finish_seconds": 5481
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 323,
+    "name": "Ho, Caroline",
+    "finish_time": "01:31:26",
+    "finish_seconds": 5486
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 325,
+    "name": "Williams, Amanda",
+    "finish_time": "01:31:38",
+    "finish_seconds": 5498
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 327,
+    "name": "Jensen, Kirsten",
+    "finish_time": "01:31:46",
+    "finish_seconds": 5506
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 329,
+    "name": "Bagdon, Mackenzie",
+    "finish_time": "01:31:51",
+    "finish_seconds": 5511
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 331,
+    "name": "Onyeneke, Cynthia",
+    "finish_time": "01:31:56",
+    "finish_seconds": 5516
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 333,
+    "name": "Dawkins-Harris, Peta-Gaye",
+    "finish_time": "01:32:00",
+    "finish_seconds": 5520
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 335,
+    "name": "Gallo, Rachelle",
+    "finish_time": "01:32:07",
+    "finish_seconds": 5527
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 337,
+    "name": "Clark, Christina",
+    "finish_time": "01:32:11",
+    "finish_seconds": 5531
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 339,
+    "name": "Plante, Nikki",
+    "finish_time": "01:32:16",
+    "finish_seconds": 5536
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 341,
+    "name": "Nugent, Sarah",
+    "finish_time": "01:32:20",
+    "finish_seconds": 5540
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 343,
+    "name": "Cumby, Sara",
+    "finish_time": "01:32:25",
+    "finish_seconds": 5545
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 345,
+    "name": "Lu, Jenny",
+    "finish_time": "01:32:28",
+    "finish_seconds": 5548
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 347,
+    "name": "Navarra, Janelle",
+    "finish_time": "01:32:43",
+    "finish_seconds": 5563
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 349,
+    "name": "Northcott, Rachel",
+    "finish_time": "01:32:52",
+    "finish_seconds": 5572
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 351,
+    "name": "Garrett, Vanessa",
+    "finish_time": "01:32:57",
+    "finish_seconds": 5577
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 353,
+    "name": "Jodoin, Michelle",
+    "finish_time": "01:33:03",
+    "finish_seconds": 5583
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 355,
+    "name": "Lee, Kristen",
+    "finish_time": "01:33:17",
+    "finish_seconds": 5597
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 357,
+    "name": "Haughey, Aoife",
+    "finish_time": "01:33:27",
+    "finish_seconds": 5607
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 359,
+    "name": "Zaimi, Mitra",
+    "finish_time": "01:33:30",
+    "finish_seconds": 5610
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 361,
+    "name": "Owens, Jodie",
+    "finish_time": "01:33:34",
+    "finish_seconds": 5614
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 363,
+    "name": "Kroll, Julia",
+    "finish_time": "01:33:37",
+    "finish_seconds": 5617
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 365,
+    "name": "Diomedi, Geena",
+    "finish_time": "01:33:46",
+    "finish_seconds": 5626
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 367,
+    "name": "Athanasakou, Iryna",
+    "finish_time": "01:33:57",
+    "finish_seconds": 5637
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 369,
+    "name": "Yamashita, Anna",
+    "finish_time": "01:34:00",
+    "finish_seconds": 5640
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 371,
+    "name": "Kwan, Karen",
+    "finish_time": "01:34:07",
+    "finish_seconds": 5647
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 373,
+    "name": "Duffy, Gillian",
+    "finish_time": "01:34:17",
+    "finish_seconds": 5657
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 375,
+    "name": "Rawosh, Arabella Weda",
+    "finish_time": "01:34:21",
+    "finish_seconds": 5661
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 377,
+    "name": "Kim, Jan",
+    "finish_time": "01:34:37",
+    "finish_seconds": 5677
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 379,
+    "name": "Galbraith, Jordyn",
+    "finish_time": "01:34:43",
+    "finish_seconds": 5683
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 381,
+    "name": "Mccorquodale, Lisa",
+    "finish_time": "01:34:49",
+    "finish_seconds": 5689
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 383,
+    "name": "Sharif, Meena",
+    "finish_time": "01:34:51",
+    "finish_seconds": 5691
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 385,
+    "name": "Metz, Victoria",
+    "finish_time": "01:34:53",
+    "finish_seconds": 5693
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 387,
+    "name": "Woolnough, Rebecca",
+    "finish_time": "01:35:06",
+    "finish_seconds": 5706
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 389,
+    "name": "Gekas, Alexandra",
+    "finish_time": "01:35:12",
+    "finish_seconds": 5712
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 391,
+    "name": "Chen, Sophia",
+    "finish_time": "01:35:19",
+    "finish_seconds": 5719
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 393,
+    "name": "Savage, Courtney",
+    "finish_time": "01:35:29",
+    "finish_seconds": 5729
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 395,
+    "name": "Rasowski, Joanna",
+    "finish_time": "01:35:33",
+    "finish_seconds": 5733
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 397,
+    "name": "Marquez, Lara",
+    "finish_time": "01:35:34",
+    "finish_seconds": 5734
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 399,
+    "name": "Kerslake, Ashlyn",
+    "finish_time": "01:35:36",
+    "finish_seconds": 5736
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 401,
+    "name": "John, Chivon",
+    "finish_time": "01:35:41",
+    "finish_seconds": 5741
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 403,
+    "name": "Bardier-Cusson, Claudia",
+    "finish_time": "01:35:46",
+    "finish_seconds": 5746
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 405,
+    "name": "Sekhavat, Anoushe",
+    "finish_time": "01:35:47",
+    "finish_seconds": 5747
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 407,
+    "name": "Sergi, Angelica",
+    "finish_time": "01:35:54",
+    "finish_seconds": 5754
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 409,
+    "name": "Amiouny, Daniela",
+    "finish_time": "01:35:56",
+    "finish_seconds": 5756
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 411,
+    "name": "Tong, Megan",
+    "finish_time": "01:36:04",
+    "finish_seconds": 5764
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 413,
+    "name": "Courtney, Autumn",
+    "finish_time": "01:36:06",
+    "finish_seconds": 5766
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 415,
+    "name": "Des Rosiers, Katherine",
+    "finish_time": "01:36:09",
+    "finish_seconds": 5769
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 417,
+    "name": "Mclean, Julie",
+    "finish_time": "01:36:10",
+    "finish_seconds": 5770
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 419,
+    "name": "Labreche, Lisa",
+    "finish_time": "01:36:14",
+    "finish_seconds": 5774
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 421,
+    "name": "Paquin, M\u00e9lanie",
+    "finish_time": "01:36:19",
+    "finish_seconds": 5779
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 423,
+    "name": "Christman, Lauren",
+    "finish_time": "01:36:22",
+    "finish_seconds": 5782
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 425,
+    "name": "Turnhout, Julianna",
+    "finish_time": "01:36:28",
+    "finish_seconds": 5788
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 427,
+    "name": "Cross, Charlotte",
+    "finish_time": "01:36:31",
+    "finish_seconds": 5791
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 429,
+    "name": "Hamilton, Helaina",
+    "finish_time": "01:36:42",
+    "finish_seconds": 5802
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 431,
+    "name": "Sheldon, Rachel",
+    "finish_time": "01:36:45",
+    "finish_seconds": 5805
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 433,
+    "name": "Malone, Dav",
+    "finish_time": "01:36:51",
+    "finish_seconds": 5811
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 435,
+    "name": "Bucsis, Kate",
+    "finish_time": "01:36:54",
+    "finish_seconds": 5814
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 437,
+    "name": "Tharakan, Beena Mary",
+    "finish_time": "01:36:56",
+    "finish_seconds": 5816
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 439,
+    "name": "Reddin, Jessica",
+    "finish_time": "01:37:06",
+    "finish_seconds": 5826
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 441,
+    "name": "Freeman, Amanda",
+    "finish_time": "01:37:07",
+    "finish_seconds": 5827
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 443,
+    "name": "Forsyth, Liana",
+    "finish_time": "01:37:12",
+    "finish_seconds": 5832
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 445,
+    "name": "Stokes, Shawn",
+    "finish_time": "01:37:17",
+    "finish_seconds": 5837
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 447,
+    "name": "Wegner, Sherry",
+    "finish_time": "01:37:31",
+    "finish_seconds": 5851
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 449,
+    "name": "Farquharson, Jasmyn",
+    "finish_time": "01:37:36",
+    "finish_seconds": 5856
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 451,
+    "name": "Pistiolis, Theodora",
+    "finish_time": "01:37:41",
+    "finish_seconds": 5861
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 453,
+    "name": "Wu, Margaret",
+    "finish_time": "01:37:44",
+    "finish_seconds": 5864
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 455,
+    "name": "Yazdkhasti, Pegah",
+    "finish_time": "01:37:46",
+    "finish_seconds": 5866
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 457,
+    "name": "Mcdonald, Ashley",
+    "finish_time": "01:37:51",
+    "finish_seconds": 5871
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 459,
+    "name": "Conlin, Lisa",
+    "finish_time": "01:37:57",
+    "finish_seconds": 5877
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 461,
+    "name": "Hryciw, Camryn",
+    "finish_time": "01:38:00",
+    "finish_seconds": 5880
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 463,
+    "name": "Pachis, Nicki",
+    "finish_time": "01:38:08",
+    "finish_seconds": 5888
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 465,
+    "name": "Nurse, Michelle",
+    "finish_time": "01:38:09",
+    "finish_seconds": 5889
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 467,
+    "name": "Sakellaropoulos, Marianna",
+    "finish_time": "01:38:13",
+    "finish_seconds": 5893
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 469,
+    "name": "Zitoli, Samantha",
+    "finish_time": "01:38:26",
+    "finish_seconds": 5906
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 471,
+    "name": "Won, Semi",
+    "finish_time": "01:38:32",
+    "finish_seconds": 5912
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 473,
+    "name": "Jiang, Amy",
+    "finish_time": "01:38:40",
+    "finish_seconds": 5920
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 475,
+    "name": "Serrano, Elizabeth",
+    "finish_time": "01:38:43",
+    "finish_seconds": 5923
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 477,
+    "name": "Groot, Harmony",
+    "finish_time": "01:38:44",
+    "finish_seconds": 5924
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 479,
+    "name": "Carignan, Jade",
+    "finish_time": "01:38:48",
+    "finish_seconds": 5928
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 481,
+    "name": "St-Aubin, Abbey",
+    "finish_time": "01:38:51",
+    "finish_seconds": 5931
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 483,
+    "name": "Dowhaniuk, Melanie",
+    "finish_time": "01:38:56",
+    "finish_seconds": 5936
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 485,
+    "name": "Lee, Debbie",
+    "finish_time": "01:38:57",
+    "finish_seconds": 5937
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 487,
+    "name": "Machado, Ariana",
+    "finish_time": "01:38:59",
+    "finish_seconds": 5939
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 489,
+    "name": "Osio, Evelyn",
+    "finish_time": "01:39:07",
+    "finish_seconds": 5947
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 491,
+    "name": "Kannampuzha, Mara",
+    "finish_time": "01:39:14",
+    "finish_seconds": 5954
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 493,
+    "name": "Tompkins, Tracey",
+    "finish_time": "01:39:16",
+    "finish_seconds": 5956
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 495,
+    "name": "Choquette, Deryn",
+    "finish_time": "01:39:31",
+    "finish_seconds": 5971
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 497,
+    "name": "Payson, Christina",
+    "finish_time": "01:39:36",
+    "finish_seconds": 5976
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 499,
+    "name": "Colle, Cassie",
+    "finish_time": "01:39:40",
+    "finish_seconds": 5980
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 501,
+    "name": "Maisonneuve, Sophie",
+    "finish_time": "01:39:40",
+    "finish_seconds": 5980
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 503,
+    "name": "Greenway, Jennifer",
+    "finish_time": "01:39:43",
+    "finish_seconds": 5983
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 505,
+    "name": "Parent, Annie",
+    "finish_time": "01:39:44",
+    "finish_seconds": 5984
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 507,
+    "name": "Opie, Susie",
+    "finish_time": "01:39:45",
+    "finish_seconds": 5985
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 509,
+    "name": "Maurice, \u00c8ve",
+    "finish_time": "01:40:01",
+    "finish_seconds": 6001
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 511,
+    "name": "Fracassi, Luisa",
+    "finish_time": "01:40:08",
+    "finish_seconds": 6008
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 513,
+    "name": "Baker, Jennifer",
+    "finish_time": "01:40:10",
+    "finish_seconds": 6010
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 515,
+    "name": "Pistiolis Marinow, Alexandra",
+    "finish_time": "01:40:11",
+    "finish_seconds": 6011
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 517,
+    "name": "Dufresne, Lisa",
+    "finish_time": "01:40:14",
+    "finish_seconds": 6014
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 519,
+    "name": "Primeau, Chantelle",
+    "finish_time": "01:40:18",
+    "finish_seconds": 6018
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 521,
+    "name": "Kelly, Monique",
+    "finish_time": "01:40:34",
+    "finish_seconds": 6034
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 523,
+    "name": "Spencer, Sandy",
+    "finish_time": "01:40:47",
+    "finish_seconds": 6047
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 525,
+    "name": "Bobak-Porianda, Antonina",
+    "finish_time": "01:40:48",
+    "finish_seconds": 6048
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 527,
+    "name": "Bucci, Vanessa",
+    "finish_time": "01:40:55",
+    "finish_seconds": 6055
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 529,
+    "name": "Adjeleian, Nicole",
+    "finish_time": "01:40:57",
+    "finish_seconds": 6057
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 531,
+    "name": "Florendo, Celina",
+    "finish_time": "01:41:01",
+    "finish_seconds": 6061
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 533,
+    "name": "Merner, Lindsay",
+    "finish_time": "01:41:05",
+    "finish_seconds": 6065
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 535,
+    "name": "Birk, Jasjit",
+    "finish_time": "01:41:10",
+    "finish_seconds": 6070
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 537,
+    "name": "Claxton, Railie",
+    "finish_time": "01:41:16",
+    "finish_seconds": 6076
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 539,
+    "name": "Andre, Coralie",
+    "finish_time": "01:41:21",
+    "finish_seconds": 6081
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 541,
+    "name": "Sallese, Lindsey",
+    "finish_time": "01:41:38",
+    "finish_seconds": 6098
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 543,
+    "name": "Masse, Melanie",
+    "finish_time": "01:41:45",
+    "finish_seconds": 6105
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 545,
+    "name": "Vanigasooriyar, Jenny",
+    "finish_time": "01:41:50",
+    "finish_seconds": 6110
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 547,
+    "name": "Workun, Zoriana",
+    "finish_time": "01:42:11",
+    "finish_seconds": 6131
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 549,
+    "name": "Polkinghorne, Leigh-Anne",
+    "finish_time": "01:42:16",
+    "finish_seconds": 6136
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 551,
+    "name": "Massicotte, Melanie",
+    "finish_time": "01:42:32",
+    "finish_seconds": 6152
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 553,
+    "name": "Tolkin, Rachel",
+    "finish_time": "01:42:41",
+    "finish_seconds": 6161
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 555,
+    "name": "Chen, Stephanie",
+    "finish_time": "01:42:46",
+    "finish_seconds": 6166
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 557,
+    "name": "Teeuwen, Ariel",
+    "finish_time": "01:42:50",
+    "finish_seconds": 6170
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 559,
+    "name": "Gapasin, Kat",
+    "finish_time": "01:42:53",
+    "finish_seconds": 6173
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 561,
+    "name": "Arango, Paula",
+    "finish_time": "01:43:03",
+    "finish_seconds": 6183
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 563,
+    "name": "Smith, Morgan",
+    "finish_time": "01:43:08",
+    "finish_seconds": 6188
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 565,
+    "name": "Henderson, Karissa",
+    "finish_time": "01:43:10",
+    "finish_seconds": 6190
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 567,
+    "name": "Stevenson, Kirstin",
+    "finish_time": "01:43:13",
+    "finish_seconds": 6193
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 569,
+    "name": "Duerden, Kayla",
+    "finish_time": "01:43:16",
+    "finish_seconds": 6196
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 571,
+    "name": "Podczaski Rodriguez, Olivia",
+    "finish_time": "01:43:33",
+    "finish_seconds": 6213
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 573,
+    "name": "Kasper, Ashley",
+    "finish_time": "01:43:45",
+    "finish_seconds": 6225
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 575,
+    "name": "O\u2019Grady, Caitlin",
+    "finish_time": "01:43:54",
+    "finish_seconds": 6234
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 577,
+    "name": "Liu, Ziqi",
+    "finish_time": "01:44:02",
+    "finish_seconds": 6242
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 579,
+    "name": "Rapp, Shirley",
+    "finish_time": "01:44:05",
+    "finish_seconds": 6245
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 581,
+    "name": "Sergi-Marshall, Kristina",
+    "finish_time": "01:44:08",
+    "finish_seconds": 6248
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 583,
+    "name": "Hunter, Allison",
+    "finish_time": "01:44:19",
+    "finish_seconds": 6259
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 585,
+    "name": "Sibio, Lorenza",
+    "finish_time": "01:44:23",
+    "finish_seconds": 6263
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 587,
+    "name": "Reddy, Emily",
+    "finish_time": "01:44:30",
+    "finish_seconds": 6270
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 589,
+    "name": "Macinnis, Lexi",
+    "finish_time": "01:44:43",
+    "finish_seconds": 6283
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 591,
+    "name": "Rogers, Sarah",
+    "finish_time": "01:44:47",
+    "finish_seconds": 6287
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 593,
+    "name": "Chan, Rachel",
+    "finish_time": "01:44:52",
+    "finish_seconds": 6292
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 595,
+    "name": "Conway, Kaiden",
+    "finish_time": "01:44:54",
+    "finish_seconds": 6294
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 597,
+    "name": "Daca, Amy",
+    "finish_time": "01:44:58",
+    "finish_seconds": 6298
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 599,
+    "name": "Miller, Hannah",
+    "finish_time": "01:45:13",
+    "finish_seconds": 6313
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 601,
+    "name": "Salazar, Paola",
+    "finish_time": "01:45:16",
+    "finish_seconds": 6316
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 603,
+    "name": "Watson, Rachael",
+    "finish_time": "01:45:19",
+    "finish_seconds": 6319
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 605,
+    "name": "Salazar, Gabrielle",
+    "finish_time": "01:45:28",
+    "finish_seconds": 6328
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 607,
+    "name": "Chen, Lucy",
+    "finish_time": "01:45:30",
+    "finish_seconds": 6330
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 609,
+    "name": "Meijer, C\u00e9line",
+    "finish_time": "01:45:56",
+    "finish_seconds": 6356
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 611,
+    "name": "Vandyk, Kathy",
+    "finish_time": "01:46:00",
+    "finish_seconds": 6360
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 613,
+    "name": "Catahan, Evangeline",
+    "finish_time": "01:46:08",
+    "finish_seconds": 6368
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 615,
+    "name": "White, Lauren",
+    "finish_time": "01:46:10",
+    "finish_seconds": 6370
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 617,
+    "name": "Namsechi, Moojan",
+    "finish_time": "01:46:13",
+    "finish_seconds": 6373
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 619,
+    "name": "Daggitt, Lindsay",
+    "finish_time": "01:46:28",
+    "finish_seconds": 6388
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 621,
+    "name": "Hendrick, Sarah",
+    "finish_time": "01:46:29",
+    "finish_seconds": 6389
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 623,
+    "name": "Chulkova, Irina",
+    "finish_time": "01:46:42",
+    "finish_seconds": 6402
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 625,
+    "name": "Herrera, Emma",
+    "finish_time": "01:46:48",
+    "finish_seconds": 6408
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 627,
+    "name": "Giliberti, Dominique",
+    "finish_time": "01:46:53",
+    "finish_seconds": 6413
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 629,
+    "name": "Delucia, Andrea",
+    "finish_time": "01:47:10",
+    "finish_seconds": 6430
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 631,
+    "name": "Crowell, Natalie",
+    "finish_time": "01:47:15",
+    "finish_seconds": 6435
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 633,
+    "name": "Sobolewski, Charlotte",
+    "finish_time": "01:47:20",
+    "finish_seconds": 6440
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 635,
+    "name": "Whelpton, Emma",
+    "finish_time": "01:47:37",
+    "finish_seconds": 6457
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 637,
+    "name": "Vossen, Julia",
+    "finish_time": "01:47:41",
+    "finish_seconds": 6461
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 639,
+    "name": "Fadly, Aida",
+    "finish_time": "01:47:48",
+    "finish_seconds": 6468
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 641,
+    "name": "Proulx, Victoria",
+    "finish_time": "01:47:58",
+    "finish_seconds": 6478
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 643,
+    "name": "Del Carmen, Ma Franchesca",
+    "finish_time": "01:48:15",
+    "finish_seconds": 6495
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 645,
+    "name": "Pieper, Lindsey",
+    "finish_time": "01:48:20",
+    "finish_seconds": 6500
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 647,
+    "name": "Gooding, Christina",
+    "finish_time": "01:48:27",
+    "finish_seconds": 6507
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 649,
+    "name": "Young, Daniela",
+    "finish_time": "01:48:30",
+    "finish_seconds": 6510
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 651,
+    "name": "Hall, Gillian",
+    "finish_time": "01:48:34",
+    "finish_seconds": 6514
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 653,
+    "name": "Evinou, Leslie",
+    "finish_time": "01:48:42",
+    "finish_seconds": 6522
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 655,
+    "name": "Sabatini, Karen",
+    "finish_time": "01:48:49",
+    "finish_seconds": 6529
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 657,
+    "name": "Bumbacco, Joanna",
+    "finish_time": "01:48:54",
+    "finish_seconds": 6534
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 659,
+    "name": "Betancur, Yvonne",
+    "finish_time": "01:48:55",
+    "finish_seconds": 6535
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 661,
+    "name": "Romaniuk, T.J.",
+    "finish_time": "01:48:58",
+    "finish_seconds": 6538
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 663,
+    "name": "Loyola, Pia",
+    "finish_time": "01:49:06",
+    "finish_seconds": 6546
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 665,
+    "name": "Dai, Chelsa",
+    "finish_time": "01:49:15",
+    "finish_seconds": 6555
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 667,
+    "name": "Rendell, Emma",
+    "finish_time": "01:49:20",
+    "finish_seconds": 6560
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 669,
+    "name": "Mak, Cayley",
+    "finish_time": "01:49:36",
+    "finish_seconds": 6576
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 671,
+    "name": "Yiu, Anne",
+    "finish_time": "01:49:41",
+    "finish_seconds": 6581
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 673,
+    "name": "Naeimian, Sama",
+    "finish_time": "01:49:47",
+    "finish_seconds": 6587
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 675,
+    "name": "Christopher, Amanda",
+    "finish_time": "01:49:49",
+    "finish_seconds": 6589
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 677,
+    "name": "Avidago, Daniella",
+    "finish_time": "01:50:05",
+    "finish_seconds": 6605
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 679,
+    "name": "Melnyk, Laryssa",
+    "finish_time": "01:50:08",
+    "finish_seconds": 6608
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 681,
+    "name": "Beckett, Kayla",
+    "finish_time": "01:50:12",
+    "finish_seconds": 6612
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 683,
+    "name": "Amberley, Sarah",
+    "finish_time": "01:50:17",
+    "finish_seconds": 6617
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 685,
+    "name": "Woodhall, Fiona",
+    "finish_time": "01:50:21",
+    "finish_seconds": 6621
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 687,
+    "name": "Warboys, Erin",
+    "finish_time": "01:50:37",
+    "finish_seconds": 6637
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 689,
+    "name": "Brennan, Maria",
+    "finish_time": "01:50:50",
+    "finish_seconds": 6650
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 691,
+    "name": "Martin, Catherine",
+    "finish_time": "01:51:01",
+    "finish_seconds": 6661
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 693,
+    "name": "Garzon, Valentina",
+    "finish_time": "01:51:10",
+    "finish_seconds": 6670
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 695,
+    "name": "Warren, Celeste",
+    "finish_time": "01:51:15",
+    "finish_seconds": 6675
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 697,
+    "name": "Bonilla, Nathaly",
+    "finish_time": "01:51:27",
+    "finish_seconds": 6687
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 699,
+    "name": "Kim, Garam",
+    "finish_time": "01:51:35",
+    "finish_seconds": 6695
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 701,
+    "name": "Baluyot, Kim",
+    "finish_time": "01:51:38",
+    "finish_seconds": 6698
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 703,
+    "name": "Landry, Joelle",
+    "finish_time": "01:51:55",
+    "finish_seconds": 6715
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 705,
+    "name": "Shirani, Azin",
+    "finish_time": "01:51:58",
+    "finish_seconds": 6718
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 707,
+    "name": "Budetic, Suzana",
+    "finish_time": "01:52:06",
+    "finish_seconds": 6726
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 709,
+    "name": "Seleznovs, Olga",
+    "finish_time": "01:52:08",
+    "finish_seconds": 6728
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 711,
+    "name": "Donevan, Zurry",
+    "finish_time": "01:52:13",
+    "finish_seconds": 6733
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 713,
+    "name": "Soboleva, Elizabeth",
+    "finish_time": "01:52:21",
+    "finish_seconds": 6741
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 715,
+    "name": "Petras, Michelle",
+    "finish_time": "01:52:32",
+    "finish_seconds": 6752
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 717,
+    "name": "Mccracken, Kristi",
+    "finish_time": "01:52:37",
+    "finish_seconds": 6757
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 719,
+    "name": "Cabansay, Sarah",
+    "finish_time": "01:52:45",
+    "finish_seconds": 6765
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 721,
+    "name": "Hagen, Lisa",
+    "finish_time": "01:52:47",
+    "finish_seconds": 6767
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 723,
+    "name": "Hachey, Alissa",
+    "finish_time": "01:53:07",
+    "finish_seconds": 6787
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 725,
+    "name": "Colbeck, Jaime",
+    "finish_time": "01:53:12",
+    "finish_seconds": 6792
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 727,
+    "name": "Ewing, Danica",
+    "finish_time": "01:53:13",
+    "finish_seconds": 6793
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 729,
+    "name": "Taub, Felicia",
+    "finish_time": "01:53:21",
+    "finish_seconds": 6801
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 731,
+    "name": "Mcgill, Patricia",
+    "finish_time": "01:53:33",
+    "finish_seconds": 6813
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 733,
+    "name": "Dickson, Creanne",
+    "finish_time": "01:53:38",
+    "finish_seconds": 6818
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 735,
+    "name": "Tweedie, Jorja",
+    "finish_time": "01:53:45",
+    "finish_seconds": 6825
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 737,
+    "name": "Fraser, Heather",
+    "finish_time": "01:53:49",
+    "finish_seconds": 6829
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 739,
+    "name": "Torchia, Melissa",
+    "finish_time": "01:53:52",
+    "finish_seconds": 6832
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 741,
+    "name": "Smith, Liz",
+    "finish_time": "01:53:56",
+    "finish_seconds": 6836
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 743,
+    "name": "Tiutiunnik, Yana",
+    "finish_time": "01:54:09",
+    "finish_seconds": 6849
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 745,
+    "name": "Norozi, Diba",
+    "finish_time": "01:54:16",
+    "finish_seconds": 6856
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 747,
+    "name": "Dem, Gifty",
+    "finish_time": "01:54:22",
+    "finish_seconds": 6862
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 749,
+    "name": "Langdon, Bobbie-Jane",
+    "finish_time": "01:54:33",
+    "finish_seconds": 6873
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 751,
+    "name": "Charron, Amy",
+    "finish_time": "01:54:38",
+    "finish_seconds": 6878
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 753,
+    "name": "Smith, Alison",
+    "finish_time": "01:54:48",
+    "finish_seconds": 6888
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 755,
+    "name": "Morgan, Shannin",
+    "finish_time": "01:54:52",
+    "finish_seconds": 6892
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 757,
+    "name": "Qaqish, Eva",
+    "finish_time": "01:55:02",
+    "finish_seconds": 6902
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 759,
+    "name": "Wilcox, Chelsea",
+    "finish_time": "01:55:12",
+    "finish_seconds": 6912
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 761,
+    "name": "Tamaoki, Tomoko",
+    "finish_time": "01:55:24",
+    "finish_seconds": 6924
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 763,
+    "name": "Boisvert, Noemie",
+    "finish_time": "01:55:32",
+    "finish_seconds": 6932
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 765,
+    "name": "Dyck, Rebecca",
+    "finish_time": "01:55:36",
+    "finish_seconds": 6936
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 767,
+    "name": "Vendittelli, Justina",
+    "finish_time": "01:55:39",
+    "finish_seconds": 6939
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 769,
+    "name": "Loiseau, Sam",
+    "finish_time": "01:55:43",
+    "finish_seconds": 6943
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 771,
+    "name": "Lauzon, Melanie",
+    "finish_time": "01:55:48",
+    "finish_seconds": 6948
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 773,
+    "name": "Anderson, Jenn",
+    "finish_time": "01:55:50",
+    "finish_seconds": 6950
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 775,
+    "name": "Jackson, Victoria",
+    "finish_time": "01:55:55",
+    "finish_seconds": 6955
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 777,
+    "name": "Damario, Jordyn",
+    "finish_time": "01:55:59",
+    "finish_seconds": 6959
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 779,
+    "name": "Murley, Jessica",
+    "finish_time": "01:56:03",
+    "finish_seconds": 6963
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 781,
+    "name": "Adelman, Alexandria",
+    "finish_time": "01:56:22",
+    "finish_seconds": 6982
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 783,
+    "name": "Kayser, Lisa",
+    "finish_time": "01:56:34",
+    "finish_seconds": 6994
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 785,
+    "name": "Carvalhais, Olivia",
+    "finish_time": "01:56:53",
+    "finish_seconds": 7013
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 787,
+    "name": "Rodeh, Eliya",
+    "finish_time": "01:57:02",
+    "finish_seconds": 7022
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 789,
+    "name": "Cacchiotti, Annie",
+    "finish_time": "01:57:03",
+    "finish_seconds": 7023
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 791,
+    "name": "Harispuru, Ver\u00f3nica",
+    "finish_time": "01:57:12",
+    "finish_seconds": 7032
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 793,
+    "name": "Wood, Christine",
+    "finish_time": "01:57:20",
+    "finish_seconds": 7040
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 795,
+    "name": "Spooner, Evany",
+    "finish_time": "01:57:38",
+    "finish_seconds": 7058
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 797,
+    "name": "Sheikh, Sidra",
+    "finish_time": "01:57:40",
+    "finish_seconds": 7060
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 799,
+    "name": "Hagan, Maureen",
+    "finish_time": "01:57:44",
+    "finish_seconds": 7064
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 801,
+    "name": "Anderson-Johnson, Sherene",
+    "finish_time": "01:58:02",
+    "finish_seconds": 7082
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 803,
+    "name": "Cormier, Ang\u00e9lie",
+    "finish_time": "01:58:07",
+    "finish_seconds": 7087
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 805,
+    "name": "Kaye, Chloe",
+    "finish_time": "01:58:22",
+    "finish_seconds": 7102
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 807,
+    "name": "Boparai, Takdeer",
+    "finish_time": "01:58:24",
+    "finish_seconds": 7104
+  },
+  {
+    "venue": "2025 Toronto",
+    "gender": "W",
+    "rank": 809,
+    "name": "Dale, Tina",
+    "finish_time": "01:58:45",
+    "finish_seconds": 7125
+  }
+]

@@ -10,6 +10,8 @@ from pathlib import Path
 
 # Add parent directory to path to import modules
 sys.path.insert(0, str(Path(__file__).parent.parent))
+# Add web directory to path so 'import utils' works in app.py
+sys.path.insert(0, str(Path(__file__).parent.parent / 'web'))
 
 from web.app import parse_time_to_seconds, format_time, convert_time
 from execution.process_scraped_data import parse_time_to_seconds as parse_time_processing

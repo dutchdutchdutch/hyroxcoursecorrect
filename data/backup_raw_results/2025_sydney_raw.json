@@ -1,0 +1,5082 @@
+[
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1,
+    "name": "Hoy, Dan",
+    "finish_time": "00:56:28",
+    "finish_seconds": 3388
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 3,
+    "name": "Lapthorn, Tom",
+    "finish_time": "00:58:11",
+    "finish_seconds": 3491
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 5,
+    "name": "O'Leary, Liam",
+    "finish_time": "00:59:10",
+    "finish_seconds": 3550
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 7,
+    "name": "Cook, Logan",
+    "finish_time": "00:59:35",
+    "finish_seconds": 3575
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 9,
+    "name": "Chevalier, Romain",
+    "finish_time": "00:59:42",
+    "finish_seconds": 3582
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 11,
+    "name": "Sargent, Jayden",
+    "finish_time": "01:00:03",
+    "finish_seconds": 3603
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 13,
+    "name": "Meo, Joseph",
+    "finish_time": "01:00:18",
+    "finish_seconds": 3618
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 15,
+    "name": "Corlis, Phil",
+    "finish_time": "01:00:45",
+    "finish_seconds": 3645
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 17,
+    "name": "Richardson, Ben",
+    "finish_time": "01:01:00",
+    "finish_seconds": 3660
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 19,
+    "name": "Martinez, Anthony",
+    "finish_time": "01:01:03",
+    "finish_seconds": 3663
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 21,
+    "name": "Mccullagh, Darragh",
+    "finish_time": "01:01:07",
+    "finish_seconds": 3667
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 23,
+    "name": "Kelly, Edward",
+    "finish_time": "01:01:16",
+    "finish_seconds": 3676
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 25,
+    "name": "Hardy, Marc",
+    "finish_time": "01:01:37",
+    "finish_seconds": 3697
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 27,
+    "name": "Coulter, Jeff",
+    "finish_time": "01:01:48",
+    "finish_seconds": 3708
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 29,
+    "name": "Mcconvey, Cian",
+    "finish_time": "01:02:08",
+    "finish_seconds": 3728
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 31,
+    "name": "Tauwhare, Lewis",
+    "finish_time": "01:02:13",
+    "finish_seconds": 3733
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 33,
+    "name": "Edwards, Jared",
+    "finish_time": "01:02:23",
+    "finish_seconds": 3743
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 35,
+    "name": "Spozio, Shawn",
+    "finish_time": "01:02:24",
+    "finish_seconds": 3744
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 37,
+    "name": "Baijings, Gabriel",
+    "finish_time": "01:02:45",
+    "finish_seconds": 3765
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 39,
+    "name": "Hennessey, Kane",
+    "finish_time": "01:02:49",
+    "finish_seconds": 3769
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 41,
+    "name": "Goad, Barry",
+    "finish_time": "01:02:55",
+    "finish_seconds": 3775
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 43,
+    "name": "Abraham, Brad",
+    "finish_time": "01:03:03",
+    "finish_seconds": 3783
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 45,
+    "name": "Blint, Dave",
+    "finish_time": "01:03:19",
+    "finish_seconds": 3799
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 47,
+    "name": "Ryan, Tom",
+    "finish_time": "01:03:31",
+    "finish_seconds": 3811
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 49,
+    "name": "Martin, Nathan",
+    "finish_time": "01:03:34",
+    "finish_seconds": 3814
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 51,
+    "name": "Puljic, Aaron",
+    "finish_time": "01:03:39",
+    "finish_seconds": 3819
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 53,
+    "name": "Maybin, Philip",
+    "finish_time": "01:03:48",
+    "finish_seconds": 3828
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 55,
+    "name": "El Mkadem, Ayoub",
+    "finish_time": "01:03:55",
+    "finish_seconds": 3835
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 57,
+    "name": "Sheehan, Cian",
+    "finish_time": "01:04:00",
+    "finish_seconds": 3840
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 59,
+    "name": "Emtsis, Travis",
+    "finish_time": "01:04:05",
+    "finish_seconds": 3845
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 61,
+    "name": "Fox, Andrew",
+    "finish_time": "01:04:06",
+    "finish_seconds": 3846
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 63,
+    "name": "Edwards, Tom",
+    "finish_time": "01:04:09",
+    "finish_seconds": 3849
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 65,
+    "name": "Peacock, Ashley",
+    "finish_time": "01:04:15",
+    "finish_seconds": 3855
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 67,
+    "name": "Loughran, Conor",
+    "finish_time": "01:04:18",
+    "finish_seconds": 3858
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 69,
+    "name": "Leske, Ben",
+    "finish_time": "01:04:23",
+    "finish_seconds": 3863
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 71,
+    "name": "Murphy, Keian",
+    "finish_time": "01:04:26",
+    "finish_seconds": 3866
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 73,
+    "name": "Brennan, Shannon",
+    "finish_time": "01:04:37",
+    "finish_seconds": 3877
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 75,
+    "name": "Stevenson, Paul",
+    "finish_time": "01:04:49",
+    "finish_seconds": 3889
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 77,
+    "name": "Bourke, Matthew",
+    "finish_time": "01:04:57",
+    "finish_seconds": 3897
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 79,
+    "name": "Oatley, Jordan",
+    "finish_time": "01:05:12",
+    "finish_seconds": 3912
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 81,
+    "name": "Giles, Thomas",
+    "finish_time": "01:05:14",
+    "finish_seconds": 3914
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 83,
+    "name": "Bedoya, Simon",
+    "finish_time": "01:05:22",
+    "finish_seconds": 3922
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 85,
+    "name": "Askew, Jayden",
+    "finish_time": "01:05:23",
+    "finish_seconds": 3923
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 87,
+    "name": "Lawford, Jeremy",
+    "finish_time": "01:05:28",
+    "finish_seconds": 3928
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 89,
+    "name": "Forde, Ryan",
+    "finish_time": "01:05:30",
+    "finish_seconds": 3930
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 91,
+    "name": "Phillips, Pat",
+    "finish_time": "01:05:38",
+    "finish_seconds": 3938
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 93,
+    "name": "Bell, Ryan",
+    "finish_time": "01:05:42",
+    "finish_seconds": 3942
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 95,
+    "name": "Gorman, Matt",
+    "finish_time": "01:05:45",
+    "finish_seconds": 3945
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 97,
+    "name": "Lopreiato, Onofrio",
+    "finish_time": "01:05:51",
+    "finish_seconds": 3951
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 99,
+    "name": "Duffy, Michael",
+    "finish_time": "01:05:53",
+    "finish_seconds": 3953
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 101,
+    "name": "Thompson, Luke",
+    "finish_time": "01:05:53",
+    "finish_seconds": 3953
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 103,
+    "name": "Faulkner, Matt",
+    "finish_time": "01:05:55",
+    "finish_seconds": 3955
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 105,
+    "name": "Henderson, Dylan",
+    "finish_time": "01:06:04",
+    "finish_seconds": 3964
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 107,
+    "name": "Boyle, Ciaran",
+    "finish_time": "01:06:08",
+    "finish_seconds": 3968
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 109,
+    "name": "Buncle, Adrian",
+    "finish_time": "01:06:12",
+    "finish_seconds": 3972
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 111,
+    "name": "Hunt, Matt",
+    "finish_time": "01:06:13",
+    "finish_seconds": 3973
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 113,
+    "name": "Earnshaw, Lachlan",
+    "finish_time": "01:06:16",
+    "finish_seconds": 3976
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 115,
+    "name": "Crozier, Matthew",
+    "finish_time": "01:06:20",
+    "finish_seconds": 3980
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 117,
+    "name": "Davidson, Myles",
+    "finish_time": "01:06:22",
+    "finish_seconds": 3982
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 119,
+    "name": "Pierce, Jackson",
+    "finish_time": "01:06:24",
+    "finish_seconds": 3984
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 121,
+    "name": "Mabon, Craig",
+    "finish_time": "01:06:27",
+    "finish_seconds": 3987
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 123,
+    "name": "Rada, Ben",
+    "finish_time": "01:06:29",
+    "finish_seconds": 3989
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 125,
+    "name": "Sherlock, Rhys",
+    "finish_time": "01:06:34",
+    "finish_seconds": 3994
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 127,
+    "name": "Fitzpatrick, Joshua",
+    "finish_time": "01:06:40",
+    "finish_seconds": 4000
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 129,
+    "name": "Berry, Andrew",
+    "finish_time": "01:06:46",
+    "finish_seconds": 4006
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 131,
+    "name": "Psarris, George",
+    "finish_time": "01:06:49",
+    "finish_seconds": 4009
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 133,
+    "name": "O Neill, Gary",
+    "finish_time": "01:07:01",
+    "finish_seconds": 4021
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 135,
+    "name": "Dorman, Conor",
+    "finish_time": "01:07:03",
+    "finish_seconds": 4023
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 137,
+    "name": "Rixson, Matthew",
+    "finish_time": "01:07:06",
+    "finish_seconds": 4026
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 139,
+    "name": "Duggen, Harry",
+    "finish_time": "01:07:11",
+    "finish_seconds": 4031
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 141,
+    "name": "Jones, Aurin",
+    "finish_time": "01:07:14",
+    "finish_seconds": 4034
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 143,
+    "name": "Adair, Luke",
+    "finish_time": "01:07:19",
+    "finish_seconds": 4039
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 145,
+    "name": "Kennedy-Young, Oliver",
+    "finish_time": "01:07:20",
+    "finish_seconds": 4040
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 147,
+    "name": "Brooks, Max",
+    "finish_time": "01:07:21",
+    "finish_seconds": 4041
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 149,
+    "name": "Bassom, Greg",
+    "finish_time": "01:07:24",
+    "finish_seconds": 4044
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 151,
+    "name": "Hinton, Sam",
+    "finish_time": "01:07:25",
+    "finish_seconds": 4045
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 153,
+    "name": "Price, Ryan",
+    "finish_time": "01:07:27",
+    "finish_seconds": 4047
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 155,
+    "name": "Cudmore, Connor",
+    "finish_time": "01:07:29",
+    "finish_seconds": 4049
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 157,
+    "name": "Foley-Smith, Conor",
+    "finish_time": "01:07:39",
+    "finish_seconds": 4059
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 159,
+    "name": "Day, Cameron",
+    "finish_time": "01:07:45",
+    "finish_seconds": 4065
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 161,
+    "name": "Claverie, Liam",
+    "finish_time": "01:07:49",
+    "finish_seconds": 4069
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 163,
+    "name": "Barr, Tom",
+    "finish_time": "01:07:51",
+    "finish_seconds": 4071
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 165,
+    "name": "De Brabander, Adam",
+    "finish_time": "01:07:54",
+    "finish_seconds": 4074
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 167,
+    "name": "Nel, Belthazer",
+    "finish_time": "01:07:57",
+    "finish_seconds": 4077
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 169,
+    "name": "Drabble, Will",
+    "finish_time": "01:07:57",
+    "finish_seconds": 4077
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 171,
+    "name": "Corbett, Cody",
+    "finish_time": "01:07:59",
+    "finish_seconds": 4079
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 173,
+    "name": "Burns, Hayden",
+    "finish_time": "01:08:01",
+    "finish_seconds": 4081
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 175,
+    "name": "Bui, Quynh",
+    "finish_time": "01:08:02",
+    "finish_seconds": 4082
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 177,
+    "name": "Bell, Oscar",
+    "finish_time": "01:08:06",
+    "finish_seconds": 4086
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 179,
+    "name": "Campbell, Thomas",
+    "finish_time": "01:08:12",
+    "finish_seconds": 4092
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 181,
+    "name": "Reynolds, Dave",
+    "finish_time": "01:08:17",
+    "finish_seconds": 4097
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 183,
+    "name": "Beesley, Roy",
+    "finish_time": "01:08:18",
+    "finish_seconds": 4098
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 185,
+    "name": "Membrey, Thomas",
+    "finish_time": "01:08:20",
+    "finish_seconds": 4100
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 187,
+    "name": "Kavanagh, Shaun",
+    "finish_time": "01:08:26",
+    "finish_seconds": 4106
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 189,
+    "name": "Farnfield, Andy",
+    "finish_time": "01:08:32",
+    "finish_seconds": 4112
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 191,
+    "name": "Gallagher, Brandon",
+    "finish_time": "01:08:32",
+    "finish_seconds": 4112
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 193,
+    "name": "Mcshane, Declan",
+    "finish_time": "01:08:35",
+    "finish_seconds": 4115
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 195,
+    "name": "Lightfoot-Brown, Max",
+    "finish_time": "01:08:36",
+    "finish_seconds": 4116
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 197,
+    "name": "Brown, Daniel",
+    "finish_time": "01:08:39",
+    "finish_seconds": 4119
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 199,
+    "name": "Padberg, Marco",
+    "finish_time": "01:08:41",
+    "finish_seconds": 4121
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 201,
+    "name": "Stenner, Toddy",
+    "finish_time": "01:08:46",
+    "finish_seconds": 4126
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 203,
+    "name": "Dereu, Tim",
+    "finish_time": "01:08:46",
+    "finish_seconds": 4126
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 205,
+    "name": "Schipplock, Jayden",
+    "finish_time": "01:08:50",
+    "finish_seconds": 4130
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 207,
+    "name": "Beattie, Christopher",
+    "finish_time": "01:08:52",
+    "finish_seconds": 4132
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 209,
+    "name": "Illig, Louis",
+    "finish_time": "01:09:03",
+    "finish_seconds": 4143
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 211,
+    "name": "Aikman, Joe",
+    "finish_time": "01:09:05",
+    "finish_seconds": 4145
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 213,
+    "name": "Talbot, Damian",
+    "finish_time": "01:09:07",
+    "finish_seconds": 4147
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 215,
+    "name": "Eales, Andrew",
+    "finish_time": "01:09:14",
+    "finish_seconds": 4154
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 217,
+    "name": "Kennedy, Jake",
+    "finish_time": "01:09:15",
+    "finish_seconds": 4155
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 219,
+    "name": "Brace, Bob",
+    "finish_time": "01:09:16",
+    "finish_seconds": 4156
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 221,
+    "name": "Fagan, Conor",
+    "finish_time": "01:09:18",
+    "finish_seconds": 4158
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 223,
+    "name": "Loughran, Peter",
+    "finish_time": "01:09:22",
+    "finish_seconds": 4162
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 225,
+    "name": "Mcatamney, David",
+    "finish_time": "01:09:28",
+    "finish_seconds": 4168
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 227,
+    "name": "Brough, Corey",
+    "finish_time": "01:09:31",
+    "finish_seconds": 4171
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 229,
+    "name": "Longstaff, Owen",
+    "finish_time": "01:09:33",
+    "finish_seconds": 4173
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 231,
+    "name": "Ewing, Brandon",
+    "finish_time": "01:09:37",
+    "finish_seconds": 4177
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 233,
+    "name": "Maher, Karl",
+    "finish_time": "01:09:39",
+    "finish_seconds": 4179
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 235,
+    "name": "Schmitt, Joseph",
+    "finish_time": "01:09:43",
+    "finish_seconds": 4183
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 237,
+    "name": "Rollier, Gabriel",
+    "finish_time": "01:09:46",
+    "finish_seconds": 4186
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 239,
+    "name": "Pallpratt, Jason",
+    "finish_time": "01:09:51",
+    "finish_seconds": 4191
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 241,
+    "name": "Gourdon, Thomas",
+    "finish_time": "01:09:54",
+    "finish_seconds": 4194
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 243,
+    "name": "Barnes, Frederick",
+    "finish_time": "01:09:57",
+    "finish_seconds": 4197
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 245,
+    "name": "Fleming, Shannon",
+    "finish_time": "01:09:58",
+    "finish_seconds": 4198
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 247,
+    "name": "Trim, Mitchell",
+    "finish_time": "01:10:01",
+    "finish_seconds": 4201
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 249,
+    "name": "Gasparroni, Michael",
+    "finish_time": "01:10:02",
+    "finish_seconds": 4202
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 251,
+    "name": "Woolner, Rob",
+    "finish_time": "01:10:05",
+    "finish_seconds": 4205
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 253,
+    "name": "Beecher, Justin",
+    "finish_time": "01:10:07",
+    "finish_seconds": 4207
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 255,
+    "name": "Russell, Jordan",
+    "finish_time": "01:10:14",
+    "finish_seconds": 4214
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 257,
+    "name": "Boundy, Aaron",
+    "finish_time": "01:10:17",
+    "finish_seconds": 4217
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 259,
+    "name": "Mayers, Ben",
+    "finish_time": "01:10:20",
+    "finish_seconds": 4220
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 261,
+    "name": "Gudelj, Luka",
+    "finish_time": "01:10:28",
+    "finish_seconds": 4228
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 263,
+    "name": "Mudge, Jordan",
+    "finish_time": "01:10:33",
+    "finish_seconds": 4233
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 265,
+    "name": "Atkinson, Neil",
+    "finish_time": "01:10:37",
+    "finish_seconds": 4237
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 267,
+    "name": "Kenna, Lachlan",
+    "finish_time": "01:10:44",
+    "finish_seconds": 4244
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 269,
+    "name": "Cond\u00fan, Kevin",
+    "finish_time": "01:10:47",
+    "finish_seconds": 4247
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 271,
+    "name": "Tester, Samuel",
+    "finish_time": "01:10:50",
+    "finish_seconds": 4250
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 273,
+    "name": "Pankhurst, Harrison",
+    "finish_time": "01:10:52",
+    "finish_seconds": 4252
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 275,
+    "name": "Moss, Jai",
+    "finish_time": "01:10:55",
+    "finish_seconds": 4255
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 277,
+    "name": "Patten, Shane",
+    "finish_time": "01:11:00",
+    "finish_seconds": 4260
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 279,
+    "name": "Mandeville, Sam",
+    "finish_time": "01:11:05",
+    "finish_seconds": 4265
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 281,
+    "name": "Vevers, Rory",
+    "finish_time": "01:11:08",
+    "finish_seconds": 4268
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 283,
+    "name": "Blackborough, Mitchell",
+    "finish_time": "01:11:11",
+    "finish_seconds": 4271
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 285,
+    "name": "Ciuffetelli, Adrian",
+    "finish_time": "01:11:14",
+    "finish_seconds": 4274
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 287,
+    "name": "Hutcheson, Ryan",
+    "finish_time": "01:11:15",
+    "finish_seconds": 4275
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 289,
+    "name": "Tregub, Sergii",
+    "finish_time": "01:11:16",
+    "finish_seconds": 4276
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 291,
+    "name": "Toigo, Dylan",
+    "finish_time": "01:11:20",
+    "finish_seconds": 4280
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 293,
+    "name": "Hotchkis, Matthew",
+    "finish_time": "01:11:21",
+    "finish_seconds": 4281
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 295,
+    "name": "Stephen, Rory",
+    "finish_time": "01:11:22",
+    "finish_seconds": 4282
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 297,
+    "name": "Rowe, Jonny",
+    "finish_time": "01:11:26",
+    "finish_seconds": 4286
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 299,
+    "name": "Grant, Joshua",
+    "finish_time": "01:11:31",
+    "finish_seconds": 4291
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 301,
+    "name": "Donnelly, Richard",
+    "finish_time": "01:11:33",
+    "finish_seconds": 4293
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 303,
+    "name": "Wood, Joseph",
+    "finish_time": "01:11:39",
+    "finish_seconds": 4299
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 305,
+    "name": "Sly, Cameron",
+    "finish_time": "01:11:45",
+    "finish_seconds": 4305
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 307,
+    "name": "Arnido, Romeo",
+    "finish_time": "01:11:51",
+    "finish_seconds": 4311
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 309,
+    "name": "Kilkelly, Ronan",
+    "finish_time": "01:11:52",
+    "finish_seconds": 4312
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 311,
+    "name": "Solomon, Bryn",
+    "finish_time": "01:11:56",
+    "finish_seconds": 4316
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 313,
+    "name": "Pace, Mark",
+    "finish_time": "01:12:00",
+    "finish_seconds": 4320
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 315,
+    "name": "Holmes, Thomas",
+    "finish_time": "01:12:02",
+    "finish_seconds": 4322
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 317,
+    "name": "Pollard, Brent",
+    "finish_time": "01:12:06",
+    "finish_seconds": 4326
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 319,
+    "name": "Kendall, Steve",
+    "finish_time": "01:12:08",
+    "finish_seconds": 4328
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 321,
+    "name": "Hugill, Ryan",
+    "finish_time": "01:12:09",
+    "finish_seconds": 4329
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 323,
+    "name": "Schembri, Michael",
+    "finish_time": "01:12:11",
+    "finish_seconds": 4331
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 325,
+    "name": "Sheehan, Jaxon",
+    "finish_time": "01:12:11",
+    "finish_seconds": 4331
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 327,
+    "name": "Pyke, Brett",
+    "finish_time": "01:12:16",
+    "finish_seconds": 4336
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 329,
+    "name": "Rodrigues, Bruno",
+    "finish_time": "01:12:17",
+    "finish_seconds": 4337
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 331,
+    "name": "Colless, Sam",
+    "finish_time": "01:12:19",
+    "finish_seconds": 4339
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 333,
+    "name": "Cunningham, Aiden",
+    "finish_time": "01:12:20",
+    "finish_seconds": 4340
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 335,
+    "name": "Cawley, Daniel",
+    "finish_time": "01:12:22",
+    "finish_seconds": 4342
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 337,
+    "name": "Barrie, Brock",
+    "finish_time": "01:12:26",
+    "finish_seconds": 4346
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 339,
+    "name": "Keebaugh, Ezra",
+    "finish_time": "01:12:28",
+    "finish_seconds": 4348
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 341,
+    "name": "Montgomery, Jarrod",
+    "finish_time": "01:12:30",
+    "finish_seconds": 4350
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 343,
+    "name": "Tilders, Lachlan",
+    "finish_time": "01:12:30",
+    "finish_seconds": 4350
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 345,
+    "name": "Bowden, Reece",
+    "finish_time": "01:12:33",
+    "finish_seconds": 4353
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 347,
+    "name": "O'Connell, Joshua",
+    "finish_time": "01:12:34",
+    "finish_seconds": 4354
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 349,
+    "name": "Mortlock, Daniel",
+    "finish_time": "01:12:36",
+    "finish_seconds": 4356
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 351,
+    "name": "Begg, Oliver",
+    "finish_time": "01:12:37",
+    "finish_seconds": 4357
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 353,
+    "name": "Dominello, Joshua",
+    "finish_time": "01:12:38",
+    "finish_seconds": 4358
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 355,
+    "name": "Milross-Rose, Samuel",
+    "finish_time": "01:12:39",
+    "finish_seconds": 4359
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 357,
+    "name": "Ringuet, Liam",
+    "finish_time": "01:12:41",
+    "finish_seconds": 4361
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 359,
+    "name": "Laws, Nick",
+    "finish_time": "01:12:45",
+    "finish_seconds": 4365
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 361,
+    "name": "Page, Stuart",
+    "finish_time": "01:12:47",
+    "finish_seconds": 4367
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 363,
+    "name": "Driussi, Cristian",
+    "finish_time": "01:12:50",
+    "finish_seconds": 4370
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 365,
+    "name": "French, Adam",
+    "finish_time": "01:12:54",
+    "finish_seconds": 4374
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 367,
+    "name": "Teo, Joshua",
+    "finish_time": "01:12:55",
+    "finish_seconds": 4375
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 369,
+    "name": "Dickie, Jaime",
+    "finish_time": "01:12:57",
+    "finish_seconds": 4377
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 371,
+    "name": "Mchugh, Robert",
+    "finish_time": "01:13:02",
+    "finish_seconds": 4382
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 373,
+    "name": "Hannah, Jake",
+    "finish_time": "01:13:03",
+    "finish_seconds": 4383
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 375,
+    "name": "Chapman, Kurt",
+    "finish_time": "01:13:07",
+    "finish_seconds": 4387
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 377,
+    "name": "Connor, Lorcan",
+    "finish_time": "01:13:12",
+    "finish_seconds": 4392
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 379,
+    "name": "Pollock, Jordan",
+    "finish_time": "01:13:14",
+    "finish_seconds": 4394
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 381,
+    "name": "Quesada Salar, I\u00f1aki",
+    "finish_time": "01:13:18",
+    "finish_seconds": 4398
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 383,
+    "name": "Care, Samuel",
+    "finish_time": "01:13:19",
+    "finish_seconds": 4399
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 385,
+    "name": "Fadeli, Jonathan",
+    "finish_time": "01:13:21",
+    "finish_seconds": 4401
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 387,
+    "name": "Johnson, Luca",
+    "finish_time": "01:13:22",
+    "finish_seconds": 4402
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 389,
+    "name": "Hughes, Sam",
+    "finish_time": "01:13:25",
+    "finish_seconds": 4405
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 391,
+    "name": "Deplanque, Andreas",
+    "finish_time": "01:13:28",
+    "finish_seconds": 4408
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 393,
+    "name": "Latu, Sione",
+    "finish_time": "01:13:34",
+    "finish_seconds": 4414
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 395,
+    "name": "O'Hanlon, Matthew",
+    "finish_time": "01:13:34",
+    "finish_seconds": 4414
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 397,
+    "name": "Riley, Luke",
+    "finish_time": "01:13:37",
+    "finish_seconds": 4417
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 399,
+    "name": "Bain, Alexander",
+    "finish_time": "01:13:39",
+    "finish_seconds": 4419
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 401,
+    "name": "O'Brien, Damian",
+    "finish_time": "01:13:42",
+    "finish_seconds": 4422
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 403,
+    "name": "Pennington, Stewart",
+    "finish_time": "01:13:45",
+    "finish_seconds": 4425
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 405,
+    "name": "Mosdell, Levon",
+    "finish_time": "01:13:50",
+    "finish_seconds": 4430
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 407,
+    "name": "Bingley, Tom",
+    "finish_time": "01:13:53",
+    "finish_seconds": 4433
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 409,
+    "name": "Valeri, Adrian",
+    "finish_time": "01:13:56",
+    "finish_seconds": 4436
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 411,
+    "name": "Brown, Haydon",
+    "finish_time": "01:13:57",
+    "finish_seconds": 4437
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 413,
+    "name": "Nicoll, Charles",
+    "finish_time": "01:13:59",
+    "finish_seconds": 4439
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 415,
+    "name": "Wijn, Geert",
+    "finish_time": "01:13:59",
+    "finish_seconds": 4439
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 417,
+    "name": "Franks, Leigh",
+    "finish_time": "01:14:00",
+    "finish_seconds": 4440
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 419,
+    "name": "Harris, Steve",
+    "finish_time": "01:14:05",
+    "finish_seconds": 4445
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 421,
+    "name": "Perkins, Ben",
+    "finish_time": "01:14:09",
+    "finish_seconds": 4449
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 423,
+    "name": "Coller, Harry",
+    "finish_time": "01:14:12",
+    "finish_seconds": 4452
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 425,
+    "name": "Browne, Oliver",
+    "finish_time": "01:14:13",
+    "finish_seconds": 4453
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 427,
+    "name": "Bongiovanni, Louis",
+    "finish_time": "01:14:13",
+    "finish_seconds": 4453
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 429,
+    "name": "Mciver, Matthew",
+    "finish_time": "01:14:16",
+    "finish_seconds": 4456
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 431,
+    "name": "Giltrap, Liam",
+    "finish_time": "01:14:18",
+    "finish_seconds": 4458
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 433,
+    "name": "Harris, Josh",
+    "finish_time": "01:14:18",
+    "finish_seconds": 4458
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 435,
+    "name": "Jensen, Thomas",
+    "finish_time": "01:14:21",
+    "finish_seconds": 4461
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 437,
+    "name": "Mcfarlane, Ian",
+    "finish_time": "01:14:25",
+    "finish_seconds": 4465
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 439,
+    "name": "Davies, Edan",
+    "finish_time": "01:14:27",
+    "finish_seconds": 4467
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 441,
+    "name": "Goody, Karl",
+    "finish_time": "01:14:30",
+    "finish_seconds": 4470
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 443,
+    "name": "O\u2019Neill, Niall",
+    "finish_time": "01:14:35",
+    "finish_seconds": 4475
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 445,
+    "name": "O\u2019Connell, Cal",
+    "finish_time": "01:14:39",
+    "finish_seconds": 4479
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 447,
+    "name": "Frank, Gus",
+    "finish_time": "01:14:41",
+    "finish_seconds": 4481
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 449,
+    "name": "Rogers, Ben",
+    "finish_time": "01:14:41",
+    "finish_seconds": 4481
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 451,
+    "name": "Howpage, Sajith",
+    "finish_time": "01:14:52",
+    "finish_seconds": 4492
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 453,
+    "name": "Duggan, Ben",
+    "finish_time": "01:14:57",
+    "finish_seconds": 4497
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 455,
+    "name": "Lillicrap, Angus",
+    "finish_time": "01:15:00",
+    "finish_seconds": 4500
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 457,
+    "name": "Broderick, Gavin",
+    "finish_time": "01:15:02",
+    "finish_seconds": 4502
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 459,
+    "name": "Thorne, Malcolm",
+    "finish_time": "01:15:03",
+    "finish_seconds": 4503
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 461,
+    "name": "Cannard, Tim",
+    "finish_time": "01:15:06",
+    "finish_seconds": 4506
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 463,
+    "name": "Iva, Alfred",
+    "finish_time": "01:15:08",
+    "finish_seconds": 4508
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 465,
+    "name": "Shalhoub, Tarquin",
+    "finish_time": "01:15:09",
+    "finish_seconds": 4509
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 467,
+    "name": "Lopez, Daniel",
+    "finish_time": "01:15:10",
+    "finish_seconds": 4510
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 469,
+    "name": "Faragher, Ethan",
+    "finish_time": "01:15:13",
+    "finish_seconds": 4513
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 471,
+    "name": "Mcanenly, Pauric",
+    "finish_time": "01:15:15",
+    "finish_seconds": 4515
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 473,
+    "name": "Kerr, Jared",
+    "finish_time": "01:15:17",
+    "finish_seconds": 4517
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 475,
+    "name": "Ball, Mason",
+    "finish_time": "01:15:18",
+    "finish_seconds": 4518
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 477,
+    "name": "Caronna, Giuseppe",
+    "finish_time": "01:15:20",
+    "finish_seconds": 4520
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 479,
+    "name": "Livesley, Kale",
+    "finish_time": "01:15:21",
+    "finish_seconds": 4521
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 481,
+    "name": "Robertshaw, Joe",
+    "finish_time": "01:15:22",
+    "finish_seconds": 4522
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 483,
+    "name": "Freedman, Jake",
+    "finish_time": "01:15:25",
+    "finish_seconds": 4525
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 485,
+    "name": "Morgan, David",
+    "finish_time": "01:15:28",
+    "finish_seconds": 4528
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 487,
+    "name": "Prospero, Raymond",
+    "finish_time": "01:15:29",
+    "finish_seconds": 4529
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 489,
+    "name": "Augustyniak, Bart",
+    "finish_time": "01:15:31",
+    "finish_seconds": 4531
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 491,
+    "name": "Wood, Nick",
+    "finish_time": "01:15:32",
+    "finish_seconds": 4532
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 493,
+    "name": "Chaffey, Chris",
+    "finish_time": "01:15:35",
+    "finish_seconds": 4535
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 495,
+    "name": "Thompson, Ben",
+    "finish_time": "01:15:42",
+    "finish_seconds": 4542
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 497,
+    "name": "Harper, Toby",
+    "finish_time": "01:15:45",
+    "finish_seconds": 4545
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 499,
+    "name": "Kaal, Thomas",
+    "finish_time": "01:15:45",
+    "finish_seconds": 4545
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 501,
+    "name": "Simpson, Neville",
+    "finish_time": "01:15:47",
+    "finish_seconds": 4547
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 503,
+    "name": "Goadby, Joshua",
+    "finish_time": "01:15:51",
+    "finish_seconds": 4551
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 505,
+    "name": "Ferguson, Calum",
+    "finish_time": "01:15:54",
+    "finish_seconds": 4554
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 507,
+    "name": "Pohl, Jamie",
+    "finish_time": "01:15:57",
+    "finish_seconds": 4557
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 509,
+    "name": "Gardner, Liam",
+    "finish_time": "01:15:58",
+    "finish_seconds": 4558
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 511,
+    "name": "Carwell-Cooke, Simon",
+    "finish_time": "01:15:59",
+    "finish_seconds": 4559
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 513,
+    "name": "Campbell, Chris",
+    "finish_time": "01:16:03",
+    "finish_seconds": 4563
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 515,
+    "name": "O'Halloran, Nick",
+    "finish_time": "01:16:05",
+    "finish_seconds": 4565
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 517,
+    "name": "Mattiello, Jason",
+    "finish_time": "01:16:09",
+    "finish_seconds": 4569
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 519,
+    "name": "Bourne, Alex",
+    "finish_time": "01:16:11",
+    "finish_seconds": 4571
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 521,
+    "name": "Rahme, Mark",
+    "finish_time": "01:16:14",
+    "finish_seconds": 4574
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 523,
+    "name": "Theil, Jesse",
+    "finish_time": "01:16:17",
+    "finish_seconds": 4577
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 525,
+    "name": "Brewster, Michael",
+    "finish_time": "01:16:18",
+    "finish_seconds": 4578
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 527,
+    "name": "Barning, Samuel",
+    "finish_time": "01:16:20",
+    "finish_seconds": 4580
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 529,
+    "name": "Silva, Mark",
+    "finish_time": "01:16:22",
+    "finish_seconds": 4582
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 531,
+    "name": "Pisano, David",
+    "finish_time": "01:16:23",
+    "finish_seconds": 4583
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 533,
+    "name": "Fagan, Elliot",
+    "finish_time": "01:16:29",
+    "finish_seconds": 4589
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 535,
+    "name": "Miquel, Cedric",
+    "finish_time": "01:16:30",
+    "finish_seconds": 4590
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 537,
+    "name": "Cosgrove, Liam",
+    "finish_time": "01:16:32",
+    "finish_seconds": 4592
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 539,
+    "name": "Pinero, Kyle",
+    "finish_time": "01:16:38",
+    "finish_seconds": 4598
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 541,
+    "name": "Pallone, Austin",
+    "finish_time": "01:16:41",
+    "finish_seconds": 4601
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 543,
+    "name": "Davy, Jayden",
+    "finish_time": "01:16:43",
+    "finish_seconds": 4603
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 545,
+    "name": "Tran, Hiep",
+    "finish_time": "01:16:45",
+    "finish_seconds": 4605
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 547,
+    "name": "Invernon, Jason",
+    "finish_time": "01:16:46",
+    "finish_seconds": 4606
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 549,
+    "name": "Searston, John",
+    "finish_time": "01:16:48",
+    "finish_seconds": 4608
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 551,
+    "name": "Gribben, Sam",
+    "finish_time": "01:16:54",
+    "finish_seconds": 4614
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 553,
+    "name": "Cussen, Micheal",
+    "finish_time": "01:16:58",
+    "finish_seconds": 4618
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 555,
+    "name": "Stone, John",
+    "finish_time": "01:16:59",
+    "finish_seconds": 4619
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 557,
+    "name": "Tam, Ryan",
+    "finish_time": "01:17:05",
+    "finish_seconds": 4625
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 559,
+    "name": "O\u2019Hanlon, Jamie",
+    "finish_time": "01:17:07",
+    "finish_seconds": 4627
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 561,
+    "name": "Millard, Robert",
+    "finish_time": "01:17:09",
+    "finish_seconds": 4629
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 563,
+    "name": "Dettman, Stuart",
+    "finish_time": "01:17:10",
+    "finish_seconds": 4630
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 565,
+    "name": "Carrozza, Joshua",
+    "finish_time": "01:17:11",
+    "finish_seconds": 4631
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 567,
+    "name": "Nestorovic, Stefan",
+    "finish_time": "01:17:13",
+    "finish_seconds": 4633
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 569,
+    "name": "Pumati, Toru",
+    "finish_time": "01:17:17",
+    "finish_seconds": 4637
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 571,
+    "name": "Webb, Tareha",
+    "finish_time": "01:17:26",
+    "finish_seconds": 4646
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 573,
+    "name": "Collins, Ben",
+    "finish_time": "01:17:28",
+    "finish_seconds": 4648
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 575,
+    "name": "Halangahu, Alex-He-Ofa",
+    "finish_time": "01:17:28",
+    "finish_seconds": 4648
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 577,
+    "name": "Crudden, Mark",
+    "finish_time": "01:17:31",
+    "finish_seconds": 4651
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 579,
+    "name": "Cosgrove, Shane",
+    "finish_time": "01:17:32",
+    "finish_seconds": 4652
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 581,
+    "name": "Quigley, Pete",
+    "finish_time": "01:17:35",
+    "finish_seconds": 4655
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 583,
+    "name": "Pl\u00e1cido Moreira, Bern",
+    "finish_time": "01:17:36",
+    "finish_seconds": 4656
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 585,
+    "name": "Hall, Koby",
+    "finish_time": "01:17:38",
+    "finish_seconds": 4658
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 587,
+    "name": "O\u2019Shaughnessy, Ryan",
+    "finish_time": "01:17:41",
+    "finish_seconds": 4661
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 589,
+    "name": "Fuller, Brett",
+    "finish_time": "01:17:42",
+    "finish_seconds": 4662
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 591,
+    "name": "Tamati, Levi",
+    "finish_time": "01:17:44",
+    "finish_seconds": 4664
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 593,
+    "name": "Hill, Tom",
+    "finish_time": "01:17:46",
+    "finish_seconds": 4666
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 595,
+    "name": "Malavisi, Julian",
+    "finish_time": "01:17:49",
+    "finish_seconds": 4669
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 597,
+    "name": "Bucholtz, Jake",
+    "finish_time": "01:17:59",
+    "finish_seconds": 4679
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 599,
+    "name": "Crompton, Matthew",
+    "finish_time": "01:18:02",
+    "finish_seconds": 4682
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 601,
+    "name": "Earwaker, Declan",
+    "finish_time": "01:18:03",
+    "finish_seconds": 4683
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 603,
+    "name": "Austin, Liam",
+    "finish_time": "01:18:05",
+    "finish_seconds": 4685
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 605,
+    "name": "James, Stefan",
+    "finish_time": "01:18:14",
+    "finish_seconds": 4694
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 607,
+    "name": "Hobbs, Nathan",
+    "finish_time": "01:18:15",
+    "finish_seconds": 4695
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 609,
+    "name": "Cowdell, Scott",
+    "finish_time": "01:18:16",
+    "finish_seconds": 4696
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 611,
+    "name": "Goode, Tim",
+    "finish_time": "01:18:17",
+    "finish_seconds": 4697
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 613,
+    "name": "Penning, Adam",
+    "finish_time": "01:18:19",
+    "finish_seconds": 4699
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 615,
+    "name": "Loh, Ivan",
+    "finish_time": "01:18:20",
+    "finish_seconds": 4700
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 617,
+    "name": "Arcuri, Daniel",
+    "finish_time": "01:18:26",
+    "finish_seconds": 4706
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 619,
+    "name": "Porter, Curtis",
+    "finish_time": "01:18:28",
+    "finish_seconds": 4708
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 621,
+    "name": "Wilkins, Matthew",
+    "finish_time": "01:18:31",
+    "finish_seconds": 4711
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 623,
+    "name": "Sheppard, Peter",
+    "finish_time": "01:18:33",
+    "finish_seconds": 4713
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 625,
+    "name": "Blackborough, Alexander",
+    "finish_time": "01:18:35",
+    "finish_seconds": 4715
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 627,
+    "name": "Stamoulis, Peter",
+    "finish_time": "01:18:39",
+    "finish_seconds": 4719
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 629,
+    "name": "Macdonald, Blake",
+    "finish_time": "01:18:41",
+    "finish_seconds": 4721
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 631,
+    "name": "Howard, Ben",
+    "finish_time": "01:18:42",
+    "finish_seconds": 4722
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 633,
+    "name": "Chatain, Alex",
+    "finish_time": "01:18:46",
+    "finish_seconds": 4726
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 635,
+    "name": "Brophy, Conor",
+    "finish_time": "01:18:48",
+    "finish_seconds": 4728
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 637,
+    "name": "Chilmaid, Kyron",
+    "finish_time": "01:18:48",
+    "finish_seconds": 4728
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 639,
+    "name": "Ng, Laurent",
+    "finish_time": "01:18:52",
+    "finish_seconds": 4732
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 641,
+    "name": "Mcphee, Rob",
+    "finish_time": "01:18:58",
+    "finish_seconds": 4738
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 643,
+    "name": "Butler, Dale",
+    "finish_time": "01:18:59",
+    "finish_seconds": 4739
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 645,
+    "name": "Mccaughey, Chris",
+    "finish_time": "01:19:03",
+    "finish_seconds": 4743
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 647,
+    "name": "Mahara, Wiri",
+    "finish_time": "01:19:06",
+    "finish_seconds": 4746
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 649,
+    "name": "Maserow, Jad",
+    "finish_time": "01:19:15",
+    "finish_seconds": 4755
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 651,
+    "name": "Glymin, Kiti",
+    "finish_time": "01:19:17",
+    "finish_seconds": 4757
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 653,
+    "name": "Tortorella, Rheace",
+    "finish_time": "01:19:17",
+    "finish_seconds": 4757
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 655,
+    "name": "Mulligan, Greg",
+    "finish_time": "01:19:20",
+    "finish_seconds": 4760
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 657,
+    "name": "Halstead, Andy",
+    "finish_time": "01:19:24",
+    "finish_seconds": 4764
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 659,
+    "name": "Maffett, Campbell",
+    "finish_time": "01:19:26",
+    "finish_seconds": 4766
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 661,
+    "name": "Mcbride, Thomas",
+    "finish_time": "01:19:31",
+    "finish_seconds": 4771
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 663,
+    "name": "Appleton, Tom",
+    "finish_time": "01:19:32",
+    "finish_seconds": 4772
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 665,
+    "name": "Sazenis, Matt",
+    "finish_time": "01:19:35",
+    "finish_seconds": 4775
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 667,
+    "name": "Adams, Clint",
+    "finish_time": "01:19:41",
+    "finish_seconds": 4781
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 669,
+    "name": "Davis, Steven",
+    "finish_time": "01:19:43",
+    "finish_seconds": 4783
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 671,
+    "name": "Keane, Andrew",
+    "finish_time": "01:19:43",
+    "finish_seconds": 4783
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 673,
+    "name": "Thomas, David",
+    "finish_time": "01:19:47",
+    "finish_seconds": 4787
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 675,
+    "name": "Collins, Kal",
+    "finish_time": "01:19:47",
+    "finish_seconds": 4787
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 677,
+    "name": "Connolly, Daniel",
+    "finish_time": "01:19:49",
+    "finish_seconds": 4789
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 679,
+    "name": "Hewett, Joshua",
+    "finish_time": "01:19:51",
+    "finish_seconds": 4791
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 681,
+    "name": "Ranjit, Ashrey",
+    "finish_time": "01:19:53",
+    "finish_seconds": 4793
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 683,
+    "name": "Cufflin, Samuel",
+    "finish_time": "01:19:54",
+    "finish_seconds": 4794
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 685,
+    "name": "Slack-Smith, Ned",
+    "finish_time": "01:19:57",
+    "finish_seconds": 4797
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 687,
+    "name": "Benson, Harry",
+    "finish_time": "01:20:00",
+    "finish_seconds": 4800
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 689,
+    "name": "Edwards, Shayne",
+    "finish_time": "01:20:05",
+    "finish_seconds": 4805
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 691,
+    "name": "Dorsett, Anthony",
+    "finish_time": "01:20:05",
+    "finish_seconds": 4805
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 693,
+    "name": "Kelly, Joseph",
+    "finish_time": "01:20:07",
+    "finish_seconds": 4807
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 695,
+    "name": "Devine, Garry",
+    "finish_time": "01:20:11",
+    "finish_seconds": 4811
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 697,
+    "name": "Maddern, Patrick",
+    "finish_time": "01:20:15",
+    "finish_seconds": 4815
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 699,
+    "name": "Smolianinov, Sergey",
+    "finish_time": "01:20:17",
+    "finish_seconds": 4817
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 701,
+    "name": "Elder, Justin",
+    "finish_time": "01:20:17",
+    "finish_seconds": 4817
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 703,
+    "name": "Sgro, Giovanni",
+    "finish_time": "01:20:19",
+    "finish_seconds": 4819
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 705,
+    "name": "Cachia, John",
+    "finish_time": "01:20:20",
+    "finish_seconds": 4820
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 707,
+    "name": "Lowry, David",
+    "finish_time": "01:20:26",
+    "finish_seconds": 4826
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 709,
+    "name": "Makea, Campbell",
+    "finish_time": "01:20:27",
+    "finish_seconds": 4827
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 711,
+    "name": "Kingston, Cian",
+    "finish_time": "01:20:29",
+    "finish_seconds": 4829
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 713,
+    "name": "Robins, Forrest",
+    "finish_time": "01:20:32",
+    "finish_seconds": 4832
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 715,
+    "name": "Shaw, Andy",
+    "finish_time": "01:20:33",
+    "finish_seconds": 4833
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 717,
+    "name": "Frykberg, Erik",
+    "finish_time": "01:20:34",
+    "finish_seconds": 4834
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 719,
+    "name": "Russignan, Shayne",
+    "finish_time": "01:20:34",
+    "finish_seconds": 4834
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 721,
+    "name": "Jones, Steve",
+    "finish_time": "01:20:35",
+    "finish_seconds": 4835
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 723,
+    "name": "Buckley, Eoghan",
+    "finish_time": "01:20:36",
+    "finish_seconds": 4836
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 725,
+    "name": "Hemopo, Nikki",
+    "finish_time": "01:20:41",
+    "finish_seconds": 4841
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 727,
+    "name": "Camuglia, Ross",
+    "finish_time": "01:20:47",
+    "finish_seconds": 4847
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 729,
+    "name": "Dark, Digger",
+    "finish_time": "01:20:53",
+    "finish_seconds": 4853
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 731,
+    "name": "Hasell, Scott",
+    "finish_time": "01:20:56",
+    "finish_seconds": 4856
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 733,
+    "name": "Marshall, Billy",
+    "finish_time": "01:20:58",
+    "finish_seconds": 4858
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 735,
+    "name": "Phillpot, Ryan",
+    "finish_time": "01:21:00",
+    "finish_seconds": 4860
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 737,
+    "name": "Currinckx, Daniel",
+    "finish_time": "01:21:04",
+    "finish_seconds": 4864
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 739,
+    "name": "Harpur, Tim",
+    "finish_time": "01:21:06",
+    "finish_seconds": 4866
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 741,
+    "name": "Mathieson, Samuel",
+    "finish_time": "01:21:08",
+    "finish_seconds": 4868
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 743,
+    "name": "Giraldo Ocampo, Jacob",
+    "finish_time": "01:21:13",
+    "finish_seconds": 4873
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 745,
+    "name": "Morrissey, Lennie",
+    "finish_time": "01:21:18",
+    "finish_seconds": 4878
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 747,
+    "name": "Knox, Matthew",
+    "finish_time": "01:21:20",
+    "finish_seconds": 4880
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 749,
+    "name": "Nicholson, Chris",
+    "finish_time": "01:21:25",
+    "finish_seconds": 4885
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 751,
+    "name": "Jarvis, Liam",
+    "finish_time": "01:21:27",
+    "finish_seconds": 4887
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 753,
+    "name": "Staunton, Bill",
+    "finish_time": "01:21:30",
+    "finish_seconds": 4890
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 755,
+    "name": "Atchison, James",
+    "finish_time": "01:21:36",
+    "finish_seconds": 4896
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 757,
+    "name": "Van Dooren, Erik",
+    "finish_time": "01:21:41",
+    "finish_seconds": 4901
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 759,
+    "name": "Kim, Han",
+    "finish_time": "01:21:44",
+    "finish_seconds": 4904
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 761,
+    "name": "Prosser, Aden",
+    "finish_time": "01:21:45",
+    "finish_seconds": 4905
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 763,
+    "name": "Langham, Jake",
+    "finish_time": "01:21:47",
+    "finish_seconds": 4907
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 765,
+    "name": "Hodgins, Philip",
+    "finish_time": "01:21:48",
+    "finish_seconds": 4908
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 767,
+    "name": "Mcsweeney, Seamus",
+    "finish_time": "01:21:53",
+    "finish_seconds": 4913
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 769,
+    "name": "Tran, Michael",
+    "finish_time": "01:21:55",
+    "finish_seconds": 4915
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 771,
+    "name": "Egan, Ryan",
+    "finish_time": "01:21:55",
+    "finish_seconds": 4915
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 773,
+    "name": "Flanagan, Taylan",
+    "finish_time": "01:21:56",
+    "finish_seconds": 4916
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 775,
+    "name": "De Jager, Michael",
+    "finish_time": "01:21:58",
+    "finish_seconds": 4918
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 777,
+    "name": "Davies, Nicholas",
+    "finish_time": "01:21:59",
+    "finish_seconds": 4919
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 779,
+    "name": "Williams, Jarrad",
+    "finish_time": "01:22:02",
+    "finish_seconds": 4922
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 781,
+    "name": "Hansen, Robin",
+    "finish_time": "01:22:02",
+    "finish_seconds": 4922
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 783,
+    "name": "Oldfield, Sam",
+    "finish_time": "01:22:04",
+    "finish_seconds": 4924
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 785,
+    "name": "Chamberlain, Jason",
+    "finish_time": "01:22:07",
+    "finish_seconds": 4927
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 787,
+    "name": "Fuller, Darryn",
+    "finish_time": "01:22:08",
+    "finish_seconds": 4928
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 789,
+    "name": "Bosly, Scott",
+    "finish_time": "01:22:12",
+    "finish_seconds": 4932
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 791,
+    "name": "Reilly, Dylan",
+    "finish_time": "01:22:13",
+    "finish_seconds": 4933
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 793,
+    "name": "Graham, Sean",
+    "finish_time": "01:22:17",
+    "finish_seconds": 4937
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 795,
+    "name": "Thorne, Bernard",
+    "finish_time": "01:22:19",
+    "finish_seconds": 4939
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 797,
+    "name": "Worsnop, Charlie",
+    "finish_time": "01:22:21",
+    "finish_seconds": 4941
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 799,
+    "name": "Walker, Matt",
+    "finish_time": "01:22:25",
+    "finish_seconds": 4945
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 801,
+    "name": "Crutchley, Will",
+    "finish_time": "01:22:28",
+    "finish_seconds": 4948
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 803,
+    "name": "Mccarthy, Russell",
+    "finish_time": "01:22:30",
+    "finish_seconds": 4950
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 805,
+    "name": "Micallef, Benjamin",
+    "finish_time": "01:22:32",
+    "finish_seconds": 4952
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 807,
+    "name": "Beven, Damien",
+    "finish_time": "01:22:33",
+    "finish_seconds": 4953
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 809,
+    "name": "Hinley, David",
+    "finish_time": "01:22:35",
+    "finish_seconds": 4955
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 811,
+    "name": "Smith, Jyle",
+    "finish_time": "01:22:38",
+    "finish_seconds": 4958
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 813,
+    "name": "Brown, Mitch",
+    "finish_time": "01:22:39",
+    "finish_seconds": 4959
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 815,
+    "name": "Burke, Dennis",
+    "finish_time": "01:22:42",
+    "finish_seconds": 4962
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 817,
+    "name": "Thomson, Cody",
+    "finish_time": "01:22:49",
+    "finish_seconds": 4969
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 819,
+    "name": "Calver, Sean",
+    "finish_time": "01:22:51",
+    "finish_seconds": 4971
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 821,
+    "name": "Mcgrath, Evan",
+    "finish_time": "01:22:55",
+    "finish_seconds": 4975
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 823,
+    "name": "Johnstone, Daniel",
+    "finish_time": "01:22:58",
+    "finish_seconds": 4978
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 825,
+    "name": "Atkin, Isaac",
+    "finish_time": "01:22:59",
+    "finish_seconds": 4979
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 827,
+    "name": "Domergue, Yorann",
+    "finish_time": "01:23:00",
+    "finish_seconds": 4980
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 829,
+    "name": "Kerschner, Zane",
+    "finish_time": "01:23:02",
+    "finish_seconds": 4982
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 831,
+    "name": "Baudet, Erwann",
+    "finish_time": "01:23:03",
+    "finish_seconds": 4983
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 833,
+    "name": "Worsley, Troy",
+    "finish_time": "01:23:06",
+    "finish_seconds": 4986
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 835,
+    "name": "Atkinson, Jack",
+    "finish_time": "01:23:11",
+    "finish_seconds": 4991
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 837,
+    "name": "Pontifex, Kyle",
+    "finish_time": "01:23:14",
+    "finish_seconds": 4994
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 839,
+    "name": "Holdsworth, Joss",
+    "finish_time": "01:23:19",
+    "finish_seconds": 4999
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 841,
+    "name": "Hong, James",
+    "finish_time": "01:23:20",
+    "finish_seconds": 5000
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 843,
+    "name": "Makins, Ron",
+    "finish_time": "01:23:22",
+    "finish_seconds": 5002
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 845,
+    "name": "Thomas, Nate",
+    "finish_time": "01:23:24",
+    "finish_seconds": 5004
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 847,
+    "name": "Wetzell, Zach",
+    "finish_time": "01:23:25",
+    "finish_seconds": 5005
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 849,
+    "name": "Yardley, Stuart",
+    "finish_time": "01:23:35",
+    "finish_seconds": 5015
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 851,
+    "name": "Fitzpatrick, Matthew",
+    "finish_time": "01:23:37",
+    "finish_seconds": 5017
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 853,
+    "name": "Curtale, Michael",
+    "finish_time": "01:23:40",
+    "finish_seconds": 5020
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 855,
+    "name": "Lamy, Julien",
+    "finish_time": "01:23:45",
+    "finish_seconds": 5025
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 857,
+    "name": "Pini, Tukohirangi",
+    "finish_time": "01:23:46",
+    "finish_seconds": 5026
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 859,
+    "name": "Chapman, Joel",
+    "finish_time": "01:23:49",
+    "finish_seconds": 5029
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 861,
+    "name": "Holloway, Nick",
+    "finish_time": "01:23:59",
+    "finish_seconds": 5039
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 863,
+    "name": "Rona, Kb",
+    "finish_time": "01:24:00",
+    "finish_seconds": 5040
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 865,
+    "name": "Becklar, Peter",
+    "finish_time": "01:24:02",
+    "finish_seconds": 5042
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 867,
+    "name": "Giro, Chris",
+    "finish_time": "01:24:03",
+    "finish_seconds": 5043
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 869,
+    "name": "Arase, Dan",
+    "finish_time": "01:24:04",
+    "finish_seconds": 5044
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 871,
+    "name": "Burgess, Shaun",
+    "finish_time": "01:24:11",
+    "finish_seconds": 5051
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 873,
+    "name": "Sansone, Riccardo",
+    "finish_time": "01:24:17",
+    "finish_seconds": 5057
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 875,
+    "name": "Jones, Martyn",
+    "finish_time": "01:24:17",
+    "finish_seconds": 5057
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 877,
+    "name": "Astell, Michael",
+    "finish_time": "01:24:20",
+    "finish_seconds": 5060
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 879,
+    "name": "Hrzina, Luka",
+    "finish_time": "01:24:22",
+    "finish_seconds": 5062
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 881,
+    "name": "Suba, Reuben",
+    "finish_time": "01:24:26",
+    "finish_seconds": 5066
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 883,
+    "name": "Lewis, Adam",
+    "finish_time": "01:24:28",
+    "finish_seconds": 5068
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 885,
+    "name": "Lu, Jia",
+    "finish_time": "01:24:30",
+    "finish_seconds": 5070
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 887,
+    "name": "Mangos, Alex",
+    "finish_time": "01:24:32",
+    "finish_seconds": 5072
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 889,
+    "name": "O\u2019Callaghan, Barry",
+    "finish_time": "01:24:35",
+    "finish_seconds": 5075
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 891,
+    "name": "Lundregan, Leon",
+    "finish_time": "01:24:42",
+    "finish_seconds": 5082
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 893,
+    "name": "Vankoll, Cheyne",
+    "finish_time": "01:24:44",
+    "finish_seconds": 5084
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 895,
+    "name": "Aked, James",
+    "finish_time": "01:24:46",
+    "finish_seconds": 5086
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 897,
+    "name": "Edwards, Reon",
+    "finish_time": "01:24:50",
+    "finish_seconds": 5090
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 899,
+    "name": "Barnett, Matt",
+    "finish_time": "01:24:51",
+    "finish_seconds": 5091
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 901,
+    "name": "Lennon, Anthony",
+    "finish_time": "01:24:55",
+    "finish_seconds": 5095
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 903,
+    "name": "Foley, Brendan",
+    "finish_time": "01:24:57",
+    "finish_seconds": 5097
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 905,
+    "name": "Botha, Johannes",
+    "finish_time": "01:24:58",
+    "finish_seconds": 5098
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 907,
+    "name": "Colleary, Edward",
+    "finish_time": "01:24:59",
+    "finish_seconds": 5099
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 909,
+    "name": "Lehane, Eoin",
+    "finish_time": "01:25:04",
+    "finish_seconds": 5104
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 911,
+    "name": "Ap, Nick",
+    "finish_time": "01:25:06",
+    "finish_seconds": 5106
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 913,
+    "name": "Yong, Anthony",
+    "finish_time": "01:25:08",
+    "finish_seconds": 5108
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 915,
+    "name": "Spriggs, Dan",
+    "finish_time": "01:25:09",
+    "finish_seconds": 5109
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 917,
+    "name": "Carr, Symon",
+    "finish_time": "01:25:13",
+    "finish_seconds": 5113
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 919,
+    "name": "Stevenson, Dwayne",
+    "finish_time": "01:25:16",
+    "finish_seconds": 5116
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 921,
+    "name": "Kennealy, Shane",
+    "finish_time": "01:25:17",
+    "finish_seconds": 5117
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 923,
+    "name": "Skuce, Charlie",
+    "finish_time": "01:25:20",
+    "finish_seconds": 5120
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 925,
+    "name": "Pead, Dillon",
+    "finish_time": "01:25:21",
+    "finish_seconds": 5121
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 927,
+    "name": "Lehman, James",
+    "finish_time": "01:25:22",
+    "finish_seconds": 5122
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 929,
+    "name": "Kerrigan, Glenn",
+    "finish_time": "01:25:23",
+    "finish_seconds": 5123
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 931,
+    "name": "Mcdougall, Brett",
+    "finish_time": "01:25:28",
+    "finish_seconds": 5128
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 933,
+    "name": "Kaps, Steven",
+    "finish_time": "01:25:28",
+    "finish_seconds": 5128
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 935,
+    "name": "Franken, Dave",
+    "finish_time": "01:25:30",
+    "finish_seconds": 5130
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 937,
+    "name": "Hawkins, Kane",
+    "finish_time": "01:25:32",
+    "finish_seconds": 5132
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 939,
+    "name": "Moore, David",
+    "finish_time": "01:25:33",
+    "finish_seconds": 5133
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 941,
+    "name": "Lambourne, Todd",
+    "finish_time": "01:25:35",
+    "finish_seconds": 5135
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 943,
+    "name": "Taula, Joseph",
+    "finish_time": "01:25:37",
+    "finish_seconds": 5137
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 945,
+    "name": "Daghastani, Taha",
+    "finish_time": "01:25:38",
+    "finish_seconds": 5138
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 947,
+    "name": "Olsen, Paul",
+    "finish_time": "01:25:39",
+    "finish_seconds": 5139
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 949,
+    "name": "Lehto, Brandon",
+    "finish_time": "01:25:40",
+    "finish_seconds": 5140
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 951,
+    "name": "Manolis, John",
+    "finish_time": "01:25:42",
+    "finish_seconds": 5142
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 953,
+    "name": "Verhovtsev, Alex",
+    "finish_time": "01:25:44",
+    "finish_seconds": 5144
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 955,
+    "name": "Joscelyn, Blair",
+    "finish_time": "01:25:49",
+    "finish_seconds": 5149
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 957,
+    "name": "Brownlow, Rob",
+    "finish_time": "01:25:53",
+    "finish_seconds": 5153
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 959,
+    "name": "Hussey, Sam",
+    "finish_time": "01:25:55",
+    "finish_seconds": 5155
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 961,
+    "name": "Plummer, Reece",
+    "finish_time": "01:25:56",
+    "finish_seconds": 5156
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 963,
+    "name": "Phon, Morgan",
+    "finish_time": "01:25:59",
+    "finish_seconds": 5159
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 965,
+    "name": "Wheeler, Lachlan",
+    "finish_time": "01:26:06",
+    "finish_seconds": 5166
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 967,
+    "name": "Ellis, Mark",
+    "finish_time": "01:26:11",
+    "finish_seconds": 5171
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 969,
+    "name": "Easton, Jordan",
+    "finish_time": "01:26:13",
+    "finish_seconds": 5173
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 971,
+    "name": "Umstad, Zac",
+    "finish_time": "01:26:16",
+    "finish_seconds": 5176
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 973,
+    "name": "Farrell, Shane",
+    "finish_time": "01:26:19",
+    "finish_seconds": 5179
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 975,
+    "name": "Whelan, Marcus",
+    "finish_time": "01:26:20",
+    "finish_seconds": 5180
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 977,
+    "name": "Tian, Will",
+    "finish_time": "01:26:23",
+    "finish_seconds": 5183
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 979,
+    "name": "Kruss, Jack",
+    "finish_time": "01:26:25",
+    "finish_seconds": 5185
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 981,
+    "name": "Hilts, Cameron",
+    "finish_time": "01:26:28",
+    "finish_seconds": 5188
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 983,
+    "name": "Mcdonald, Robert",
+    "finish_time": "01:26:29",
+    "finish_seconds": 5189
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 985,
+    "name": "Powley, Glenn",
+    "finish_time": "01:26:34",
+    "finish_seconds": 5194
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 987,
+    "name": "Newcombe, Ben",
+    "finish_time": "01:26:37",
+    "finish_seconds": 5197
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 989,
+    "name": "Karlsson, Sven",
+    "finish_time": "01:26:45",
+    "finish_seconds": 5205
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 991,
+    "name": "Smithers, Chris",
+    "finish_time": "01:26:48",
+    "finish_seconds": 5208
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 993,
+    "name": "Bhusal, Mani",
+    "finish_time": "01:26:49",
+    "finish_seconds": 5209
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 995,
+    "name": "Nicholas, Lachlan",
+    "finish_time": "01:26:52",
+    "finish_seconds": 5212
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 997,
+    "name": "Bertuccio, Anthony",
+    "finish_time": "01:26:55",
+    "finish_seconds": 5215
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 999,
+    "name": "Niezgodka, Adrian",
+    "finish_time": "01:26:56",
+    "finish_seconds": 5216
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1001,
+    "name": "Casey, Byron",
+    "finish_time": "01:27:02",
+    "finish_seconds": 5222
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1003,
+    "name": "Mohamad, Ibrahim",
+    "finish_time": "01:27:12",
+    "finish_seconds": 5232
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1005,
+    "name": "O\u2019Connor, Michael",
+    "finish_time": "01:27:13",
+    "finish_seconds": 5233
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1007,
+    "name": "Rawson, Keahni",
+    "finish_time": "01:27:21",
+    "finish_seconds": 5241
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1009,
+    "name": "Wilson, Braith",
+    "finish_time": "01:27:23",
+    "finish_seconds": 5243
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1011,
+    "name": "Hogan, Andrew",
+    "finish_time": "01:27:24",
+    "finish_seconds": 5244
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1013,
+    "name": "Fortin, Kentin",
+    "finish_time": "01:27:31",
+    "finish_seconds": 5251
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1015,
+    "name": "Wilson, Lee",
+    "finish_time": "01:27:32",
+    "finish_seconds": 5252
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1017,
+    "name": "Tripodi, John",
+    "finish_time": "01:27:34",
+    "finish_seconds": 5254
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1019,
+    "name": "McGuigan, Sean",
+    "finish_time": "01:27:36",
+    "finish_seconds": 5256
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1021,
+    "name": "Wright, Matt",
+    "finish_time": "01:27:41",
+    "finish_seconds": 5261
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1023,
+    "name": "Keane, David",
+    "finish_time": "01:27:43",
+    "finish_seconds": 5263
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1025,
+    "name": "Pasfield, Patrick",
+    "finish_time": "01:27:43",
+    "finish_seconds": 5263
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1027,
+    "name": "Mcmillan, Sam",
+    "finish_time": "01:27:46",
+    "finish_seconds": 5266
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1029,
+    "name": "Evans, Callum",
+    "finish_time": "01:27:50",
+    "finish_seconds": 5270
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1031,
+    "name": "Fardoulis, Stelio",
+    "finish_time": "01:27:51",
+    "finish_seconds": 5271
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1033,
+    "name": "Mccall, Alan",
+    "finish_time": "01:27:53",
+    "finish_seconds": 5273
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1035,
+    "name": "Campiutti, Matthew",
+    "finish_time": "01:27:55",
+    "finish_seconds": 5275
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1037,
+    "name": "Garde, Max",
+    "finish_time": "01:28:03",
+    "finish_seconds": 5283
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1039,
+    "name": "Nitschke, Peter",
+    "finish_time": "01:28:06",
+    "finish_seconds": 5286
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1041,
+    "name": "Morris, Daniel",
+    "finish_time": "01:28:08",
+    "finish_seconds": 5288
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1043,
+    "name": "Paris, Justin",
+    "finish_time": "01:28:12",
+    "finish_seconds": 5292
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1045,
+    "name": "Leach, Mitchell",
+    "finish_time": "01:28:14",
+    "finish_seconds": 5294
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1047,
+    "name": "Viti, Nathaniel",
+    "finish_time": "01:28:18",
+    "finish_seconds": 5298
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1049,
+    "name": "Tioaquen, Rowland",
+    "finish_time": "01:28:23",
+    "finish_seconds": 5303
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1051,
+    "name": "Schotte, Andrew",
+    "finish_time": "01:28:24",
+    "finish_seconds": 5304
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1053,
+    "name": "Buhlman, Stephen",
+    "finish_time": "01:28:26",
+    "finish_seconds": 5306
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1055,
+    "name": "Hadrys, Zbigniew",
+    "finish_time": "01:28:27",
+    "finish_seconds": 5307
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1057,
+    "name": "George, Allan",
+    "finish_time": "01:28:29",
+    "finish_seconds": 5309
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1059,
+    "name": "Blacker, Steve",
+    "finish_time": "01:28:33",
+    "finish_seconds": 5313
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1061,
+    "name": "Hatchett, Koa",
+    "finish_time": "01:28:35",
+    "finish_seconds": 5315
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1063,
+    "name": "Paterson, Lars",
+    "finish_time": "01:28:36",
+    "finish_seconds": 5316
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1065,
+    "name": "Phillips, Harry",
+    "finish_time": "01:28:38",
+    "finish_seconds": 5318
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1067,
+    "name": "Treend, Michael",
+    "finish_time": "01:28:41",
+    "finish_seconds": 5321
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1069,
+    "name": "Horky, Oscar",
+    "finish_time": "01:28:43",
+    "finish_seconds": 5323
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1071,
+    "name": "O Loideain, Sean Og",
+    "finish_time": "01:28:44",
+    "finish_seconds": 5324
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1073,
+    "name": "Bedford, Luke",
+    "finish_time": "01:28:47",
+    "finish_seconds": 5327
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1075,
+    "name": "Omeley, Lindsey",
+    "finish_time": "01:28:48",
+    "finish_seconds": 5328
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1077,
+    "name": "Valka, Erik",
+    "finish_time": "01:28:53",
+    "finish_seconds": 5333
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1079,
+    "name": "Aurhammer, Sean",
+    "finish_time": "01:28:54",
+    "finish_seconds": 5334
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1081,
+    "name": "Brown, Cheyne",
+    "finish_time": "01:29:00",
+    "finish_seconds": 5340
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1083,
+    "name": "Berry, Alex",
+    "finish_time": "01:29:09",
+    "finish_seconds": 5349
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1085,
+    "name": "Lonergan, Kade",
+    "finish_time": "01:29:18",
+    "finish_seconds": 5358
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1087,
+    "name": "Wong, Steven",
+    "finish_time": "01:29:22",
+    "finish_seconds": 5362
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1089,
+    "name": "Powell, Tony",
+    "finish_time": "01:29:25",
+    "finish_seconds": 5365
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1091,
+    "name": "Lee, Jim",
+    "finish_time": "01:29:26",
+    "finish_seconds": 5366
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1093,
+    "name": "Lansdowne, Danny",
+    "finish_time": "01:29:27",
+    "finish_seconds": 5367
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1095,
+    "name": "Keogh, Jed",
+    "finish_time": "01:29:30",
+    "finish_seconds": 5370
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1097,
+    "name": "Makhlin, Alex",
+    "finish_time": "01:29:31",
+    "finish_seconds": 5371
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1099,
+    "name": "Grant, Chris",
+    "finish_time": "01:29:34",
+    "finish_seconds": 5374
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1101,
+    "name": "Dodds, Chris",
+    "finish_time": "01:29:35",
+    "finish_seconds": 5375
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1103,
+    "name": "Geraghty, Gavin",
+    "finish_time": "01:29:35",
+    "finish_seconds": 5375
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1105,
+    "name": "Truong, Andy",
+    "finish_time": "01:29:37",
+    "finish_seconds": 5377
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1107,
+    "name": "Rayner, Jack",
+    "finish_time": "01:29:37",
+    "finish_seconds": 5377
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1109,
+    "name": "Danfield, Troy",
+    "finish_time": "01:29:40",
+    "finish_seconds": 5380
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1111,
+    "name": "Crookey, Kenneth",
+    "finish_time": "01:29:41",
+    "finish_seconds": 5381
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1113,
+    "name": "Forsyth, Paul",
+    "finish_time": "01:29:44",
+    "finish_seconds": 5384
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1115,
+    "name": "Cummins, Jonathon",
+    "finish_time": "01:29:46",
+    "finish_seconds": 5386
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1117,
+    "name": "Nash, Pierce",
+    "finish_time": "01:29:47",
+    "finish_seconds": 5387
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1119,
+    "name": "Pask, Gareth",
+    "finish_time": "01:29:50",
+    "finish_seconds": 5390
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1121,
+    "name": "Best, Joel",
+    "finish_time": "01:29:57",
+    "finish_seconds": 5397
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1123,
+    "name": "Bessell, Robert",
+    "finish_time": "01:30:00",
+    "finish_seconds": 5400
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1125,
+    "name": "Eaton, Ryan",
+    "finish_time": "01:30:01",
+    "finish_seconds": 5401
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1127,
+    "name": "Kane, Stephen",
+    "finish_time": "01:30:04",
+    "finish_seconds": 5404
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1129,
+    "name": "Kalambokis, Nicholas",
+    "finish_time": "01:30:06",
+    "finish_seconds": 5406
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1131,
+    "name": "Hansen, Craig",
+    "finish_time": "01:30:15",
+    "finish_seconds": 5415
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1133,
+    "name": "Tomlin, Jack",
+    "finish_time": "01:30:22",
+    "finish_seconds": 5422
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1135,
+    "name": "Mcivor, Keith",
+    "finish_time": "01:30:29",
+    "finish_seconds": 5429
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1137,
+    "name": "Stevenson, Justin",
+    "finish_time": "01:30:32",
+    "finish_seconds": 5432
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1139,
+    "name": "Molony, John",
+    "finish_time": "01:30:34",
+    "finish_seconds": 5434
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1141,
+    "name": "Hill, Lachlan",
+    "finish_time": "01:30:35",
+    "finish_seconds": 5435
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1143,
+    "name": "Mele, River",
+    "finish_time": "01:30:37",
+    "finish_seconds": 5437
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1145,
+    "name": "Burke, Ross",
+    "finish_time": "01:30:42",
+    "finish_seconds": 5442
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1147,
+    "name": "Fitzpatrick, Ryan",
+    "finish_time": "01:30:44",
+    "finish_seconds": 5444
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1149,
+    "name": "Swire, Robin",
+    "finish_time": "01:30:46",
+    "finish_seconds": 5446
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1151,
+    "name": "Britton, Josh",
+    "finish_time": "01:30:50",
+    "finish_seconds": 5450
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1153,
+    "name": "Swan, Dylan",
+    "finish_time": "01:30:55",
+    "finish_seconds": 5455
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1155,
+    "name": "O\u2019Donoghue, Oran",
+    "finish_time": "01:31:03",
+    "finish_seconds": 5463
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1157,
+    "name": "Draffin, Alec",
+    "finish_time": "01:31:09",
+    "finish_seconds": 5469
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1159,
+    "name": "Ainslie, Joshua",
+    "finish_time": "01:31:10",
+    "finish_seconds": 5470
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1161,
+    "name": "Havey, Mark",
+    "finish_time": "01:31:14",
+    "finish_seconds": 5474
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1163,
+    "name": "Galinier, Alexis",
+    "finish_time": "01:31:15",
+    "finish_seconds": 5475
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1165,
+    "name": "Kereopa, Kalyn",
+    "finish_time": "01:31:16",
+    "finish_seconds": 5476
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1167,
+    "name": "Gallagher, Scott",
+    "finish_time": "01:31:17",
+    "finish_seconds": 5477
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1169,
+    "name": "Catlin, Christopher",
+    "finish_time": "01:31:25",
+    "finish_seconds": 5485
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1171,
+    "name": "Robins, Brandon",
+    "finish_time": "01:31:40",
+    "finish_seconds": 5500
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1173,
+    "name": "Cooper, Craig",
+    "finish_time": "01:31:45",
+    "finish_seconds": 5505
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1175,
+    "name": "Narain, Jaynesh",
+    "finish_time": "01:31:51",
+    "finish_seconds": 5511
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1177,
+    "name": "Mcfarland, Jack",
+    "finish_time": "01:31:57",
+    "finish_seconds": 5517
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1179,
+    "name": "Gurren, Chris",
+    "finish_time": "01:32:02",
+    "finish_seconds": 5522
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1181,
+    "name": "Scott, Darren",
+    "finish_time": "01:32:06",
+    "finish_seconds": 5526
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1183,
+    "name": "Evans, Garrett",
+    "finish_time": "01:32:07",
+    "finish_seconds": 5527
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1185,
+    "name": "Nguyen, Viet",
+    "finish_time": "01:32:15",
+    "finish_seconds": 5535
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1187,
+    "name": "Boys, Mark",
+    "finish_time": "01:32:16",
+    "finish_seconds": 5536
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1189,
+    "name": "Whittaker, Aaron",
+    "finish_time": "01:32:18",
+    "finish_seconds": 5538
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1191,
+    "name": "Schroeder, Nicholas",
+    "finish_time": "01:32:22",
+    "finish_seconds": 5542
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1193,
+    "name": "Tagavaimotu, Smith",
+    "finish_time": "01:32:23",
+    "finish_seconds": 5543
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1195,
+    "name": "Sharma, Mayank",
+    "finish_time": "01:32:29",
+    "finish_seconds": 5549
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1197,
+    "name": "Gonzalez, Nicolas",
+    "finish_time": "01:32:31",
+    "finish_seconds": 5551
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1199,
+    "name": "Hagarty, Geoffrey",
+    "finish_time": "01:32:35",
+    "finish_seconds": 5555
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1201,
+    "name": "Horn, Regan",
+    "finish_time": "01:32:41",
+    "finish_seconds": 5561
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1203,
+    "name": "Shanahan, Peter",
+    "finish_time": "01:32:46",
+    "finish_seconds": 5566
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1205,
+    "name": "Joyce, Daniel",
+    "finish_time": "01:32:50",
+    "finish_seconds": 5570
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1207,
+    "name": "Huynh, Minh",
+    "finish_time": "01:32:53",
+    "finish_seconds": 5573
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1209,
+    "name": "Keenan, Warren",
+    "finish_time": "01:32:56",
+    "finish_seconds": 5576
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1211,
+    "name": "Wong, David",
+    "finish_time": "01:33:02",
+    "finish_seconds": 5582
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1213,
+    "name": "Williamson, Matthew",
+    "finish_time": "01:33:16",
+    "finish_seconds": 5596
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1215,
+    "name": "Oberai, Rangat",
+    "finish_time": "01:33:36",
+    "finish_seconds": 5616
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1217,
+    "name": "Griffin-Colls, Brian",
+    "finish_time": "01:33:47",
+    "finish_seconds": 5627
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1219,
+    "name": "Loughnane, Colm",
+    "finish_time": "01:33:56",
+    "finish_seconds": 5636
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1221,
+    "name": "Frilingos, Arthur",
+    "finish_time": "01:34:05",
+    "finish_seconds": 5645
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1223,
+    "name": "Lavelle, Philip",
+    "finish_time": "01:34:15",
+    "finish_seconds": 5655
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1225,
+    "name": "Musafer, Shihan",
+    "finish_time": "01:34:19",
+    "finish_seconds": 5659
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1227,
+    "name": "Nguyen, Daniel",
+    "finish_time": "01:34:25",
+    "finish_seconds": 5665
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1229,
+    "name": "Drake, Tiernan",
+    "finish_time": "01:34:26",
+    "finish_seconds": 5666
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1231,
+    "name": "Barrancos Piceda, Agustin",
+    "finish_time": "01:34:37",
+    "finish_seconds": 5677
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1233,
+    "name": "Devine, Phil",
+    "finish_time": "01:34:39",
+    "finish_seconds": 5679
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1235,
+    "name": "Charlton, Thomas",
+    "finish_time": "01:34:45",
+    "finish_seconds": 5685
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1237,
+    "name": "Dixon, Andy",
+    "finish_time": "01:34:47",
+    "finish_seconds": 5687
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1239,
+    "name": "Phillips, Jaydn",
+    "finish_time": "01:34:51",
+    "finish_seconds": 5691
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1241,
+    "name": "Reynolds, Chris",
+    "finish_time": "01:34:55",
+    "finish_seconds": 5695
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1243,
+    "name": "Dacic, Brenden",
+    "finish_time": "01:35:03",
+    "finish_seconds": 5703
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1245,
+    "name": "Ortega, Oliver",
+    "finish_time": "01:35:06",
+    "finish_seconds": 5706
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1247,
+    "name": "Hack, Spencer",
+    "finish_time": "01:35:09",
+    "finish_seconds": 5709
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1249,
+    "name": "Winter, Will",
+    "finish_time": "01:35:11",
+    "finish_seconds": 5711
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1251,
+    "name": "Folpp, Christopher",
+    "finish_time": "01:35:21",
+    "finish_seconds": 5721
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1253,
+    "name": "Kc, Raju",
+    "finish_time": "01:35:27",
+    "finish_seconds": 5727
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1255,
+    "name": "Robynson, Alex",
+    "finish_time": "01:35:29",
+    "finish_seconds": 5729
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1257,
+    "name": "Rabago, Jeremy",
+    "finish_time": "01:35:32",
+    "finish_seconds": 5732
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1259,
+    "name": "Siuhengalu, Fine",
+    "finish_time": "01:35:34",
+    "finish_seconds": 5734
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1261,
+    "name": "Smith, Nathan",
+    "finish_time": "01:35:37",
+    "finish_seconds": 5737
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1263,
+    "name": "Madigan, Rhys",
+    "finish_time": "01:35:39",
+    "finish_seconds": 5739
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1265,
+    "name": "Stumpfs, Christian",
+    "finish_time": "01:35:49",
+    "finish_seconds": 5749
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1267,
+    "name": "Culph, Hayden",
+    "finish_time": "01:35:54",
+    "finish_seconds": 5754
+  },
+  {
+    "venue": "2025 Sydney",
+    "gender": "M",
+    "rank": 1269,
+    "name": "Darroch, Iain",
+    "finish_time": "01:35:57",
+    "finish_seconds": 5757
+  }
+]

@@ -1,0 +1,2338 @@
+[
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 1,
+    "name": "Ploj, Alja\u017e",
+    "finish_time": "00:55:54",
+    "finish_seconds": 3354
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 3,
+    "name": "Drew, Owen",
+    "finish_time": "01:00:09",
+    "finish_seconds": 3609
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 5,
+    "name": "Boulai, Antoine",
+    "finish_time": "01:02:00",
+    "finish_seconds": 3720
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 7,
+    "name": "Holms\u00e4ter, Linus",
+    "finish_time": "01:02:27",
+    "finish_seconds": 3747
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 9,
+    "name": "Mariscal, Guille",
+    "finish_time": "01:02:45",
+    "finish_seconds": 3765
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 11,
+    "name": "Sande, Jakob",
+    "finish_time": "01:04:24",
+    "finish_seconds": 3864
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 13,
+    "name": "Peters, Jordan Douglas",
+    "finish_time": "01:04:51",
+    "finish_seconds": 3891
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 15,
+    "name": "Belson, Louis",
+    "finish_time": "01:05:11",
+    "finish_seconds": 3911
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 17,
+    "name": "Luck, Olly",
+    "finish_time": "01:05:55",
+    "finish_seconds": 3955
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 19,
+    "name": "Kainberger, Markus",
+    "finish_time": "01:06:13",
+    "finish_seconds": 3973
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 21,
+    "name": "Doherty, Dominick",
+    "finish_time": "01:06:38",
+    "finish_seconds": 3998
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 23,
+    "name": "Blauwendraat, Kylian",
+    "finish_time": "01:06:52",
+    "finish_seconds": 4012
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 25,
+    "name": "Dojen, Ole",
+    "finish_time": "01:07:54",
+    "finish_seconds": 4074
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 27,
+    "name": "Hadley, Will",
+    "finish_time": "01:08:21",
+    "finish_seconds": 4101
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 29,
+    "name": "Edvinsson, Christian",
+    "finish_time": "01:08:39",
+    "finish_seconds": 4119
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 31,
+    "name": "Cedenheim, Oliver",
+    "finish_time": "01:08:48",
+    "finish_seconds": 4128
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 33,
+    "name": "Cuanalo, Alvaro",
+    "finish_time": "01:09:09",
+    "finish_seconds": 4149
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 35,
+    "name": "Malm, William",
+    "finish_time": "01:09:18",
+    "finish_seconds": 4158
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 37,
+    "name": "Baudou, Mattias",
+    "finish_time": "01:09:36",
+    "finish_seconds": 4176
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 39,
+    "name": "Keldoja, Mihkel",
+    "finish_time": "01:09:49",
+    "finish_seconds": 4189
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 41,
+    "name": "Dragstra, Luke",
+    "finish_time": "01:10:00",
+    "finish_seconds": 4200
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 43,
+    "name": "Kraft, Conny",
+    "finish_time": "01:10:22",
+    "finish_seconds": 4222
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 45,
+    "name": "Boulahoil, Mohamed",
+    "finish_time": "01:10:27",
+    "finish_seconds": 4227
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 47,
+    "name": "Lundmark, Pontus",
+    "finish_time": "01:10:42",
+    "finish_seconds": 4242
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 49,
+    "name": "Johansson, Rickard",
+    "finish_time": "01:11:00",
+    "finish_seconds": 4260
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 51,
+    "name": "Oftedal, Henrik",
+    "finish_time": "01:11:02",
+    "finish_seconds": 4262
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 53,
+    "name": "Axengren, Erik",
+    "finish_time": "01:11:32",
+    "finish_seconds": 4292
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 55,
+    "name": "Keal, Adam",
+    "finish_time": "01:11:59",
+    "finish_seconds": 4319
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 57,
+    "name": "Bakke, Eivind",
+    "finish_time": "01:12:07",
+    "finish_seconds": 4327
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 59,
+    "name": "Afiane, Farid",
+    "finish_time": "01:12:13",
+    "finish_seconds": 4333
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 61,
+    "name": "Tanner, James",
+    "finish_time": "01:12:16",
+    "finish_seconds": 4336
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 63,
+    "name": "Guldemond, Hans",
+    "finish_time": "01:12:27",
+    "finish_seconds": 4347
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 65,
+    "name": "Justesen, Rasmus",
+    "finish_time": "01:12:36",
+    "finish_seconds": 4356
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 67,
+    "name": "Andersson, Richard",
+    "finish_time": "01:12:52",
+    "finish_seconds": 4372
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 69,
+    "name": "Tomasson, Mikael",
+    "finish_time": "01:13:04",
+    "finish_seconds": 4384
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 71,
+    "name": "Mol\u010d\u00edk, Martin",
+    "finish_time": "01:13:07",
+    "finish_seconds": 4387
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 73,
+    "name": "Gerstemeyer, Tim",
+    "finish_time": "01:13:10",
+    "finish_seconds": 4390
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 75,
+    "name": "Ma, James",
+    "finish_time": "01:13:26",
+    "finish_seconds": 4406
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 77,
+    "name": "Hepburn, James",
+    "finish_time": "01:13:36",
+    "finish_seconds": 4416
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 79,
+    "name": "Hynes, Dean",
+    "finish_time": "01:13:44",
+    "finish_seconds": 4424
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 81,
+    "name": "Saker, Josef",
+    "finish_time": "01:13:48",
+    "finish_seconds": 4428
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 83,
+    "name": "Peron, Cl\u00e9ment",
+    "finish_time": "01:13:57",
+    "finish_seconds": 4437
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 85,
+    "name": "Shelper, Matt",
+    "finish_time": "01:14:05",
+    "finish_seconds": 4445
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 87,
+    "name": "Furlanetto, Julien",
+    "finish_time": "01:14:14",
+    "finish_seconds": 4454
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 89,
+    "name": "R\u00f8sand, \u00d8yvind",
+    "finish_time": "01:14:17",
+    "finish_seconds": 4457
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 91,
+    "name": "Gaedt, Nils",
+    "finish_time": "01:14:26",
+    "finish_seconds": 4466
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 93,
+    "name": "Buchholz, Maik",
+    "finish_time": "01:14:30",
+    "finish_seconds": 4470
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 95,
+    "name": "Bowker, Daniel",
+    "finish_time": "01:14:33",
+    "finish_seconds": 4473
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 97,
+    "name": "Hahn, Thomas",
+    "finish_time": "01:14:37",
+    "finish_seconds": 4477
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 99,
+    "name": "Collado Vellisco, Jorge",
+    "finish_time": "01:14:56",
+    "finish_seconds": 4496
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 101,
+    "name": "Porta, Ugo",
+    "finish_time": "01:15:03",
+    "finish_seconds": 4503
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 103,
+    "name": "Rawlinson, Ben",
+    "finish_time": "01:15:07",
+    "finish_seconds": 4507
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 105,
+    "name": "Karlsson, Dennis",
+    "finish_time": "01:15:25",
+    "finish_seconds": 4525
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 107,
+    "name": "Schmidt, Alexander",
+    "finish_time": "01:15:42",
+    "finish_seconds": 4542
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 109,
+    "name": "Nortamaa, Leo",
+    "finish_time": "01:15:46",
+    "finish_seconds": 4546
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 111,
+    "name": "Ripadal, Anton",
+    "finish_time": "01:15:49",
+    "finish_seconds": 4549
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 113,
+    "name": "Johansen, Henning Haugsbak",
+    "finish_time": "01:16:07",
+    "finish_seconds": 4567
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 115,
+    "name": "Haydu, Andrew",
+    "finish_time": "01:16:12",
+    "finish_seconds": 4572
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 117,
+    "name": "Aug\u016bnas, Jurgis",
+    "finish_time": "01:16:22",
+    "finish_seconds": 4582
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 119,
+    "name": "Isaksson, Joakim",
+    "finish_time": "01:16:33",
+    "finish_seconds": 4593
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 121,
+    "name": "Boman, Kenneth",
+    "finish_time": "01:16:37",
+    "finish_seconds": 4597
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 123,
+    "name": "Brink, Henrik",
+    "finish_time": "01:16:42",
+    "finish_seconds": 4602
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 125,
+    "name": "Kevari, Juuso",
+    "finish_time": "01:16:49",
+    "finish_seconds": 4609
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 127,
+    "name": "CH, Jonathan",
+    "finish_time": "01:16:50",
+    "finish_seconds": 4610
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 129,
+    "name": "Arding, Robin",
+    "finish_time": "01:16:57",
+    "finish_seconds": 4617
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 131,
+    "name": "Evans, Paul",
+    "finish_time": "01:16:58",
+    "finish_seconds": 4618
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 133,
+    "name": "Karlsson, Andreas",
+    "finish_time": "01:17:03",
+    "finish_seconds": 4623
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 135,
+    "name": "Al Thani, Moe",
+    "finish_time": "01:17:12",
+    "finish_seconds": 4632
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 137,
+    "name": "De Vries, Jeffrey",
+    "finish_time": "01:17:20",
+    "finish_seconds": 4640
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 139,
+    "name": "Thomson, James",
+    "finish_time": "01:17:24",
+    "finish_seconds": 4644
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 141,
+    "name": "Porter, James",
+    "finish_time": "01:18:02",
+    "finish_seconds": 4682
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 143,
+    "name": "Hagen, Magnus",
+    "finish_time": "01:18:08",
+    "finish_seconds": 4688
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 145,
+    "name": "Lundbakk, Sture",
+    "finish_time": "01:18:15",
+    "finish_seconds": 4695
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 147,
+    "name": "VAN DER BOOR, PAUL",
+    "finish_time": "01:18:38",
+    "finish_seconds": 4718
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 149,
+    "name": "Rindom, Jeppe",
+    "finish_time": "01:18:43",
+    "finish_seconds": 4723
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 151,
+    "name": "Keith, Cammy",
+    "finish_time": "01:19:00",
+    "finish_seconds": 4740
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 153,
+    "name": "Sosolic, Benjamin",
+    "finish_time": "01:19:05",
+    "finish_seconds": 4745
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 155,
+    "name": "Melin, Bj\u00f6rn",
+    "finish_time": "01:19:06",
+    "finish_seconds": 4746
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 157,
+    "name": "Helias, Florian",
+    "finish_time": "01:19:15",
+    "finish_seconds": 4755
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 159,
+    "name": "Karlberg, Per",
+    "finish_time": "01:19:20",
+    "finish_seconds": 4760
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 161,
+    "name": "Astafjev, Sergei",
+    "finish_time": "01:19:28",
+    "finish_seconds": 4768
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 163,
+    "name": "Bond, Oliver",
+    "finish_time": "01:19:33",
+    "finish_seconds": 4773
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 165,
+    "name": "Booden, Josh",
+    "finish_time": "01:19:41",
+    "finish_seconds": 4781
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 167,
+    "name": "K\u00e4rkk\u00e4inen, Mikko",
+    "finish_time": "01:19:58",
+    "finish_seconds": 4798
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 169,
+    "name": "Edgar, Mike",
+    "finish_time": "01:20:09",
+    "finish_seconds": 4809
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 171,
+    "name": "Holmgren, Thomas",
+    "finish_time": "01:20:20",
+    "finish_seconds": 4820
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 173,
+    "name": "Manninen, Joakim",
+    "finish_time": "01:20:23",
+    "finish_seconds": 4823
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 175,
+    "name": "Kenane, Mohammed",
+    "finish_time": "01:20:30",
+    "finish_seconds": 4830
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 177,
+    "name": "Bostr\u00f6m, Filip",
+    "finish_time": "01:20:34",
+    "finish_seconds": 4834
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 179,
+    "name": "Menz, Jonas",
+    "finish_time": "01:20:40",
+    "finish_seconds": 4840
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 181,
+    "name": "Haugsbak, Ola",
+    "finish_time": "01:20:44",
+    "finish_seconds": 4844
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 183,
+    "name": "Cornacchini, Andreas",
+    "finish_time": "01:20:55",
+    "finish_seconds": 4855
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 185,
+    "name": "Van Hamersveld, Eelco",
+    "finish_time": "01:21:03",
+    "finish_seconds": 4863
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 187,
+    "name": "Taveras, Jose",
+    "finish_time": "01:21:14",
+    "finish_seconds": 4874
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 189,
+    "name": "Bostr\u00f6m, Fredrik",
+    "finish_time": "01:21:26",
+    "finish_seconds": 4886
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 191,
+    "name": "Westlin, Robin",
+    "finish_time": "01:21:38",
+    "finish_seconds": 4898
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 193,
+    "name": "Allvin, Marcus",
+    "finish_time": "01:21:43",
+    "finish_seconds": 4903
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 195,
+    "name": "Gauthier, Anael",
+    "finish_time": "01:21:46",
+    "finish_seconds": 4906
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 197,
+    "name": "Hussein, Kamal",
+    "finish_time": "01:21:47",
+    "finish_seconds": 4907
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 199,
+    "name": "Rekola, Manu",
+    "finish_time": "01:21:51",
+    "finish_seconds": 4911
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 201,
+    "name": "Kossi, Konsta",
+    "finish_time": "01:22:08",
+    "finish_seconds": 4928
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 203,
+    "name": "Kung, David",
+    "finish_time": "01:22:18",
+    "finish_seconds": 4938
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 205,
+    "name": "Crumley, Euan",
+    "finish_time": "01:22:28",
+    "finish_seconds": 4948
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 207,
+    "name": "Engsas, Anders",
+    "finish_time": "01:22:36",
+    "finish_seconds": 4956
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 209,
+    "name": "Nilsson, Fredrik",
+    "finish_time": "01:22:44",
+    "finish_seconds": 4964
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 211,
+    "name": "Perez, Yohan",
+    "finish_time": "01:22:55",
+    "finish_seconds": 4975
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 213,
+    "name": "Lundb\u00e4ck, Mattias",
+    "finish_time": "01:23:04",
+    "finish_seconds": 4984
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 215,
+    "name": "Hjertz, Fredrik",
+    "finish_time": "01:23:17",
+    "finish_seconds": 4997
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 217,
+    "name": "Russmann, Jochen",
+    "finish_time": "01:23:28",
+    "finish_seconds": 5008
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 219,
+    "name": "Von Behren, Till",
+    "finish_time": "01:23:34",
+    "finish_seconds": 5014
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 221,
+    "name": "Renard, Adrien",
+    "finish_time": "01:23:36",
+    "finish_seconds": 5016
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 223,
+    "name": "Norman, Magnus",
+    "finish_time": "01:23:41",
+    "finish_seconds": 5021
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 225,
+    "name": "Roy, Elliott",
+    "finish_time": "01:23:45",
+    "finish_seconds": 5025
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 227,
+    "name": "Westring, Tomas",
+    "finish_time": "01:23:47",
+    "finish_seconds": 5027
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 229,
+    "name": "Ervid, Robert",
+    "finish_time": "01:23:52",
+    "finish_seconds": 5032
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 231,
+    "name": "Makarov, Roman",
+    "finish_time": "01:23:59",
+    "finish_seconds": 5039
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 233,
+    "name": "Johansson, Kristoffer",
+    "finish_time": "01:24:13",
+    "finish_seconds": 5053
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 235,
+    "name": "Sand-Grimnitz, Henrik",
+    "finish_time": "01:24:15",
+    "finish_seconds": 5055
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 237,
+    "name": "Hoffmann, Paul",
+    "finish_time": "01:24:18",
+    "finish_seconds": 5058
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 239,
+    "name": "Petri, Mathias",
+    "finish_time": "01:24:23",
+    "finish_seconds": 5063
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 241,
+    "name": "Skinner, Carl",
+    "finish_time": "01:24:30",
+    "finish_seconds": 5070
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 243,
+    "name": "Probst, Markus",
+    "finish_time": "01:24:37",
+    "finish_seconds": 5077
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 245,
+    "name": "Tamminga, Mark",
+    "finish_time": "01:24:42",
+    "finish_seconds": 5082
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 247,
+    "name": "Ramaen, Gael",
+    "finish_time": "01:24:49",
+    "finish_seconds": 5089
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 249,
+    "name": "Soussi, Ilyas",
+    "finish_time": "01:24:56",
+    "finish_seconds": 5096
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 251,
+    "name": "Hedin, Rikard",
+    "finish_time": "01:25:12",
+    "finish_seconds": 5112
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 253,
+    "name": "Frimann, Nicholaj",
+    "finish_time": "01:25:18",
+    "finish_seconds": 5118
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 255,
+    "name": "Mulholland, Ryan",
+    "finish_time": "01:25:41",
+    "finish_seconds": 5141
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 257,
+    "name": "Laurent, Josselyn",
+    "finish_time": "01:25:57",
+    "finish_seconds": 5157
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 259,
+    "name": "Ancans, Rihards",
+    "finish_time": "01:26:10",
+    "finish_seconds": 5170
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 261,
+    "name": "Bowes, Conor",
+    "finish_time": "01:26:19",
+    "finish_seconds": 5179
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 263,
+    "name": "Ritz, Matthew",
+    "finish_time": "01:26:25",
+    "finish_seconds": 5185
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 265,
+    "name": "J\u00f8rgensen, Henrik",
+    "finish_time": "01:26:45",
+    "finish_seconds": 5205
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 267,
+    "name": "Pfefferer, Johann",
+    "finish_time": "01:26:51",
+    "finish_seconds": 5211
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 269,
+    "name": "Vikingsson, Jimmie",
+    "finish_time": "01:27:20",
+    "finish_seconds": 5240
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 271,
+    "name": "Hemmingsen, Jeppe",
+    "finish_time": "01:27:27",
+    "finish_seconds": 5247
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 273,
+    "name": "Larguier, Ma\u00ebl",
+    "finish_time": "01:27:29",
+    "finish_seconds": 5249
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 275,
+    "name": "L, Pierlo",
+    "finish_time": "01:27:41",
+    "finish_seconds": 5261
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 277,
+    "name": "Probst, Dominik",
+    "finish_time": "01:27:49",
+    "finish_seconds": 5269
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 279,
+    "name": "Lid\u00e9n, Christopher",
+    "finish_time": "01:27:57",
+    "finish_seconds": 5277
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 281,
+    "name": "Mcgoey, James",
+    "finish_time": "01:28:05",
+    "finish_seconds": 5285
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 283,
+    "name": "Whittam, Jonathan",
+    "finish_time": "01:28:15",
+    "finish_seconds": 5295
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 285,
+    "name": "Freytag, Daniel",
+    "finish_time": "01:28:17",
+    "finish_seconds": 5297
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 287,
+    "name": "Hammer, Marc",
+    "finish_time": "01:28:41",
+    "finish_seconds": 5321
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 289,
+    "name": "Moezelaar, Robin",
+    "finish_time": "01:28:45",
+    "finish_seconds": 5325
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 291,
+    "name": "Thomas, Gruffudd",
+    "finish_time": "01:28:48",
+    "finish_seconds": 5328
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 293,
+    "name": "Insulan, Robert",
+    "finish_time": "01:28:58",
+    "finish_seconds": 5338
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 295,
+    "name": "Jones, Dale",
+    "finish_time": "01:28:58",
+    "finish_seconds": 5338
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 297,
+    "name": "Dreyer Larsen, Mikkel",
+    "finish_time": "01:29:04",
+    "finish_seconds": 5344
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 299,
+    "name": "Mcdonnell, Jordan",
+    "finish_time": "01:29:17",
+    "finish_seconds": 5357
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 301,
+    "name": "Prost, Rolf",
+    "finish_time": "01:29:29",
+    "finish_seconds": 5369
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 303,
+    "name": "Seyrkammer, Lukas",
+    "finish_time": "01:29:38",
+    "finish_seconds": 5378
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 305,
+    "name": "Kilinc, Ismail",
+    "finish_time": "01:29:43",
+    "finish_seconds": 5383
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 307,
+    "name": "H\u00f6cker, Max",
+    "finish_time": "01:29:52",
+    "finish_seconds": 5392
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 309,
+    "name": "Lindblom, Tomas",
+    "finish_time": "01:30:08",
+    "finish_seconds": 5408
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 311,
+    "name": "Abdalla Leftawi, Ahmed",
+    "finish_time": "01:30:15",
+    "finish_seconds": 5415
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 313,
+    "name": "Brooks, Chris",
+    "finish_time": "01:30:24",
+    "finish_seconds": 5424
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 315,
+    "name": "Zappacosta, Antony",
+    "finish_time": "01:30:41",
+    "finish_seconds": 5441
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 317,
+    "name": "Clements, Thomas",
+    "finish_time": "01:30:46",
+    "finish_seconds": 5446
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 319,
+    "name": "Moralee, Harry",
+    "finish_time": "01:31:00",
+    "finish_seconds": 5460
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 321,
+    "name": "Abud, Karim",
+    "finish_time": "01:31:06",
+    "finish_seconds": 5466
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 323,
+    "name": "Lindberg, Jonas",
+    "finish_time": "01:31:18",
+    "finish_seconds": 5478
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 325,
+    "name": "Marskell, Alexander",
+    "finish_time": "01:31:46",
+    "finish_seconds": 5506
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 327,
+    "name": "Olsson, Anders",
+    "finish_time": "01:31:50",
+    "finish_seconds": 5510
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 329,
+    "name": "Zapalskis, Justas",
+    "finish_time": "01:31:58",
+    "finish_seconds": 5518
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 331,
+    "name": "V\u00e4lkki, Totte",
+    "finish_time": "01:32:13",
+    "finish_seconds": 5533
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 333,
+    "name": "Patil, Prathamesh",
+    "finish_time": "01:32:14",
+    "finish_seconds": 5534
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 335,
+    "name": "Bushby, Louis",
+    "finish_time": "01:32:26",
+    "finish_seconds": 5546
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 337,
+    "name": "Ruet, Michael",
+    "finish_time": "01:32:27",
+    "finish_seconds": 5547
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 339,
+    "name": "Jansson, Mats",
+    "finish_time": "01:32:42",
+    "finish_seconds": 5562
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 341,
+    "name": "Arikan, Elliot",
+    "finish_time": "01:32:59",
+    "finish_seconds": 5579
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 343,
+    "name": "Karoblis, Naglis",
+    "finish_time": "01:33:08",
+    "finish_seconds": 5588
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 345,
+    "name": "Alves, Guilherme",
+    "finish_time": "01:33:25",
+    "finish_seconds": 5605
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 347,
+    "name": "Rindesk\u00e4r, Erik",
+    "finish_time": "01:33:43",
+    "finish_seconds": 5623
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 349,
+    "name": "Fella, Charles",
+    "finish_time": "01:33:55",
+    "finish_seconds": 5635
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 351,
+    "name": "Ununger, Anton",
+    "finish_time": "01:34:08",
+    "finish_seconds": 5648
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 353,
+    "name": "Svensson, Tobias",
+    "finish_time": "01:34:12",
+    "finish_seconds": 5652
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 355,
+    "name": "Huigen, Ren\u00e9",
+    "finish_time": "01:34:31",
+    "finish_seconds": 5671
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 357,
+    "name": "Alsenlid, Fredrik",
+    "finish_time": "01:34:39",
+    "finish_seconds": 5679
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 359,
+    "name": "Fay\u00e7al, Benziane",
+    "finish_time": "01:34:48",
+    "finish_seconds": 5688
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 361,
+    "name": "AMOU, Emmanuel",
+    "finish_time": "01:35:11",
+    "finish_seconds": 5711
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 363,
+    "name": "Wickstr\u00f6m, Felix",
+    "finish_time": "01:35:35",
+    "finish_seconds": 5735
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 365,
+    "name": "Schubert, Philippe",
+    "finish_time": "01:35:48",
+    "finish_seconds": 5748
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 367,
+    "name": "Kialt, Robert",
+    "finish_time": "01:36:20",
+    "finish_seconds": 5780
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 369,
+    "name": "Rehan, Rajan",
+    "finish_time": "01:36:29",
+    "finish_seconds": 5789
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 371,
+    "name": "Konesh, Yuvan",
+    "finish_time": "01:36:41",
+    "finish_seconds": 5801
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 373,
+    "name": "Svanqvist, Viktor",
+    "finish_time": "01:37:07",
+    "finish_seconds": 5827
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 375,
+    "name": "Kalogeris, Stefanos",
+    "finish_time": "01:37:26",
+    "finish_seconds": 5846
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 377,
+    "name": "Dalvik, Matts",
+    "finish_time": "01:37:46",
+    "finish_seconds": 5866
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 379,
+    "name": "Link\u016bnaitis, Vilius",
+    "finish_time": "01:37:52",
+    "finish_seconds": 5872
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 381,
+    "name": "Smith-Adams, Jamie",
+    "finish_time": "01:38:59",
+    "finish_seconds": 5939
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 383,
+    "name": "Johansson, Joakim",
+    "finish_time": "01:39:15",
+    "finish_seconds": 5955
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 385,
+    "name": "Scharp, Anders",
+    "finish_time": "01:39:28",
+    "finish_seconds": 5968
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 387,
+    "name": "McKenna, Callum",
+    "finish_time": "01:39:37",
+    "finish_seconds": 5977
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 389,
+    "name": "L\u00f6veborg, Peter",
+    "finish_time": "01:39:41",
+    "finish_seconds": 5981
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "M",
+    "rank": 391,
+    "name": "Billing, Tomas",
+    "finish_time": "01:40:00",
+    "finish_seconds": 6000
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 1,
+    "name": "Miettinen, Suvi",
+    "finish_time": "01:06:34",
+    "finish_seconds": 3994
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 3,
+    "name": "Mikalsen, Maria",
+    "finish_time": "01:08:31",
+    "finish_seconds": 4111
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 5,
+    "name": "Marion, Agathe",
+    "finish_time": "01:10:25",
+    "finish_seconds": 4225
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 7,
+    "name": "Ahti, Sofie",
+    "finish_time": "01:11:51",
+    "finish_seconds": 4311
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 9,
+    "name": "Sasse, Josefin",
+    "finish_time": "01:14:37",
+    "finish_seconds": 4477
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 11,
+    "name": "Stadelmann, Lovisa",
+    "finish_time": "01:14:56",
+    "finish_seconds": 4496
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 13,
+    "name": "Bj\u00f6rn, Julia",
+    "finish_time": "01:15:12",
+    "finish_seconds": 4512
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 15,
+    "name": "Forsberg, Tess",
+    "finish_time": "01:15:40",
+    "finish_seconds": 4540
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 17,
+    "name": "Haucke, Henriette",
+    "finish_time": "01:16:34",
+    "finish_seconds": 4594
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 19,
+    "name": "Vos, Iris",
+    "finish_time": "01:16:48",
+    "finish_seconds": 4608
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 21,
+    "name": "Sj\u00f6qvist, Annie",
+    "finish_time": "01:16:57",
+    "finish_seconds": 4617
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 23,
+    "name": "Gibson, Anna",
+    "finish_time": "01:17:19",
+    "finish_seconds": 4639
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 25,
+    "name": "Kivim\u00e4ki, P\u00e4ivi",
+    "finish_time": "01:17:34",
+    "finish_seconds": 4654
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 27,
+    "name": "Hauc, B\u00e9n\u00e9dicte",
+    "finish_time": "01:17:45",
+    "finish_seconds": 4665
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 29,
+    "name": "Vasileva, Vanina",
+    "finish_time": "01:17:58",
+    "finish_seconds": 4678
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 31,
+    "name": "Jutbo, Malin",
+    "finish_time": "01:18:20",
+    "finish_seconds": 4700
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 33,
+    "name": "Tveranger Alfer, Marie",
+    "finish_time": "01:18:41",
+    "finish_seconds": 4721
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 35,
+    "name": "Wemh\u00f6ner, Ida",
+    "finish_time": "01:18:58",
+    "finish_seconds": 4738
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 37,
+    "name": "Sandberg, Mimmi",
+    "finish_time": "01:19:05",
+    "finish_seconds": 4745
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 39,
+    "name": "Roos, Klara",
+    "finish_time": "01:19:16",
+    "finish_seconds": 4756
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 41,
+    "name": "Nurminen, Anna-Maria",
+    "finish_time": "01:19:30",
+    "finish_seconds": 4770
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 43,
+    "name": "S\u00f6rhannus, Amanda",
+    "finish_time": "01:19:34",
+    "finish_seconds": 4774
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 45,
+    "name": "Brazier, Katie",
+    "finish_time": "01:19:44",
+    "finish_seconds": 4784
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 47,
+    "name": "Lampeitl-\u00d6berg, Jessica",
+    "finish_time": "01:20:13",
+    "finish_seconds": 4813
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 49,
+    "name": "Axelsson, Th\u00e9r\u00e8se",
+    "finish_time": "01:20:28",
+    "finish_seconds": 4828
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 51,
+    "name": "Kjellberg, Louise",
+    "finish_time": "01:20:57",
+    "finish_seconds": 4857
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 53,
+    "name": "Nilsson, Anna",
+    "finish_time": "01:21:29",
+    "finish_seconds": 4889
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 55,
+    "name": "Aarestrup, Irene",
+    "finish_time": "01:21:47",
+    "finish_seconds": 4907
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 57,
+    "name": "Wetterdal, Maria",
+    "finish_time": "01:21:58",
+    "finish_seconds": 4918
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 59,
+    "name": "Westlin, Cecilia",
+    "finish_time": "01:22:17",
+    "finish_seconds": 4937
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 61,
+    "name": "Nilsson, Rebecca",
+    "finish_time": "01:22:58",
+    "finish_seconds": 4978
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 63,
+    "name": "Moberg, Madeleine",
+    "finish_time": "01:23:09",
+    "finish_seconds": 4989
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 65,
+    "name": "Timms, Carolina",
+    "finish_time": "01:23:28",
+    "finish_seconds": 5008
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 67,
+    "name": "Brooks, Jemma",
+    "finish_time": "01:23:44",
+    "finish_seconds": 5024
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 69,
+    "name": "Liem, Lois",
+    "finish_time": "01:24:14",
+    "finish_seconds": 5054
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 71,
+    "name": "Jangvert, Josefine",
+    "finish_time": "01:24:23",
+    "finish_seconds": 5063
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 73,
+    "name": "Ehrmanntraut, Editha",
+    "finish_time": "01:24:40",
+    "finish_seconds": 5080
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 75,
+    "name": "Karlsson, Sara",
+    "finish_time": "01:25:01",
+    "finish_seconds": 5101
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 77,
+    "name": "Jakobsen, Johanne Charlotte",
+    "finish_time": "01:25:13",
+    "finish_seconds": 5113
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 79,
+    "name": "H\u00f6gberg, Linda",
+    "finish_time": "01:25:28",
+    "finish_seconds": 5128
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 81,
+    "name": "Blomberg, Johanna",
+    "finish_time": "01:25:47",
+    "finish_seconds": 5147
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 83,
+    "name": "Lindeborg, Sara",
+    "finish_time": "01:25:55",
+    "finish_seconds": 5155
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 85,
+    "name": "B\u00f8rresen, Britt Helen",
+    "finish_time": "01:26:30",
+    "finish_seconds": 5190
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 87,
+    "name": "Lorichs, Madeleine",
+    "finish_time": "01:26:40",
+    "finish_seconds": 5200
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 89,
+    "name": "Thomsen, Lene",
+    "finish_time": "01:26:55",
+    "finish_seconds": 5215
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 91,
+    "name": "Wirsig, Lisa",
+    "finish_time": "01:27:21",
+    "finish_seconds": 5241
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 93,
+    "name": "Woolfenden, Laura",
+    "finish_time": "01:27:38",
+    "finish_seconds": 5258
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 95,
+    "name": "Ollila, Ida",
+    "finish_time": "01:28:05",
+    "finish_seconds": 5285
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 97,
+    "name": "Olausson, Anna",
+    "finish_time": "01:28:09",
+    "finish_seconds": 5289
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 99,
+    "name": "Paulsson Wessberg, Moa",
+    "finish_time": "01:28:19",
+    "finish_seconds": 5299
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 101,
+    "name": "Vaahto, Malin",
+    "finish_time": "01:28:38",
+    "finish_seconds": 5318
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 103,
+    "name": "Bredberg, Micaela",
+    "finish_time": "01:29:16",
+    "finish_seconds": 5356
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 105,
+    "name": "\u00d8lgaard, Simone",
+    "finish_time": "01:29:24",
+    "finish_seconds": 5364
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 107,
+    "name": "Lake, Nikki",
+    "finish_time": "01:30:20",
+    "finish_seconds": 5420
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 109,
+    "name": "Turtinen, Ursula",
+    "finish_time": "01:30:45",
+    "finish_seconds": 5445
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 111,
+    "name": "Karlsson, Stina",
+    "finish_time": "01:31:06",
+    "finish_seconds": 5466
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 113,
+    "name": "Vestermark, Tindra",
+    "finish_time": "01:32:01",
+    "finish_seconds": 5521
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 115,
+    "name": "Clint, Holly",
+    "finish_time": "01:32:03",
+    "finish_seconds": 5523
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 117,
+    "name": "Annaheid, Sarah",
+    "finish_time": "01:32:11",
+    "finish_seconds": 5531
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 119,
+    "name": "Lindgren, Anna",
+    "finish_time": "01:32:20",
+    "finish_seconds": 5540
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 121,
+    "name": "Gabrielsen, Monica",
+    "finish_time": "01:32:27",
+    "finish_seconds": 5547
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 123,
+    "name": "Zubieta, Ana",
+    "finish_time": "01:32:35",
+    "finish_seconds": 5555
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 125,
+    "name": "Sand-Grimnitz, Maja",
+    "finish_time": "01:32:48",
+    "finish_seconds": 5568
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 127,
+    "name": "Mutale, Binta",
+    "finish_time": "01:33:16",
+    "finish_seconds": 5596
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 129,
+    "name": "W\u00e5hlin, Jennie",
+    "finish_time": "01:33:58",
+    "finish_seconds": 5638
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 131,
+    "name": "Ambj\u00f6rnsson, Sandra",
+    "finish_time": "01:34:09",
+    "finish_seconds": 5649
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 133,
+    "name": "Hartmann, Lina",
+    "finish_time": "01:34:32",
+    "finish_seconds": 5672
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 135,
+    "name": "Polgar, Aniko",
+    "finish_time": "01:34:49",
+    "finish_seconds": 5689
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 137,
+    "name": "Chatty, Nina",
+    "finish_time": "01:34:56",
+    "finish_seconds": 5696
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 139,
+    "name": "Toode, Kersti",
+    "finish_time": "01:35:08",
+    "finish_seconds": 5708
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 141,
+    "name": "Petersen, Elsebeth Lea",
+    "finish_time": "01:35:48",
+    "finish_seconds": 5748
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 143,
+    "name": "Nielsen, Monica",
+    "finish_time": "01:36:08",
+    "finish_seconds": 5768
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 145,
+    "name": "Byrnes, Anna",
+    "finish_time": "01:36:42",
+    "finish_seconds": 5802
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 147,
+    "name": "Hedlund, Sofie",
+    "finish_time": "01:36:59",
+    "finish_seconds": 5819
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 149,
+    "name": "Folkesson, Sofia",
+    "finish_time": "01:37:02",
+    "finish_seconds": 5822
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 151,
+    "name": "Thim Nordberg, Viktoria",
+    "finish_time": "01:37:06",
+    "finish_seconds": 5826
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 153,
+    "name": "Facchini Jacobsson, Mirjam",
+    "finish_time": "01:37:30",
+    "finish_seconds": 5850
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 155,
+    "name": "Sk\u00e5nstad, Cecilia",
+    "finish_time": "01:37:40",
+    "finish_seconds": 5860
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 157,
+    "name": "Del\u00e9n, Lena",
+    "finish_time": "01:37:53",
+    "finish_seconds": 5873
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 159,
+    "name": "Svolgaard, Pia",
+    "finish_time": "01:38:08",
+    "finish_seconds": 5888
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 161,
+    "name": "Chebli, Zaynab",
+    "finish_time": "01:38:23",
+    "finish_seconds": 5903
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 163,
+    "name": "Alloo, Emily",
+    "finish_time": "01:38:33",
+    "finish_seconds": 5913
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 165,
+    "name": "Zenkova, Marina",
+    "finish_time": "01:38:54",
+    "finish_seconds": 5934
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 167,
+    "name": "Ma, Olesya",
+    "finish_time": "01:39:00",
+    "finish_seconds": 5940
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 169,
+    "name": "Roupe, Rebecca",
+    "finish_time": "01:39:32",
+    "finish_seconds": 5972
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 171,
+    "name": "Bohm, Therese",
+    "finish_time": "01:40:30",
+    "finish_seconds": 6030
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 173,
+    "name": "Engdahl, Moa",
+    "finish_time": "01:41:37",
+    "finish_seconds": 6097
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 175,
+    "name": "Larsson, Felicia",
+    "finish_time": "01:42:10",
+    "finish_seconds": 6130
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 177,
+    "name": "Kleredal, Isabel",
+    "finish_time": "01:42:17",
+    "finish_seconds": 6137
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 179,
+    "name": "Gils, Pauline",
+    "finish_time": "01:42:48",
+    "finish_seconds": 6168
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 181,
+    "name": "Johansson, Sara",
+    "finish_time": "01:43:39",
+    "finish_seconds": 6219
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 183,
+    "name": "Aagaard, Hannah",
+    "finish_time": "01:44:26",
+    "finish_seconds": 6266
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 185,
+    "name": "Ericsson, Malin",
+    "finish_time": "01:44:49",
+    "finish_seconds": 6289
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 187,
+    "name": "George, Patricia",
+    "finish_time": "01:45:18",
+    "finish_seconds": 6318
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 189,
+    "name": "N\u00f8rholm, Sofie",
+    "finish_time": "01:45:46",
+    "finish_seconds": 6346
+  },
+  {
+    "venue": "Stockholm 2025",
+    "gender": "W",
+    "rank": 191,
+    "name": "Hemmingsen, Secilia",
+    "finish_time": "01:45:58",
+    "finish_seconds": 6358
+  }
+]

@@ -1,0 +1,2994 @@
+[
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 1,
+    "name": "Hong, Beomseok",
+    "finish_time": "01:00:27",
+    "finish_seconds": 3627
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 3,
+    "name": "Deep, Aman",
+    "finish_time": "01:12:41",
+    "finish_seconds": 4361
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 5,
+    "name": "yadav, ashish",
+    "finish_time": "01:13:36",
+    "finish_seconds": 4416
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 7,
+    "name": "Chan, Jonathan",
+    "finish_time": "01:14:34",
+    "finish_seconds": 4474
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 9,
+    "name": "Mishra, Kundan",
+    "finish_time": "01:16:48",
+    "finish_seconds": 4608
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 11,
+    "name": "Shetty, Shaumik",
+    "finish_time": "01:17:50",
+    "finish_seconds": 4670
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 13,
+    "name": "Kumar, Tarsim",
+    "finish_time": "01:18:53",
+    "finish_seconds": 4733
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 15,
+    "name": "Gurmey, Sonam",
+    "finish_time": "01:19:11",
+    "finish_seconds": 4751
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 17,
+    "name": "Dagar, Monu",
+    "finish_time": "01:19:31",
+    "finish_seconds": 4771
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 19,
+    "name": "Peron, Said",
+    "finish_time": "01:19:58",
+    "finish_seconds": 4798
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 21,
+    "name": "Singh, Sukhpreet",
+    "finish_time": "01:21:12",
+    "finish_seconds": 4872
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 23,
+    "name": "Singh, Surender",
+    "finish_time": "01:21:37",
+    "finish_seconds": 4897
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 25,
+    "name": "Chaudhary, Vaibhav",
+    "finish_time": "01:21:44",
+    "finish_seconds": 4904
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 27,
+    "name": "MALANI, SARTHAK",
+    "finish_time": "01:22:18",
+    "finish_seconds": 4938
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 29,
+    "name": "thapa, abhinav",
+    "finish_time": "01:22:25",
+    "finish_seconds": 4945
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 31,
+    "name": "Wadhera, Naman",
+    "finish_time": "01:22:46",
+    "finish_seconds": 4966
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 33,
+    "name": "Behera, Aakash",
+    "finish_time": "01:23:32",
+    "finish_seconds": 5012
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 35,
+    "name": "Verma, Rohit",
+    "finish_time": "01:23:45",
+    "finish_seconds": 5025
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 37,
+    "name": "Dalal, Bhupendra",
+    "finish_time": "01:24:03",
+    "finish_seconds": 5043
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 39,
+    "name": "Naylor, Paul",
+    "finish_time": "01:24:14",
+    "finish_seconds": 5054
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 41,
+    "name": "Parrulli, Lorenzo",
+    "finish_time": "01:24:35",
+    "finish_seconds": 5075
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 43,
+    "name": "Kadian, Amit",
+    "finish_time": "01:24:55",
+    "finish_seconds": 5095
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 45,
+    "name": "Kumar, Aman",
+    "finish_time": "01:25:08",
+    "finish_seconds": 5108
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 47,
+    "name": "Sindhu, Somveer",
+    "finish_time": "01:25:13",
+    "finish_seconds": 5113
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 49,
+    "name": "Dhanda, Vibor",
+    "finish_time": "01:25:38",
+    "finish_seconds": 5138
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 51,
+    "name": "Meite, Mohamed",
+    "finish_time": "01:25:43",
+    "finish_seconds": 5143
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 53,
+    "name": "Zagade, Chinmay",
+    "finish_time": "01:25:47",
+    "finish_seconds": 5147
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 55,
+    "name": "Vasudevan, Bharath Kumar",
+    "finish_time": "01:26:14",
+    "finish_seconds": 5174
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 57,
+    "name": "Radhakrishnan, Harshan",
+    "finish_time": "01:26:40",
+    "finish_seconds": 5200
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 59,
+    "name": "Gupta, Sumeet",
+    "finish_time": "01:26:58",
+    "finish_seconds": 5218
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 61,
+    "name": "BHANDARI, NEERAJ",
+    "finish_time": "01:27:58",
+    "finish_seconds": 5278
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 63,
+    "name": "Dabas, Aryan",
+    "finish_time": "01:28:23",
+    "finish_seconds": 5303
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 65,
+    "name": "Basavaraju, Punith",
+    "finish_time": "01:28:58",
+    "finish_seconds": 5338
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 67,
+    "name": "James, Joseph Nikhil",
+    "finish_time": "01:29:04",
+    "finish_seconds": 5344
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 69,
+    "name": "YADAV, KAPIL",
+    "finish_time": "01:29:18",
+    "finish_seconds": 5358
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 71,
+    "name": "Chitkara, Shrey",
+    "finish_time": "01:29:42",
+    "finish_seconds": 5382
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 73,
+    "name": "Srivastava, Atullya",
+    "finish_time": "01:30:00",
+    "finish_seconds": 5400
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 75,
+    "name": "Sah, Binay",
+    "finish_time": "01:30:16",
+    "finish_seconds": 5416
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 77,
+    "name": "Bhati, Kapil",
+    "finish_time": "01:31:01",
+    "finish_seconds": 5461
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 79,
+    "name": "Ruhil, Diwas",
+    "finish_time": "01:31:26",
+    "finish_seconds": 5486
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 81,
+    "name": "Bhateja, Mayank",
+    "finish_time": "01:31:36",
+    "finish_seconds": 5496
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 83,
+    "name": "Singh, Vivek",
+    "finish_time": "01:32:04",
+    "finish_seconds": 5524
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 85,
+    "name": "Rai, Anubhav",
+    "finish_time": "01:32:06",
+    "finish_seconds": 5526
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 87,
+    "name": "Bhati, Bharat",
+    "finish_time": "01:32:23",
+    "finish_seconds": 5543
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 89,
+    "name": "Singh, Abhijeet",
+    "finish_time": "01:32:42",
+    "finish_seconds": 5562
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 91,
+    "name": "Sharma, Akshay",
+    "finish_time": "01:33:02",
+    "finish_seconds": 5582
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 93,
+    "name": "Singh Rawat, Bhupinder",
+    "finish_time": "01:33:06",
+    "finish_seconds": 5586
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 95,
+    "name": "Chahal, Devender",
+    "finish_time": "01:33:18",
+    "finish_seconds": 5598
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 97,
+    "name": "Sahu, Debashis",
+    "finish_time": "01:33:30",
+    "finish_seconds": 5610
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 99,
+    "name": "Panchpal, Pawan",
+    "finish_time": "01:33:35",
+    "finish_seconds": 5615
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 101,
+    "name": "Gulia, Vivek",
+    "finish_time": "01:33:44",
+    "finish_seconds": 5624
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 103,
+    "name": "Teo, Ser Luck",
+    "finish_time": "01:34:04",
+    "finish_seconds": 5644
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 105,
+    "name": "Gupta, Raju",
+    "finish_time": "01:34:35",
+    "finish_seconds": 5675
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 107,
+    "name": "Bhadauriya, Manish",
+    "finish_time": "01:34:38",
+    "finish_seconds": 5678
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 109,
+    "name": "G, Sachin",
+    "finish_time": "01:34:42",
+    "finish_seconds": 5682
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 111,
+    "name": "Jain, Siddhant",
+    "finish_time": "01:34:48",
+    "finish_seconds": 5688
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 113,
+    "name": "Pant, Gauraw",
+    "finish_time": "01:35:00",
+    "finish_seconds": 5700
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 115,
+    "name": "lakra, hemant",
+    "finish_time": "01:35:16",
+    "finish_seconds": 5716
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 117,
+    "name": "Verma, Sarthak",
+    "finish_time": "01:35:21",
+    "finish_seconds": 5721
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 119,
+    "name": "Pradhan, Vinod",
+    "finish_time": "01:35:23",
+    "finish_seconds": 5723
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 121,
+    "name": "Lalji, Naren",
+    "finish_time": "01:35:27",
+    "finish_seconds": 5727
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 123,
+    "name": "Sharma, Abhishek",
+    "finish_time": "01:36:01",
+    "finish_seconds": 5761
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 125,
+    "name": "More, Rohit",
+    "finish_time": "01:36:18",
+    "finish_seconds": 5778
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 127,
+    "name": "raj, Aditya",
+    "finish_time": "01:36:37",
+    "finish_seconds": 5797
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 129,
+    "name": "BOHRA, AMAN",
+    "finish_time": "01:37:21",
+    "finish_seconds": 5841
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 131,
+    "name": "Joshi, Manish",
+    "finish_time": "01:37:40",
+    "finish_seconds": 5860
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 133,
+    "name": "Mehla, Harsh",
+    "finish_time": "01:37:47",
+    "finish_seconds": 5867
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 135,
+    "name": "Kshetry, Yashraj",
+    "finish_time": "01:37:52",
+    "finish_seconds": 5872
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 137,
+    "name": "Chaba, Karan",
+    "finish_time": "01:38:05",
+    "finish_seconds": 5885
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 139,
+    "name": "Pandey, Akhilesh",
+    "finish_time": "01:38:13",
+    "finish_seconds": 5893
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 141,
+    "name": "Kothawale, Devansh",
+    "finish_time": "01:38:27",
+    "finish_seconds": 5907
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 143,
+    "name": "Varghese, Sebastian",
+    "finish_time": "01:38:29",
+    "finish_seconds": 5909
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 145,
+    "name": "Ponnappa, Prashanth",
+    "finish_time": "01:38:36",
+    "finish_seconds": 5916
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 147,
+    "name": "Gupta, Karan",
+    "finish_time": "01:38:45",
+    "finish_seconds": 5925
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 149,
+    "name": "Gonzalez, Luis",
+    "finish_time": "01:38:47",
+    "finish_seconds": 5927
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 151,
+    "name": "Aggarwal, Arun Kumar",
+    "finish_time": "01:39:07",
+    "finish_seconds": 5947
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 153,
+    "name": "de Haan, Jelle",
+    "finish_time": "01:39:11",
+    "finish_seconds": 5951
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 155,
+    "name": "Singh, Vikram",
+    "finish_time": "01:39:20",
+    "finish_seconds": 5960
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 157,
+    "name": "Madaan, Pankaj",
+    "finish_time": "01:39:27",
+    "finish_seconds": 5967
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 159,
+    "name": "Samant, Vaibhav",
+    "finish_time": "01:39:44",
+    "finish_seconds": 5984
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 161,
+    "name": "sharma, sahil",
+    "finish_time": "01:39:53",
+    "finish_seconds": 5993
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 163,
+    "name": "Tripathi, Nilesh",
+    "finish_time": "01:40:05",
+    "finish_seconds": 6005
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 165,
+    "name": "Shandilaya, Kshitij",
+    "finish_time": "01:40:11",
+    "finish_seconds": 6011
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 167,
+    "name": "Singhal, Shivam",
+    "finish_time": "01:40:12",
+    "finish_seconds": 6012
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 169,
+    "name": "Sawant, Sumedh",
+    "finish_time": "01:40:18",
+    "finish_seconds": 6018
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 171,
+    "name": "Upadhayay, Ashay",
+    "finish_time": "01:40:27",
+    "finish_seconds": 6027
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 173,
+    "name": "Nahar, Rahul",
+    "finish_time": "01:40:29",
+    "finish_seconds": 6029
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 175,
+    "name": "Pawar, Advit Singh",
+    "finish_time": "01:40:35",
+    "finish_seconds": 6035
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 177,
+    "name": "Yadav, Sonu",
+    "finish_time": "01:40:56",
+    "finish_seconds": 6056
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 179,
+    "name": "Anand, Vedic",
+    "finish_time": "01:41:08",
+    "finish_seconds": 6068
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 181,
+    "name": "Aggarwal, Saurabh",
+    "finish_time": "01:41:11",
+    "finish_seconds": 6071
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 183,
+    "name": "Singh, Sandesh",
+    "finish_time": "01:41:25",
+    "finish_seconds": 6085
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 185,
+    "name": "Ashok Kumar, Bala",
+    "finish_time": "01:41:32",
+    "finish_seconds": 6092
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 187,
+    "name": "Thakur, bhopender",
+    "finish_time": "01:41:46",
+    "finish_seconds": 6106
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 189,
+    "name": "Vyas, Tosh",
+    "finish_time": "01:41:51",
+    "finish_seconds": 6111
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 191,
+    "name": "Raj, Deepak",
+    "finish_time": "01:41:54",
+    "finish_seconds": 6114
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 193,
+    "name": "Raj, Aryan",
+    "finish_time": "01:42:08",
+    "finish_seconds": 6128
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 195,
+    "name": "Paul, Vanshajh",
+    "finish_time": "01:42:15",
+    "finish_seconds": 6135
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 197,
+    "name": "Baweja, Romit",
+    "finish_time": "01:42:25",
+    "finish_seconds": 6145
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 199,
+    "name": "Arora, Abheek",
+    "finish_time": "01:42:30",
+    "finish_seconds": 6150
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 201,
+    "name": "Krishan shukla, Kaustubh",
+    "finish_time": "01:42:45",
+    "finish_seconds": 6165
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 203,
+    "name": "Jain, Axansh",
+    "finish_time": "01:42:48",
+    "finish_seconds": 6168
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 205,
+    "name": "Dasila, Sanjay",
+    "finish_time": "01:43:07",
+    "finish_seconds": 6187
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 207,
+    "name": "Bansal, Gautam",
+    "finish_time": "01:43:29",
+    "finish_seconds": 6209
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 209,
+    "name": "Sharma, Yogesh",
+    "finish_time": "01:43:42",
+    "finish_seconds": 6222
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 211,
+    "name": "NARANG, AMIT",
+    "finish_time": "01:43:53",
+    "finish_seconds": 6233
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 213,
+    "name": "Hegde, Tanay",
+    "finish_time": "01:43:59",
+    "finish_seconds": 6239
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 215,
+    "name": "BATRA, ONKAR",
+    "finish_time": "01:44:08",
+    "finish_seconds": 6248
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 217,
+    "name": "Jain, Prasoon",
+    "finish_time": "01:44:15",
+    "finish_seconds": 6255
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 219,
+    "name": "NEGI, TANMAY",
+    "finish_time": "01:44:33",
+    "finish_seconds": 6273
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 221,
+    "name": "TANDON, CHATRAPATI ARYAN",
+    "finish_time": "01:44:40",
+    "finish_seconds": 6280
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 223,
+    "name": "Jolly, Jagpreet",
+    "finish_time": "01:44:44",
+    "finish_seconds": 6284
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 225,
+    "name": "Gomes, Nathan",
+    "finish_time": "01:44:46",
+    "finish_seconds": 6286
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 227,
+    "name": "Notiyath, Pramod",
+    "finish_time": "01:44:50",
+    "finish_seconds": 6290
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 229,
+    "name": "Bhati, Abhimanyu",
+    "finish_time": "01:44:57",
+    "finish_seconds": 6297
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 231,
+    "name": "Bora, Akhil",
+    "finish_time": "01:45:02",
+    "finish_seconds": 6302
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 233,
+    "name": "THAREJA, JAY",
+    "finish_time": "01:45:10",
+    "finish_seconds": 6310
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 235,
+    "name": "Mansukhani, Rohit",
+    "finish_time": "01:45:28",
+    "finish_seconds": 6328
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 237,
+    "name": "Kaushal, Naman",
+    "finish_time": "01:45:30",
+    "finish_seconds": 6330
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 239,
+    "name": "Myhill, Tom",
+    "finish_time": "01:45:45",
+    "finish_seconds": 6345
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 241,
+    "name": "Moolya, Jeet",
+    "finish_time": "01:45:49",
+    "finish_seconds": 6349
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 243,
+    "name": "Dhoundiyal, Sunil",
+    "finish_time": "01:45:54",
+    "finish_seconds": 6354
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 245,
+    "name": "Nath, Ashok",
+    "finish_time": "01:46:08",
+    "finish_seconds": 6368
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 247,
+    "name": "DHADVE, AKSHAY",
+    "finish_time": "01:46:18",
+    "finish_seconds": 6378
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 249,
+    "name": "Tewatia, Arjun",
+    "finish_time": "01:46:41",
+    "finish_seconds": 6401
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 251,
+    "name": "Thakkar, Ravi",
+    "finish_time": "01:46:49",
+    "finish_seconds": 6409
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 253,
+    "name": "Mehra, Sumit",
+    "finish_time": "01:46:52",
+    "finish_seconds": 6412
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 255,
+    "name": "Nair, Rahul",
+    "finish_time": "01:46:57",
+    "finish_seconds": 6417
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 257,
+    "name": "Trivedi, Abhay",
+    "finish_time": "01:47:19",
+    "finish_seconds": 6439
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 259,
+    "name": "Lorne, Philip",
+    "finish_time": "01:47:29",
+    "finish_seconds": 6449
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 261,
+    "name": "Verma, Prateek",
+    "finish_time": "01:47:34",
+    "finish_seconds": 6454
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 263,
+    "name": "Dua, Raghav",
+    "finish_time": "01:47:39",
+    "finish_seconds": 6459
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 265,
+    "name": "jaipuria, ashwin",
+    "finish_time": "01:47:41",
+    "finish_seconds": 6461
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 267,
+    "name": "Jalan, Rishabh",
+    "finish_time": "01:47:47",
+    "finish_seconds": 6467
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 269,
+    "name": "Sharma, Vedant",
+    "finish_time": "01:48:09",
+    "finish_seconds": 6489
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 271,
+    "name": "Sane, Sagar",
+    "finish_time": "01:48:31",
+    "finish_seconds": 6511
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 273,
+    "name": "Singh, Maninder",
+    "finish_time": "01:48:37",
+    "finish_seconds": 6517
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 275,
+    "name": "Yadav, Vikas",
+    "finish_time": "01:48:44",
+    "finish_seconds": 6524
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 277,
+    "name": "Shubham, Shreyansh",
+    "finish_time": "01:48:48",
+    "finish_seconds": 6528
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 279,
+    "name": "Bhagwat, Jay",
+    "finish_time": "01:48:51",
+    "finish_seconds": 6531
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 281,
+    "name": "Panwar, Siddarth",
+    "finish_time": "01:48:54",
+    "finish_seconds": 6534
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 283,
+    "name": "Kumar, Rahul",
+    "finish_time": "01:49:03",
+    "finish_seconds": 6543
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 285,
+    "name": "sharma, Puru",
+    "finish_time": "01:49:13",
+    "finish_seconds": 6553
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 287,
+    "name": "Malik, Antriksh",
+    "finish_time": "01:49:31",
+    "finish_seconds": 6571
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 289,
+    "name": "Pande, Gautam",
+    "finish_time": "01:49:44",
+    "finish_seconds": 6584
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 291,
+    "name": "Khan, Danish",
+    "finish_time": "01:49:47",
+    "finish_seconds": 6587
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 293,
+    "name": "Gautam, Naveen",
+    "finish_time": "01:49:49",
+    "finish_seconds": 6589
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 295,
+    "name": "Mokal, Jitesh",
+    "finish_time": "01:49:52",
+    "finish_seconds": 6592
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 297,
+    "name": "Sahu, Sumit",
+    "finish_time": "01:50:01",
+    "finish_seconds": 6601
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 299,
+    "name": "Katyal, VIDUR",
+    "finish_time": "01:50:07",
+    "finish_seconds": 6607
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 301,
+    "name": "Narang, Amit",
+    "finish_time": "01:50:17",
+    "finish_seconds": 6617
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 303,
+    "name": "Mitra, Arjun",
+    "finish_time": "01:50:27",
+    "finish_seconds": 6627
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 305,
+    "name": "Patil, Nikhil",
+    "finish_time": "01:50:29",
+    "finish_seconds": 6629
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 307,
+    "name": "Patil, Tejas",
+    "finish_time": "01:50:35",
+    "finish_seconds": 6635
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 309,
+    "name": "Sagar, Sarthak",
+    "finish_time": "01:50:50",
+    "finish_seconds": 6650
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 311,
+    "name": "Kumar, Manoj",
+    "finish_time": "01:51:04",
+    "finish_seconds": 6664
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 313,
+    "name": "Harsh, Abhinav",
+    "finish_time": "01:51:14",
+    "finish_seconds": 6674
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 315,
+    "name": "Menezes, Malcolm",
+    "finish_time": "01:51:22",
+    "finish_seconds": 6682
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 317,
+    "name": "Sharma, Aryan",
+    "finish_time": "01:51:45",
+    "finish_seconds": 6705
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 319,
+    "name": "Panchal, Varun",
+    "finish_time": "01:51:49",
+    "finish_seconds": 6709
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 321,
+    "name": "Suneja, Rahul",
+    "finish_time": "01:51:57",
+    "finish_seconds": 6717
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 323,
+    "name": "Mann, Saksham",
+    "finish_time": "01:52:10",
+    "finish_seconds": 6730
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 325,
+    "name": "Uppal, Saurabh",
+    "finish_time": "01:52:48",
+    "finish_seconds": 6768
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 327,
+    "name": "MALLINA, SRIHARSHA",
+    "finish_time": "01:53:06",
+    "finish_seconds": 6786
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 329,
+    "name": "Gothwal, Satvik",
+    "finish_time": "01:53:29",
+    "finish_seconds": 6809
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 331,
+    "name": "Modi, Raghav",
+    "finish_time": "01:53:39",
+    "finish_seconds": 6819
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 333,
+    "name": "Singh, Daman",
+    "finish_time": "01:53:42",
+    "finish_seconds": 6822
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 335,
+    "name": "Agarwal, Vishal",
+    "finish_time": "01:53:58",
+    "finish_seconds": 6838
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 337,
+    "name": "Sharma, Parvinder",
+    "finish_time": "01:54:11",
+    "finish_seconds": 6851
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 339,
+    "name": "Singh, Yogpal",
+    "finish_time": "01:54:15",
+    "finish_seconds": 6855
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 341,
+    "name": "Panchal, Sani",
+    "finish_time": "01:54:23",
+    "finish_seconds": 6863
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 343,
+    "name": "DABHADE, SAHILRAVV",
+    "finish_time": "01:54:35",
+    "finish_seconds": 6875
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 345,
+    "name": "V, R",
+    "finish_time": "01:54:50",
+    "finish_seconds": 6890
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 347,
+    "name": "Rastogi, Tanishq",
+    "finish_time": "01:54:58",
+    "finish_seconds": 6898
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 349,
+    "name": "AGGARWAL, Pulkit",
+    "finish_time": "01:55:05",
+    "finish_seconds": 6905
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 351,
+    "name": "bansal, sidhanth",
+    "finish_time": "01:55:14",
+    "finish_seconds": 6914
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 353,
+    "name": "Kumar, Ajay",
+    "finish_time": "01:55:22",
+    "finish_seconds": 6922
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 355,
+    "name": "Bansal, Aakash",
+    "finish_time": "01:55:31",
+    "finish_seconds": 6931
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 357,
+    "name": "Tewatia, Mayank",
+    "finish_time": "01:55:38",
+    "finish_seconds": 6938
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 359,
+    "name": "Tomar, Vikram",
+    "finish_time": "01:55:47",
+    "finish_seconds": 6947
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 361,
+    "name": "Patel, Allan",
+    "finish_time": "01:56:01",
+    "finish_seconds": 6961
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 363,
+    "name": "Dawar, Ankit",
+    "finish_time": "01:56:03",
+    "finish_seconds": 6963
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 365,
+    "name": "Deep, Raman",
+    "finish_time": "01:56:08",
+    "finish_seconds": 6968
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 367,
+    "name": "Rathi, Vaibhav",
+    "finish_time": "01:56:10",
+    "finish_seconds": 6970
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 369,
+    "name": "Kholi, Pradeep",
+    "finish_time": "01:56:20",
+    "finish_seconds": 6980
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 371,
+    "name": "Prasad, Rajneesh",
+    "finish_time": "01:56:22",
+    "finish_seconds": 6982
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 373,
+    "name": "Dawood, Faraaz",
+    "finish_time": "01:56:39",
+    "finish_seconds": 6999
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 375,
+    "name": "Jaiswal, Ankit",
+    "finish_time": "01:56:50",
+    "finish_seconds": 7010
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 377,
+    "name": "Patel, Rumit",
+    "finish_time": "01:56:51",
+    "finish_seconds": 7011
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 379,
+    "name": "Mantri, Raghav",
+    "finish_time": "01:56:57",
+    "finish_seconds": 7017
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 381,
+    "name": "Balwada, Ankit",
+    "finish_time": "01:57:18",
+    "finish_seconds": 7038
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 383,
+    "name": "Bali, Anish",
+    "finish_time": "01:57:30",
+    "finish_seconds": 7050
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 385,
+    "name": "Clements, Thomas",
+    "finish_time": "01:57:34",
+    "finish_seconds": 7054
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 387,
+    "name": "Tonny, Tonny",
+    "finish_time": "01:57:49",
+    "finish_seconds": 7069
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 389,
+    "name": "Sharma, Samvit",
+    "finish_time": "01:58:09",
+    "finish_seconds": 7089
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 391,
+    "name": "Purohit, Mittul",
+    "finish_time": "01:58:31",
+    "finish_seconds": 7111
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 393,
+    "name": "CHOPRA, BHARAT",
+    "finish_time": "01:58:41",
+    "finish_seconds": 7121
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 395,
+    "name": "Dalal, Bhishm",
+    "finish_time": "01:58:44",
+    "finish_seconds": 7124
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 397,
+    "name": "Varma, Mahesh",
+    "finish_time": "01:58:52",
+    "finish_seconds": 7132
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 399,
+    "name": "Tekale, Vinay",
+    "finish_time": "01:58:56",
+    "finish_seconds": 7136
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 401,
+    "name": "Yadav, Siddharth",
+    "finish_time": "01:59:20",
+    "finish_seconds": 7160
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 403,
+    "name": "CHHOWALA, NEEL",
+    "finish_time": "01:59:31",
+    "finish_seconds": 7171
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 405,
+    "name": "Singh Chauhan, Abhishek",
+    "finish_time": "01:59:45",
+    "finish_seconds": 7185
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 407,
+    "name": "TRIPATHI, ARADHYA",
+    "finish_time": "01:59:46",
+    "finish_seconds": 7186
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 409,
+    "name": "Benjamin, Brian",
+    "finish_time": "02:00:15",
+    "finish_seconds": 7215
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 411,
+    "name": "Sharma, Mohit",
+    "finish_time": "02:00:20",
+    "finish_seconds": 7220
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 413,
+    "name": "Dhar, Raivat",
+    "finish_time": "02:00:33",
+    "finish_seconds": 7233
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 415,
+    "name": "Srivastav, Abhishek",
+    "finish_time": "02:00:44",
+    "finish_seconds": 7244
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 417,
+    "name": "Raghuvanshi, Rajesh",
+    "finish_time": "02:00:58",
+    "finish_seconds": 7258
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 419,
+    "name": "Sethi, Raghav",
+    "finish_time": "02:01:08",
+    "finish_seconds": 7268
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 421,
+    "name": "PATIL, SAGAR",
+    "finish_time": "02:01:18",
+    "finish_seconds": 7278
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 423,
+    "name": "Tripathi, Karan",
+    "finish_time": "02:01:19",
+    "finish_seconds": 7279
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 425,
+    "name": "Devan, Satish",
+    "finish_time": "02:01:28",
+    "finish_seconds": 7288
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 427,
+    "name": "RANA, Vrajendra",
+    "finish_time": "02:01:36",
+    "finish_seconds": 7296
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 429,
+    "name": "Gunasekaran, HARI",
+    "finish_time": "02:01:39",
+    "finish_seconds": 7299
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 431,
+    "name": "Arora, Mudit",
+    "finish_time": "02:01:59",
+    "finish_seconds": 7319
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 433,
+    "name": "Rastogi, Ramit",
+    "finish_time": "02:02:23",
+    "finish_seconds": 7343
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 435,
+    "name": "Pandey, Awanish",
+    "finish_time": "02:02:29",
+    "finish_seconds": 7349
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 437,
+    "name": "Jain, Pranay",
+    "finish_time": "02:02:45",
+    "finish_seconds": 7365
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 439,
+    "name": "Rawat, Sanjay",
+    "finish_time": "02:02:50",
+    "finish_seconds": 7370
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 441,
+    "name": "Jacob, Capt Cheri",
+    "finish_time": "02:03:03",
+    "finish_seconds": 7383
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 443,
+    "name": "Bhandari, Samarth",
+    "finish_time": "02:03:06",
+    "finish_seconds": 7386
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 445,
+    "name": "Thampi, Rohit",
+    "finish_time": "02:03:35",
+    "finish_seconds": 7415
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 447,
+    "name": "Purohit, Chandan",
+    "finish_time": "02:03:54",
+    "finish_seconds": 7434
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 449,
+    "name": "Shukal, Daksh",
+    "finish_time": "02:04:00",
+    "finish_seconds": 7440
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 451,
+    "name": "Singh, Abhay",
+    "finish_time": "02:04:10",
+    "finish_seconds": 7450
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 453,
+    "name": "PANDEY, SATYAM",
+    "finish_time": "02:04:23",
+    "finish_seconds": 7463
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 455,
+    "name": "Arya, Shivam Indra",
+    "finish_time": "02:04:33",
+    "finish_seconds": 7473
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 457,
+    "name": "Gera, Kailash",
+    "finish_time": "02:04:40",
+    "finish_seconds": 7480
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 459,
+    "name": "Singh, Abhinendra",
+    "finish_time": "02:04:42",
+    "finish_seconds": 7482
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 461,
+    "name": "Chaturvedi, Rishabh",
+    "finish_time": "02:05:17",
+    "finish_seconds": 7517
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 463,
+    "name": "Baluni, Aryan",
+    "finish_time": "02:05:22",
+    "finish_seconds": 7522
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 465,
+    "name": "Taneja, Sameer",
+    "finish_time": "02:05:34",
+    "finish_seconds": 7534
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 467,
+    "name": "DABRI, PRASHANT",
+    "finish_time": "02:05:55",
+    "finish_seconds": 7555
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 469,
+    "name": "Singh, Karandeep",
+    "finish_time": "02:05:59",
+    "finish_seconds": 7559
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 471,
+    "name": "Kumar, Manish",
+    "finish_time": "02:06:02",
+    "finish_seconds": 7562
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 473,
+    "name": "Batra, Shiv",
+    "finish_time": "02:06:21",
+    "finish_seconds": 7581
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 475,
+    "name": "AGRAWAL, PARAG",
+    "finish_time": "02:06:27",
+    "finish_seconds": 7587
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 477,
+    "name": "Kaushik, Ankur",
+    "finish_time": "02:06:35",
+    "finish_seconds": 7595
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 479,
+    "name": "Natha, Nipun",
+    "finish_time": "02:06:53",
+    "finish_seconds": 7613
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 481,
+    "name": "Tamra, Akshay",
+    "finish_time": "02:07:01",
+    "finish_seconds": 7621
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 483,
+    "name": "Yadav, Aniket",
+    "finish_time": "02:07:13",
+    "finish_seconds": 7633
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 485,
+    "name": "Yadav, Gopal",
+    "finish_time": "02:07:22",
+    "finish_seconds": 7642
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 487,
+    "name": "Goyal, Ram avtar",
+    "finish_time": "02:07:43",
+    "finish_seconds": 7663
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 489,
+    "name": "SURI, PRABHJYOT SINGH",
+    "finish_time": "02:07:48",
+    "finish_seconds": 7668
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 491,
+    "name": "Sahijwani, Divij",
+    "finish_time": "02:08:00",
+    "finish_seconds": 7680
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 493,
+    "name": "Chhabra, Tushar",
+    "finish_time": "02:08:17",
+    "finish_seconds": 7697
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 495,
+    "name": "Verma, Rishabh",
+    "finish_time": "02:08:32",
+    "finish_seconds": 7712
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 497,
+    "name": "Sharma, Aditya",
+    "finish_time": "02:08:36",
+    "finish_seconds": 7716
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 499,
+    "name": "Kataria, Mohit",
+    "finish_time": "02:08:59",
+    "finish_seconds": 7739
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 501,
+    "name": "Chhabra, Adhish",
+    "finish_time": "02:09:09",
+    "finish_seconds": 7749
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 503,
+    "name": "Pujara, Vidit",
+    "finish_time": "02:09:11",
+    "finish_seconds": 7751
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 505,
+    "name": "Thakur, Ritik",
+    "finish_time": "02:09:27",
+    "finish_seconds": 7767
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 507,
+    "name": "Shukla, Saubhagya",
+    "finish_time": "02:09:32",
+    "finish_seconds": 7772
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 509,
+    "name": "Kalia, Ankit",
+    "finish_time": "02:09:42",
+    "finish_seconds": 7782
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 511,
+    "name": "Shivakumar, Nagmanjunath",
+    "finish_time": "02:09:56",
+    "finish_seconds": 7796
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 513,
+    "name": "Kuchhal, Priyank",
+    "finish_time": "02:10:04",
+    "finish_seconds": 7804
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 515,
+    "name": "Thakur, Saurabh",
+    "finish_time": "02:10:19",
+    "finish_seconds": 7819
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 517,
+    "name": "AGGARWAL, RAGHAV",
+    "finish_time": "02:10:28",
+    "finish_seconds": 7828
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 519,
+    "name": "Kumar, Nitin",
+    "finish_time": "02:10:43",
+    "finish_seconds": 7843
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 521,
+    "name": "BHATIA, KAPIL",
+    "finish_time": "02:10:50",
+    "finish_seconds": 7850
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 523,
+    "name": "L, Srikanth",
+    "finish_time": "02:11:06",
+    "finish_seconds": 7866
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 525,
+    "name": "jain, rounak",
+    "finish_time": "02:11:13",
+    "finish_seconds": 7873
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 527,
+    "name": "Ranjan, Rajeev",
+    "finish_time": "02:11:31",
+    "finish_seconds": 7891
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 529,
+    "name": "kher, Bhagirathsinh",
+    "finish_time": "02:11:49",
+    "finish_seconds": 7909
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 531,
+    "name": "Pandya, Parth",
+    "finish_time": "02:11:50",
+    "finish_seconds": 7910
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 533,
+    "name": "Kumar, Manish",
+    "finish_time": "02:12:18",
+    "finish_seconds": 7938
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 535,
+    "name": "Trivedi, Anil",
+    "finish_time": "02:12:56",
+    "finish_seconds": 7976
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 537,
+    "name": "Yadav, Umesh",
+    "finish_time": "02:13:12",
+    "finish_seconds": 7992
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 539,
+    "name": "Pawar, Madhusudan",
+    "finish_time": "02:13:26",
+    "finish_seconds": 8006
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 541,
+    "name": "Jaju, Shubh",
+    "finish_time": "02:13:39",
+    "finish_seconds": 8019
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 543,
+    "name": "Singh, Navneet",
+    "finish_time": "02:14:09",
+    "finish_seconds": 8049
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 545,
+    "name": "Punjani, Hirday",
+    "finish_time": "02:14:10",
+    "finish_seconds": 8050
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 547,
+    "name": "Pandya, Falit",
+    "finish_time": "02:14:36",
+    "finish_seconds": 8076
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 549,
+    "name": "KHAN, WAJEE",
+    "finish_time": "02:14:53",
+    "finish_seconds": 8093
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 551,
+    "name": "PATIDAR, UTKARSH",
+    "finish_time": "02:15:11",
+    "finish_seconds": 8111
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 553,
+    "name": "Jatik, Chirag",
+    "finish_time": "02:15:26",
+    "finish_seconds": 8126
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 555,
+    "name": "Maheshwari, Nishant",
+    "finish_time": "02:15:43",
+    "finish_seconds": 8143
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 557,
+    "name": "Meghani, Sanjeev",
+    "finish_time": "02:15:53",
+    "finish_seconds": 8153
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 559,
+    "name": "Bilgi, Neel",
+    "finish_time": "02:16:18",
+    "finish_seconds": 8178
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 561,
+    "name": "BANERJEE, SHELTON",
+    "finish_time": "02:16:20",
+    "finish_seconds": 8180
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 563,
+    "name": "R, Samarth",
+    "finish_time": "02:16:46",
+    "finish_seconds": 8206
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 565,
+    "name": "sharma, rishab",
+    "finish_time": "02:17:18",
+    "finish_seconds": 8238
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "M",
+    "rank": 567,
+    "name": "Kumar, Bikash",
+    "finish_time": "02:17:30",
+    "finish_seconds": 8250
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 1,
+    "name": "besoli, jeanne marie",
+    "finish_time": "01:19:23",
+    "finish_seconds": 4763
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 3,
+    "name": "Thakkar, Aashka",
+    "finish_time": "01:22:23",
+    "finish_seconds": 4943
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 5,
+    "name": "KAUR, BHAVNEET",
+    "finish_time": "01:24:09",
+    "finish_seconds": 5049
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 7,
+    "name": "Sagar, Tishya",
+    "finish_time": "01:26:10",
+    "finish_seconds": 5170
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 9,
+    "name": "Arora, Vandana",
+    "finish_time": "01:29:11",
+    "finish_seconds": 5351
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 11,
+    "name": "Sharma, Akanksha",
+    "finish_time": "01:30:50",
+    "finish_seconds": 5450
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 13,
+    "name": "Arora, Komal",
+    "finish_time": "01:32:03",
+    "finish_seconds": 5523
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 15,
+    "name": "Chaudhari, Raina",
+    "finish_time": "01:36:08",
+    "finish_seconds": 5768
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 17,
+    "name": "Saraogi, Mamta",
+    "finish_time": "01:36:16",
+    "finish_seconds": 5776
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 19,
+    "name": "SHAH, PREETI",
+    "finish_time": "01:38:10",
+    "finish_seconds": 5890
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 21,
+    "name": "dahiya, shivani",
+    "finish_time": "01:39:22",
+    "finish_seconds": 5962
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 23,
+    "name": "Sharma, Dr.Kanchan",
+    "finish_time": "01:40:43",
+    "finish_seconds": 6043
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 25,
+    "name": "Sachdeva, Disha",
+    "finish_time": "01:41:58",
+    "finish_seconds": 6118
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 27,
+    "name": "KASHYAP, RITU",
+    "finish_time": "01:43:21",
+    "finish_seconds": 6201
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 29,
+    "name": "VIG, Sharda",
+    "finish_time": "01:44:03",
+    "finish_seconds": 6243
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 31,
+    "name": "Collington, Zoe",
+    "finish_time": "01:44:50",
+    "finish_seconds": 6290
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 33,
+    "name": "GUPTA, AASHI",
+    "finish_time": "01:45:30",
+    "finish_seconds": 6330
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 35,
+    "name": "tyagi, shivani",
+    "finish_time": "01:46:35",
+    "finish_seconds": 6395
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 37,
+    "name": "Bharankar, Sayali",
+    "finish_time": "01:47:44",
+    "finish_seconds": 6464
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 39,
+    "name": "nijhawan, eashita",
+    "finish_time": "01:48:17",
+    "finish_seconds": 6497
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 41,
+    "name": "Kamble, Unnati",
+    "finish_time": "01:48:51",
+    "finish_seconds": 6531
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 43,
+    "name": "pahwa, khushi",
+    "finish_time": "01:49:15",
+    "finish_seconds": 6555
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 45,
+    "name": "Verma, Shivani",
+    "finish_time": "01:49:32",
+    "finish_seconds": 6572
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 47,
+    "name": "Agarwal, Anvita",
+    "finish_time": "01:49:57",
+    "finish_seconds": 6597
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 49,
+    "name": "Shah, Aditi",
+    "finish_time": "01:50:06",
+    "finish_seconds": 6606
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 51,
+    "name": "Maramis, Marshanette",
+    "finish_time": "01:50:30",
+    "finish_seconds": 6630
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 53,
+    "name": "Rana, Anuradha",
+    "finish_time": "01:50:52",
+    "finish_seconds": 6652
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 55,
+    "name": "Jain, Prerna",
+    "finish_time": "01:51:22",
+    "finish_seconds": 6682
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 57,
+    "name": "Singh, Shifa",
+    "finish_time": "01:52:38",
+    "finish_seconds": 6758
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 59,
+    "name": "Auluck, Sameera",
+    "finish_time": "01:53:17",
+    "finish_seconds": 6797
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 61,
+    "name": "Khurana, Shivika",
+    "finish_time": "01:54:03",
+    "finish_seconds": 6843
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 63,
+    "name": "Sheoran, Pummy",
+    "finish_time": "01:54:50",
+    "finish_seconds": 6890
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 65,
+    "name": "Sharma, Mishika",
+    "finish_time": "01:55:25",
+    "finish_seconds": 6925
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 67,
+    "name": "Garg, Payal",
+    "finish_time": "01:55:31",
+    "finish_seconds": 6931
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 69,
+    "name": "Rawat, Ruchi",
+    "finish_time": "01:55:51",
+    "finish_seconds": 6951
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 71,
+    "name": "Agarwal, Shikha",
+    "finish_time": "01:56:00",
+    "finish_seconds": 6960
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 73,
+    "name": "Dhoka, Astha",
+    "finish_time": "01:56:19",
+    "finish_seconds": 6979
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 75,
+    "name": "Suman, Suruchi",
+    "finish_time": "01:56:29",
+    "finish_seconds": 6989
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 77,
+    "name": "Jaiswal, Rushika",
+    "finish_time": "01:57:49",
+    "finish_seconds": 7069
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 79,
+    "name": "Vashistha, Preeti",
+    "finish_time": "01:58:30",
+    "finish_seconds": 7110
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 81,
+    "name": "Khosla, Sandipa",
+    "finish_time": "02:00:12",
+    "finish_seconds": 7212
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 83,
+    "name": "Chavan, Sneha",
+    "finish_time": "02:00:29",
+    "finish_seconds": 7229
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 85,
+    "name": "Sharma, Tania",
+    "finish_time": "02:00:46",
+    "finish_seconds": 7246
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 87,
+    "name": "Gabrani, Nurain",
+    "finish_time": "02:01:33",
+    "finish_seconds": 7293
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 89,
+    "name": "Gupta, Sonakshi",
+    "finish_time": "02:02:21",
+    "finish_seconds": 7341
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 91,
+    "name": "Chauhan, Anya",
+    "finish_time": "02:03:06",
+    "finish_seconds": 7386
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 93,
+    "name": "JOSHI-CHULANI, PRANU",
+    "finish_time": "02:03:23",
+    "finish_seconds": 7403
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 95,
+    "name": "Pandey, Arti",
+    "finish_time": "02:03:37",
+    "finish_seconds": 7417
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 97,
+    "name": "Nimla, Dhriti",
+    "finish_time": "02:04:17",
+    "finish_seconds": 7457
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 99,
+    "name": "Virk Nagpal, Kismat",
+    "finish_time": "02:04:32",
+    "finish_seconds": 7472
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 101,
+    "name": "Slathia, Shreeja",
+    "finish_time": "02:04:42",
+    "finish_seconds": 7482
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 103,
+    "name": "Agrawal, Anjana",
+    "finish_time": "02:04:59",
+    "finish_seconds": 7499
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 105,
+    "name": "shrestha, Manisha",
+    "finish_time": "02:06:14",
+    "finish_seconds": 7574
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 107,
+    "name": "Udayadas, Sangeetha",
+    "finish_time": "02:06:15",
+    "finish_seconds": 7575
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 109,
+    "name": "T., Krishna",
+    "finish_time": "02:06:29",
+    "finish_seconds": 7589
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 111,
+    "name": "Bakeri, Aarohi",
+    "finish_time": "02:07:00",
+    "finish_seconds": 7620
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 113,
+    "name": "Aggarwal, Paridhi",
+    "finish_time": "02:07:11",
+    "finish_seconds": 7631
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 115,
+    "name": "nandy, sreeparna",
+    "finish_time": "02:07:45",
+    "finish_seconds": 7665
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 117,
+    "name": "Verma, Appala",
+    "finish_time": "02:08:00",
+    "finish_seconds": 7680
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 119,
+    "name": "Singh, Namrata",
+    "finish_time": "02:08:15",
+    "finish_seconds": 7695
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 121,
+    "name": "Yadav, Anita",
+    "finish_time": "02:08:22",
+    "finish_seconds": 7702
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 123,
+    "name": "Sahu, Shrishti",
+    "finish_time": "02:08:56",
+    "finish_seconds": 7736
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 125,
+    "name": "DAS, ANKITA",
+    "finish_time": "02:09:14",
+    "finish_seconds": 7754
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 127,
+    "name": "Mantri, Priyanka Pal",
+    "finish_time": "02:09:35",
+    "finish_seconds": 7775
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 129,
+    "name": "Solanki, Geeta",
+    "finish_time": "02:10:00",
+    "finish_seconds": 7800
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 131,
+    "name": "Gupta, Bhavna",
+    "finish_time": "02:10:11",
+    "finish_seconds": 7811
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 133,
+    "name": "Odedra, Shraddha",
+    "finish_time": "02:10:44",
+    "finish_seconds": 7844
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 135,
+    "name": "Dhillon, Harneet",
+    "finish_time": "02:11:36",
+    "finish_seconds": 7896
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 137,
+    "name": "Patel, Pooja",
+    "finish_time": "02:11:40",
+    "finish_seconds": 7900
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 139,
+    "name": "Patil, Akshada",
+    "finish_time": "02:12:02",
+    "finish_seconds": 7922
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 141,
+    "name": "Ahmed, Asna",
+    "finish_time": "02:12:10",
+    "finish_seconds": 7930
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 143,
+    "name": "Jain, Anjali",
+    "finish_time": "02:13:43",
+    "finish_seconds": 8023
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 145,
+    "name": "Budharup, Simran",
+    "finish_time": "02:13:58",
+    "finish_seconds": 8038
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 147,
+    "name": "Mahajan, Kumud",
+    "finish_time": "02:14:12",
+    "finish_seconds": 8052
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 149,
+    "name": "ARORA, SANNAH",
+    "finish_time": "02:15:07",
+    "finish_seconds": 8107
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 151,
+    "name": "Pandey, Anushree",
+    "finish_time": "02:16:27",
+    "finish_seconds": 8187
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 153,
+    "name": "Parakh, Nitisha",
+    "finish_time": "02:16:49",
+    "finish_seconds": 8209
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 155,
+    "name": "Guptaroy, Ankita",
+    "finish_time": "02:17:12",
+    "finish_seconds": 8232
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 157,
+    "name": "Ratan, Khyati",
+    "finish_time": "02:17:35",
+    "finish_seconds": 8255
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 159,
+    "name": "Agarwal, Grace",
+    "finish_time": "02:17:47",
+    "finish_seconds": 8267
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 161,
+    "name": "Singh, Varsha",
+    "finish_time": "02:18:34",
+    "finish_seconds": 8314
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 163,
+    "name": "Parikh, Rishita",
+    "finish_time": "02:18:45",
+    "finish_seconds": 8325
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 165,
+    "name": "Nirmal, Tanya",
+    "finish_time": "02:21:00",
+    "finish_seconds": 8460
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 167,
+    "name": "Kidiyoor, Deeksha",
+    "finish_time": "02:21:20",
+    "finish_seconds": 8480
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 169,
+    "name": "Saxena, Dr. Mahak Vineet",
+    "finish_time": "02:22:20",
+    "finish_seconds": 8540
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 171,
+    "name": "Nene, Neha",
+    "finish_time": "02:23:05",
+    "finish_seconds": 8585
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 173,
+    "name": "Dudeja, Muskan",
+    "finish_time": "02:23:50",
+    "finish_seconds": 8630
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 175,
+    "name": "OJHA, MANINI",
+    "finish_time": "02:24:19",
+    "finish_seconds": 8659
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 177,
+    "name": "Kaur, Satbir",
+    "finish_time": "02:24:59",
+    "finish_seconds": 8699
+  },
+  {
+    "venue": "2025 Delhi",
+    "gender": "W",
+    "rank": 179,
+    "name": "Gupta, Prachi",
+    "finish_time": "02:25:33",
+    "finish_seconds": 8733
+  }
+]

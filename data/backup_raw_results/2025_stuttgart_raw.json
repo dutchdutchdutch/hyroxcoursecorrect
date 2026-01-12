@@ -1,0 +1,6474 @@
+[
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 1,
+    "name": "Kojc, Nik",
+    "finish_time": "00:59:12",
+    "finish_seconds": 3552
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 3,
+    "name": "Dallmann, Rune",
+    "finish_time": "01:00:36",
+    "finish_seconds": 3636
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 5,
+    "name": "Galneder, Sebastian",
+    "finish_time": "01:01:22",
+    "finish_seconds": 3682
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 7,
+    "name": "Khublaryan, Davit",
+    "finish_time": "01:01:33",
+    "finish_seconds": 3693
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 9,
+    "name": "Karg, Philipp",
+    "finish_time": "01:01:52",
+    "finish_seconds": 3712
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 11,
+    "name": "Kolari\u010d, Rok",
+    "finish_time": "01:02:06",
+    "finish_seconds": 3726
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 13,
+    "name": "Sch\u00f6ggl, Fabio",
+    "finish_time": "01:02:07",
+    "finish_seconds": 3727
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 15,
+    "name": "May, Robert",
+    "finish_time": "01:02:11",
+    "finish_seconds": 3731
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 17,
+    "name": "Kapicak, Martin",
+    "finish_time": "01:02:47",
+    "finish_seconds": 3767
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 19,
+    "name": "Feteler, Max",
+    "finish_time": "01:03:14",
+    "finish_seconds": 3794
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 21,
+    "name": "Zaghbani, Mehdi",
+    "finish_time": "01:03:50",
+    "finish_seconds": 3830
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 23,
+    "name": "Vogeley, Max",
+    "finish_time": "01:04:04",
+    "finish_seconds": 3844
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 25,
+    "name": "Bergmann, David",
+    "finish_time": "01:04:26",
+    "finish_seconds": 3866
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 27,
+    "name": "Fleming, James",
+    "finish_time": "01:04:39",
+    "finish_seconds": 3879
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 29,
+    "name": "Kleczek, Lukas",
+    "finish_time": "01:04:50",
+    "finish_seconds": 3890
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 31,
+    "name": "Van Drunen, Floris",
+    "finish_time": "01:04:58",
+    "finish_seconds": 3898
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 33,
+    "name": "Endres, Daniel",
+    "finish_time": "01:05:22",
+    "finish_seconds": 3922
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 35,
+    "name": "Fallot, Maxime",
+    "finish_time": "01:05:29",
+    "finish_seconds": 3929
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 37,
+    "name": "Cooke, Michael",
+    "finish_time": "01:05:31",
+    "finish_seconds": 3931
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 39,
+    "name": "Keller, Kevin",
+    "finish_time": "01:05:47",
+    "finish_seconds": 3947
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 41,
+    "name": "Feret, Pierre",
+    "finish_time": "01:05:57",
+    "finish_seconds": 3957
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 43,
+    "name": "Tebbe, Christopher",
+    "finish_time": "01:06:10",
+    "finish_seconds": 3970
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 45,
+    "name": "Hager, Tino",
+    "finish_time": "01:06:16",
+    "finish_seconds": 3976
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 47,
+    "name": "Sommerfeld, Ingmar",
+    "finish_time": "01:06:32",
+    "finish_seconds": 3992
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 49,
+    "name": "Hopp, Roman",
+    "finish_time": "01:07:08",
+    "finish_seconds": 4028
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 51,
+    "name": "Schmidt, Dominic",
+    "finish_time": "01:07:15",
+    "finish_seconds": 4035
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 53,
+    "name": "Rechmann, Jens",
+    "finish_time": "01:07:21",
+    "finish_seconds": 4041
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 55,
+    "name": "Duclermortier, Gary",
+    "finish_time": "01:07:36",
+    "finish_seconds": 4056
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 57,
+    "name": "Alfousseni, Malik",
+    "finish_time": "01:07:38",
+    "finish_seconds": 4058
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 59,
+    "name": "Beale, James Albert",
+    "finish_time": "01:07:45",
+    "finish_seconds": 4065
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 61,
+    "name": "Zeller, Benjamin",
+    "finish_time": "01:08:01",
+    "finish_seconds": 4081
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 63,
+    "name": "Hadler, Paul",
+    "finish_time": "01:08:18",
+    "finish_seconds": 4098
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 65,
+    "name": "Siegel, Steven",
+    "finish_time": "01:08:22",
+    "finish_seconds": 4102
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 67,
+    "name": "Weber, David",
+    "finish_time": "01:08:27",
+    "finish_seconds": 4107
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 69,
+    "name": "Eickert, Thorsten",
+    "finish_time": "01:08:30",
+    "finish_seconds": 4110
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 71,
+    "name": "Frank, Felix",
+    "finish_time": "01:08:31",
+    "finish_seconds": 4111
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 73,
+    "name": "Roduner, Stefan",
+    "finish_time": "01:08:32",
+    "finish_seconds": 4112
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 75,
+    "name": "Savioz, David",
+    "finish_time": "01:08:34",
+    "finish_seconds": 4114
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 77,
+    "name": "Aregger, Emanuel",
+    "finish_time": "01:08:38",
+    "finish_seconds": 4118
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 79,
+    "name": "Goj\u010di\u010d, Toma\u017e",
+    "finish_time": "01:08:48",
+    "finish_seconds": 4128
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 81,
+    "name": "Ribeiro Goncalves, Victor Manuel",
+    "finish_time": "01:09:00",
+    "finish_seconds": 4140
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 83,
+    "name": "Ryser, Pascal",
+    "finish_time": "01:09:04",
+    "finish_seconds": 4144
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 85,
+    "name": "Cebri\u00e1n Aparisi, Iker",
+    "finish_time": "01:09:17",
+    "finish_seconds": 4157
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 87,
+    "name": "Gronotte, Peter",
+    "finish_time": "01:09:21",
+    "finish_seconds": 4161
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 89,
+    "name": "Bott, Dario",
+    "finish_time": "01:09:24",
+    "finish_seconds": 4164
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 91,
+    "name": "Ribeiro Ralha, Dylan",
+    "finish_time": "01:09:26",
+    "finish_seconds": 4166
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 93,
+    "name": "Ziegler, Fabian",
+    "finish_time": "01:09:29",
+    "finish_seconds": 4169
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 95,
+    "name": "Hosp, Julian",
+    "finish_time": "01:09:30",
+    "finish_seconds": 4170
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 97,
+    "name": "Wallace, Andrew",
+    "finish_time": "01:09:40",
+    "finish_seconds": 4180
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 99,
+    "name": "Althaus, Louis",
+    "finish_time": "01:09:44",
+    "finish_seconds": 4184
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 101,
+    "name": "Mehren, Marcel",
+    "finish_time": "01:09:51",
+    "finish_seconds": 4191
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 103,
+    "name": "Francais, Oscar",
+    "finish_time": "01:09:52",
+    "finish_seconds": 4192
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 105,
+    "name": "Becker, Frederik",
+    "finish_time": "01:09:54",
+    "finish_seconds": 4194
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 107,
+    "name": "Delande, Maxime",
+    "finish_time": "01:09:58",
+    "finish_seconds": 4198
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 109,
+    "name": "Law, Alex",
+    "finish_time": "01:10:07",
+    "finish_seconds": 4207
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 111,
+    "name": "Gr\u00fcnwald, Julian",
+    "finish_time": "01:10:17",
+    "finish_seconds": 4217
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 113,
+    "name": "Schlude, Kevin",
+    "finish_time": "01:10:22",
+    "finish_seconds": 4222
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 115,
+    "name": "Limbach, J\u00f6rg",
+    "finish_time": "01:10:29",
+    "finish_seconds": 4229
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 117,
+    "name": "Gauer, Jonathan",
+    "finish_time": "01:10:33",
+    "finish_seconds": 4233
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 119,
+    "name": "Theisen, Marco",
+    "finish_time": "01:10:43",
+    "finish_seconds": 4243
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 121,
+    "name": "G\u00f6tz, Andreas",
+    "finish_time": "01:10:48",
+    "finish_seconds": 4248
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 123,
+    "name": "Banks, Barney",
+    "finish_time": "01:10:53",
+    "finish_seconds": 4253
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 125,
+    "name": "Bogensperger, Hannes",
+    "finish_time": "01:10:58",
+    "finish_seconds": 4258
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 127,
+    "name": "Renz, Michael",
+    "finish_time": "01:11:12",
+    "finish_seconds": 4272
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 129,
+    "name": "Hoeltgen, Laurent",
+    "finish_time": "01:11:17",
+    "finish_seconds": 4277
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 131,
+    "name": "Nuyen, Sebastian",
+    "finish_time": "01:11:21",
+    "finish_seconds": 4281
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 133,
+    "name": "Link, Stefan",
+    "finish_time": "01:11:23",
+    "finish_seconds": 4283
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 135,
+    "name": "Antoinette, Mickael",
+    "finish_time": "01:11:27",
+    "finish_seconds": 4287
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 137,
+    "name": "Niepras, Mateusz",
+    "finish_time": "01:11:35",
+    "finish_seconds": 4295
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 139,
+    "name": "Schor, Christof",
+    "finish_time": "01:11:41",
+    "finish_seconds": 4301
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 141,
+    "name": "Probst, Adrian",
+    "finish_time": "01:11:42",
+    "finish_seconds": 4302
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 143,
+    "name": "Slabbinck, Erik",
+    "finish_time": "01:11:45",
+    "finish_seconds": 4305
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 145,
+    "name": "Sch\u00f6nleber, Rene",
+    "finish_time": "01:11:49",
+    "finish_seconds": 4309
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 147,
+    "name": "Folda, Benedikt",
+    "finish_time": "01:11:53",
+    "finish_seconds": 4313
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 149,
+    "name": "Glossner, Johannes",
+    "finish_time": "01:12:02",
+    "finish_seconds": 4322
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 151,
+    "name": "Journaux, Gregory",
+    "finish_time": "01:12:04",
+    "finish_seconds": 4324
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 153,
+    "name": "Fuchs, Gilbert",
+    "finish_time": "01:12:04",
+    "finish_seconds": 4324
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 155,
+    "name": "Hofmann, Nico",
+    "finish_time": "01:12:11",
+    "finish_seconds": 4331
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 157,
+    "name": "Schmidt, Jan-Philipp",
+    "finish_time": "01:12:15",
+    "finish_seconds": 4335
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 159,
+    "name": "Ro\u00dfkothen, Jan",
+    "finish_time": "01:12:21",
+    "finish_seconds": 4341
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 161,
+    "name": "Pfeiffer, Eduard",
+    "finish_time": "01:12:24",
+    "finish_seconds": 4344
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 163,
+    "name": "Christophe, Nicolas",
+    "finish_time": "01:12:28",
+    "finish_seconds": 4348
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 165,
+    "name": "Meeh, Christoph",
+    "finish_time": "01:12:34",
+    "finish_seconds": 4354
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 167,
+    "name": "Schadow, Thomas",
+    "finish_time": "01:12:44",
+    "finish_seconds": 4364
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 169,
+    "name": "Ciconte, Manuel",
+    "finish_time": "01:12:44",
+    "finish_seconds": 4364
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 171,
+    "name": "Eschmann, Lo\u00efc",
+    "finish_time": "01:12:55",
+    "finish_seconds": 4375
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 173,
+    "name": "Colin, Hugo",
+    "finish_time": "01:13:07",
+    "finish_seconds": 4387
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 175,
+    "name": "Valero Gallegos, Ra\u00fal",
+    "finish_time": "01:13:10",
+    "finish_seconds": 4390
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 177,
+    "name": "Eggenschwiler, Julian",
+    "finish_time": "01:13:12",
+    "finish_seconds": 4392
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 179,
+    "name": "Bleser, Dominik",
+    "finish_time": "01:13:20",
+    "finish_seconds": 4400
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 181,
+    "name": "Tujkic, Ivan",
+    "finish_time": "01:13:25",
+    "finish_seconds": 4405
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 183,
+    "name": "Hackel, Christian",
+    "finish_time": "01:13:30",
+    "finish_seconds": 4410
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 185,
+    "name": "F\u00fcrstenberg, Philipp",
+    "finish_time": "01:13:40",
+    "finish_seconds": 4420
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 187,
+    "name": "Rosenfelder, Philipp",
+    "finish_time": "01:13:46",
+    "finish_seconds": 4426
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 189,
+    "name": "Urech, Marco",
+    "finish_time": "01:13:56",
+    "finish_seconds": 4436
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 191,
+    "name": "Hilbert, Christoph",
+    "finish_time": "01:13:59",
+    "finish_seconds": 4439
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 193,
+    "name": "Forster, Jerome",
+    "finish_time": "01:14:04",
+    "finish_seconds": 4444
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 195,
+    "name": "Dick, Niklas",
+    "finish_time": "01:14:07",
+    "finish_seconds": 4447
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 197,
+    "name": "Galimberti, Davide",
+    "finish_time": "01:14:08",
+    "finish_seconds": 4448
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 199,
+    "name": "Hippler, Andreas",
+    "finish_time": "01:14:16",
+    "finish_seconds": 4456
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 201,
+    "name": "Flaig, Nicolas",
+    "finish_time": "01:14:21",
+    "finish_seconds": 4461
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 203,
+    "name": "Ziegler, Aengus",
+    "finish_time": "01:14:25",
+    "finish_seconds": 4465
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 205,
+    "name": "Kollatz, Marc",
+    "finish_time": "01:14:28",
+    "finish_seconds": 4468
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 207,
+    "name": "Blumenstein, Nils",
+    "finish_time": "01:14:29",
+    "finish_seconds": 4469
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 209,
+    "name": "Reininger, Markus",
+    "finish_time": "01:14:32",
+    "finish_seconds": 4472
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 211,
+    "name": "Matter, Maxime",
+    "finish_time": "01:14:37",
+    "finish_seconds": 4477
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 213,
+    "name": "Pickert, Dennis",
+    "finish_time": "01:14:37",
+    "finish_seconds": 4477
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 215,
+    "name": "Chupetlovski, Sergey",
+    "finish_time": "01:14:41",
+    "finish_seconds": 4481
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 217,
+    "name": "Hausmann, Christoph",
+    "finish_time": "01:14:51",
+    "finish_seconds": 4491
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 219,
+    "name": "Heinz, Felix",
+    "finish_time": "01:14:57",
+    "finish_seconds": 4497
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 221,
+    "name": "Simonsen, Dylan",
+    "finish_time": "01:15:01",
+    "finish_seconds": 4501
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 223,
+    "name": "Trapp, Lucas",
+    "finish_time": "01:15:02",
+    "finish_seconds": 4502
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 225,
+    "name": "Rottenkolber, Raphael",
+    "finish_time": "01:15:05",
+    "finish_seconds": 4505
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 227,
+    "name": "Heneke, Kai",
+    "finish_time": "01:15:10",
+    "finish_seconds": 4510
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 229,
+    "name": "Vlachos, Joe",
+    "finish_time": "01:15:14",
+    "finish_seconds": 4514
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 231,
+    "name": "D\u00e4chert, Jannik",
+    "finish_time": "01:15:16",
+    "finish_seconds": 4516
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 233,
+    "name": "Orf, Jannik",
+    "finish_time": "01:15:25",
+    "finish_seconds": 4525
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 235,
+    "name": "Eschenauer, Rico",
+    "finish_time": "01:15:31",
+    "finish_seconds": 4531
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 237,
+    "name": "Pulley, Chris",
+    "finish_time": "01:15:36",
+    "finish_seconds": 4536
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 239,
+    "name": "Elsesser, Felix",
+    "finish_time": "01:15:37",
+    "finish_seconds": 4537
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 241,
+    "name": "Ben Hazem, Mootez",
+    "finish_time": "01:15:39",
+    "finish_seconds": 4539
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 243,
+    "name": "Van Eyk, Bas",
+    "finish_time": "01:15:50",
+    "finish_seconds": 4550
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 245,
+    "name": "Speechley, James",
+    "finish_time": "01:15:51",
+    "finish_seconds": 4551
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 247,
+    "name": "Springmann, Paul",
+    "finish_time": "01:15:52",
+    "finish_seconds": 4552
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 249,
+    "name": "Schmitz, Andreas",
+    "finish_time": "01:15:53",
+    "finish_seconds": 4553
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 251,
+    "name": "Stangl, Niklas",
+    "finish_time": "01:15:57",
+    "finish_seconds": 4557
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 253,
+    "name": "Schr\u00f6ter, Maximilian",
+    "finish_time": "01:16:04",
+    "finish_seconds": 4564
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 255,
+    "name": "Kr\u00e4mer, Simeon",
+    "finish_time": "01:16:07",
+    "finish_seconds": 4567
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 257,
+    "name": "Stremming, Bj\u00f6rn",
+    "finish_time": "01:16:08",
+    "finish_seconds": 4568
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 259,
+    "name": "Konitzer, Jannik",
+    "finish_time": "01:16:14",
+    "finish_seconds": 4574
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 261,
+    "name": "Grass, Andreas",
+    "finish_time": "01:16:18",
+    "finish_seconds": 4578
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 263,
+    "name": "Althammer, Fabian",
+    "finish_time": "01:16:20",
+    "finish_seconds": 4580
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 265,
+    "name": "Niedermeier, Sebastian",
+    "finish_time": "01:16:21",
+    "finish_seconds": 4581
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 267,
+    "name": "Bossi, Simon",
+    "finish_time": "01:16:23",
+    "finish_seconds": 4583
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 269,
+    "name": "Kekies, Patrik",
+    "finish_time": "01:16:25",
+    "finish_seconds": 4585
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 271,
+    "name": "El Majdouli, Adnane",
+    "finish_time": "01:16:29",
+    "finish_seconds": 4589
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 273,
+    "name": "Brehmer, Pascal Dominic",
+    "finish_time": "01:16:32",
+    "finish_seconds": 4592
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 275,
+    "name": "Borsari, Francesco",
+    "finish_time": "01:16:37",
+    "finish_seconds": 4597
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 277,
+    "name": "Wei\u00dfmann, Lucas",
+    "finish_time": "01:16:40",
+    "finish_seconds": 4600
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 279,
+    "name": "Waldi, Michael Andre",
+    "finish_time": "01:16:46",
+    "finish_seconds": 4606
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 281,
+    "name": "Sendas, Eric",
+    "finish_time": "01:16:49",
+    "finish_seconds": 4609
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 283,
+    "name": "Roth, Eric",
+    "finish_time": "01:16:54",
+    "finish_seconds": 4614
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 285,
+    "name": "Maier, Ruben",
+    "finish_time": "01:16:57",
+    "finish_seconds": 4617
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 287,
+    "name": "Wimmer, Eric",
+    "finish_time": "01:17:02",
+    "finish_seconds": 4622
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 289,
+    "name": "Sier, Kevin Nico",
+    "finish_time": "01:17:05",
+    "finish_seconds": 4625
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 291,
+    "name": "H\u00fcller, Dominik",
+    "finish_time": "01:17:06",
+    "finish_seconds": 4626
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 293,
+    "name": "Mai, Viktor",
+    "finish_time": "01:17:12",
+    "finish_seconds": 4632
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 295,
+    "name": "Kern, Jan-Niklas",
+    "finish_time": "01:17:14",
+    "finish_seconds": 4634
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 297,
+    "name": "Neu\u00df, Florian Andreas",
+    "finish_time": "01:17:17",
+    "finish_seconds": 4637
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 299,
+    "name": "Resta, Samuele",
+    "finish_time": "01:17:21",
+    "finish_seconds": 4641
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 301,
+    "name": "Henemann, Richard",
+    "finish_time": "01:17:22",
+    "finish_seconds": 4642
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 303,
+    "name": "Benz, Andreas",
+    "finish_time": "01:17:25",
+    "finish_seconds": 4645
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 305,
+    "name": "Durowicz, Adam",
+    "finish_time": "01:17:27",
+    "finish_seconds": 4647
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 307,
+    "name": "Schmid, Pascal",
+    "finish_time": "01:17:35",
+    "finish_seconds": 4655
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 309,
+    "name": "Mayerhofer, Johannes",
+    "finish_time": "01:17:37",
+    "finish_seconds": 4657
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 311,
+    "name": "Quass, Joshua",
+    "finish_time": "01:17:38",
+    "finish_seconds": 4658
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 313,
+    "name": "Halter, Dominique",
+    "finish_time": "01:17:39",
+    "finish_seconds": 4659
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 315,
+    "name": "Adolphs, Eric",
+    "finish_time": "01:17:44",
+    "finish_seconds": 4664
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 317,
+    "name": "Harter, Jean-Baptiste",
+    "finish_time": "01:17:52",
+    "finish_seconds": 4672
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 319,
+    "name": "Parish, Dan",
+    "finish_time": "01:17:54",
+    "finish_seconds": 4674
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 321,
+    "name": "Henemann, Erwin",
+    "finish_time": "01:18:02",
+    "finish_seconds": 4682
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 323,
+    "name": "Quintana Fernandez, Emilio Antonio",
+    "finish_time": "01:18:03",
+    "finish_seconds": 4683
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 325,
+    "name": "Matuschzik, Sven",
+    "finish_time": "01:18:11",
+    "finish_seconds": 4691
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 327,
+    "name": "Pardoel, Frank",
+    "finish_time": "01:18:12",
+    "finish_seconds": 4692
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 329,
+    "name": "Foresti, Alessandro",
+    "finish_time": "01:18:14",
+    "finish_seconds": 4694
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 331,
+    "name": "Martinez, Marcel Blanco",
+    "finish_time": "01:18:20",
+    "finish_seconds": 4700
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 333,
+    "name": "Seeger, Benedikt",
+    "finish_time": "01:18:20",
+    "finish_seconds": 4700
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 335,
+    "name": "Wolf, Christian",
+    "finish_time": "01:18:24",
+    "finish_seconds": 4704
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 337,
+    "name": "De Chen, Jia",
+    "finish_time": "01:18:34",
+    "finish_seconds": 4714
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 339,
+    "name": "Koller, Pascal",
+    "finish_time": "01:18:37",
+    "finish_seconds": 4717
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 341,
+    "name": "Schacht, Andreas",
+    "finish_time": "01:18:42",
+    "finish_seconds": 4722
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 343,
+    "name": "B\u00f6hnisch, Sven",
+    "finish_time": "01:18:42",
+    "finish_seconds": 4722
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 345,
+    "name": "Windmueller, Benjamin",
+    "finish_time": "01:18:42",
+    "finish_seconds": 4722
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 347,
+    "name": "Rieger, Robin",
+    "finish_time": "01:18:44",
+    "finish_seconds": 4724
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 349,
+    "name": "Haas, Achim",
+    "finish_time": "01:18:47",
+    "finish_seconds": 4727
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 351,
+    "name": "Hiller, Maurus",
+    "finish_time": "01:18:52",
+    "finish_seconds": 4732
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 353,
+    "name": "Wei\u00df, Robert",
+    "finish_time": "01:18:58",
+    "finish_seconds": 4738
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 355,
+    "name": "Klein, Dominik",
+    "finish_time": "01:19:00",
+    "finish_seconds": 4740
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 357,
+    "name": "Faure, J\u00e9r\u00f4me",
+    "finish_time": "01:19:05",
+    "finish_seconds": 4745
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 359,
+    "name": "Thewes, Robin",
+    "finish_time": "01:19:07",
+    "finish_seconds": 4747
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 361,
+    "name": "Gr\u00fcbl, Marco",
+    "finish_time": "01:19:10",
+    "finish_seconds": 4750
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 363,
+    "name": "Geweiler, Sven",
+    "finish_time": "01:19:11",
+    "finish_seconds": 4751
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 365,
+    "name": "Bienert, Dominik",
+    "finish_time": "01:19:17",
+    "finish_seconds": 4757
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 367,
+    "name": "Prang, Thorsten",
+    "finish_time": "01:19:24",
+    "finish_seconds": 4764
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 369,
+    "name": "Stephenson, Andy",
+    "finish_time": "01:19:34",
+    "finish_seconds": 4774
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 371,
+    "name": "Witteborg, Nico",
+    "finish_time": "01:19:37",
+    "finish_seconds": 4777
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 373,
+    "name": "Lohm\u00fcller, Moritz",
+    "finish_time": "01:19:38",
+    "finish_seconds": 4778
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 375,
+    "name": "Baumann, Nicolas",
+    "finish_time": "01:19:41",
+    "finish_seconds": 4781
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 377,
+    "name": "Wilke, Felix",
+    "finish_time": "01:19:49",
+    "finish_seconds": 4789
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 379,
+    "name": "Lechner, Sebastian",
+    "finish_time": "01:19:51",
+    "finish_seconds": 4791
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 381,
+    "name": "Thelen, Simon",
+    "finish_time": "01:20:04",
+    "finish_seconds": 4804
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 383,
+    "name": "Benzinger, Lukas",
+    "finish_time": "01:20:10",
+    "finish_seconds": 4810
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 385,
+    "name": "Plate, Marcel",
+    "finish_time": "01:20:16",
+    "finish_seconds": 4816
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 387,
+    "name": "F\u00e4ssler, Patrik",
+    "finish_time": "01:20:23",
+    "finish_seconds": 4823
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 389,
+    "name": "Wei\u00dfler, Fabian",
+    "finish_time": "01:20:24",
+    "finish_seconds": 4824
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 391,
+    "name": "Bisdorff, Guillaume",
+    "finish_time": "01:20:33",
+    "finish_seconds": 4833
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 393,
+    "name": "M\u00fcnch, Christopher",
+    "finish_time": "01:20:36",
+    "finish_seconds": 4836
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 395,
+    "name": "Beck, Jesco",
+    "finish_time": "01:20:38",
+    "finish_seconds": 4838
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 397,
+    "name": "Kr\u00e4nzlein, Sascha",
+    "finish_time": "01:20:40",
+    "finish_seconds": 4840
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 399,
+    "name": "Rondorf, Patrick",
+    "finish_time": "01:20:40",
+    "finish_seconds": 4840
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 401,
+    "name": "Weber, James",
+    "finish_time": "01:20:44",
+    "finish_seconds": 4844
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 403,
+    "name": "Thurnherr, Philipp",
+    "finish_time": "01:20:47",
+    "finish_seconds": 4847
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 405,
+    "name": "Wentorf, Mathias",
+    "finish_time": "01:20:49",
+    "finish_seconds": 4849
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 407,
+    "name": "Werder, Marcel",
+    "finish_time": "01:20:52",
+    "finish_seconds": 4852
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 409,
+    "name": "Jeandrot, Nicolas",
+    "finish_time": "01:20:56",
+    "finish_seconds": 4856
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 411,
+    "name": "Feer, Alexander",
+    "finish_time": "01:20:58",
+    "finish_seconds": 4858
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 413,
+    "name": "L\u00f6ffler, Stefan",
+    "finish_time": "01:21:02",
+    "finish_seconds": 4862
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 415,
+    "name": "B\u00e4r, Markus",
+    "finish_time": "01:21:17",
+    "finish_seconds": 4877
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 417,
+    "name": "Stenger, Sebastian",
+    "finish_time": "01:21:18",
+    "finish_seconds": 4878
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 419,
+    "name": "Knill, Dominik",
+    "finish_time": "01:21:19",
+    "finish_seconds": 4879
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 421,
+    "name": "M\u00f6ller, Richard",
+    "finish_time": "01:21:24",
+    "finish_seconds": 4884
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 423,
+    "name": "Kr\u00f6ger, Mathis",
+    "finish_time": "01:21:27",
+    "finish_seconds": 4887
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 425,
+    "name": "Jacobi, Niklas",
+    "finish_time": "01:21:29",
+    "finish_seconds": 4889
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 427,
+    "name": "Bregler, Jonas",
+    "finish_time": "01:21:34",
+    "finish_seconds": 4894
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 429,
+    "name": "Brown, David",
+    "finish_time": "01:21:43",
+    "finish_seconds": 4903
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 431,
+    "name": "Halbauer, Pascal",
+    "finish_time": "01:21:49",
+    "finish_seconds": 4909
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 433,
+    "name": "Lauber, Luca",
+    "finish_time": "01:21:52",
+    "finish_seconds": 4912
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 435,
+    "name": "Eberhardt, Daniel",
+    "finish_time": "01:21:56",
+    "finish_seconds": 4916
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 437,
+    "name": "Nizevi\u010dius, Linas",
+    "finish_time": "01:21:57",
+    "finish_seconds": 4917
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 439,
+    "name": "Dahlem, Fabio",
+    "finish_time": "01:21:59",
+    "finish_seconds": 4919
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 441,
+    "name": "Ruch, Patrick",
+    "finish_time": "01:22:01",
+    "finish_seconds": 4921
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 443,
+    "name": "Schauer, Lukas",
+    "finish_time": "01:22:02",
+    "finish_seconds": 4922
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 445,
+    "name": "Lamprecht, Christopher",
+    "finish_time": "01:22:10",
+    "finish_seconds": 4930
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 447,
+    "name": "Sadek, Tim",
+    "finish_time": "01:22:15",
+    "finish_seconds": 4935
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 449,
+    "name": "Mihai, Hendrik",
+    "finish_time": "01:22:23",
+    "finish_seconds": 4943
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 451,
+    "name": "Ma\u010dys, Andrius",
+    "finish_time": "01:22:25",
+    "finish_seconds": 4945
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 453,
+    "name": "Steinhuber, Ray",
+    "finish_time": "01:22:37",
+    "finish_seconds": 4957
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 455,
+    "name": "Doll, Marcel",
+    "finish_time": "01:22:39",
+    "finish_seconds": 4959
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 457,
+    "name": "Horbachov, Ihor",
+    "finish_time": "01:22:41",
+    "finish_seconds": 4961
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 459,
+    "name": "Sch\u00f6nberger, Stefan",
+    "finish_time": "01:22:47",
+    "finish_seconds": 4967
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 461,
+    "name": "Bayer, Michael",
+    "finish_time": "01:22:54",
+    "finish_seconds": 4974
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 463,
+    "name": "Tscheuschner, Michael",
+    "finish_time": "01:22:58",
+    "finish_seconds": 4978
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 465,
+    "name": "Gillmann, Tim",
+    "finish_time": "01:23:05",
+    "finish_seconds": 4985
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 467,
+    "name": "Abadzic, Dmitar",
+    "finish_time": "01:23:12",
+    "finish_seconds": 4992
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 469,
+    "name": "Warminski, Pepe",
+    "finish_time": "01:23:16",
+    "finish_seconds": 4996
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 471,
+    "name": "Artuschenko, Andrej",
+    "finish_time": "01:23:23",
+    "finish_seconds": 5003
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 473,
+    "name": "Oberth, Niklas",
+    "finish_time": "01:23:24",
+    "finish_seconds": 5004
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 475,
+    "name": "Sch\u00f6ngarth, Fritz Ram\u00f3n",
+    "finish_time": "01:23:26",
+    "finish_seconds": 5006
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 477,
+    "name": "Dyhouse, Jarek",
+    "finish_time": "01:23:27",
+    "finish_seconds": 5007
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 479,
+    "name": "Mudrik, Marian",
+    "finish_time": "01:23:31",
+    "finish_seconds": 5011
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 481,
+    "name": "Nowinski, Wojciech",
+    "finish_time": "01:23:33",
+    "finish_seconds": 5013
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 483,
+    "name": "Bauer, Corentin",
+    "finish_time": "01:23:38",
+    "finish_seconds": 5018
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 485,
+    "name": "K\u00f6hler, Sebastian",
+    "finish_time": "01:23:40",
+    "finish_seconds": 5020
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 487,
+    "name": "Dressler, Michael",
+    "finish_time": "01:23:42",
+    "finish_seconds": 5022
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 489,
+    "name": "Frank, Benjamin",
+    "finish_time": "01:23:50",
+    "finish_seconds": 5030
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 491,
+    "name": "Saunders, Tom",
+    "finish_time": "01:23:51",
+    "finish_seconds": 5031
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 493,
+    "name": "Driessler, Andreas",
+    "finish_time": "01:23:53",
+    "finish_seconds": 5033
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 495,
+    "name": "Theobald, Dennis",
+    "finish_time": "01:23:56",
+    "finish_seconds": 5036
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 497,
+    "name": "Klomp, Arne",
+    "finish_time": "01:23:59",
+    "finish_seconds": 5039
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 499,
+    "name": "Winkler, Dominik",
+    "finish_time": "01:24:06",
+    "finish_seconds": 5046
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 501,
+    "name": "\u0160imek, Benjamin",
+    "finish_time": "01:24:07",
+    "finish_seconds": 5047
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 503,
+    "name": "Volkwein, Paul",
+    "finish_time": "01:24:09",
+    "finish_seconds": 5049
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 505,
+    "name": "Ein\u00f6der, Maximilian",
+    "finish_time": "01:24:13",
+    "finish_seconds": 5053
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 507,
+    "name": "Smits, Selwyn",
+    "finish_time": "01:24:17",
+    "finish_seconds": 5057
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 509,
+    "name": "Van Hoekelen, Bert",
+    "finish_time": "01:24:19",
+    "finish_seconds": 5059
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 511,
+    "name": "Blacklaws, Finn",
+    "finish_time": "01:24:20",
+    "finish_seconds": 5060
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 513,
+    "name": "Kuyrukcu, Ilkay Mehmet",
+    "finish_time": "01:24:21",
+    "finish_seconds": 5061
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 515,
+    "name": "Kuropka, Jan",
+    "finish_time": "01:24:28",
+    "finish_seconds": 5068
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 517,
+    "name": "Birkle, Ralph",
+    "finish_time": "01:24:30",
+    "finish_seconds": 5070
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 519,
+    "name": "Goltze, Marco",
+    "finish_time": "01:24:33",
+    "finish_seconds": 5073
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 521,
+    "name": "Gotsch, Maximilian",
+    "finish_time": "01:24:34",
+    "finish_seconds": 5074
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 523,
+    "name": "Glaeser, Carlo",
+    "finish_time": "01:24:46",
+    "finish_seconds": 5086
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 525,
+    "name": "Schwarz, Kevin",
+    "finish_time": "01:24:51",
+    "finish_seconds": 5091
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 527,
+    "name": "Egeler, Andreas",
+    "finish_time": "01:24:54",
+    "finish_seconds": 5094
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 529,
+    "name": "Wester, Nick",
+    "finish_time": "01:25:06",
+    "finish_seconds": 5106
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 531,
+    "name": "Kemnitzer, Michael",
+    "finish_time": "01:25:09",
+    "finish_seconds": 5109
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 533,
+    "name": "Ehrlich, Dominik",
+    "finish_time": "01:25:12",
+    "finish_seconds": 5112
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 535,
+    "name": "Heinelt, Alexander",
+    "finish_time": "01:25:14",
+    "finish_seconds": 5114
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 537,
+    "name": "Maier, Paul",
+    "finish_time": "01:25:16",
+    "finish_seconds": 5116
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 539,
+    "name": "Kriener, Simon",
+    "finish_time": "01:25:23",
+    "finish_seconds": 5123
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 541,
+    "name": "Thielmann, Steffen",
+    "finish_time": "01:25:26",
+    "finish_seconds": 5126
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 543,
+    "name": "Pfeiffer, Florian",
+    "finish_time": "01:25:30",
+    "finish_seconds": 5130
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 545,
+    "name": "Blust, Eugen",
+    "finish_time": "01:25:32",
+    "finish_seconds": 5132
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 547,
+    "name": "P\u00fcchner, Lukas",
+    "finish_time": "01:25:35",
+    "finish_seconds": 5135
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 549,
+    "name": "Rief, Christoph",
+    "finish_time": "01:25:40",
+    "finish_seconds": 5140
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 551,
+    "name": "Herter, Benjamin",
+    "finish_time": "01:25:43",
+    "finish_seconds": 5143
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 553,
+    "name": "Ortega, Alonso",
+    "finish_time": "01:25:51",
+    "finish_seconds": 5151
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 555,
+    "name": "Methner, Michael",
+    "finish_time": "01:25:53",
+    "finish_seconds": 5153
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 557,
+    "name": "Schr\u00f6ck, Rouven",
+    "finish_time": "01:25:58",
+    "finish_seconds": 5158
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 559,
+    "name": "Ba Salama, Ahmed",
+    "finish_time": "01:25:59",
+    "finish_seconds": 5159
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 561,
+    "name": "Dehasque, Matthieu",
+    "finish_time": "01:26:04",
+    "finish_seconds": 5164
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 563,
+    "name": "Von Babo, Alexander",
+    "finish_time": "01:26:07",
+    "finish_seconds": 5167
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 565,
+    "name": "Hofmeister, Kevin",
+    "finish_time": "01:26:11",
+    "finish_seconds": 5171
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 567,
+    "name": "Parlak, Riza",
+    "finish_time": "01:26:15",
+    "finish_seconds": 5175
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 569,
+    "name": "Kleinert, Jens",
+    "finish_time": "01:26:18",
+    "finish_seconds": 5178
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 571,
+    "name": "Alves, St\u00e9phane",
+    "finish_time": "01:26:21",
+    "finish_seconds": 5181
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 573,
+    "name": "Welzel, Knut",
+    "finish_time": "01:26:23",
+    "finish_seconds": 5183
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 575,
+    "name": "Krohn, Johannes",
+    "finish_time": "01:26:32",
+    "finish_seconds": 5192
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 577,
+    "name": "Hofmann, Roman",
+    "finish_time": "01:26:37",
+    "finish_seconds": 5197
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 579,
+    "name": "Hendleman, Ben",
+    "finish_time": "01:26:39",
+    "finish_seconds": 5199
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 581,
+    "name": "Vigneault, Jacques",
+    "finish_time": "01:26:45",
+    "finish_seconds": 5205
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 583,
+    "name": "B\u00fchlmann, Sem",
+    "finish_time": "01:26:52",
+    "finish_seconds": 5212
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 585,
+    "name": "G\u00f6bel, Bernd",
+    "finish_time": "01:26:56",
+    "finish_seconds": 5216
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 587,
+    "name": "Bach, Raphael",
+    "finish_time": "01:26:59",
+    "finish_seconds": 5219
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 589,
+    "name": "Salzberger, Andreas",
+    "finish_time": "01:27:01",
+    "finish_seconds": 5221
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 591,
+    "name": "Harrichhausen, Denis",
+    "finish_time": "01:27:03",
+    "finish_seconds": 5223
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 593,
+    "name": "Dusch, Florian",
+    "finish_time": "01:27:08",
+    "finish_seconds": 5228
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 595,
+    "name": "Bosbach, Matthias",
+    "finish_time": "01:27:10",
+    "finish_seconds": 5230
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 597,
+    "name": "Djordic, Mario",
+    "finish_time": "01:27:13",
+    "finish_seconds": 5233
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 599,
+    "name": "Schumacher, Jason",
+    "finish_time": "01:27:19",
+    "finish_seconds": 5239
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 601,
+    "name": "Streit, Steffen",
+    "finish_time": "01:27:23",
+    "finish_seconds": 5243
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 603,
+    "name": "Lange, Tobias",
+    "finish_time": "01:27:23",
+    "finish_seconds": 5243
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 605,
+    "name": "Antweiler, Stefan",
+    "finish_time": "01:27:29",
+    "finish_seconds": 5249
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 607,
+    "name": "Perez Gonzalez, David",
+    "finish_time": "01:27:32",
+    "finish_seconds": 5252
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 609,
+    "name": "Martens, Thomas",
+    "finish_time": "01:27:35",
+    "finish_seconds": 5255
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 611,
+    "name": "Ypma, Jens",
+    "finish_time": "01:27:40",
+    "finish_seconds": 5260
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 613,
+    "name": "Feile, Julian",
+    "finish_time": "01:27:46",
+    "finish_seconds": 5266
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 615,
+    "name": "Mercul, Ewen",
+    "finish_time": "01:27:48",
+    "finish_seconds": 5268
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 617,
+    "name": "Sch\u00f6nle, Thomas",
+    "finish_time": "01:27:51",
+    "finish_seconds": 5271
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 619,
+    "name": "Lechner, Florian",
+    "finish_time": "01:27:56",
+    "finish_seconds": 5276
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 621,
+    "name": "Tiedemann, Phil",
+    "finish_time": "01:28:02",
+    "finish_seconds": 5282
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 623,
+    "name": "Kroll, Peter",
+    "finish_time": "01:28:06",
+    "finish_seconds": 5286
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 625,
+    "name": "Dillenburger, Markus",
+    "finish_time": "01:28:07",
+    "finish_seconds": 5287
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 627,
+    "name": "H\u00e4nggeli, Kai",
+    "finish_time": "01:28:07",
+    "finish_seconds": 5287
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 629,
+    "name": "Niesen, Patrick",
+    "finish_time": "01:28:10",
+    "finish_seconds": 5290
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 631,
+    "name": "Schrem, Christopher",
+    "finish_time": "01:28:13",
+    "finish_seconds": 5293
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 633,
+    "name": "Becker, Jonas",
+    "finish_time": "01:28:13",
+    "finish_seconds": 5293
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 635,
+    "name": "Kress, Nikolai",
+    "finish_time": "01:28:16",
+    "finish_seconds": 5296
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 637,
+    "name": "Germann, David",
+    "finish_time": "01:28:21",
+    "finish_seconds": 5301
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 639,
+    "name": "Murphy, Patrick",
+    "finish_time": "01:28:23",
+    "finish_seconds": 5303
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 641,
+    "name": "Wanitschka, Philipp",
+    "finish_time": "01:28:28",
+    "finish_seconds": 5308
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 643,
+    "name": "Gierlinger, Andreas",
+    "finish_time": "01:28:33",
+    "finish_seconds": 5313
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 645,
+    "name": "Witting, Paul",
+    "finish_time": "01:28:39",
+    "finish_seconds": 5319
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 647,
+    "name": "Dolatta, Stefan",
+    "finish_time": "01:28:40",
+    "finish_seconds": 5320
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 649,
+    "name": "Bos, Chris-Jan",
+    "finish_time": "01:28:42",
+    "finish_seconds": 5322
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 651,
+    "name": "Basu, Supriyo",
+    "finish_time": "01:28:51",
+    "finish_seconds": 5331
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 653,
+    "name": "Retter, Jens",
+    "finish_time": "01:28:56",
+    "finish_seconds": 5336
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 655,
+    "name": "Behne, Tobias",
+    "finish_time": "01:29:02",
+    "finish_seconds": 5342
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 657,
+    "name": "D\u00fcsterdiek, Tim",
+    "finish_time": "01:29:07",
+    "finish_seconds": 5347
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 659,
+    "name": "Nopper, Felix",
+    "finish_time": "01:29:11",
+    "finish_seconds": 5351
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 661,
+    "name": "Karsten, Elias",
+    "finish_time": "01:29:11",
+    "finish_seconds": 5351
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 663,
+    "name": "Hobi, David",
+    "finish_time": "01:29:13",
+    "finish_seconds": 5353
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 665,
+    "name": "Schreiber, Yannic",
+    "finish_time": "01:29:15",
+    "finish_seconds": 5355
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 667,
+    "name": "Wenger, David",
+    "finish_time": "01:29:22",
+    "finish_seconds": 5362
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 669,
+    "name": "Forster, Kevin",
+    "finish_time": "01:29:24",
+    "finish_seconds": 5364
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 671,
+    "name": "Wahnsiedler, Daniel",
+    "finish_time": "01:29:25",
+    "finish_seconds": 5365
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 673,
+    "name": "Stolz, Matthias",
+    "finish_time": "01:29:26",
+    "finish_seconds": 5366
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 675,
+    "name": "Streng, Philippe",
+    "finish_time": "01:29:28",
+    "finish_seconds": 5368
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 677,
+    "name": "Fingerle, Justin",
+    "finish_time": "01:29:30",
+    "finish_seconds": 5370
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 679,
+    "name": "St\u00fcber, Yannic",
+    "finish_time": "01:29:39",
+    "finish_seconds": 5379
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 681,
+    "name": "Mayer, Felix",
+    "finish_time": "01:29:43",
+    "finish_seconds": 5383
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 683,
+    "name": "Veit, Philipp",
+    "finish_time": "01:29:44",
+    "finish_seconds": 5384
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 685,
+    "name": "Acosta Fontana, Santiago",
+    "finish_time": "01:29:47",
+    "finish_seconds": 5387
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 687,
+    "name": "Helmke, Finn",
+    "finish_time": "01:29:52",
+    "finish_seconds": 5392
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 689,
+    "name": "Sturm, Markus",
+    "finish_time": "01:29:58",
+    "finish_seconds": 5398
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 691,
+    "name": "Ubben, Alexander",
+    "finish_time": "01:30:01",
+    "finish_seconds": 5401
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 693,
+    "name": "Fundulus, Benedikt",
+    "finish_time": "01:30:07",
+    "finish_seconds": 5407
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 695,
+    "name": "Hintze, Jascha",
+    "finish_time": "01:30:08",
+    "finish_seconds": 5408
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 697,
+    "name": "Reifenberger, Erik",
+    "finish_time": "01:30:11",
+    "finish_seconds": 5411
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 699,
+    "name": "Springer, Kevin",
+    "finish_time": "01:30:13",
+    "finish_seconds": 5413
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 701,
+    "name": "Geithner, Daniel",
+    "finish_time": "01:30:15",
+    "finish_seconds": 5415
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 703,
+    "name": "H\u00f6llersberger, Felix",
+    "finish_time": "01:30:19",
+    "finish_seconds": 5419
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 705,
+    "name": "Tomulescu, Christian",
+    "finish_time": "01:30:23",
+    "finish_seconds": 5423
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 707,
+    "name": "Aks\u00fct, Tolga",
+    "finish_time": "01:30:33",
+    "finish_seconds": 5433
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 709,
+    "name": "Kylar, Svatoslav",
+    "finish_time": "01:30:39",
+    "finish_seconds": 5439
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 711,
+    "name": "Owen, Nathan",
+    "finish_time": "01:30:42",
+    "finish_seconds": 5442
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 713,
+    "name": "Schmid, Simon",
+    "finish_time": "01:30:50",
+    "finish_seconds": 5450
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 715,
+    "name": "Sanchez, Lino",
+    "finish_time": "01:30:55",
+    "finish_seconds": 5455
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 717,
+    "name": "Sieber, Patrick",
+    "finish_time": "01:31:00",
+    "finish_seconds": 5460
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 719,
+    "name": "Kropf, Danilo",
+    "finish_time": "01:31:07",
+    "finish_seconds": 5467
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 721,
+    "name": "Stimmel, J\u00f6rg",
+    "finish_time": "01:31:09",
+    "finish_seconds": 5469
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 723,
+    "name": "Stumpf, Samuel",
+    "finish_time": "01:31:13",
+    "finish_seconds": 5473
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 725,
+    "name": "Riegler, Stefan",
+    "finish_time": "01:31:17",
+    "finish_seconds": 5477
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 727,
+    "name": "Appel, Thorsten",
+    "finish_time": "01:31:19",
+    "finish_seconds": 5479
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 729,
+    "name": "Trehello, Marc",
+    "finish_time": "01:31:22",
+    "finish_seconds": 5482
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 731,
+    "name": "Jung, Eike",
+    "finish_time": "01:31:29",
+    "finish_seconds": 5489
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 733,
+    "name": "Finkel, Nick",
+    "finish_time": "01:31:30",
+    "finish_seconds": 5490
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 735,
+    "name": "R\u00f6sch, Tobias",
+    "finish_time": "01:31:33",
+    "finish_seconds": 5493
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 737,
+    "name": "Mirza, Nasrullah",
+    "finish_time": "01:31:36",
+    "finish_seconds": 5496
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 739,
+    "name": "Fischer, Marco",
+    "finish_time": "01:31:40",
+    "finish_seconds": 5500
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 741,
+    "name": "Tubolino, Marco",
+    "finish_time": "01:31:45",
+    "finish_seconds": 5505
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 743,
+    "name": "Doetschmann, Thilo",
+    "finish_time": "01:31:48",
+    "finish_seconds": 5508
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 745,
+    "name": "Fleischmann, Thomas",
+    "finish_time": "01:31:52",
+    "finish_seconds": 5512
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 747,
+    "name": "Krantz, Filip",
+    "finish_time": "01:31:53",
+    "finish_seconds": 5513
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 749,
+    "name": "Kedziora, Patrick",
+    "finish_time": "01:31:54",
+    "finish_seconds": 5514
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 751,
+    "name": "L\u00fcder, Vinzent",
+    "finish_time": "01:31:56",
+    "finish_seconds": 5516
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 753,
+    "name": "Parlak, Can",
+    "finish_time": "01:31:57",
+    "finish_seconds": 5517
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 755,
+    "name": "Deigner, Tobias",
+    "finish_time": "01:31:58",
+    "finish_seconds": 5518
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 757,
+    "name": "Meier, Kevin",
+    "finish_time": "01:32:01",
+    "finish_seconds": 5521
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 759,
+    "name": "Caspers, Clemens",
+    "finish_time": "01:32:02",
+    "finish_seconds": 5522
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 761,
+    "name": "Perrie, Gavin",
+    "finish_time": "01:32:04",
+    "finish_seconds": 5524
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 763,
+    "name": "Kern, Mathias",
+    "finish_time": "01:32:17",
+    "finish_seconds": 5537
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 765,
+    "name": "Siemon, Andre",
+    "finish_time": "01:32:23",
+    "finish_seconds": 5543
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 767,
+    "name": "He\u00dflinger, Michael",
+    "finish_time": "01:32:23",
+    "finish_seconds": 5543
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 769,
+    "name": "Gruber, Sven",
+    "finish_time": "01:32:28",
+    "finish_seconds": 5548
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 771,
+    "name": "Amaru, Vincenzo",
+    "finish_time": "01:32:30",
+    "finish_seconds": 5550
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 773,
+    "name": "Giglberger, Stefan",
+    "finish_time": "01:32:36",
+    "finish_seconds": 5556
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 775,
+    "name": "Paoletti, Massimo",
+    "finish_time": "01:32:37",
+    "finish_seconds": 5557
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 777,
+    "name": "Wenk, Luca Andri",
+    "finish_time": "01:32:45",
+    "finish_seconds": 5565
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 779,
+    "name": "Ellmann, Maximilian",
+    "finish_time": "01:32:46",
+    "finish_seconds": 5566
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 781,
+    "name": "Buchm\u00fcller, Max",
+    "finish_time": "01:32:51",
+    "finish_seconds": 5571
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 783,
+    "name": "Lang, Thassilo",
+    "finish_time": "01:32:59",
+    "finish_seconds": 5579
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 785,
+    "name": "Fischer, Kai",
+    "finish_time": "01:33:12",
+    "finish_seconds": 5592
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 787,
+    "name": "Kirbach, Martin",
+    "finish_time": "01:33:20",
+    "finish_seconds": 5600
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 789,
+    "name": "Raitano, Paolo",
+    "finish_time": "01:33:26",
+    "finish_seconds": 5606
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 791,
+    "name": "H\u00fcgler, Bernd",
+    "finish_time": "01:33:36",
+    "finish_seconds": 5616
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 793,
+    "name": "Weiss, Adrian",
+    "finish_time": "01:33:39",
+    "finish_seconds": 5619
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 795,
+    "name": "Valenta, Christopher",
+    "finish_time": "01:33:40",
+    "finish_seconds": 5620
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 797,
+    "name": "Dietrich, J\u00f6rg",
+    "finish_time": "01:33:47",
+    "finish_seconds": 5627
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 799,
+    "name": "Sucietto, Christian",
+    "finish_time": "01:33:52",
+    "finish_seconds": 5632
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 801,
+    "name": "Zieger, Julius",
+    "finish_time": "01:33:58",
+    "finish_seconds": 5638
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 803,
+    "name": "M\u00f6ckel, Ole",
+    "finish_time": "01:34:08",
+    "finish_seconds": 5648
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 805,
+    "name": "Steinhauser, Reinhard",
+    "finish_time": "01:34:13",
+    "finish_seconds": 5653
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 807,
+    "name": "Ziegler, Mario",
+    "finish_time": "01:34:15",
+    "finish_seconds": 5655
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 809,
+    "name": "Krause, R\u00fcdiger",
+    "finish_time": "01:34:20",
+    "finish_seconds": 5660
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 811,
+    "name": "Eichenlaub, Andreas",
+    "finish_time": "01:34:24",
+    "finish_seconds": 5664
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 813,
+    "name": "Keil, Daniel",
+    "finish_time": "01:34:31",
+    "finish_seconds": 5671
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 815,
+    "name": "Reeb, Gilles",
+    "finish_time": "01:34:36",
+    "finish_seconds": 5676
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 817,
+    "name": "Bainbridge, Karl",
+    "finish_time": "01:34:38",
+    "finish_seconds": 5678
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 819,
+    "name": "Raatz, Martin",
+    "finish_time": "01:34:39",
+    "finish_seconds": 5679
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 821,
+    "name": "Fricker, Olivier",
+    "finish_time": "01:34:40",
+    "finish_seconds": 5680
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 823,
+    "name": "Sch\u00fcttlohr, Jona",
+    "finish_time": "01:34:44",
+    "finish_seconds": 5684
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 825,
+    "name": "Amanatidis, Iordanis",
+    "finish_time": "01:34:47",
+    "finish_seconds": 5687
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 827,
+    "name": "Kolbeck, Stefan",
+    "finish_time": "01:34:53",
+    "finish_seconds": 5693
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 829,
+    "name": "Veser, Matthias",
+    "finish_time": "01:34:57",
+    "finish_seconds": 5697
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 831,
+    "name": "Paulic, Patrik",
+    "finish_time": "01:35:03",
+    "finish_seconds": 5703
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 833,
+    "name": "Antonov, Oleg",
+    "finish_time": "01:35:05",
+    "finish_seconds": 5705
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 835,
+    "name": "R\u00e4deke, Max",
+    "finish_time": "01:35:11",
+    "finish_seconds": 5711
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 837,
+    "name": "Parlak, Hakan",
+    "finish_time": "01:35:13",
+    "finish_seconds": 5713
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 839,
+    "name": "Abraham, Christoph",
+    "finish_time": "01:35:21",
+    "finish_seconds": 5721
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 841,
+    "name": "Rohrer, Nick",
+    "finish_time": "01:35:27",
+    "finish_seconds": 5727
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 843,
+    "name": "Menge, Christoph",
+    "finish_time": "01:35:33",
+    "finish_seconds": 5733
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 845,
+    "name": "Funk, Sven",
+    "finish_time": "01:35:35",
+    "finish_seconds": 5735
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 847,
+    "name": "\u0160tukheil, Martin",
+    "finish_time": "01:35:40",
+    "finish_seconds": 5740
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 849,
+    "name": "Mika, Andr\u00e9",
+    "finish_time": "01:35:49",
+    "finish_seconds": 5749
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 851,
+    "name": "Gokce, Burak",
+    "finish_time": "01:35:52",
+    "finish_seconds": 5752
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 853,
+    "name": "Klimavi\u010dius, Otonas",
+    "finish_time": "01:35:53",
+    "finish_seconds": 5753
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 855,
+    "name": "Skalic, Zijad",
+    "finish_time": "01:35:54",
+    "finish_seconds": 5754
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 857,
+    "name": "B\u00f6pple, Matthias",
+    "finish_time": "01:35:59",
+    "finish_seconds": 5759
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 859,
+    "name": "Saile, Manuel",
+    "finish_time": "01:36:04",
+    "finish_seconds": 5764
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 861,
+    "name": "G\u00f6rmer, Max",
+    "finish_time": "01:36:05",
+    "finish_seconds": 5765
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 863,
+    "name": "Vester, Matthias",
+    "finish_time": "01:36:14",
+    "finish_seconds": 5774
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 865,
+    "name": "\u00dcnal, Erce",
+    "finish_time": "01:36:22",
+    "finish_seconds": 5782
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 867,
+    "name": "Boncol, Sebastian",
+    "finish_time": "01:36:28",
+    "finish_seconds": 5788
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 869,
+    "name": "Schmidt, Daniel",
+    "finish_time": "01:36:34",
+    "finish_seconds": 5794
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 871,
+    "name": "Ley, Volker",
+    "finish_time": "01:36:37",
+    "finish_seconds": 5797
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 873,
+    "name": "Krall, Ralph",
+    "finish_time": "01:36:42",
+    "finish_seconds": 5802
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 875,
+    "name": "Vagedes, Jan",
+    "finish_time": "01:36:48",
+    "finish_seconds": 5808
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 877,
+    "name": "Adamson, Roger",
+    "finish_time": "01:36:50",
+    "finish_seconds": 5810
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 879,
+    "name": "Ercklentz, Martin",
+    "finish_time": "01:36:52",
+    "finish_seconds": 5812
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 881,
+    "name": "Warady, Tom",
+    "finish_time": "01:36:58",
+    "finish_seconds": 5818
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 883,
+    "name": "Rychter, Lukas",
+    "finish_time": "01:37:06",
+    "finish_seconds": 5826
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 885,
+    "name": "Gaissert, Sebastian",
+    "finish_time": "01:37:12",
+    "finish_seconds": 5832
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 887,
+    "name": "Niesemeyer, Johannes",
+    "finish_time": "01:37:24",
+    "finish_seconds": 5844
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 889,
+    "name": "Starke, Adrian",
+    "finish_time": "01:37:34",
+    "finish_seconds": 5854
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 891,
+    "name": "Leicher, Cedric",
+    "finish_time": "01:37:41",
+    "finish_seconds": 5861
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 893,
+    "name": "Eloy, Fr\u00e9d\u00e9ric",
+    "finish_time": "01:37:52",
+    "finish_seconds": 5872
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 895,
+    "name": "Donat, Hasan",
+    "finish_time": "01:37:53",
+    "finish_seconds": 5873
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 897,
+    "name": "Gubler, Jan",
+    "finish_time": "01:37:56",
+    "finish_seconds": 5876
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 899,
+    "name": "Meiers, Benjamin",
+    "finish_time": "01:38:16",
+    "finish_seconds": 5896
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 901,
+    "name": "De Feo, Sabatino",
+    "finish_time": "01:38:29",
+    "finish_seconds": 5909
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 903,
+    "name": "R\u00f6hr, Mirko",
+    "finish_time": "01:38:34",
+    "finish_seconds": 5914
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 905,
+    "name": "Wember, Sebastian",
+    "finish_time": "01:38:34",
+    "finish_seconds": 5914
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 907,
+    "name": "Derek\u00f6y, Kemal",
+    "finish_time": "01:38:39",
+    "finish_seconds": 5919
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 909,
+    "name": "Pureta, Dejan",
+    "finish_time": "01:38:54",
+    "finish_seconds": 5934
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 911,
+    "name": "Hamurcu, Sinan",
+    "finish_time": "01:39:03",
+    "finish_seconds": 5943
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 913,
+    "name": "Moatty, Elric",
+    "finish_time": "01:39:16",
+    "finish_seconds": 5956
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 915,
+    "name": "B\u00fcchi, Lars",
+    "finish_time": "01:39:22",
+    "finish_seconds": 5962
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 917,
+    "name": "Zitterbart, Sven",
+    "finish_time": "01:39:25",
+    "finish_seconds": 5965
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 919,
+    "name": "Schwarze, Alexander",
+    "finish_time": "01:39:33",
+    "finish_seconds": 5973
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 921,
+    "name": "Hager, Christof",
+    "finish_time": "01:39:34",
+    "finish_seconds": 5974
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 923,
+    "name": "Roth, Fabian",
+    "finish_time": "01:39:42",
+    "finish_seconds": 5982
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 925,
+    "name": "Wagner, Daniel",
+    "finish_time": "01:39:46",
+    "finish_seconds": 5986
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 927,
+    "name": "Hallaschka, Alexander",
+    "finish_time": "01:39:47",
+    "finish_seconds": 5987
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 929,
+    "name": "Anzolo, Junior",
+    "finish_time": "01:39:56",
+    "finish_seconds": 5996
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 931,
+    "name": "Gutekunst, Nicolas",
+    "finish_time": "01:40:00",
+    "finish_seconds": 6000
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 933,
+    "name": "Ozolins, Raimonds",
+    "finish_time": "01:40:10",
+    "finish_seconds": 6010
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "M",
+    "rank": 935,
+    "name": "Fischer, Fabian",
+    "finish_time": "01:40:16",
+    "finish_seconds": 6016
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 1,
+    "name": "Tittmann, Anika",
+    "finish_time": "01:04:33",
+    "finish_seconds": 3873
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 3,
+    "name": "Knoll, Laura",
+    "finish_time": "01:07:13",
+    "finish_seconds": 4033
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 5,
+    "name": "Br\u00fcckner, Lotte",
+    "finish_time": "01:08:38",
+    "finish_seconds": 4118
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 7,
+    "name": "Espeter, Franziska",
+    "finish_time": "01:08:39",
+    "finish_seconds": 4119
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 9,
+    "name": "Karg, Lisa",
+    "finish_time": "01:09:06",
+    "finish_seconds": 4146
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 11,
+    "name": "Bettray, Elsa",
+    "finish_time": "01:09:33",
+    "finish_seconds": 4173
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 13,
+    "name": "Jerger, Jennifer",
+    "finish_time": "01:09:45",
+    "finish_seconds": 4185
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 15,
+    "name": "Leitmeir, Olivia",
+    "finish_time": "01:10:26",
+    "finish_seconds": 4226
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 17,
+    "name": "Mettler, Laura",
+    "finish_time": "01:10:41",
+    "finish_seconds": 4241
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 19,
+    "name": "Wellein, Anna",
+    "finish_time": "01:11:02",
+    "finish_seconds": 4262
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 21,
+    "name": "Pe\u010daver, Tina",
+    "finish_time": "01:11:09",
+    "finish_seconds": 4269
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 23,
+    "name": "Gisler, Marlen",
+    "finish_time": "01:11:25",
+    "finish_seconds": 4285
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 25,
+    "name": "Knitterscheidt, Jana",
+    "finish_time": "01:11:38",
+    "finish_seconds": 4298
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 27,
+    "name": "Hunter, Larissa",
+    "finish_time": "01:11:54",
+    "finish_seconds": 4314
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 29,
+    "name": "Auer, Hannah",
+    "finish_time": "01:11:55",
+    "finish_seconds": 4315
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 31,
+    "name": "Miering, Anja",
+    "finish_time": "01:12:02",
+    "finish_seconds": 4322
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 33,
+    "name": "Herrmann, Sandra",
+    "finish_time": "01:12:15",
+    "finish_seconds": 4335
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 35,
+    "name": "Schreij\u00e4g, Anna-Lena",
+    "finish_time": "01:12:27",
+    "finish_seconds": 4347
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 37,
+    "name": "Farniok, Laura",
+    "finish_time": "01:12:33",
+    "finish_seconds": 4353
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 39,
+    "name": "Jan\u00fdrov\u00e1, Lucie",
+    "finish_time": "01:12:52",
+    "finish_seconds": 4372
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 41,
+    "name": "Crnkovic, Eva",
+    "finish_time": "01:13:32",
+    "finish_seconds": 4412
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 43,
+    "name": "G\u00e4n\u00dfler, Jenny",
+    "finish_time": "01:13:34",
+    "finish_seconds": 4414
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 45,
+    "name": "Gro\u00dfe-Schwiep, Birgit",
+    "finish_time": "01:13:41",
+    "finish_seconds": 4421
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 47,
+    "name": "Pisch, Esther",
+    "finish_time": "01:13:54",
+    "finish_seconds": 4434
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 49,
+    "name": "Weickmann, Jennifer",
+    "finish_time": "01:13:59",
+    "finish_seconds": 4439
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 51,
+    "name": "Kretz, Sina",
+    "finish_time": "01:14:18",
+    "finish_seconds": 4458
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 53,
+    "name": "Sukmanowski, Gina",
+    "finish_time": "01:14:25",
+    "finish_seconds": 4465
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 55,
+    "name": "Bahler, Christan Ann",
+    "finish_time": "01:14:36",
+    "finish_seconds": 4476
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 57,
+    "name": "Lehnigk, Sophie",
+    "finish_time": "01:14:48",
+    "finish_seconds": 4488
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 59,
+    "name": "Diederich, Laura",
+    "finish_time": "01:14:54",
+    "finish_seconds": 4494
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 61,
+    "name": "Ramm, Sandra",
+    "finish_time": "01:15:10",
+    "finish_seconds": 4510
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 63,
+    "name": "Renner, Marie",
+    "finish_time": "01:15:12",
+    "finish_seconds": 4512
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 65,
+    "name": "Sangalli, Seraina",
+    "finish_time": "01:15:30",
+    "finish_seconds": 4530
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 67,
+    "name": "Zimmermann, Lena",
+    "finish_time": "01:15:36",
+    "finish_seconds": 4536
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 69,
+    "name": "Hauser, Julia",
+    "finish_time": "01:15:44",
+    "finish_seconds": 4544
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 71,
+    "name": "Melsa, Michaela",
+    "finish_time": "01:16:02",
+    "finish_seconds": 4562
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 73,
+    "name": "Hamper, Isabella",
+    "finish_time": "01:16:21",
+    "finish_seconds": 4581
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 75,
+    "name": "Depenbusch, Johanna",
+    "finish_time": "01:16:39",
+    "finish_seconds": 4599
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 77,
+    "name": "Marinus, Melissa",
+    "finish_time": "01:16:50",
+    "finish_seconds": 4610
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 79,
+    "name": "St\u00f6ckmann, Petra",
+    "finish_time": "01:16:54",
+    "finish_seconds": 4614
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 81,
+    "name": "Fr\u00f6hlich, Linda",
+    "finish_time": "01:17:00",
+    "finish_seconds": 4620
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 83,
+    "name": "Prinz, Johanna",
+    "finish_time": "01:17:06",
+    "finish_seconds": 4626
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 85,
+    "name": "Grob, Daria",
+    "finish_time": "01:17:14",
+    "finish_seconds": 4634
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 87,
+    "name": "Bojakos, Natalie",
+    "finish_time": "01:17:22",
+    "finish_seconds": 4642
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 89,
+    "name": "Florimond, Adeline",
+    "finish_time": "01:17:25",
+    "finish_seconds": 4645
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 91,
+    "name": "Dartois, Audrey",
+    "finish_time": "01:17:25",
+    "finish_seconds": 4645
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 93,
+    "name": "Gohl, Sophie",
+    "finish_time": "01:17:44",
+    "finish_seconds": 4664
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 95,
+    "name": "Hemmersbach, Ann-Kathrin",
+    "finish_time": "01:17:48",
+    "finish_seconds": 4668
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 97,
+    "name": "Asmuth, Alicia",
+    "finish_time": "01:17:56",
+    "finish_seconds": 4676
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 99,
+    "name": "Weber, Hanna",
+    "finish_time": "01:18:03",
+    "finish_seconds": 4683
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 101,
+    "name": "Riker, Alexandra",
+    "finish_time": "01:18:11",
+    "finish_seconds": 4691
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 103,
+    "name": "Gosebrink, Lucia",
+    "finish_time": "01:18:20",
+    "finish_seconds": 4700
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 105,
+    "name": "Preuss, Daniela",
+    "finish_time": "01:18:22",
+    "finish_seconds": 4702
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 107,
+    "name": "Rosner, Melanie",
+    "finish_time": "01:18:25",
+    "finish_seconds": 4705
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 109,
+    "name": "Wienecke, Marie",
+    "finish_time": "01:18:44",
+    "finish_seconds": 4724
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 111,
+    "name": "W\u00f6lfle, Sophie",
+    "finish_time": "01:18:48",
+    "finish_seconds": 4728
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 113,
+    "name": "Eisenheim, Judith",
+    "finish_time": "01:19:12",
+    "finish_seconds": 4752
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 115,
+    "name": "J\u00f6rissen, Jule",
+    "finish_time": "01:19:17",
+    "finish_seconds": 4757
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 117,
+    "name": "Schwinn, Juana",
+    "finish_time": "01:19:22",
+    "finish_seconds": 4762
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 119,
+    "name": "Freundl, Christina",
+    "finish_time": "01:19:31",
+    "finish_seconds": 4771
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 121,
+    "name": "Bard, Or\u00e9lie",
+    "finish_time": "01:19:42",
+    "finish_seconds": 4782
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 123,
+    "name": "Hadrava, Nathalie",
+    "finish_time": "01:19:44",
+    "finish_seconds": 4784
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 125,
+    "name": "Berger, Janine",
+    "finish_time": "01:19:51",
+    "finish_seconds": 4791
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 127,
+    "name": "Klausner, Christiane",
+    "finish_time": "01:19:57",
+    "finish_seconds": 4797
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 129,
+    "name": "H\u00f6schle, Julia",
+    "finish_time": "01:20:00",
+    "finish_seconds": 4800
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 131,
+    "name": "Mutz, Celia",
+    "finish_time": "01:20:06",
+    "finish_seconds": 4806
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 133,
+    "name": "Wohlfahrt, Claudia",
+    "finish_time": "01:20:09",
+    "finish_seconds": 4809
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 135,
+    "name": "Mcparland, Victoria",
+    "finish_time": "01:20:14",
+    "finish_seconds": 4814
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 137,
+    "name": "Motzer, Selina",
+    "finish_time": "01:20:20",
+    "finish_seconds": 4820
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 139,
+    "name": "H\u00f6fling, Katharina",
+    "finish_time": "01:20:22",
+    "finish_seconds": 4822
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 141,
+    "name": "Meissonnier, Ann-Katrin",
+    "finish_time": "01:20:25",
+    "finish_seconds": 4825
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 143,
+    "name": "Fischer, Janine",
+    "finish_time": "01:20:27",
+    "finish_seconds": 4827
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 145,
+    "name": "Koceva, Hristina",
+    "finish_time": "01:20:34",
+    "finish_seconds": 4834
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 147,
+    "name": "Hermann, Jennifer",
+    "finish_time": "01:20:41",
+    "finish_seconds": 4841
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 149,
+    "name": "Grabowski, Denise",
+    "finish_time": "01:20:52",
+    "finish_seconds": 4852
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 151,
+    "name": "Chapman, Stefanie",
+    "finish_time": "01:20:55",
+    "finish_seconds": 4855
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 153,
+    "name": "Bazin, Camille",
+    "finish_time": "01:20:57",
+    "finish_seconds": 4857
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 155,
+    "name": "Schmaus, Julia",
+    "finish_time": "01:21:05",
+    "finish_seconds": 4865
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 157,
+    "name": "Kreil, Barbara",
+    "finish_time": "01:21:06",
+    "finish_seconds": 4866
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 159,
+    "name": "Steiner, Julia",
+    "finish_time": "01:21:10",
+    "finish_seconds": 4870
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 161,
+    "name": "Rehme, Jasmin",
+    "finish_time": "01:21:17",
+    "finish_seconds": 4877
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 163,
+    "name": "Buz\u00e1s, Dorottya",
+    "finish_time": "01:21:19",
+    "finish_seconds": 4879
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 165,
+    "name": "Kek, Sonja",
+    "finish_time": "01:21:21",
+    "finish_seconds": 4881
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 167,
+    "name": "Duf\u00e9nieux, M\u00e9lanie",
+    "finish_time": "01:21:31",
+    "finish_seconds": 4891
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 169,
+    "name": "Vorobii, Mariia",
+    "finish_time": "01:21:42",
+    "finish_seconds": 4902
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 171,
+    "name": "Mestrovic, Magda",
+    "finish_time": "01:21:44",
+    "finish_seconds": 4904
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 173,
+    "name": "Cobo Jimena, Casandra",
+    "finish_time": "01:21:48",
+    "finish_seconds": 4908
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 175,
+    "name": "D\u00fcrr, Miriam",
+    "finish_time": "01:21:57",
+    "finish_seconds": 4917
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 177,
+    "name": "Bergner, Corinna",
+    "finish_time": "01:22:01",
+    "finish_seconds": 4921
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 179,
+    "name": "Bruckdorfer, Nina",
+    "finish_time": "01:22:05",
+    "finish_seconds": 4925
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 181,
+    "name": "Shulgina, Daria",
+    "finish_time": "01:22:14",
+    "finish_seconds": 4934
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 183,
+    "name": "Fischer, Maike",
+    "finish_time": "01:22:21",
+    "finish_seconds": 4941
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 185,
+    "name": "Dora, Bernadett",
+    "finish_time": "01:22:23",
+    "finish_seconds": 4943
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 187,
+    "name": "Kauffmann, Jenny",
+    "finish_time": "01:22:32",
+    "finish_seconds": 4952
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 189,
+    "name": "Guermeur, Az\u00e9nor",
+    "finish_time": "01:22:33",
+    "finish_seconds": 4953
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 191,
+    "name": "Kiehl-Meyer, Catherine",
+    "finish_time": "01:22:45",
+    "finish_seconds": 4965
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 193,
+    "name": "Ok, Marina",
+    "finish_time": "01:22:57",
+    "finish_seconds": 4977
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 195,
+    "name": "Asam, Veronika",
+    "finish_time": "01:22:57",
+    "finish_seconds": 4977
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 197,
+    "name": "Prochaska, Theresa",
+    "finish_time": "01:23:06",
+    "finish_seconds": 4986
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 199,
+    "name": "Dudeck, Joana",
+    "finish_time": "01:23:13",
+    "finish_seconds": 4993
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 201,
+    "name": "Wendt, Lena",
+    "finish_time": "01:23:21",
+    "finish_seconds": 5001
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 203,
+    "name": "Vollmar, Alexandra",
+    "finish_time": "01:23:26",
+    "finish_seconds": 5006
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 205,
+    "name": "Huber, Simone",
+    "finish_time": "01:23:30",
+    "finish_seconds": 5010
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 207,
+    "name": "Weinrauch, Lena",
+    "finish_time": "01:23:35",
+    "finish_seconds": 5015
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 209,
+    "name": "Lesiczka, Julia",
+    "finish_time": "01:23:42",
+    "finish_seconds": 5022
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 211,
+    "name": "W\u00f6rrle, Verena",
+    "finish_time": "01:23:48",
+    "finish_seconds": 5028
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 213,
+    "name": "Lainer, Hanna",
+    "finish_time": "01:23:49",
+    "finish_seconds": 5029
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 215,
+    "name": "Moeck, Ina",
+    "finish_time": "01:23:52",
+    "finish_seconds": 5032
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 217,
+    "name": "Kuck, Alessa",
+    "finish_time": "01:24:00",
+    "finish_seconds": 5040
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 219,
+    "name": "M\u00fchlhauser, Yvonne",
+    "finish_time": "01:24:07",
+    "finish_seconds": 5047
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 221,
+    "name": "Radimerski, Ronja",
+    "finish_time": "01:24:10",
+    "finish_seconds": 5050
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 223,
+    "name": "Carneiro, Christina",
+    "finish_time": "01:24:16",
+    "finish_seconds": 5056
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 225,
+    "name": "Ustalli, Katerina",
+    "finish_time": "01:24:18",
+    "finish_seconds": 5058
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 227,
+    "name": "M\u00f6s, Eva Maria",
+    "finish_time": "01:24:24",
+    "finish_seconds": 5064
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 229,
+    "name": "\u0160imek, Tereza",
+    "finish_time": "01:24:26",
+    "finish_seconds": 5066
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 231,
+    "name": "Werny, Vanessa",
+    "finish_time": "01:24:37",
+    "finish_seconds": 5077
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 233,
+    "name": "Lunka, Larissa",
+    "finish_time": "01:24:41",
+    "finish_seconds": 5081
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 235,
+    "name": "M\u00fchlbauer, Melina",
+    "finish_time": "01:24:45",
+    "finish_seconds": 5085
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 237,
+    "name": "Fuchs, Ursula",
+    "finish_time": "01:24:47",
+    "finish_seconds": 5087
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 239,
+    "name": "Lynam, Faye",
+    "finish_time": "01:24:54",
+    "finish_seconds": 5094
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 241,
+    "name": "Klemenz, Simone",
+    "finish_time": "01:24:56",
+    "finish_seconds": 5096
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 243,
+    "name": "Lovato, Clara",
+    "finish_time": "01:25:01",
+    "finish_seconds": 5101
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 245,
+    "name": "Hofer, Yelines",
+    "finish_time": "01:25:05",
+    "finish_seconds": 5105
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 247,
+    "name": "Klose, Jana",
+    "finish_time": "01:25:17",
+    "finish_seconds": 5117
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 249,
+    "name": "Brandstetter, Michaela",
+    "finish_time": "01:25:21",
+    "finish_seconds": 5121
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 251,
+    "name": "Thiedemann, Anke",
+    "finish_time": "01:25:24",
+    "finish_seconds": 5124
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 253,
+    "name": "Elbl, Lisa",
+    "finish_time": "01:25:29",
+    "finish_seconds": 5129
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 255,
+    "name": "Purvis, Naomi",
+    "finish_time": "01:25:32",
+    "finish_seconds": 5132
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 257,
+    "name": "Tausch, Juliette",
+    "finish_time": "01:25:35",
+    "finish_seconds": 5135
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 259,
+    "name": "Miteva, Gloriya",
+    "finish_time": "01:25:36",
+    "finish_seconds": 5136
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 261,
+    "name": "Lux, Anna-Sophia",
+    "finish_time": "01:25:38",
+    "finish_seconds": 5138
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 263,
+    "name": "Hoffmann, Christine",
+    "finish_time": "01:25:39",
+    "finish_seconds": 5139
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 265,
+    "name": "Pfaffelmoser, Isabella",
+    "finish_time": "01:25:44",
+    "finish_seconds": 5144
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 267,
+    "name": "Christen, Chantal",
+    "finish_time": "01:25:45",
+    "finish_seconds": 5145
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 269,
+    "name": "Birkas, Irina",
+    "finish_time": "01:25:51",
+    "finish_seconds": 5151
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 271,
+    "name": "Tro\u00df, Verena",
+    "finish_time": "01:25:57",
+    "finish_seconds": 5157
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 273,
+    "name": "Denzel, Pia",
+    "finish_time": "01:25:58",
+    "finish_seconds": 5158
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 275,
+    "name": "Baldi-Holden, Praewta",
+    "finish_time": "01:26:00",
+    "finish_seconds": 5160
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 277,
+    "name": "Ruf, Carmen",
+    "finish_time": "01:26:05",
+    "finish_seconds": 5165
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 279,
+    "name": "Lie\u00dfel, Angie",
+    "finish_time": "01:26:11",
+    "finish_seconds": 5171
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 281,
+    "name": "Nov\u00e1kov\u00e1, Aneta",
+    "finish_time": "01:26:11",
+    "finish_seconds": 5171
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 283,
+    "name": "Kleemeyer, Stefanie",
+    "finish_time": "01:26:12",
+    "finish_seconds": 5172
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 285,
+    "name": "Robertson, Laura",
+    "finish_time": "01:26:14",
+    "finish_seconds": 5174
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 287,
+    "name": "Z\u00f6lch, Sophie",
+    "finish_time": "01:26:17",
+    "finish_seconds": 5177
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 289,
+    "name": "B\u00fcrger, Katharina",
+    "finish_time": "01:26:26",
+    "finish_seconds": 5186
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 291,
+    "name": "Schmid, Nicole",
+    "finish_time": "01:26:34",
+    "finish_seconds": 5194
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 293,
+    "name": "Gahler, Ramona",
+    "finish_time": "01:26:37",
+    "finish_seconds": 5197
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 295,
+    "name": "Ott, Rebekka",
+    "finish_time": "01:26:38",
+    "finish_seconds": 5198
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 297,
+    "name": "La Versa, Chiara",
+    "finish_time": "01:26:44",
+    "finish_seconds": 5204
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 299,
+    "name": "Fend, Claudia",
+    "finish_time": "01:26:50",
+    "finish_seconds": 5210
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 301,
+    "name": "Zeidler, Fanny",
+    "finish_time": "01:26:52",
+    "finish_seconds": 5212
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 303,
+    "name": "Philipp, Carmen",
+    "finish_time": "01:26:53",
+    "finish_seconds": 5213
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 305,
+    "name": "Girard, Christelle",
+    "finish_time": "01:26:56",
+    "finish_seconds": 5216
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 307,
+    "name": "Mathis, Nina",
+    "finish_time": "01:27:01",
+    "finish_seconds": 5221
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 309,
+    "name": "S\u00f6ltenfu\u00df, Victoria",
+    "finish_time": "01:27:10",
+    "finish_seconds": 5230
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 311,
+    "name": "Van Buer, Sarah",
+    "finish_time": "01:27:19",
+    "finish_seconds": 5239
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 313,
+    "name": "Letford, Nicole",
+    "finish_time": "01:27:20",
+    "finish_seconds": 5240
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 315,
+    "name": "Fabrig, Verena",
+    "finish_time": "01:27:23",
+    "finish_seconds": 5243
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 317,
+    "name": "Pihlapuro, Rebecca",
+    "finish_time": "01:27:25",
+    "finish_seconds": 5245
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 319,
+    "name": "W\u00fcstenh\u00f6fer, Vanessa",
+    "finish_time": "01:27:27",
+    "finish_seconds": 5247
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 321,
+    "name": "Heum\u00fcller, Maria",
+    "finish_time": "01:27:34",
+    "finish_seconds": 5254
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 323,
+    "name": "Schmucki, Melanie",
+    "finish_time": "01:27:43",
+    "finish_seconds": 5263
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 325,
+    "name": "Woytke, Sandra",
+    "finish_time": "01:27:58",
+    "finish_seconds": 5278
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 327,
+    "name": "Hinc, Beata",
+    "finish_time": "01:28:01",
+    "finish_seconds": 5281
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 329,
+    "name": "He\u00df, Rebecca",
+    "finish_time": "01:28:02",
+    "finish_seconds": 5282
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 331,
+    "name": "Voll, Sina",
+    "finish_time": "01:28:03",
+    "finish_seconds": 5283
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 333,
+    "name": "O Connell, Marjorie",
+    "finish_time": "01:28:09",
+    "finish_seconds": 5289
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 335,
+    "name": "Trischberger, Kerstin",
+    "finish_time": "01:28:14",
+    "finish_seconds": 5294
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 337,
+    "name": "Berti, Nicole",
+    "finish_time": "01:28:18",
+    "finish_seconds": 5298
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 339,
+    "name": "Endras, Lisa",
+    "finish_time": "01:28:22",
+    "finish_seconds": 5302
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 341,
+    "name": "Farmer, Georgina",
+    "finish_time": "01:28:32",
+    "finish_seconds": 5312
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 343,
+    "name": "Morbach, Michaela",
+    "finish_time": "01:28:35",
+    "finish_seconds": 5315
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 345,
+    "name": "Kr\u00e4nzler, Jasmin",
+    "finish_time": "01:28:44",
+    "finish_seconds": 5324
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 347,
+    "name": "Roth, Katharina",
+    "finish_time": "01:28:48",
+    "finish_seconds": 5328
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 349,
+    "name": "Pieles, Anna",
+    "finish_time": "01:28:55",
+    "finish_seconds": 5335
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 351,
+    "name": "Ramirez, Camila",
+    "finish_time": "01:28:58",
+    "finish_seconds": 5338
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 353,
+    "name": "Dimmel, Elena",
+    "finish_time": "01:28:59",
+    "finish_seconds": 5339
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 355,
+    "name": "Coll\u00e9e, Carla",
+    "finish_time": "01:29:03",
+    "finish_seconds": 5343
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 357,
+    "name": "Aumann, Mona",
+    "finish_time": "01:29:10",
+    "finish_seconds": 5350
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 359,
+    "name": "W\u00f6hrle, Angelina",
+    "finish_time": "01:29:17",
+    "finish_seconds": 5357
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 361,
+    "name": "Waxenberger, Birgit",
+    "finish_time": "01:29:25",
+    "finish_seconds": 5365
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 363,
+    "name": "Petrishyna, Elena",
+    "finish_time": "01:29:26",
+    "finish_seconds": 5366
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 365,
+    "name": "Tan, Kristin",
+    "finish_time": "01:29:29",
+    "finish_seconds": 5369
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 367,
+    "name": "Knott, Monika",
+    "finish_time": "01:29:36",
+    "finish_seconds": 5376
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 369,
+    "name": "Kliebisch, Natascha",
+    "finish_time": "01:29:38",
+    "finish_seconds": 5378
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 371,
+    "name": "Richter, Lara Sophie",
+    "finish_time": "01:29:41",
+    "finish_seconds": 5381
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 373,
+    "name": "Neubauer, Lea",
+    "finish_time": "01:29:45",
+    "finish_seconds": 5385
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 375,
+    "name": "B\u00f6ttcher, Daniela",
+    "finish_time": "01:29:47",
+    "finish_seconds": 5387
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 377,
+    "name": "Ga\u00df, Juliane",
+    "finish_time": "01:29:53",
+    "finish_seconds": 5393
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 379,
+    "name": "Wild, Joana",
+    "finish_time": "01:30:07",
+    "finish_seconds": 5407
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 381,
+    "name": "Wagner, Alina",
+    "finish_time": "01:30:10",
+    "finish_seconds": 5410
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 383,
+    "name": "Sicker, Doreen",
+    "finish_time": "01:30:15",
+    "finish_seconds": 5415
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 385,
+    "name": "J\u00e4ger, Agnes",
+    "finish_time": "01:30:25",
+    "finish_seconds": 5425
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 387,
+    "name": "Becker, Julia",
+    "finish_time": "01:30:29",
+    "finish_seconds": 5429
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 389,
+    "name": "Fontana, Vanessa",
+    "finish_time": "01:30:35",
+    "finish_seconds": 5435
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 391,
+    "name": "Schmidt, Marita",
+    "finish_time": "01:30:42",
+    "finish_seconds": 5442
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 393,
+    "name": "Ceglyte, Julija",
+    "finish_time": "01:30:43",
+    "finish_seconds": 5443
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 395,
+    "name": "Badewitz, Chiara",
+    "finish_time": "01:30:48",
+    "finish_seconds": 5448
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 397,
+    "name": "Fischerkeller, Viktoria",
+    "finish_time": "01:30:51",
+    "finish_seconds": 5451
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 399,
+    "name": "Wurzbach, Denise",
+    "finish_time": "01:31:11",
+    "finish_seconds": 5471
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 401,
+    "name": "Gr\u00e4ble, Anuschka",
+    "finish_time": "01:31:21",
+    "finish_seconds": 5481
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 403,
+    "name": "Herbst, Julia",
+    "finish_time": "01:31:27",
+    "finish_seconds": 5487
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 405,
+    "name": "Schaub, Pattarasuda",
+    "finish_time": "01:31:34",
+    "finish_seconds": 5494
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 407,
+    "name": "Mora, Magali",
+    "finish_time": "01:31:38",
+    "finish_seconds": 5498
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 409,
+    "name": "G\u00f6tz, Jasmin",
+    "finish_time": "01:31:42",
+    "finish_seconds": 5502
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 411,
+    "name": "Stockinger, Sandra",
+    "finish_time": "01:31:47",
+    "finish_seconds": 5507
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 413,
+    "name": "Tasinato, Clara",
+    "finish_time": "01:31:49",
+    "finish_seconds": 5509
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 415,
+    "name": "Schmiddem, Julia",
+    "finish_time": "01:31:52",
+    "finish_seconds": 5512
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 417,
+    "name": "Wigger, Seraina",
+    "finish_time": "01:32:03",
+    "finish_seconds": 5523
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 419,
+    "name": "Cizgin, Pelin",
+    "finish_time": "01:32:06",
+    "finish_seconds": 5526
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 421,
+    "name": "Cepisul, Aurore",
+    "finish_time": "01:32:15",
+    "finish_seconds": 5535
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 423,
+    "name": "Leary, Katie",
+    "finish_time": "01:32:21",
+    "finish_seconds": 5541
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 425,
+    "name": "Goetjes, Lena",
+    "finish_time": "01:32:30",
+    "finish_seconds": 5550
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 427,
+    "name": "Minberg, Ann-Kristin",
+    "finish_time": "01:32:34",
+    "finish_seconds": 5554
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 429,
+    "name": "Halberstadt, Eden",
+    "finish_time": "01:32:39",
+    "finish_seconds": 5559
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 431,
+    "name": "Kern, Stefanie",
+    "finish_time": "01:32:47",
+    "finish_seconds": 5567
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 433,
+    "name": "Kusevic, Silvia",
+    "finish_time": "01:32:52",
+    "finish_seconds": 5572
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 435,
+    "name": "Berg, Isabel Alexandra",
+    "finish_time": "01:33:01",
+    "finish_seconds": 5581
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 437,
+    "name": "Tress, Selina",
+    "finish_time": "01:33:06",
+    "finish_seconds": 5586
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 439,
+    "name": "Fruth, Amy-Lynn",
+    "finish_time": "01:33:15",
+    "finish_seconds": 5595
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 441,
+    "name": "Maier, Alexa",
+    "finish_time": "01:33:16",
+    "finish_seconds": 5596
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 443,
+    "name": "G\u00fclden, Sabrina",
+    "finish_time": "01:33:23",
+    "finish_seconds": 5603
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 445,
+    "name": "G\u00fcler, Sara-Aylin",
+    "finish_time": "01:33:27",
+    "finish_seconds": 5607
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 447,
+    "name": "Frerichs, Amke",
+    "finish_time": "01:33:31",
+    "finish_seconds": 5611
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 449,
+    "name": "Vulker, Franca",
+    "finish_time": "01:33:34",
+    "finish_seconds": 5614
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 451,
+    "name": "Diptmar-Dresp, Sophie",
+    "finish_time": "01:33:39",
+    "finish_seconds": 5619
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 453,
+    "name": "Maree, Aurelia",
+    "finish_time": "01:33:40",
+    "finish_seconds": 5620
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 455,
+    "name": "Looft, Kim",
+    "finish_time": "01:33:47",
+    "finish_seconds": 5627
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 457,
+    "name": "Soder, Ramona",
+    "finish_time": "01:33:51",
+    "finish_seconds": 5631
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 459,
+    "name": "Bauer, Sanja",
+    "finish_time": "01:33:56",
+    "finish_seconds": 5636
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 461,
+    "name": "Poyraz, Selda",
+    "finish_time": "01:34:00",
+    "finish_seconds": 5640
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 463,
+    "name": "Fahim, Souhir",
+    "finish_time": "01:34:08",
+    "finish_seconds": 5648
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 465,
+    "name": "Betancourt, Estefania",
+    "finish_time": "01:34:09",
+    "finish_seconds": 5649
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 467,
+    "name": "Schulze, Michelle",
+    "finish_time": "01:34:17",
+    "finish_seconds": 5657
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 469,
+    "name": "Valkovic Zujic, Petra",
+    "finish_time": "01:34:26",
+    "finish_seconds": 5666
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 471,
+    "name": "Weiss, Patricia",
+    "finish_time": "01:34:28",
+    "finish_seconds": 5668
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 473,
+    "name": "Knackstedt, Irina",
+    "finish_time": "01:34:32",
+    "finish_seconds": 5672
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 475,
+    "name": "Solosenko, Marina",
+    "finish_time": "01:34:35",
+    "finish_seconds": 5675
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 477,
+    "name": "R\u00fchle, Linda",
+    "finish_time": "01:34:39",
+    "finish_seconds": 5679
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 479,
+    "name": "Emunds, Patricia",
+    "finish_time": "01:34:46",
+    "finish_seconds": 5686
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 481,
+    "name": "Marchese, Gloria",
+    "finish_time": "01:34:49",
+    "finish_seconds": 5689
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 483,
+    "name": "Bohacova, Karolina",
+    "finish_time": "01:34:53",
+    "finish_seconds": 5693
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 485,
+    "name": "H\u00fcller, Sarah",
+    "finish_time": "01:34:54",
+    "finish_seconds": 5694
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 487,
+    "name": "Treffon, Isabell",
+    "finish_time": "01:34:57",
+    "finish_seconds": 5697
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 489,
+    "name": "M\u00fcller, Julia",
+    "finish_time": "01:35:01",
+    "finish_seconds": 5701
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 491,
+    "name": "Strack, Kathrin",
+    "finish_time": "01:35:07",
+    "finish_seconds": 5707
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 493,
+    "name": "Schneider, Yara",
+    "finish_time": "01:35:10",
+    "finish_seconds": 5710
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 495,
+    "name": "Weber, Nadine",
+    "finish_time": "01:35:11",
+    "finish_seconds": 5711
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 497,
+    "name": "Kucher, Maria",
+    "finish_time": "01:35:16",
+    "finish_seconds": 5716
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 499,
+    "name": "Amon, Isabel",
+    "finish_time": "01:35:17",
+    "finish_seconds": 5717
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 501,
+    "name": "Gros, Judith",
+    "finish_time": "01:35:19",
+    "finish_seconds": 5719
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 503,
+    "name": "Mercery, Sophie",
+    "finish_time": "01:35:25",
+    "finish_seconds": 5725
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 505,
+    "name": "Lechner, Conny",
+    "finish_time": "01:35:27",
+    "finish_seconds": 5727
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 507,
+    "name": "Hadler, Anke",
+    "finish_time": "01:35:29",
+    "finish_seconds": 5729
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 509,
+    "name": "Schaumberger, Martina",
+    "finish_time": "01:35:31",
+    "finish_seconds": 5731
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 511,
+    "name": "Henkel, Anissa",
+    "finish_time": "01:35:35",
+    "finish_seconds": 5735
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 513,
+    "name": "Noriega Urena, Veronica",
+    "finish_time": "01:35:37",
+    "finish_seconds": 5737
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 515,
+    "name": "Kob\u00f6ck, Franziska",
+    "finish_time": "01:35:46",
+    "finish_seconds": 5746
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 517,
+    "name": "Metting, Verena",
+    "finish_time": "01:35:59",
+    "finish_seconds": 5759
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 519,
+    "name": "Sadeghinia, Neda",
+    "finish_time": "01:36:02",
+    "finish_seconds": 5762
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 521,
+    "name": "Krug, Sabrina",
+    "finish_time": "01:36:04",
+    "finish_seconds": 5764
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 523,
+    "name": "Aichholz, Martina",
+    "finish_time": "01:36:05",
+    "finish_seconds": 5765
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 525,
+    "name": "Smolnik, Mira",
+    "finish_time": "01:36:09",
+    "finish_seconds": 5769
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 527,
+    "name": "Hartung, Sabrina",
+    "finish_time": "01:36:14",
+    "finish_seconds": 5774
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 529,
+    "name": "Keppler, Jana",
+    "finish_time": "01:36:21",
+    "finish_seconds": 5781
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 531,
+    "name": "Rupp, Karin",
+    "finish_time": "01:36:24",
+    "finish_seconds": 5784
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 533,
+    "name": "Schrobi, Dana",
+    "finish_time": "01:36:27",
+    "finish_seconds": 5787
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 535,
+    "name": "Wagner, Lilli",
+    "finish_time": "01:36:39",
+    "finish_seconds": 5799
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 537,
+    "name": "Simmer, Alessandra",
+    "finish_time": "01:36:46",
+    "finish_seconds": 5806
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 539,
+    "name": "Rantamarkkula, Saana",
+    "finish_time": "01:37:02",
+    "finish_seconds": 5822
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 541,
+    "name": "Gansauer, Fiona",
+    "finish_time": "01:37:09",
+    "finish_seconds": 5829
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 543,
+    "name": "Wolf, Beate",
+    "finish_time": "01:37:15",
+    "finish_seconds": 5835
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 545,
+    "name": "G\u00fcndling, Nina",
+    "finish_time": "01:37:21",
+    "finish_seconds": 5841
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 547,
+    "name": "Sch\u00e4ffner, Vanessa",
+    "finish_time": "01:37:25",
+    "finish_seconds": 5845
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 549,
+    "name": "Ruppert, Marina",
+    "finish_time": "01:37:33",
+    "finish_seconds": 5853
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 551,
+    "name": "Becker, Stefanie",
+    "finish_time": "01:37:35",
+    "finish_seconds": 5855
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 553,
+    "name": "Kohler, Meike",
+    "finish_time": "01:37:38",
+    "finish_seconds": 5858
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 555,
+    "name": "Marx, Helena",
+    "finish_time": "01:37:46",
+    "finish_seconds": 5866
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 557,
+    "name": "Rebstock, Katharina",
+    "finish_time": "01:37:55",
+    "finish_seconds": 5875
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 559,
+    "name": "Urban, Corinna",
+    "finish_time": "01:38:04",
+    "finish_seconds": 5884
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 561,
+    "name": "Borchard, Luisa",
+    "finish_time": "01:38:12",
+    "finish_seconds": 5892
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 563,
+    "name": "G\u00f6lz, Hanna",
+    "finish_time": "01:38:19",
+    "finish_seconds": 5899
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 565,
+    "name": "Funk, Sina",
+    "finish_time": "01:38:32",
+    "finish_seconds": 5912
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 567,
+    "name": "Schielein, Catharina",
+    "finish_time": "01:38:34",
+    "finish_seconds": 5914
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 569,
+    "name": "\u00d6lschl\u00e4ger, Jessika",
+    "finish_time": "01:38:37",
+    "finish_seconds": 5917
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 571,
+    "name": "Stephan, Hanna",
+    "finish_time": "01:39:01",
+    "finish_seconds": 5941
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 573,
+    "name": "Stoeber, Ann-Sophie",
+    "finish_time": "01:39:12",
+    "finish_seconds": 5952
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 575,
+    "name": "Bahl, Giulia Marie",
+    "finish_time": "01:39:19",
+    "finish_seconds": 5959
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 577,
+    "name": "Vehovec, Lara",
+    "finish_time": "01:39:27",
+    "finish_seconds": 5967
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 579,
+    "name": "Pivard, Mariane",
+    "finish_time": "01:39:33",
+    "finish_seconds": 5973
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 581,
+    "name": "Maxeiner, Nadja",
+    "finish_time": "01:39:38",
+    "finish_seconds": 5978
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 583,
+    "name": "Elder, Jacqueline",
+    "finish_time": "01:39:43",
+    "finish_seconds": 5983
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 585,
+    "name": "Tallarek, Darleen",
+    "finish_time": "01:39:57",
+    "finish_seconds": 5997
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 587,
+    "name": "Lind, Jacqueline",
+    "finish_time": "01:40:00",
+    "finish_seconds": 6000
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 589,
+    "name": "Ismail, Maroua",
+    "finish_time": "01:40:11",
+    "finish_seconds": 6011
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 591,
+    "name": "Dehniger, Svetlana",
+    "finish_time": "01:40:15",
+    "finish_seconds": 6015
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 593,
+    "name": "Hacker, Stefanie",
+    "finish_time": "01:40:26",
+    "finish_seconds": 6026
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 595,
+    "name": "Stojan, Hannah",
+    "finish_time": "01:40:28",
+    "finish_seconds": 6028
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 597,
+    "name": "Prochotta, Alicia",
+    "finish_time": "01:40:38",
+    "finish_seconds": 6038
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 599,
+    "name": "Schmid, Jaqueline",
+    "finish_time": "01:40:51",
+    "finish_seconds": 6051
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 601,
+    "name": "Bazzanella, Nicole",
+    "finish_time": "01:40:56",
+    "finish_seconds": 6056
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 603,
+    "name": "Poltmann, Elvine",
+    "finish_time": "01:41:03",
+    "finish_seconds": 6063
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 605,
+    "name": "Reichlin, Jessica",
+    "finish_time": "01:41:10",
+    "finish_seconds": 6070
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 607,
+    "name": "Augustin, Marie-Madeleine",
+    "finish_time": "01:41:18",
+    "finish_seconds": 6078
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 609,
+    "name": "Flamme, Katja",
+    "finish_time": "01:41:20",
+    "finish_seconds": 6080
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 611,
+    "name": "Seeberger, Lena",
+    "finish_time": "01:41:32",
+    "finish_seconds": 6092
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 613,
+    "name": "Sch\u00f6nherr, Cathrine",
+    "finish_time": "01:41:41",
+    "finish_seconds": 6101
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 615,
+    "name": "Schwarz, Theresa",
+    "finish_time": "01:42:01",
+    "finish_seconds": 6121
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 617,
+    "name": "Smidova, Karolina",
+    "finish_time": "01:42:06",
+    "finish_seconds": 6126
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 619,
+    "name": "Burton, Sophie",
+    "finish_time": "01:42:37",
+    "finish_seconds": 6157
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 621,
+    "name": "Baier, Franziska",
+    "finish_time": "01:42:57",
+    "finish_seconds": 6177
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 623,
+    "name": "Groh, Tanisha",
+    "finish_time": "01:43:09",
+    "finish_seconds": 6189
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 625,
+    "name": "Andrew, Emma",
+    "finish_time": "01:43:19",
+    "finish_seconds": 6199
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 627,
+    "name": "M\u00fcller, Anna Celine",
+    "finish_time": "01:43:27",
+    "finish_seconds": 6207
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 629,
+    "name": "Becker, Kerstin",
+    "finish_time": "01:43:35",
+    "finish_seconds": 6215
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 631,
+    "name": "Schmitt, Lea Marie",
+    "finish_time": "01:43:40",
+    "finish_seconds": 6220
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 633,
+    "name": "Barletta, Eva",
+    "finish_time": "01:43:53",
+    "finish_seconds": 6233
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 635,
+    "name": "Riebe, Anja",
+    "finish_time": "01:44:00",
+    "finish_seconds": 6240
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 637,
+    "name": "Olf, Jasmin",
+    "finish_time": "01:44:07",
+    "finish_seconds": 6247
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 639,
+    "name": "Stielper, Judith",
+    "finish_time": "01:44:14",
+    "finish_seconds": 6254
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 641,
+    "name": "Trost, Nadja",
+    "finish_time": "01:44:22",
+    "finish_seconds": 6262
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 643,
+    "name": "Fonseca, Mariana",
+    "finish_time": "01:44:24",
+    "finish_seconds": 6264
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 645,
+    "name": "Humbert, Emelyne",
+    "finish_time": "01:44:37",
+    "finish_seconds": 6277
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 647,
+    "name": "Schl\u00f6sser, Lea-Marie",
+    "finish_time": "01:44:49",
+    "finish_seconds": 6289
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 649,
+    "name": "Ruholl, Daniela",
+    "finish_time": "01:45:00",
+    "finish_seconds": 6300
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 651,
+    "name": "Hantsch, Janine",
+    "finish_time": "01:45:07",
+    "finish_seconds": 6307
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 653,
+    "name": "Fischer, Celia",
+    "finish_time": "01:45:16",
+    "finish_seconds": 6316
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 655,
+    "name": "Mohamed Mawad, Shaimaa",
+    "finish_time": "01:45:39",
+    "finish_seconds": 6339
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 657,
+    "name": "Weber, Luisa-Marie",
+    "finish_time": "01:45:42",
+    "finish_seconds": 6342
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 659,
+    "name": "Liu, Tina",
+    "finish_time": "01:45:49",
+    "finish_seconds": 6349
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 661,
+    "name": "Braun, Denise",
+    "finish_time": "01:45:53",
+    "finish_seconds": 6353
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 663,
+    "name": "Trautwein, Kathrin",
+    "finish_time": "01:46:00",
+    "finish_seconds": 6360
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 665,
+    "name": "Jones, Mohrvarid",
+    "finish_time": "01:46:12",
+    "finish_seconds": 6372
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 667,
+    "name": "Sommer, Petra",
+    "finish_time": "01:46:20",
+    "finish_seconds": 6380
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 669,
+    "name": "Fontoin, Aline",
+    "finish_time": "01:46:34",
+    "finish_seconds": 6394
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 671,
+    "name": "Oelschl\u00e4gel, Lea",
+    "finish_time": "01:46:56",
+    "finish_seconds": 6416
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 673,
+    "name": "Fitzner, Yvonne",
+    "finish_time": "01:46:59",
+    "finish_seconds": 6419
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 675,
+    "name": "L\u00f6wenstrom, Fanny",
+    "finish_time": "01:47:08",
+    "finish_seconds": 6428
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 677,
+    "name": "Wax, Annette",
+    "finish_time": "01:47:20",
+    "finish_seconds": 6440
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 679,
+    "name": "Freier, Marylin",
+    "finish_time": "01:47:23",
+    "finish_seconds": 6443
+  },
+  {
+    "venue": "2025 Stuttgart",
+    "gender": "W",
+    "rank": 681,
+    "name": "Beier, Anette",
+    "finish_time": "01:47:28",
+    "finish_seconds": 6448
+  }
+]

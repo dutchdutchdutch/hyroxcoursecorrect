@@ -1,0 +1,4434 @@
+[
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 1,
+    "name": "Beugel, Rik",
+    "finish_time": "00:58:40",
+    "finish_seconds": 3520
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 3,
+    "name": "\u82cf, \u7430",
+    "finish_time": "01:01:19",
+    "finish_seconds": 3679
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 5,
+    "name": "BONG, JORDAN TZE LUN",
+    "finish_time": "01:02:01",
+    "finish_seconds": 3721
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 7,
+    "name": "Yu, Tat shing",
+    "finish_time": "01:02:44",
+    "finish_seconds": 3764
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 9,
+    "name": "\u963f\u4e0d\u90fd\u5e93\u90fd\u65af, \u00b7\u963f\u4e0d\u529b\u5b5c",
+    "finish_time": "01:02:54",
+    "finish_seconds": 3774
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 11,
+    "name": "Nagy, David",
+    "finish_time": "01:03:51",
+    "finish_seconds": 3831
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 13,
+    "name": "Marks, Oliver",
+    "finish_time": "01:04:50",
+    "finish_seconds": 3890
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 15,
+    "name": "\u9676, \u6b63",
+    "finish_time": "01:06:09",
+    "finish_seconds": 3969
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 17,
+    "name": "Wenger, Andreas",
+    "finish_time": "01:07:52",
+    "finish_seconds": 4072
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 19,
+    "name": "\u8521, \u677e\u76ca",
+    "finish_time": "01:08:25",
+    "finish_seconds": 4105
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 21,
+    "name": "Hung, Tsz Hin",
+    "finish_time": "01:08:47",
+    "finish_seconds": 4127
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 23,
+    "name": "Che, King Shing",
+    "finish_time": "01:08:54",
+    "finish_seconds": 4134
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 25,
+    "name": "TITOMIR, ANDREI",
+    "finish_time": "01:09:09",
+    "finish_seconds": 4149
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 27,
+    "name": "Swangvong, Weerapat",
+    "finish_time": "01:09:43",
+    "finish_seconds": 4183
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 29,
+    "name": "Ferreira Pinho, Luis Miguel",
+    "finish_time": "01:09:56",
+    "finish_seconds": 4196
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 31,
+    "name": "SI, CHENG LONG",
+    "finish_time": "01:10:13",
+    "finish_seconds": 4213
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 33,
+    "name": "Wu, Ka Kit",
+    "finish_time": "01:10:26",
+    "finish_seconds": 4226
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 35,
+    "name": "\u5d14, \u80dc\u6770",
+    "finish_time": "01:11:21",
+    "finish_seconds": 4281
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 37,
+    "name": "\u9ea6, \u575a",
+    "finish_time": "01:11:53",
+    "finish_seconds": 4313
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 39,
+    "name": "Verstraete, Pieter",
+    "finish_time": "01:12:18",
+    "finish_seconds": 4338
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 41,
+    "name": "Se, Alan",
+    "finish_time": "01:12:29",
+    "finish_seconds": 4349
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 43,
+    "name": "Chan, Brian",
+    "finish_time": "01:12:39",
+    "finish_seconds": 4359
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 45,
+    "name": "\u674e, \u6653\u5f66",
+    "finish_time": "01:12:55",
+    "finish_seconds": 4375
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 47,
+    "name": "\u9ec4, \u5b87\u8f69",
+    "finish_time": "01:13:10",
+    "finish_seconds": 4390
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 49,
+    "name": "\u8d75, \u5b87\u8c6a",
+    "finish_time": "01:13:54",
+    "finish_seconds": 4434
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 51,
+    "name": "\u9ec4, \u65b0\u5c27",
+    "finish_time": "01:14:05",
+    "finish_seconds": 4445
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 53,
+    "name": "Guo, Wilson",
+    "finish_time": "01:14:12",
+    "finish_seconds": 4452
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 55,
+    "name": "Wong, Arnold",
+    "finish_time": "01:14:13",
+    "finish_seconds": 4453
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 57,
+    "name": "Li, Adrian",
+    "finish_time": "01:14:24",
+    "finish_seconds": 4464
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 59,
+    "name": "\u6731, \u6587\u660a",
+    "finish_time": "01:14:27",
+    "finish_seconds": 4467
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 61,
+    "name": "Tay, Pesdy",
+    "finish_time": "01:14:29",
+    "finish_seconds": 4469
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 63,
+    "name": "\u5f20, \u6653\u6656",
+    "finish_time": "01:14:41",
+    "finish_seconds": 4481
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 65,
+    "name": "\u7c21, \u6f22\u6c76",
+    "finish_time": "01:14:43",
+    "finish_seconds": 4483
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 67,
+    "name": "Batmunkh, Munkhbileg",
+    "finish_time": "01:14:45",
+    "finish_seconds": 4485
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 69,
+    "name": "Benchokroun, Mehdi",
+    "finish_time": "01:14:59",
+    "finish_seconds": 4499
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 71,
+    "name": "\u8d75, \u4f69\u5ddd",
+    "finish_time": "01:15:11",
+    "finish_seconds": 4511
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 73,
+    "name": "Richardson, Alexander",
+    "finish_time": "01:15:29",
+    "finish_seconds": 4529
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 75,
+    "name": "Wong, Tsan Hong",
+    "finish_time": "01:15:42",
+    "finish_seconds": 4542
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 77,
+    "name": "Samonte, Charlie",
+    "finish_time": "01:15:56",
+    "finish_seconds": 4556
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 79,
+    "name": "\u5f20, \u52ad\u52e4",
+    "finish_time": "01:16:02",
+    "finish_seconds": 4562
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 81,
+    "name": "\u4f55, \u660e\u6770",
+    "finish_time": "01:16:17",
+    "finish_seconds": 4577
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 83,
+    "name": "\u6e29, \u548c\u5929",
+    "finish_time": "01:16:24",
+    "finish_seconds": 4584
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 85,
+    "name": "LEE, WAI KIN",
+    "finish_time": "01:16:33",
+    "finish_seconds": 4593
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 87,
+    "name": "Lee, Tin Wai",
+    "finish_time": "01:16:43",
+    "finish_seconds": 4603
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 89,
+    "name": "\u9648, \u7ef4\u9038",
+    "finish_time": "01:16:55",
+    "finish_seconds": 4615
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 91,
+    "name": "Liu, Cheuk Man",
+    "finish_time": "01:16:58",
+    "finish_seconds": 4618
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 93,
+    "name": "Wong, Pak Kin",
+    "finish_time": "01:17:21",
+    "finish_seconds": 4641
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 95,
+    "name": "\u5f20, \u4e50\u79cb",
+    "finish_time": "01:17:27",
+    "finish_seconds": 4647
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 97,
+    "name": "\u66f9, \u6c5f\u777f",
+    "finish_time": "01:17:38",
+    "finish_seconds": 4658
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 99,
+    "name": "Chui, Cheuk lam",
+    "finish_time": "01:17:42",
+    "finish_seconds": 4662
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 101,
+    "name": "\u949f, \u4f1f\u6587",
+    "finish_time": "01:17:44",
+    "finish_seconds": 4664
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 103,
+    "name": "Kadere, Tafadzwa",
+    "finish_time": "01:17:46",
+    "finish_seconds": 4666
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 105,
+    "name": "\u4f55, \u6797\u4fca",
+    "finish_time": "01:17:48",
+    "finish_seconds": 4668
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 107,
+    "name": "To, Chun Tung",
+    "finish_time": "01:17:56",
+    "finish_seconds": 4676
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 109,
+    "name": "\u848b, \u9e4f\u98de",
+    "finish_time": "01:17:57",
+    "finish_seconds": 4677
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 111,
+    "name": "Clarke, Nicholas",
+    "finish_time": "01:18:10",
+    "finish_seconds": 4690
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 113,
+    "name": "\u67ef, \u5b50\u8000",
+    "finish_time": "01:18:24",
+    "finish_seconds": 4704
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 115,
+    "name": "Gurung, Robit",
+    "finish_time": "01:18:35",
+    "finish_seconds": 4715
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 117,
+    "name": "\u6768, \u5a01",
+    "finish_time": "01:19:03",
+    "finish_seconds": 4743
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 119,
+    "name": "Nye, Yefren",
+    "finish_time": "01:19:06",
+    "finish_seconds": 4746
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 121,
+    "name": "CHAN, KEN",
+    "finish_time": "01:19:10",
+    "finish_seconds": 4750
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 123,
+    "name": "Yu, Man Kong Max",
+    "finish_time": "01:19:14",
+    "finish_seconds": 4754
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 125,
+    "name": "\u6587, \u660c\u8be2",
+    "finish_time": "01:19:29",
+    "finish_seconds": 4769
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 127,
+    "name": "\u989c, \u660e",
+    "finish_time": "01:19:44",
+    "finish_seconds": 4784
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 129,
+    "name": "\u83ab, \u5764\u660e",
+    "finish_time": "01:19:50",
+    "finish_seconds": 4790
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 131,
+    "name": "Engelhardt, Felix",
+    "finish_time": "01:20:00",
+    "finish_seconds": 4800
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 133,
+    "name": "\u59dc, \u9e9f\u5955",
+    "finish_time": "01:20:03",
+    "finish_seconds": 4803
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 135,
+    "name": "\u95eb, \u535a",
+    "finish_time": "01:20:16",
+    "finish_seconds": 4816
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 137,
+    "name": "\u738b, \u666f",
+    "finish_time": "01:20:33",
+    "finish_seconds": 4833
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 139,
+    "name": "CHEUNG, Ka Fai",
+    "finish_time": "01:20:38",
+    "finish_seconds": 4838
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 141,
+    "name": "\u5e38, \u6d9b",
+    "finish_time": "01:20:54",
+    "finish_seconds": 4854
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 143,
+    "name": "Lee, Sean",
+    "finish_time": "01:20:56",
+    "finish_seconds": 4856
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 145,
+    "name": "\u5434, \u535a",
+    "finish_time": "01:21:05",
+    "finish_seconds": 4865
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 147,
+    "name": "Man, Matt",
+    "finish_time": "01:21:10",
+    "finish_seconds": 4870
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 149,
+    "name": "\u9648, \u8c31\u5408",
+    "finish_time": "01:21:15",
+    "finish_seconds": 4875
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 151,
+    "name": "\u5362, \u6069\u8d50",
+    "finish_time": "01:21:31",
+    "finish_seconds": 4891
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 153,
+    "name": "\u5434, \u6052\u661f",
+    "finish_time": "01:21:39",
+    "finish_seconds": 4899
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 155,
+    "name": "Enkhtuvshin, Batkhuyag",
+    "finish_time": "01:21:43",
+    "finish_seconds": 4903
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 157,
+    "name": "Lam, Tsz Cheung",
+    "finish_time": "01:21:52",
+    "finish_seconds": 4912
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 159,
+    "name": "Tsang, Hon Tim",
+    "finish_time": "01:22:06",
+    "finish_seconds": 4926
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 161,
+    "name": "\u9ec4, \u65fb\u6654",
+    "finish_time": "01:22:13",
+    "finish_seconds": 4933
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 163,
+    "name": "Cheung, Calvin",
+    "finish_time": "01:22:21",
+    "finish_seconds": 4941
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 165,
+    "name": "Bannon, Mark",
+    "finish_time": "01:22:23",
+    "finish_seconds": 4943
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 167,
+    "name": "Tai, Chen Lye",
+    "finish_time": "01:22:24",
+    "finish_seconds": 4944
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 169,
+    "name": "Lee, Alan Yee Tuen",
+    "finish_time": "01:22:35",
+    "finish_seconds": 4955
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 171,
+    "name": "\u5f90, \u6d69\u6977",
+    "finish_time": "01:22:43",
+    "finish_seconds": 4963
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 173,
+    "name": "Julius, Dalian Stefano",
+    "finish_time": "01:22:56",
+    "finish_seconds": 4976
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 175,
+    "name": "GODEC, Yoann",
+    "finish_time": "01:22:57",
+    "finish_seconds": 4977
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 177,
+    "name": "\u91d1, \u76ca\u8d85",
+    "finish_time": "01:23:00",
+    "finish_seconds": 4980
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 179,
+    "name": "\u674e, \u4ec1\u8d85",
+    "finish_time": "01:23:04",
+    "finish_seconds": 4984
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 181,
+    "name": "\u7ae5, \u665f\u6770",
+    "finish_time": "01:23:07",
+    "finish_seconds": 4987
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 183,
+    "name": "\u9ec3, \u5929\u5049",
+    "finish_time": "01:23:13",
+    "finish_seconds": 4993
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 185,
+    "name": "\u6731, \u709c",
+    "finish_time": "01:23:14",
+    "finish_seconds": 4994
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 187,
+    "name": "\u4e07, \u5b50\u8c6a",
+    "finish_time": "01:23:14",
+    "finish_seconds": 4994
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 189,
+    "name": "Wong, Ming Lung",
+    "finish_time": "01:23:24",
+    "finish_seconds": 5004
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 191,
+    "name": "\u674e, \u5584\u6743",
+    "finish_time": "01:23:28",
+    "finish_seconds": 5008
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 193,
+    "name": "\u6b66, \u5f6a",
+    "finish_time": "01:23:33",
+    "finish_seconds": 5013
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 195,
+    "name": "Whitman, James",
+    "finish_time": "01:23:37",
+    "finish_seconds": 5017
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 197,
+    "name": "Wu, Xiuyuan",
+    "finish_time": "01:23:44",
+    "finish_seconds": 5024
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 199,
+    "name": "\u9648, \u73c2\u5b87",
+    "finish_time": "01:23:45",
+    "finish_seconds": 5025
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 201,
+    "name": "\u9ea6, \u6c9b\u6e90",
+    "finish_time": "01:23:51",
+    "finish_seconds": 5031
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 203,
+    "name": "\u6731, \u5c1a\u8363",
+    "finish_time": "01:24:01",
+    "finish_seconds": 5041
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 205,
+    "name": "Chan, Yin ching",
+    "finish_time": "01:24:05",
+    "finish_seconds": 5045
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 207,
+    "name": "\u738b, \u6e24\u52cb",
+    "finish_time": "01:24:16",
+    "finish_seconds": 5056
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 209,
+    "name": "Warner, Warren",
+    "finish_time": "01:24:17",
+    "finish_seconds": 5057
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 211,
+    "name": "Lan, Yiyun",
+    "finish_time": "01:24:20",
+    "finish_seconds": 5060
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 213,
+    "name": "Pang, Yi How",
+    "finish_time": "01:24:26",
+    "finish_seconds": 5066
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 215,
+    "name": "MOMO KOUNTCHOU, VERLIN",
+    "finish_time": "01:24:32",
+    "finish_seconds": 5072
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 217,
+    "name": "\u674e, \u664b",
+    "finish_time": "01:24:44",
+    "finish_seconds": 5084
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 219,
+    "name": "\u674e, \u601d\u777f",
+    "finish_time": "01:24:55",
+    "finish_seconds": 5095
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 221,
+    "name": "\u9648, \u677e\u57ce",
+    "finish_time": "01:25:01",
+    "finish_seconds": 5101
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 223,
+    "name": "\u8d3a, \u5f66\u4e4b",
+    "finish_time": "01:25:04",
+    "finish_seconds": 5104
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 225,
+    "name": "Zifeng, Liu",
+    "finish_time": "01:25:07",
+    "finish_seconds": 5107
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 227,
+    "name": "MIYATA, KEISUKE",
+    "finish_time": "01:25:08",
+    "finish_seconds": 5108
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 229,
+    "name": "\u9648, \u4fca\u4f1f",
+    "finish_time": "01:25:21",
+    "finish_seconds": 5121
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 231,
+    "name": "\u77f3, \u777f",
+    "finish_time": "01:25:28",
+    "finish_seconds": 5128
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 233,
+    "name": "\u8449, \u96c1\u5929",
+    "finish_time": "01:25:39",
+    "finish_seconds": 5139
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 235,
+    "name": "\u738b, \u78ca",
+    "finish_time": "01:25:48",
+    "finish_seconds": 5148
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 237,
+    "name": "\u90ed, \u9e4f",
+    "finish_time": "01:25:50",
+    "finish_seconds": 5150
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 239,
+    "name": "\u4ed8, \u5f3a",
+    "finish_time": "01:25:55",
+    "finish_seconds": 5155
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 241,
+    "name": "\u6e29, \u6b23",
+    "finish_time": "01:26:07",
+    "finish_seconds": 5167
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 243,
+    "name": "Lau, Siu hoi",
+    "finish_time": "01:26:17",
+    "finish_seconds": 5177
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 245,
+    "name": "Chan, Ko Hoi",
+    "finish_time": "01:26:32",
+    "finish_seconds": 5192
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 247,
+    "name": "\u9ec4, \u4ec1\u5f6c",
+    "finish_time": "01:26:37",
+    "finish_seconds": 5197
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 249,
+    "name": "\u4ee3, \u948a",
+    "finish_time": "01:26:38",
+    "finish_seconds": 5198
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 251,
+    "name": "Yip, Henry",
+    "finish_time": "01:26:40",
+    "finish_seconds": 5200
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 253,
+    "name": "An, Zheng",
+    "finish_time": "01:26:43",
+    "finish_seconds": 5203
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 255,
+    "name": "\u83ab, \u79c9\u6770",
+    "finish_time": "01:26:54",
+    "finish_seconds": 5214
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 257,
+    "name": "\u8bb8, \u80fd\u8f89",
+    "finish_time": "01:27:03",
+    "finish_seconds": 5223
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 259,
+    "name": "\u738b, \u56fd\u6a11",
+    "finish_time": "01:27:07",
+    "finish_seconds": 5227
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 261,
+    "name": "\u675c, \u7545",
+    "finish_time": "01:27:12",
+    "finish_seconds": 5232
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 263,
+    "name": "\u6587, \u54f2",
+    "finish_time": "01:27:15",
+    "finish_seconds": 5235
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 265,
+    "name": "\u5218, \u96e8\u821f",
+    "finish_time": "01:27:18",
+    "finish_seconds": 5238
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 267,
+    "name": "\u9a6c, \u9a81",
+    "finish_time": "01:27:25",
+    "finish_seconds": 5245
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 269,
+    "name": "Mirza, Khairin",
+    "finish_time": "01:27:33",
+    "finish_seconds": 5253
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 271,
+    "name": "clovirola, Alexandre",
+    "finish_time": "01:27:38",
+    "finish_seconds": 5258
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 273,
+    "name": "\u5f20, \u5f1b",
+    "finish_time": "01:27:45",
+    "finish_seconds": 5265
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 275,
+    "name": "\u6768, \u8000\u57fa",
+    "finish_time": "01:27:47",
+    "finish_seconds": 5267
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 277,
+    "name": "\u9b4f, \u5b50\u94a7",
+    "finish_time": "01:27:48",
+    "finish_seconds": 5268
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 279,
+    "name": "Yu, Chun Wa",
+    "finish_time": "01:27:52",
+    "finish_seconds": 5272
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 281,
+    "name": "\u90d1, \u707f\u8c6a",
+    "finish_time": "01:27:56",
+    "finish_seconds": 5276
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 283,
+    "name": "\u8881, \u632f\u519b",
+    "finish_time": "01:27:59",
+    "finish_seconds": 5279
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 285,
+    "name": "\u91d1, \u8c6a",
+    "finish_time": "01:28:01",
+    "finish_seconds": 5281
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 287,
+    "name": "\u6768, \u5251\u9e23",
+    "finish_time": "01:28:08",
+    "finish_seconds": 5288
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 289,
+    "name": "Lee, Kin Yeung",
+    "finish_time": "01:28:10",
+    "finish_seconds": 5290
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 291,
+    "name": "\u5218, \u8dc3\u6c5f",
+    "finish_time": "01:28:14",
+    "finish_seconds": 5294
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 293,
+    "name": "\u4e8e, \u6772",
+    "finish_time": "01:28:20",
+    "finish_seconds": 5300
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 295,
+    "name": "TSANG, HON CHIU",
+    "finish_time": "01:28:23",
+    "finish_seconds": 5303
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 297,
+    "name": "\u5218, \u624d",
+    "finish_time": "01:28:30",
+    "finish_seconds": 5310
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 299,
+    "name": "Villemonteix, Nicolas",
+    "finish_time": "01:28:31",
+    "finish_seconds": 5311
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 301,
+    "name": "\u502a, \u6da6\u535a",
+    "finish_time": "01:28:45",
+    "finish_seconds": 5325
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 303,
+    "name": "Lau, Devin",
+    "finish_time": "01:28:50",
+    "finish_seconds": 5330
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 305,
+    "name": "\u6768, \u6ed4",
+    "finish_time": "01:28:50",
+    "finish_seconds": 5330
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 307,
+    "name": "\u6c5f, \u555f\u7199",
+    "finish_time": "01:28:58",
+    "finish_seconds": 5338
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 309,
+    "name": "Ng, Ho man",
+    "finish_time": "01:29:03",
+    "finish_seconds": 5343
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 311,
+    "name": "Tsui, Hon Nam",
+    "finish_time": "01:29:11",
+    "finish_seconds": 5351
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 313,
+    "name": "\u718a, \u6052",
+    "finish_time": "01:29:16",
+    "finish_seconds": 5356
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 315,
+    "name": "\u5442, \u705d\u7fd4",
+    "finish_time": "01:29:27",
+    "finish_seconds": 5367
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 317,
+    "name": "\u7b80, \u4f1f\u9547",
+    "finish_time": "01:29:35",
+    "finish_seconds": 5375
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 319,
+    "name": "Chan, Derek",
+    "finish_time": "01:29:36",
+    "finish_seconds": 5376
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 321,
+    "name": "BIN MD TARIP, MUHAMMAD TAUFIK AZRI",
+    "finish_time": "01:29:50",
+    "finish_seconds": 5390
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 323,
+    "name": "\u8c2d, \u5929\u5f8b",
+    "finish_time": "01:29:53",
+    "finish_seconds": 5393
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 325,
+    "name": "Ren, Gideon",
+    "finish_time": "01:29:57",
+    "finish_seconds": 5397
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 327,
+    "name": "\u79e6, \u5efa\u5764",
+    "finish_time": "01:30:04",
+    "finish_seconds": 5404
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 329,
+    "name": "Irwin, Doug",
+    "finish_time": "01:30:07",
+    "finish_seconds": 5407
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 331,
+    "name": "Chan, Alan Kin Han",
+    "finish_time": "01:30:12",
+    "finish_seconds": 5412
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 333,
+    "name": "Titouni, Ryad",
+    "finish_time": "01:30:26",
+    "finish_seconds": 5426
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 335,
+    "name": "Wong, Timothy",
+    "finish_time": "01:30:29",
+    "finish_seconds": 5429
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 337,
+    "name": "de claro, richard jonathan",
+    "finish_time": "01:30:33",
+    "finish_seconds": 5433
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 339,
+    "name": "\u4f55, \u696d\u96c4",
+    "finish_time": "01:30:40",
+    "finish_seconds": 5440
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 341,
+    "name": "John, Taf",
+    "finish_time": "01:30:53",
+    "finish_seconds": 5453
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 343,
+    "name": "Siu, Ken",
+    "finish_time": "01:31:06",
+    "finish_seconds": 5466
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 345,
+    "name": "\u66f9, \u60e0\u6c11",
+    "finish_time": "01:31:13",
+    "finish_seconds": 5473
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 347,
+    "name": "\u675c, \u4ec1\u5fe0",
+    "finish_time": "01:31:15",
+    "finish_seconds": 5475
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 349,
+    "name": "Matsuyama, Shopin",
+    "finish_time": "01:31:27",
+    "finish_seconds": 5487
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 351,
+    "name": "\u5218, \u5b81",
+    "finish_time": "01:31:30",
+    "finish_seconds": 5490
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 353,
+    "name": "\u5b59, \u6d69\u7fd4",
+    "finish_time": "01:31:42",
+    "finish_seconds": 5502
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 356,
+    "name": "So, Vincent",
+    "finish_time": "01:31:54",
+    "finish_seconds": 5514
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 358,
+    "name": "\u738b, \u806a",
+    "finish_time": "01:31:56",
+    "finish_seconds": 5516
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 360,
+    "name": "\u5f20, \u5609\u6210",
+    "finish_time": "01:32:01",
+    "finish_seconds": 5521
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 362,
+    "name": "\u5218, \u8fbe",
+    "finish_time": "01:32:03",
+    "finish_seconds": 5523
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 364,
+    "name": "\u738b, \u6c38\u5174",
+    "finish_time": "01:32:05",
+    "finish_seconds": 5525
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 366,
+    "name": "Huntsman, Ed",
+    "finish_time": "01:32:08",
+    "finish_seconds": 5528
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 368,
+    "name": "\u6768, \u82f1\u5fd7",
+    "finish_time": "01:32:16",
+    "finish_seconds": 5536
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 370,
+    "name": "\u9648, \u946b\u6d9b",
+    "finish_time": "01:32:17",
+    "finish_seconds": 5537
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 372,
+    "name": "Sik, Yi Tak",
+    "finish_time": "01:32:20",
+    "finish_seconds": 5540
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 374,
+    "name": "\u8c22, \u6b63\u9633",
+    "finish_time": "01:32:21",
+    "finish_seconds": 5541
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 376,
+    "name": "Alcock, James",
+    "finish_time": "01:32:24",
+    "finish_seconds": 5544
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 378,
+    "name": "\u6881, \u535a",
+    "finish_time": "01:32:26",
+    "finish_seconds": 5546
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 380,
+    "name": "Ma, Gary",
+    "finish_time": "01:32:33",
+    "finish_seconds": 5553
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 382,
+    "name": "\u718a, \u6cf3\u6db5",
+    "finish_time": "01:32:40",
+    "finish_seconds": 5560
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 384,
+    "name": "\u82cf, \u6bc5",
+    "finish_time": "01:32:45",
+    "finish_seconds": 5565
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 386,
+    "name": "\u5218, \u5c0f\u709c",
+    "finish_time": "01:32:50",
+    "finish_seconds": 5570
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 388,
+    "name": "CHOI, CHAN TONG",
+    "finish_time": "01:32:52",
+    "finish_seconds": 5572
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 390,
+    "name": "Wong, Shu Yik",
+    "finish_time": "01:32:57",
+    "finish_seconds": 5577
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 392,
+    "name": "\u97e9, \u5251",
+    "finish_time": "01:33:09",
+    "finish_seconds": 5589
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 394,
+    "name": "\u738b, \u821f\u6770",
+    "finish_time": "01:33:12",
+    "finish_seconds": 5592
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 396,
+    "name": "Yiu, Justin",
+    "finish_time": "01:33:17",
+    "finish_seconds": 5597
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 398,
+    "name": "\u5b8b, \u65ed\u5cf0",
+    "finish_time": "01:33:24",
+    "finish_seconds": 5604
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 400,
+    "name": "\u66fe, \u6653\u8fea",
+    "finish_time": "01:33:55",
+    "finish_seconds": 5635
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 402,
+    "name": "\u674e, \u535a\u626c",
+    "finish_time": "01:33:58",
+    "finish_seconds": 5638
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 404,
+    "name": "\u9a6c, \u7fd4",
+    "finish_time": "01:34:09",
+    "finish_seconds": 5649
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 406,
+    "name": "\u6881, \u6811\u704f",
+    "finish_time": "01:34:22",
+    "finish_seconds": 5662
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 408,
+    "name": "\u5b5f, \u4ee4\u5f3a",
+    "finish_time": "01:34:38",
+    "finish_seconds": 5678
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 410,
+    "name": "CHU, KWOK HO GORDON",
+    "finish_time": "01:34:49",
+    "finish_seconds": 5689
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 412,
+    "name": "Wang, Ah Ron",
+    "finish_time": "01:34:58",
+    "finish_seconds": 5698
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 414,
+    "name": "Tong, Ka Lun",
+    "finish_time": "01:35:04",
+    "finish_seconds": 5704
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 416,
+    "name": "Coetzer, Gert",
+    "finish_time": "01:35:09",
+    "finish_seconds": 5709
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 418,
+    "name": "\u8303, \u96e8\u821f",
+    "finish_time": "01:35:12",
+    "finish_seconds": 5712
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 420,
+    "name": "\u4f55, \u660e",
+    "finish_time": "01:35:17",
+    "finish_seconds": 5717
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 422,
+    "name": "\u5468, \u9633",
+    "finish_time": "01:35:20",
+    "finish_seconds": 5720
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 424,
+    "name": "\u674e, \u9a8f",
+    "finish_time": "01:35:23",
+    "finish_seconds": 5723
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 426,
+    "name": "\u4f55, \u4e00\u51e1",
+    "finish_time": "01:35:30",
+    "finish_seconds": 5730
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 428,
+    "name": "Lam, Edward",
+    "finish_time": "01:35:33",
+    "finish_seconds": 5733
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 430,
+    "name": "Yu, Melvin",
+    "finish_time": "01:35:37",
+    "finish_seconds": 5737
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 432,
+    "name": "\u738b, \u827a\u535a",
+    "finish_time": "01:35:40",
+    "finish_seconds": 5740
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 434,
+    "name": "\u5f6d, \u5f3a",
+    "finish_time": "01:35:43",
+    "finish_seconds": 5743
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 436,
+    "name": "Ho, King Ho",
+    "finish_time": "01:35:45",
+    "finish_seconds": 5745
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 438,
+    "name": "\u9646, \u851a\u9716",
+    "finish_time": "01:35:49",
+    "finish_seconds": 5749
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 440,
+    "name": "KWAI, TZE MING",
+    "finish_time": "01:35:55",
+    "finish_seconds": 5755
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 442,
+    "name": "\u53f6, \u67cf\u4f26",
+    "finish_time": "01:35:56",
+    "finish_seconds": 5756
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 444,
+    "name": "Tin, Chi Ming",
+    "finish_time": "01:36:03",
+    "finish_seconds": 5763
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 446,
+    "name": "\u66fe, \u5146\u5fb7",
+    "finish_time": "01:36:05",
+    "finish_seconds": 5765
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 448,
+    "name": "Hei Tat, Tso",
+    "finish_time": "01:36:16",
+    "finish_seconds": 5776
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 450,
+    "name": "\u90b5, \u5e86\u8363",
+    "finish_time": "01:36:25",
+    "finish_seconds": 5785
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 452,
+    "name": "\u5e2d, \u8d8a",
+    "finish_time": "01:36:35",
+    "finish_seconds": 5795
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 454,
+    "name": "TSE, Kwok fung bill",
+    "finish_time": "01:36:40",
+    "finish_seconds": 5800
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 456,
+    "name": "Yan, Jiaqi",
+    "finish_time": "01:36:46",
+    "finish_seconds": 5806
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 458,
+    "name": "\u8d75, \u5fd7\u8c6a",
+    "finish_time": "01:36:51",
+    "finish_seconds": 5811
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 460,
+    "name": "\u54c8\u65af\u6728, \u4e70\u5c14\u65e6",
+    "finish_time": "01:37:06",
+    "finish_seconds": 5826
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 462,
+    "name": "Lee, Brandon",
+    "finish_time": "01:37:14",
+    "finish_seconds": 5834
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 464,
+    "name": "\u5434, \u5bb6\u5947",
+    "finish_time": "01:37:26",
+    "finish_seconds": 5846
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 466,
+    "name": "\u674e, \u5609\u4e50",
+    "finish_time": "01:37:27",
+    "finish_seconds": 5847
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 468,
+    "name": "\u5468, \u6d69",
+    "finish_time": "01:37:39",
+    "finish_seconds": 5859
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 470,
+    "name": "\u9ea6, \u6653\u748b",
+    "finish_time": "01:37:45",
+    "finish_seconds": 5865
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 472,
+    "name": "\u590f, \u5b87",
+    "finish_time": "01:37:48",
+    "finish_seconds": 5868
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 474,
+    "name": "\u5f20, \u663e\u4e30",
+    "finish_time": "01:37:50",
+    "finish_seconds": 5870
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 476,
+    "name": "Yeow, Archie",
+    "finish_time": "01:38:00",
+    "finish_seconds": 5880
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 478,
+    "name": "\u6e29, \u519b\u950b",
+    "finish_time": "01:38:03",
+    "finish_seconds": 5883
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 480,
+    "name": "Sydney, Sandy",
+    "finish_time": "01:38:05",
+    "finish_seconds": 5885
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 482,
+    "name": "KAN, CHUN LONG",
+    "finish_time": "01:38:11",
+    "finish_seconds": 5891
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 484,
+    "name": "KIM, YONGSIK",
+    "finish_time": "01:38:17",
+    "finish_seconds": 5897
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 486,
+    "name": "\u674e, \u535a\u8fbe",
+    "finish_time": "01:38:25",
+    "finish_seconds": 5905
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 488,
+    "name": "\u9648, \u4fca\u8fbe",
+    "finish_time": "01:38:27",
+    "finish_seconds": 5907
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 490,
+    "name": "\u5510, \u5c0f\u94a7",
+    "finish_time": "01:38:31",
+    "finish_seconds": 5911
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 492,
+    "name": "CHAN, YIK LEUNG",
+    "finish_time": "01:38:33",
+    "finish_seconds": 5913
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 494,
+    "name": "\u738b, \u6da6\u5143",
+    "finish_time": "01:38:43",
+    "finish_seconds": 5923
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 496,
+    "name": "Tsui, Francis",
+    "finish_time": "01:38:50",
+    "finish_seconds": 5930
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 498,
+    "name": "\u4f55, \u4fca\u806a",
+    "finish_time": "01:38:53",
+    "finish_seconds": 5933
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 500,
+    "name": "Ko, Hon Kwan",
+    "finish_time": "01:38:53",
+    "finish_seconds": 5933
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 502,
+    "name": "\u795d, \u5609",
+    "finish_time": "01:39:00",
+    "finish_seconds": 5940
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 504,
+    "name": "Hendry, Sharif",
+    "finish_time": "01:39:02",
+    "finish_seconds": 5942
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 506,
+    "name": "Mak, Tik Weng",
+    "finish_time": "01:39:03",
+    "finish_seconds": 5943
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 508,
+    "name": "\u5f20, \u62c2\u5929",
+    "finish_time": "01:39:06",
+    "finish_seconds": 5946
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 510,
+    "name": "\u82cf, \u5609\u7199",
+    "finish_time": "01:39:09",
+    "finish_seconds": 5949
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 512,
+    "name": "\u5468, \u8f69",
+    "finish_time": "01:39:17",
+    "finish_seconds": 5957
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 514,
+    "name": "Wong, Yi Man",
+    "finish_time": "01:39:26",
+    "finish_seconds": 5966
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 516,
+    "name": "\u5b97, \u6653\u5f64",
+    "finish_time": "01:39:29",
+    "finish_seconds": 5969
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 518,
+    "name": "\u6731, \u4eae",
+    "finish_time": "01:39:31",
+    "finish_seconds": 5971
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 520,
+    "name": "wang, xuelai",
+    "finish_time": "01:39:33",
+    "finish_seconds": 5973
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 522,
+    "name": "\u8d75, \u5065\u5b8f",
+    "finish_time": "01:39:37",
+    "finish_seconds": 5977
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 524,
+    "name": "\u9ea6, \u4e91\u9f99",
+    "finish_time": "01:39:43",
+    "finish_seconds": 5983
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 526,
+    "name": "\u6c34, \u5b9a\u90a6",
+    "finish_time": "01:39:56",
+    "finish_seconds": 5996
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 528,
+    "name": "Lau, Tak Hong",
+    "finish_time": "01:40:02",
+    "finish_seconds": 6002
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 530,
+    "name": "\u66fe, \u667a\u5f3a",
+    "finish_time": "01:40:03",
+    "finish_seconds": 6003
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 532,
+    "name": "Lau, Hin Shing",
+    "finish_time": "01:40:13",
+    "finish_seconds": 6013
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 534,
+    "name": "\u738b, \u8302",
+    "finish_time": "01:40:20",
+    "finish_seconds": 6020
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 536,
+    "name": "\u738b, \u4e91\u9704",
+    "finish_time": "01:40:30",
+    "finish_seconds": 6030
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 538,
+    "name": "\u9ea6, \u6c38\u7965",
+    "finish_time": "01:40:31",
+    "finish_seconds": 6031
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 540,
+    "name": "Chong, Jason",
+    "finish_time": "01:40:42",
+    "finish_seconds": 6042
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 542,
+    "name": "Leung, Hei Man",
+    "finish_time": "01:40:52",
+    "finish_seconds": 6052
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 544,
+    "name": "\u674e, \u6995\u69df",
+    "finish_time": "01:41:04",
+    "finish_seconds": 6064
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 546,
+    "name": "TAKAHASHI, Taichi",
+    "finish_time": "01:41:07",
+    "finish_seconds": 6067
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 548,
+    "name": "Yung, Ming Chak",
+    "finish_time": "01:41:11",
+    "finish_seconds": 6071
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 550,
+    "name": "\u5411, \u6d77\u5b81",
+    "finish_time": "01:41:13",
+    "finish_seconds": 6073
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 552,
+    "name": "\u5f20, \u660e\u6c34",
+    "finish_time": "01:41:25",
+    "finish_seconds": 6085
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 554,
+    "name": "\u51af, \u542f\u71ca",
+    "finish_time": "01:41:32",
+    "finish_seconds": 6092
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 556,
+    "name": "Lam, Peter Mau Tak",
+    "finish_time": "01:41:40",
+    "finish_seconds": 6100
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 558,
+    "name": "\u738b, \u632f\u5b87",
+    "finish_time": "01:41:49",
+    "finish_seconds": 6109
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 560,
+    "name": "\u674e, \u660e\u65ed",
+    "finish_time": "01:41:54",
+    "finish_seconds": 6114
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 562,
+    "name": "\u718a, \u7131\u4e2d",
+    "finish_time": "01:41:58",
+    "finish_seconds": 6118
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 564,
+    "name": "\u674e, \u658c",
+    "finish_time": "01:42:05",
+    "finish_seconds": 6125
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 566,
+    "name": "Buenaventura, John Jay",
+    "finish_time": "01:42:06",
+    "finish_seconds": 6126
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 568,
+    "name": "\u5434, \u5cb8",
+    "finish_time": "01:42:29",
+    "finish_seconds": 6149
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 570,
+    "name": "\u4fe1, \u8dc3\u5347",
+    "finish_time": "01:42:41",
+    "finish_seconds": 6161
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 572,
+    "name": "\u8c2d, \u666f\u5143",
+    "finish_time": "01:42:43",
+    "finish_seconds": 6163
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 574,
+    "name": "Sukhbaatar, Purevdorj",
+    "finish_time": "01:42:48",
+    "finish_seconds": 6168
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 576,
+    "name": "Goh, Brandon",
+    "finish_time": "01:42:54",
+    "finish_seconds": 6174
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 578,
+    "name": "\u8c22, \u6d9b\u6d9b",
+    "finish_time": "01:43:02",
+    "finish_seconds": 6182
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 580,
+    "name": "\u738b, \u827a\u4e01",
+    "finish_time": "01:43:10",
+    "finish_seconds": 6190
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 582,
+    "name": "\u53f6, \u79a7",
+    "finish_time": "01:43:28",
+    "finish_seconds": 6208
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 584,
+    "name": "KEE, YONG WEI",
+    "finish_time": "01:43:37",
+    "finish_seconds": 6217
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 586,
+    "name": "CHUNG, SIU KEI KELVIN",
+    "finish_time": "01:43:40",
+    "finish_seconds": 6220
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 588,
+    "name": "Southgate, Simon",
+    "finish_time": "01:43:45",
+    "finish_seconds": 6225
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 590,
+    "name": "\u53f6, \u6cbb\u9510",
+    "finish_time": "01:43:49",
+    "finish_seconds": 6229
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 592,
+    "name": "\u7fc1, \u8bd7\u822a",
+    "finish_time": "01:43:53",
+    "finish_seconds": 6233
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 594,
+    "name": "\u5de6, \u987a\u6770",
+    "finish_time": "01:43:55",
+    "finish_seconds": 6235
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 596,
+    "name": "\u6613, \u56fd\u6657",
+    "finish_time": "01:43:57",
+    "finish_seconds": 6237
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 598,
+    "name": "Yeung, Hin tat",
+    "finish_time": "01:43:59",
+    "finish_seconds": 6239
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 600,
+    "name": "\u4efb, \u4f1f",
+    "finish_time": "01:44:02",
+    "finish_seconds": 6242
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 602,
+    "name": "\u6797, \u5b50\u4fca",
+    "finish_time": "01:44:13",
+    "finish_seconds": 6253
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 604,
+    "name": "\u59dc, \u6d69",
+    "finish_time": "01:44:18",
+    "finish_seconds": 6258
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 606,
+    "name": "Chik, Nicholas",
+    "finish_time": "01:44:22",
+    "finish_seconds": 6262
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 608,
+    "name": "Toya, Shunsuke",
+    "finish_time": "01:44:31",
+    "finish_seconds": 6271
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 610,
+    "name": "\u6881, \u5bb6\u5065",
+    "finish_time": "01:44:39",
+    "finish_seconds": 6279
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 612,
+    "name": "\u8463, \u529b",
+    "finish_time": "01:44:43",
+    "finish_seconds": 6283
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 614,
+    "name": "\u738b, \u6d69\u6587",
+    "finish_time": "01:44:50",
+    "finish_seconds": 6290
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 616,
+    "name": "\u767d, \u946b",
+    "finish_time": "01:45:03",
+    "finish_seconds": 6303
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 618,
+    "name": "CHENG, Chi lok",
+    "finish_time": "01:45:06",
+    "finish_seconds": 6306
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 620,
+    "name": "Novales, Hugo",
+    "finish_time": "01:45:11",
+    "finish_seconds": 6311
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 622,
+    "name": "\u66fe, \u5fb7\u4eae",
+    "finish_time": "01:45:14",
+    "finish_seconds": 6314
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 624,
+    "name": "\u5510, \u6d69\u76db",
+    "finish_time": "01:45:20",
+    "finish_seconds": 6320
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 626,
+    "name": "\u53f6, \u5e05",
+    "finish_time": "01:45:35",
+    "finish_seconds": 6335
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 628,
+    "name": "Shaoqin, Sheng",
+    "finish_time": "01:45:40",
+    "finish_seconds": 6340
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 630,
+    "name": "\u6613, \u6960",
+    "finish_time": "01:45:49",
+    "finish_seconds": 6349
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 632,
+    "name": "\u9648, \u6893\u950b",
+    "finish_time": "01:46:02",
+    "finish_seconds": 6362
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 634,
+    "name": "\u674e, \u6606\u9716",
+    "finish_time": "01:46:11",
+    "finish_seconds": 6371
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 636,
+    "name": "\u738b, \u7eaa\u5143",
+    "finish_time": "01:46:20",
+    "finish_seconds": 6380
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 638,
+    "name": "\u5218, \u5f81\u5b87",
+    "finish_time": "01:46:34",
+    "finish_seconds": 6394
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 640,
+    "name": "\u66f9, \u4e1c\u660e",
+    "finish_time": "01:46:50",
+    "finish_seconds": 6410
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 642,
+    "name": "\u533a, \u5353\u8d24",
+    "finish_time": "01:46:59",
+    "finish_seconds": 6419
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 644,
+    "name": "POVEY, JONATHAN",
+    "finish_time": "01:47:13",
+    "finish_seconds": 6433
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 646,
+    "name": "\u7ae0, \u5b66\u680b",
+    "finish_time": "01:47:15",
+    "finish_seconds": 6435
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 648,
+    "name": "\u5f20, \u6167\u4e39",
+    "finish_time": "01:47:20",
+    "finish_seconds": 6440
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 650,
+    "name": "\u6768, \u66e6",
+    "finish_time": "01:47:28",
+    "finish_seconds": 6448
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 652,
+    "name": "Teo, Josh",
+    "finish_time": "01:47:47",
+    "finish_seconds": 6467
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 654,
+    "name": "Horng, Carvey",
+    "finish_time": "01:48:00",
+    "finish_seconds": 6480
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 656,
+    "name": "Cheng, Alvin Nelson",
+    "finish_time": "01:48:14",
+    "finish_seconds": 6494
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 658,
+    "name": "Ho, Alvin",
+    "finish_time": "01:48:16",
+    "finish_seconds": 6496
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 660,
+    "name": "\u8fb9, \u840c",
+    "finish_time": "01:48:18",
+    "finish_seconds": 6498
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 662,
+    "name": "so, Jonathan chunkit",
+    "finish_time": "01:48:23",
+    "finish_seconds": 6503
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 664,
+    "name": "\u5f20, \u6587\u6587",
+    "finish_time": "01:48:28",
+    "finish_seconds": 6508
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 666,
+    "name": "\u674e, \u56fd\u748b",
+    "finish_time": "01:48:31",
+    "finish_seconds": 6511
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 668,
+    "name": "\u9ec4, \u5112\u660a",
+    "finish_time": "01:48:35",
+    "finish_seconds": 6515
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 670,
+    "name": "Hu chai, Yong Wei",
+    "finish_time": "01:48:44",
+    "finish_seconds": 6524
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 672,
+    "name": "\u65bd, \u8fdc\u5e06",
+    "finish_time": "01:48:50",
+    "finish_seconds": 6530
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 674,
+    "name": "Chiu, Hugo",
+    "finish_time": "01:48:53",
+    "finish_seconds": 6533
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 676,
+    "name": "\u8881, \u5fd7\u8c6a",
+    "finish_time": "01:48:53",
+    "finish_seconds": 6533
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 678,
+    "name": "\u674e, \u9c81\u5357",
+    "finish_time": "01:49:06",
+    "finish_seconds": 6546
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 680,
+    "name": "Wong, Wing Ho",
+    "finish_time": "01:49:19",
+    "finish_seconds": 6559
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 682,
+    "name": "\u6613, \u680b\u5c71",
+    "finish_time": "01:49:40",
+    "finish_seconds": 6580
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 684,
+    "name": "\u8d75, \u5143\u9756",
+    "finish_time": "01:49:52",
+    "finish_seconds": 6592
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 686,
+    "name": "\u5218\u4ed8, \u5143",
+    "finish_time": "01:50:09",
+    "finish_seconds": 6609
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 688,
+    "name": "Leung, Yau Chi",
+    "finish_time": "01:50:25",
+    "finish_seconds": 6625
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 690,
+    "name": "\u9673, \u8a00\u5f70",
+    "finish_time": "01:50:39",
+    "finish_seconds": 6639
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 692,
+    "name": "\u674e, \u4f73\u5c55",
+    "finish_time": "01:50:46",
+    "finish_seconds": 6646
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 694,
+    "name": "\u6731, \u542f\u806a",
+    "finish_time": "01:50:52",
+    "finish_seconds": 6652
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 696,
+    "name": "\u674e, \u5353\u4e9a",
+    "finish_time": "01:51:05",
+    "finish_seconds": 6665
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 698,
+    "name": "\u674e, \u6e05\u6e90",
+    "finish_time": "01:51:12",
+    "finish_seconds": 6672
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 700,
+    "name": "\u90d1, \u5f81\u5cb3",
+    "finish_time": "01:51:14",
+    "finish_seconds": 6674
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 702,
+    "name": "\u6c60, \u6811\u68ee",
+    "finish_time": "01:51:20",
+    "finish_seconds": 6680
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 704,
+    "name": "\u738b, \u6210",
+    "finish_time": "01:51:27",
+    "finish_seconds": 6687
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 706,
+    "name": "\u6768, \u5e06",
+    "finish_time": "01:51:30",
+    "finish_seconds": 6690
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 708,
+    "name": "\u65bd, \u9e3f\u751f",
+    "finish_time": "01:51:36",
+    "finish_seconds": 6696
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 710,
+    "name": "\u90d1, \u955c\u57f9",
+    "finish_time": "01:51:52",
+    "finish_seconds": 6712
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 712,
+    "name": "\u6881, \u884d\u4eae",
+    "finish_time": "01:52:17",
+    "finish_seconds": 6737
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 714,
+    "name": "chi long, chung",
+    "finish_time": "01:52:19",
+    "finish_seconds": 6739
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 716,
+    "name": "\u7da6, \u5929\u9f99",
+    "finish_time": "01:52:25",
+    "finish_seconds": 6745
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 718,
+    "name": "\u5f20, \u701a\u4e88",
+    "finish_time": "01:52:52",
+    "finish_seconds": 6772
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 720,
+    "name": "\u674e, \u601d\u5b87",
+    "finish_time": "01:53:02",
+    "finish_seconds": 6782
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 722,
+    "name": "Li, Chung Yin",
+    "finish_time": "01:53:21",
+    "finish_seconds": 6801
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 724,
+    "name": "Sze, Tin Shun",
+    "finish_time": "01:53:30",
+    "finish_seconds": 6810
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 726,
+    "name": "\u6e29, \u6717\u7136",
+    "finish_time": "01:53:39",
+    "finish_seconds": 6819
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 728,
+    "name": "\u4f55, \u4f1f\u5065",
+    "finish_time": "01:53:51",
+    "finish_seconds": 6831
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 730,
+    "name": "\u674e, \u695a\u6613",
+    "finish_time": "01:54:00",
+    "finish_seconds": 6840
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 732,
+    "name": "\u6bd5, \u98de",
+    "finish_time": "01:54:08",
+    "finish_seconds": 6848
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 734,
+    "name": "Ng, Jason Hoi Chun",
+    "finish_time": "01:54:16",
+    "finish_seconds": 6856
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 736,
+    "name": "\u8303, \u661f",
+    "finish_time": "01:54:28",
+    "finish_seconds": 6868
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 738,
+    "name": "Lee, Jeffrey",
+    "finish_time": "01:54:34",
+    "finish_seconds": 6874
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "M",
+    "rank": 740,
+    "name": "Yu, Shiming",
+    "finish_time": "01:54:43",
+    "finish_seconds": 6883
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 1,
+    "name": "\u5f20, \u84d3\u8431",
+    "finish_time": "01:08:18",
+    "finish_seconds": 4098
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 3,
+    "name": "\u502a, \u654f\u70e8",
+    "finish_time": "01:10:20",
+    "finish_seconds": 4220
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 5,
+    "name": "\u5f90, \u8fb0",
+    "finish_time": "01:11:29",
+    "finish_seconds": 4289
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 7,
+    "name": "\u5218, \u601d\u5947",
+    "finish_time": "01:11:58",
+    "finish_seconds": 4318
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 9,
+    "name": "\u6797, \u66fc",
+    "finish_time": "01:13:02",
+    "finish_seconds": 4382
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 11,
+    "name": "\u5f20, \u6587\u5a77",
+    "finish_time": "01:13:17",
+    "finish_seconds": 4397
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 13,
+    "name": "\u5b5f, \u5a03",
+    "finish_time": "01:14:35",
+    "finish_seconds": 4475
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 15,
+    "name": "Lau, Wing Yu",
+    "finish_time": "01:14:40",
+    "finish_seconds": 4480
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 17,
+    "name": "\u8f9c, \u5609\u6ee2",
+    "finish_time": "01:15:29",
+    "finish_seconds": 4529
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 19,
+    "name": "\u674e, \u96e8\u971e",
+    "finish_time": "01:16:05",
+    "finish_seconds": 4565
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 21,
+    "name": "\u8881, \u9633\u9633",
+    "finish_time": "01:16:14",
+    "finish_seconds": 4574
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 23,
+    "name": "WONG, KI CHUN",
+    "finish_time": "01:16:59",
+    "finish_seconds": 4619
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 25,
+    "name": "Pang, Lok Man Katherine",
+    "finish_time": "01:17:06",
+    "finish_seconds": 4626
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 27,
+    "name": "Cheng, Coffee",
+    "finish_time": "01:17:19",
+    "finish_seconds": 4639
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 29,
+    "name": "\u5f20, \u82b7\u8309",
+    "finish_time": "01:17:52",
+    "finish_seconds": 4672
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 31,
+    "name": "\u5f90, \u6587\u598d",
+    "finish_time": "01:18:46",
+    "finish_seconds": 4726
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 33,
+    "name": "\u5f20, \u96e8\u5349",
+    "finish_time": "01:18:50",
+    "finish_seconds": 4730
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 35,
+    "name": "\u7ae5, \u5b89\u8fea",
+    "finish_time": "01:19:03",
+    "finish_seconds": 4743
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 37,
+    "name": "Frankrig-Johannessen, Mie Emilie",
+    "finish_time": "01:19:08",
+    "finish_seconds": 4748
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 39,
+    "name": "\u9676, \u5a77",
+    "finish_time": "01:19:11",
+    "finish_seconds": 4751
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 41,
+    "name": "Leong, Winky",
+    "finish_time": "01:19:23",
+    "finish_seconds": 4763
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 43,
+    "name": "\u738b, \u7490\u7490",
+    "finish_time": "01:19:31",
+    "finish_seconds": 4771
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 45,
+    "name": "\u4f0d, \u6631\u661f",
+    "finish_time": "01:19:49",
+    "finish_seconds": 4789
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 47,
+    "name": "\u5218, \u5609\u5029",
+    "finish_time": "01:19:59",
+    "finish_seconds": 4799
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 49,
+    "name": "Leung, Janice",
+    "finish_time": "01:20:06",
+    "finish_seconds": 4806
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 51,
+    "name": "\u6768, \u5a77",
+    "finish_time": "01:20:12",
+    "finish_seconds": 4812
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 53,
+    "name": "Ng, Man Yi",
+    "finish_time": "01:20:44",
+    "finish_seconds": 4844
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 55,
+    "name": "\u6768, \u94b0\u6e05",
+    "finish_time": "01:21:04",
+    "finish_seconds": 4864
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 57,
+    "name": "Pey\u00f3n, Natalia",
+    "finish_time": "01:21:20",
+    "finish_seconds": 4880
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 59,
+    "name": "\u9ec4, \u854a\u541b",
+    "finish_time": "01:21:38",
+    "finish_seconds": 4898
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 61,
+    "name": "\u6c99, \u66fc",
+    "finish_time": "01:21:48",
+    "finish_seconds": 4908
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 63,
+    "name": "\u65b9, \u4e16\u84c9",
+    "finish_time": "01:22:08",
+    "finish_seconds": 4928
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 65,
+    "name": "Tsang, Yuet Yi",
+    "finish_time": "01:22:27",
+    "finish_seconds": 4947
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 67,
+    "name": "\u6f58, \u76c8",
+    "finish_time": "01:22:29",
+    "finish_seconds": 4949
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 69,
+    "name": "\u738b, \u5b87",
+    "finish_time": "01:22:40",
+    "finish_seconds": 4960
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 71,
+    "name": "\u5f90, \u73c2",
+    "finish_time": "01:22:43",
+    "finish_seconds": 4963
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 73,
+    "name": "\u8096, \u6dcb\u723d",
+    "finish_time": "01:23:11",
+    "finish_seconds": 4991
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 75,
+    "name": "\u9676, \u96bd\u9038",
+    "finish_time": "01:23:49",
+    "finish_seconds": 5029
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 77,
+    "name": "\u95e8, \u9999\u9716",
+    "finish_time": "01:24:33",
+    "finish_seconds": 5073
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 79,
+    "name": "Foo, Tak Hei",
+    "finish_time": "01:25:02",
+    "finish_seconds": 5102
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 81,
+    "name": "\u4f55, \u65ed",
+    "finish_time": "01:25:36",
+    "finish_seconds": 5136
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 83,
+    "name": "CHU, LOK YEE",
+    "finish_time": "01:25:53",
+    "finish_seconds": 5153
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 85,
+    "name": "\u94b1, \u4fca\u4f0a",
+    "finish_time": "01:26:04",
+    "finish_seconds": 5164
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 87,
+    "name": "\u91d1, \u661f",
+    "finish_time": "01:26:37",
+    "finish_seconds": 5197
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 89,
+    "name": "\u5434, \u79cb\u83b9",
+    "finish_time": "01:26:48",
+    "finish_seconds": 5208
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 91,
+    "name": "\u9b4f, \u4f73\u6021",
+    "finish_time": "01:27:08",
+    "finish_seconds": 5228
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 93,
+    "name": "\u66f9, \u6676",
+    "finish_time": "01:27:27",
+    "finish_seconds": 5247
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 95,
+    "name": "Chew, Jing Wen",
+    "finish_time": "01:27:48",
+    "finish_seconds": 5268
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 97,
+    "name": "\u5f20, \u6021\u8431",
+    "finish_time": "01:28:14",
+    "finish_seconds": 5294
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 99,
+    "name": "\u6768, \u6590\u5a1c",
+    "finish_time": "01:28:19",
+    "finish_seconds": 5299
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 101,
+    "name": "\u5b59, \u73e3",
+    "finish_time": "01:28:24",
+    "finish_seconds": 5304
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 103,
+    "name": "Ng, Pak Yee",
+    "finish_time": "01:29:00",
+    "finish_seconds": 5340
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 105,
+    "name": "\u6768, \u4e91\u7af9",
+    "finish_time": "01:29:10",
+    "finish_seconds": 5350
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 107,
+    "name": "\u6b66, \u6797\u6885",
+    "finish_time": "01:30:09",
+    "finish_seconds": 5409
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 109,
+    "name": "\u9093, \u5609\u745c",
+    "finish_time": "01:30:20",
+    "finish_seconds": 5420
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 111,
+    "name": "Kot, Amanda",
+    "finish_time": "01:30:25",
+    "finish_seconds": 5425
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 113,
+    "name": "Chiam, Li Ping",
+    "finish_time": "01:30:28",
+    "finish_seconds": 5428
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 115,
+    "name": "\u5de6, \u6167\u654f",
+    "finish_time": "01:30:37",
+    "finish_seconds": 5437
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 117,
+    "name": "\u7da6, \u7426",
+    "finish_time": "01:30:39",
+    "finish_seconds": 5439
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 119,
+    "name": "\u848b, \u4e9a\u541b",
+    "finish_time": "01:30:44",
+    "finish_seconds": 5444
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 121,
+    "name": "\u51af, \u4e3d",
+    "finish_time": "01:31:02",
+    "finish_seconds": 5462
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 123,
+    "name": "\u6768, \u67f3",
+    "finish_time": "01:31:13",
+    "finish_seconds": 5473
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 125,
+    "name": "Wan, Mingshi",
+    "finish_time": "01:31:28",
+    "finish_seconds": 5488
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 127,
+    "name": "\u6797, \u4fca\u4f36",
+    "finish_time": "01:31:50",
+    "finish_seconds": 5510
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 129,
+    "name": "\u90d1, \u4ed4\u715c",
+    "finish_time": "01:31:54",
+    "finish_seconds": 5514
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 131,
+    "name": "\u9ec4, \u94b0\u76c8",
+    "finish_time": "01:32:14",
+    "finish_seconds": 5534
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 133,
+    "name": "\u6768, \u7136",
+    "finish_time": "01:32:26",
+    "finish_seconds": 5546
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 135,
+    "name": "Tam, Evelyn Ki Kwan",
+    "finish_time": "01:32:41",
+    "finish_seconds": 5561
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 137,
+    "name": "\u90d1, \u5148\u5586",
+    "finish_time": "01:32:56",
+    "finish_seconds": 5576
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 139,
+    "name": "\u9648, \u73fa\u7531",
+    "finish_time": "01:33:15",
+    "finish_seconds": 5595
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 141,
+    "name": "\u5218, \u8d8a",
+    "finish_time": "01:33:31",
+    "finish_seconds": 5611
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 143,
+    "name": "\u6881, \u68b3\u59b9",
+    "finish_time": "01:33:42",
+    "finish_seconds": 5622
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 145,
+    "name": "\u9646, \u98d4\u6c85",
+    "finish_time": "01:33:51",
+    "finish_seconds": 5631
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 147,
+    "name": "\u9ec4, \u8273",
+    "finish_time": "01:33:57",
+    "finish_seconds": 5637
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 149,
+    "name": "\u9648, \u660e\u4eea",
+    "finish_time": "01:34:28",
+    "finish_seconds": 5668
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 151,
+    "name": "\u90dd, \u5a07",
+    "finish_time": "01:34:34",
+    "finish_seconds": 5674
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 153,
+    "name": "\u5f20, \u65ed\u9497",
+    "finish_time": "01:34:36",
+    "finish_seconds": 5676
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 155,
+    "name": "\u6768, \u67f3\u9752",
+    "finish_time": "01:34:42",
+    "finish_seconds": 5682
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 157,
+    "name": "KO, CHING MAN",
+    "finish_time": "01:34:52",
+    "finish_seconds": 5692
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 159,
+    "name": "\u738b, \u6021\u5b81",
+    "finish_time": "01:35:00",
+    "finish_seconds": 5700
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 161,
+    "name": "Cheung, Tiffany Ka-Sin",
+    "finish_time": "01:35:05",
+    "finish_seconds": 5705
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 163,
+    "name": "\u6768, \u5353\u96c5",
+    "finish_time": "01:35:24",
+    "finish_seconds": 5724
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 165,
+    "name": "SIU, MAN CHI",
+    "finish_time": "01:35:33",
+    "finish_seconds": 5733
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 167,
+    "name": "Gao, Ellie",
+    "finish_time": "01:35:55",
+    "finish_seconds": 5755
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 169,
+    "name": "\u65b9, \u82af\u857e",
+    "finish_time": "01:36:05",
+    "finish_seconds": 5765
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 171,
+    "name": "\u590f, \u6797\u98de",
+    "finish_time": "01:36:09",
+    "finish_seconds": 5769
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 173,
+    "name": "Lkhagvasuren, Enkh-Uyanga",
+    "finish_time": "01:36:13",
+    "finish_seconds": 5773
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 175,
+    "name": "\u5510, \u679c\u679c",
+    "finish_time": "01:36:45",
+    "finish_seconds": 5805
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 177,
+    "name": "\u5510, \u6768\u741b",
+    "finish_time": "01:36:58",
+    "finish_seconds": 5818
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 179,
+    "name": "Low, Shuang Yi",
+    "finish_time": "01:37:11",
+    "finish_seconds": 5831
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 181,
+    "name": "Sanhi, Christelle Mae",
+    "finish_time": "01:37:16",
+    "finish_seconds": 5836
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 183,
+    "name": "\u90ed, \u4eac\u4eac",
+    "finish_time": "01:37:30",
+    "finish_seconds": 5850
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 185,
+    "name": "\u66f2, \u7545",
+    "finish_time": "01:37:44",
+    "finish_seconds": 5864
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 187,
+    "name": "\u7f57, \u4f69\u82ac",
+    "finish_time": "01:37:48",
+    "finish_seconds": 5868
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 189,
+    "name": "Sung, Pui Yin",
+    "finish_time": "01:37:54",
+    "finish_seconds": 5874
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 191,
+    "name": "\u5eb7, \u745c",
+    "finish_time": "01:38:08",
+    "finish_seconds": 5888
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 193,
+    "name": "Joshi, Hina",
+    "finish_time": "01:38:09",
+    "finish_seconds": 5889
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 195,
+    "name": "\u65bc, \u83b2",
+    "finish_time": "01:38:18",
+    "finish_seconds": 5898
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 197,
+    "name": "\u5434, \u78a7\u4eea",
+    "finish_time": "01:38:20",
+    "finish_seconds": 5900
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 199,
+    "name": "\u674e, \u857e",
+    "finish_time": "01:38:36",
+    "finish_seconds": 5916
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 201,
+    "name": "\u5434, \u96e8\u6850",
+    "finish_time": "01:39:04",
+    "finish_seconds": 5944
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 203,
+    "name": "\u9ec3, \u6e2d\u7fce",
+    "finish_time": "01:39:13",
+    "finish_seconds": 5953
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 205,
+    "name": "\u738b, \u68a6\u7476",
+    "finish_time": "01:39:30",
+    "finish_seconds": 5970
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 207,
+    "name": "\u4f58, \u738b\u9759",
+    "finish_time": "01:39:45",
+    "finish_seconds": 5985
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 209,
+    "name": "\u8d75, \u94f6\u6676",
+    "finish_time": "01:39:51",
+    "finish_seconds": 5991
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 211,
+    "name": "Soon, Zi Ni",
+    "finish_time": "01:40:04",
+    "finish_seconds": 6004
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 213,
+    "name": "\u90d1, \u67d4",
+    "finish_time": "01:40:18",
+    "finish_seconds": 6018
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 215,
+    "name": "\u5218, \u601d\u742a",
+    "finish_time": "01:40:32",
+    "finish_seconds": 6032
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 217,
+    "name": "\u4f55, \u548f\u70e8",
+    "finish_time": "01:40:34",
+    "finish_seconds": 6034
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 219,
+    "name": "MASLOVA, POLINA",
+    "finish_time": "01:40:45",
+    "finish_seconds": 6045
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 221,
+    "name": "\u5218, \u7389",
+    "finish_time": "01:40:54",
+    "finish_seconds": 6054
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 223,
+    "name": "Stubbs, Sienna",
+    "finish_time": "01:41:28",
+    "finish_seconds": 6088
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 225,
+    "name": "Lian, Sijie",
+    "finish_time": "01:41:50",
+    "finish_seconds": 6110
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 227,
+    "name": "\u738b, \u8431",
+    "finish_time": "01:42:01",
+    "finish_seconds": 6121
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 229,
+    "name": "\u848b, \u946b\u96c5",
+    "finish_time": "01:42:13",
+    "finish_seconds": 6133
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 231,
+    "name": "\u9093, \u73c2\u5e06",
+    "finish_time": "01:42:16",
+    "finish_seconds": 6136
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 233,
+    "name": "\u9b4f, \u7eaf",
+    "finish_time": "01:42:37",
+    "finish_seconds": 6157
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 235,
+    "name": "Ko, Winnie",
+    "finish_time": "01:43:05",
+    "finish_seconds": 6185
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 237,
+    "name": "TANIWAKI, YUKI",
+    "finish_time": "01:43:14",
+    "finish_seconds": 6194
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 239,
+    "name": "Ma, Fernda Wan Ting",
+    "finish_time": "01:43:19",
+    "finish_seconds": 6199
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 241,
+    "name": "\u738b, \u4e54",
+    "finish_time": "01:43:24",
+    "finish_seconds": 6204
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 243,
+    "name": "\u77f3, \u8def",
+    "finish_time": "01:43:39",
+    "finish_seconds": 6219
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 245,
+    "name": "\u848b, \u6b23\u96e8",
+    "finish_time": "01:43:48",
+    "finish_seconds": 6228
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 247,
+    "name": "Chan, Ho Ching",
+    "finish_time": "01:43:51",
+    "finish_seconds": 6231
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 249,
+    "name": "\u7a0b, \u9e23\u51e4",
+    "finish_time": "01:43:53",
+    "finish_seconds": 6233
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 251,
+    "name": "\u9648, \u9759\u6021",
+    "finish_time": "01:43:57",
+    "finish_seconds": 6237
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 253,
+    "name": "\u80e1, \u82ae",
+    "finish_time": "01:44:18",
+    "finish_seconds": 6258
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 255,
+    "name": "\u6731, \u5f69\u8273",
+    "finish_time": "01:44:25",
+    "finish_seconds": 6265
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 257,
+    "name": "\u9ec4, \u5b50\u82f1",
+    "finish_time": "01:44:44",
+    "finish_seconds": 6284
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 259,
+    "name": "\u90ed, \u5999\u660e",
+    "finish_time": "01:45:05",
+    "finish_seconds": 6305
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 261,
+    "name": "\u5468, \u90c1\u82b8",
+    "finish_time": "01:45:12",
+    "finish_seconds": 6312
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 263,
+    "name": "\u53f6, \u6d01\u745c",
+    "finish_time": "01:45:31",
+    "finish_seconds": 6331
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 265,
+    "name": "\u9648, \u715c\u6668",
+    "finish_time": "01:45:36",
+    "finish_seconds": 6336
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 267,
+    "name": "\u7533, \u7fd4",
+    "finish_time": "01:45:41",
+    "finish_seconds": 6341
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 269,
+    "name": "\u5f20, \u827a\u9716",
+    "finish_time": "01:45:43",
+    "finish_seconds": 6343
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 271,
+    "name": "Liu, Lisa",
+    "finish_time": "01:45:48",
+    "finish_seconds": 6348
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 273,
+    "name": "\u5510, \u51a0\u534e",
+    "finish_time": "01:45:56",
+    "finish_seconds": 6356
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 275,
+    "name": "\uae40, \uc8fc\uc5f0",
+    "finish_time": "01:46:13",
+    "finish_seconds": 6373
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 277,
+    "name": "\u674e, \u4e39",
+    "finish_time": "01:46:35",
+    "finish_seconds": 6395
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 279,
+    "name": "Mk, Safa",
+    "finish_time": "01:47:11",
+    "finish_seconds": 6431
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 281,
+    "name": "\u8096, \u5c0f\u82ac",
+    "finish_time": "01:47:50",
+    "finish_seconds": 6470
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 283,
+    "name": "\u718a, \u6668\u70e8",
+    "finish_time": "01:48:12",
+    "finish_seconds": 6492
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 285,
+    "name": "\u5468, \u5609\u6b23",
+    "finish_time": "01:48:38",
+    "finish_seconds": 6518
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 287,
+    "name": "\u6797, \u7389\u4e91",
+    "finish_time": "01:48:49",
+    "finish_seconds": 6529
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 289,
+    "name": "\u848b, \u5609\u6b23",
+    "finish_time": "01:48:59",
+    "finish_seconds": 6539
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 291,
+    "name": "\u6c64, \u6653\u6e1d",
+    "finish_time": "01:49:27",
+    "finish_seconds": 6567
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 293,
+    "name": "\u674e, \u5a1f",
+    "finish_time": "01:49:39",
+    "finish_seconds": 6579
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 295,
+    "name": "Cheung, Sarah",
+    "finish_time": "01:49:54",
+    "finish_seconds": 6594
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 297,
+    "name": "\u4f55, \u6657",
+    "finish_time": "01:49:57",
+    "finish_seconds": 6597
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 299,
+    "name": "\u5f20, \u7426",
+    "finish_time": "01:50:11",
+    "finish_seconds": 6611
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 301,
+    "name": "Do, Trang",
+    "finish_time": "01:50:29",
+    "finish_seconds": 6629
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 303,
+    "name": "Magrath, Naia",
+    "finish_time": "01:50:30",
+    "finish_seconds": 6630
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 305,
+    "name": "\u674e, \u7eaa",
+    "finish_time": "01:50:39",
+    "finish_seconds": 6639
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 307,
+    "name": "\u53f6, \u9756\u6021",
+    "finish_time": "01:50:53",
+    "finish_seconds": 6653
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 309,
+    "name": "\u5d14, \u4f0a\u96ef",
+    "finish_time": "01:50:54",
+    "finish_seconds": 6654
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 311,
+    "name": "Lee, Man Hei Rebecca",
+    "finish_time": "01:51:12",
+    "finish_seconds": 6672
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 313,
+    "name": "\u6797, \u96e8\u831c",
+    "finish_time": "01:51:40",
+    "finish_seconds": 6700
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 315,
+    "name": "\u7f57, \u6d77\u742a",
+    "finish_time": "01:51:45",
+    "finish_seconds": 6705
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 317,
+    "name": "Dalkin, Hannah",
+    "finish_time": "01:51:56",
+    "finish_seconds": 6716
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 319,
+    "name": "Ngidi, Zanele",
+    "finish_time": "01:52:12",
+    "finish_seconds": 6732
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 321,
+    "name": "\u5218, \u6676",
+    "finish_time": "01:52:13",
+    "finish_seconds": 6733
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 323,
+    "name": "\u5f20, \u4e4b\u9ece",
+    "finish_time": "01:52:15",
+    "finish_seconds": 6735
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 325,
+    "name": "\u848b, \u6c76\u82b8",
+    "finish_time": "01:52:37",
+    "finish_seconds": 6757
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 327,
+    "name": "\u4ed8, \u83ca\u82f1",
+    "finish_time": "01:53:07",
+    "finish_seconds": 6787
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 329,
+    "name": "Yau, Sarah",
+    "finish_time": "01:53:26",
+    "finish_seconds": 6806
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 331,
+    "name": "MOGOAI, EMILY BOITUMELO",
+    "finish_time": "01:53:34",
+    "finish_seconds": 6814
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 333,
+    "name": "\u738b, \u9192\u8377",
+    "finish_time": "01:53:39",
+    "finish_seconds": 6819
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 335,
+    "name": "Seares, Monna",
+    "finish_time": "01:53:52",
+    "finish_seconds": 6832
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 337,
+    "name": "\u664f, \u59d7",
+    "finish_time": "01:54:04",
+    "finish_seconds": 6844
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 339,
+    "name": "\u5f90, \u8574\u7acb",
+    "finish_time": "01:54:22",
+    "finish_seconds": 6862
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 341,
+    "name": "Lee, Lok Hang",
+    "finish_time": "01:54:35",
+    "finish_seconds": 6875
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 343,
+    "name": "\u9ec4, \u5b50\u7426",
+    "finish_time": "01:54:45",
+    "finish_seconds": 6885
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 345,
+    "name": "Shum, Conny",
+    "finish_time": "01:55:10",
+    "finish_seconds": 6910
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 347,
+    "name": "\u5f20, \u96c5\u8339",
+    "finish_time": "01:55:45",
+    "finish_seconds": 6945
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 349,
+    "name": "\u5deb, \u5c71",
+    "finish_time": "01:55:53",
+    "finish_seconds": 6953
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 351,
+    "name": "\u865e, \u6f47",
+    "finish_time": "01:56:09",
+    "finish_seconds": 6969
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 353,
+    "name": "\u674e, \u96ea",
+    "finish_time": "01:56:44",
+    "finish_seconds": 7004
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 355,
+    "name": "\u674e, \u7693",
+    "finish_time": "01:56:47",
+    "finish_seconds": 7007
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 357,
+    "name": "\u5362, \u83b9\u83b9",
+    "finish_time": "01:57:19",
+    "finish_seconds": 7039
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 359,
+    "name": "\u6797, \u6d01\u59ae",
+    "finish_time": "01:57:32",
+    "finish_seconds": 7052
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 361,
+    "name": "\u5f20, \u8273\u8363",
+    "finish_time": "01:57:39",
+    "finish_seconds": 7059
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 363,
+    "name": "\u9ec4, \u4e3d\u82b3",
+    "finish_time": "01:58:10",
+    "finish_seconds": 7090
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 365,
+    "name": "\u66fe, \u5c0f\u5a9a",
+    "finish_time": "01:58:38",
+    "finish_seconds": 7118
+  },
+  {
+    "venue": "2025 Shenzhen",
+    "gender": "W",
+    "rank": 367,
+    "name": "\u8521, \u676d\u6653",
+    "finish_time": "01:58:55",
+    "finish_seconds": 7135
+  }
+]

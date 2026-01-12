@@ -1,0 +1,3266 @@
+[
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 1,
+    "name": "Mar\u00ed Vargas, Toni",
+    "finish_time": "00:59:51",
+    "finish_seconds": 3591
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 3,
+    "name": "George, Malcolm",
+    "finish_time": "01:04:52",
+    "finish_seconds": 3892
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 5,
+    "name": "LAW, CHUN YIP",
+    "finish_time": "01:04:59",
+    "finish_seconds": 3899
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 7,
+    "name": "Woods, Matthew",
+    "finish_time": "01:05:57",
+    "finish_seconds": 3957
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 10,
+    "name": "\u68ee, \u9999\u6a39",
+    "finish_time": "01:07:16",
+    "finish_seconds": 4036
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 12,
+    "name": "Widjaja, Daniel",
+    "finish_time": "01:07:57",
+    "finish_seconds": 4077
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 14,
+    "name": "Takeda, Ten",
+    "finish_time": "01:08:50",
+    "finish_seconds": 4130
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 16,
+    "name": "Liu, Henry",
+    "finish_time": "01:09:10",
+    "finish_seconds": 4150
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 18,
+    "name": "Chan, Jonathan",
+    "finish_time": "01:09:13",
+    "finish_seconds": 4153
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 20,
+    "name": "\u585a\u539f, \u5065\u592a",
+    "finish_time": "01:09:22",
+    "finish_seconds": 4162
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 22,
+    "name": "Oguchi, Wataru",
+    "finish_time": "01:09:42",
+    "finish_seconds": 4182
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 24,
+    "name": "TAKANO, HIROMI",
+    "finish_time": "01:10:10",
+    "finish_seconds": 4210
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 26,
+    "name": "\u6728\u66fd, \u771e\u4e4b",
+    "finish_time": "01:10:27",
+    "finish_seconds": 4227
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 28,
+    "name": "ISHIDA, KENICHI",
+    "finish_time": "01:11:21",
+    "finish_seconds": 4281
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 30,
+    "name": "Morcillo Gonz\u00e1lez, Juan Juli\u00e1n",
+    "finish_time": "01:11:35",
+    "finish_seconds": 4295
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 32,
+    "name": "Tay, Pesdy",
+    "finish_time": "01:11:49",
+    "finish_seconds": 4309
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 34,
+    "name": "O'Connor, Andy",
+    "finish_time": "01:12:03",
+    "finish_seconds": 4323
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 36,
+    "name": "Lau, Wen Loong",
+    "finish_time": "01:12:03",
+    "finish_seconds": 4323
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 38,
+    "name": "M\u00fcller, Hartmann-Georg",
+    "finish_time": "01:12:08",
+    "finish_seconds": 4328
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 40,
+    "name": "Allen, Rubin",
+    "finish_time": "01:12:25",
+    "finish_seconds": 4345
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 42,
+    "name": "\u6e21\u53e3, \u8056\u4ec1",
+    "finish_time": "01:12:32",
+    "finish_seconds": 4352
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 44,
+    "name": "Cho, Subin",
+    "finish_time": "01:12:37",
+    "finish_seconds": 4357
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 46,
+    "name": "TAKEDA, SHINSUKE",
+    "finish_time": "01:12:45",
+    "finish_seconds": 4365
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 48,
+    "name": "\u68ee\u6c38, \u60a0\u8f14",
+    "finish_time": "01:13:03",
+    "finish_seconds": 4383
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 50,
+    "name": "Franks, Leigh",
+    "finish_time": "01:13:29",
+    "finish_seconds": 4409
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 52,
+    "name": "\u4f50\u85e4, \u967d\u592a",
+    "finish_time": "01:13:32",
+    "finish_seconds": 4412
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 54,
+    "name": "NAKAMURA, TOMOTSUGU",
+    "finish_time": "01:13:45",
+    "finish_seconds": 4425
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 56,
+    "name": "Atkinson, Alando",
+    "finish_time": "01:13:52",
+    "finish_seconds": 4432
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 58,
+    "name": "Day, Ryan",
+    "finish_time": "01:14:21",
+    "finish_seconds": 4461
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 60,
+    "name": "Kirrbach, Christian",
+    "finish_time": "01:14:37",
+    "finish_seconds": 4477
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 62,
+    "name": "Vella, Peter",
+    "finish_time": "01:15:02",
+    "finish_seconds": 4502
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 64,
+    "name": "\u9577\u4e95, \u5efa\u90ce",
+    "finish_time": "01:15:11",
+    "finish_seconds": 4511
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 66,
+    "name": "Lim, Gi-Beom",
+    "finish_time": "01:15:21",
+    "finish_seconds": 4521
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 68,
+    "name": "Hayashi, Taichi",
+    "finish_time": "01:15:31",
+    "finish_seconds": 4531
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 70,
+    "name": "Straub, Michael",
+    "finish_time": "01:15:47",
+    "finish_seconds": 4547
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 72,
+    "name": "Reid, Tim",
+    "finish_time": "01:16:00",
+    "finish_seconds": 4560
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 74,
+    "name": "\u7530\u6751, \u4f91\u5927",
+    "finish_time": "01:16:05",
+    "finish_seconds": 4565
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 76,
+    "name": "Bi, Yuepeng",
+    "finish_time": "01:16:23",
+    "finish_seconds": 4583
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 78,
+    "name": "Jones, Brett",
+    "finish_time": "01:16:30",
+    "finish_seconds": 4590
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 80,
+    "name": "Hsu, Timothy",
+    "finish_time": "01:16:35",
+    "finish_seconds": 4595
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 82,
+    "name": "Sugihara, Namiki",
+    "finish_time": "01:16:57",
+    "finish_seconds": 4617
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 84,
+    "name": "Fung, Andrew",
+    "finish_time": "01:17:04",
+    "finish_seconds": 4624
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 86,
+    "name": "Plummer, Steven",
+    "finish_time": "01:17:14",
+    "finish_seconds": 4634
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 88,
+    "name": "\u677e\u5d8b, \u745e\u6a39",
+    "finish_time": "01:17:41",
+    "finish_seconds": 4661
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 90,
+    "name": "Fitzgerald, Ruairi",
+    "finish_time": "01:17:48",
+    "finish_seconds": 4668
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 92,
+    "name": "\u6749\u5c71, \u52dd\u54c9",
+    "finish_time": "01:17:50",
+    "finish_seconds": 4670
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 94,
+    "name": "Cock, Daniel",
+    "finish_time": "01:18:00",
+    "finish_seconds": 4680
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 96,
+    "name": "Yamaguchi, Kazuma",
+    "finish_time": "01:18:09",
+    "finish_seconds": 4689
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 98,
+    "name": "Chuah, Jim Chia Chin",
+    "finish_time": "01:18:26",
+    "finish_seconds": 4706
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 100,
+    "name": "Matsuo, Ryohei",
+    "finish_time": "01:18:39",
+    "finish_seconds": 4719
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 102,
+    "name": "Tham, Eugene",
+    "finish_time": "01:18:44",
+    "finish_seconds": 4724
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 104,
+    "name": "Brown, Hayden",
+    "finish_time": "01:18:46",
+    "finish_seconds": 4726
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 106,
+    "name": "Mendoza, Ferdinand",
+    "finish_time": "01:18:54",
+    "finish_seconds": 4734
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 108,
+    "name": "Ko, Yu Quan",
+    "finish_time": "01:19:02",
+    "finish_seconds": 4742
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 110,
+    "name": "Lai, Truman",
+    "finish_time": "01:19:05",
+    "finish_seconds": 4745
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 112,
+    "name": "Montgomery, Ben",
+    "finish_time": "01:19:47",
+    "finish_seconds": 4787
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 114,
+    "name": "Mangos, Alex",
+    "finish_time": "01:19:49",
+    "finish_seconds": 4789
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 116,
+    "name": "\u9ad8\u68a8, \u53cb\u8f14",
+    "finish_time": "01:19:52",
+    "finish_seconds": 4792
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 118,
+    "name": "\u514b\u4e5f, \u6e21\u8fba",
+    "finish_time": "01:19:53",
+    "finish_seconds": 4793
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 120,
+    "name": "Ulmer, Julian",
+    "finish_time": "01:20:16",
+    "finish_seconds": 4816
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 122,
+    "name": "Neville, Jack",
+    "finish_time": "01:20:19",
+    "finish_seconds": 4819
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 124,
+    "name": "Ebisuya, Shuto",
+    "finish_time": "01:20:25",
+    "finish_seconds": 4825
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 126,
+    "name": "Loriguet, Pierre-Emmanuel",
+    "finish_time": "01:20:34",
+    "finish_seconds": 4834
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 128,
+    "name": "Nagano, Ryota",
+    "finish_time": "01:20:39",
+    "finish_seconds": 4839
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 130,
+    "name": "Thomas, Greg",
+    "finish_time": "01:20:46",
+    "finish_seconds": 4846
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 132,
+    "name": "Oba, Ryosuke",
+    "finish_time": "01:20:53",
+    "finish_seconds": 4853
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 134,
+    "name": "Nguyen, Duy",
+    "finish_time": "01:20:56",
+    "finish_seconds": 4856
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 136,
+    "name": "Happach, Shane",
+    "finish_time": "01:21:02",
+    "finish_seconds": 4862
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 138,
+    "name": "kumamoto, kei",
+    "finish_time": "01:21:11",
+    "finish_seconds": 4871
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 140,
+    "name": "Yong, Leung Kwong Richard",
+    "finish_time": "01:21:27",
+    "finish_seconds": 4887
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 142,
+    "name": "Lusher, Ewan",
+    "finish_time": "01:21:30",
+    "finish_seconds": 4890
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 144,
+    "name": "Hatton, Miles",
+    "finish_time": "01:21:36",
+    "finish_seconds": 4896
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 146,
+    "name": "Tabuchi, Yuki",
+    "finish_time": "01:21:53",
+    "finish_seconds": 4913
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 148,
+    "name": "\u4e38\u5c71, \u5353\u90ce",
+    "finish_time": "01:21:55",
+    "finish_seconds": 4915
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 150,
+    "name": "Khodeir, Mohamed",
+    "finish_time": "01:22:00",
+    "finish_seconds": 4920
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 152,
+    "name": "Yau, Benjamin",
+    "finish_time": "01:22:04",
+    "finish_seconds": 4924
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 154,
+    "name": "Raschke, Johannes",
+    "finish_time": "01:22:20",
+    "finish_seconds": 4940
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 156,
+    "name": "\u7fbd\u5834, \u76f4\u4eba",
+    "finish_time": "01:22:24",
+    "finish_seconds": 4944
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 158,
+    "name": "\u4f73\u4e45, \u6ce2\u591a\u6c5f",
+    "finish_time": "01:22:26",
+    "finish_seconds": 4946
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 160,
+    "name": "\u4f91\u4ecb, \u7af9\u91ce",
+    "finish_time": "01:22:40",
+    "finish_seconds": 4960
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 162,
+    "name": "Tobin, Donal",
+    "finish_time": "01:22:51",
+    "finish_seconds": 4971
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 164,
+    "name": "\u4f0a\u5fd7\u5dba, \u5149\u4e80",
+    "finish_time": "01:23:05",
+    "finish_seconds": 4985
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 166,
+    "name": "Fierro, Alejandro",
+    "finish_time": "01:23:08",
+    "finish_seconds": 4988
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 168,
+    "name": "carreon, michael",
+    "finish_time": "01:23:11",
+    "finish_seconds": 4991
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 170,
+    "name": "\u51a8\u6240, \u5e83\u660e",
+    "finish_time": "01:23:17",
+    "finish_seconds": 4997
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 172,
+    "name": "\u83c5\u6cbc, \u5f18\u660e",
+    "finish_time": "01:23:24",
+    "finish_seconds": 5004
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 174,
+    "name": "\u67f3\u6fa4, \u9244\u4eba",
+    "finish_time": "01:23:36",
+    "finish_seconds": 5016
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 176,
+    "name": "\u5ca9\u5d0e, \u9054\u5fb3",
+    "finish_time": "01:23:40",
+    "finish_seconds": 5020
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 178,
+    "name": "\u9ad8\u91ce, \u8056\u5eb8",
+    "finish_time": "01:23:49",
+    "finish_seconds": 5029
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 180,
+    "name": "Cullen, Patrick",
+    "finish_time": "01:24:08",
+    "finish_seconds": 5048
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 182,
+    "name": "Uk, Harrisson",
+    "finish_time": "01:24:16",
+    "finish_seconds": 5056
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 184,
+    "name": "MIZUSAKI, YUSHUN",
+    "finish_time": "01:24:20",
+    "finish_seconds": 5060
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 186,
+    "name": "\u30a4\u30b7\u30aa\u30c9\u30ea, \u30a2\u30c4\u30b7",
+    "finish_time": "01:24:31",
+    "finish_seconds": 5071
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 188,
+    "name": "Boylan, Luke",
+    "finish_time": "01:24:49",
+    "finish_seconds": 5089
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 190,
+    "name": "Lindsay, Pete",
+    "finish_time": "01:24:54",
+    "finish_seconds": 5094
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 192,
+    "name": "Takikawa, Jiro",
+    "finish_time": "01:25:01",
+    "finish_seconds": 5101
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 194,
+    "name": "Nishi, Michihiro",
+    "finish_time": "01:25:13",
+    "finish_seconds": 5113
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 196,
+    "name": "Zybulski, Thomas",
+    "finish_time": "01:25:24",
+    "finish_seconds": 5124
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 198,
+    "name": "\u76f8\u99ac, \u5eb7\u5e73",
+    "finish_time": "01:25:26",
+    "finish_seconds": 5126
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 200,
+    "name": "\u5cb3\u79c0, \u6e21\u8fba",
+    "finish_time": "01:25:31",
+    "finish_seconds": 5131
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 202,
+    "name": "\u9ad9\u6728, \u5e1d\u6b74",
+    "finish_time": "01:25:41",
+    "finish_seconds": 5141
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 204,
+    "name": "\u4eca\u5225\u5e9c, \u5f70\u592a\u90ce",
+    "finish_time": "01:25:42",
+    "finish_seconds": 5142
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 206,
+    "name": "Kozuka, Takumi",
+    "finish_time": "01:25:56",
+    "finish_seconds": 5156
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 208,
+    "name": "SUZUKI, SHOTA",
+    "finish_time": "01:26:07",
+    "finish_seconds": 5167
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 210,
+    "name": "Morihashi, Kansuke",
+    "finish_time": "01:26:13",
+    "finish_seconds": 5173
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 212,
+    "name": "Okuma, Koichiro",
+    "finish_time": "01:26:36",
+    "finish_seconds": 5196
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 214,
+    "name": "\u52a0\u85e4, \u7950\u6a39",
+    "finish_time": "01:26:41",
+    "finish_seconds": 5201
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 216,
+    "name": "Oliverio, Dominick",
+    "finish_time": "01:26:50",
+    "finish_seconds": 5210
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 218,
+    "name": "\u6df3\u5e73, \u5468\u5ddd",
+    "finish_time": "01:27:00",
+    "finish_seconds": 5220
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 220,
+    "name": "Iwata, Takahiro",
+    "finish_time": "01:27:11",
+    "finish_seconds": 5231
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 222,
+    "name": "\u79cb\u5c71, \u6d69\u8f1d",
+    "finish_time": "01:27:28",
+    "finish_seconds": 5248
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 224,
+    "name": "Yakabe, Masatomo",
+    "finish_time": "01:27:40",
+    "finish_seconds": 5260
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 226,
+    "name": "Petersen, Jake",
+    "finish_time": "01:27:43",
+    "finish_seconds": 5263
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 228,
+    "name": "Jimenez Camcho, Fernando Ramon",
+    "finish_time": "01:27:50",
+    "finish_seconds": 5270
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 230,
+    "name": "Cayaban, Jhenard",
+    "finish_time": "01:27:53",
+    "finish_seconds": 5273
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 232,
+    "name": "\u85e4\u4e95, \u9686\u5f18",
+    "finish_time": "01:27:59",
+    "finish_seconds": 5279
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 234,
+    "name": "\u718a\u8c37, \u5b8f\u592a",
+    "finish_time": "01:27:59",
+    "finish_seconds": 5279
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 236,
+    "name": "Drake, Jack",
+    "finish_time": "01:28:04",
+    "finish_seconds": 5284
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 238,
+    "name": "\u8336\u5c71, \u96c5\u8cb4",
+    "finish_time": "01:28:06",
+    "finish_seconds": 5286
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 240,
+    "name": "TSENG, RILEY",
+    "finish_time": "01:28:09",
+    "finish_seconds": 5289
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 242,
+    "name": "KOBORI, YUTA",
+    "finish_time": "01:28:18",
+    "finish_seconds": 5298
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 244,
+    "name": "Dumlao, Ron",
+    "finish_time": "01:28:24",
+    "finish_seconds": 5304
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 246,
+    "name": "Hunter, Alan",
+    "finish_time": "01:28:30",
+    "finish_seconds": 5310
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 248,
+    "name": "KAWAGUCHI, NATSUKI",
+    "finish_time": "01:28:39",
+    "finish_seconds": 5319
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 250,
+    "name": "Samson Jr, William",
+    "finish_time": "01:28:45",
+    "finish_seconds": 5325
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 252,
+    "name": "\u767d\u77f3, \u660e\u88d5",
+    "finish_time": "01:28:53",
+    "finish_seconds": 5333
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 254,
+    "name": "Medina, Joe",
+    "finish_time": "01:28:57",
+    "finish_seconds": 5337
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 256,
+    "name": "MIYACHI, FUJIO",
+    "finish_time": "01:29:02",
+    "finish_seconds": 5342
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 258,
+    "name": "Xu, Xiao",
+    "finish_time": "01:29:08",
+    "finish_seconds": 5348
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 260,
+    "name": "\u85e4\u7530, \u76f4\u4e4b",
+    "finish_time": "01:29:09",
+    "finish_seconds": 5349
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 262,
+    "name": "Pascarel, Cyril",
+    "finish_time": "01:29:17",
+    "finish_seconds": 5357
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 264,
+    "name": "ryu, hideki",
+    "finish_time": "01:29:26",
+    "finish_seconds": 5366
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 266,
+    "name": "Lok, Ken Yue",
+    "finish_time": "01:29:34",
+    "finish_seconds": 5374
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 268,
+    "name": "Resnick, Kallan",
+    "finish_time": "01:29:37",
+    "finish_seconds": 5377
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 270,
+    "name": "Suzuki, Takahiro",
+    "finish_time": "01:29:44",
+    "finish_seconds": 5384
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 272,
+    "name": "Wong, Ka Fung",
+    "finish_time": "01:29:54",
+    "finish_seconds": 5394
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 274,
+    "name": "\u82f1\u9686, \u5409\u91ce",
+    "finish_time": "01:29:59",
+    "finish_seconds": 5399
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 276,
+    "name": "Amemiya, Takuya",
+    "finish_time": "01:30:01",
+    "finish_seconds": 5401
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 278,
+    "name": "\u967d\u5e73, \u6c60\u7530",
+    "finish_time": "01:30:17",
+    "finish_seconds": 5417
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 280,
+    "name": "\u5c0f\u83c5, \u4fee\u6597",
+    "finish_time": "01:30:30",
+    "finish_seconds": 5430
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 282,
+    "name": "Kuroda, Yoichi",
+    "finish_time": "01:30:32",
+    "finish_seconds": 5432
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 284,
+    "name": "\u5e38\u6728, \u6d69\u53f8",
+    "finish_time": "01:30:35",
+    "finish_seconds": 5435
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 286,
+    "name": "\u5b89\u85e4, \u967d\u5e73",
+    "finish_time": "01:30:35",
+    "finish_seconds": 5435
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 288,
+    "name": "SUZUKI, TOMOYA",
+    "finish_time": "01:30:39",
+    "finish_seconds": 5439
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 290,
+    "name": "Ito, Kenshiro",
+    "finish_time": "01:30:44",
+    "finish_seconds": 5444
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 292,
+    "name": "He, Huang",
+    "finish_time": "01:30:48",
+    "finish_seconds": 5448
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 294,
+    "name": "\u5e02\u5ddd, \u592a\u4e00",
+    "finish_time": "01:30:53",
+    "finish_seconds": 5453
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 296,
+    "name": "\u76f4\u5e78, \u8fd1\u85e4",
+    "finish_time": "01:31:03",
+    "finish_seconds": 5463
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 298,
+    "name": "Oliquino, Charles Julius",
+    "finish_time": "01:31:04",
+    "finish_seconds": 5464
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 300,
+    "name": "Gotianse, Ken",
+    "finish_time": "01:31:06",
+    "finish_seconds": 5466
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 302,
+    "name": "Pereira, Eiji",
+    "finish_time": "01:31:13",
+    "finish_seconds": 5473
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 304,
+    "name": "Okada, Kaito",
+    "finish_time": "01:31:19",
+    "finish_seconds": 5479
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 306,
+    "name": "Kaewpeng, Supakit",
+    "finish_time": "01:31:24",
+    "finish_seconds": 5484
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 308,
+    "name": "\u516a, \u7422",
+    "finish_time": "01:31:32",
+    "finish_seconds": 5492
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 310,
+    "name": "Tamagawa, Hiroyuki",
+    "finish_time": "01:31:34",
+    "finish_seconds": 5494
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 312,
+    "name": "Hardy, Kyal",
+    "finish_time": "01:31:40",
+    "finish_seconds": 5500
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 314,
+    "name": "Chan, Kei Jun",
+    "finish_time": "01:31:54",
+    "finish_seconds": 5514
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 316,
+    "name": "Taguchi, Motoyumi",
+    "finish_time": "01:32:05",
+    "finish_seconds": 5525
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 318,
+    "name": "Wang, Mingchang",
+    "finish_time": "01:32:14",
+    "finish_seconds": 5534
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 320,
+    "name": "Tam, Justin",
+    "finish_time": "01:32:20",
+    "finish_seconds": 5540
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 322,
+    "name": "Ong, Amos",
+    "finish_time": "01:32:34",
+    "finish_seconds": 5554
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 324,
+    "name": "AKITA, MASASHI",
+    "finish_time": "01:32:39",
+    "finish_seconds": 5559
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 326,
+    "name": "SALIM, QUDUS",
+    "finish_time": "01:32:47",
+    "finish_seconds": 5567
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 328,
+    "name": "\u4e95\u4e0b, \u654f\u5b5d",
+    "finish_time": "01:32:47",
+    "finish_seconds": 5567
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 330,
+    "name": "Yamaguchi, Shuhei",
+    "finish_time": "01:32:52",
+    "finish_seconds": 5572
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 332,
+    "name": "HAYASHI, HIDEAKI",
+    "finish_time": "01:33:01",
+    "finish_seconds": 5581
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 334,
+    "name": "Real, Jerico",
+    "finish_time": "01:33:03",
+    "finish_seconds": 5583
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 336,
+    "name": "Domingues, Anthony",
+    "finish_time": "01:33:09",
+    "finish_seconds": 5589
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 338,
+    "name": "Gallagher, Peter",
+    "finish_time": "01:33:18",
+    "finish_seconds": 5598
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 340,
+    "name": "\u9686\u5e73, \u4e95\u7b52",
+    "finish_time": "01:33:20",
+    "finish_seconds": 5600
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 342,
+    "name": "Teo, Ser Luck",
+    "finish_time": "01:33:25",
+    "finish_seconds": 5605
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 344,
+    "name": "Lau, Hin Shing",
+    "finish_time": "01:33:44",
+    "finish_seconds": 5624
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 346,
+    "name": "\u79cb\u7530, \u4e00\u6210",
+    "finish_time": "01:34:05",
+    "finish_seconds": 5645
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 348,
+    "name": "NAKAIMA, ATSUSHI",
+    "finish_time": "01:34:15",
+    "finish_seconds": 5655
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 350,
+    "name": "MATSUKI, YUSUKE",
+    "finish_time": "01:34:23",
+    "finish_seconds": 5663
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 352,
+    "name": "FUJISAKI, HITOSHI",
+    "finish_time": "01:34:25",
+    "finish_seconds": 5665
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 355,
+    "name": "Tsang, Savio",
+    "finish_time": "01:34:33",
+    "finish_seconds": 5673
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 357,
+    "name": "OKAMURA, RYO",
+    "finish_time": "01:34:44",
+    "finish_seconds": 5684
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 359,
+    "name": "Luper, Adam",
+    "finish_time": "01:34:49",
+    "finish_seconds": 5689
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 361,
+    "name": "Rodney, Shaune",
+    "finish_time": "01:35:00",
+    "finish_seconds": 5700
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 363,
+    "name": "Wang, Qinao",
+    "finish_time": "01:35:01",
+    "finish_seconds": 5701
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 365,
+    "name": "Salim, Asfar",
+    "finish_time": "01:35:04",
+    "finish_seconds": 5704
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 367,
+    "name": "\u4e2d\u8c37, \u9244\u4e5f",
+    "finish_time": "01:35:09",
+    "finish_seconds": 5709
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 369,
+    "name": "\u6cf0\u5e78, \u6b66\u90e8",
+    "finish_time": "01:35:12",
+    "finish_seconds": 5712
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 371,
+    "name": "Prole, Mark",
+    "finish_time": "01:35:20",
+    "finish_seconds": 5720
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 373,
+    "name": "Sanford, Harrison",
+    "finish_time": "01:35:29",
+    "finish_seconds": 5729
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 375,
+    "name": "Kusano, Fumio",
+    "finish_time": "01:35:40",
+    "finish_seconds": 5740
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 377,
+    "name": "Kosugi, Yukihiro",
+    "finish_time": "01:35:47",
+    "finish_seconds": 5747
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 379,
+    "name": "\u53cb\u5927, \u5c0f\u5800",
+    "finish_time": "01:35:51",
+    "finish_seconds": 5751
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 381,
+    "name": "Park, Sungkyu",
+    "finish_time": "01:36:01",
+    "finish_seconds": 5761
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 383,
+    "name": "Xiang, Eric",
+    "finish_time": "01:36:15",
+    "finish_seconds": 5775
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 385,
+    "name": "\u592a\u4e00, \u5c0f\u91ce\u5cf6",
+    "finish_time": "01:36:21",
+    "finish_seconds": 5781
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 387,
+    "name": "Choi, Eddie",
+    "finish_time": "01:36:23",
+    "finish_seconds": 5783
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 389,
+    "name": "Ohshiro, Yuto",
+    "finish_time": "01:36:27",
+    "finish_seconds": 5787
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 391,
+    "name": "Tan, Yixuan",
+    "finish_time": "01:36:33",
+    "finish_seconds": 5793
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 393,
+    "name": "\u6a4b\u672c, \u62d3\u4e5f",
+    "finish_time": "01:36:38",
+    "finish_seconds": 5798
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 395,
+    "name": "\u67f3\u6fa4, \u525b\u5fd7",
+    "finish_time": "01:36:41",
+    "finish_seconds": 5801
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 397,
+    "name": "\u9577\u5d0e, \u82b3\u5f25",
+    "finish_time": "01:37:01",
+    "finish_seconds": 5821
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 399,
+    "name": "\u7d14\u5e73, \u5916\u5c71",
+    "finish_time": "01:37:03",
+    "finish_seconds": 5823
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 401,
+    "name": "\u745b, \u5bfa\u672c",
+    "finish_time": "01:37:08",
+    "finish_seconds": 5828
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 403,
+    "name": "Oga-Baldwin, Quint",
+    "finish_time": "01:37:16",
+    "finish_seconds": 5836
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 405,
+    "name": "Ellinger, James",
+    "finish_time": "01:37:35",
+    "finish_seconds": 5855
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 407,
+    "name": "Tanaka, Shinichi",
+    "finish_time": "01:37:42",
+    "finish_seconds": 5862
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 409,
+    "name": "Ho, Edison",
+    "finish_time": "01:37:44",
+    "finish_seconds": 5864
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 411,
+    "name": "Kinukawa, Shotaro",
+    "finish_time": "01:37:55",
+    "finish_seconds": 5875
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 413,
+    "name": "\u4e95\u4e0a, \u51cc",
+    "finish_time": "01:37:56",
+    "finish_seconds": 5876
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 415,
+    "name": "\u5b89\u7530, \u88d5\u4e00",
+    "finish_time": "01:38:10",
+    "finish_seconds": 5890
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 417,
+    "name": "Murtaza, Omar",
+    "finish_time": "01:38:16",
+    "finish_seconds": 5896
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 419,
+    "name": "Go, John reyneil",
+    "finish_time": "01:38:18",
+    "finish_seconds": 5898
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 421,
+    "name": "Sanford, Tobias",
+    "finish_time": "01:38:21",
+    "finish_seconds": 5901
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 423,
+    "name": "GO, HANS DERRICK",
+    "finish_time": "01:38:26",
+    "finish_seconds": 5906
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 425,
+    "name": "Itami, Kanji",
+    "finish_time": "01:38:36",
+    "finish_seconds": 5916
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 427,
+    "name": "Mamuric, Antonio Luis Bautista",
+    "finish_time": "01:38:37",
+    "finish_seconds": 5917
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 429,
+    "name": "HIRATA, YUKI",
+    "finish_time": "01:38:39",
+    "finish_seconds": 5919
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 431,
+    "name": "\u60c7, \u7af9\u5185",
+    "finish_time": "01:38:59",
+    "finish_seconds": 5939
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 433,
+    "name": "\u9234\u6728, \u826f\u5247",
+    "finish_time": "01:39:05",
+    "finish_seconds": 5945
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 435,
+    "name": "\u6b63\u7530, \u9032",
+    "finish_time": "01:39:15",
+    "finish_seconds": 5955
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 437,
+    "name": "Olsson, Patrik",
+    "finish_time": "01:39:17",
+    "finish_seconds": 5957
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 439,
+    "name": "HIROKI, KAZUHIKO",
+    "finish_time": "01:39:21",
+    "finish_seconds": 5961
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 441,
+    "name": "Alcantara, Patrick",
+    "finish_time": "01:39:26",
+    "finish_seconds": 5966
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 443,
+    "name": "Tokunaga, Ryota",
+    "finish_time": "01:39:31",
+    "finish_seconds": 5971
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 445,
+    "name": "\u5800\u53e3, \u8c4a\u6a39",
+    "finish_time": "01:39:40",
+    "finish_seconds": 5980
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 447,
+    "name": "MIYAGI, MASAKI",
+    "finish_time": "01:39:46",
+    "finish_seconds": 5986
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 449,
+    "name": "Hongo, Kazuyasu",
+    "finish_time": "01:40:12",
+    "finish_seconds": 6012
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 451,
+    "name": "KWOK, WYE-KHE",
+    "finish_time": "01:40:12",
+    "finish_seconds": 6012
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 453,
+    "name": "Leung, Hei Man",
+    "finish_time": "01:40:21",
+    "finish_seconds": 6021
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 455,
+    "name": "\u795e\u539f, \u5065\u592a",
+    "finish_time": "01:40:32",
+    "finish_seconds": 6032
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 457,
+    "name": "Teasdale, Chris",
+    "finish_time": "01:40:38",
+    "finish_seconds": 6038
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 459,
+    "name": "\u6749\u5ca1, \u96c4\u54c9",
+    "finish_time": "01:40:42",
+    "finish_seconds": 6042
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 461,
+    "name": "\u6e21\u90e8, \u96c4\u6597",
+    "finish_time": "01:41:07",
+    "finish_seconds": 6067
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 463,
+    "name": "McAvoy, Sean",
+    "finish_time": "01:41:17",
+    "finish_seconds": 6077
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 465,
+    "name": "Ang, Roger",
+    "finish_time": "01:41:44",
+    "finish_seconds": 6104
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 467,
+    "name": "Okada, Yoshinori",
+    "finish_time": "01:42:08",
+    "finish_seconds": 6128
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 469,
+    "name": "Lau, Zachary",
+    "finish_time": "01:42:12",
+    "finish_seconds": 6132
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 471,
+    "name": "\ud669, \uac15\ud638",
+    "finish_time": "01:42:27",
+    "finish_seconds": 6147
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 473,
+    "name": "\u5c71\u897f, \u535a\u767b",
+    "finish_time": "01:42:33",
+    "finish_seconds": 6153
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 475,
+    "name": "Villacorte, Vince",
+    "finish_time": "01:42:47",
+    "finish_seconds": 6167
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 477,
+    "name": "Liang, Chien-Cheng",
+    "finish_time": "01:42:54",
+    "finish_seconds": 6174
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 479,
+    "name": "HARASHIMA, YUMA",
+    "finish_time": "01:43:10",
+    "finish_seconds": 6190
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 481,
+    "name": "Thorp, Sean",
+    "finish_time": "01:43:17",
+    "finish_seconds": 6197
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 483,
+    "name": "Manalac, Bernard",
+    "finish_time": "01:43:22",
+    "finish_seconds": 6202
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 485,
+    "name": "Mohamed, Nur Suhardi",
+    "finish_time": "01:43:29",
+    "finish_seconds": 6209
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 487,
+    "name": "\u653f\u88d5, \u65b0\u4e95",
+    "finish_time": "01:43:30",
+    "finish_seconds": 6210
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 489,
+    "name": "\u548c\u535a, \u5370\u5357",
+    "finish_time": "01:43:50",
+    "finish_seconds": 6230
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 491,
+    "name": "Nguyen, Hoang Minh",
+    "finish_time": "01:44:09",
+    "finish_seconds": 6249
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 493,
+    "name": "Sato, Shinichiro",
+    "finish_time": "01:44:38",
+    "finish_seconds": 6278
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 495,
+    "name": "TANAKA, YUKI",
+    "finish_time": "01:45:04",
+    "finish_seconds": 6304
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 497,
+    "name": "\u4e38\u5c71, \u6d69\u4e00",
+    "finish_time": "01:45:13",
+    "finish_seconds": 6313
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 499,
+    "name": "Md Nazim, Md Nazhan Arif",
+    "finish_time": "01:45:35",
+    "finish_seconds": 6335
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 501,
+    "name": "Habata, Yojiro",
+    "finish_time": "01:45:49",
+    "finish_seconds": 6349
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 503,
+    "name": "Disztl, Daniel",
+    "finish_time": "01:45:59",
+    "finish_seconds": 6359
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 505,
+    "name": "Mendoza, Tereynz Paul",
+    "finish_time": "01:46:02",
+    "finish_seconds": 6362
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 507,
+    "name": "TAKEDA, YASUAKI",
+    "finish_time": "01:46:13",
+    "finish_seconds": 6373
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 509,
+    "name": "Morris, Jay",
+    "finish_time": "01:46:22",
+    "finish_seconds": 6382
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 511,
+    "name": "Ho, Yin Cheuk Adrian",
+    "finish_time": "01:46:35",
+    "finish_seconds": 6395
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 513,
+    "name": "KANEOKI, RYOSUKE",
+    "finish_time": "01:46:50",
+    "finish_seconds": 6410
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 515,
+    "name": "Lai, Chee Kit",
+    "finish_time": "01:46:59",
+    "finish_seconds": 6419
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 517,
+    "name": "\u85e4\u7530, \u9756\u751f",
+    "finish_time": "01:47:14",
+    "finish_seconds": 6434
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 519,
+    "name": "Kaurah, Kishen",
+    "finish_time": "01:47:17",
+    "finish_seconds": 6437
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 521,
+    "name": "KOSHINO, MASUMI",
+    "finish_time": "01:47:28",
+    "finish_seconds": 6448
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 523,
+    "name": "WANG, CHENYI",
+    "finish_time": "01:47:38",
+    "finish_seconds": 6458
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 525,
+    "name": "Ito, Taro",
+    "finish_time": "01:47:41",
+    "finish_seconds": 6461
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 527,
+    "name": "Lo, Sung Yip Robin",
+    "finish_time": "01:47:52",
+    "finish_seconds": 6472
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 529,
+    "name": "Law, Daniel",
+    "finish_time": "01:48:15",
+    "finish_seconds": 6495
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 531,
+    "name": "urushibata, victor",
+    "finish_time": "01:48:26",
+    "finish_seconds": 6506
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 533,
+    "name": "Washizu, Leo",
+    "finish_time": "01:48:39",
+    "finish_seconds": 6519
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 535,
+    "name": "Barranco Xibille, Adan",
+    "finish_time": "01:48:47",
+    "finish_seconds": 6527
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 537,
+    "name": "Wong, Sy Haw",
+    "finish_time": "01:49:13",
+    "finish_seconds": 6553
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 539,
+    "name": "\u82f1\u78a9, \u674e",
+    "finish_time": "01:49:39",
+    "finish_seconds": 6579
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 541,
+    "name": "Sim, Dooly",
+    "finish_time": "01:49:46",
+    "finish_seconds": 6586
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 543,
+    "name": "Ikeda, Mitsuhito",
+    "finish_time": "01:49:58",
+    "finish_seconds": 6598
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 545,
+    "name": "\u5c71\u672c, \u88d5\u6587",
+    "finish_time": "01:50:08",
+    "finish_seconds": 6608
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 547,
+    "name": "Yeung, Felix",
+    "finish_time": "01:50:14",
+    "finish_seconds": 6614
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 549,
+    "name": "Navarrete, Deanisse",
+    "finish_time": "01:50:30",
+    "finish_seconds": 6630
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 551,
+    "name": "\u9f4b\u85e4, \u6075\u5f66",
+    "finish_time": "01:50:41",
+    "finish_seconds": 6641
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 553,
+    "name": "\u9ad8\u5d0e, \u5927",
+    "finish_time": "01:50:46",
+    "finish_seconds": 6646
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 555,
+    "name": "Bin Harith Merican, Firdaus Merican",
+    "finish_time": "01:50:55",
+    "finish_seconds": 6655
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 557,
+    "name": "Watanabe, Katsumi",
+    "finish_time": "01:51:07",
+    "finish_seconds": 6667
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 559,
+    "name": "Hortaleza, Alfonso",
+    "finish_time": "01:51:32",
+    "finish_seconds": 6692
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 561,
+    "name": "ZHANG, YAOZHE",
+    "finish_time": "01:51:42",
+    "finish_seconds": 6702
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 563,
+    "name": "SHEN, KEBIN",
+    "finish_time": "01:51:44",
+    "finish_seconds": 6704
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 565,
+    "name": "\u6b63\u66a2, \u6d45\u539f",
+    "finish_time": "01:52:36",
+    "finish_seconds": 6756
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 567,
+    "name": "Nakata, Kiyomi",
+    "finish_time": "01:52:45",
+    "finish_seconds": 6765
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 569,
+    "name": "\u8acf\u8a2a, \u88d5\u662d",
+    "finish_time": "01:53:26",
+    "finish_seconds": 6806
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 571,
+    "name": "\u5b89\u9023, \u9752\u67f3",
+    "finish_time": "01:54:02",
+    "finish_seconds": 6842
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "M",
+    "rank": 573,
+    "name": "Suazo, Daniel",
+    "finish_time": "01:54:23",
+    "finish_seconds": 6863
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 1,
+    "name": "Kumman, Pimchanok",
+    "finish_time": "01:07:14",
+    "finish_seconds": 4034
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 3,
+    "name": "Brusco, Sara",
+    "finish_time": "01:12:22",
+    "finish_seconds": 4342
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 5,
+    "name": "Hung, Pei Fang",
+    "finish_time": "01:13:09",
+    "finish_seconds": 4389
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 7,
+    "name": "KOIKE, MIENA",
+    "finish_time": "01:13:55",
+    "finish_seconds": 4435
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 9,
+    "name": "Horowitz, Jamie",
+    "finish_time": "01:14:52",
+    "finish_seconds": 4492
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 11,
+    "name": "Zhou, Jiazhen",
+    "finish_time": "01:15:47",
+    "finish_seconds": 4547
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 13,
+    "name": "Hirose, Rina",
+    "finish_time": "01:16:13",
+    "finish_seconds": 4573
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 15,
+    "name": "Aieda, Kiyomi",
+    "finish_time": "01:17:04",
+    "finish_seconds": 4624
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 17,
+    "name": "Leung, Janice",
+    "finish_time": "01:18:12",
+    "finish_seconds": 4692
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 19,
+    "name": "Mcinnes, Lauren",
+    "finish_time": "01:18:39",
+    "finish_seconds": 4719
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 21,
+    "name": "Kennedy-Goor, Millie",
+    "finish_time": "01:18:44",
+    "finish_seconds": 4724
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 23,
+    "name": "\u72e9\u91ce, \u88d5\u7f8e",
+    "finish_time": "01:19:02",
+    "finish_seconds": 4742
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 25,
+    "name": "Kedwell, Megan",
+    "finish_time": "01:19:11",
+    "finish_seconds": 4751
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 27,
+    "name": "Williams, Mai",
+    "finish_time": "01:19:15",
+    "finish_seconds": 4755
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 29,
+    "name": "Miyajima, Moe",
+    "finish_time": "01:19:31",
+    "finish_seconds": 4771
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 31,
+    "name": "\u5742\u4e0b, \u4e07\u91cc\u5b50",
+    "finish_time": "01:19:38",
+    "finish_seconds": 4778
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 33,
+    "name": "Jung, Yoojung",
+    "finish_time": "01:19:48",
+    "finish_seconds": 4788
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 35,
+    "name": "\u576a\u4e95, \u30df\u30b5\u30c8",
+    "finish_time": "01:20:31",
+    "finish_seconds": 4831
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 37,
+    "name": "Tanaka, Liana",
+    "finish_time": "01:20:45",
+    "finish_seconds": 4845
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 39,
+    "name": "\u4ff5, \u308b\u307f\u5b50",
+    "finish_time": "01:21:14",
+    "finish_seconds": 4874
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 41,
+    "name": "Sukeno, Stephanie",
+    "finish_time": "01:21:44",
+    "finish_seconds": 4904
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 43,
+    "name": "\u677e\u672c, \u5343\u4f73",
+    "finish_time": "01:22:22",
+    "finish_seconds": 4942
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 45,
+    "name": "Moriya, Mai",
+    "finish_time": "01:22:51",
+    "finish_seconds": 4971
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 47,
+    "name": "Wong, Brenda",
+    "finish_time": "01:23:03",
+    "finish_seconds": 4983
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 49,
+    "name": "Golke, Sandra",
+    "finish_time": "01:23:11",
+    "finish_seconds": 4991
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 51,
+    "name": "Raska, Shelley",
+    "finish_time": "01:23:28",
+    "finish_seconds": 5008
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 53,
+    "name": "KINOSHITA, TAKIKO",
+    "finish_time": "01:23:46",
+    "finish_seconds": 5026
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 55,
+    "name": "Iskandar, Melanie",
+    "finish_time": "01:24:01",
+    "finish_seconds": 5041
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 57,
+    "name": "Ono, Shiina",
+    "finish_time": "01:24:11",
+    "finish_seconds": 5051
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 59,
+    "name": "Shiraishi, Eri",
+    "finish_time": "01:24:22",
+    "finish_seconds": 5062
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 61,
+    "name": "Poa Fraza, Danielle",
+    "finish_time": "01:24:32",
+    "finish_seconds": 5072
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 63,
+    "name": "\u91ce\u4e2d, \u67da\u7d00",
+    "finish_time": "01:24:44",
+    "finish_seconds": 5084
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 65,
+    "name": "Cremer, Brianne",
+    "finish_time": "01:25:11",
+    "finish_seconds": 5111
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 67,
+    "name": "\u5c0f\u5ddd, \u667a\u5b50",
+    "finish_time": "01:25:22",
+    "finish_seconds": 5122
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 69,
+    "name": "\u6674\u5948, \u592a\u7530",
+    "finish_time": "01:25:48",
+    "finish_seconds": 5148
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 71,
+    "name": "\u539f\u7530, \u667a\u7f8e",
+    "finish_time": "01:26:18",
+    "finish_seconds": 5178
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 73,
+    "name": "Booth, Hollie",
+    "finish_time": "01:26:33",
+    "finish_seconds": 5193
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 75,
+    "name": "Pang, Jessica",
+    "finish_time": "01:26:47",
+    "finish_seconds": 5207
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 77,
+    "name": "Sutcliffe, Caroline",
+    "finish_time": "01:27:02",
+    "finish_seconds": 5222
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 79,
+    "name": "YOSHIDA, KAORU",
+    "finish_time": "01:27:56",
+    "finish_seconds": 5276
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 81,
+    "name": "Kusano, Mayu",
+    "finish_time": "01:28:06",
+    "finish_seconds": 5286
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 83,
+    "name": "LEE, YJ",
+    "finish_time": "01:28:19",
+    "finish_seconds": 5299
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 85,
+    "name": "Pulis, Jamie",
+    "finish_time": "01:28:34",
+    "finish_seconds": 5314
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 87,
+    "name": "Watanabe, Masami",
+    "finish_time": "01:28:40",
+    "finish_seconds": 5320
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 89,
+    "name": "Sison-Cortez, Bianca",
+    "finish_time": "01:29:04",
+    "finish_seconds": 5344
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 91,
+    "name": "\u6681\u5b50, \u65b0\u4e95",
+    "finish_time": "01:29:11",
+    "finish_seconds": 5351
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 93,
+    "name": "\u539f\u53e3, \u83dc\u7a42",
+    "finish_time": "01:29:35",
+    "finish_seconds": 5375
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 95,
+    "name": "FUJITA, NAOKO",
+    "finish_time": "01:29:59",
+    "finish_seconds": 5399
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 97,
+    "name": "Suen, Lockay",
+    "finish_time": "01:30:08",
+    "finish_seconds": 5408
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 99,
+    "name": "\u79cb\u5c71, \u5b9f\u7a42",
+    "finish_time": "01:30:28",
+    "finish_seconds": 5428
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 101,
+    "name": "Constantino, Marie Louise",
+    "finish_time": "01:30:41",
+    "finish_seconds": 5441
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 103,
+    "name": "Okubo, Tomoka",
+    "finish_time": "01:31:05",
+    "finish_seconds": 5465
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 105,
+    "name": "Shirai, Masako",
+    "finish_time": "01:31:39",
+    "finish_seconds": 5499
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 107,
+    "name": "ta, bich hang",
+    "finish_time": "01:31:50",
+    "finish_seconds": 5510
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 109,
+    "name": "SHENG, XINYI",
+    "finish_time": "01:32:19",
+    "finish_seconds": 5539
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 111,
+    "name": "Sonoqui, Elliot",
+    "finish_time": "01:32:26",
+    "finish_seconds": 5546
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 113,
+    "name": "Weisser, Maya",
+    "finish_time": "01:32:34",
+    "finish_seconds": 5554
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 115,
+    "name": "Suzuki, Risako",
+    "finish_time": "01:32:40",
+    "finish_seconds": 5560
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 117,
+    "name": "VILLALON, YUNISSAN CARMEL",
+    "finish_time": "01:32:53",
+    "finish_seconds": 5573
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 119,
+    "name": "Moran, Rachel",
+    "finish_time": "01:33:08",
+    "finish_seconds": 5588
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 121,
+    "name": "HOMMA, MICHIYO",
+    "finish_time": "01:33:18",
+    "finish_seconds": 5598
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 123,
+    "name": "\u5c71\u53e3, \u512a\u7d00",
+    "finish_time": "01:34:07",
+    "finish_seconds": 5647
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 125,
+    "name": "Tyson, Sophie",
+    "finish_time": "01:34:13",
+    "finish_seconds": 5653
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 127,
+    "name": "\u3084\u3059\u3060, \u3088\u3057\u3053",
+    "finish_time": "01:34:27",
+    "finish_seconds": 5667
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 129,
+    "name": "Yamamoto, Shia",
+    "finish_time": "01:34:43",
+    "finish_seconds": 5683
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 131,
+    "name": "Yip, On Ki",
+    "finish_time": "01:34:46",
+    "finish_seconds": 5686
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 133,
+    "name": "ARAI, SACHIKO",
+    "finish_time": "01:35:03",
+    "finish_seconds": 5703
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 135,
+    "name": "Leung, Hannah",
+    "finish_time": "01:35:06",
+    "finish_seconds": 5706
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 137,
+    "name": "Sinclair, Alexandra",
+    "finish_time": "01:35:21",
+    "finish_seconds": 5721
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 139,
+    "name": "Lim, Jasmin",
+    "finish_time": "01:36:01",
+    "finish_seconds": 5761
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 141,
+    "name": "Hur, Yurim",
+    "finish_time": "01:36:18",
+    "finish_seconds": 5778
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 143,
+    "name": "Shek, Envy",
+    "finish_time": "01:36:46",
+    "finish_seconds": 5806
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 145,
+    "name": "Ayrey, Nickola",
+    "finish_time": "01:37:12",
+    "finish_seconds": 5832
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 147,
+    "name": "\u5c0d\u99ac, \u7d75\u91cc\u5b50",
+    "finish_time": "01:37:33",
+    "finish_seconds": 5853
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 149,
+    "name": "Kamaludin, Marina",
+    "finish_time": "01:37:39",
+    "finish_seconds": 5859
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 151,
+    "name": "Khumcharoen, Patcharin",
+    "finish_time": "01:38:02",
+    "finish_seconds": 5882
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 153,
+    "name": "See, Shouyun",
+    "finish_time": "01:38:12",
+    "finish_seconds": 5892
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 155,
+    "name": "Thompson, Beth",
+    "finish_time": "01:38:22",
+    "finish_seconds": 5902
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 157,
+    "name": "S, K",
+    "finish_time": "01:38:23",
+    "finish_seconds": 5903
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 159,
+    "name": "Fukuhara, Yu",
+    "finish_time": "01:38:41",
+    "finish_seconds": 5921
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 161,
+    "name": "Riddell, Catriona",
+    "finish_time": "01:38:54",
+    "finish_seconds": 5934
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 163,
+    "name": "\u516b\u5c0b, \u4e9c\u5f25\u5b50",
+    "finish_time": "01:39:14",
+    "finish_seconds": 5954
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 165,
+    "name": "Tran, Jennifer",
+    "finish_time": "01:39:37",
+    "finish_seconds": 5977
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 167,
+    "name": "\u7f8e\u7a42, \u7be0\u5d0e",
+    "finish_time": "01:39:49",
+    "finish_seconds": 5989
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 169,
+    "name": "Chu, Shuk Han",
+    "finish_time": "01:39:59",
+    "finish_seconds": 5999
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 171,
+    "name": "Kurioka, Marina",
+    "finish_time": "01:40:11",
+    "finish_seconds": 6011
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 173,
+    "name": "YANG, YA CHEN",
+    "finish_time": "01:41:01",
+    "finish_seconds": 6061
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 175,
+    "name": "Sasaki, Takako",
+    "finish_time": "01:41:14",
+    "finish_seconds": 6074
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 177,
+    "name": "Doi, Mieko",
+    "finish_time": "01:41:41",
+    "finish_seconds": 6101
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 179,
+    "name": "Taniguchi, Haruna",
+    "finish_time": "01:41:51",
+    "finish_seconds": 6111
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 181,
+    "name": "\u8389\u4ee3, \u6751\u4e0a",
+    "finish_time": "01:42:17",
+    "finish_seconds": 6137
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 183,
+    "name": "Krisan, Patricia",
+    "finish_time": "01:42:40",
+    "finish_seconds": 6160
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 185,
+    "name": "Ritsuno, Nanaho",
+    "finish_time": "01:43:19",
+    "finish_seconds": 6199
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 187,
+    "name": "\u6238\u677e, \u5343\u7a42",
+    "finish_time": "01:43:33",
+    "finish_seconds": 6213
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 189,
+    "name": "MIURA, MOE",
+    "finish_time": "01:44:08",
+    "finish_seconds": 6248
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 191,
+    "name": "Hoang, Van",
+    "finish_time": "01:44:14",
+    "finish_seconds": 6254
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 193,
+    "name": "Aida, Nur",
+    "finish_time": "01:44:43",
+    "finish_seconds": 6283
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 195,
+    "name": "Fudaba, Chihiro",
+    "finish_time": "01:44:45",
+    "finish_seconds": 6285
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 197,
+    "name": "\u52a0\u85e4, \u7f8e\u5343\u6075",
+    "finish_time": "01:45:00",
+    "finish_seconds": 6300
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 199,
+    "name": "Pangan, Julien",
+    "finish_time": "01:45:14",
+    "finish_seconds": 6314
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 201,
+    "name": "Kim, Yoon",
+    "finish_time": "01:46:01",
+    "finish_seconds": 6361
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 203,
+    "name": "Horiuchi, Haruka",
+    "finish_time": "01:46:21",
+    "finish_seconds": 6381
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 205,
+    "name": "Phumipol, Kansinee",
+    "finish_time": "01:46:23",
+    "finish_seconds": 6383
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 207,
+    "name": "Hui, Sze Man",
+    "finish_time": "01:46:56",
+    "finish_seconds": 6416
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 209,
+    "name": "Cooper, Christina",
+    "finish_time": "01:47:16",
+    "finish_seconds": 6436
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 211,
+    "name": "\u77f3\u5ddd, \u6cbb\u5b50",
+    "finish_time": "01:47:30",
+    "finish_seconds": 6450
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 213,
+    "name": "Macabeo, Jannah",
+    "finish_time": "01:47:51",
+    "finish_seconds": 6471
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 215,
+    "name": "Manalo, Christine Nellie",
+    "finish_time": "01:48:09",
+    "finish_seconds": 6489
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 217,
+    "name": "Duong, Carla",
+    "finish_time": "01:48:36",
+    "finish_seconds": 6516
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 219,
+    "name": "Mosley, Ai",
+    "finish_time": "01:48:51",
+    "finish_seconds": 6531
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 221,
+    "name": "Li, Hsiang-Ting",
+    "finish_time": "01:48:57",
+    "finish_seconds": 6537
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 223,
+    "name": "Furumi, Junko",
+    "finish_time": "01:49:13",
+    "finish_seconds": 6553
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 225,
+    "name": "Arceo, Da\u2019z",
+    "finish_time": "01:49:19",
+    "finish_seconds": 6559
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 227,
+    "name": "Olalia, Norma Rae",
+    "finish_time": "01:49:35",
+    "finish_seconds": 6575
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 229,
+    "name": "Yu, Fang",
+    "finish_time": "01:50:07",
+    "finish_seconds": 6607
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 231,
+    "name": "Oneroa, Aroha",
+    "finish_time": "01:50:33",
+    "finish_seconds": 6633
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 233,
+    "name": "\u9234\u6728, \u670b\u5b50",
+    "finish_time": "01:51:58",
+    "finish_seconds": 6718
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 235,
+    "name": "Butterfly, Felly",
+    "finish_time": "01:52:08",
+    "finish_seconds": 6728
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 237,
+    "name": "Hines, Imogen",
+    "finish_time": "01:52:21",
+    "finish_seconds": 6741
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 239,
+    "name": "Pastrana, Monina",
+    "finish_time": "01:52:59",
+    "finish_seconds": 6779
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 241,
+    "name": "Berlow, Sarah",
+    "finish_time": "01:53:21",
+    "finish_seconds": 6801
+  },
+  {
+    "venue": "2025 Yokohama",
+    "gender": "W",
+    "rank": 243,
+    "name": "KUO, CHIACHEN",
+    "finish_time": "01:53:44",
+    "finish_seconds": 6824
+  }
+]
