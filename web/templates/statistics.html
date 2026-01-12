@@ -49,7 +49,7 @@
                         </thead>
                         <tbody>
                             {% for stat in stats_data %}
-                            <tr>
+                            <tr class="{{ 'baseline-row' if 'Baseline' in stat.correction_label else '' }}">
                                 <td class="rank-cell">{{ loop.index }}</td>
                                 <td class="venue-cell"><strong>{{ stat.name }}</strong></td>
                                 <td>{{ stat.count }}</td>
@@ -179,6 +179,16 @@
 
         .stats-table tbody tr:hover {
             background-color: #F7F9FC;
+        }
+
+        .stats-table tbody tr.baseline-row {
+            background-color: #DCFCE7;
+            /* Light Green */
+        }
+
+        .stats-table tbody tr.baseline-row:hover {
+            background-color: #D1FAE5;
+            /* Slightly darker green on hover */
         }
 
         .stats-table td {

@@ -2,21 +2,23 @@
 
 **Fair cross-venue performance comparison for HYROX athletes**
 
-HYROX Course Correct calculates venue-specific course correction factors that enable fair performance comparisons across different event locations. Different venues have varying run loop lengths, Roxzone distances, and layouts—this tool accounts for those differences.
+HYROX Course Correct alculates venue-specific course correction factors that enable fair performance comparisons across different event locations. Different venues have varying run loop lengths, Roxzone distances, and layouts—this tool accounts for those differences to normalize your time.
 
-![HYROX Course Correct](https://img.shields.io/badge/Season-8%20(2025%2F2026)-orange)
+![HYROX Course Correct](https://img.shields.io/badge/Season-8%20(2025%2F2026)-Complete-green)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![Flask](https://img.shields.io/badge/Flask-3.0+-green)
-![Tests](https://img.shields.io/badge/Tests-40%20passing-brightgreen)
+![SQLite](https://img.shields.io/badge/SQLite-3-blue)
+![Data](https://img.shields.io/badge/Records-58%2C000%2B-orange)
 
 ## ✨ Features
 
-- **🔄 Time Conversion**: Convert your finish time between 10 venues or to a normalized reference
-- **📊 Course Factors**: Statistical modeling based on 18,657 athlete results
-- **🌐 Web Interface**: Clean, modern web app for easy conversions
-- **📈 Data-Driven**: Analysis of top 1,000 finishers per venue (filtered for quality)
-- **🧪 Test Coverage**: 40 automated tests ensuring accuracy and reliability
-- **📍 10 Venues**: Comprehensive coverage across North America and Europe
+- **🔄 Time Conversion**: Convert your finish time between 44+ venues or to a normalized reference
+- **📊 Course Factors**: Robust statistical modeling based on **58,247** athlete results
+- **👫 Gender Specific**: Independent correction factors for Men and Women to account for biomechanical differences
+- **🌐 Web Interface**: Clean, modern web app with interactive charts and tables
+- **📈 Advanced Analysis**: Outlier-free distribution charts (box plots) and top-80% performance statistics
+- **🛡️ Quality Data**: Automatic filtering of errors and outliers (<50 min / >2.5 hours)
+- **📍 44 Venues**: Comprehensive coverage of the entire Season 8 calendar globally
 
 ## 🎯 Quick Start
 
@@ -56,52 +58,58 @@ That's it! The web app is now running locally.
 1. **Enter your finish time** (format: HH:MM:SS or MM:SS)
 2. **Select your venue** (where you competed)
 3. **Choose conversion target**:
-   - **Normalized**: Your time adjusted to reference venue
+   - **Normalized**: Your time adjusted to the reference venue (Rio de Janeiro 2025)
    - **Specific Venue**: What your time would be at another venue
 4. **Click "Convert Time"** to see your adjusted performance
 
 ### Venue Analysis
-- View performance distributions across all venues
-- Compare venue difficulty rankings
-- See statistics for 18,657 athletes
+- **Distribution Charts**: Interactive box plots showing finish time spreads (outliers hidden for clarity).
+- **Rankings**: Venues sorted by median finish time ("Mid-pack" performance).
+- **Gender Comparison**: Switch between Men's and Women's specific data views.
 
-### Example
+### Statistics
+- Detailed breakdown of **Fastest**, **Slowest**, and **Median** times per venue.
+- **Top 80% Filter**: Metrics are calculated using only the top 80% of finishers to ensure competitive relevance.
+- **Benchmarks**: Gender-specific mid-pack benchmarks for every venue.
 
-If you ran **1:25:00** at Frankfurt 2025, your time at London Excel 2025 would be **01:12:21** (12:39 faster) because London Excel is 15.7% faster than the reference venue.
+## 📊 Current Venue Factors (Season 8 Snapshot)
 
-## 📊 Current Venue Factors (Season 8, Phase 3)
+**Reference Venue:** 2025 Rio de Janeiro (Correction: 0.00%)
 
-| Rank | Venue | Course Factor | Difficulty | Median Time |
-|------|-------|---------------|------------|-------------|
-| 1 | London Excel 2025 | 0.843 | -15.7% (fastest) | 70.7 min |
-| 2 | Bordeaux 2025 | 0.913 | -8.7% | 76.6 min |
-| 3 | Dublin 2025 | 0.922 | -7.8% | 77.3 min |
-| 4 | Valencia 2025 | 0.965 | -3.5% | 81.0 min |
-| 5 | Frankfurt 2025 | 0.991 | -0.9% | 83.1 min |
-| 6 | **Maastricht 2025** | **1.000** | **Reference** | **83.9 min** |
-| 7 | Utrecht 2025 | 1.000 | +0.0% | 83.9 min |
-| 8 | Chicago 2025 | 1.039 | +3.9% | 87.2 min |
-| 9 | Atlanta 2025 | 1.067 | +6.7% | 89.5 min |
-| 10 | Anaheim 2025 | 1.071 | +7.1% (slowest) | 89.9 min |
+| Venue | Men's Factor | Women's Factor | Difficulty |
+|-------|--------------|----------------|------------|
+| **Dublin** | -7:02 | -6:56 | ⚡️ Fastest |
+| **Bordeaux** | -7:15 | -2:16 | ⚡️ Very Fast |
+| **London Excel** | -7:41 | -5:48 | ⚡️ Very Fast |
+| **Rio de Janeiro** | **0:00** | **0:00** | ⚖️ **Baseline** |
+| **Chicago** | +1:41 | -3:59 | 🏃 Mixed |
+| **Anaheim** | +6:13 | +6:24 | 🐢 Slow |
+| **Delhi** | +23:21 | +30:54 | 🔥 Hardest |
 
-**Dataset:** 18,657 results (10,000 Men, 8,657 Women) from top 1,000 finishers per venue, filtered to top 80% for venues with incomplete fields.
+*> Note: Positive factors mean the course is slower (you subtract time to normalize). Negative factors mean the course is faster (you add time).*
 
 ## 🔧 How It Works
 
-The system uses a **3-layer architecture**:
+The system uses a robust **4-layer architecture**:
 
-1. **Data Collection**: Automated Selenium scraper extracts results from HYROX results pages
-2. **Data Processing**: Cleans, validates, and filters results for quality
-3. **Statistical Analysis**: Calculates median-based handicap factors
-4. **Web Application**: Flask-based interface for easy time conversions
+1. **Data Collection**: Automated scripts (`update_season8_data.py`) scrape official HYROX results, handling multi-day events.
+2. **Data Storage**: Raw results are validated and stored in a **SQLite database** (`hyrox_results.db`) for efficient querying.
+3. **Statistical Analysis**: 
+   - filters outliers (<50m, >2.5h)
+   - calculates the **Median** finish time for each venue by gender
+   - determines a global median "Baseline Venue"
+   - computes the time difference (offset) for every other venue
+4. **Web Application**: Flask-based interface serves these insights dynamically.
 
 ### The Math
 
 ```
-Normalized Time = Raw Time / Venue Handicap
+Normalized Time = Raw Time - Venue Correction
 
-Example:
-01:12:21 = 01:25:00 / 0.991  (Frankfurt to normalized)
+Example (Men):
+You ran 1:10:00 at London Excel (-7:41 correction).
+Normalized = 1:10:00 - (-0:07:41) = 1:17:41
+(You add time because London is faster than the baseline)
 ```
 
 ## 📁 Project Structure
@@ -109,137 +117,78 @@ Example:
 ```
 hyroxcoursecorrect/
 ├── web/
-│   ├── app.py              # Flask application
-│   ├── templates/          # HTML templates
-│   └── static/             # CSS and JavaScript
+│   ├── app.py                  # Flask application & Analysis Logic
+│   ├── templates/              # HTML templates (Analysis, Stats, Home)
+│   ├── static/                 # CSS and JavaScript
+│   └── utils/                  # Helper modules (database, calculations)
 ├── execution/
-│   ├── scrape_venues.py    # Automated scraper (Selenium)
-│   ├── process_scraped_data.py
-│   ├── calculate_venue_handicap.py
-│   └── venues.json         # Venue configuration
-├── tests/
-│   ├── test_unit.py        # Unit tests
-│   ├── test_components.py  # Component tests
-│   └── test_integration.py # Integration tests
+│   ├── update_season8_data.py  # Main scraper for Season 8
+│   ├── populate_db_from_json.py # Database population utility
+│   ├── calculate_venue_handicap.py # Core math logic
+│   └── season_8_events.json    # Event configuration
 ├── data/
-│   ├── hyrox_9venues_100each.csv         # 18,657 results
-│   └── venue_handicaps_10venues_1000each.csv
-├── directives/
-│   └── *.md                # Process documentation
-├── progress_reports/       # Build reports
-├── requirements.txt
+│   ├── hyrox_results.db        # SQLite Database (The Source of Truth)
+│   ├── venue_corrections.json  # Pre-calculated factors for the UI
+│   └── backup_raw_results/     # JSON backups of raw scrapes
+├── tests/
+│   └── ...                     # Unit and Integration tests
 └── README.md
 ```
 
 ## 🚀 Advanced Usage
 
-### Running Tests
-
-```bash
-# Run all tests
-pytest tests/
-
-# Run with coverage
-pytest tests/ --cov=web --cov=execution
-
-# Run specific test categories
-pytest tests/test_unit.py          # Unit tests only
-pytest tests/test_integration.py   # Integration tests only
-```
-
 ### Updating Venue Data
 
-To scrape fresh data from HYROX results:
+To fetch the latest results (e.g., after a race weekend):
 
 ```bash
-# Scrape top 1000 results per venue
-python3 execution/scrape_venues.py --limit 1000
+# 1. Scrape new results (updates raw JSONs and Database)
+python3 execution/update_season8_data.py
 
-# Process scraped data (includes filtering)
-python3 execution/process_scraped_data.py
-
-# Calculate updated handicaps
+# 2. Recalculate correction factors based on new data
 python3 execution/calculate_venue_handicap.py \
-  --input data/hyrox_9venues_100each.csv \
-  --output data/venue_handicaps_10venues_1000each.csv
+  --input data/all_season8_results.csv \
+  --output data/venue_corrections.json
 ```
 
-### API Endpoints
+### Accessing the Database directly
 
-The web app exposes REST API endpoints:
+You can query the SQLite database for custom analysis:
 
-- `GET /` - Main time converter page
-- `GET /analysis` - Venue analysis page
-- `POST /convert` - Convert a finish time (JSON)
-- `GET /venues` - List all venues and their handicaps (JSON)
+```bash
+sqlite3 data/hyrox_results.db
+sqlite> SELECT venue, count(*) FROM race_results GROUP BY venue;
+```
 
-## 🧪 Testing
+## 📝 Methodology changes in v1.0
 
-The project includes a comprehensive test suite:
-
-- **40 tests** across 3 categories
-- **Unit Tests (13)**: Time parsing, formatting, handicap calculations
-- **Component Tests (14)**: Data processing, file validation, data quality
-- **Integration Tests (13)**: Flask API endpoints, error handling
-
-All tests run in < 1 second and validate:
-- ✅ Time conversion accuracy
-- ✅ Data integrity (no duplicates, valid times)
-- ✅ API endpoint functionality
-- ✅ Configuration file validity
-
-## 📝 Methodology
-
-The course correction factors are calculated using:
-
-1. **Data Collection**: Top 1,000 Men/Women Individual results per venue
-2. **Quality Filtering**: Top 80% of results for venues with <1,000 finishers (removes slow outliers)
-3. **Statistical Model**: Median-based handicap calculation
-4. **Reference Venue**: Auto-selected as median venue (Maastricht 2025)
-5. **Validation**: 40 automated tests + manual browser testing
-
-**Key Assumption**: Athlete populations are similar across venues, so performance differences reflect venue difficulty rather than athlete selection bias.
-
-### Handicap Evolution
-
-As the dataset grew from 100 to 1,000 results per venue, handicap factors refined:
-
-- London Excel: 0.890 → 0.843 (-5.24% change)
-- Atlanta: 1.034 → 1.067 (+3.27% change)
-- Maastricht: Stable at 1.000 (reference venue)
-
-The larger sample revealed that fast venues were underestimated and slow venues were underestimated in the smaller dataset.
+- **Top 80% Filtering**: We now exclude the bottom 20% of finishers when calculating averages and benchmarks to reduce the skew from walking/injured athletes.
+- **Gender Specificity**: Recognizing that "Run-heavy" vs "Sled-heavy" courses impact men and women differently, we now calculate separate baselines.
+- **Outlier Removal**: Times under 50 minutes and over 2.5 hours are strictly excluded from statistical models.
 
 ## 🤝 Contributing
 
 Contributions are welcome! Areas for improvement:
 
-- Monitor for Boston, Frankfurt, Seoul results (currently unavailable)
-- Implement gender-specific handicaps
-- Add percentile calculator
-- Create normalized global leaderboard
-- Mobile app development
+- [ ] Add previous seasons (Season 6, 7) for historical comparison
+- [ ] Create a "Percentile Calculator" (e.g., "You are in the top 15% of your age group")
+- [ ] Mobile-native app version (React Native / Swift)
+- [ ] API for 3rd party integrations
 
 ## ⚠️ Disclaimer
 
-Course correction factors are statistical estimates based on available data. Actual performance varies based on many factors including fitness, pacing, and conditions. Use these conversions as a guide, not absolute truth.
+Course correction factors are statistical estimates based on available public data. Actual performance varies based on fitness, pacing, temperature, and race-day conditions. Use these conversions as a guide, not absolute truth.
 
 ## 📄 License
 
-MIT License - feel free to use and modify
-
-## 🙏 Acknowledgments
-
-- HYROX community for the inspiration
-- 18,657 athletes whose results contributed to the analysis
-- Season 8 (2025/2026) event organizers
+MIT License - feel free to use and modify.
 
 ---
 
 **Built with ❤️ for the HYROX community**
 
-**Version:** 1.0.0 (Phase 3 Complete)  
-**Last Updated:** January 10, 2026  
-**Dataset:** 18,657 results across 10 venues
+**Version:** 1.0.0 (Season 8 Complete)  
+**Last Updated:** January 11, 2026  
+**Dataset:** 58,247 results across 44 venues  
 
 Questions? Open an issue or reach out!

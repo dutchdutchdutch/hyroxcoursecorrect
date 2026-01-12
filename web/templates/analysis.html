@@ -45,6 +45,19 @@
                 {% if admin_mode %}
                 <div id="overallChart" class="chart-container"></div>
                 {% endif %}
+
+                <!-- Integrated Chart Legend -->
+                <div class="chart-legend"
+                    style="margin-top: 1rem; padding-top: 1rem; border-top: 1px solid #E1E8ED; font-size: 0.9rem; color: #555;">
+                    <strong>Chart Legend:</strong>
+                    <ul
+                        style="list-style: none; padding: 0; margin-top: 0.5rem; display: flex; flex-wrap: wrap; gap: 1.5rem;">
+                        <li><strong>Text (e.g. 1:15):</strong> Median Time</li>
+                        <li><strong>Line in Box:</strong> Median Time</li>
+                        <li><strong>Box:</strong> Middle 50% (25th-75th percentile)</li>
+                        <li><strong>Vertical Line (Caps):</strong> Typical Range (Non-outliers)</li>
+                    </ul>
+                </div>
             </div>
 
             <div class="card">
@@ -85,8 +98,16 @@
                         <div class="rank-number">{{ loop.index }}</div>
                         <div class="rank-info">
                             <div class="rank-venue">{{ venue.name }}</div>
-                            <div class="rank-stats">
-                                Median: {{ venue.median }} | Average: {{ venue.mean }} | n={{ venue.count }}
+                            <div class="rank-stats" style="color: #444; font-size: 0.9rem;">
+                                <span style="font-weight:600; color: #2C3E50;">Mid-pack (median): {{ venue.median
+                                    }}</span>
+                                <span style="color: #999; margin: 0 0.5rem;">|</span>
+                                <span style="color: #666;">n={{ "{:,}".format(venue.count) }}</span>
+                                <span class="gender-medians" style="margin-left: 1.5rem;">
+                                    <strong>Mid pack men:</strong> {{ venue.median_men }}
+                                    <span style="margin: 0 0.75rem;"></span>
+                                    <strong>Mid pack women:</strong> {{ venue.median_women }}
+                                </span>
                             </div>
                         </div>
                     </div>
@@ -94,20 +115,6 @@
                 </div>
             </div>
 
-            <div class="info-card">
-                <h3>Understanding the Chart</h3>
-                <ul>
-                    <li><strong>Box:</strong> Middle 50% of finish times (25th to 75th percentile)</li>
-                    <li><strong>Line in Box:</strong> Venue Benchmark (median finish time)</li>
-                    <li><strong>× Symbol:</strong> Average (mean) finish time</li>
-                    <li><strong>Whiskers:</strong> Range of typical finish times (excluding outliers)</li>
-                    <li><strong>Dots:</strong> Individual outlier performances</li>
-                </ul>
-                <p style="margin-top: 1rem;">
-                    Venues with higher Venue Benchmark times are more difficult. The width of the box shows consistency—
-                    narrower boxes indicate more consistent finish times.
-                </p>
-            </div>
         </main>
 
         <footer>
@@ -171,40 +178,45 @@
         // Function to create a chart for specific gender
         function createChart(containerId, data, title) {
             // Create box plot traces
-            const traces = data.map(venue => ({
-                y: venue.times,
-                name: venue.name,
-                type: 'box',
-                boxmean: true,  // Show mean as dashed line
-                marker: {
-                    color: venue.color
-                }
-            }));
-
-            // Calculate median for each venue and create annotations
-            const annotations = data.map((venue, index) => {
+            const traces = data.map(venue => {
+                // Calculate median for hover display
                 const sortedTimes = [...venue.times].sort((a, b) => a - b);
-                const median = sortedTimes[Math.floor(sortedTimes.length / 2)];
+                const medianSec = sortedTimes[Math.floor(sortedTimes.length * 0.5)];
+                const medianStr = secondsToHMM(medianSec);
 
                 return {
-                    x: index,
-                    y: median,
-                    yshift: -5,  // Position 5 pixels below the median line
-                    text: `<b>${secondsToHMM(median)}</b>`,
-                    showarrow: false,
-                    font: {
-                        size: 11,
-                        color: '#004E89'
+                    y: venue.times,
+                    name: venue.name,
+                    type: 'box',
+                    boxpoints: false, // 1. Hide outliers (dots/bubbles)
+                    boxmean: false,
+                    marker: {
+                        color: venue.color
                     },
-                    xref: 'x',
-                    yref: 'y'
+                    line: {
+                        width: 2
+                    },
+                    // Custom hover template: Only show Median Time
+                    hovertemplate: `<b>${venue.name}</b><br>Median: ${medianStr}<extra></extra>`
                 };
+            });
+
+            // 3. Colored dots in horizontal axis labels
+            // We need to override ticktext to include colored dots
+            const venueNames = data.map(v => v.name);
+            const venueColors = data.map(v => v.color);
+
+            // Plotly doesn't support individual tick colors easily in layout.xaxis. 
+            // Workaround: Use HTML in tick text. <span style="color:...">●</span>
+            const coloredTickText = venueNames.map((name, i) => {
+                return `<span style="color: ${venueColors[i]}">●</span> ${name}`;
             });
 
             const layout = {
                 title: {
-                    text: `${title}<br><sub>Box = middle 50% | Line = Median | Dotted line = Average</sub>`,
-                    font: { size: 18, color: '#004E89' }
+                    text: `${title}`,
+                    font: { size: 18, color: '#004E89' },
+                    y: 0.95
                 },
                 yaxis: {
                     title: 'Finish Time (H:MM)',
@@ -214,16 +226,17 @@
                     ticktext: []
                 },
                 xaxis: {
-                    title: 'Venue',
-                    tickangle: -45
+                    tickangle: -45,
+                    tickmode: 'array',
+                    tickvals: venueNames.map((_, i) => i),
+                    ticktext: coloredTickText // Apply colored dots
                 },
                 plot_bgcolor: '#F7F9FC',
                 paper_bgcolor: 'white',
-                margin: { t: 80, b: 120, l: 80, r: 40 },
-                height: 550,
+                margin: { t: 60, b: 150, l: 60, r: 20 }, // Increased bottom margin for labels
+                height: 600,
                 showlegend: false,
-                hovermode: false,
-                annotations: annotations
+                hovermode: 'closest'
             };
 
             // Generate tick values and labels for y-axis (h:mm format)
@@ -239,9 +252,7 @@
 
             const config = {
                 responsive: true,
-                displayModeBar: true,
-                displaylogo: false,
-                modeBarButtonsToRemove: ['lasso2d', 'select2d']
+                displayModeBar: false // Clean look
             };
 
             Plotly.newPlot(containerId, traces, layout, config);

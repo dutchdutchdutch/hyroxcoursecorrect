@@ -248,10 +248,18 @@ def analysis():
             g = row['gender']
             t = row['finish_seconds']
             
+            # Filter outliers as requested:
+            # < 50 mins (3000s) likely errors
+            # > 2:30 (150 mins = 9000s) likely errors/injuries
+            if t < 3000 or t > 9000:
+                continue
+            
             if v not in venues_dist:
                 venues_dist[v] = {'all': [], 'M': [], 'W': []}
             venues_dist[v]['all'].append(t)
-            venues_dist[v][g].append(t)
+            # Use 'M' or 'W' directly as they match keys from row['gender']
+            if g in ['M', 'W']:
+                venues_dist[v][g].append(t)
 
         for idx, (venue, correction) in enumerate(sorted(men_corrections.items(), key=lambda x: x[1])):
             if venue not in venues_dist:
@@ -286,11 +294,29 @@ def analysis():
             
             if venue_times_all:
                 correction_pct = calculate_percentage_correction(correction, BASELINE_MEN_MEDIAN)
+                
+                # Calculate medians
+                overall_median_sec = sorted(venue_times_all)[len(venue_times_all) // 2]
+                
+                men_median_str = "N/A"
+                if venue_times_men:
+                    men_med_sec = sorted(venue_times_men)[len(venue_times_men) // 2]
+                    # Strip leading zero on hours if possible or just use standard format
+                    men_median_str = format_time(men_med_sec)
+                    if men_median_str.startswith("0"): men_median_str = men_median_str[1:] # e.g. 1:18
+
+                women_median_str = "N/A"
+                if venue_times_women:
+                    women_med_sec = sorted(venue_times_women)[len(venue_times_women) // 2]
+                    women_median_str = format_time(women_med_sec)
+                    if women_median_str.startswith("0"): women_median_str = women_median_str[1:]
+
                 venue_stats.append({
                     'name': venue,
                     'count': len(venue_times_all),
-                    'mean': format_time(sum(venue_times_all) / len(venue_times_all)),
-                    'median': format_time(sorted(venue_times_all)[len(venue_times_all) // 2]),
+                    'median': format_time(overall_median_sec),
+                    'median_men': men_median_str,
+                    'median_women': women_median_str,
                     'correction': correction,
                     'correction_pct': correction_pct,
                     'correction_display': format_correction(correction_pct),
@@ -369,15 +395,21 @@ def statistics():
     results = get_all_results()
     
     if results:
-        # Group by venue
+        # Group and filter by venue and gender (Top 80% only)
         venues_dist = {}
+        total_filtered_athletes = 0
+        
         for row in results:
             v = row['venue']
             g = row['gender']
             t = row['finish_seconds']
+            
+            # Basic error filtering first
+            if t < 3000 or t > 9000:
+                continue
+                
             if v not in venues_dist:
-                venues_dist[v] = {'all': [], 'M': [], 'W': []}
-            venues_dist[v]['all'].append(t)
+                venues_dist[v] = {'M': [], 'W': []}
             venues_dist[v][g].append(t)
 
         # Calculate detailed statistics for each venue
@@ -390,40 +422,51 @@ def statistics():
             if venue not in venues_dist:
                 continue
                 
-            venue_times = venues_dist[venue]['all']
-            men_times = venues_dist[venue]['M']
-            women_times = venues_dist[venue]['W']
+            men_times = sorted(venues_dist[venue]['M'])
+            women_times = sorted(venues_dist[venue]['W'])
             
-            if venue_times:
-                sorted_times = sorted(venue_times)
-                sorted_men = sorted(men_times)
-                sorted_women = sorted(women_times)
+            # Keep top 80% (fastest times are smaller numbers)
+            # Slice from 0 to 80th percentile index
+            men_cutoff_idx = int(len(men_times) * 0.8)
+            women_cutoff_idx = int(len(women_times) * 0.8)
+            
+            men_top80 = men_times[:men_cutoff_idx] if men_times else []
+            women_top80 = women_times[:women_cutoff_idx] if women_times else []
+            
+            all_top80 = men_top80 + women_top80
+            
+            # Skip if no data after filtering
+            if not all_top80:
+                continue
                 
-                # Standard Deviation: we can use a quick calculation here
-                import numpy as np
-                std_dev = np.std(venue_times)
-                
-                correction_pct = calculate_percentage_correction(correction, BASELINE_MEN_MEDIAN)
-                stats_data.append({
-                    'name': venue,
-                    'count': len(venue_times),
-                    'fastest': format_time(min(venue_times)),
-                    'slowest': format_time(max(venue_times)),
-                    'average': format_time(sum(venue_times) / len(venue_times)),
-                    'benchmark': format_time(sorted_times[len(sorted_times) // 2]),
-                    'men_benchmark': format_time(sorted_men[len(sorted_men) // 2]) if sorted_men else 'N/A',
-                    'women_benchmark': format_time(sorted_women[len(sorted_women) // 2]) if sorted_women else 'N/A',
-                    'std_dev': format_time(std_dev),
-                    'correction': correction,
-                    'correction_pct': correction_pct,
-                    'correction_display': format_correction(correction_pct),
-                    'correction_label': 'Baseline' if venue == BASELINE_VENUE else format_correction(correction_pct)
-                })
+            total_filtered_athletes += len(all_top80)
+            
+            sorted_all = sorted(all_top80)
+            
+            # Standard Deviation
+            import numpy as np
+            std_dev = np.std(sorted_all)
+            
+            correction_pct = calculate_percentage_correction(correction, BASELINE_MEN_MEDIAN)
+            stats_data.append({
+                'name': venue,
+                'count': len(all_top80),
+                'fastest': format_time(min(sorted_all)),
+                'slowest': format_time(max(sorted_all)),
+                'average': format_time(sum(sorted_all) / len(sorted_all)),
+                'men_benchmark': format_time(men_top80[len(men_top80) // 2]) if men_top80 else 'N/A',
+                'women_benchmark': format_time(women_top80[len(women_top80) // 2]) if women_top80 else 'N/A',
+                'std_dev': format_time(std_dev),
+                'correction': correction,
+                'correction_pct': correction_pct,
+                'correction_display': format_correction(correction_pct),
+                'correction_label': 'Baseline' if venue == BASELINE_VENUE else format_correction(correction_pct)
+            })
         
         return render_template('statistics.html',
                              stats_data=stats_data,
-                             total_athletes=len(results),
-                             num_venues=len(VENUE_CORRECTIONS),
+                             total_athletes=total_filtered_athletes,
+                             num_venues=len(stats_data),
                              show_feedback_popup=os.environ.get('HYROX_SHOW_FEEDBACK_POPUP', 'true').lower() == 'true')
     else:
         # No data available

@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Venue Analysis - HYROX Course Correct</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>🏃 HYROX Course Correct</h1>
+            <p class="subtitle">Venue Performance Analysis</p>
+        </header>
+
+        <nav class="nav-tabs">
+            <a href="/" class="nav-tab">Time Converter</a>
+            <a href="/analysis" class="nav-tab active">Venue Analysis</a>
+            <a href="/statistics" class="nav-tab">Statistics</a>
+        </nav>
+
+        <main>
+            <div class="card">
+                <h2>Venue Time Distribution</h2>
+                <p class="description">
+                    Box plot showing finish time distributions across venues. Select gender to view gender-specific
+                    performance patterns.
+                </p>
+
+                <!-- Chart Selector Tabs -->
+                <div class="chart-tabs">
+                    <button class="chart-tab active" onclick="showChart('men')">Men's Performance</button>
+                    <button class="chart-tab" onclick="showChart('women')">Women's Performance</button>
+                    {% if admin_mode %}
+                    <button class="chart-tab" onclick="showChart('overall')">Overall (Admin)</button>
+                    {% endif %}
+                </div>
+
+                <!-- Chart Containers -->
+                <div id="menChart" class="chart-container active"></div>
+                <div id="womenChart" class="chart-container"></div>
+                {% if admin_mode %}
+                <div id="overallChart" class="chart-container"></div>
+                {% endif %}
+
+                <!-- Integrated Chart Legend -->
+                <div class="chart-legend"
+                    style="margin-top: 1rem; padding-top: 1rem; border-top: 1px solid #E1E8ED; font-size: 0.9rem; color: #555;">
+                    <strong>Chart Legend:</strong>
+                    <ul
+                        style="list-style: none; padding: 0; margin-top: 0.5rem; display: flex; flex-wrap: wrap; gap: 1.5rem;">
+                        <li><strong>Text (e.g. 1:15):</strong> Median Time</li>
+                        <li><strong>Line in Box:</strong> Median Time</li>
+                        <li><strong>Box:</strong> Middle 50% (25th-75th percentile)</li>
+                        <li><strong>Vertical Line (Caps):</strong> Typical Range (Non-outliers)</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="card">
+                <h2>Statistical Summary</h2>
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-label">Fastest Venue</div>
+                        <div class="stat-value">{{ fastest_venue }}</div>
+                        <div class="stat-detail">Reference (1.000)</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-label">Slowest Venue</div>
+                        <div class="stat-value">{{ slowest_venue }}</div>
+                        <div class="stat-detail">{{ slowest_diff }}</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-label">Total Athletes</div>
+                        <div class="stat-value">{{ total_athletes }}</div>
+                        <div class="stat-detail">Across all venues</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-label">Venues Analyzed</div>
+                        <div class="stat-value">{{ num_venues }}</div>
+                        <div class="stat-detail">Season 8 (2025/26)</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <h2>Venue Rankings</h2>
+                <p class="description">
+                    Venues ranked by median finish time (fastest to slowest). Median finish times correlate strongly
+                    with venue benchmarks and course correction factors used in the time converter.
+                </p>
+                <div class="venue-ranking">
+                    {% for venue in venue_stats %}
+                    <div class="ranking-item">
+                        <div class="rank-number">{{ loop.index }}</div>
+                        <div class="rank-info">
+                            <div class="rank-venue">{{ venue.name }}</div>
+                            <div class="rank-stats" style="color: #444; font-size: 0.9rem;">
+                                <span style="font-weight:600; color: #2C3E50;">Mid-pack (median): {{ venue.median
+                                    }}</span>
+                                <span style="color: #999; margin: 0 0.5rem;">|</span>
+                                <span style="color: #666;">n={{ "{:,}".format(venue.count) }}</span>
+                                <span class="gender-medians" style="margin-left: 1.5rem;">
+                                    <strong>Mid pack men:</strong> {{ venue.median_men }}
+                                    <span style="margin: 0 0.75rem;"></span>
+                                    <strong>Mid pack women:</strong> {{ venue.median_women }}
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+
+        </main>
+
+        <footer>
+            <p>Built with ❤️ for the HYROX community | Season 8 (2025/2026)</p>
+        </footer>
+    </div>
+
+    <style>
+        .chart-tabs {
+            display: flex;
+            gap: 0.5rem;
+            margin-bottom: 1.5rem;
+            border-bottom: 2px solid #E1E8ED;
+        }
+
+        .chart-tab {
+            padding: 0.75rem 1.5rem;
+            background: none;
+            border: none;
+            border-bottom: 3px solid transparent;
+            color: #7F8C8D;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            margin-bottom: -2px;
+        }
+
+        .chart-tab:hover {
+            color: #FF6B35;
+        }
+
+        .chart-tab.active {
+            color: #FF6B35;
+            border-bottom-color: #FF6B35;
+        }
+
+        .chart-container {
+            display: none;
+            min-height: 550px;
+        }
+
+        .chart-container.active {
+            display: block;
+        }
+    </style>
+
+    <script>
+        // Venue data from Flask (contains all data, will filter by gender)
+        const venueDataAll = {{ venue_data | tojson }};
+        const menData = {{ men_data | tojson }};
+        const womenData = {{ women_data | tojson }};
+        const adminMode = {{ admin_mode | tojson }};
+
+        // Helper function to convert seconds to h:mm format
+        function secondsToHMM(seconds) {
+            const hours = Math.floor(seconds / 3600);
+            const minutes = Math.floor((seconds % 3600) / 60);
+            return `${hours}:${minutes.toString().padStart(2, '0')}`;
+        }
+
+        // Function to create a chart for specific gender
+        function createChart(containerId, data, title) {
+            // Function to calculate quartiles and whiskers
+            function getStats(sortedValues) {
+                const q1 = sortedValues[Math.floor(sortedValues.length * 0.25)];
+                const median = sortedValues[Math.floor(sortedValues.length * 0.5)];
+                const q3 = sortedValues[Math.floor(sortedValues.length * 0.75)];
+                const iqr = q3 - q1;
+                const min = Math.max(Math.min(...sortedValues), q1 - 1.5 * iqr);
+                const max = Math.min(Math.max(...sortedValues), q3 + 1.5 * iqr);
+                return { q1, median, q3, min, max };
+            }
+
+            // Create box plot traces
+            const traces = data.map(venue => ({
+                y: venue.times,
+                name: venue.name,
+                type: 'box',
+                boxpoints: false, // 1. Hide outliers (dots/bubbles)
+                boxmean: false,
+                marker: {
+                    color: venue.color
+                },
+                line: {
+                    width: 2
+                }
+            }));
+
+            // Create annotations (Alternating Median Labels)
+            const annotations = data.map((venue, index) => {
+                const sortedTimes = [...venue.times].sort((a, b) => a - b);
+                const stats = getStats(sortedTimes);
+                const isTop = index % 2 === 0; // Alternate: Even = Top, Odd = Bottom
+
+                // Position: Just above top whisker (cap) or below bottom whisker
+                // User asked for "median time" text to be placed there.
+
+                return {
+                    x: index,
+                    y: isTop ? stats.max : stats.min,
+                    yshift: isTop ? 15 : -15,
+                    text: `<b>${secondsToHMM(stats.median)}</b>`, // Display Median Time
+                    showarrow: false,
+                    font: {
+                        size: 11,
+                        color: '#2C3E50'
+                    },
+                    xref: 'x',
+                    yref: 'y'
+                };
+            });
+
+            // 3. Colored dots in horizontal axis labels
+            // We need to override ticktext to include colored dots
+            const venueNames = data.map(v => v.name);
+            const venueColors = data.map(v => v.color);
+
+            // Plotly doesn't support individual tick colors easily in layout.xaxis. 
+            // Workaround: Use HTML in tick text. <span style="color:...">●</span>
+            const coloredTickText = venueNames.map((name, i) => {
+                return `<span style="color: ${venueColors[i]}">●</span> ${name}`;
+            });
+
+            const layout = {
+                title: {
+                    text: `${title}`,
+                    font: { size: 18, color: '#004E89' },
+                    y: 0.95
+                },
+                yaxis: {
+                    title: 'Finish Time (H:MM)',
+                    gridcolor: '#E1E8ED',
+                    tickmode: 'array',
+                    tickvals: [],
+                    ticktext: []
+                },
+                xaxis: {
+                    tickangle: -45,
+                    tickmode: 'array',
+                    tickvals: venueNames.map((_, i) => i),
+                    ticktext: coloredTickText // Apply colored dots
+                },
+                plot_bgcolor: '#F7F9FC',
+                paper_bgcolor: 'white',
+                margin: { t: 60, b: 150, l: 60, r: 20 }, // Increased bottom margin for labels
+                height: 600,
+                showlegend: false,
+                hovermode: 'closest',
+                annotations: annotations
+            };
+
+            // Generate tick values and labels for y-axis (h:mm format)
+            const minTime = Math.min(...data.flatMap(v => v.times));
+            const maxTime = Math.max(...data.flatMap(v => v.times));
+            const startTick = Math.floor(minTime / 600) * 600;
+            const endTick = Math.ceil(maxTime / 600) * 600;
+
+            for (let tick = startTick; tick <= endTick; tick += 600) {
+                layout.yaxis.tickvals.push(tick);
+                layout.yaxis.ticktext.push(secondsToHMM(tick));
+            }
+
+            const config = {
+                responsive: true,
+                displayModeBar: false // Clean look
+            };
+
+            Plotly.newPlot(containerId, traces, layout, config);
+        }
+
+        // Function to switch between charts
+        function showChart(chartType) {
+            // Update tab active states
+            document.querySelectorAll('.chart-tab').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            event.target.classList.add('active');
+
+            // Update chart visibility
+            document.querySelectorAll('.chart-container').forEach(container => {
+                container.classList.remove('active');
+            });
+
+            if (chartType === 'men') {
+                document.getElementById('menChart').classList.add('active');
+            } else if (chartType === 'women') {
+                document.getElementById('womenChart').classList.add('active');
+            } else if (chartType === 'overall' && adminMode) {
+                document.getElementById('overallChart').classList.add('active');
+            }
+        }
+
+        // Initialize charts on page load
+        document.addEventListener('DOMContentLoaded', function () {
+            createChart('menChart', menData, "Men's Finish Time Distribution by Venue");
+            createChart('womenChart', womenData, "Women's Finish Time Distribution by Venue");
+            if (adminMode) {
+                createChart('overallChart', venueDataAll, 'Overall Finish Time Distribution by Venue');
+            }
+        });
+    </script>
+</body>
+
+</html>
