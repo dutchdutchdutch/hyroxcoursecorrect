@@ -71,6 +71,23 @@ def get_flag(venue_name):
             return flag
     return '🏳️'
 
+# Field strength adjustments applied to venues
+FIELD_STRENGTH_ADJUSTED = {
+    '2025 Mumbai': {'reduction': 20, 'reason': 'Field strength'},
+    '2025 Delhi': {'reduction': 10, 'reason': 'Field + environmental'},
+}
+
+def format_seconds_mmss(seconds):
+    """Format seconds as mm:ss with +/- sign for corrections."""
+    if seconds is None or seconds == 0:
+        return "0:00"
+    sign = "+" if seconds > 0 else "-"
+    abs_sec = abs(int(seconds))
+    mins = abs_sec // 60
+    secs = abs_sec % 60
+    return f"{sign}{mins}:{secs:02d}"
+
+
 def get_correction_table_data():
     """Prepare sorted list of venue corrections for the UI."""
     data = []
@@ -89,6 +106,12 @@ def get_correction_table_data():
         # Overall is roughly the average of the two percentages
         overall_pct = (men_pct + women_pct) / 2
         
+        # Average of men/women seconds for display
+        avg_sec = (men_sec + women_sec) / 2
+        
+        # Check if venue has field strength adjustment
+        field_adj = FIELD_STRENGTH_ADJUSTED.get(venue, None)
+        
         data.append({
             'name': venue,
             'flag': get_flag(venue),
@@ -98,17 +121,28 @@ def get_correction_table_data():
             'men_display': format_correction(men_pct),
             'women_display': format_correction(women_pct),
             'overall_display': format_correction(overall_pct),
-            'is_baseline': (venue == BASELINE_VENUE)
+            'men_mmss': format_seconds_mmss(men_sec),
+            'women_mmss': format_seconds_mmss(women_sec),
+            'overall_mmss': format_seconds_mmss(avg_sec),
+            'is_baseline': (venue == BASELINE_VENUE),
+            'field_adjusted': field_adj is not None,
+            'field_reduction': field_adj['reduction'] if field_adj else None,
+            'field_reason': field_adj['reason'] if field_adj else None
         })
     
     # Sort by Overall Percent (High to Low -> Faster to Slower)
-    # Wait, positive percent = faster. So High positive is fastest.
-    # User said "Rank venues by the overall factor". Usually fast to slow.
     data.sort(key=lambda x: x['overall_pct_val'], reverse=True)
     
-    return data
+    # Add rank indicator for top venues
+    for i, row in enumerate(data):
+        if i == 0:
+            row['rank_label'] = 'Fastest'
+        elif i == 1:
+            row['rank_label'] = '2nd Fastest'
+        else:
+            row['rank_label'] = None
     
-    return converted_time
+    return data
 
 
 
@@ -335,6 +369,7 @@ def analysis():
                              men_data=men_data,
                              women_data=women_data,
                              venue_stats=venue_stats,
+                             venue_rows=get_correction_table_data(),
                              fastest_venue=fastest_venue,
                              slowest_venue=slowest_venue,
                              slowest_diff=slowest_diff,
@@ -465,6 +500,7 @@ def statistics():
         
         return render_template('statistics.html',
                              stats_data=stats_data,
+                             venues=VENUES,
                              total_athletes=total_filtered_athletes,
                              num_venues=len(stats_data),
                              show_feedback_popup=os.environ.get('HYROX_SHOW_FEEDBACK_POPUP', 'true').lower() == 'true')
@@ -472,8 +508,69 @@ def statistics():
         # No data available
         return render_template('statistics.html',
                              stats_data=[],
+                             venues=VENUES,
                              total_athletes=0,
                              num_venues=0)
+
+
+@app.route('/api/distribution-data')
+def distribution_data():
+    """Return histogram data for finish time distribution."""
+    # Get filters from query params
+    genders = request.args.getlist('gender')  # ['M', 'W'] or subset
+    venues_filter = request.args.getlist('venue')  # Empty = all venues
+    
+    if not genders:
+        genders = ['M', 'W']  # Default to all
+    
+    results = get_all_results()
+    
+    if not results:
+        return jsonify({'bins': [], 'counts': [], 'venues': VENUES})
+    
+    # Filter data
+    times = []
+    for row in results:
+        t = row['finish_seconds']
+        g = row['gender']
+        v = row['venue']
+        
+        # Basic time filtering
+        if t < 3000 or t > 9000:
+            continue
+        
+        # Gender filter
+        if g not in genders:
+            continue
+        
+        # Venue filter (if specified)
+        if venues_filter and v not in venues_filter:
+            continue
+        
+        times.append(t)
+    
+    # Create histogram bins (5-minute intervals from 50min to 2h30)
+    # 50 min = 3000s, 2h30 = 9000s
+    bin_edges = list(range(3000, 9300, 300))  # 5-min bins
+    bin_labels = []
+    bin_counts = []
+    
+    for i in range(len(bin_edges) - 1):
+        start = bin_edges[i]
+        end = bin_edges[i + 1]
+        count = sum(1 for t in times if start <= t < end)
+        bin_counts.append(count)
+        # Label format: "1:00" for 60 mins
+        mins = start // 60
+        label = f"{mins // 60}:{mins % 60:02d}"
+        bin_labels.append(label)
+    
+    return jsonify({
+        'bins': bin_labels,
+        'counts': bin_counts,
+        'total': len(times),
+        'venues': VENUES
+    })
 
 
 @app.route('/feedback', methods=['POST'])

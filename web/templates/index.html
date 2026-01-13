@@ -95,68 +95,42 @@
             </div>
 
             <div class="card">
-                <h2>Course Correction Factors</h2>
+                <h2>How It Works</h2>
                 <p class="description">
-                    Course correction factors for Season 8 (2025/2026)
+                    Compare HYROX times fairly across different venues using our correction factors.
                 </p>
-                <div class="venue-list">
-                    <div class="venue-header">
-                        <div>Venue</div>
-                        <div style="text-align: center">Men</div>
-                        <div style="text-align: center">Women</div>
-                        <div style="text-align: center">Overall</div>
+                <div class="how-it-works">
+                    <div class="step">
+                        <div class="step-number">1</div>
+                        <h3>Enter Your Time</h3>
+                        <p>Input your finish time and the venue where you competed</p>
                     </div>
-
-                    {% for row in venue_rows %}
-                    <div class="venue-row {{ 'baseline-row' if row.is_baseline else '' }}">
-                        <div class="col-name">
-                            <span class="flag">{{ row.flag }}</span>
-                            {{ row.name }}
-                        </div>
-
-                        <div class="col-stat">
-                            {% if row.is_baseline %}
-                            <span class="badge baseline">Ref</span>
-                            {% else %}
-                            <span class="badge {{ 'positive' if row.men_pct_val > 0 else 'negative' }}">
-                                {{ row.men_display }}
-                            </span>
-                            {% endif %}
-                        </div>
-
-                        <div class="col-stat">
-                            {% if row.is_baseline %}
-                            <span class="badge baseline">Ref</span>
-                            {% else %}
-                            <span class="badge {{ 'positive' if row.women_pct_val > 0 else 'negative' }}">
-                                {{ row.women_display }}
-                            </span>
-                            {% endif %}
-                        </div>
-
-                        <div class="col-stat">
-                            {% if row.is_baseline %}
-                            <span class="badge baseline">Ref</span>
-                            {% else %}
-                            <span class="badge {{ 'positive' if row.overall_pct_val > 0 else 'negative' }}">
-                                {{ row.overall_display }}
-                            </span>
-                            {% endif %}
-                        </div>
+                    <div class="step">
+                        <div class="step-number">2</div>
+                        <h3>Select Target Venue</h3>
+                        <p>Choose the venue you want to compare against</p>
                     </div>
-                    {% endfor %}
+                    <div class="step">
+                        <div class="step-number">3</div>
+                        <h3>Get Corrected Time</h3>
+                        <p>See your equivalent time adjusted for course difficulty</p>
+                    </div>
                 </div>
+                <p style="margin-top: 1.5rem; text-align: center;">
+                    <a href="/analysis" style="color: var(--primary-color); font-weight: 600;">
+                        View all venue correction factors →
+                    </a>
+                </p>
             </div>
 
             <div class="info-card">
-                <h3>How It Works</h3>
+                <h3>Understanding the Factors</h3>
                 <p>
                     Different HYROX venues have varying layouts, run loop lengths, and Roxzone distances.
-                    This tool uses statistical modeling to calculate course correction factors that enable
-                    fair performance comparisons across venues.
+                    This tool uses statistical modeling to calculate course correction factors.
                 </p>
                 <ul>
-                    <li><strong>Normalized:</strong> Your time adjusted to the reference venue (correction = 0:00)</li>
+                    <li><strong>Normalized:</strong> Your time adjusted to the reference venue</li>
                     <li><strong>Venue-to-Venue:</strong> Convert your time to what it would be at a different venue</li>
                     <li><strong>Course Factor:</strong> Percentage showing how much harder/easier a venue is</li>
                 </ul>

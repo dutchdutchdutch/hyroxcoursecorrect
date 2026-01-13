@@ -4,10 +4,9 @@ Generate a comprehensive markdown summary report for each major build version or
 
 ## File Management
 
-- Create a progress-reports/ folder in the project root if it doesn't exist
-- Use ISO date format to start filename  and versions, in case there are multiples in one day) {YYYY-MM-DD}-v{version}-filename.md
+- Create a progress_reports/ folder in the project root, if it doesn't already exist
+- Use ISO date format to start filename   {YYYY-MM-DD}-v{version}-filename.md. We are using versions, in case there are multiple reports in one day)
 - Data and version to be followed by a descriptive name of the main update: examples "Phase 3 done", "Story XYZ done", "Priority Bug abc fixed"
-
 
 ## Report Structure
 The report should follow a hierarchical structure from high-level strategic overview to detailed technical implementation:

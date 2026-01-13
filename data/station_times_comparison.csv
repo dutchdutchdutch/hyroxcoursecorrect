@@ -1,0 +1,145 @@
+venue,venue_type,gender,station,rank,time_seconds
+London Excel,fast,M,Row,1,21
+London Excel,fast,M,Row,5,269
+London Excel,fast,M,Row,10,261
+London Excel,fast,M,Burpee,1,5
+London Excel,fast,M,Burpee,5,193
+London Excel,fast,M,Burpee,10,203
+London Excel,fast,M,Farmers_Carry,1,56
+London Excel,fast,M,Farmers_Carry,5,96
+London Excel,fast,M,Farmers_Carry,10,84
+London Excel,fast,M,Wall_Balls,1,64
+London Excel,fast,M,Wall_Balls,5,342
+London Excel,fast,M,Wall_Balls,10,262
+London Excel,fast,W,Row,1,267
+London Excel,fast,W,Row,5,316
+London Excel,fast,W,Row,10,313
+London Excel,fast,W,Burpee,1,2
+London Excel,fast,W,Burpee,5,10
+London Excel,fast,W,Burpee,10,206
+London Excel,fast,W,Farmers_Carry,1,79
+London Excel,fast,W,Farmers_Carry,5,102
+London Excel,fast,W,Farmers_Carry,10,110
+London Excel,fast,W,Wall_Balls,1,39
+London Excel,fast,W,Wall_Balls,5,269
+London Excel,fast,W,Wall_Balls,10,333
+Chicago,fast,M,Row,1,225
+Chicago,fast,M,Row,5,268
+Chicago,fast,M,Row,10,263
+Chicago,fast,M,Burpee,1,16
+Chicago,fast,M,Burpee,5,259
+Chicago,fast,M,Burpee,10,228
+Chicago,fast,M,Farmers_Carry,1,72
+Chicago,fast,M,Farmers_Carry,5,106
+Chicago,fast,M,Farmers_Carry,10,92
+Chicago,fast,M,Wall_Balls,1,206
+Chicago,fast,M,Wall_Balls,5,416
+Chicago,fast,M,Wall_Balls,10,281
+Chicago,fast,W,Row,1,262
+Chicago,fast,W,Row,5,314
+Chicago,fast,W,Row,10,318
+Chicago,fast,W,Burpee,1,188
+Chicago,fast,W,Burpee,5,304
+Chicago,fast,W,Burpee,10,329
+Chicago,fast,W,Farmers_Carry,1,77
+Chicago,fast,W,Farmers_Carry,5,113
+Chicago,fast,W,Farmers_Carry,10,115
+Chicago,fast,W,Wall_Balls,1,186
+Chicago,fast,W,Wall_Balls,5,334
+Chicago,fast,W,Wall_Balls,10,378
+Johannesburg,slow,M,Row,1,204
+Johannesburg,slow,M,Row,5,258
+Johannesburg,slow,M,Row,10,264
+Johannesburg,slow,M,Burpee,1,157
+Johannesburg,slow,M,Burpee,5,212
+Johannesburg,slow,M,Burpee,10,233
+Johannesburg,slow,M,Farmers_Carry,1,59
+Johannesburg,slow,M,Farmers_Carry,5,89
+Johannesburg,slow,M,Farmers_Carry,10,96
+Johannesburg,slow,M,Wall_Balls,1,212
+Johannesburg,slow,M,Wall_Balls,5,269
+Johannesburg,slow,M,Wall_Balls,10,299
+Johannesburg,slow,W,Row,1,271
+Johannesburg,slow,W,Row,5,287
+Johannesburg,slow,W,Row,10,297
+Johannesburg,slow,W,Burpee,1,215
+Johannesburg,slow,W,Burpee,5,281
+Johannesburg,slow,W,Burpee,10,300
+Johannesburg,slow,W,Farmers_Carry,1,63
+Johannesburg,slow,W,Farmers_Carry,5,101
+Johannesburg,slow,W,Farmers_Carry,10,109
+Johannesburg,slow,W,Wall_Balls,1,14
+Johannesburg,slow,W,Wall_Balls,5,261
+Johannesburg,slow,W,Wall_Balls,10,287
+Singapore,slow,M,Row,1,244
+Singapore,slow,M,Row,5,259
+Singapore,slow,M,Row,10,264
+Singapore,slow,M,Burpee,1,12
+Singapore,slow,M,Burpee,5,169
+Singapore,slow,M,Burpee,10,190
+Singapore,slow,M,Farmers_Carry,1,74
+Singapore,slow,M,Farmers_Carry,5,83
+Singapore,slow,M,Farmers_Carry,10,91
+Singapore,slow,M,Wall_Balls,1,6
+Singapore,slow,M,Wall_Balls,5,222
+Singapore,slow,M,Wall_Balls,10,238
+Singapore,slow,W,Row,1,279
+Singapore,slow,W,Row,5,290
+Singapore,slow,W,Row,10,298
+Singapore,slow,W,Burpee,1,175
+Singapore,slow,W,Burpee,5,219
+Singapore,slow,W,Burpee,10,245
+Singapore,slow,W,Farmers_Carry,1,83
+Singapore,slow,W,Farmers_Carry,5,97
+Singapore,slow,W,Farmers_Carry,10,105
+Singapore,slow,W,Wall_Balls,1,181
+Singapore,slow,W,Wall_Balls,5,234
+Singapore,slow,W,Wall_Balls,10,249
+Mumbai,slow,M,Row,1,253
+Mumbai,slow,M,Row,5,277
+Mumbai,slow,M,Row,10,283
+Mumbai,slow,M,Burpee,1,191
+Mumbai,slow,M,Burpee,5,222
+Mumbai,slow,M,Burpee,10,234
+Mumbai,slow,M,Farmers_Carry,1,59
+Mumbai,slow,M,Farmers_Carry,5,91
+Mumbai,slow,M,Farmers_Carry,10,96
+Mumbai,slow,M,Wall_Balls,1,209
+Mumbai,slow,M,Wall_Balls,5,269
+Mumbai,slow,M,Wall_Balls,10,301
+Mumbai,slow,W,Row,1,287
+Mumbai,slow,W,Row,5,315
+Mumbai,slow,W,Row,10,333
+Mumbai,slow,W,Burpee,1,183
+Mumbai,slow,W,Burpee,5,282
+Mumbai,slow,W,Burpee,10,320
+Mumbai,slow,W,Farmers_Carry,1,102
+Mumbai,slow,W,Farmers_Carry,5,121
+Mumbai,slow,W,Farmers_Carry,10,127
+Mumbai,slow,W,Wall_Balls,1,227
+Mumbai,slow,W,Wall_Balls,5,310
+Mumbai,slow,W,Wall_Balls,10,331
+Delhi,slow,M,Row,1,253
+Delhi,slow,M,Row,5,282
+Delhi,slow,M,Row,10,289
+Delhi,slow,M,Burpee,1,162
+Delhi,slow,M,Burpee,5,217
+Delhi,slow,M,Burpee,10,242
+Delhi,slow,M,Farmers_Carry,1,74
+Delhi,slow,M,Farmers_Carry,5,92
+Delhi,slow,M,Farmers_Carry,10,98
+Delhi,slow,M,Wall_Balls,1,196
+Delhi,slow,M,Wall_Balls,5,317
+Delhi,slow,M,Wall_Balls,10,329
+Delhi,slow,W,Row,1,308
+Delhi,slow,W,Row,5,337
+Delhi,slow,W,Row,10,347
+Delhi,slow,W,Burpee,1,209
+Delhi,slow,W,Burpee,5,304
+Delhi,slow,W,Burpee,10,339
+Delhi,slow,W,Farmers_Carry,1,103
+Delhi,slow,W,Farmers_Carry,5,116
+Delhi,slow,W,Farmers_Carry,10,129
+Delhi,slow,W,Wall_Balls,1,259
+Delhi,slow,W,Wall_Balls,5,329
+Delhi,slow,W,Wall_Balls,10,375

@@ -1,0 +1,78 @@
+athlete_name,nationality,venue_a,run_time_a,venue_b,run_time_b,observed_diff_seconds,observed_diff_pct,expected_diff_pct,delta_pct,validates
+"El Tantawi, Ahmed",N/A,Gent 2025,1:02:16,Paris 2025,1:04:21,125,3.3%,3.5%,-0.1%,Yes
+"Van Lierop, Stijn",N/A,Gent 2025,1:08:26,Maastricht 2025,1:11:23,177,4.3%,4.5%,-0.2%,Yes
+"Hofenboom, Ronny",N/A,Gent 2025,1:17:27,Maastricht 2025,1:21:06,219,4.7%,4.5%,0.2%,Yes
+"Van Den Bosch, Ester",N/A,Gent 2025,1:31:25,Maastricht 2025,1:35:40,255,4.6%,4.5%,0.2%,Yes
+"Heuzard, Nicolas",N/A,Maastricht 2025,1:10:50,Paris 2025,1:09:59,-51,-1.2%,-1.0%,-0.2%,Yes
+"Florentina, Raylie",N/A,Gent 2025,1:10:41,Utrecht 2025,1:15:20,279,6.6%,6.9%,-0.3%,Yes
+"Voisin, Joffrey",N/A,London Excel 2025,56:22,Paris 2025,1:03:23,421,12.4%,12.2%,0.3%,Yes
+"Cseh-Szombathy, Jonathan",N/A,Gent 2025,1:15:37,Utrecht 2025,1:21:14,337,7.4%,6.9%,0.5%,Yes
+"Fenne, Alma",N/A,Maastricht 2025,1:14:14,Utrecht 2025,1:15:25,71,1.6%,2.4%,-0.8%,Yes
+"Pollen, Marc",N/A,Maastricht 2025,1:16:45,Utrecht 2025,1:18:02,77,1.7%,2.4%,-0.8%,Yes
+"Verweij, Sophie",N/A,Hamburg 2025,1:11:05,Utrecht 2025,1:15:09,244,5.7%,4.8%,0.9%,Yes
+"Pavis, Louis",N/A,Maastricht 2025,1:04:18,Paris 2025,1:03:03,-75,-1.9%,-1.0%,-0.9%,Yes
+"Van Dieen, Esti",N/A,Maastricht 2025,1:13:41,Utrecht 2025,1:16:09,148,3.3%,2.4%,0.9%,Yes
+"Parkin, David",N/A,London Excel 2025,56:52,Maastricht 2025,1:03:43,411,12.0%,13.2%,-1.1%,Yes
+"Geilvoet, Merel",N/A,Maastricht 2025,1:23:51,Utrecht 2025,1:25:00,69,1.4%,2.4%,-1.1%,Yes
+"Huy, Luise",N/A,Hamburg 2025,1:16:48,Maastricht 2025,1:19:33,165,3.6%,2.4%,1.2%,Yes
+"Halliday, Graham",N/A,Hamburg 2025,57:30,Maastricht 2025,57:58,28,0.8%,2.4%,-1.5%,Yes
+"Pulley, Chris",N/A,London Excel 2025,1:15:56,Maastricht 2025,1:24:48,532,11.7%,13.2%,-1.5%,Yes
+"Mulder, Dario",N/A,Gent 2025,1:02:34,Utrecht 2025,1:07:57,323,8.6%,6.9%,1.7%,Yes
+"Manikam Ngaji, Laurencine",N/A,Gent 2025,1:16:09,Maastricht 2025,1:20:50,281,6.2%,4.5%,1.7%,Yes
+"Martinet, Vincent",N/A,Hamburg 2025,1:07:01,Paris 2025,1:09:06,125,3.1%,1.4%,1.8%,Yes
+"Deghorain, Antoine",N/A,Gent 2025,1:01:10,Maastricht 2025,1:05:09,239,6.5%,4.5%,2.0%,Yes
+"De Groot, Frank",N/A,Maastricht 2025,1:34:56,Utrecht 2025,1:35:22,26,0.5%,2.4%,-2.0%,Yes
+"Walther, Marlou",N/A,Hamburg 2025,1:10:57,Maastricht 2025,1:14:06,189,4.4%,2.4%,2.1%,Yes
+"Feld, Simone",N/A,Hamburg 2025,1:04:46,Maastricht 2025,1:07:45,179,4.6%,2.4%,2.2%,Yes
+"Lahmi, Florie",N/A,Gent 2025,1:06:57,Paris 2025,1:10:49,232,5.8%,3.5%,2.3%,Yes
+"Jouve, Olivier",N/A,London Excel 2025,57:07,Paris 2025,1:02:41,334,9.7%,12.2%,-2.4%,Yes
+"Bijwaard, Quinten",N/A,Gent 2025,1:05:57,Maastricht 2025,1:10:33,276,7.0%,4.5%,2.5%,Yes
+"Wennemars, Erben",N/A,Maastricht 2025,1:06:14,Utrecht 2025,1:06:07,-7,-0.2%,2.4%,-2.6%,Yes
+"Verbraeken, Jeroen",N/A,Gent 2025,1:01:47,Maastricht 2025,1:06:16,269,7.3%,4.5%,2.8%,Yes
+"Dupuy, Valerie",N/A,Gent 2025,1:42:49,Paris 2025,1:49:27,398,6.5%,3.5%,3.0%,Yes
+"Vandenlindenloof, Margot",N/A,Maastricht 2025,1:04:43,Paris 2025,1:06:05,82,2.1%,-1.0%,3.1%,Yes
+"Wiersma, Sil",N/A,Hamburg 2025,1:01:42,Utrecht 2025,1:06:37,295,8.0%,4.8%,3.2%,Yes
+"Darthout, Valentin",N/A,London Excel 2025,58:26,Paris 2025,1:07:31,545,15.5%,12.2%,3.4%,Yes
+"Charpentier, Anne-Caroline",N/A,London Excel 2025,1:02:11,Paris 2025,1:07:38,327,8.8%,12.2%,-3.4%,Yes
+"Degrijse, Valérie",N/A,Maastricht 2025,1:18:18,Paris 2025,1:14:35,-223,-4.7%,-1.0%,-3.7%,Yes
+"De Vliegere, Yannick",N/A,Maastricht 2025,1:08:27,Utrecht 2025,1:07:25,-62,-1.5%,2.4%,-3.9%,Yes
+"Marcelissen, Rob",N/A,Maastricht 2025,1:20:30,Utrecht 2025,1:19:11,-79,-1.6%,2.4%,-4.1%,Yes
+"Schrijvers, Sonja",N/A,Gent 2025,1:24:47,Maastricht 2025,1:24:54,7,0.1%,4.5%,-4.3%,Yes
+"Peters, Daisy",N/A,Gent 2025,1:15:21,Maastricht 2025,1:15:21,0,0.0%,4.5%,-4.5%,Yes
+"Wolke, Twan",N/A,Maastricht 2025,1:03:58,Utrecht 2025,1:02:36,-82,-2.1%,2.4%,-4.6%,Yes
+"Rijntjes, Rianne",N/A,Maastricht 2025,1:22:16,Utrecht 2025,1:28:03,347,7.0%,2.4%,4.6%,Yes
+"Rooke, Lisa",N/A,Chicago 2025,1:07:52,Toronto 2025,1:08:42,50,1.2%,5.9%,-4.7%,Yes
+"Zalm, Hans",N/A,Gent 2025,1:38:56,Utrecht 2025,1:50:47,711,12.0%,6.9%,5.1%,No
+"Ruprecht, Julia",N/A,Hamburg 2025,1:11:56,Maastricht 2025,1:17:19,323,7.5%,2.4%,5.1%,No
+"Spelde, Peter",N/A,Maastricht 2025,1:22:43,Utrecht 2025,1:20:29,-134,-2.7%,2.4%,-5.1%,No
+"Van Kalck, Nicolas",N/A,Maastricht 2025,2:00:40,Paris 2025,2:05:54,314,4.3%,-1.0%,5.3%,No
+"Bleeksma, Lloyd",N/A,Hamburg 2025,1:08:40,Utrecht 2025,1:08:14,-26,-0.6%,4.8%,-5.4%,No
+"Dooley, Paul",N/A,London Excel 2025,57:56,Paris 2025,1:01:49,233,6.7%,12.2%,-5.5%,No
+"Heerink, Guido",N/A,Maastricht 2025,1:11:55,Utrecht 2025,1:09:36,-139,-3.2%,2.4%,-5.6%,No
+"Aardenburg, Kees",N/A,Paris 2025,58:15,Utrecht 2025,1:03:30,315,9.0%,3.4%,5.6%,No
+"De Graaff, Leroy",N/A,Maastricht 2025,1:13:12,Utrecht 2025,1:10:37,-155,-3.5%,2.4%,-6.0%,No
+"Huiszoon, Raimond",N/A,Maastricht 2025,1:13:53,Utrecht 2025,1:11:12,-161,-3.6%,2.4%,-6.1%,No
+"Bos, Bobby",N/A,Gent 2025,1:01:19,Utrecht 2025,1:09:34,495,13.5%,6.9%,6.6%,No
+"Van Camp, Laurent",N/A,Gent 2025,1:15:01,Maastricht 2025,1:23:20,499,11.1%,4.5%,6.6%,No
+"Lambert, Marie",N/A,Gent 2025,1:09:16,Maastricht 2025,1:16:58,462,11.1%,4.5%,6.6%,No
+"De Leeuw, Bo",N/A,Maastricht 2025,1:20:02,Utrecht 2025,1:27:18,436,9.1%,2.4%,6.7%,No
+"Dangoisse, Antoine",N/A,Maastricht 2025,1:15:57,Paris 2025,1:09:57,-360,-7.9%,-1.0%,-6.9%,No
+"Lamant, Victor",N/A,London Excel 2025,1:16:42,Utrecht 2025,1:23:04,382,8.3%,15.6%,-7.3%,No
+"Baak, Femke",N/A,Maastricht 2025,1:15:28,Utrecht 2025,1:11:44,-224,-4.9%,2.4%,-7.4%,No
+"Lynam, Faye",N/A,Hamburg 2025,1:37:47,London Excel 2025,1:34:57,-170,-2.9%,-10.8%,7.9%,No
+"Udalova, Nadia",N/A,Maastricht 2025,1:12:42,Utrecht 2025,1:08:32,-250,-5.7%,2.4%,-8.2%,No
+"Van Rees, Rory",N/A,Maastricht 2025,1:12:22,Utrecht 2025,1:07:40,-282,-6.5%,2.4%,-8.9%,No
+"El Tantawi, Ahmed",N/A,Gent 2025,1:02:16,London Excel 2025,1:03:03,47,1.3%,-8.7%,10.0%,No
+"El Tantawi, Ahmed",N/A,London Excel 2025,1:03:03,Paris 2025,1:04:21,78,2.1%,12.2%,-10.1%,No
+"Guntermann, Bettina",N/A,Hamburg 2025,1:34:18,Maastricht 2025,1:46:34,736,13.0%,2.4%,10.6%,No
+"Van Den Berg, Tamara",N/A,Maastricht 2025,1:30:07,Utrecht 2025,1:22:39,-448,-8.3%,2.4%,-10.7%,No
+"Marion, Christophe",N/A,Gent 2025,1:06:38,Maastricht 2025,1:17:21,643,16.1%,4.5%,11.6%,No
+"Buiting, Frank",N/A,Maastricht 2025,1:21:22,Utrecht 2025,1:32:57,695,14.2%,2.4%,11.8%,No
+"Gerritzen, Dennis",N/A,Maastricht 2025,1:13:26,Utrecht 2025,1:24:02,636,14.4%,2.4%,12.0%,No
+"Travers, Aaron",N/A,London Excel 2025,57:51,Maastricht 2025,58:10,19,0.5%,13.2%,-12.6%,No
+"Kap, Wendy",N/A,Maastricht 2025,1:47:53,Utrecht 2025,1:36:05,-708,-10.9%,2.4%,-13.4%,No
+"Yu, Zhuang",N/A,Hamburg 2025,1:13:57,Paris 2025,1:25:30,693,15.6%,1.4%,14.3%,No
+"Mattsson, Karin",N/A,Hamburg 2025,1:02:14,London Excel 2025,1:04:43,149,4.0%,-10.8%,14.8%,No
+"Galan Romero, Santi",N/A,Hamburg 2025,1:46:04,London Excel 2025,1:51:03,299,4.7%,-10.8%,15.5%,No
+"Schudde, Tim",N/A,Hamburg 2025,1:22:54,Utrecht 2025,1:12:58,-596,-12.0%,4.8%,-16.8%,No
+"Van Drunen, Floris",N/A,Maastricht 2025,1:06:29,Utrecht 2025,1:43:50,2241,56.2%,2.4%,53.8%,No

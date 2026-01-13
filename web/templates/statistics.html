@@ -22,6 +22,47 @@
         </nav>
 
         <main>
+            <!-- Distribution Chart (moved above table) -->
+            <div class="card distribution-card">
+                <h2>Finish Time Distribution</h2>
+                <p class="description">
+                    Distribution of finish times across all athletes. Use filters to explore patterns by gender and
+                    venue.
+                </p>
+
+                <div class="distribution-filters">
+                    <div class="filter-group">
+                        <label>Gender:</label>
+                        <label class="checkbox-label">
+                            <input type="checkbox" id="filter-men" checked> Men
+                        </label>
+                        <label class="checkbox-label">
+                            <input type="checkbox" id="filter-women" checked> Women
+                        </label>
+                    </div>
+
+                    <div class="filter-group">
+                        <label for="venue-select">Venues:</label>
+                        <select id="venue-select" multiple>
+                            <option value="" selected>All Venues</option>
+                            {% for venue in venues %}
+                            <option value="{{ venue }}">{{ venue }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                </div>
+
+                <div class="chart-container" style="position: relative; height: 380px; margin-top: 1rem;">
+                    <canvas id="distributionChart"></canvas>
+                </div>
+
+                <p id="distribution-summary"
+                    style="margin-top: 1rem; text-align: center; font-size: 0.9rem; color: #666;">
+                    Loading...
+                </p>
+            </div>
+
+            <!-- Venue Performance Table -->
             <div class="card">
                 <h2>Venue Performance Statistics</h2>
                 <p class="description">
@@ -32,7 +73,7 @@
 
                 {% if stats_data %}
                 <div class="table-container">
-                    <table class="stats-table">
+                    <table class="stats-table" id="venue-stats-table">
                         <thead>
                             <tr>
                                 <th>Rank</th>
@@ -49,7 +90,8 @@
                         </thead>
                         <tbody>
                             {% for stat in stats_data %}
-                            <tr class="{{ 'baseline-row' if 'Baseline' in stat.correction_label else '' }}">
+                            <tr data-venue="{{ stat.name }}"
+                                class="{{ 'baseline-row' if 'Baseline' in stat.correction_label else '' }}">
                                 <td class="rank-cell">{{ loop.index }}</td>
                                 <td class="venue-cell"><strong>{{ stat.name }}</strong></td>
                                 <td>{{ stat.count }}</td>
@@ -221,6 +263,59 @@
             font-style: italic;
         }
 
+        /* Distribution Chart Card */
+        .distribution-card {
+            padding-bottom: 4rem;
+            margin-bottom: 2rem;
+        }
+
+        .distribution-card .chart-container {
+            overflow: visible;
+        }
+
+        /* Distribution Chart Filters */
+        .distribution-filters {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+            align-items: center;
+            margin-top: 1rem;
+        }
+
+        .filter-group {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+
+        .filter-group>label:first-child {
+            font-weight: 600;
+            color: #495057;
+        }
+
+        .checkbox-label {
+            display: flex;
+            align-items: center;
+            gap: 0.25rem;
+            cursor: pointer;
+        }
+
+        .checkbox-label input[type="checkbox"] {
+            width: 16px;
+            height: 16px;
+            accent-color: var(--primary-color);
+        }
+
+        #venue-select {
+            min-width: 200px;
+            max-width: 300px;
+            padding: 0.5rem;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            font-size: 0.9rem;
+            height: 80px;
+        }
+
         @media (max-width: 768px) {
             .stats-table {
                 font-size: 0.8rem;
@@ -230,8 +325,159 @@
             .stats-table td {
                 padding: 0.5rem;
             }
+
+            .distribution-filters {
+                flex-direction: column;
+                align-items: flex-start;
+            }
         }
     </style>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        let distributionChart = null;
+
+        async function fetchAndRenderChart() {
+            const includeMen = document.getElementById('filter-men').checked;
+            const includeWomen = document.getElementById('filter-women').checked;
+            const venueSelect = document.getElementById('venue-select');
+            const selectedVenues = Array.from(venueSelect.selectedOptions)
+                .map(opt => opt.value)
+                .filter(v => v !== '');
+
+            // Build query params
+            const params = new URLSearchParams();
+            if (includeMen) params.append('gender', 'M');
+            if (includeWomen) params.append('gender', 'W');
+            selectedVenues.forEach(v => params.append('venue', v));
+
+            try {
+                const response = await fetch('/api/distribution-data?' + params.toString());
+                const data = await response.json();
+                renderChart(data);
+            } catch (error) {
+                console.error('Error fetching distribution data:', error);
+            }
+        }
+
+        function renderChart(data) {
+            const ctx = document.getElementById('distributionChart').getContext('2d');
+
+            // Destroy old chart if exists
+            if (distributionChart) {
+                distributionChart.destroy();
+            }
+
+            // Update summary
+            const summaryEl = document.getElementById('distribution-summary');
+            summaryEl.textContent = `Showing ${data.total.toLocaleString()} athletes`;
+
+            // Create new chart
+            distributionChart = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: data.bins,
+                    datasets: [{
+                        label: 'Athletes',
+                        data: data.counts,
+                        backgroundColor: 'rgba(255, 107, 53, 0.7)',
+                        borderColor: 'rgba(255, 107, 53, 1)',
+                        borderWidth: 1,
+                        barPercentage: 1.0,
+                        categoryPercentage: 1.0
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    layout: {
+                        padding: {
+                            left: 10,
+                            right: 10,
+                            bottom: 10
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            display: false
+                        },
+                        tooltip: {
+                            callbacks: {
+                                title: function (context) {
+                                    return 'Finish time: ' + context[0].label;
+                                },
+                                label: function (context) {
+                                    return context.raw.toLocaleString() + ' athletes';
+                                }
+                            }
+                        }
+                    },
+                    scales: {
+                        x: {
+                            title: {
+                                display: true,
+                                text: 'Finish Time (h:mm)',
+                                font: { size: 11 }
+                            },
+                            ticks: {
+                                maxRotation: 45,
+                                minRotation: 45,
+                                font: { size: 10 },
+                                autoSkip: true,
+                                maxTicksLimit: 15
+                            }
+                        },
+                        y: {
+                            title: {
+                                display: true,
+                                text: 'Number of Athletes',
+                                font: { size: 11 }
+                            },
+                            beginAtZero: true,
+                            ticks: {
+                                font: { size: 10 }
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        function filterTable() {
+            const venueSelect = document.getElementById('venue-select');
+            const selectedVenues = Array.from(venueSelect.selectedOptions)
+                .map(opt => opt.value)
+                .filter(v => v !== '');
+
+            const table = document.getElementById('venue-stats-table');
+            if (!table) return;
+
+            const rows = table.querySelectorAll('tbody tr');
+            rows.forEach(row => {
+                const venueAttr = row.getAttribute('data-venue');
+                if (selectedVenues.length === 0) {
+                    // "All Venues" selected - show all
+                    row.style.display = '';
+                } else {
+                    // Show only matching venues
+                    row.style.display = selectedVenues.includes(venueAttr) ? '' : 'none';
+                }
+            });
+        }
+
+        function updateAll() {
+            fetchAndRenderChart();
+            filterTable();
+        }
+
+        // Event listeners
+        document.getElementById('filter-men').addEventListener('change', fetchAndRenderChart);
+        document.getElementById('filter-women').addEventListener('change', fetchAndRenderChart);
+        document.getElementById('venue-select').addEventListener('change', updateAll);
+
+        // Initial load
+        fetchAndRenderChart();
+    </script>
 </body>
 
 </html>

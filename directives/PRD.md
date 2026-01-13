@@ -99,20 +99,20 @@ Practical value: Make smarter decisions about training progress, race selection,
 3. **As an athlete or coach, I want to get a gauge of the relative length of the course, so that i can better compare my athletes across venues**
    - Example: Boston estimated to be 5% longer than average, therefore a .95 course correction factor is applied in the global ranking
 
-4. **As an athlete or coach, I want to see a normalized top 100 by division showing the normalized time and the original finish time, so that I can gauge the impact of the course correction factor**
-   - Example: Top 100 men based on course correction
+4. **As an athlete or coach, I want to see a normalized top 1,000 by division showing the normalized time and the original finish time, so that I can gauge the impact of the course correction factor**
+   - Example: Top 1,000 men based on course correction
 
 5. **As a user, I want to see a brief explanation of the course correction factors, so that I have more trust in the results provided**
    - Example: Comparing Bell curve plots per venue with average, mean and standard deviations
 
-### Additinal user stories
+### Additional user stories
 
 6. **As as an athlete or  coach I want to see finish times for per 10% of finishers range, so I can see how much I should improve to reach a certain placement goal**
 
 
 ## 6. Features
 
-Additional feature harnassing and criteria.
+Additional feature harnessing and criteria.
 
 ### 6.1 Course Correction Factor
 **Calculations:**
@@ -242,33 +242,46 @@ DONE: Validated 12/10/2025
 DONE: Validated 12/10/2025
 ---
 
-### Phase 4: Scale  and user tracking  
+### Phase 4: Scale  and user Feedback
 
 **Goal:** Production-ready MVP
 
 **Deliverables:**
 - ✅ Larger data sets. Include all season-8 (2025/2026) events to date and top 80% of scores per event.
-  - If a database is better than csv at this scale, switch to database. Use standard python SQLlite
-- ✅ Additional handicap clarication and validation:
-  - Ability to seperate womens and mens results but keep the aggregated results
+  - If a database is better than csv at this scale, switch to database. Use standard python SQlite
+- ✅ Additional handicap clarification and validation:
+  - Ability to separate women's and men's results but keep the aggregated results
   - Explanation of why the median is the strongest indicator. main insight(s) or evidence that lead to this conclusion
 - ✅ Venue time distribution chart updates:
-  - on the finsh time axis, convert the seconds to time in hours and minutes h/mm. use 10-minute intervals (600 seconds)
+  - on the finish time axis, convert the seconds to time in hours and minutes h/mm. use 10-minute intervals (600 seconds)
   - remove the rollovers and just plot the median time in h:mm (hours and minutes), right under the median line
   - add a simple legend directly near the chart explaining the plotter items mean, median, wider standard deviation area
   - Add an additional table on it's own page with results pulled per venue (clarify it's just the top 80%), fastest time, slowest time, number of scores pulled. mean, median, and standard deviations)
   - Rename  mean to average in the chart legend and the table (more user friendly). Rename median to Venue Benchmark in the chart legend and the table (more user friendly)
-- ✅ Gracefull error handling of user inputs
-- ✅ Mobile-responsive layout
-- ✅ User tracking tags (placeholders as needed)
+- ✅ Graceful error handling of user inputs
 - ✅ Gather User feedback with simple star and a comment (capture the comment). Feedback form link as the last item on the top menu
-
 
 **Validation:** Smooth user experience of primary stories.
 
+DONE: Validated 12/12/2025
 ---
+### Phase 5: Improve the course correction factors
 
-## 11. Future Considerations Phase 5 and onwards
+**Goal:** Improved validation of course correction factor
+
+NEXT
+- ✅ Course correction factor v2
+  - use the top 100 run times and roxzone times pros as reference to gauge run length
+  - find top 100 pros within each event that competed at multiple venues and use that to cross check the correction factor
+  - find top 200 individual competitors  (run times and roxzone times only) that competed at multiple venues and use that to cross check the correction factor
+  - hypothesize on other factors on why certain venues were slow, is it fitness level? heat or other factors ... validate
+-  ✅ Better Automate common tasks. e.g. documentation updates: readme update, report generation, test report generation. Consider making them commands
+
+**Validation** Cross check correction factor of pro and individual data with doubles data
+
+
+
+## 11. Future Considerations Phase 6 and onwards
 
 ### Post Phase 4 Enhancements
 - **Mobile first** - UX on mobile phones
@@ -277,7 +290,7 @@ DONE: Validated 12/10/2025
 - **Dark mode** — Similar to hyrox styling, more athletic looking
 - **Weekly/monthly reports** — Summary of new rankings and adjusted factors
 - **Additional divisions** Pro and Doubles
-- **Auto reporting** Plan summary before and after Development and running test suite
+-
 
 ### Technical Improvements
 - **Domain driven design** - Now that we know more about the data, consider refactoring with architectural principles in mind

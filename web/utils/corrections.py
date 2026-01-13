@@ -61,8 +61,9 @@ def format_correction(correction_percentage):
         >>> format_correction(0.02)
         '0.0%'
     """
-    if abs(correction_percentage) < 0.05:
-        return "0.0%"
+    if abs(correction_percentage) < 0.5:
+        return "0%"
     
-    sign = "+" if correction_percentage > 0 else ""
-    return f"{sign}{correction_percentage:.1f}%"
+    rounded = round(correction_percentage)
+    sign = "+" if rounded > 0 else ""
+    return f"{sign}{rounded}%"

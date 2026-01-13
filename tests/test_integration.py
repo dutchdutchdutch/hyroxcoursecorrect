@@ -10,6 +10,8 @@ from pathlib import Path
 
 # Add parent directory to path
 sys.path.insert(0, str(Path(__file__).parent.parent))
+# Add web directory so 'from utils import ...' works in app.py
+sys.path.insert(0, str(Path(__file__).parent.parent / 'web'))
 
 from web.app import app
 
@@ -43,24 +45,25 @@ class TestFlaskRoutes:
         
         data = response.get_json()
         assert isinstance(data, list)
-        assert len(data) == 10  # Should have 10 venues
+        assert len(data) >= 10  # Should have at least 10 venues (currently 44)
         
-        # Check structure of first venue
+        # Check structure of first venue (API uses correction, not handicap)
         first_venue = data[0]
         assert 'name' in first_venue
-        assert 'handicap' in first_venue
-        assert 'difficulty' in first_venue
+        assert 'correction' in first_venue
+        assert 'correction_display' in first_venue
 
 
 class TestTimeConversion:
     """Test time conversion API."""
     
     def test_convert_valid_time(self, client):
-        """Test converting a valid time."""
+        """Test converting a valid time with gender."""
         response = client.post('/convert', json={
             'finish_time': '01:30:00',
-            'from_venue': 'Anaheim 2025',
-            'to_venue': 'London Excel 2025'
+            'from_venue': '2025 Anaheim',
+            'to_venue': '2025 London Excel',
+            'gender': 'M'  # Gender is now required
         })
         
         assert response.status_code == 200
@@ -76,8 +79,9 @@ class TestTimeConversion:
         """Test converting to normalized time."""
         response = client.post('/convert', json={
             'finish_time': '01:30:00',
-            'from_venue': 'Anaheim 2025',
-            'to_venue': 'normalized'
+            'from_venue': '2025 Anaheim',
+            'to_venue': 'normalized',
+            'gender': 'M'  # Gender is now required
         })
         
         assert response.status_code == 200
@@ -88,8 +92,9 @@ class TestTimeConversion:
         """Test converting with invalid time format."""
         response = client.post('/convert', json={
             'finish_time': 'invalid',
-            'from_venue': 'Anaheim 2025',
-            'to_venue': 'London Excel 2025'
+            'from_venue': '2025 Anaheim',
+            'to_venue': '2025 London Excel',
+            'gender': 'M'
         })
         
         assert response.status_code == 400
@@ -101,7 +106,21 @@ class TestTimeConversion:
         response = client.post('/convert', json={
             'finish_time': '01:30:00',
             'from_venue': 'Unknown Venue',
-            'to_venue': 'London Excel 2025'
+            'to_venue': '2025 London Excel',
+            'gender': 'M'
+        })
+        
+        assert response.status_code == 400
+        data = response.get_json()
+        assert 'error' in data
+    
+    def test_convert_missing_gender(self, client):
+        """Test converting without gender returns error."""
+        response = client.post('/convert', json={
+            'finish_time': '01:30:00',
+            'from_venue': '2025 Anaheim',
+            'to_venue': '2025 London Excel'
+            # No gender provided
         })
         
         assert response.status_code == 400
@@ -109,34 +128,39 @@ class TestTimeConversion:
         assert 'error' in data
 
 
-class TestVenueHandicaps:
-    """Test venue handicap loading and validation."""
+class TestVenueCorrections:
+    """Test venue correction loading and validation."""
     
-    def test_all_venues_have_handicaps(self, client):
-        """Test that all venues have handicap factors."""
+    def test_all_venues_have_corrections(self, client):
+        """Test that all venues have correction factors."""
         response = client.get('/venues')
         data = response.get_json()
         
         for venue in data:
-            assert venue['handicap'] > 0
-            assert venue['handicap'] < 2  # Reasonable range
+            # API uses 'correction' field (seconds offset)
+            assert 'correction' in venue
+            # Corrections are additive offsets in seconds (can be negative or positive)
+            assert isinstance(venue['correction'], (int, float))
     
-    def test_reference_venue_exists(self, client):
-        """Test that reference venue (handicap = 1.0) exists."""
+    def test_baseline_venue_exists(self, client):
+        """Test that baseline venue (correction = 0.0) exists or identify reference."""
         response = client.get('/venues')
         data = response.get_json()
         
-        reference_venues = [v for v in data if abs(v['handicap'] - 1.0) < 0.01]
-        assert len(reference_venues) >= 1  # At least one reference venue
+        # Look for baseline venue marked in label
+        baseline_venues = [v for v in data if 'Baseline' in v.get('correction_label', '')]
+        # Should have at least one baseline/reference venue
+        assert len(baseline_venues) >= 1
     
-    def test_venues_sorted_by_handicap(self, client):
-        """Test that venues are sorted by handicap factor."""
+    def test_venues_sorted_by_correction(self, client):
+        """Test that venues are sorted by correction factor."""
         response = client.get('/venues')
         data = response.get_json()
         
-        handicaps = [v['handicap'] for v in data]
-        assert handicaps == sorted(handicaps)  # Should be sorted ascending
+        corrections = [v['correction'] for v in data]
+        assert corrections == sorted(corrections)  # Should be sorted ascending
 
 
 if __name__ == "__main__":
     pytest.main([__file__, "-v"])
+
